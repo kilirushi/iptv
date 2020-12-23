@@ -1,0 +1,1224 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetworkUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="USA",Cartoon Network UK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://media1.popsugar-assets.com/files/thumbor/R2_QMLh7826dbWm_iBmZiQzdz7U/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2013/12/08/391/n/1922283/9d0616c919fb935d_comedies.jpg" group-title="TV TÀU", Horror, Comedy
+http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/44/Major_Konoha.jpg" group-title="TV TÀU", Naruto
+http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://image1.infogame.vn/2018/09/19/1-su-that-ve-trum-cuoi-trong-tham-tu-lung-danh-conan-1442496956781-0-0-325-636-crop-1442497058898.jpg" group-title="TV TÀU", Conan
+http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="http://photoservice.gamesao.vn/Resources/Upload/Images/News/b939fe9a-5e34-4957-be98-0e120466a933.jpg" group-title="TV TÀU", One piece
+http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Jackie Chan
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="http://images4.fanpop.com/image/photos/20600000/Walt-Disney-Characters-Wallpaper-walt-disney-characters-20639991-1440-900.jpg" group-title="TV TÀU", Disney
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://media1.mensxp.com/media/content/2017/Sep/upcoming-hollywood-movies-you-shouldnt-miss-1400x653-1505901970_1100x513.jpg" group-title="TV TÀU", Infinity War
+http://js.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://data1.ibtimes.co.in/cache-img-900-0-photo/en/full/63957/1492062294_fast-furious-8-upcoming-hollywood-action-film-directed-by-f-gary-gray-written-by-chris-morgan.jpg" group-title="TV TÀU", Fast and Furious
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://image1.infogame.vn/2017/03/17/108_than-ky-thumb.jpg" group-title="TV TÀU", Doraemon
+http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com:80/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 5
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Sky Cinema Action FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3807.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://ares.dominium.tv:6923/live/vin/1234/22432.m3u8
+#EXTINF:-1,Sky Cinema Action  1 HD
+http://ares.dominium.tv:6923/live/vin/1234/22433.m3u8
+#EXTINF:-1,Sky Cinema Suspence FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3821.m3u8
+#EXTINF:-1,Sky Cinema Suspence HD
+http://ares.dominium.tv:6923/live/vin/1234/22431.m3u8
+#EXTINF:-1,Sky Cinema Drama FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/22348.m3u8
+#EXTINF:-1,Sky Cinema Drama HD
+http://ares.dominium.tv:6923/live/vin/1234/22437.m3u8
+#EXTINF:-1,Sky Cinema Romance FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3663.m3u8
+#EXTINF:-1,Sky Cinema Romance HD
+http://ares.dominium.tv:6923/live/vin/1234/22439.m3u8
+#EXTINF:-1,Sky Cinema Comedy FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3236.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://ares.dominium.tv:6923/live/vin/1234/22438.m3u8
+#EXTINF:-1,Sky Cinema Uno FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/22414.m3u8
+#EXTINF:-1,Sky Cinema Uno HD
+http://ares.dominium.tv:6923/live/vin/1234/3806.m3u8
+#EXTINF:-1,Sky Cinema Uno HD +1
+http://ares.dominium.tv:6923/live/vin/1234/22416.m3u8
+#EXTINF:-1,Sky Cinema Due FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/22415.m3u8
+#EXTINF:-1,Sky Cinema Due HD
+http://ares.dominium.tv:6923/live/vin/1234/4148.m3u8
+#EXTINF:-1,Sky Cinema Collection FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3820.m3u8
+#EXTINF:-1,Sky Cinema Collection HD
+http://ares.dominium.tv:6923/live/vin/1234/22434.m3u8
+#EXTINF:-1,SKY Cinema Family FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3237.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://ares.dominium.tv:6923/live/vin/1234/22435.m3u8
+#EXTINF:-1,Sky Cinema Family  1 HD
+http://ares.dominium.tv:6923/live/vin/1234/22436.m3u8
+
+
+
+#EXTINF:-1,18 The Story of MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1845.mp4
+#EXTINF:-1,17 The Best Bits of MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1843.mp4
+#EXTINF:-1,16 The Bus Stop DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1842.mp4
+#EXTINF:-1,15 The Library DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1841.mp4
+#EXTINF:-1,14 The Trouble with MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1840.mp4
+#EXTINF:-1,13 Merry Chistmas, MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1839.mp4
+#EXTINF:-1,12 Tee Off, MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1838.mp4
+#EXTINF:-1,11 Back To School, MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1837.mp4
+#EXTINF:-1,10 The Return of MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1836.mp4
+#EXTINF:-1,09 Hair by MrBean of London DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1835.mp4
+#EXTINF:-1,08 Do-It-Yourself, MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1834.mp4
+#EXTINF:-1,07 MrBean in Room 426 DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1833.mp4
+#EXTINF:-1,06 MrBean Rides Again DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1832.mp4
+#EXTINF:-1,05 MrBean Goes to Town DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1831.mp4
+#EXTINF:-1,04 The Curse of MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1830.mp4
+#EXTINF:-1,03 Mind the Baby, MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1829.mp4
+#EXTINF:-1,02 Good Night, MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1828.mp4
+#EXTINF:-1,01 MrBean DVDRip XviD
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1827.mp4
+#EXTINF:-1,Vikings S01 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1811.mkv
+#EXTINF:-1,Vikings S01 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1810.mkv
+#EXTINF:-1,Vikings S01 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1809.mkv
+#EXTINF:-1,Vikings S01 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1808.mkv
+#EXTINF:-1,Vikings S01 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1807.mkv
+#EXTINF:-1,Vikings S01 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1806.mkv
+#EXTINF:-1,Vikings S01 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1805.mkv
+#EXTINF:-1,Vikings S01 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1804.mkv
+#EXTINF:-1,Vikings S01 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1803.mkv
+#EXTINF:-1,The Man in the High Castle S03 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1802.mkv
+#EXTINF:-1,The Man in the High Castle S03 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1801.mkv
+#EXTINF:-1,The Man in the High Castle S03 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1800.mkv
+#EXTINF:-1,The Man in the High Castle S03 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1799.mkv
+#EXTINF:-1,The Man in the High Castle S03 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1798.mkv
+#EXTINF:-1,The Man in the High Castle S03 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1797.mkv
+#EXTINF:-1,The Man in the High Castle S03 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1796.mkv
+#EXTINF:-1,The Man in the High Castle S03 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1795.mkv
+#EXTINF:-1,The Man in the High Castle S03 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1794.mkv
+#EXTINF:-1,The Man in the High Castle S03 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1793.mkv
+#EXTINF:-1,The Man in the High Castle S02 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1792.mkv
+#EXTINF:-1,The Man in the High Castle S02 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1791.mkv
+#EXTINF:-1,The Man in the High Castle S02 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1790.mkv
+#EXTINF:-1,The Man in the High Castle S02 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1789.mkv
+#EXTINF:-1,The Man in the High Castle S02 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1788.mkv
+#EXTINF:-1,The Man in the High Castle S02 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1787.mkv
+#EXTINF:-1,The Man in the High Castle S02 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1786.mkv
+#EXTINF:-1,The Man in the High Castle S02 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1785.mkv
+#EXTINF:-1,The Man in the High Castle S02 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1784.mkv
+#EXTINF:-1,The Man in the High Castle S02 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1783.mkv
+#EXTINF:-1,The Man in the High Castle S01 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1782.mkv
+#EXTINF:-1,The Man in the High Castle S01 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1781.mkv
+#EXTINF:-1,The Man in the High Castle S01 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1780.mkv
+#EXTINF:-1,The Man in the High Castle S01 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1779.mkv
+#EXTINF:-1,The Man in the High Castle S01 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1778.mkv
+#EXTINF:-1,The Man in the High Castle S01 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1777.mkv
+#EXTINF:-1,The Man in the High Castle S01 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1776.mkv
+#EXTINF:-1,The Man in the High Castle S01 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1775.mkv
+#EXTINF:-1,The Man in the High Castle S01 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1774.mkv
+#EXTINF:-1,The Man in the High Castle S01 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1773.mkv
+#EXTINF:-1,Suits S02 E16
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1772.mkv
+#EXTINF:-1,Suits S02 E15
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1771.mkv
+#EXTINF:-1,Suits S02 E14
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1770.mkv
+#EXTINF:-1,Suits S02 E13
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1769.mkv
+#EXTINF:-1,Suits S02 E12
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1768.mkv
+#EXTINF:-1,Suits S02 E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1767.mkv
+#EXTINF:-1,Suits S02 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1766.mkv
+#EXTINF:-1,Suits S02 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1765.mkv
+#EXTINF:-1,Suits S02 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1764.mkv
+#EXTINF:-1,Suits S02 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1763.mkv
+#EXTINF:-1,Suits S02 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1762.mkv
+#EXTINF:-1,Suits S02 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1761.mkv
+#EXTINF:-1,Suits S02 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1760.mkv
+#EXTINF:-1,Suits S02 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1759.mkv
+#EXTINF:-1,Suits S02 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1758.mkv
+#EXTINF:-1,Suits S02 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1757.mkv
+#EXTINF:-1,Suits S01 E12
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1756.mkv
+#EXTINF:-1,Suits S01 E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1755.mkv
+#EXTINF:-1,Suits S01 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1754.mkv
+#EXTINF:-1,Suits S01 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1753.mkv
+#EXTINF:-1,Suits S01 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1752.mkv
+#EXTINF:-1,Suits S01 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1751.mkv
+#EXTINF:-1,Suits S01 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1750.mkv
+#EXTINF:-1,Suits S01 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1749.mkv
+#EXTINF:-1,Suits S01 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1748.mkv
+#EXTINF:-1,Suits S01 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1747.mkv
+#EXTINF:-1,Suits S01 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1746.mkv
+#EXTINF:-1,Suits S01 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1745.mkv
+#EXTINF:-1,Narcos S04 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1744.mkv
+#EXTINF:-1,Narcos S04 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1743.mkv
+#EXTINF:-1,Narcos S04 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1742.mkv
+#EXTINF:-1,Narcos S04 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1741.mkv
+#EXTINF:-1,Narcos S04 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1740.mkv
+#EXTINF:-1,Narcos S04 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1739.mkv
+#EXTINF:-1,Narcos S04 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1738.mkv
+#EXTINF:-1,Narcos S04 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1737.mkv
+#EXTINF:-1,Narcos S04 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1736.mkv
+#EXTINF:-1,Narcos S04 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1735.mkv
+#EXTINF:-1,Narcos S02 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1734.mkv
+#EXTINF:-1,Narcos S02 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1733.mkv
+#EXTINF:-1,Narcos S02 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1732.mkv
+#EXTINF:-1,Narcos S02 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1731.mkv
+#EXTINF:-1,Narcos S02 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1730.mkv
+#EXTINF:-1,Narcos S02 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1729.mkv
+#EXTINF:-1,Narcos S02 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1728.mkv
+#EXTINF:-1,Narcos S02 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1727.mkv
+#EXTINF:-1,Narcos S02 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1726.mkv
+#EXTINF:-1,Narcos S02 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1725.mkv
+#EXTINF:-1,Narcos S01 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1724.mkv
+#EXTINF:-1,Narcos S01 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1723.mkv
+#EXTINF:-1,Narcos S01 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1722.mkv
+#EXTINF:-1,Narcos S01 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1721.mkv
+#EXTINF:-1,Narcos S01 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1720.mkv
+#EXTINF:-1,Narcos S01 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1719.mkv
+#EXTINF:-1,Narcos S01 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1718.mkv
+#EXTINF:-1,Narcos S01 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1717.mkv
+#EXTINF:-1,Narcos S01 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1716.mkv
+#EXTINF:-1,Narcos S01 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1715.mkv
+#EXTINF:-1,Gomorrah S03 E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1714.mkv
+#EXTINF:-1,Gomorrah S03 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1713.mkv
+#EXTINF:-1,Gomorrah S03 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1712.mkv
+#EXTINF:-1,Gomorrah S03 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1711.mkv
+#EXTINF:-1,Gomorrah S03 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1710.mkv
+#EXTINF:-1,Gomorrah S03 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1709.mkv
+#EXTINF:-1,Gomorrah S03 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1708.mkv
+#EXTINF:-1,Gomorrah S03 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1707.mkv
+#EXTINF:-1,Gomorrah S03 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1706.mkv
+#EXTINF:-1,Gomorrah S03 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1705.mkv
+#EXTINF:-1,Gomorrah S03 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1704.mkv
+#EXTINF:-1,Gomorrah S02 E12
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1703.mkv
+#EXTINF:-1,Gomorrah S02 E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1702.mkv
+#EXTINF:-1,Gomorrah S02 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1701.mkv
+#EXTINF:-1,Gomorrah S02 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1700.mkv
+#EXTINF:-1,Gomorrah S02 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1699.mkv
+#EXTINF:-1,Gomorrah S02 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1698.mkv
+#EXTINF:-1,Gomorrah S02 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1697.mkv
+#EXTINF:-1,Gomorrah S02 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1696.mkv
+#EXTINF:-1,Gomorrah S02 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1695.mkv
+#EXTINF:-1,Gomorrah S02 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1694.mkv
+#EXTINF:-1,Gomorrah S02 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1693.mkv
+#EXTINF:-1,Gomorrah S02 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1692.mkv
+#EXTINF:-1,Gomorrah S01 E12
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1691.mkv
+#EXTINF:-1,Gomorrah S01 E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1690.mkv
+#EXTINF:-1,Gomorrah S01 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1689.mkv
+#EXTINF:-1,Gomorrah S01 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1688.mkv
+#EXTINF:-1,Gomorrah S01 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1687.mkv
+#EXTINF:-1,Gomorrah S01 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1686.mkv
+#EXTINF:-1,Gomorrah S01 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1685.mkv
+#EXTINF:-1,Gomorrah S01 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1684.mkv
+#EXTINF:-1,Gomorrah S01 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1683.mkv
+#EXTINF:-1,Gomorrah S01 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1682.mkv
+#EXTINF:-1,Gomorrah S01 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1681.mkv
+#EXTINF:-1,Gomorrah S01 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1680.mkv
+#EXTINF:-1,Breaking Bad S03 E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1679.mkv
+#EXTINF:-1,Breaking Bad S03 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1678.mkv
+#EXTINF:-1,Breaking Bad S03 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1677.mkv
+#EXTINF:-1,Breaking Bad S03 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1676.mkv
+#EXTINF:-1,Breaking Bad S03 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1675.mkv
+#EXTINF:-1,Breaking Bad S03 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1674.mkv
+#EXTINF:-1,Breaking Bad S03 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1673.mkv
+#EXTINF:-1,Breaking Bad S03 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1672.mkv
+#EXTINF:-1,Breaking Bad S03 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1671.mkv
+#EXTINF:-1,Breaking Bad S03 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1670.mkv
+#EXTINF:-1,Breaking Bad S03 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1669.mkv
+#EXTINF:-1,Breaking Bad S02 E12
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1668.mkv
+#EXTINF:-1,Breaking Bad S02 E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1667.mkv
+#EXTINF:-1,Breaking Bad S02 E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1666.mkv
+#EXTINF:-1,Breaking Bad S02 E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1665.mkv
+#EXTINF:-1,Breaking Bad S02 E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1664.mkv
+#EXTINF:-1,Breaking Bad S02 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1663.mkv
+#EXTINF:-1,Breaking Bad S02 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1662.mkv
+#EXTINF:-1,Breaking Bad S02 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1661.mkv
+#EXTINF:-1,Breaking Bad S02 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1660.mkv
+#EXTINF:-1,Breaking Bad S02 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1659.mkv
+#EXTINF:-1,Breaking Bad S02 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1658.mkv
+#EXTINF:-1,Breaking Bad S02 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1657.mkv
+#EXTINF:-1,Breaking Bad S01 E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1656.mkv
+#EXTINF:-1,Breaking Bad S01 E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1655.mkv
+#EXTINF:-1,Breaking Bad S01 E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1654.mkv
+#EXTINF:-1,Breaking Bad S01 E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1653.mkv
+#EXTINF:-1,Breaking Bad S01 E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1652.mkv
+#EXTINF:-1,Breaking Bad S01 E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1651.mkv
+#EXTINF:-1,Breaking Bad S01 E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1650.mkv
+#EXTINF:-1,La.casa.de.papel.S02E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/923.mp4
+#EXTINF:-1,La.casa.de.papel.S02E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/922.mp4
+#EXTINF:-1,La.casa.de.papel.S02E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/921.mp4
+#EXTINF:-1,La.casa.de.papel.S02E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/920.mp4
+#EXTINF:-1,La.casa.de.papel.S02E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/919.mp4
+#EXTINF:-1,La.casa.de.papel.S02E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/918.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E13
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/916.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E12
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/915.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/914.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/913.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/912.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/911.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/910.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/909.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/908.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/907.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/906.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/905.mp4
+#EXTINF:-1,La.Casa.de.Papel.S01E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/904.mp4
+#EXTINF:-1,Heidi 3D EP.39 [TVRip] [Danno] [D8C02F44]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1361.mkv
+#EXTINF:-1,Heidi 3D EP.38 [TVRip] [Danno] [D3412EDA]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1360.mkv
+#EXTINF:-1,Heidi 3D EP.36 [TVRip] [Danno] [6F1EA4F8]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1359.mkv
+#EXTINF:-1,Heidi 3D EP.35 [TVRip] [Danno] [FCC945EB]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1358.mkv
+#EXTINF:-1,Heidi 3D EP.34 [TVRip] [Danno] [7836BE14]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1357.mkv
+#EXTINF:-1,Heidi 3D EP.33 [TVRip] [Danno] [9030F605]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1356.mkv
+#EXTINF:-1,Heidi 3D EP.32 [TVRip] [Danno] [8617A93B]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1355.mkv
+#EXTINF:-1,Heidi 3D EP.31 [TVRip] [Danno] [3F298DD9]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1354.mkv
+#EXTINF:-1,Heidi 3D EP.30 [TVRip] [Danno] [3D274E99]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1353.mkv
+#EXTINF:-1,Heidi 3D EP.29 [TVRip] [Danno] [7D99FE67]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1352.mkv
+#EXTINF:-1,Heidi 3D EP.28 [TVRip] [Danno] [11E405E0]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1351.mkv
+#EXTINF:-1,Heidi 3D EP.27 [TVRip] [Danno] [7F94187D]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1350.mkv
+#EXTINF:-1,Heidi 3D EP.26v2 [TVRip] [Danno] [65195633]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1349.mkv
+#EXTINF:-1,Heidi 3D EP.25 [TVRip] [Danno] [85323C19]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1348.mkv
+#EXTINF:-1,Heidi 3D EP.24 [TVRip] [Danno] [61013FAE]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1347.mkv
+#EXTINF:-1,Heidi 3D EP.23 [TVRip] [Danno] [2F09949F]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1346.mkv
+#EXTINF:-1,Heidi 3D EP.22 [TVRip] [Danno] [C2B317CE]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1345.mkv
+#EXTINF:-1,Heidi 3D EP.21 [TVRip] [Danno] [66BB93E2]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1344.mkv
+#EXTINF:-1,Heidi 3D EP.20 [TVRip] [Danno] [A6BB90C4]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1343.mkv
+#EXTINF:-1,Heidi 3D EP.19 [TVRip] [Danno] [F4084EEE]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1342.mkv
+#EXTINF:-1,Heidi 3D EP.18 [TVRip] [Danno] [EB09FAE4]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1341.mkv
+#EXTINF:-1,Heidi 3D EP.17 [TVRip] [Danno] [EF0347F0]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1340.mkv
+#EXTINF:-1,Heidi 3D EP.16 [TVRip] [Danno] [D81FF570]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1339.mkv
+#EXTINF:-1,Heidi 3D EP.15 [TVRip] [Danno] [5CE5AEED]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1338.mkv
+#EXTINF:-1,Heidi 3D EP.14 [TVRip] [Danno] [A7666394]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1337.mkv
+#EXTINF:-1,Heidi 3D EP.13 [TVRip] [Danno] [C6B6B12F]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1336.mkv
+#EXTINF:-1,Heidi 3D EP.12 [TVRip] [Danno] [3B16A571]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1335.mkv
+#EXTINF:-1,Heidi 3D EP.11 [TVRip] [Danno] [4BB38077]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1334.mkv
+#EXTINF:-1,Heidi 3D EP.10 [TVRip] [Danno] [2FD5F07C]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1333.mkv
+#EXTINF:-1,Heidi 3D EP.09 [TVRip] [Danno] [D61303B3]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1332.mkv
+#EXTINF:-1,Heidi 3D EP.08 [TVRip] [Danno] [6F8B1B1F]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1331.mkv
+#EXTINF:-1,Heidi 3D EP.07 [TVRip] [Danno] [7F22EBB1]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1330.mkv
+#EXTINF:-1,Heidi 3D EP.06 [TVRip] [Danno] [1F3D1163]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1329.mkv
+#EXTINF:-1,Heidi 3D EP.05 [TVRip] [Danno] [E8BB69F5]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1328.mkv
+#EXTINF:-1,Heidi 3D EP.04 [TVRip] [Danno] [48B42172]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1327.mkv
+#EXTINF:-1,Heidi 3D EP.03 [TVRip] [Danno] [6A9FD543]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1326.mkv
+#EXTINF:-1,Heidi 3D EP.02 [TVRip] [Danno] [2698EF3C]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1325.mkv
+#EXTINF:-1,Heidi 3D EP.01 [TVRip] [Danno] [F5627F6D]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1324.mkv
+#EXTINF:-1,Game.of.Thrones.S07E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/683.mp4
+#EXTINF:-1,Game.of.Thrones.S07E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/682.mp4
+#EXTINF:-1,Game.of.Thrones.S07E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/681.mp4
+#EXTINF:-1,Game.of.Thrones.S07E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/680.mp4
+#EXTINF:-1,Game.of.Thrones.S07E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/679.mp4
+#EXTINF:-1,Game.of.Thrones.S07E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/678.mp4
+#EXTINF:-1,Game.of.Thrones.S07E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/677.mp4
+#EXTINF:-1,Fear.The.Walking.Dead.S03E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/676.mp4
+#EXTINF:-1,Fear.The.Walking.Dead.S03E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/675.mp4
+#EXTINF:-1,Fear.The.Walking.Dead.S03E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/674.mp4
+#EXTINF:-1,Fear.The.Walking.Dead.S03E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/673.mp4
+#EXTINF:-1,Fear.The.Walking.Dead.S03E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/672.mp4
+#EXTINF:-1,Fear.The.Walking.Dead.S03E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/671.mp4
+#EXTINF:-1,Twin.Peaks.S03E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/720.mp4
+#EXTINF:-1,Twin.Peaks.S03E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/719.mp4
+#EXTINF:-1,Twin.Peaks.S03E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/718.mp4
+#EXTINF:-1,Twin.Peaks.S03E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/717.mp4
+#EXTINF:-1,Twin.Peaks.S03E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/716.mp4
+#EXTINF:-1,Twin.Peaks.S03E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/715.mp4
+#EXTINF:-1,Twin.Peaks.S03E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/714.mp4
+#EXTINF:-1,The.Handmaids.Tale.s02e13
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1247.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e12
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1246.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1245.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1244.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1243.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1242.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1241.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1240.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1239.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1238.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1237.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1236.mkv
+#EXTINF:-1,The.Handmaids.Tale.s02e01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1235.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1234.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1233.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1232.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1231.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1230.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1229.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1228.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1227.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1226.mkv
+#EXTINF:-1,The.Handmaids.Tale.s01e01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1225.mkv
+#EXTINF:-1,Stranger.Things.S02E09.Chapter.Nine.The.Gate.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/713.mp4
+#EXTINF:-1,Stranger.Things.S02E08.Chapter.Eight.The.Mind.Flayer.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/712.mp4
+#EXTINF:-1,Stranger.Things.S02E07.Chapter.Seven.The.Lost.Sister.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/711.mp4
+#EXTINF:-1,Stranger.Things.S02E06.Chapter.Six.The.Spy.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/710.mp4
+#EXTINF:-1,Stranger.Things.S02E05.Chapter.Five.Dig.Dug.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/709.mp4
+#EXTINF:-1,Stranger.Things.S02E04.Chapter.Four.Will.the.Wise.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/708.mp4
+#EXTINF:-1,Stranger.Things.S02E03.Chapter.Three.The.Pollywog.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/707.mp4
+#EXTINF:-1,Stranger.Things.S02E02.Chapter.Two.Trick.or.Treat.Freak.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/706.mp4
+#EXTINF:-1,Stranger.Things.S02E01.Chapter.One.MADMAX.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/705.mp4
+#EXTINF:-1,Stranger.Things.S01E08.Chapter.Eight.The.Upside.Down.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/704.mp4
+#EXTINF:-1,Stranger.Things.S01E07.Chapter.Seven.The.Bathtub.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/703.mp4
+#EXTINF:-1,Stranger.Things.S01E06.Chapter.Six.The.Monster.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/702.mp4
+#EXTINF:-1,Stranger.Things.S01E05.Chapter.Five.The.Flea.And.The.Acrobat.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/701.mp4
+#EXTINF:-1,Stranger.Things.S01E04.Chapter.Four.The.Body.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/700.mp4
+#EXTINF:-1,Stranger.Things.S01E03.Chapter.Three.Holly.Jolly.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/699.mp4
+#EXTINF:-1,Stranger.Things.S01E02.Chapter.Two.The.Weirdo.On.Maple.Street.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/698.mp4
+#EXTINF:-1,Stranger.Things.S01E01.Chapter.One.The.Vanishing.Of.Will.Byers.1080p
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/697.mp4
+#EXTINF:-1,Preacher.S02E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/696.mp4
+#EXTINF:-1,Preacher.S02E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/695.mp4
+#EXTINF:-1,Preacher.S02E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/694.mp4
+#EXTINF:-1,Narcos.S03E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/693.mp4
+#EXTINF:-1,Narcos.S03E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/692.mp4
+#EXTINF:-1,Narcos.S03E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/691.mp4
+#EXTINF:-1,Narcos.S03E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/690.mp4
+#EXTINF:-1,Narcos.S03E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/689.mp4
+#EXTINF:-1,Narcos.S03E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/688.mp4
+#EXTINF:-1,Narcos.S03E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/687.mp4
+#EXTINF:-1,Narcos.S03E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/686.mp4
+#EXTINF:-1,Narcos.S03E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/685.mp4
+#EXTINF:-1,Narcos.S03E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/684.mp4
+#EXTINF:-1,Dragon.Ball.Super.001
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1149.mkv
+#EXTINF:-1,Dragon Ball Super 096 [BDRip.720p] [Danno] [6182E979]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1449.mkv
+#EXTINF:-1,Dragon Ball Super 095 [BDRip.720p] [Danno] [8EC357BD]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1448.mkv
+#EXTINF:-1,Dragon Ball Super 094 [BDRip.720p] [Danno] [2A20D1DA]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1447.mkv
+#EXTINF:-1,Dragon Ball Super 093 [BDRip.720p] [Danno] [2C3F4619]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1446.mkv
+#EXTINF:-1,Dragon Ball Super 092 [BDRip.720p] [Danno] [2F4160EE]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1445.mkv
+#EXTINF:-1,Dragon Ball Super 091 [BDRip.720p] [Danno] [56210C7B]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1444.mkv
+#EXTINF:-1,Dragon Ball Super 090 [BDRip.720p] [Danno] [52016515]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1443.mkv
+#EXTINF:-1,Dragon Ball Super 089 [BDRip.720p] [Danno] [0A99DB5F]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1442.mkv
+#EXTINF:-1,Dragon Ball Super 088 [BDRip.720p] [Danno] [9B683BC4]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1441.mkv
+#EXTINF:-1,Dragon Ball Super 087 [BDRip.720p] [Danno] [82220D7D]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1440.mkv
+#EXTINF:-1,Dragon Ball Super 086 [BDRip.720p] [Danno] [9A32B00F]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1439.mkv
+#EXTINF:-1,Dragon Ball Super 085 [BDRip.720p] [Danno] [BECB1A98]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1438.mkv
+#EXTINF:-1,Dragon Ball Super 084 [BDRip.720p] [Danno] [28791CA3]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1437.mkv
+#EXTINF:-1,Dragon Ball Super 083 [BDRip.720p] [Danno] [B3426972]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1436.mkv
+#EXTINF:-1,Dragon Ball Super 082 [BDRip.720p] [Danno] [D21EAFC9]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1435.mkv
+#EXTINF:-1,Dragon Ball Super 081 [BDRip.720p] [Danno] [4118872B]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1434.mkv
+#EXTINF:-1,Dragon Ball Super 080 [BDRip.720p] [Danno] [1745C175]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1433.mkv
+#EXTINF:-1,Dragon Ball Super 079 [BDRip.720p] [Danno] [F137F905]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1432.mkv
+#EXTINF:-1,Dragon Ball Super 078 [BDRip.720p] [Danno] [D7583DE4]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1431.mkv
+#EXTINF:-1,Dragon Ball Super 077 [BDRip.720p] [Danno] [40CC7886]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1430.mkv
+#EXTINF:-1,Dragon Ball Super 076 [BDRip.720p] [Danno] [D28F4ED3]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1429.mkv
+#EXTINF:-1,Dragon Ball Super 075 [BDRip.720p] [Danno] [D459BA52]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1428.mkv
+#EXTINF:-1,Dragon Ball Super 074 [BDRip.720p] [Danno] [BF19CC9E]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1427.mkv
+#EXTINF:-1,Dragon Ball Super 073 [BDRip.720p] [Danno] [E6F9E87A]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1426.mkv
+#EXTINF:-1,Dragon Ball Super 072 [BDRip.720p] [Danno] [21B4A0FA]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1425.mkv
+#EXTINF:-1,Dragon Ball Super 071 [BDRip.720p] [Danno] [F13CAFC7]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1424.mkv
+#EXTINF:-1,Dragon Ball Super 070 [BDRip.720p] [Danno] [B420FAAD]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1423.mkv
+#EXTINF:-1,Dragon Ball Super 069 [BDRip.720p] [Danno] [C147D2BD]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1422.mkv
+#EXTINF:-1,Dragon Ball Super 068 [BDRip.720p] [Danno] [9252D1E1]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1421.mkv
+#EXTINF:-1,Dragon Ball Super 067 [BDRip.720p] [Danno] [D4CF39AF]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1420.mkv
+#EXTINF:-1,Dragon Ball Super 066 [BDRip.720p] [Danno] [546471C6]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1419.mkv
+#EXTINF:-1,Dragon Ball Super 065 [BDRip.720p] [Danno] [D02FEDF5]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1418.mkv
+#EXTINF:-1,Dragon Ball Super 064 [BDRip.720p] [Danno] [06F7123E]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1417.mkv
+#EXTINF:-1,Dragon Ball Super 063 [BDRip.720p] [Danno] [0C502470]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1416.mkv
+#EXTINF:-1,Dragon Ball Super 062 [BDRip.720p] [Danno] [F84F3453]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1415.mkv
+#EXTINF:-1,Dragon Ball Super 061 [BDRip.720p] [Danno] [0F0A08C5]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1414.mkv
+#EXTINF:-1,Dragon Ball Super 060 [BDRip.720p] [Danno] [3A2CC404]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1413.mkv
+#EXTINF:-1,Dragon Ball Super 059 [BDRip.720p] [Danno] [B2738041]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1412.mkv
+#EXTINF:-1,Dragon Ball Super 058 [BDRip.720p] [Danno] [943AE447]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1411.mkv
+#EXTINF:-1,Dragon Ball Super 057 [BDRip.720p] [Danno] [D4FB2997]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1410.mkv
+#EXTINF:-1,Dragon Ball Super 056 [BDRip.720p] [Danno] [AEE93014]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1409.mkv
+#EXTINF:-1,Dragon Ball Super 055 [BDRip.720p] [Danno] [8E50421C]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1408.mkv
+#EXTINF:-1,Dragon Ball Super 054 [BDRip.720p] [Danno] [D2EF8435]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1407.mkv
+#EXTINF:-1,Dragon Ball Super 053 [BDRip.720p] [Danno] [29D90F53]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1406.mkv
+#EXTINF:-1,Dragon Ball Super 052 [BDRip.720p] [Danno] [E91FB3B8]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1148.mkv
+#EXTINF:-1,Dragon Ball Super 051 [BDRip.720p] [Danno] [5BAF42F3]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1147.mkv
+#EXTINF:-1,Dragon Ball Super 050 [BDRip.720p] [Danno] [690BE08B]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1146.mkv
+#EXTINF:-1,Dragon Ball Super 049 [BDRip.720p] [Danno] [40549519]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1145.mkv
+#EXTINF:-1,Dragon Ball Super 048 [BDRip.720p] [Danno] [7CB2C871]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1144.mkv
+#EXTINF:-1,Dragon Ball Super 047 [BDRip.720p] [Danno] [124F132C]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1143.mkv
+#EXTINF:-1,Dragon Ball Super 046 [BDRip.720p] [Danno] [5C22D8B5]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1142.mkv
+#EXTINF:-1,Dragon Ball Super 045 [BDRip.720p] [Danno] [353996BE]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1141.mkv
+#EXTINF:-1,Dragon Ball Super 044 [BDRip.720p] [Danno] [D318B7DC]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1140.mkv
+#EXTINF:-1,Dragon Ball Super 043 [BDRip.720p] [Danno] [F2E467E9]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1139.mkv
+#EXTINF:-1,Dragon Ball Super 042 [BDRip.720p] [Danno] [ED5BC451]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1138.mkv
+#EXTINF:-1,Dragon Ball Super 041 [BDRip.720p] [Danno] [82A24259]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1137.mkv
+#EXTINF:-1,Dragon Ball Super 040 [BDRip.720p] [Danno] [2D021E60]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1136.mkv
+#EXTINF:-1,Dragon Ball Super 039 [BDRip.720p] [Danno] [BD493209]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1135.mkv
+#EXTINF:-1,Dragon Ball Super 038 [BDRip.720p] [Danno] [3BD61665]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1134.mkv
+#EXTINF:-1,Dragon Ball Super 037 [BDRip.720p] [Danno] [42A10487]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1133.mkv
+#EXTINF:-1,Dragon Ball Super 036 [BDRip.720p] [Danno] [3918F795]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1132.mkv
+#EXTINF:-1,Dragon Ball Super 035 [BDRip.720p] [Danno] [36A619A9]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1131.mkv
+#EXTINF:-1,Dragon Ball Super 034 [BDRip.720p] [Danno] [F81090A4]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1130.mkv
+#EXTINF:-1,Dragon Ball Super 033 [BDRip.720p] [Danno] [24866C85]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1129.mkv
+#EXTINF:-1,Dragon Ball Super 032 [BDRip.720p] [Danno] [DEF6388B]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1128.mkv
+#EXTINF:-1,Dragon Ball Super 031 (v2) [BDRip.720p] [Danno] [BFC2E010]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1127.mkv
+#EXTINF:-1,Dragon Ball Super 030 [BDRip.720p] [Danno] [1652C41E]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1126.mkv
+#EXTINF:-1,Dragon Ball Super 029 [BDRip.720p] [Danno] [BCF824CC]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1125.mkv
+#EXTINF:-1,Dragon Ball Super 028 [BDRip.720p] [Danno] [17AC103A]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1124.mkv
+#EXTINF:-1,Dragon Ball Super 027 [BDRip.720p] [Danno] [86419870]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1123.mkv
+#EXTINF:-1,Dragon Ball Super 026 [BDRip.720p] [Danno] [AC2188E7]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1122.mkv
+#EXTINF:-1,Dragon Ball Super 025 [BDRip.720p] [Danno] [E1AB37AA]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1121.mkv
+#EXTINF:-1,Dragon Ball Super 024 [BDRip.720p] [Danno] [F1DF27E3]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1120.mkv
+#EXTINF:-1,Dragon Ball Super 023 [BDRip.720p] [Danno] [08C68541]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1119.mkv
+#EXTINF:-1,Dragon Ball Super 022 [BDRip.720p] [Danno] [0049DB85]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1118.mkv
+#EXTINF:-1,Dragon Ball Super 021 [BDRip.720p] [Danno] [407EED1C]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1117.mkv
+#EXTINF:-1,Dragon Ball Super 020 [BDRip.720p] [Danno] [E0A16A9B]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1116.mkv
+#EXTINF:-1,Dragon Ball Super 019 [BDRip.720p] [Danno] [EE50E5B5]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1115.mkv
+#EXTINF:-1,Dragon Ball Super 018 [BDRip.720p] [Danno] [24AFFFE9]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1114.mkv
+#EXTINF:-1,Dragon Ball Super 017 [BDRip.720p] [Danno] [16E19036]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1113.mkv
+#EXTINF:-1,Dragon Ball Super 016 [BDRip.720p] [Danno] [F639E0D4]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1112.mkv
+#EXTINF:-1,Dragon Ball Super 015 [BDRip.720p] [Danno] [2148B72D]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1111.mkv
+#EXTINF:-1,Dragon Ball Super 014 [BDRip.720p] [Danno] [DEACBC17]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1110.mkv
+#EXTINF:-1,Dragon Ball Super 013 [BDRip.720p] [Danno] [1F0EAF56]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1109.mkv
+#EXTINF:-1,Dragon Ball Super 012 [BDRip.720p] [Danno] [81072E4C]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1108.mkv
+#EXTINF:-1,Dragon Ball Super 011 [BDRip.720p] [Danno] [09131314]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1107.mkv
+#EXTINF:-1,Dragon Ball Super 010 [BDRip.720p] [Danno] [17B78A8E]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1106.mkv
+#EXTINF:-1,Dragon Ball Super 009 [BDRip.720p] [Danno] [7C52BA40]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1105.mkv
+#EXTINF:-1,Dragon Ball Super 008 [BDRip.720p] [Danno] [448919C9]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1104.mkv
+#EXTINF:-1,Dragon Ball Super 007 [BDRip.720p] [Danno] [CACA03AD]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1103.mkv
+#EXTINF:-1,Dragon Ball Super 006 [BDRip.720p] [Danno] [CD3EA9D1]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1102.mkv
+#EXTINF:-1,Dragon Ball Super 005 (v2) [BDRip.720p] [Danno] [4E574956]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1101.mkv
+#EXTINF:-1,Dragon Ball Super 004 (v2) [BDRip.720p] [Danno] [27ADD48A]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1100.mkv
+#EXTINF:-1,Dragon Ball Super 003 (v2) [BDRip.720p] [Danno] [25955C6E]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1099.mkv
+#EXTINF:-1,Dragon Ball Super 002 (v2) [BDRip.720p] [Danno] [451EDEFF]
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1098.mkv
+#EXTINF:-1,Dragon Ball - 153
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/987.mkv
+#EXTINF:-1,Dragon Ball - 152
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/986.mkv
+#EXTINF:-1,Dragon Ball - 151
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/985.mkv
+#EXTINF:-1,Dragon Ball - 150
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/984.mkv
+#EXTINF:-1,Dragon Ball - 149
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/983.mkv
+#EXTINF:-1,Dragon Ball - 148
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/982.mkv
+#EXTINF:-1,Dragon Ball - 147
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/981.mkv
+#EXTINF:-1,Dragon Ball - 146
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/980.mkv
+#EXTINF:-1,Dragon Ball - 145
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/979.mkv
+#EXTINF:-1,Dragon Ball - 144
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/978.mkv
+#EXTINF:-1,Dragon Ball - 143
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/977.mkv
+#EXTINF:-1,Dragon Ball - 142
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/976.mkv
+#EXTINF:-1,Dragon Ball - 141
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/975.mkv
+#EXTINF:-1,Dragon Ball - 140
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/974.mkv
+#EXTINF:-1,Dragon Ball - 139
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/973.mkv
+#EXTINF:-1,Dragon Ball - 138
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/972.mkv
+#EXTINF:-1,Dragon Ball - 137
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/971.mkv
+#EXTINF:-1,Dragon Ball - 136
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/970.mkv
+#EXTINF:-1,Dragon Ball - 135
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/969.mkv
+#EXTINF:-1,Dragon Ball - 134
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/968.mkv
+#EXTINF:-1,Dragon Ball - 133
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/967.mkv
+#EXTINF:-1,Dragon Ball - 132
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/966.mkv
+#EXTINF:-1,Dragon Ball - 131
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/965.mkv
+#EXTINF:-1,Dragon Ball - 130
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/964.mkv
+#EXTINF:-1,Dragon Ball - 129
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/963.mkv
+#EXTINF:-1,Dragon Ball - 128
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/962.mkv
+#EXTINF:-1,Dragon Ball - 127
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/961.mkv
+#EXTINF:-1,Dragon Ball - 126
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/960.mkv
+#EXTINF:-1,Dragon Ball - 125
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/959.mkv
+#EXTINF:-1,Dragon Ball - 124
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/958.mkv
+#EXTINF:-1,Dragon Ball - 123
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/957.mkv
+#EXTINF:-1,Dragon Ball - 122
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/956.mkv
+#EXTINF:-1,Dragon Ball - 121
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/955.mkv
+#EXTINF:-1,Dragon Ball - 120
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1077.mkv
+#EXTINF:-1,Dragon Ball - 119
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1076.mkv
+#EXTINF:-1,Dragon Ball - 118
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1075.mkv
+#EXTINF:-1,Dragon Ball - 117
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1074.mkv
+#EXTINF:-1,Dragon Ball - 116
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1073.mkv
+#EXTINF:-1,Dragon Ball - 115
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1072.mkv
+#EXTINF:-1,Dragon Ball - 114
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1071.mkv
+#EXTINF:-1,Dragon Ball - 113
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1070.mkv
+#EXTINF:-1,Dragon Ball - 112
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1069.mkv
+#EXTINF:-1,Dragon Ball - 111
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1068.mkv
+#EXTINF:-1,Dragon Ball - 110
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1067.mkv
+#EXTINF:-1,Dragon Ball - 109
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1066.mkv
+#EXTINF:-1,Dragon Ball - 108
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1065.mkv
+#EXTINF:-1,Dragon Ball - 107
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1064.mkv
+#EXTINF:-1,Dragon Ball - 106
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1063.mkv
+#EXTINF:-1,Dragon Ball - 105
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1062.mkv
+#EXTINF:-1,Dragon Ball - 104
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1061.mkv
+#EXTINF:-1,Dragon Ball - 103
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1060.mkv
+#EXTINF:-1,Dragon Ball - 102
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1059.mkv
+#EXTINF:-1,Dragon Ball - 101
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1058.mkv
+#EXTINF:-1,Dragon Ball - 100
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1057.mkv
+#EXTINF:-1,Dragon Ball - 099
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1056.mkv
+#EXTINF:-1,Dragon Ball - 098
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1055.mkv
+#EXTINF:-1,Dragon Ball - 097
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1054.mkv
+#EXTINF:-1,Dragon Ball - 096
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1053.mkv
+#EXTINF:-1,Dragon Ball - 095
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1052.mkv
+#EXTINF:-1,Dragon Ball - 094
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1051.mkv
+#EXTINF:-1,Dragon Ball - 093
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1050.mkv
+#EXTINF:-1,Dragon Ball - 092
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1049.mkv
+#EXTINF:-1,Dragon Ball - 091
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1048.mkv
+#EXTINF:-1,Dragon Ball - 090
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1047.mkv
+#EXTINF:-1,Dragon Ball - 089
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1046.mkv
+#EXTINF:-1,Dragon Ball - 088
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1045.mkv
+#EXTINF:-1,Dragon Ball - 087
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1044.mkv
+#EXTINF:-1,Dragon Ball - 086
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1043.mkv
+#EXTINF:-1,Dragon Ball - 085
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1042.mkv
+#EXTINF:-1,Dragon Ball - 084
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1041.mkv
+#EXTINF:-1,Dragon Ball - 083
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1040.mkv
+#EXTINF:-1,Dragon Ball - 082
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1039.mkv
+#EXTINF:-1,Dragon Ball - 081
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1038.mkv
+#EXTINF:-1,Dragon Ball - 080
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1037.mkv
+#EXTINF:-1,Dragon Ball - 079
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1036.mkv
+#EXTINF:-1,Dragon Ball - 078
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1035.mkv
+#EXTINF:-1,Dragon Ball - 077
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1034.mkv
+#EXTINF:-1,Dragon Ball - 076
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1033.mkv
+#EXTINF:-1,Dragon Ball - 075
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1032.mkv
+#EXTINF:-1,Dragon Ball - 074
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1031.mkv
+#EXTINF:-1,Dragon Ball - 073
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1030.mkv
+#EXTINF:-1,Dragon Ball - 072
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1029.mkv
+#EXTINF:-1,Dragon Ball - 071
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1028.mkv
+#EXTINF:-1,Dragon Ball - 070
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1027.mkv
+#EXTINF:-1,Dragon Ball - 069
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1026.mkv
+#EXTINF:-1,Dragon Ball - 068
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1025.mkv
+#EXTINF:-1,Dragon Ball - 067
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1024.mkv
+#EXTINF:-1,Dragon Ball - 066
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1023.mkv
+#EXTINF:-1,Dragon Ball - 065
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1022.mkv
+#EXTINF:-1,Dragon Ball - 064
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1021.mkv
+#EXTINF:-1,Dragon Ball - 063
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1020.mkv
+#EXTINF:-1,Dragon Ball - 062
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1019.mkv
+#EXTINF:-1,Dragon Ball - 061
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1018.mkv
+#EXTINF:-1,Dragon Ball - 060
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1017.mkv
+#EXTINF:-1,Dragon Ball - 059
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1016.mkv
+#EXTINF:-1,Dragon Ball - 058
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1015.mkv
+#EXTINF:-1,Dragon Ball - 057
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1014.mkv
+#EXTINF:-1,Dragon Ball - 056
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1013.mkv
+#EXTINF:-1,Dragon Ball - 055
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1012.mkv
+#EXTINF:-1,Dragon Ball - 054
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1011.mkv
+#EXTINF:-1,Dragon Ball - 053
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1010.mkv
+#EXTINF:-1,Dragon Ball - 052
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1009.mkv
+#EXTINF:-1,Dragon Ball - 051
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1008.mkv
+#EXTINF:-1,Dragon Ball - 050
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1007.mkv
+#EXTINF:-1,Dragon Ball - 049
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1006.mkv
+#EXTINF:-1,Dragon Ball - 048
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1005.mkv
+#EXTINF:-1,Dragon Ball - 047
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1004.mkv
+#EXTINF:-1,Dragon Ball - 046
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1003.mkv
+#EXTINF:-1,Dragon Ball - 045
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1002.mkv
+#EXTINF:-1,Dragon Ball - 044
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1001.mkv
+#EXTINF:-1,Dragon Ball - 043
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1000.mkv
+#EXTINF:-1,Dragon Ball - 042
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/999.mkv
+#EXTINF:-1,Dragon Ball - 041
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/998.mkv
+#EXTINF:-1,Dragon Ball - 040
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/997.mkv
+#EXTINF:-1,Dragon Ball - 039
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/996.mkv
+#EXTINF:-1,Dragon Ball - 038
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/995.mkv
+#EXTINF:-1,Dragon Ball - 037
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/994.mkv
+#EXTINF:-1,Dragon Ball - 036
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/993.mkv
+#EXTINF:-1,Dragon Ball - 035
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/992.mkv
+#EXTINF:-1,Dragon Ball - 034
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/991.mkv
+#EXTINF:-1,Dragon Ball - 033
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/990.mkv
+#EXTINF:-1,Dragon Ball - 032
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/989.mkv
+#EXTINF:-1,Dragon Ball - 031
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/988.mkv
+#EXTINF:-1,Dragon Ball - 030
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/954.mkv
+#EXTINF:-1,Dragon Ball - 029
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/953.mkv
+#EXTINF:-1,Dragon Ball - 028
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/952.mkv
+#EXTINF:-1,Dragon Ball - 027
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/951.mkv
+#EXTINF:-1,Dragon Ball - 026
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/950.mkv
+#EXTINF:-1,Dragon Ball - 025
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/949.mkv
+#EXTINF:-1,Dragon Ball - 024
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/948.mkv
+#EXTINF:-1,Dragon Ball - 023
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/947.mkv
+#EXTINF:-1,Dragon Ball - 022
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/946.mkv
+#EXTINF:-1,Dragon Ball - 021
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/945.mkv
+#EXTINF:-1,Dragon Ball - 020
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/944.mkv
+#EXTINF:-1,Dragon Ball - 019
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/943.mkv
+#EXTINF:-1,Dragon Ball - 018
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/942.mkv
+#EXTINF:-1,Dragon Ball - 017
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/941.mkv
+#EXTINF:-1,Dragon Ball - 016
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/940.mkv
+#EXTINF:-1,Dragon Ball - 015
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/939.mkv
+#EXTINF:-1,Dragon Ball - 014
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/938.mkv
+#EXTINF:-1,Dragon Ball - 013
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/937.mkv
+#EXTINF:-1,Dragon Ball - 012
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/936.mkv
+#EXTINF:-1,Dragon Ball - 011
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/935.mkv
+#EXTINF:-1,Dragon Ball - 010
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/934.mkv
+#EXTINF:-1,Dragon Ball - 009
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/933.mkv
+#EXTINF:-1,Dragon Ball - 008
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/932.mkv
+#EXTINF:-1,Dragon Ball - 007
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/931.mkv
+#EXTINF:-1,Dragon Ball - 006
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/930.mkv
+#EXTINF:-1,Dragon Ball - 005
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/929.mkv
+#EXTINF:-1,Dragon Ball - 004
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/928.mkv
+#EXTINF:-1,Dragon Ball - 003
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/927.mkv
+#EXTINF:-1,Dragon Ball - 002
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/926.mkv
+#EXTINF:-1,Dragon Ball - 001
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/925.mkv
+#EXTINF:-1,13.Reasons.Why.S01E13
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/670.mp4
+#EXTINF:-1,13.Reasons.Why.S01E12
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/669.mp4
+#EXTINF:-1,13.Reasons.Why.S01E11
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/668.mp4
+#EXTINF:-1,13.Reasons.Why.S01E10
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/667.mp4
+#EXTINF:-1,13.Reasons.Why.S01E09
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/666.mp4
+#EXTINF:-1,13.Reasons.Why.S01E08
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/665.mp4
+#EXTINF:-1,13.Reasons.Why.S01E07
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/664.mp4
+#EXTINF:-1,13.Reasons.Why.S01E06
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/663.mp4
+#EXTINF:-1,13.Reasons.Why.S01E05
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/662.mp4
+#EXTINF:-1,13.Reasons.Why.S01E04
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/661.mp4
+#EXTINF:-1,13.Reasons.Why.S01E03
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/660.mp4
+#EXTINF:-1,13.Reasons.Why.S01E02
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/659.mp4
+#EXTINF:-1,13.Reasons.Why.S01E01
+http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/658.mp4
