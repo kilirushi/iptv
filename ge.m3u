@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="",1TV
-http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" group-title="",1 TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/mX080in.png" group-title="",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/VBmQCH7.png" group-title="",2TV
@@ -13,6 +13,8 @@ http://tv.cdn.xsg.ge/agrotv/tracks-v1a1/index.m3u8
 http://tv.cdn.xsg.ge/artarea/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/2gH4apJ.png" group-title="",Batumi TV
 http://tv.cdn.xsg.ge/batumitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/R367t6c.png" group-title="",BBB
+http://tv.cdn.xsg.ge/bbb/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/D4ZfXqB.png" group-title="",Caucasia
 http://tv.cdn.xsg.ge/caucasia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/mjsztRK.png" group-title="",Comedy
@@ -25,8 +27,6 @@ http://tv.cdn.xsg.ge/drotv/playlist.m3u8
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/cuGSbgu.png" group-title="",Ertsulovneba
 http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/Y8rrOmC.png" group-title="",Food TV
-http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/sI6Grvu.png" group-title="",Formula
 http://tv.cdn.xsg.ge/formula/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="",Formula
@@ -36,19 +36,25 @@ http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/PqZe2ej.png" group-title="",Guria tv
 http://tv.cdn.xsg.ge/guriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/m2pPZR6.png" group-title="",Imedi
-http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+https://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/0w6wIE7.png" group-title="",Imedi HD
 https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/6BKiBJ4.png" group-title="",Maestro
 http://tv.cdn.xsg.ge/maestro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="" group-title="",Maestro
 https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/VUHpDJH.png" group-title="",Mall TV
+http://tv.cdn.xsg.ge/malltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/XAwZAH4.png" group-title="",Mtavari
 http://tv.cdn.xsg.ge/mtavari/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="" group-title="",Mtavari Arxi
 https://hls.t.stream-dns.net/hls/mtavari_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/ku9kLp8.png" group-title="",Music Box Georgia
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/eZ90ovC.png" group-title="",Obieqtivi TV
+http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/9QVZGow.png" group-title="",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/AqSRphj.png" group-title="News",Palitra News
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/wJ1F3ob.png" group-title="",Pirveli
@@ -61,14 +67,14 @@ https://tv.cdn.xsg.ge/c4315/PosTV/tracks-v1a1/index.m3u8
 http://tv.cdn.xsg.ge/rioni/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/85D9kPy.png" group-title="Sport",Rugby TV
 http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="",Rustavi 2
-http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="",Rustavi 2
-http://md-store4.tulix.tv/rustavi2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="",Rustavi 2
-http://r2.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/pUjbwlX.png" group-title="",Rustavi 2
 http://tv.cdn.xsg.ge/rustavi2hqnew/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="",Rustavi 2
+https://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="",Rustavi 2
+https://md-store4.tulix.tv/rustavi2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="",Rustavi 2
+https://r2.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/jW2cdVt.png" group-title="",Shonitv
 http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/Zo9mGO2.png" group-title="",TV 24

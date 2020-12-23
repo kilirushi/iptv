@@ -1,277 +1,593 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56617
-#EXTINF:-1,RTP1 FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56661
-#EXTINF:-1,RTP 2
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56618
-#EXTINF:-1,RTP2  FHD 
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56662
-#EXTINF:-1,RTP 3
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56619
-#EXTINF:-1,Sic 
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/223162
-#EXTINF:-1,SIC FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54795
+#EXTINF:-1,PT| 24 Kitchen FullHD
+http://listamy.com:8080/stream17/stream17/337805
+#EXTINF:-1,PT| A BOLA TV
+http://listamy.com:8080/stream17/stream17/337806
+#EXTINF:-1,PT| AMC
+http://listamy.com:8080/stream17/stream17/337807
+#EXTINF:-1,PT| AXN
+http://listamy.com:8080/stream17/stream17/337808
+#EXTINF:-1,PT| AXN Black
+http://listamy.com:8080/stream17/stream17/337809
+#EXTINF:-1,PT| AXN WHITE
+http://listamy.com:8080/stream17/stream17/337810
+#EXTINF:-1,PT| BABY TV
+http://listamy.com:8080/stream17/stream17/337811
+#EXTINF:-1,PT| BENFICA TV HD
+http://listamy.com:8080/stream17/stream17/337812
+#EXTINF:-1,PT| Benfica TV FullHD
+http://listamy.com:8080/stream17/stream17/337813
+#EXTINF:-1,PT| CM TV
+http://listamy.com:8080/stream17/stream17/337814
+#EXTINF:-1,PT| CAÇA & PESCA
+http://listamy.com:8080/stream17/stream17/337815
+#EXTINF:-1,PT| CANAL Q
+http://listamy.com:8080/stream17/stream17/337816
+#EXTINF:-1,PT| CANAL PANDA
+http://listamy.com:8080/stream17/stream17/337817
+#EXTINF:-1,PT| Casa e Cozinha FHD
+http://listamy.com:8080/stream17/stream17/337818
+#EXTINF:-1,PT| CANAL HISTORIA
+http://listamy.com:8080/stream17/stream17/337820
+#EXTINF:-1,PT| CINEMUNDO
+http://listamy.com:8080/stream17/stream17/337821
+#EXTINF:-1,PT| CBS Reality
+http://listamy.com:8080/stream17/stream17/337822
+#EXTINF:-1,PT| DISNEY CHANNEL
+http://listamy.com:8080/stream17/stream17/337823
+#EXTINF:-1,PT| DISCOVERY CHANNEL
+http://listamy.com:8080/stream17/stream17/337824
+#EXTINF:-1,PT| Discovery HD Showcase
+http://listamy.com:8080/stream17/stream17/337825
+#EXTINF:-1,PT| DISNEY JUNIOR
+http://listamy.com:8080/stream17/stream17/337826
+#EXTINF:-1,PT| EUROSPORT
+http://listamy.com:8080/stream17/stream17/337827
+#EXTINF:-1,PT| Eurosport 2
+http://listamy.com:8080/stream17/stream17/337828
+#EXTINF:-1,PT| E! Entertainment
+http://listamy.com:8080/stream17/stream17/337829
+#EXTINF:-1,PT| FOX TV
+http://listamy.com:8080/stream17/stream17/337830
+#EXTINF:-1,PT| FOX MOVIES HD
+http://listamy.com:8080/stream17/stream17/337831
+#EXTINF:-1,PT| FOX CRIME
+http://listamy.com:8080/stream17/stream17/337832
+#EXTINF:-1,PT| FOX LIFE
+http://listamy.com:8080/stream17/stream17/337833
+#EXTINF:-1,PT| Fox Comedy
+http://listamy.com:8080/stream17/stream17/337834
+#EXTINF:-1,PT| Food Network
+http://listamy.com:8080/stream17/stream17/337835
+#EXTINF:-1,PT| Fuel TV
+http://listamy.com:8080/stream17/stream17/337836
+#EXTINF:-1,PT| ODISSEIA
+http://listamy.com:8080/stream17/stream17/337837
+#EXTINF:-1,PT| MOV HD
+http://listamy.com:8080/stream17/stream17/337838
+#EXTINF:-1,PT| JimJam
+http://listamy.com:8080/stream17/stream17/337839
+#EXTINF:-1,PT| Kombat Sports
+http://listamy.com:8080/stream17/stream17/337840
+#EXTINF:-1,PT| Mtv Portuga
+http://listamy.com:8080/stream17/stream17/337841
+#EXTINF:-1,PT| Nat Geo Wild
+http://listamy.com:8080/stream17/stream17/337842
+#EXTINF:-1,PT| MOTORVISION TV
+http://listamy.com:8080/stream17/stream17/337843
+#EXTINF:-1,PT| NATIONAL GEOGRAPHIC
+http://listamy.com:8080/stream17/stream17/337844
+#EXTINF:-1,PT| NBA HD
+http://listamy.com:8080/stream17/stream17/337845
+#EXTINF:-1,PT| NICKELODEON
+http://listamy.com:8080/stream17/stream17/337846
+#EXTINF:-1,PT| RTP 1
+http://listamy.com:8080/stream17/stream17/337847
+#EXTINF:-1,PT| RTP 2
+http://listamy.com:8080/stream17/stream17/337848
+#EXTINF:-1,PT| RTP 3 FullHD
+http://listamy.com:8080/stream17/stream17/337849
+#EXTINF:-1,PT| Real Madrid TV
+http://listamy.com:8080/stream17/stream17/337850
+#EXTINF:-1,PT| RTP AÇORES
+http://listamy.com:8080/stream17/stream17/337851
+#EXTINF:-1,PT| RTP MEMÓRIA
+http://listamy.com:8080/stream17/stream17/337852
+#EXTINF:-1,PT| RTP ÁFRICA
+http://listamy.com:8080/stream17/stream17/337853
+#EXTINF:-1,PT| Panda
+http://listamy.com:8080/stream17/stream17/337854
+#EXTINF:-1,PT| PORTO CANAL
+http://listamy.com:8080/stream17/stream17/337855
+#EXTINF:-1,PT| Panda Biggs
+http://listamy.com:8080/stream17/stream17/337856
+#EXTINF:-1,PT| MOTORVISION
+http://listamy.com:8080/stream17/stream17/337857
+#EXTINF:-1,PT| PFC
+http://listamy.com:8080/stream17/stream17/337858
+#EXTINF:-1,PT| SPORTING TV
+http://listamy.com:8080/stream17/stream17/337859
+#EXTINF:-1,PT| SPORT TV 1 FullHD
+http://listamy.com:8080/stream17/stream17/337860
+#EXTINF:-1,PT| SPORT TV 2 FullHD
+http://listamy.com:8080/stream17/stream17/337861
+#EXTINF:-1,PT| SPORT TV 3 FullHD
+http://listamy.com:8080/stream17/stream17/337862
+#EXTINF:-1,PT| SPORT TV 4 FullHD
+http://listamy.com:8080/stream17/stream17/337863
+#EXTINF:-1,PT| SPORT TV 5 FullHD
+http://listamy.com:8080/stream17/stream17/337864
+#EXTINF:-1,PT| EuroNews
+http://listamy.com:8080/stream17/stream17/337865
+#EXTINF:-1,PT| SYFY FullHD
+http://listamy.com:8080/stream17/stream17/337866
+#EXTINF:-1,PT| SIC RADICAL FullHD
+http://listamy.com:8080/stream17/stream17/337867
+#EXTINF:-1,PT| SIC MULHER
+http://listamy.com:8080/stream17/stream17/337868
+#EXTINF:-1,PT| SIC NOTICIAS
+http://listamy.com:8080/stream17/stream17/337869
+#EXTINF:-1,PT| Sic
+http://listamy.com:8080/stream17/stream17/337870
+#EXTINF:-1,PT| SIC Caras HD
+http://listamy.com:8080/stream17/stream17/337871
+#EXTINF:-1,PT| SIC Kids FHD
+http://listamy.com:8080/stream17/stream17/337872
+#EXTINF:-1,PT| TLC
+http://listamy.com:8080/stream17/stream17/337873
+#EXTINF:-1,PT| TVI REALITY
+http://listamy.com:8080/stream17/stream17/337874
+#EXTINF:-1,PT| TOROS TV
+http://listamy.com:8080/stream17/stream17/337875
+#EXTINF:-1,PT| TV Globo NOW
+http://listamy.com:8080/stream17/stream17/337876
+#EXTINF:-1,PT| TV GLOBO
+http://listamy.com:8080/stream17/stream17/337877
+#EXTINF:-1,PT| TV RECORD
+http://listamy.com:8080/stream17/stream17/337878
+#EXTINF:-1,PT| TV CINE ACTION FullHD
+http://listamy.com:8080/stream17/stream17/337879
+#EXTINF:-1,PT| TV CINE EDITION FullHD
+http://listamy.com:8080/stream17/stream17/337880
+#EXTINF:-1,PT| TV CINE Emotion  FullHD
+http://listamy.com:8080/stream17/stream17/337881
+#EXTINF:-1,PT| TV CINE TOP  FullHD
+http://listamy.com:8080/stream17/stream17/337882
+#EXTINF:-1,PT| TVI
+http://listamy.com:8080/stream17/stream17/337883
+#EXTINF:-1,PT| TVI 24
+http://listamy.com:8080/stream17/stream17/337884
+#EXTINF:-1,PT| TVCseries FullHD
+http://listamy.com:8080/stream17/stream17/337885
+#EXTINF:-1,PT| Travel Channel
+http://listamy.com:8080/stream17/stream17/337886
+#EXTINF:-1,PT| VH1
+http://listamy.com:8080/stream17/stream17/337887
+#EXTINF:-1,PT| ZAP VIVA FHD
+http://listamy.com:8080/stream17/stream17/337888
+#EXTINF:-1,PT| NOS STUDIOS HD
+http://listamy.com:8080/stream17/stream17/337889
+#EXTINF:-1,PT| HOLLYWOOD FHD
+http://listamy.com:8080/stream17/stream17/337890
+#EXTINF:-1,PT| TVI FICCAO
+http://listamy.com:8080/stream17/stream17/337891
+#EXTINF:-1,PT| CANAL 11 HD
+http://listamy.com:8080/stream17/stream17/337892
+#EXTINF:-1,PT| SPORT TV + HD
+http://listamy.com:8080/stream17/stream17/337893
+#EXTINF:-1,PT| CRIME + INVESTIGACAO FullHD
+http://listamy.com:8080/stream17/stream17/337894
+#EXTINF:-1,TVCINE 1 HD
+http://listamy.com:8080/stream17/stream17/307752
+#EXTINF:-1,TVCINE 3
+http://listamy.com:8080/stream17/stream17/307755
+#EXTINF:-1,TVCINE 3 HD
+http://listamy.com:8080/stream17/stream17/307756
+#EXTINF:-1,TVCINE 4
+http://listamy.com:8080/stream17/stream17/307757
+#EXTINF:-1,TVCINE 4 HD
+http://listamy.com:8080/stream17/stream17/307758
+#EXTINF:-1,TVE INTERNACIONAL
+http://listamy.com:8080/stream17/stream17/307759
 #EXTINF:-1,TVI
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56623
-#EXTINF:-1,TVI FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/53441
-#EXTINF:-1,TVI Ficção
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/111915
-#EXTINF:-1,TVI REALITY
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/57455
-#EXTINF:-1,CMTV (NOS)
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/120009
-#EXTINF:-1,CMTV (MEO)
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/113050
+http://listamy.com:8080/stream17/stream17/307760
 #EXTINF:-1,TVI 24
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56620
-#EXTINF:-1,SIC NOTICIAS
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/57307
-#EXTINF:-1,PT:EURONEWS PT
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/108006
-#EXTINF:-1,TS RECORD NEWS
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/74094
-#EXTINF:-1,TVE 24h
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/116884
-#EXTINF:-1,SKY New
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/116887
-#EXTINF:-1,BBC World News
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/116881
-#EXTINF:-1,France 24
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/116882
-#EXTINF:-1,NOS STUDIO FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/108007
-#EXTINF:-1,ZAP VIVA FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/45428
-#EXTINF:-1,24 KITCHEN FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22777
-#EXTINF:-1,Casa e Cozinha HD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/110378
-#EXTINF:-1,Eurochannel
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/50862
-#EXTINF:-1,BLAZE
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/45469
-#EXTINF:-1,CBS Reality
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54968
-#EXTINF:-1,Caça e Pesca
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54797
-#EXTINF:-1,Caçavisão
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/110362
-#EXTINF:-1,11 FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54798
-#EXTINF:-1,SPORT TV +
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/33560
-#EXTINF:-1,SPORT TV 1 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/45456
-#EXTINF:-1,SPORT TV 1 FHD (Nos)
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/33561
-#EXTINF:-1, SPORT TV 1 FHD (Meo)
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/194381
-#EXTINF:-1,SPORT TV 2 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/71124
-#EXTINF:-1,SPORT TV 2 FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22805
-#EXTINF:-1,SPORT TV 3 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/71132
-#EXTINF:-1,SPORT TV 3 FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/84245
-#EXTINF:-1,SPORT TV 4 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/202650
-#EXTINF:-1,SPORT TV 5 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22802
-#EXTINF:-1,ELEVEN SPORTS 1 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/46506
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/34011
-#EXTINF:-1,ELEVEN SPORTS 2 
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/202651
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/34009
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/57433
-#EXTINF:-1,ELEVEN SPORTS 4 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/34006
-#EXTINF:-1,ELEVEN SPORTS 5 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/34005
-#EXTINF:-1,ELEVEN SPORTS 6 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/34004
-#EXTINF:-1,BTV SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/53452
-#EXTINF:-1,BENFICA TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/45944
-#EXTINF:-1,BENFICA TV FHD (NOS)
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/46446
-#EXTINF:-1,BENFICA TV FHD (MEO)
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/132360
-#EXTINF:-1,Sporting TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22794
-#EXTINF:-1,Porto Canal
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22795
-#EXTINF:-1,A Bola TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22751
-#EXTINF:-1,NBA TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22791
-#EXTINF:-1,PFC
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22796
-#EXTINF:-1,Motorvision
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22798
-#EXTINF:-1,Eurosport 1 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22800
-#EXTINF:-1,Eurosport 1 FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/73768
-#EXTINF:-1,Eurosport 2 SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22801
-#EXTINF:-1,Kombat Sport
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/33558
-#EXTINF:-1,CAPELINHA FATIMA (Live stream)
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/215257
-#EXTINF:-1,SOBRENATURAL TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/216705
-#EXTINF:-1,CANÇAO NOVA
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/45945
-#EXTINF:-1,GLOBO
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54302
-#EXTINF:-1,Globo Now
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22776
-#EXTINF:-1,GLOBO TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/55273
-#EXTINF:-1,Record TV SD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/27407
-#EXTINF:-1,Record TV FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/45949
-#EXTINF:-1,Radio Tv
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/213718
-#EXTINF:-1,MTV Portugal
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22719
-#EXTINF:-1,TRACE TOCA
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54812
-#EXTINF:-1,TRACE URBAN
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/45953
-#EXTINF:-1,Afro Musica
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22722
-#EXTINF:-1,Adalmada Radio tv
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/216703
+http://listamy.com:8080/stream17/stream17/307761
+#EXTINF:-1,TVI 24 FHD
+http://listamy.com:8080/stream17/stream17/307762
+#EXTINF:-1,TVI FHD
+http://listamy.com:8080/stream17/stream17/307763
+#EXTINF:-1,TVI FICCAO
+http://listamy.com:8080/stream17/stream17/307764
+#EXTINF:-1,TVI FICÃ§AO
+http://listamy.com:8080/stream17/stream17/307765
+#EXTINF:-1,TVI REALITY
+http://listamy.com:8080/stream17/stream17/307766
+#EXTINF:-1,TVI REALITY FHD
+http://listamy.com:8080/stream17/stream17/307767
 #EXTINF:-1,VH1
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22718
-#EXTINF:-1,MEZZO
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/52152
-#EXTINF:-1,MCM Pop
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22721
-#EXTINF:-1,KURIAKOS KIDS
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/216706
-#EXTINF:-1,Disney Channel
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22730
-#EXTINF:-1,Canal Panda 
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22732
-#EXTINF:-1,Disney Junior
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22729
-#EXTINF:-1,Nickelodeon
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22727
-#EXTINF:-1,JimJam
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22728
-#EXTINF:-1,Nick Jr.
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/72918
-#EXTINF:-1,Biggs
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22734
-#EXTINF:-1,BABY TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/47942
-#EXTINF:-1,SIC K
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22764
-#EXTINF:-1,Moçambique TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/216707
-#EXTINF:-1,Angola TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/216708
-#EXTINF:-1,Kuriakos TV FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/45957
-#EXTINF:-1,SIC RADICAL
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22763
-#EXTINF:-1,SIC CARAS
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22765
-#EXTINF:-1,RTP MEMORIA
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22769
-#EXTINF:-1,RTP AFRICA pt
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/108009
-#EXTINF:-1,RTP AÇORES
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22767
-#EXTINF:-1,TELESUR
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/110379
-#EXTINF:-1,PARLAMENTO
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/111914
-#EXTINF:-1,RTP MADEIRA
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22770
-#EXTINF:-1,Canal Q
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/110376
-#EXTINF:-1,National Geographic HD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/120003
-#EXTINF:-1,National Geographic Wild
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/108010
-#EXTINF:-1,Discovery Channel
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22736
-#EXTINF:-1,Discovery FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/33792
-#EXTINF:-1,Odisseia
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22743
-#EXTINF:-1, HISTORIA
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/216737
-#EXTINF:-1,ID INVESTIGATION DISCOVERY
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/55288
-#EXTINF:-1,Crime+Investigation
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/110375
-#EXTINF:-1,E! Entertainment
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54971
-#EXTINF:-1,TLC
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22753
-#EXTINF:-1,Fuel TV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22745
-#EXTINF:-1,TRAVEL CHANNEL FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22711
-#EXTINF:-1,TV5 Monde
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/116883
-#EXTINF:-1,FTV
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/47445
-#EXTINF:-1,TV CINE EDITION
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/94587
-#EXTINF:-1,TV CINE EDITION FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/108008
-#EXTINF:-1,TV CINE EMOTION FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/94582
-#EXTINF:-1,TV CINE TOP
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/94584
-#EXTINF:-1,TV CINE TOP FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/109188
-#EXTINF:-1,TV CINE ACTION FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/94588
-#EXTINF:-1,AXN WHITE FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22779
-#EXTINF:-1,AXN MOVIES 
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/94580
-#EXTINF:-1,AXN MOVIES FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54298
-#EXTINF:-1,AXN FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/54847
-#EXTINF:-1,FOX MOVIES
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22782
-#EXTINF:-1,FOX LIFE FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22712
-#EXTINF:-1,FOX COMEDY
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22775
-#EXTINF:-1,FOX CRIME FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22713
-#EXTINF:-1,FOX FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/55143
-#EXTINF:-1,TVSeries HD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/108000
-#EXTINF:-1,CINEMUNDO
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22784
-#EXTINF:-1,AMC 
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56621
+http://listamy.com:8080/stream17/stream17/307768
+#EXTINF:-1,ZAP Viva FHD
+http://listamy.com:8080/stream17/stream17/307769
+#EXTINF:-1,KURIAKOS KIDS HD  \'PT
+http://listamy.com:8080/stream17/stream17/307770
+#EXTINF:-1,KURIAKOS TV \'PT
+http://listamy.com:8080/stream17/stream17/307771
+#EXTINF:-1,TV GALICIA \'PT
+http://listamy.com:8080/stream17/stream17/307772
+#EXTINF:-1,SPORTING TV
+http://listamy.com:8080/stream17/stream17/307726
+#EXTINF:-1,SPORTING TV FHD
+http://listamy.com:8080/stream17/stream17/307727
+#EXTINF:-1,SYFY
+http://listamy.com:8080/stream17/stream17/307728
+#EXTINF:-1,SYFY FHD
+http://listamy.com:8080/stream17/stream17/307729
+#EXTINF:-1,24 KITCHEN HD
+http://listamy.com:8080/stream17/stream17/307559
+#EXTINF:-1,A BOLA TV
+http://listamy.com:8080/stream17/stream17/307560
+#EXTINF:-1,A BOLA TV FHD
+http://listamy.com:8080/stream17/stream17/307561
+#EXTINF:-1,AFRO MUSIC
+http://listamy.com:8080/stream17/stream17/307562
+#EXTINF:-1,AMC
+http://listamy.com:8080/stream17/stream17/307563
 #EXTINF:-1,AMC FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/111768
-#EXTINF:-1,Hollywood
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/56622
-#EXTINF:-1,Hollywood FHD
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22785
-#EXTINF:-1,Syfy
-http://live.darkside-iptv.com:8080/PremiumBestIPTV/BdavbYVUA1P5/22750
+http://listamy.com:8080/stream17/stream17/307564
+#EXTINF:-1,AR TV
+http://listamy.com:8080/stream17/stream17/307565
+#EXTINF:-1,AXN
+http://listamy.com:8080/stream17/stream17/307566
+#EXTINF:-1,AXN BLACK
+http://listamy.com:8080/stream17/stream17/307567
+#EXTINF:-1,AXN BLACK HD
+http://listamy.com:8080/stream17/stream17/307568
+#EXTINF:-1,AXN FHD
+http://listamy.com:8080/stream17/stream17/307569
+#EXTINF:-1,AXN MOVIES
+http://listamy.com:8080/stream17/stream17/307570
+#EXTINF:-1,AXN MOVIES FHD
+http://listamy.com:8080/stream17/stream17/307571
+#EXTINF:-1,AXN WHITE
+http://listamy.com:8080/stream17/stream17/307572
+#EXTINF:-1,AXN WHITE FHD
+http://listamy.com:8080/stream17/stream17/307573
+#EXTINF:-1,BABY TV
+http://listamy.com:8080/stream17/stream17/307574
+#EXTINF:-1,BBC ENTERTAINEMENT
+http://listamy.com:8080/stream17/stream17/307575
+#EXTINF:-1,BBC WORLD NEWS
+http://listamy.com:8080/stream17/stream17/307576
+#EXTINF:-1,BENFICA TV 1
+http://listamy.com:8080/stream17/stream17/307577
+#EXTINF:-1,BENFICA TV 1 HD
+http://listamy.com:8080/stream17/stream17/307578
+#EXTINF:-1,BLAZE
+http://listamy.com:8080/stream17/stream17/307579
+#EXTINF:-1,BOOMERANG
+http://listamy.com:8080/stream17/stream17/307580
+#EXTINF:-1,BTV
+http://listamy.com:8080/stream17/stream17/307581
+#EXTINF:-1,BTV FHD
+http://listamy.com:8080/stream17/stream17/307582
+#EXTINF:-1,BTV HD
+http://listamy.com:8080/stream17/stream17/307583
+#EXTINF:-1,CACA E PESCA
+http://listamy.com:8080/stream17/stream17/307584
+#EXTINF:-1,CACA E PESCA FHD
+http://listamy.com:8080/stream17/stream17/307585
+#EXTINF:-1,CACAVISION
+http://listamy.com:8080/stream17/stream17/307586
+#EXTINF:-1,CANAL 11
+http://listamy.com:8080/stream17/stream17/307587
+#EXTINF:-1,CANAL 11 FHD
+http://listamy.com:8080/stream17/stream17/307588
+#EXTINF:-1,Canal 180
+http://listamy.com:8080/stream17/stream17/307589
+#EXTINF:-1,CANAL BIGGS
+http://listamy.com:8080/stream17/stream17/307590
+#EXTINF:-1,Canal NOS FHD
+http://listamy.com:8080/stream17/stream17/307591
+#EXTINF:-1,CANAL PANDA
+http://listamy.com:8080/stream17/stream17/307592
+#EXTINF:-1,CANAL Q
+http://listamy.com:8080/stream17/stream17/307593
+#EXTINF:-1,Cancao Nova
+http://listamy.com:8080/stream17/stream17/307594
+#EXTINF:-1,CBS REALITY
+http://listamy.com:8080/stream17/stream17/307596
+#EXTINF:-1,CINEMUNDO
+http://listamy.com:8080/stream17/stream17/307597
+#EXTINF:-1,CMTV
+http://listamy.com:8080/stream17/stream17/307599
+#EXTINF:-1,CMTV FHD
+http://listamy.com:8080/stream17/stream17/307600
+#EXTINF:-1,CNBC
+http://listamy.com:8080/stream17/stream17/307601
+#EXTINF:-1,CNN
+http://listamy.com:8080/stream17/stream17/307602
+#EXTINF:-1,COMBATE HD
+http://listamy.com:8080/stream17/stream17/307603
+#EXTINF:-1,CRIME INVESTIGATION
+http://listamy.com:8080/stream17/stream17/307604
+#EXTINF:-1,Deutche Welle
+http://listamy.com:8080/stream17/stream17/307605
+#EXTINF:-1,DISCOVERY CHANNEL
+http://listamy.com:8080/stream17/stream17/307606
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://listamy.com:8080/stream17/stream17/307607
+#EXTINF:-1,DISNEY CHANNEL
+http://listamy.com:8080/stream17/stream17/307608
+#EXTINF:-1,DISNEY JUNIOR
+http://listamy.com:8080/stream17/stream17/307609
+#EXTINF:-1,E! ENTERTAINMENT
+http://listamy.com:8080/stream17/stream17/307610
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://listamy.com:8080/stream17/stream17/307611
+#EXTINF:-1,ELEVEN SPORTS 1
+http://listamy.com:8080/stream17/stream17/307612
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://listamy.com:8080/stream17/stream17/307613
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://listamy.com:8080/stream17/stream17/307614
+#EXTINF:-1,ELEVEN SPORTS 2
+http://listamy.com:8080/stream17/stream17/307615
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://listamy.com:8080/stream17/stream17/307616
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://listamy.com:8080/stream17/stream17/307617
+#EXTINF:-1,ELEVEN SPORTS 3
+http://listamy.com:8080/stream17/stream17/307618
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://listamy.com:8080/stream17/stream17/307619
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://listamy.com:8080/stream17/stream17/307620
+#EXTINF:-1,ELEVEN SPORTS 4
+http://listamy.com:8080/stream17/stream17/307621
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://listamy.com:8080/stream17/stream17/307622
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://listamy.com:8080/stream17/stream17/307623
+#EXTINF:-1,ELEVEN SPORTS 5
+http://listamy.com:8080/stream17/stream17/307624
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://listamy.com:8080/stream17/stream17/307625
+#EXTINF:-1,ELEVEN SPORTS 6
+http://listamy.com:8080/stream17/stream17/307626
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+http://listamy.com:8080/stream17/stream17/307627
+#EXTINF:-1,ESPORTS 1 HD
+http://listamy.com:8080/stream17/stream17/307628
+#EXTINF:-1,EUROCHANNEL
+http://listamy.com:8080/stream17/stream17/307629
+#EXTINF:-1,EURONEWS
+http://listamy.com:8080/stream17/stream17/307630
+#EXTINF:-1,EUROSPORT 1
+http://listamy.com:8080/stream17/stream17/307631
+#EXTINF:-1,EUROSPORT 1 FHD
+http://listamy.com:8080/stream17/stream17/307632
+#EXTINF:-1,EUROSPORT 2
+http://listamy.com:8080/stream17/stream17/307633
+#EXTINF:-1,FASHION TV HD
+http://listamy.com:8080/stream17/stream17/307634
+#EXTINF:-1,FOOD NETWORK HD
+http://listamy.com:8080/stream17/stream17/307635
+#EXTINF:-1,FOX
+http://listamy.com:8080/stream17/stream17/307636
+#EXTINF:-1,FOX COMEDY
+http://listamy.com:8080/stream17/stream17/307637
+#EXTINF:-1,FOX COMEDY FHD
+http://listamy.com:8080/stream17/stream17/307638
+#EXTINF:-1,FOX CRIME
+http://listamy.com:8080/stream17/stream17/307639
+#EXTINF:-1,FOX CRIME HD
+http://listamy.com:8080/stream17/stream17/307640
+#EXTINF:-1,FOX HD
+http://listamy.com:8080/stream17/stream17/307641
+#EXTINF:-1,FOX LIFE FHD
+http://listamy.com:8080/stream17/stream17/307642
+#EXTINF:-1,FOX MOVIES
+http://listamy.com:8080/stream17/stream17/307643
+#EXTINF:-1,FOX MOVIES FHD
+http://listamy.com:8080/stream17/stream17/307644
+#EXTINF:-1,FTV
+http://listamy.com:8080/stream17/stream17/307645
+#EXTINF:-1,FUEL TV
+http://listamy.com:8080/stream17/stream17/307646
+#EXTINF:-1,FUEL TV FHD
+http://listamy.com:8080/stream17/stream17/307647
+#EXTINF:-1,GINX
+http://listamy.com:8080/stream17/stream17/307648
+#EXTINF:-1,GLOBO
+http://listamy.com:8080/stream17/stream17/307649
+#EXTINF:-1,GLOBO FHD
+http://listamy.com:8080/stream17/stream17/307650
+#EXTINF:-1,GLOBO NOW
+http://listamy.com:8080/stream17/stream17/307651
+#EXTINF:-1,HISTORIA
+http://listamy.com:8080/stream17/stream17/307652
+#EXTINF:-1,HOLLYWOOD
+http://listamy.com:8080/stream17/stream17/307653
+#EXTINF:-1,HOLLYWOOD FHD
+http://listamy.com:8080/stream17/stream17/307654
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+http://listamy.com:8080/stream17/stream17/307655
+#EXTINF:-1,JIM JAM
+http://listamy.com:8080/stream17/stream17/307656
+#EXTINF:-1,KOMBAT SPORT
+http://listamy.com:8080/stream17/stream17/307657
+#EXTINF:-1,KURIAKOS KIDS HD  \'PT
+http://listamy.com:8080/stream17/stream17/307658
+#EXTINF:-1,KURIAKOS TV \'PT
+http://listamy.com:8080/stream17/stream17/307659
+#EXTINF:-1,LOCALVISAO HD
+http://listamy.com:8080/stream17/stream17/307660
+#EXTINF:-1,MCM POP
+http://listamy.com:8080/stream17/stream17/307661
+#EXTINF:-1,MCM TOP
+http://listamy.com:8080/stream17/stream17/307662
+#EXTINF:-1,MEZZO
+http://listamy.com:8080/stream17/stream17/307663
+#EXTINF:-1,MOTORVISION HD
+http://listamy.com:8080/stream17/stream17/307664
+#EXTINF:-1,MTV
+http://listamy.com:8080/stream17/stream17/307665
+#EXTINF:-1,MTV FHD
+http://listamy.com:8080/stream17/stream17/307666
+#EXTINF:-1,MVM
+http://listamy.com:8080/stream17/stream17/307667
+#EXTINF:-1,MY CUISINE
+http://listamy.com:8080/stream17/stream17/307668
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://listamy.com:8080/stream17/stream17/307669
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://listamy.com:8080/stream17/stream17/307670
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://listamy.com:8080/stream17/stream17/307671
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://listamy.com:8080/stream17/stream17/307672
+#EXTINF:-1,NBA TV
+http://listamy.com:8080/stream17/stream17/307673
+#EXTINF:-1,NBA TV FHD
+http://listamy.com:8080/stream17/stream17/307674
+#EXTINF:-1,NICK JR
+http://listamy.com:8080/stream17/stream17/307675
+#EXTINF:-1,NICKELODEON
+http://listamy.com:8080/stream17/stream17/307676
+#EXTINF:-1,NOS STUDIOS FHD
+http://listamy.com:8080/stream17/stream17/307677
+#EXTINF:-1,ODISSEIA
+http://listamy.com:8080/stream17/stream17/307678
+#EXTINF:-1,ODISSEIA FHD
+http://listamy.com:8080/stream17/stream17/307679
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://listamy.com:8080/stream17/stream17/307680
+#EXTINF:-1,PFC
+http://listamy.com:8080/stream17/stream17/307681
+#EXTINF:-1,PORTO CANAL
+http://listamy.com:8080/stream17/stream17/307682
+#EXTINF:-1,PORTO CANAL FHD
+http://listamy.com:8080/stream17/stream17/307683
+#EXTINF:-1,RECORD NEWS
+http://listamy.com:8080/stream17/stream17/307684
+#EXTINF:-1,RT Doc
+http://listamy.com:8080/stream17/stream17/307685
+#EXTINF:-1,RTP 1
+http://listamy.com:8080/stream17/stream17/307686
+#EXTINF:-1,RTP 1 FHD
+http://listamy.com:8080/stream17/stream17/307687
+#EXTINF:-1,RTP 2
+http://listamy.com:8080/stream17/stream17/307688
+#EXTINF:-1,RTP 2 FHD
+http://listamy.com:8080/stream17/stream17/307689
+#EXTINF:-1,RTP 3
+http://listamy.com:8080/stream17/stream17/307690
+#EXTINF:-1,RTP ACORES
+http://listamy.com:8080/stream17/stream17/307691
+#EXTINF:-1,RTP AFRICA
+http://listamy.com:8080/stream17/stream17/307692
+#EXTINF:-1,RTP MADEIRA
+http://listamy.com:8080/stream17/stream17/307693
+#EXTINF:-1,RTP MEMORIA
+http://listamy.com:8080/stream17/stream17/307694
+#EXTINF:-1,SANTUARIO DE FATIMA
+http://listamy.com:8080/stream17/stream17/307695
+#EXTINF:-1,SIC
+http://listamy.com:8080/stream17/stream17/307696
+#EXTINF:-1,SIC CARAS
+http://listamy.com:8080/stream17/stream17/307697
+#EXTINF:-1,SIC CARAS HD
+http://listamy.com:8080/stream17/stream17/307698
+#EXTINF:-1,SIC FHD
+http://listamy.com:8080/stream17/stream17/307699
+#EXTINF:-1,SIC K
+http://listamy.com:8080/stream17/stream17/307700
+#EXTINF:-1,SIC KIDS HD
+http://listamy.com:8080/stream17/stream17/307701
+#EXTINF:-1,SIC MULHER
+http://listamy.com:8080/stream17/stream17/307702
+#EXTINF:-1,SIC MULHER FHD
+http://listamy.com:8080/stream17/stream17/307703
+#EXTINF:-1,SIC NOTICIAS
+http://listamy.com:8080/stream17/stream17/307704
+#EXTINF:-1,SIC NOTICIAS FHD
+http://listamy.com:8080/stream17/stream17/307705
+#EXTINF:-1,SIC RADICAL
+http://listamy.com:8080/stream17/stream17/307706
+#EXTINF:-1,SIC RADICAL FHD
+http://listamy.com:8080/stream17/stream17/307707
+#EXTINF:-1,SKY NEWS
+http://listamy.com:8080/stream17/stream17/307708
+#EXTINF:-1,SPORT TV
+http://listamy.com:8080/stream17/stream17/307709
+#EXTINF:-1,SPORT TV   HD
+http://listamy.com:8080/stream17/stream17/307710
+#EXTINF:-1,SPORT TV +
+http://listamy.com:8080/stream17/stream17/307711
+#EXTINF:-1,SPORT TV 1 FHD
+http://listamy.com:8080/stream17/stream17/307713
+#EXTINF:-1,SPORT TV 1 HD
+http://listamy.com:8080/stream17/stream17/307714
+#EXTINF:-1,SPORT TV 1 SD
+http://listamy.com:8080/stream17/stream17/307715
+#EXTINF:-1,SPORT TV 2
+http://listamy.com:8080/stream17/stream17/307716
+#EXTINF:-1,SPORT TV 2 FHD
+http://listamy.com:8080/stream17/stream17/307717
+#EXTINF:-1,SPORT TV 2 HD
+http://listamy.com:8080/stream17/stream17/307718
+#EXTINF:-1,SPORT TV 3
+http://listamy.com:8080/stream17/stream17/307719
+#EXTINF:-1,SPORT TV 3 FHD
+http://listamy.com:8080/stream17/stream17/307720
+#EXTINF:-1,SPORT TV 4
+http://listamy.com:8080/stream17/stream17/307721
+#EXTINF:-1,SPORT TV 4 FHD
+http://listamy.com:8080/stream17/stream17/307722
+#EXTINF:-1,SPORT TV 4K
+http://listamy.com:8080/stream17/stream17/307723
+#EXTINF:-1,SPORT TV 5
+http://listamy.com:8080/stream17/stream17/307724
+#EXTINF:-1,SPORT TV 5 HD
+http://listamy.com:8080/stream17/stream17/307725
+#EXTINF:-1,THE QYOU
+http://listamy.com:8080/stream17/stream17/307730
+#EXTINF:-1,TLC
+http://listamy.com:8080/stream17/stream17/307731
+#EXTINF:-1,TOROS TV
+http://listamy.com:8080/stream17/stream17/307732
+#EXTINF:-1,TPA
+http://listamy.com:8080/stream17/stream17/307733
+#EXTINF:-1,TRACE TOCA
+http://listamy.com:8080/stream17/stream17/307734
+#EXTINF:-1,TRACE URBAN
+http://listamy.com:8080/stream17/stream17/307735
+#EXTINF:-1,TRAVEL CHANNEL FHD
+http://listamy.com:8080/stream17/stream17/307736
+#EXTINF:-1,TV CINE ACTION FHD
+http://listamy.com:8080/stream17/stream17/307738
+#EXTINF:-1,TV CINE EDITION
+http://listamy.com:8080/stream17/stream17/307739
+#EXTINF:-1,TV CINE EDITION FHD
+http://listamy.com:8080/stream17/stream17/307740
+#EXTINF:-1,TV CINE EMOTION FHD
+http://listamy.com:8080/stream17/stream17/307742
+#EXTINF:-1,TV CINE TOP
+http://listamy.com:8080/stream17/stream17/307743
+#EXTINF:-1,TV CINE TOP FHD
+http://listamy.com:8080/stream17/stream17/307744
+#EXTINF:-1,TV GALICIA \'PT
+http://listamy.com:8080/stream17/stream17/307745
+#EXTINF:-1,TV RECORD
+http://listamy.com:8080/stream17/stream17/307746
+#EXTINF:-1,TV RECORD FHD
+http://listamy.com:8080/stream17/stream17/307747
+#EXTINF:-1,TV SERIES
+http://listamy.com:8080/stream17/stream17/307748
+#EXTINF:-1,TV SERIES HD
+http://listamy.com:8080/stream17/stream17/307749
+#EXTINF:-1,TVC News
+http://listamy.com:8080/stream17/stream17/307750
+#EXTINF:-1,TVCINE 1
+http://listamy.com:8080/stream17/stream17/307751

@@ -1,353 +1,299 @@
 #EXTM3U
-#EXTINF:-1,NPO 1
-http://listamy.com:8080/stream12/stream12/305404
-#EXTINF:-1,NPO 2
-http://listamy.com:8080/stream12/stream12/305405
-#EXTINF:-1,NPO 3
-http://listamy.com:8080/stream12/stream12/305406
-#EXTINF:-1,NPO 101 HD
-http://listamy.com:8080/stream12/stream12/305407
-#EXTINF:-1,NPO 1 Extra HD
-http://listamy.com:8080/stream12/stream12/305408
-#EXTINF:-1,NPO 2 Extra HD
-http://listamy.com:8080/stream12/stream12/305409
-#EXTINF:-1,RTL 4
-http://listamy.com:8080/stream12/stream12/305410
+#EXTINF:-1,NPO1 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1792.ts
+#EXTINF:-1,NPO2 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1793.ts
+#EXTINF:-1,NPO3 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1794.ts
+#EXTINF:-1,RTL 4 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1795.ts
 #EXTINF:-1,RTL 5 HD
-http://listamy.com:8080/stream12/stream12/305411
-#EXTINF:-1,SBS 9 HD
-http://listamy.com:8080/stream12/stream12/305412
-#EXTINF:-1,Net 5
-http://listamy.com:8080/stream12/stream12/305413
-#EXTINF:-1,Veronica HD
-http://listamy.com:8080/stream12/stream12/305414
-#EXTINF:-1,RTL Z
-http://listamy.com:8080/stream12/stream12/305415
-#EXTINF:-1,NPO Best Zapp Xtra
-http://listamy.com:8080/stream12/stream12/305416
-#EXTINF:-1,NPO Nieuws
-http://listamy.com:8080/stream12/stream12/305417
-#EXTINF:-1,Comedy Central HD
-http://listamy.com:8080/stream12/stream12/305418
-#EXTINF:-1,Nickelodeon HD
-http://listamy.com:8080/stream12/stream12/305419
-#EXTINF:-1,Fox HD
-http://listamy.com:8080/stream12/stream12/305420
-#EXTINF:-1,NickToons HD
-http://listamy.com:8080/stream12/stream12/305422
-#EXTINF:-1,Ketnet HD
-http://listamy.com:8080/stream12/stream12/305423
-#EXTINF:-1,Disney Channel HD
-http://listamy.com:8080/stream12/stream12/305424
-#EXTINF:-1,Cartoon Network HD
-http://listamy.com:8080/stream12/stream12/305425
-#EXTINF:-1,Boomerang HD
-http://listamy.com:8080/stream12/stream12/305426
-#EXTINF:-1,RTL Telekids HD
-http://listamy.com:8080/stream12/stream12/305427
-#EXTINF:-1,Nick Jr. HD
-http://listamy.com:8080/stream12/stream12/305428
-#EXTINF:-1,Baby TV
-http://listamy.com:8080/stream12/stream12/305429
-#EXTINF:-1,192TV
-http://listamy.com:8080/stream12/stream12/305431
-#EXTINF:-1,MTV HD
-http://listamy.com:8080/stream12/stream12/305432
-#EXTINF:-1,Nick Music HD
-http://listamy.com:8080/stream12/stream12/305433
-#EXTINF:-1,TV Oranje
-http://listamy.com:8080/stream12/stream12/305434
-#EXTINF:-1,100% NL TV
-http://listamy.com:8080/stream12/stream12/305435
-#EXTINF:-1,Slam!TV
-http://listamy.com:8080/stream12/stream12/305436
-#EXTINF:-1,Film 1 Premiere HD
-http://listamy.com:8080/stream12/stream12/305438
-#EXTINF:-1,Film 1 Action HD
-http://listamy.com:8080/stream12/stream12/305439
-#EXTINF:-1,Film 1 Action HD Backup
-http://listamy.com:8080/stream12/stream12/305440
-#EXTINF:-1,Film 1 Drama
-http://listamy.com:8080/stream12/stream12/305441
-#EXTINF:-1,Film 1 Family
-http://listamy.com:8080/stream12/stream12/305442
-#EXTINF:-1,RTL Lounge
-http://listamy.com:8080/stream12/stream12/305444
-#EXTINF:-1,RTL Crime Hd
-http://listamy.com:8080/stream12/stream12/305445
-#EXTINF:-1,Crime & Investigation HD
-http://listamy.com:8080/stream12/stream12/305446
-#EXTINF:-1,E Entertainment HD
-http://listamy.com:8080/stream12/stream12/305447
-#EXTINF:-1,TLC HD
-http://listamy.com:8080/stream12/stream12/305448
-#EXTINF:-1,24 Kitchen HD
-http://listamy.com:8080/stream12/stream12/305449
-#EXTINF:-1,Ons HD
-http://listamy.com:8080/stream12/stream12/305450
-#EXTINF:-1,BBC Entertainment HD
-http://listamy.com:8080/stream12/stream12/305451
-#EXTINF:-1,BBC First HD
-http://listamy.com:8080/stream12/stream12/305452
-#EXTINF:-1,National Geographic HD
-http://listamy.com:8080/stream12/stream12/305454
-#EXTINF:-1,National Geographic Wild HD
-http://listamy.com:8080/stream12/stream12/305455
-#EXTINF:-1,Discovery World HD
-http://listamy.com:8080/stream12/stream12/305456
-#EXTINF:-1,Animal Planet HD
-http://listamy.com:8080/stream12/stream12/305457
-#EXTINF:-1,Discovery Channel HD
-http://listamy.com:8080/stream12/stream12/305458
-#EXTINF:-1,Discovery Science HD
-http://listamy.com:8080/stream12/stream12/305459
-#EXTINF:-1,History HD
-http://listamy.com:8080/stream12/stream12/305460
-#EXTINF:-1,RTV 7 HD
-http://listamy.com:8080/stream12/stream12/305462
-#EXTINF:-1,RTV Utrecht HD
-http://listamy.com:8080/stream12/stream12/305463
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1796.ts
+#EXTINF:-1,SBS6 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1797.ts
 #EXTINF:-1,RTL 7 HD
-http://listamy.com:8080/stream12/stream12/305464
-#EXTINF:-1,RTL 8 Hd
-http://listamy.com:8080/stream12/stream12/305465
-#EXTINF:-1,SBS 6 HD
-http://listamy.com:8080/stream12/stream12/305467
-#EXTINF:-1,Comedy Central Extra HD
-http://listamy.com:8080/stream12/stream12/305468
-#EXTINF:-1,TV Oost HD
-http://listamy.com:8080/stream12/stream12/305469
-#EXTINF:-1,TV Rijnmond
-http://listamy.com:8080/stream12/stream12/305470
-#EXTINF:-1,Omroep Brabant
-http://listamy.com:8080/stream12/stream12/305471
-#EXTINF:-1,Omroep Flevoland
-http://listamy.com:8080/stream12/stream12/305472
-#EXTINF:-1,Omroep Zeeland
-http://listamy.com:8080/stream12/stream12/305473
-#EXTINF:-1,Omrop Fryslan NL
-http://listamy.com:8080/stream12/stream12/305474
-#EXTINF:-1,Djazz tv
-http://listamy.com:8080/stream12/stream12/305475
-#EXTINF:-1,Brava TV
-http://listamy.com:8080/stream12/stream12/305476
-#EXTINF:-1,TV West
-http://listamy.com:8080/stream12/stream12/305477
-#EXTINF:-1,NPO Cultura NL
-http://listamy.com:8080/stream12/stream12/305478
-#EXTINF:-1,MTV Music 24 HD
-http://listamy.com:8080/stream12/stream12/305479
-#EXTINF:-1,MTV Live HD
-http://listamy.com:8080/stream12/stream12/305480
-#EXTINF:-1,Shorts TV HD
-http://listamy.com:8080/stream12/stream12/305481
-#EXTINF:-1,Family 7 HD
-http://listamy.com:8080/stream12/stream12/305482
-#EXTINF:-1,OUT TV HD
-http://listamy.com:8080/stream12/stream12/305483
-#EXTINF:-1,VH1 Classic HD
-http://listamy.com:8080/stream12/stream12/305484
-#EXTINF:-1,Mezzo HD
-http://listamy.com:8080/stream12/stream12/305485
-#EXTINF:-1,CBS Reality HD
-http://listamy.com:8080/stream12/stream12/305486
-#EXTINF:-1,TV Noord HD
-http://listamy.com:8080/stream12/stream12/305487
-#EXTINF:-1,TV Drenthe HD
-http://listamy.com:8080/stream12/stream12/305488
-#EXTINF:-1,Een HD
-http://listamy.com:8080/stream12/stream12/305489
-#EXTINF:-1,Canvas HD
-http://listamy.com:8080/stream12/stream12/305490
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1798.ts
+#EXTINF:-1,RTL Crime
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1799.ts
+#EXTINF:-1,RTL8 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1800.ts
+#EXTINF:-1,SBS9 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1801.ts
+#EXTINF:-1,NET5 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1802.ts
+#EXTINF:-1,Npo Nieuws
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1803.ts
+#EXTINF:-1,NPO Politiek
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1804.ts
+#EXTINF:-1,RTLZ HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1805.ts
+#EXTINF:-1,RTL Lounge
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1806.ts
+#EXTINF:-1,ARD HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1807.ts
 #EXTINF:-1,Spike HD
-http://listamy.com:8080/stream12/stream12/305492
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1808.ts
+#EXTINF:-1,Comedy Central Extra
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1809.ts
+#EXTINF:-1,Comedy Central HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1810.ts
+#EXTINF:-1,Ketnet
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1811.ts
+#EXTINF:-1,TLC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1812.ts
+#EXTINF:-1,E!
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1813.ts
+#EXTINF:-1,Fashion TV HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1814.ts
+#EXTINF:-1,FOX
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1815.ts
+#EXTINF:-1,ONS
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1816.ts
+#EXTINF:-1,24 Kitchen
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1817.ts
+#EXTINF:-1,192 TV
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1818.ts
+#EXTINF:-1,TV Oranje
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1819.ts
 #EXTINF:-1,Xite HD
-http://listamy.com:8080/stream12/stream12/305493
-#EXTINF:-1, MyZen TV
-http://listamy.com:8080/stream12/stream12/305494
-#EXTINF:-1,UFC Network HD
-http://listamy.com:8080/stream12/stream12/305495
-#EXTINF:-1,Horse & Country HD
-http://listamy.com:8080/stream12/stream12/305496
-#EXTINF:-1,Pebble TV HD
-http://listamy.com:8080/stream12/stream12/305497
-#EXTINF:-1,L1murg HD
-http://listamy.com:8080/stream12/stream12/305498
-#EXTINF:-1,TV 538 HD
-http://listamy.com:8080/stream12/stream12/305499
-#EXTINF:-1,MTV Hits
-http://listamy.com:8080/stream12/stream12/305500
-#EXTINF:-1,iConcerts HD
-http://listamy.com:8080/stream12/stream12/305501
-#EXTINF:-1,EDE TV NL
-http://listamy.com:8080/stream12/stream12/305502
-#EXTINF:-1,Klipkar TV NL
-http://listamy.com:8080/stream12/stream12/305503
-#EXTINF:-1,Salto 1 NL
-http://listamy.com:8080/stream12/stream12/305504
-#EXTINF:-1,RTL 4 FHD Backup
-http://listamy.com:8080/stream12/stream12/305506
-#EXTINF:-1,RTL 5 FHD Backup
-http://listamy.com:8080/stream12/stream12/305507
-#EXTINF:-1,RTL 7 FHD
-http://listamy.com:8080/stream12/stream12/305508
-#EXTINF:-1,RTL 8 FHD Backup
-http://listamy.com:8080/stream12/stream12/305509
-#EXTINF:-1,RTL Crime HD Backup
-http://listamy.com:8080/stream12/stream12/305510
-#EXTINF:-1,RTL Lounge Backup
-http://listamy.com:8080/stream12/stream12/305511
-#EXTINF:-1,RTL Z Backup
-http://listamy.com:8080/stream12/stream12/305512
-#EXTINF:-1,NPO 1 HD Backup
-http://listamy.com:8080/stream12/stream12/305513
-#EXTINF:-1,NPO 2 HD Backup
-http://listamy.com:8080/stream12/stream12/305514
-#EXTINF:-1,NPO 3 Backup
-http://listamy.com:8080/stream12/stream12/305515
-#EXTINF:-1,SBS6 HD Backup
-http://listamy.com:8080/stream12/stream12/305516
-#EXTINF:-1,Film1 Family HD Backup
-http://listamy.com:8080/stream12/stream12/305517
-#EXTINF:-1,Film1 Premiere HD Backup
-http://listamy.com:8080/stream12/stream12/305518
-#EXTINF:-1,Film1 Drama HD Backup
-http://listamy.com:8080/stream12/stream12/305519
-#EXTINF:-1,ONS HD Backup
-http://listamy.com:8080/stream12/stream12/305520
-#EXTINF:-1,Investigation Discovery HD
-http://listamy.com:8080/stream12/stream12/305521
-#EXTINF:-1,Crime & Investigation HD Backup
-http://listamy.com:8080/stream12/stream12/305522
-#EXTINF:-1,Ketnet HD Backup
-http://listamy.com:8080/stream12/stream12/305523
-#EXTINF:-1,RTL Telekids HD Backup
-http://listamy.com:8080/stream12/stream12/305524
-#EXTINF:-1,Comedy Central HD Backup
-http://listamy.com:8080/stream12/stream12/305525
-#EXTINF:-1,SBS 9 FHD Backup
-http://listamy.com:8080/stream12/stream12/305526
-#EXTINF:-1,TLC FHD Backup
-http://listamy.com:8080/stream12/stream12/305527
-#EXTINF:-1,Ziggo Sport Racing FHD Backup
-http://listamy.com:8080/stream12/stream12/305528
-#EXTINF:-1,Eurosport 1 FHD Backup
-http://listamy.com:8080/stream12/stream12/305529
-#EXTINF:-1,Eurosport 2 FHD Backup
-http://listamy.com:8080/stream12/stream12/305530
-#EXTINF:-1,Discovery Channel FHD Backup
-http://listamy.com:8080/stream12/stream12/305531
-#EXTINF:-1,National Geographic Channel FHD Backup
-http://listamy.com:8080/stream12/stream12/305532
-#EXTINF:-1,History Channel FHD Backup
-http://listamy.com:8080/stream12/stream12/305533
-#EXTINF:-1,Animal Planet FHD Backup
-http://listamy.com:8080/stream12/stream12/305534
-#EXTINF:-1,Cartoon Network FHD Backup
-http://listamy.com:8080/stream12/stream12/305535
-#EXTINF:-1,Spike FHD Backup
-http://listamy.com:8080/stream12/stream12/305536
-#EXTINF:-1,Revolt FHD Backup
-http://listamy.com:8080/stream12/stream12/305537
-#EXTINF:-1,DANCE TRIPPIN FHD Backup
-http://listamy.com:8080/stream12/stream12/305538
-#EXTINF:-1,XITE FHD Backup
-http://listamy.com:8080/stream12/stream12/305539
-#EXTINF:-1,MTV FHD Backup
-http://listamy.com:8080/stream12/stream12/305540
-#EXTINF:-1,Ziggo Sport Golf FHD Backup
-http://listamy.com:8080/stream12/stream12/305541
-#EXTINF:-1,Ziggo Sport FHD Backup
-http://listamy.com:8080/stream12/stream12/305542
-#EXTINF:-1,Ziggo Sport Docu FHD
-http://listamy.com:8080/stream12/stream12/305543
-#EXTINF:-1,Love Nature FHD Backup
-http://listamy.com:8080/stream12/stream12/305544
-#EXTINF:-1,National Geographic Wild FHD Backup
-http://listamy.com:8080/stream12/stream12/305545
-#EXTINF:-1,Discovery ID FHD Backup
-http://listamy.com:8080/stream12/stream12/305546
-#EXTINF:-1,Discovery Science FHD Backup
-http://listamy.com:8080/stream12/stream12/305547
-#EXTINF:-1,Veronica Disney XD FHD Backup
-http://listamy.com:8080/stream12/stream12/305548
-#EXTINF:-1,Horse & Country FHD Backup
-http://listamy.com:8080/stream12/stream12/305549
-#EXTINF:-1,Nick Jr. HD Backup
-http://listamy.com:8080/stream12/stream12/305550
-#EXTINF:-1,Boomerang HD Backup
-http://listamy.com:8080/stream12/stream12/305551
-#EXTINF:-1,Baby TV Backup
-http://listamy.com:8080/stream12/stream12/305552
-#EXTINF:-1,Film 1 Premiere HD backup
-http://listamy.com:8080/stream12/stream12/305553
-#EXTINF:-1,NPO Politiek HD
-http://listamy.com:8080/stream12/stream12/305554
-#EXTINF:-1,24 Kitchen HD Backup
-http://listamy.com:8080/stream12/stream12/305555
-#EXTINF:-1,Fox Sports 1 HD
-http://listamy.com:8080/stream12/stream12/305556
-#EXTINF:-1,Fox Sports 2 HD
-http://listamy.com:8080/stream12/stream12/305557
-#EXTINF:-1,Fox Sports 3 HD
-http://listamy.com:8080/stream12/stream12/305558
-#EXTINF:-1,Fox Sports 4 HD
-http://listamy.com:8080/stream12/stream12/305559
-#EXTINF:-1,Fox Sports 5 Hd
-http://listamy.com:8080/stream12/stream12/305560
-#EXTINF:-1,Fox Sports 6 HD
-http://listamy.com:8080/stream12/stream12/305561
-#EXTINF:-1,Fox Sport 1 HD backup
-http://listamy.com:8080/stream12/stream12/305562
-#EXTINF:-1,Fox Sport 2 HD backup
-http://listamy.com:8080/stream12/stream12/305563
-#EXTINF:-1,Fox Sport 3 HD backup
-http://listamy.com:8080/stream12/stream12/305564
-#EXTINF:-1,Fox Sport 4 HD backup
-http://listamy.com:8080/stream12/stream12/305565
-#EXTINF:-1,Fox Sport 5 HD backup
-http://listamy.com:8080/stream12/stream12/305566
-#EXTINF:-1,Fox Sport 6 HD backup
-http://listamy.com:8080/stream12/stream12/305567
-#EXTINF:-1,Fox Sports 1 HD Backup2
-http://listamy.com:8080/stream12/stream12/305568
-#EXTINF:-1,Fox Sports 3 HD Backup2
-http://listamy.com:8080/stream12/stream12/305569
-#EXTINF:-1,Fox Sports 4 HD Backup2
-http://listamy.com:8080/stream12/stream12/305570
-#EXTINF:-1,Fox Sports 5 HD Backup2
-http://listamy.com:8080/stream12/stream12/305571
-#EXTINF:-1,Fox Sports 6 HD Backup2
-http://listamy.com:8080/stream12/stream12/305572
-#EXTINF:-1,EuroSport 1 HD
-http://listamy.com:8080/stream12/stream12/305573
-#EXTINF:-1,EuroSport 2 HD
-http://listamy.com:8080/stream12/stream12/305574
-#EXTINF:-1,EDGE Sport HD
-http://listamy.com:8080/stream12/stream12/305575
-#EXTINF:-1,Extreme Sports
-http://listamy.com:8080/stream12/stream12/305576
-#EXTINF:-1,Ziggo TV HD
-http://listamy.com:8080/stream12/stream12/305577
-#EXTINF:-1,Ziggo Sport HD
-http://listamy.com:8080/stream12/stream12/305578
-#EXTINF:-1,Ziggo Sport Extra HD
-http://listamy.com:8080/stream12/stream12/305580
-#EXTINF:-1,Ziggo Sport Docu HD Backup
-http://listamy.com:8080/stream12/stream12/305581
-#EXTINF:-1,Ziggo Sport Golf HD
-http://listamy.com:8080/stream12/stream12/305582
-#EXTINF:-1,Ziggo Sport Racing HD
-http://listamy.com:8080/stream12/stream12/305583
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1820.ts
+#EXTINF:-1,Film1 Drama HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1821.ts
+#EXTINF:-1,Film1 Premiere HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1822.ts
+#EXTINF:-1,Film1 Action HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1823.ts
+#EXTINF:-1,Film1 Family HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1824.ts
+#EXTINF:-1,AT 5
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1825.ts
+#EXTINF:-1,Omroep Flevoland
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1826.ts
+#EXTINF:-1,Omroep Braband
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1827.ts
+#EXTINF:-1,Omroep Zeeland
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1828.ts
+#EXTINF:-1,RTV Utrecht
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1829.ts
+#EXTINF:-1,Omroep Frysland
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1830.ts
+#EXTINF:-1,RTV Drenthe
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1831.ts
+#EXTINF:-1,RTV Rijnmond
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1832.ts
+#EXTINF:-1,TV Gelderland
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1833.ts
+#EXTINF:-1,L1 Limburg
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1834.ts
+#EXTINF:-1,TV Noord
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1835.ts
+#EXTINF:-1,TV Oost
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1836.ts
+#EXTINF:-1,TV West
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1837.ts
+#EXTINF:-1,Viceland HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1838.ts
+#EXTINF:-1,BBC One HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1839.ts
+#EXTINF:-1,BBC First HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1840.ts
+#EXTINF:-1,NPO1 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1841.ts
+#EXTINF:-1,NPO2 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1842.ts
+#EXTINF:-1,NPO3 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1843.ts
+#EXTINF:-1,RTL4 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1844.ts
+#EXTINF:-1,RTL5 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1845.ts
+#EXTINF:-1,SBS6 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1846.ts
+#EXTINF:-1,RTL7 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1847.ts
+#EXTINF:-1,RTL Crime HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1848.ts
+#EXTINF:-1,RTL8 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1849.ts
+#EXTINF:-1,SBS9 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1850.ts
+#EXTINF:-1,NET5 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1851.ts
+#EXTINF:-1,NPO Nieuws HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1852.ts
+#EXTINF:-1,NPO Politiek HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1853.ts
+#EXTINF:-1,RTLZ HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1854.ts
+#EXTINF:-1,ARD HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1855.ts
+#EXTINF:-1,RTL Lounge HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1856.ts
+#EXTINF:-1,ZDF HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1857.ts
+#EXTINF:-1,Veronica HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1858.ts
+#EXTINF:-1,Spike HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1859.ts
+#EXTINF:-1,Nickelodeon HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1860.ts
+#EXTINF:-1,Nick Toons HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1861.ts
+#EXTINF:-1,Disney XD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1862.ts
+#EXTINF:-1,Nick Junior HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1863.ts
+#EXTINF:-1,RTL TeleKids HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1864.ts
+#EXTINF:-1,Baby TV HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1865.ts
+#EXTINF:-1,Boomerang HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1866.ts
+#EXTINF:-1,Disney Channel HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1867.ts
+#EXTINF:-1,Comedy Central Extra HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1868.ts
+#EXTINF:-1,Comedy Central HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1869.ts
+#EXTINF:-1,Ketnet HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1870.ts
+#EXTINF:-1,TLC HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1871.ts
+#EXTINF:-1,E! HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1872.ts
+#EXTINF:-1,Fashion TV HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1873.ts
+#EXTINF:-1,History HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1874.ts
+#EXTINF:-1,FOX HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1875.ts
+#EXTINF:-1,ONS HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1876.ts
+#EXTINF:-1,24Kitchen HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1877.ts
+#EXTINF:-1,192 TV HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1878.ts
+#EXTINF:-1,Dance Trippin HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1879.ts
+#EXTINF:-1,MTV HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1880.ts
+#EXTINF:-1,MTV Brand New HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1881.ts
+#EXTINF:-1,MTV Live HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1882.ts
+#EXTINF:-1,MTV Music 24 HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1883.ts
+#EXTINF:-1,Nick Music HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1884.ts
+#EXTINF:-1,TV Oranje HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1885.ts
+#EXTINF:-1,VH1 Classic HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1886.ts
+#EXTINF:-1,Xite HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1887.ts
+#EXTINF:-1,Mezzo HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1888.ts
+#EXTINF:-1,Discovery World HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1889.ts
+#EXTINF:-1,Discovery Science HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1890.ts
+#EXTINF:-1,CI HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1891.ts
+#EXTINF:-1,Investigon Discovery HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1892.ts
+#EXTINF:-1,National Geographic HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1893.ts
+#EXTINF:-1,National Geo Wild HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1894.ts
+#EXTINF:-1,Animal Planet HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1895.ts
+#EXTINF:-1,Film1 Drama HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1896.ts
+#EXTINF:-1,Film1 Premium HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1897.ts
+#EXTINF:-1,Film1 Acttion HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1898.ts
+#EXTINF:-1,Film1 Family HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1899.ts
+#EXTINF:-1,Eurosport1 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1900.ts
+#EXTINF:-1,Eurosport2 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1901.ts
+#EXTINF:-1,Ziggo Sport Select HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1902.ts
+#EXTINF:-1,Ziggo Voetbal HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1903.ts
+#EXTINF:-1,Ziggo Sport HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1904.ts
+#EXTINF:-1,Zigo Golf HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1905.ts
+#EXTINF:-1,Ziggo Racing HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1906.ts
+#EXTINF:-1,Ziggo Sport Extra1 HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1907.ts
+#EXTINF:-1,Ziggo Sport Extra2 HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1908.ts
+#EXTINF:-1,Fox Sport1 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1909.ts
+#EXTINF:-1,Fox Sport2 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1910.ts
+#EXTINF:-1,Fox Sport3 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1911.ts
+#EXTINF:-1,Fox Sport4 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1912.ts
+#EXTINF:-1,Fox Sport5 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1913.ts
+#EXTINF:-1,Fox Sport6 HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1914.ts
+#EXTINF:-1,AT 5 HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1915.ts
+#EXTINF:-1,Extreme Sports Channel HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1916.ts
+#EXTINF:-1,Omroep Flevoland HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1917.ts
+#EXTINF:-1,Omroep Brabant HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1918.ts
+#EXTINF:-1,Omroep Zeeland HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1919.ts
+#EXTINF:-1,Omrop Fryslan HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1920.ts
+#EXTINF:-1,RTV Utrecht HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1921.ts
+#EXTINF:-1,TV Drenthe HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1922.ts
+#EXTINF:-1,TV Rijnmond HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1923.ts
+#EXTINF:-1,TV Gelderland HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1924.ts
+#EXTINF:-1,L1 Limburg HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1925.ts
+#EXTINF:-1,TV Noord HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1926.ts
+#EXTINF:-1,TV Oost HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1927.ts
+#EXTINF:-1,TV West HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1928.ts
+#EXTINF:-1,Viceland HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1929.ts
+#EXTINF:-1,BBC One HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1930.ts
+#EXTINF:-1,BBC First HD HEVC
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1931.ts
+#EXTINF:-1,Eurosport1 HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1937.ts
+#EXTINF:-1,Eurosport 2
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1938.ts
 #EXTINF:-1,Ziggo Sport Select HD
-http://listamy.com:8080/stream12/stream12/305584
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1939.ts
 #EXTINF:-1,Ziggo Sport Voetbal HD
-http://listamy.com:8080/stream12/stream12/305585
-#EXTINF:-1,Ziggo Sport Extra HD Backup
-http://listamy.com:8080/stream12/stream12/305586
-#EXTINF:-1,Ziggo Sport Golf HD Backup
-http://listamy.com:8080/stream12/stream12/305587
-#EXTINF:-1,Ziggo Sport Select HD Backup
-http://listamy.com:8080/stream12/stream12/305588
-#EXTINF:-1,Ziggo Sport Voetbal HD Backup
-http://listamy.com:8080/stream12/stream12/305589
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1940.ts
+#EXTINF:-1,Sport1 Golf
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1941.ts
+#EXTINF:-1,Ziggo Sport
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1942.ts
+#EXTINF:-1,Ziggo Racing HD
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1943.ts
+#EXTINF:-1,Ziggo Sport Extra 1
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1944.ts
+#EXTINF:-1,Ziggo Sport Extra 2
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1945.ts
