@@ -1,91 +1,543 @@
 #EXTM3U
-#EXTINF:-1,AMC HD
-http://redcoliptv.com:8090/concert/concert/16306
-#EXTINF:-1,BNN HD
-http://redcoliptv.com:8090/concert/concert/16307
-#EXTINF:-1,Bravo TV HD
-http://redcoliptv.com:8090/concert/concert/16308
-#EXTINF:-1,CBC HD
-http://redcoliptv.com:8090/concert/concert/16309
-#EXTINF:-1,CBC Charlottetown HD
-http://redcoliptv.com:8090/concert/concert/16310
-#EXTINF:-1,CBC MONTREAL
-http://redcoliptv.com:8090/concert/concert/16311
-#EXTINF:-1,CBC Toronto
-http://redcoliptv.com:8090/concert/concert/16312
-#EXTINF:-1,CBC Ottawa HD
-http://redcoliptv.com:8090/concert/concert/16313
-#EXTINF:-1,CBC
-http://redcoliptv.com:8090/concert/concert/16314
-#EXTINF:-1,CBC Toronto HD
-http://redcoliptv.com:8090/concert/concert/16315
-#EXTINF:-1,CBC Vancouver HD
-http://redcoliptv.com:8090/concert/concert/16316
-#EXTINF:-1,City FHD
-http://redcoliptv.com:8090/concert/concert/16317
-#EXTINF:-1,Comedy HD
-http://redcoliptv.com:8090/concert/concert/16318
-#EXTINF:-1,CP24 HD
-http://redcoliptv.com:8090/concert/concert/16319
-#EXTINF:-1,CPAC HD
-http://redcoliptv.com:8090/concert/concert/16320
-#EXTINF:-1,Fight Network HD
-http://redcoliptv.com:8090/concert/concert/16321
-#EXTINF:-1,FOX HD
-http://redcoliptv.com:8090/concert/concert/16322
-#EXTINF:-1,FX FHD
-http://redcoliptv.com:8090/concert/concert/16323
-#EXTINF:-1,SHOWCASE HD
-http://redcoliptv.com:8090/concert/concert/16324
-#EXTINF:-1,FXX
-http://redcoliptv.com:8090/concert/concert/16325
-#EXTINF:-1,HBO 1
-http://redcoliptv.com:8090/concert/concert/16326
-#EXTINF:-1,HBO 2 HD
-http://redcoliptv.com:8090/concert/concert/16327
-#EXTINF:-1,Lifetime FHD
-http://redcoliptv.com:8090/concert/concert/16328
-#EXTINF:-1,National Geographic HD
-http://redcoliptv.com:8090/concert/concert/16329
-#EXTINF:-1,NTV News HD
-http://redcoliptv.com:8090/concert/concert/16330
-#EXTINF:-1,Slice HD
-http://redcoliptv.com:8090/concert/concert/16331
-#EXTINF:-1,Treehouse
-http://redcoliptv.com:8090/concert/concert/16332
-#EXTINF:-1,TLC HD
-http://redcoliptv.com:8090/concert/concert/16333
-#EXTINF:-1,TSN 3 FHD
-http://redcoliptv.com:8090/concert/concert/16334
-#EXTINF:-1,CBC Montreal
-http://redcoliptv.com:8090/concert/concert/16335
-#EXTINF:-1,Casa
-http://redcoliptv.com:8090/concert/concert/16336
-#EXTINF:-1,ICI Montreal
-http://redcoliptv.com:8090/concert/concert/16337
-#EXTINF:-1,RDI
-http://redcoliptv.com:8090/concert/concert/16338
-#EXTINF:-1,Frissons TV
-http://redcoliptv.com:8090/concert/concert/16339
-#EXTINF:-1,RDS Info
-http://redcoliptv.com:8090/concert/concert/16340
-#EXTINF:-1,Super Ecran 1
-http://redcoliptv.com:8090/concert/concert/16341
-#EXTINF:-1,Super Ecran 2
-http://redcoliptv.com:8090/concert/concert/16342
-#EXTINF:-1,Super Ecran 3
-http://redcoliptv.com:8090/concert/concert/16343
-#EXTINF:-1,Tele Quebec
-http://redcoliptv.com:8090/concert/concert/16344
-#EXTINF:-1,Super Ecran 4
-http://redcoliptv.com:8090/concert/concert/16345
-#EXTINF:-1,Zeste
-http://redcoliptv.com:8090/concert/concert/16346
-#EXTINF:-1,TMN 2
-http://redcoliptv.com:8090/concert/concert/16347
+#EXTINF:-1,TVA SPORTS
+http://nomorecable.xyz:80/1tvtesting/206047/19061
+#EXTINF:-1,ZESTE
+http://nomorecable.xyz:80/1tvtesting/206047/19057
+#EXTINF:-1,CINE POP
+http://nomorecable.xyz:80/1tvtesting/206047/115029
+#EXTINF:-1,EVASION
+http://nomorecable.xyz:80/1tvtesting/206047/115030
+#EXTINF:-1,HISTORIO
+http://nomorecable.xyz:80/1tvtesting/206047/115031
+#EXTINF:-1,ICI MONTREAL
+http://nomorecable.xyz:80/1tvtesting/206047/115032
+#EXTINF:-1,METEO
+http://nomorecable.xyz:80/1tvtesting/206047/115034
+#EXTINF:-1,MOI CIE
+http://nomorecable.xyz:80/1tvtesting/206047/115035
+#EXTINF:-1,PRISE
+http://nomorecable.xyz:80/1tvtesting/206047/115037
+#EXTINF:-1,RDS
+http://nomorecable.xyz:80/1tvtesting/206047/115036
+#EXTINF:-1,RDS 2
+http://nomorecable.xyz:80/1tvtesting/206047/115038
+#EXTINF:-1,RDS INFO
+http://nomorecable.xyz:80/1tvtesting/206047/115040
+#EXTINF:-1,SERIS
+http://nomorecable.xyz:80/1tvtesting/206047/115041
+#EXTINF:-1,LCN (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/115055
+#EXTINF:-1,TFO
+http://nomorecable.xyz:80/1tvtesting/206047/115046
+#EXTINF:-1,TVA MONTREAL
+http://nomorecable.xyz:80/1tvtesting/206047/115047
+#EXTINF:-1,TVA MONTREAL
+http://nomorecable.xyz:80/1tvtesting/206047/115048
+#EXTINF:-1,TVA SPORTS
+http://nomorecable.xyz:80/1tvtesting/206047/115049
+#EXTINF:-1,VIE
+http://nomorecable.xyz:80/1tvtesting/206047/115050
 #EXTINF:-1,VRAK TV
-http://redcoliptv.com:8090/concert/concert/16348
-#EXTINF:-1,Z-Tele
-http://redcoliptv.com:8090/concert/concert/16349
-#EXTINF:-1,TV5 Quebec
-http://redcoliptv.com:8090/concert/concert/16350
+http://nomorecable.xyz:80/1tvtesting/206047/115051
+#EXTINF:-1,ZESTE
+http://nomorecable.xyz:80/1tvtesting/206047/115053
+#EXTINF:-1,A&E HD
+http://nomorecable.xyz:80/1tvtesting/206047/114873
+#EXTINF:-1,ABC HD
+http://nomorecable.xyz:80/1tvtesting/206047/114875
+#EXTINF:-1,ABC East HD
+http://nomorecable.xyz:80/1tvtesting/206047/114874
+#EXTINF:-1,ABC Spark
+http://nomorecable.xyz:80/1tvtesting/206047/114848
+#EXTINF:-1,ABC SPARK HD
+http://nomorecable.xyz:80/1tvtesting/206047/114876
+#EXTINF:-1,ADDIK TV QC
+http://nomorecable.xyz:80/1tvtesting/206047/114821
+#EXTINF:-1,ADDIK (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/115024
+#EXTINF:-1,AMC Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114820
+#EXTINF:-1,AMC HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114765
+#EXTINF:-1,Animal Planet
+http://nomorecable.xyz:80/1tvtesting/206047/114826
+#EXTINF:-1,APTN
+http://nomorecable.xyz:80/1tvtesting/206047/114879
+#EXTINF:-1,ARTV QC
+http://nomorecable.xyz:80/1tvtesting/206047/114819
+#EXTINF:-1,BBC 
+http://nomorecable.xyz:80/1tvtesting/206047/114881
+#EXTINF:-1,BBC CANADA 
+http://nomorecable.xyz:80/1tvtesting/206047/114880
+#EXTINF:-1,BBC Earth HD
+http://nomorecable.xyz:80/1tvtesting/206047/115056
+#EXTINF:-1,BNN BLOOMBERG
+http://nomorecable.xyz:80/1tvtesting/206047/114882
+#EXTINF:-1,BOOK TV
+http://nomorecable.xyz:80/1tvtesting/206047/114883
+#EXTINF:-1,BEIN SPORTS CANADA
+http://nomorecable.xyz:80/1tvtesting/206047/114818
+#EXTINF:-1,beIN Sports HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114764
+#EXTINF:-1,BNN HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114763
+#EXTINF:-1,CANAL D (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/115026
+#EXTINF:-1,CANAL SAVOIR (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/115027
+#EXTINF:-1,CANAL VIE QC
+http://nomorecable.xyz:80/1tvtesting/206047/114816
+#EXTINF:-1,CARTOON NETWORK HD
+http://nomorecable.xyz:80/1tvtesting/206047/114885
+#EXTINF:-1,CASA QC
+http://nomorecable.xyz:80/1tvtesting/206047/114815
+#EXTINF:-1,CASA (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/115028
+#EXTINF:-1,CBC
+http://nomorecable.xyz:80/1tvtesting/206047/114886
+#EXTINF:-1,CBC HD
+http://nomorecable.xyz:80/1tvtesting/206047/114892
+#EXTINF:-1,CBC CALGARY HD
+http://nomorecable.xyz:80/1tvtesting/206047/114888
+#EXTINF:-1,CBC Charlottetown
+http://nomorecable.xyz:80/1tvtesting/206047/114889
+#EXTINF:-1,CBC Edmonton
+http://nomorecable.xyz:80/1tvtesting/206047/114838
+#EXTINF:-1,CBC Fredericton
+http://nomorecable.xyz:80/1tvtesting/206047/114890
+#EXTINF:-1,CBC Halifax
+http://nomorecable.xyz:80/1tvtesting/206047/114839
+#EXTINF:-1,CBC HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114762
+#EXTINF:-1,CBC Montreal CA-FR
+http://nomorecable.xyz:80/1tvtesting/206047/114761
+#EXTINF:-1,CBC MONTREAL QC
+http://nomorecable.xyz:80/1tvtesting/206047/114814
+#EXTINF:-1,CBC MONTREAL
+http://nomorecable.xyz:80/1tvtesting/206047/114894
+#EXTINF:-1,CBC News Network
+http://nomorecable.xyz:80/1tvtesting/206047/114842
+#EXTINF:-1,CBC NEWS HD
+http://nomorecable.xyz:80/1tvtesting/206047/114896
+#EXTINF:-1,CBC OTTAWA
+http://nomorecable.xyz:80/1tvtesting/206047/114840
+#EXTINF:-1,CBC REGINA
+http://nomorecable.xyz:80/1tvtesting/206047/114887
+#EXTINF:-1,CBC Toronto SD
+http://nomorecable.xyz:80/1tvtesting/206047/114760
+#EXTINF:-1,CBC Vancouver HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114759
+#EXTINF:-1,CBC VANCOUVER
+http://nomorecable.xyz:80/1tvtesting/206047/114901
+#EXTINF:-1,CBC WINDSOR
+http://nomorecable.xyz:80/1tvtesting/206047/114903
+#EXTINF:-1,CBC Winnipeg
+http://nomorecable.xyz:80/1tvtesting/206047/114841
+#EXTINF:-1,CHCH Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114813
+#EXTINF:-1,CHCH HD
+http://nomorecable.xyz:80/1tvtesting/206047/114905
+#EXTINF:-1,CHCH HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114757
+#EXTINF:-1,CinePOP (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114857
+#EXTINF:-1,CITY CALGARY
+http://nomorecable.xyz:80/1tvtesting/206047/114906
+#EXTINF:-1,CITY MONTREAL
+http://nomorecable.xyz:80/1tvtesting/206047/114907
+#EXTINF:-1,CITYLGARY
+http://nomorecable.xyz:80/1tvtesting/206047/114837
+#EXTINF:-1,CMT HD
+http://nomorecable.xyz:80/1tvtesting/206047/114910
+#EXTINF:-1,CNN HD
+http://nomorecable.xyz:80/1tvtesting/206047/114911
+#EXTINF:-1,CNN INTERNATIONAL
+http://nomorecable.xyz:80/1tvtesting/206047/114912
+#EXTINF:-1,COMEDY HD
+http://nomorecable.xyz:80/1tvtesting/206047/114913
+#EXTINF:-1,COOKING CHANNEL
+http://nomorecable.xyz:80/1tvtesting/206047/114843
+#EXTINF:-1,COOKING CHANNEL HD
+http://nomorecable.xyz:80/1tvtesting/206047/114914
+#EXTINF:-1,COTTAGE LIFE
+http://nomorecable.xyz:80/1tvtesting/206047/114832
+#EXTINF:-1,CP24 Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114812
+#EXTINF:-1,CP24 HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114755
+#EXTINF:-1,CP24. Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114811
+#EXTINF:-1,CPAC HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114754
+#EXTINF:-1,CPAC QC
+http://nomorecable.xyz:80/1tvtesting/206047/114810
+#EXTINF:-1,CRAVE 1 HD
+http://nomorecable.xyz:80/1tvtesting/206047/114918
+#EXTINF:-1,CRAVE 2 HD
+http://nomorecable.xyz:80/1tvtesting/206047/114919
+#EXTINF:-1,CRAVE 3 HD
+http://nomorecable.xyz:80/1tvtesting/206047/114920
+#EXTINF:-1,CRAVE 4 HD
+http://nomorecable.xyz:80/1tvtesting/206047/114921
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://nomorecable.xyz:80/1tvtesting/206047/114922
+#EXTINF:-1,CTV 2 VANCOUVER
+http://nomorecable.xyz:80/1tvtesting/206047/114850
+#EXTINF:-1,CTV BARRIE
+http://nomorecable.xyz:80/1tvtesting/206047/114925
+#EXTINF:-1,CTV Calgary
+http://nomorecable.xyz:80/1tvtesting/206047/114867
+#EXTINF:-1,CTV Comedy HD  ca
+http://nomorecable.xyz:80/1tvtesting/206047/114756
+#EXTINF:-1,CTV Drama
+http://nomorecable.xyz:80/1tvtesting/206047/114849
+#EXTINF:-1,CTV HALIFAX
+http://nomorecable.xyz:80/1tvtesting/206047/114927
+#EXTINF:-1,CTV KITCHENER HD
+http://nomorecable.xyz:80/1tvtesting/206047/114928
+#EXTINF:-1,CTV LONDON
+http://nomorecable.xyz:80/1tvtesting/206047/114929
+#EXTINF:-1,CTV MONTREAL Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114809
+#EXTINF:-1,CTV News HD
+http://nomorecable.xyz:80/1tvtesting/206047/114723
+#EXTINF:-1,CTV News Live Events 3 HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114753
+#EXTINF:-1,CTV NORTH BAY
+http://nomorecable.xyz:80/1tvtesting/206047/114935
+#EXTINF:-1,CTV OTTAWA
+http://nomorecable.xyz:80/1tvtesting/206047/114933
+#EXTINF:-1,CTV SUDBURY
+http://nomorecable.xyz:80/1tvtesting/206047/114936
+#EXTINF:-1,CTV TORONTO
+http://nomorecable.xyz:80/1tvtesting/206047/114846
+#EXTINF:-1,CTV VANCOUVER
+http://nomorecable.xyz:80/1tvtesting/206047/114847
+#EXTINF:-1,CTV WINNIPEG
+http://nomorecable.xyz:80/1tvtesting/206047/114937
+#EXTINF:-1,CTV2 OTTAWA
+http://nomorecable.xyz:80/1tvtesting/206047/114831
+#EXTINF:-1,CTV2 OTTAWA
+http://nomorecable.xyz:80/1tvtesting/206047/114851
+#EXTINF:-1,DAYSTAR TV
+http://nomorecable.xyz:80/1tvtesting/206047/114944
+#EXTINF:-1,DEJAVIEW
+http://nomorecable.xyz:80/1tvtesting/206047/114828
+#EXTINF:-1,DEJAVIEW SD
+http://nomorecable.xyz:80/1tvtesting/206047/114946
+#EXTINF:-1,DISCOVERY HD
+http://nomorecable.xyz:80/1tvtesting/206047/114947
+#EXTINF:-1,Discovery Science CA
+http://nomorecable.xyz:80/1tvtesting/206047/114752
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://nomorecable.xyz:80/1tvtesting/206047/114948
+#EXTINF:-1,DISNEY Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114808
+#EXTINF:-1,Disney HD
+http://nomorecable.xyz:80/1tvtesting/206047/114751
+#EXTINF:-1,DISNEY JR Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114807
+#EXTINF:-1,DISNEY JR HD
+http://nomorecable.xyz:80/1tvtesting/206047/114949
+#EXTINF:-1,Disney JR HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114750
+#EXTINF:-1,DISNEY XD HD
+http://nomorecable.xyz:80/1tvtesting/206047/114950
+#EXTINF:-1,DIY NETWORK HD
+http://nomorecable.xyz:80/1tvtesting/206047/114951
+#EXTINF:-1,DTOUR
+http://nomorecable.xyz:80/1tvtesting/206047/114952
+#EXTINF:-1,E! Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114806
+#EXTINF:-1,E! HD
+http://nomorecable.xyz:80/1tvtesting/206047/114953
+#EXTINF:-1,E! Entertainment HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114749
+#EXTINF:-1,FAMILY
+http://nomorecable.xyz:80/1tvtesting/206047/114822
+#EXTINF:-1,Fight Network HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114748
+#EXTINF:-1,Food Network
+http://nomorecable.xyz:80/1tvtesting/206047/114830
+#EXTINF:-1,Fox HD
+http://nomorecable.xyz:80/1tvtesting/206047/114956
+#EXTINF:-1,FOX NEWS
+http://nomorecable.xyz:80/1tvtesting/206047/114957
+#EXTINF:-1,FX FHD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114747
+#EXTINF:-1,FX HD Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114805
+#EXTINF:-1,FXX CA
+http://nomorecable.xyz:80/1tvtesting/206047/114746
+#EXTINF:-1,Game TV
+http://nomorecable.xyz:80/1tvtesting/206047/114827
+#EXTINF:-1,GAME SHOW NETWORK HD
+http://nomorecable.xyz:80/1tvtesting/206047/114963
+#EXTINF:-1,Global Edmonton
+http://nomorecable.xyz:80/1tvtesting/206047/114726
+#EXTINF:-1,GLOBAL HALIFAX
+http://nomorecable.xyz:80/1tvtesting/206047/114844
+#EXTINF:-1,GLOBAL VANCOUVER
+http://nomorecable.xyz:80/1tvtesting/206047/114845
+#EXTINF:-1,GLOBAL MONTREAL
+http://nomorecable.xyz:80/1tvtesting/206047/114727
+#EXTINF:-1,Global Toronto
+http://nomorecable.xyz:80/1tvtesting/206047/114871
+#EXTINF:-1,GSN
+http://nomorecable.xyz:80/1tvtesting/206047/114965
+#EXTINF:-1,GUSTO
+http://nomorecable.xyz:80/1tvtesting/206047/114967
+#EXTINF:-1,H2
+http://nomorecable.xyz:80/1tvtesting/206047/114968
+#EXTINF:-1,HBO HD
+http://nomorecable.xyz:80/1tvtesting/206047/114970
+#EXTINF:-1,HBO 1 Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114804
+#EXTINF:-1,HBO 2 Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114803
+#EXTINF:-1,HBO 2 HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114745
+#EXTINF:-1,HGTV
+http://nomorecable.xyz:80/1tvtesting/206047/114870
+#EXTINF:-1,HISTORIA QC
+http://nomorecable.xyz:80/1tvtesting/206047/114802
+#EXTINF:-1,History Channel
+http://nomorecable.xyz:80/1tvtesting/206047/114834
+#EXTINF:-1,HISTORY HD
+http://nomorecable.xyz:80/1tvtesting/206047/114972
+#EXTINF:-1,HLN
+http://nomorecable.xyz:80/1tvtesting/206047/114973
+#EXTINF:-1,ICI MONTREAL QC
+http://nomorecable.xyz:80/1tvtesting/206047/114801
+#EXTINF:-1,ICI Tele Montreal
+http://nomorecable.xyz:80/1tvtesting/206047/115054
+#EXTINF:-1,ICI VANCOUVER QC
+http://nomorecable.xyz:80/1tvtesting/206047/114800
+#EXTINF:-1,IFC HD
+http://nomorecable.xyz:80/1tvtesting/206047/114974
+#EXTINF:-1,IIPC TV
+http://nomorecable.xyz:80/1tvtesting/206047/114975
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://nomorecable.xyz:80/1tvtesting/206047/114976
+#EXTINF:-1,KNOWLEDGE KIDS
+http://nomorecable.xyz:80/1tvtesting/206047/114978
+#EXTINF:-1,KTLA
+http://nomorecable.xyz:80/1tvtesting/206047/114977
+#EXTINF:-1,LCN QC
+http://nomorecable.xyz:80/1tvtesting/206047/114799
+#EXTINF:-1,Lifetime FHD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114744
+#EXTINF:-1,LIFETIME Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114798
+#EXTINF:-1,LIFETIME MOVIE NETWORK HD
+http://nomorecable.xyz:80/1tvtesting/206047/114980
+#EXTINF:-1,Love Nature
+http://nomorecable.xyz:80/1tvtesting/206047/114833
+#EXTINF:-1,MakeFul
+http://nomorecable.xyz:80/1tvtesting/206047/114982
+#EXTINF:-1,MAVTV
+http://nomorecable.xyz:80/1tvtesting/206047/114983
+#EXTINF:-1,MAX
+http://nomorecable.xyz:80/1tvtesting/206047/114984
+#EXTINF:-1,MEDIASET ITALIA
+http://nomorecable.xyz:80/1tvtesting/206047/114985
+#EXTINF:-1,METEO QC
+http://nomorecable.xyz:80/1tvtesting/206047/114797
+#EXTINF:-1,MIRACLE
+http://nomorecable.xyz:80/1tvtesting/206047/114986
+#EXTINF:-1,MOI et CIE (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114860
+#EXTINF:-1,MOVIE CENTRAL Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114796
+#EXTINF:-1,MOVIE TIME 1 Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114795
+#EXTINF:-1,MOVIETIME HD
+http://nomorecable.xyz:80/1tvtesting/206047/114987
+#EXTINF:-1,MTV
+http://nomorecable.xyz:80/1tvtesting/206047/114835
+#EXTINF:-1,MTV 2 HD
+http://nomorecable.xyz:80/1tvtesting/206047/114988
+#EXTINF:-1,MUCH
+http://nomorecable.xyz:80/1tvtesting/206047/114989
+#EXTINF:-1,Musique Plus (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114859
+#EXTINF:-1,NAT GEO WILD Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114794
+#EXTINF:-1,NAT GEO WILD HD
+http://nomorecable.xyz:80/1tvtesting/206047/114991
+#EXTINF:-1,NATIONAL GEOGRAPHIC Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114793
+#EXTINF:-1,NAT GEO HD
+http://nomorecable.xyz:80/1tvtesting/206047/114990
+#EXTINF:-1,NICKTOONS HD
+http://nomorecable.xyz:80/1tvtesting/206047/114992
+#EXTINF:-1,NTV News HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114743
+#EXTINF:-1,OLN Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114792
+#EXTINF:-1,OMNI 1 HD
+http://nomorecable.xyz:80/1tvtesting/206047/114995
+#EXTINF:-1,OMNI 2 HD Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114791
+#EXTINF:-1,ONE
+http://nomorecable.xyz:80/1tvtesting/206047/114997
+#EXTINF:-1,OWN HD Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114789
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://nomorecable.xyz:80/1tvtesting/206047/114998
+#EXTINF:-1,PEACHTREE Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114790
+#EXTINF:-1,Peachtree HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114742
+#EXTINF:-1,PRISE 2 QC
+http://nomorecable.xyz:80/1tvtesting/206047/114788
+#EXTINF:-1,RAI Italia
+http://nomorecable.xyz:80/1tvtesting/206047/115014
+#EXTINF:-1,RDI QC
+http://nomorecable.xyz:80/1tvtesting/206047/114787
+#EXTINF:-1,RDS 2 QC
+http://nomorecable.xyz:80/1tvtesting/206047/114786
+#EXTINF:-1,RDS Info CA-FR
+http://nomorecable.xyz:80/1tvtesting/206047/114741
+#EXTINF:-1,RDS INFO QC
+http://nomorecable.xyz:80/1tvtesting/206047/114785
+#EXTINF:-1,RDS QC
+http://nomorecable.xyz:80/1tvtesting/206047/114784
+#EXTINF:-1,RDS. QC
+http://nomorecable.xyz:80/1tvtesting/206047/114783
+#EXTINF:-1,Rogers TV Barrie
+http://nomorecable.xyz:80/1tvtesting/206047/114924
+#EXTINF:-1,SERIES  QC
+http://nomorecable.xyz:80/1tvtesting/206047/114782
+#EXTINF:-1,SERIES Plus
+http://nomorecable.xyz:80/1tvtesting/206047/115001
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://nomorecable.xyz:80/1tvtesting/206047/115002
+#EXTINF:-1,SLICE Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114781
+#EXTINF:-1,Slice HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114740
+#EXTINF:-1,SMITHSONIAN CHANNEL HD
+http://nomorecable.xyz:80/1tvtesting/206047/115004
+#EXTINF:-1,CTV SCI-FI
+http://nomorecable.xyz:80/1tvtesting/206047/114780
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://nomorecable.xyz:80/1tvtesting/206047/115005
+#EXTINF:-1,Sports Net 360 FHD
+http://nomorecable.xyz:80/1tvtesting/206047/114862
+#EXTINF:-1,Sports Net East HD
+http://nomorecable.xyz:80/1tvtesting/206047/114866
+#EXTINF:-1,Sports Net One HD
+http://nomorecable.xyz:80/1tvtesting/206047/114863
+#EXTINF:-1,Sports Net Ontario HD
+http://nomorecable.xyz:80/1tvtesting/206047/114865
+#EXTINF:-1,Sports Net Pacific HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114739
+#EXTINF:-1,Sports Net West HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114738
+#EXTINF:-1,Sports Net World HD
+http://nomorecable.xyz:80/1tvtesting/206047/114864
+#EXTINF:-1,SUPER CHANNEL 1 Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114779
+#EXTINF:-1,SUPER CHANNEL 2 Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114778
+#EXTINF:-1,SUPER CHANNEL 4 Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114777
+#EXTINF:-1,Super Channel Fuse
+http://nomorecable.xyz:80/1tvtesting/206047/115090
+#EXTINF:-1,Super Channel Heart &amp; Home
+http://nomorecable.xyz:80/1tvtesting/206047/115089
+#EXTINF:-1,Super Channel Vault
+http://nomorecable.xyz:80/1tvtesting/206047/115088
+#EXTINF:-1,SUPER ECRAN 1
+http://nomorecable.xyz:80/1tvtesting/206047/115007
+#EXTINF:-1,Super Ecran 2 (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114852
+#EXTINF:-1,Super Ecran 3 (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114853
+#EXTINF:-1,Super Ecran 4 (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114854
+#EXTINF:-1,TELE QUEBEC QC
+http://nomorecable.xyz:80/1tvtesting/206047/114776
+#EXTINF:-1,Teletoon (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114855
+#EXTINF:-1,TELETOON HD
+http://nomorecable.xyz:80/1tvtesting/206047/115011
+#EXTINF:-1,Teletoon Eng
+http://nomorecable.xyz:80/1tvtesting/206047/114724
+#EXTINF:-1,TG24
+http://nomorecable.xyz:80/1tvtesting/206047/115092
+#EXTINF:-1,THE SHOPPING CHANNEL
+http://nomorecable.xyz:80/1tvtesting/206047/115013
+#EXTINF:-1,TLC HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114737
+#EXTINF:-1,TLN
+http://nomorecable.xyz:80/1tvtesting/206047/115015
+#EXTINF:-1,TMN 2 HD Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114775
+#EXTINF:-1,TRAVEL ESCAPE
+http://nomorecable.xyz:80/1tvtesting/206047/114825
+#EXTINF:-1,TREEHOUSE Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114774
+#EXTINF:-1,TREEHOUSE HD
+http://nomorecable.xyz:80/1tvtesting/206047/115017
+#EXTINF:-1,TSN 1 HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114736
+#EXTINF:-1,TSN 2 FHD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114735
+#EXTINF:-1,TSN 2 HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114734
+#EXTINF:-1,TSN 3 FHD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114733
+#EXTINF:-1,TSN 3 HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114732
+#EXTINF:-1,TSN 4 FHD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114731
+#EXTINF:-1,TSN 5 FHD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114730
+#EXTINF:-1,TSN 5 HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114729
+#EXTINF:-1,TURNER CLASSIC MOVIES Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114773
+#EXTINF:-1,TV5 QUEBEC QC
+http://nomorecable.xyz:80/1tvtesting/206047/114772
+#EXTINF:-1,TVA Montreal (CFTM)
+http://nomorecable.xyz:80/1tvtesting/206047/114858
+#EXTINF:-1,TVA SPORTS QC
+http://nomorecable.xyz:80/1tvtesting/206047/114771
+#EXTINF:-1,TVO
+http://nomorecable.xyz:80/1tvtesting/206047/114824
+#EXTINF:-1,TVO HD
+http://nomorecable.xyz:80/1tvtesting/206047/115044
+#EXTINF:-1,Unis_TV_(FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114861
+#EXTINF:-1,VISION TV Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114770
+#EXTINF:-1,VRAK TV QC
+http://nomorecable.xyz:80/1tvtesting/206047/114769
+#EXTINF:-1,W_NETWORK
+http://nomorecable.xyz:80/1tvtesting/206047/114829
+#EXTINF:-1,WEATHER NETWORK SD
+http://nomorecable.xyz:80/1tvtesting/206047/115019
+#EXTINF:-1,WFN
+http://nomorecable.xyz:80/1tvtesting/206047/115020
+#EXTINF:-1,WGN
+http://nomorecable.xyz:80/1tvtesting/206047/115021
+#EXTINF:-1,Wild TV
+http://nomorecable.xyz:80/1tvtesting/206047/115022
+#EXTINF:-1,YES Ca
+http://nomorecable.xyz:80/1tvtesting/206047/114768
+#EXTINF:-1,YES TV HD CA
+http://nomorecable.xyz:80/1tvtesting/206047/114728
+#EXTINF:-1,YOOPA (FR)
+http://nomorecable.xyz:80/1tvtesting/206047/114823
+#EXTINF:-1,Z TELE QC
+http://nomorecable.xyz:80/1tvtesting/206047/114767
+#EXTINF:-1,ZESTE QC
+http://nomorecable.xyz:80/1tvtesting/206047/114766
+#EXTINF:-1,CA |CBC CALGARY HD
+http://nomorecable.xyz:80/1tvtesting/206047/114868
+#EXTINF:-1,CA |Discovery Velocity HD
+http://nomorecable.xyz:80/1tvtesting/206047/114869
+#EXTINF:-1,Adult Swim
+http://nomorecable.xyz:80/1tvtesting/206047/117377
