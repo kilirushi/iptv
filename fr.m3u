@@ -1,238 +1,80 @@
 #EXTM3U
-#EXTINF:-1,TF1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/62
-#EXTINF:-1,TF1 +1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6033
-#EXTINF:-1,TF1 SERIE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3272
-#EXTINF:-1,M6
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/63
+#EXTINF:-1,EUROSPORT 1 FR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/955
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/950
+#EXTINF:-1,TELETOON
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1307
+#EXTINF:-1,FRANCE O
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/924
 #EXTINF:-1,FRANCE 2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/387
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/925
 #EXTINF:-1,FRANCE 3
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/388
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/926
 #EXTINF:-1,FRANCE 4
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/395
-#EXTINF:-1,FRANCE 5 HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/394
-#EXTINF:-1,FranceO
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1827
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/927
+#EXTINF:-1,M6
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/928
 #EXTINF:-1,W9
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/67
-#EXTINF:-1,TMC
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/564
-#EXTINF:-1,VICELAND HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6122
-#EXTINF:-1,TV5 Monde
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2012
-#EXTINF:-1,LCI
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1905
-#EXTINF:-1,LCP
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2013
-#EXTINF:-1,NRJ12
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/562
-#EXTINF:-1,ANIMAUX
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/815
-#EXTINF:-1,CRIME DISTRICT
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4811
-#EXTINF:-1,Discovery
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/811
-#EXTINF:-1,DISCOVERY INVESTIGATION-HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6041
-#EXTINF:-1,DISCOVERY SCIENCE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1551
-#EXTINF:-1,HISTOIRE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/808
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1904
-#EXTINF:-1,NATIONALGEO WILLD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/392
-#EXTINF:-1,Planète+
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/813
-#EXTINF:-1,Planete+AE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1815
-#EXTINF:-1,RMC Decouverte HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/565
-#EXTINF:-1,RMC STORY
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1660
-#EXTINF:-1,Science et Vie
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/800
-#EXTINF:-1,SEASON
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1816
-#EXTINF:-1,Toute Histoire
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1952
-#EXTINF:-1,TREK
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1817
-#EXTINF:-1,Ushuaia
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/812
-#EXTINF:-1,VOYAGE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1500
-#EXTINF:-1, Mirabelle TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6288
-#EXTINF:-1,Chérie 25
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/809
-#EXTINF:-1,6Ter
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1333
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/929
+#EXTINF:-1,TF1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/930
 #EXTINF:-1,AB1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/560
-#EXTINF:-1,AB3
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3012
-#EXTINF:-1,ARTE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/561
-#EXTINF:-1,BFM BUSINESS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3521
-#EXTINF:-1,BFM Paris
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5887
-#EXTINF:-1,Melody
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/566
-#EXTINF:-1,CGTN Français
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5879
-#EXTINF:-1,Comedie+
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/391
-#EXTINF:-1,E!Entairtenment
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1953
-#EXTINF:-1,EURONEWS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2011
-#EXTINF:-1,Francophonie 24
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3514
-#EXTINF:-1,GRAND LILLE TV HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6109
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/931
+#EXTINF:-1,6TER
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/932
+#EXTINF:-1,MANGAS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/933
+#EXTINF:-1,ANIMAUX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/935
+#EXTINF:-1,BFM TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/936
+#EXTINF:-1,FRANCE 24
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/937
 #EXTINF:-1,M6 MUSIC
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1906
-#EXTINF:-1,MCM
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3027
-#EXTINF:-1,MCM TOP HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6043
-#EXTINF:-1,MENS UP
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6114
-#EXTINF:-1,MTV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3014
-#EXTINF:-1,MTV LIVE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3023
-#EXTINF:-1,MTV Music
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6117
-#EXTINF:-1,MY CUISINE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5882
-#EXTINF:-1,PARAMOUNT CHANNEL DÉCALÉ HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6037
-#EXTINF:-1,PARISPREMIERE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/390
-#EXTINF:-1,RFM RADIO
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6119
-#EXTINF:-1,Teva
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/563
-#EXTINF:-1,TFX
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3276
-#EXTINF:-1,TRACE URBAN
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3019
-#EXTINF:-1,TVBREIZH
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1949
-#EXTINF:-1,Weo
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/816
-#EXTINF:-1,Bein Sport MAX 4
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1557
-#EXTINF:-1,Bein Sport MAX 5
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1558
-#EXTINF:-1,beIN sport MAX 6
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1902
-#EXTINF:-1,Bein Sport MAX 7
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1646
-#EXTINF:-1,Bein Sport-MAX 8
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/646
-#EXTINF:-1,Bein Sport MAX 9
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1623
-#EXTINF:-1,Bein Sport MAX 10
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1574
-#EXTINF:-1,AB MOTEUR
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1914
-#EXTINF:-1,EQUIDIA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/571
-#EXTINF:-1,EQUIDIA HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/570
-#EXTINF:-1,EUROSPORT 2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1760
-#EXTINF:-1,EUROSPORT1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1951
-#EXTINF:-1,Foot 24/24
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1560
-#EXTINF:-1,GOLF CHANNEL HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6108
-#EXTINF:-1,Golf+
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1561
-#EXTINF:-1,InFoSport+
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/559
-#EXTINF:-1,LEQUIPE 21
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1562
-#EXTINF:-1,Motors TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6200
-#EXTINF:-1,RMC Sport 1 HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1559
-#EXTINF:-1,RMC Sport 2 HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1761
-#EXTINF:-1,RMC Sport 3 HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1812
-#EXTINF:-1,RMC Sport 4 HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4914
-#EXTINF:-1,RMC Sport 5 HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3017
-#EXTINF:-1,Mangas
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/797
-#EXTINF:-1,Boing
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/799
-#EXTINF:-1,Boomerang
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1496
-#EXTINF:-1,Disney CHANEL+1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3028
-#EXTINF:-1,Disney Chanell
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/801
-#EXTINF:-1,Disney Junior
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1759
-#EXTINF:-1,GAMEONE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1901
-#EXTINF:-1,Gulli
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/804
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/938
+#EXTINF:-1,EURONEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/939
+#EXTINF:-1,DISNEY JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/947
+#EXTINF:-1,ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/948
+#EXTINF:-1,EQUIPE 21
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/949
+#EXTINF:-1,DISCOVERY SCIENCE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/951
+#EXTINF:-1,OCS CITY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/953
+#EXTINF:-1,OCS MAX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/954
+#EXTINF:-1,OCS GEANTS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1303
+#EXTINF:-1,OCS CHOC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1304
+#EXTINF:-1,NICKELODEON TEEN
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1305
+#EXTINF:-1,DISNEY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1306
+#EXTINF:-1,HISTORIE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1309
+#EXTINF:-1,NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1310
+#EXTINF:-1,DISCOVERY FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1311
+#EXTINF:-1,CRIME DISTRICT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1643
+#EXTINF:-1,DISCOVERY INVESTIGATION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1645
 #EXTINF:-1,J-ONE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5886
-#EXTINF:-1,Nickelodeon
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1693
-#EXTINF:-1,NICKELODEON +1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3026
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1646
+#EXTINF:-1,MTV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1647
+#EXTINF:-1,MTV BASE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1648
 #EXTINF:-1,NICKELODEON JUNIOR
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1955
-#EXTINF:-1,NICKELODEON TEEN HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6042
-#EXTINF:-1,Nickelodeon1.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24046
-#EXTINF:-1,Nickelodeon.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24047
-#EXTINF:-1,Nickelodeon.Junior.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24048
-#EXTINF:-1,Natgeo.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24049
-#EXTINF:-1,Nat.geo.wild.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24050
-#EXTINF:-1,Mangas.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24053
-#EXTINF:-1,M6.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24054
-#EXTINF:-1,LCP.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24055
-#EXTINF:-1,LCI.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24056
-#EXTINF:-1,INFOSPORT.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24057
-#EXTINF:-1,Gulli.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24058
-#EXTINF:-1,Golf.channel.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24060
-#EXTINF:-1,gameone1.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24061
-#EXTINF:-1,FranceO.SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24063
-#EXTINF:-1,RT FRANCE HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/27506
-#EXTINF:-1,RFM.TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10669
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1649
+#EXTINF:-1,NRJ12
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1650
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="",Alpe d’Huez TV
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
