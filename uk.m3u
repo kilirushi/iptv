@@ -1,295 +1,421 @@
 #EXTM3U
-#EXTINF:-1,BBC_1_HD
-http://listamy.com:8080/stream17/stream17/339448
-#EXTINF:-1,BBC_2_HD
-http://listamy.com:8080/stream17/stream17/339449
-#EXTINF:-1,BBC_3_HD
-http://listamy.com:8080/stream17/stream17/339450
-#EXTINF:-1,BBC_4_HD
-http://listamy.com:8080/stream17/stream17/339451
-#EXTINF:-1,BBC_NEW_HD
-http://listamy.com:8080/stream17/stream17/339452
-#EXTINF:-1,BBC_Alba
-http://listamy.com:8080/stream17/stream17/339453
-#EXTINF:-1,4_Seven_HD
-http://listamy.com:8080/stream17/stream17/339454
-#EXTINF:-1,At_The_Races
-http://listamy.com:8080/stream17/stream17/339455
-#EXTINF:-1,BT_Sport_1_FullHD
-http://listamy.com:8080/stream17/stream17/339456
-#EXTINF:-1,BT_Sport_2_FullHD
-http://listamy.com:8080/stream17/stream17/339457
-#EXTINF:-1,BT_Sport_3_FullHD
-http://listamy.com:8080/stream17/stream17/339458
-#EXTINF:-1,BT_Sport_ESPN_HD
-http://listamy.com:8080/stream17/stream17/339459
-#EXTINF:-1,BT_Sport_Extra_1
-http://listamy.com:8080/stream17/stream17/339460
-#EXTINF:-1,BT_Sport_Extra_2
-http://listamy.com:8080/stream17/stream17/339461
-#EXTINF:-1,BT_Sport_Extra_3
-http://listamy.com:8080/stream17/stream17/339462
-#EXTINF:-1,BT_Sport_Extra_4
-http://listamy.com:8080/stream17/stream17/339463
-#EXTINF:-1,ITV_1
-http://listamy.com:8080/stream17/stream17/339464
-#EXTINF:-1,ITV_2
-http://listamy.com:8080/stream17/stream17/339465
-#EXTINF:-1,ITV_3
-http://listamy.com:8080/stream17/stream17/339466
-#EXTINF:-1,ITV_4
-http://listamy.com:8080/stream17/stream17/339467
-#EXTINF:-1,UFC_FIGHT_PASS
-http://listamy.com:8080/stream17/stream17/339468
-#EXTINF:-1,Challenge
-http://listamy.com:8080/stream17/stream17/339469
-#EXTINF:-1,CBS_Action
-http://listamy.com:8080/stream17/stream17/339470
-#EXTINF:-1,CBS_REALITY
-http://listamy.com:8080/stream17/stream17/339471
-#EXTINF:-1,Channel_4_FullHD
-http://listamy.com:8080/stream17/stream17/339472
-#EXTINF:-1,Channel_5_FHD
-http://listamy.com:8080/stream17/stream17/339473
-#EXTINF:-1,Channel_5_Star
-http://listamy.com:8080/stream17/stream17/339474
-#EXTINF:-1,Channel_5_USA
-http://listamy.com:8080/stream17/stream17/339475
-#EXTINF:-1,Sky_Movies_Action&Adventure
-http://listamy.com:8080/stream17/stream17/339476
-#EXTINF:-1,SKY_MOVIES_CRIME_&_THRILLER
-http://listamy.com:8080/stream17/stream17/339477
-#EXTINF:-1,SKY_MOVIES_DRAMA
-http://listamy.com:8080/stream17/stream17/339478
-#EXTINF:-1,Sky_Movies_Family
-http://listamy.com:8080/stream17/stream17/339479
-#EXTINF:-1,Sky_Living_HD
-http://listamy.com:8080/stream17/stream17/339480
-#EXTINF:-1,Sky_Movies_Grates_FHD
-http://listamy.com:8080/stream17/stream17/339481
-#EXTINF:-1,Sky_Movies_Premiere
-http://listamy.com:8080/stream17/stream17/339482
-#EXTINF:-1,SKY_MOVIES_SELECT
-http://listamy.com:8080/stream17/stream17/339483
-#EXTINF:-1,SKY_MOVIES_Hits
-http://listamy.com:8080/stream17/stream17/339484
-#EXTINF:-1,Sky_Movies_SyFi-Horror
-http://listamy.com:8080/stream17/stream17/339485
-#EXTINF:-1,SKY_MOVIES_COMEDY
-http://listamy.com:8080/stream17/stream17/339486
-#EXTINF:-1,SKY_MOVIES_DISNEY_HD
-http://listamy.com:8080/stream17/stream17/339487
-#EXTINF:-1,Chelsea_TV
-http://listamy.com:8080/stream17/stream17/339488
-#EXTINF:-1,Comedy_Central_FHD
-http://listamy.com:8080/stream17/stream17/339489
-#EXTINF:-1,Comedy_Central_Extra
-http://listamy.com:8080/stream17/stream17/339490
-#EXTINF:-1,Crime_&_Investigation
-http://listamy.com:8080/stream17/stream17/339491
-#EXTINF:-1,CBS_Drama
-http://listamy.com:8080/stream17/stream17/339492
-#EXTINF:-1,DISCOVERY_SCIENCE
-http://listamy.com:8080/stream17/stream17/339493
-#EXTINF:-1,EUROSPORT_1
-http://listamy.com:8080/stream17/stream17/339494
-#EXTINF:-1,EUROSPORT_2
-http://listamy.com:8080/stream17/stream17/339495
-#EXTINF:-1,Eir_Sports_1
-http://listamy.com:8080/stream17/stream17/339496
-#EXTINF:-1,Eir_Sports_2
-http://listamy.com:8080/stream17/stream17/339497
-#EXTINF:-1,EURONEWS
-http://listamy.com:8080/stream17/stream17/339498
-#EXTINF:-1,Baby_TV
-http://listamy.com:8080/stream17/stream17/339499
-#EXTINF:-1,Disney_Junior
-http://listamy.com:8080/stream17/stream17/339500
-#EXTINF:-1,DISNEY_CHANNEL_HD
-http://listamy.com:8080/stream17/stream17/339501
-#EXTINF:-1,DRAMA
-http://listamy.com:8080/stream17/stream17/339502
-#EXTINF:-1,DMAX_UK
-http://listamy.com:8080/stream17/stream17/339503
-#EXTINF:-1,Discovery_Shed
-http://listamy.com:8080/stream17/stream17/339504
-#EXTINF:-1,DISCOVERY_TURBO
-http://listamy.com:8080/stream17/stream17/339505
-#EXTINF:-1,FOX_SPORTS
-http://listamy.com:8080/stream17/stream17/339506
+#EXTINF:-1,ITV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/839.ts
+#EXTINF:-1,ITV 2
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/840.ts
+#EXTINF:-1,ITV 3
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/841.ts
+#EXTINF:-1,ITV 4
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/842.ts
+#EXTINF:-1,ITVBe
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/843.ts
+#EXTINF:-1,ITV +1
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/844.ts
+#EXTINF:-1,STV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/845.ts
+#EXTINF:-1,UTV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/846.ts
+#EXTINF:-1,BBC One London
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/847.ts
+#EXTINF:-1,BBC One South East
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/848.ts
+#EXTINF:-1,BBC Two
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/849.ts
+#EXTINF:-1,BBC Four
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/850.ts
+#EXTINF:-1,BBC One West Midlands
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/851.ts
+#EXTINF:-1,BBC One Northern Ireland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/852.ts
+#EXTINF:-1,BBC Two Northern Ireland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/853.ts
+#EXTINF:-1,BBC Scotland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/854.ts
+#EXTINF:-1,BBC One Scot
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/855.ts
+#EXTINF:-1,CNBC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/856.ts
+#EXTINF:-1,VM One +1
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/857.ts
+#EXTINF:-1,VM One HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/858.ts
+#EXTINF:-1,VM Two HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/859.ts
+#EXTINF:-1,VM Three HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/860.ts
+#EXTINF:-1,TG 4
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/861.ts
+#EXTINF:-1,More 4 UK
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/862.ts
+#EXTINF:-1,E4 UK
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/863.ts
+#EXTINF:-1,Rte Two HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/864.ts
+#EXTINF:-1,Rte One HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/865.ts
+#EXTINF:-1,Channels 24
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/866.ts
+#EXTINF:-1,NHK World Japan HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/867.ts
+#EXTINF:-1,Paramount Network
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/868.ts
+#EXTINF:-1,Travel XP
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/869.ts
+#EXTINF:-1,PBS America
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/870.ts
+#EXTINF:-1,Channel 4
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/871.ts
+#EXTINF:-1,Travel Channel
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/872.ts
+#EXTINF:-1,Channel 5
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/873.ts
+#EXTINF:-1,5 USA
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/874.ts
+#EXTINF:-1,5 Star
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/875.ts
+#EXTINF:-1,EWTN UK Ireland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/876.ts
+#EXTINF:-1,Pick Ireland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/877.ts
+#EXTINF:-1,TLC HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/878.ts
+#EXTINF:-1,Sony Movies
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/879.ts
+#EXTINF:-1,Life Time HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/880.ts
+#EXTINF:-1,Challenge Ireland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/881.ts
 #EXTINF:-1,Fox
-http://listamy.com:8080/stream17/stream17/339507
-#EXTINF:-1,DISCOVERY_HISTORY
-http://listamy.com:8080/stream17/stream17/339508
-#EXTINF:-1,DISCOVERY_INVESTIGATION
-http://listamy.com:8080/stream17/stream17/339509
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/882.ts
+#EXTINF:-1,SYFY HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/883.ts
+#EXTINF:-1,Challenge
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/884.ts
+#EXTINF:-1,DMAX
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/885.ts
+#EXTINF:-1,Horror Channel
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/886.ts
+#EXTINF:-1,Universal Channel HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/887.ts
+#EXTINF:-1,Sony Crime Channel
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/888.ts
+#EXTINF:-1,London Live
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/889.ts
 #EXTINF:-1,Home
-http://listamy.com:8080/stream17/stream17/339510
-#EXTINF:-1,Home_&_Health
-http://listamy.com:8080/stream17/stream17/339511
-#EXTINF:-1,MTV
-http://listamy.com:8080/stream17/stream17/339512
-#EXTINF:-1,MTV_Dance
-http://listamy.com:8080/stream17/stream17/339513
-#EXTINF:-1,MTV_Rocks
-http://listamy.com:8080/stream17/stream17/339514
-#EXTINF:-1,MTV_Hits
-http://listamy.com:8080/stream17/stream17/339515
-#EXTINF:-1,MTV_Classic
-http://listamy.com:8080/stream17/stream17/339516
-#EXTINF:-1,HORROR_CHANNEL
-http://listamy.com:8080/stream17/stream17/339517
-#EXTINF:-1,LFC_TV_FHD
-http://listamy.com:8080/stream17/stream17/339518
-#EXTINF:-1,France_24_FHD
-http://listamy.com:8080/stream17/stream17/339519
-#EXTINF:-1,Premier_Sports_1_FHD
-http://listamy.com:8080/stream17/stream17/339520
-#EXTINF:-1,DISCOVERY_Channel_HD
-http://listamy.com:8080/stream17/stream17/339521
-#EXTINF:-1,E!_Entertainment_HD
-http://listamy.com:8080/stream17/stream17/339522
-#EXTINF:-1,NAT_GEO_WILD
-http://listamy.com:8080/stream17/stream17/339523
-#EXTINF:-1,NAT._GEO._FHD
-http://listamy.com:8080/stream17/stream17/339524
-#EXTINF:-1,Celtic_FC_TV (Live for Matches)
-http://listamy.com:8080/stream17/stream17/339525
-#EXTINF:-1,Sky_Sports_news
-http://listamy.com:8080/stream17/stream17/339526
-#EXTINF:-1,Sky_Sports_Action_HD
-http://listamy.com:8080/stream17/stream17/339527
-#EXTINF:-1,Sky_Sports_Action_FullHD
-http://listamy.com:8080/stream17/stream17/339528
-#EXTINF:-1,Sky_Sports_Mix_HD
-http://listamy.com:8080/stream17/stream17/339529
-#EXTINF:-1,Sky_Sports_Mix_FullHD
-http://listamy.com:8080/stream17/stream17/339530
-#EXTINF:-1,Sky_Sports_Arena_HD
-http://listamy.com:8080/stream17/stream17/339531
-#EXTINF:-1,Sky_Sports_Arena_FullHD
-http://listamy.com:8080/stream17/stream17/339532
-#EXTINF:-1,Sky_Sports_Cricket_HD
-http://listamy.com:8080/stream17/stream17/339533
-#EXTINF:-1,Sky_Sports_Cricket_FullHD
-http://listamy.com:8080/stream17/stream17/339534
-#EXTINF:-1,SKY_SPORTS_GOLF_FullHD
-http://listamy.com:8080/stream17/stream17/339535
-#EXTINF:-1,SKY_SPORTS_MAIN_EVENT_HD
-http://listamy.com:8080/stream17/stream17/339536
-#EXTINF:-1,Sky_Sports_Main_Event_FullHD
-http://listamy.com:8080/stream17/stream17/339537
-#EXTINF:-1,Sky_Sports_Premier_League_HD
-http://listamy.com:8080/stream17/stream17/339538
-#EXTINF:-1,Sky_Sports_Premier_League_FullHD
-http://listamy.com:8080/stream17/stream17/339539
-#EXTINF:-1,Sky_Sports_Football_HD
-http://listamy.com:8080/stream17/stream17/339540
-#EXTINF:-1,Sky_Sports_Football_FHD
-http://listamy.com:8080/stream17/stream17/339541
-#EXTINF:-1,SKY_SPORTS_F1_HD
-http://listamy.com:8080/stream17/stream17/339542
-#EXTINF:-1,SKY_SPORTS_F1_FHD
-http://listamy.com:8080/stream17/stream17/339543
-#EXTINF:-1,Sky_Sports_Golf_HD
-http://listamy.com:8080/stream17/stream17/339544
-#EXTINF:-1,BoxNation_FHD
-http://listamy.com:8080/stream17/stream17/339545
-#EXTINF:-1,Alibi
-http://listamy.com:8080/stream17/stream17/339546
-#EXTINF:-1,Animal_Planet
-http://listamy.com:8080/stream17/stream17/339547
-#EXTINF:-1,Dave
-http://listamy.com:8080/stream17/stream17/339548
-#EXTINF:-1,E4
-http://listamy.com:8080/stream17/stream17/339549
-#EXTINF:-1,Film_4
-http://listamy.com:8080/stream17/stream17/339550
-#EXTINF:-1,Gold
-http://listamy.com:8080/stream17/stream17/339551
-#EXTINF:-1,RTE_One_HD
-http://listamy.com:8080/stream17/stream17/339552
-#EXTINF:-1,RTE_TWO_HD
-http://listamy.com:8080/stream17/stream17/339553
-#EXTINF:-1,Setanta_Sports
-http://listamy.com:8080/stream17/stream17/339554
-#EXTINF:-1,Sky_2
-http://listamy.com:8080/stream17/stream17/339555
-#EXTINF:-1,Sky_Arts_FHD
-http://listamy.com:8080/stream17/stream17/339556
-#EXTINF:-1,SKY_Atlantic_FHD
-http://listamy.com:8080/stream17/stream17/339557
-#EXTINF:-1,SKY_NEWS
-http://listamy.com:8080/stream17/stream17/339558
-#EXTINF:-1,Sky_One
-http://listamy.com:8080/stream17/stream17/339559
-#EXTINF:-1,Sky_MUTV_FHD
-http://listamy.com:8080/stream17/stream17/339560
-#EXTINF:-1,Sony_Movies
-http://listamy.com:8080/stream17/stream17/339561
-#EXTINF:-1,EDEN
-http://listamy.com:8080/stream17/stream17/339562
-#EXTINF:-1,Travel_Channel
-http://listamy.com:8080/stream17/stream17/339563
-#EXTINF:-1,True_Entertainment
-http://listamy.com:8080/stream17/stream17/339564
-#EXTINF:-1,True_Movies_1
-http://listamy.com:8080/stream17/stream17/339565
-#EXTINF:-1,Universal
-http://listamy.com:8080/stream17/stream17/339566
-#EXTINF:-1,VIVA
-http://listamy.com:8080/stream17/stream17/339567
-#EXTINF:-1,Watch
-http://listamy.com:8080/stream17/stream17/339568
-#EXTINF:-1,WWE_Network
-http://listamy.com:8080/stream17/stream17/339569
-#EXTINF:-1,Yesterday
-http://listamy.com:8080/stream17/stream17/339570
-#EXTINF:-1,CBeebies_HD
-http://listamy.com:8080/stream17/stream17/339571
-#EXTINF:-1,DISNEY_XD
-http://listamy.com:8080/stream17/stream17/339572
-#EXTINF:-1,Cartoon_Network_FHD
-http://listamy.com:8080/stream17/stream17/339573
-#EXTINF:-1,NICK_JUNIOR_Too
-http://listamy.com:8080/stream17/stream17/339574
-#EXTINF:-1,NICKTOONS
-http://listamy.com:8080/stream17/stream17/339575
-#EXTINF:-1,RACING_UK
-http://listamy.com:8080/stream17/stream17/339576
-#EXTINF:-1,UTV_HD
-http://listamy.com:8080/stream17/stream17/339577
-#EXTINF:-1,Fine_Living
-http://listamy.com:8080/stream17/stream17/339578
-#EXTINF:-1,TLC
-http://listamy.com:8080/stream17/stream17/339579
-#EXTINF:-1,FOX_NEWS
-http://listamy.com:8080/stream17/stream17/339580
-#EXTINF:-1,FOOD_NETWORK
-http://listamy.com:8080/stream17/stream17/339581
-#EXTINF:-1,QUEST
-http://listamy.com:8080/stream17/stream17/339582
-#EXTINF:-1,Quest_Red
-http://listamy.com:8080/stream17/stream17/339583
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/890.ts
+#EXTINF:-1,True Ent
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/891.ts
+#EXTINF:-1,High Street TV 3
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/892.ts
+#EXTINF:-1,True Christmas
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/893.ts
+#EXTINF:-1,QVC Christmas
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/894.ts
+#EXTINF:-1,Crime Invastigation HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/895.ts
+#EXTINF:-1,TCM HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/896.ts
+#EXTINF:-1,CBS Drama
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/897.ts
+#EXTINF:-1,CBS Reality
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/898.ts
+#EXTINF:-1,CBS Action
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/899.ts
+#EXTINF:-1,SKY One HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/900.ts
+#EXTINF:-1,I Film English
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/901.ts
+#EXTINF:-1,Sky Two HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/902.ts
 #EXTINF:-1,Movies4Men
-http://listamy.com:8080/stream17/stream17/339584
-#EXTINF:-1,SYFY_HD
-http://listamy.com:8080/stream17/stream17/339585
-#EXTINF:-1,TCM
-http://listamy.com:8080/stream17/stream17/339586
-#EXTINF:-1,History_Channel_HD
-http://listamy.com:8080/stream17/stream17/339587
-#EXTINF:-1,BT_Sport_3_HD
-http://listamy.com:8080/stream17/stream17/339588
-#EXTINF:-1,BT_Sport_2_HD
-http://listamy.com:8080/stream17/stream17/339589
-#EXTINF:-1,BT_Sport_1_HD
-http://listamy.com:8080/stream17/stream17/339590
-#EXTINF:-1,Tiny_Pop_HD
-http://listamy.com:8080/stream17/stream17/339591
-#EXTINF:-1,Premier_Sports_2_FHD
-http://listamy.com:8080/stream17/stream17/339592
-#EXTINF:-1,La_Liga_Tv_FHD
-http://listamy.com:8080/stream17/stream17/339593
-#EXTINF:-1,FREE_SPORTS_HD
-http://listamy.com:8080/stream17/stream17/339594
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/903.ts
+#EXTINF:-1,Sky Arts HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/904.ts
+#EXTINF:-1,Drama Ireland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/905.ts
+#EXTINF:-1,E! Entertainment HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/906.ts
+#EXTINF:-1,Drama
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/907.ts
+#EXTINF:-1,Film 4
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/908.ts
+#EXTINF:-1,5 Spike
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/909.ts
+#EXTINF:-1,Sky Movies Action HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/910.ts
+#EXTINF:-1,Sky Movies Hits HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/911.ts
+#EXTINF:-1,Sky Movies Premiere +1
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/912.ts
+#EXTINF:-1,Sky Movies Family HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/913.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/914.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/915.ts
+#EXTINF:-1,Comedy Central HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/916.ts
+#EXTINF:-1,Comedy Central Extra
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/917.ts
+#EXTINF:-1,Showcase
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/918.ts
+#EXTINF:-1,Sky Movies Thriller HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/919.ts
+#EXTINF:-1,Sky Movies Drama Romance HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/920.ts
+#EXTINF:-1,Sky Movies Select HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/921.ts
+#EXTINF:-1,Sky Movies Greats Superheroes HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/922.ts
+#EXTINF:-1,Sky Atlantic HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/923.ts
+#EXTINF:-1,Sky Movies Disney HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/924.ts
+#EXTINF:-1,Sky Movies Sci-Fi Horror HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/925.ts
+#EXTINF:-1,Sky Movies Action SD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/926.ts
+#EXTINF:-1,BET BlackEntTv
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/927.ts
+#EXTINF:-1,Sky Movies Family SD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/928.ts
+#EXTINF:-1,Sky Movies Comedy SD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/929.ts
+#EXTINF:-1,Sky Movies Thriller SD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/930.ts
+#EXTINF:-1,Sky Movies Greats Superheroes SD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/931.ts
+#EXTINF:-1,Sky Atlantic SD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/932.ts
+#EXTINF:-1,Sky Movies Disney SD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/933.ts
+#EXTINF:-1,Sky Movies Sci-Fi Horror SD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/934.ts
+#EXTINF:-1,SKY Witness
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/935.ts
+#EXTINF:-1,Horse And Country
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/936.ts
+#EXTINF:-1,Animal Planet
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/937.ts
+#EXTINF:-1,National Geographic HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/938.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/939.ts
+#EXTINF:-1,Discovery
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/940.ts
+#EXTINF:-1,Discovery Science
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/941.ts
+#EXTINF:-1,Investigation Discovery
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/942.ts
+#EXTINF:-1,Discovery Turbo
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/943.ts
+#EXTINF:-1,History 2
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/944.ts
+#EXTINF:-1,Discovery History
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/945.ts
+#EXTINF:-1,CCTV 9 Documentary
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/946.ts
+#EXTINF:-1,Quest Red
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/947.ts
+#EXTINF:-1,Quest
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/948.ts
+#EXTINF:-1,Discovery Shed
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/949.ts
+#EXTINF:-1,Discovery Home Health
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/950.ts
+#EXTINF:-1,Food Network
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/951.ts
+#EXTINF:-1,Dave
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/952.ts
+#EXTINF:-1,Alibi
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/953.ts
+#EXTINF:-1,British Muslim
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/954.ts
+#EXTINF:-1,Eman Channel
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/955.ts
+#EXTINF:-1,ATN Bangla UK
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/956.ts
+#EXTINF:-1,Islam Channel
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/957.ts
+#EXTINF:-1,Ahlubayt
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/958.ts
+#EXTINF:-1,IQRA BANGLA
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/959.ts
+#EXTINF:-1,Eden
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/960.ts
+#EXTINF:-1,Eden +1
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/961.ts
+#EXTINF:-1,Ideal World HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/962.ts
+#EXTINF:-1,LoveWorld HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/963.ts
+#EXTINF:-1,Really
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/964.ts
+#EXTINF:-1,TV One
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/965.ts
+#EXTINF:-1,GOLD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/966.ts
+#EXTINF:-1,NTV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/967.ts
+#EXTINF:-1,Fashion
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/968.ts
+#EXTINF:-1,Fashion TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/969.ts
+#EXTINF:-1,Yesterday
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/970.ts
+#EXTINF:-1,Blaze
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/971.ts
+#EXTINF:-1,5 Select
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/972.ts
+#EXTINF:-1,Forces TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/973.ts
+#EXTINF:-1,PPV ITV BOX OFFICE
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/985.ts
+#EXTINF:-1,Celtic FC TV LIVE ON MATCHES
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/991.ts
+#EXTINF:-1,Rangers FC TV LIVE ON MATCHES
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/992.ts
+#EXTINF:-1,BT Sport 1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/993.ts
+#EXTINF:-1,BT Sport 2 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/994.ts
+#EXTINF:-1,BT Sport 3 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/995.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/996.ts
+#EXTINF:-1,eir Sport 1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/997.ts
+#EXTINF:-1,BOX Nation
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/998.ts
+#EXTINF:-1,BT Sport 1 FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/999.ts
+#EXTINF:-1,BT Sport 3 FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1000.ts
+#EXTINF:-1,BT Sport 2 FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1001.ts
+#EXTINF:-1,Eurosport HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1002.ts
+#EXTINF:-1,Racing TV UK
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1003.ts
+#EXTINF:-1,Eurosport 2 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1004.ts
+#EXTINF:-1,Premier Sports 1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1005.ts
+#EXTINF:-1,Premier Sports 2 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1006.ts
+#EXTINF:-1,CHELSEA TV HD Live On Matches
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1007.ts
+#EXTINF:-1,LFCTV HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1008.ts
+#EXTINF:-1,MANCHESTER UNITED TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1009.ts
+#EXTINF:-1,Free Sports HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1010.ts
+#EXTINF:-1,Cartoon Network HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1017.ts
+#EXTINF:-1,Rte Junior HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1018.ts
+#EXTINF:-1,Cartoonito
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1019.ts
+#EXTINF:-1,Boomerang
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1020.ts
+#EXTINF:-1,Pop Max
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1021.ts
+#EXTINF:-1,Disney Channel +1
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1022.ts
+#EXTINF:-1,CBBC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1023.ts
+#EXTINF:-1,Disney Channel HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1024.ts
+#EXTINF:-1,Disney XD HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1025.ts
+#EXTINF:-1,Disney Junior HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1026.ts
+#EXTINF:-1,Tiny Pop
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1027.ts
+#EXTINF:-1,Nickelodeon
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1028.ts
+#EXTINF:-1,Nick JR
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1029.ts
+#EXTINF:-1,Nick Toon
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1030.ts
+#EXTINF:-1,Baby TV HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1031.ts
+#EXTINF:-1,CBeebies
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1032.ts
+#EXTINF:-1,BBC World News
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1033.ts
+#EXTINF:-1,BBC News
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1034.ts
+#EXTINF:-1,BBC Parliament
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1035.ts
+#EXTINF:-1,CNN
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1036.ts
+#EXTINF:-1,Al Jazeera English
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1037.ts
+#EXTINF:-1,TRT WORLD FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1038.ts
+#EXTINF:-1,Sky News
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1039.ts
+#EXTINF:-1,Sky News Ireland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1040.ts
+#EXTINF:-1,RTE News NOW
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1041.ts
+#EXTINF:-1,RTE News HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1042.ts
+#EXTINF:-1,A NEWS FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1043.ts
+#EXTINF:-1,A News HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1044.ts
+#EXTINF:-1,Press TV HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1045.ts
+#EXTINF:-1,FOX News HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1046.ts
+#EXTINF:-1,DW English FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1047.ts
+#EXTINF:-1,DW English
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1048.ts
+#EXTINF:-1,France 24
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1049.ts
+#EXTINF:-1,Euronews
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1050.ts
+#EXTINF:-1,CCTV News
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1051.ts
+#EXTINF:-1,Russia Today
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1052.ts
+#EXTINF:-1,Bloomberg HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1053.ts
+#EXTINF:-1,TRT World HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1054.ts
+#EXTINF:-1,Box Hits
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1055.ts
+#EXTINF:-1,MTV HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1056.ts
+#EXTINF:-1,MTV Hits
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1057.ts
+#EXTINF:-1,MTV Base
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1059.ts
+#EXTINF:-1,Spotlight TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1061.ts
+#EXTINF:-1,Channel Aka
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1062.ts
+#EXTINF:-1,Chart Show TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1063.ts
+#EXTINF:-1,StarZ TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1064.ts
+#EXTINF:-1,Summer Hits
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1065.ts
+#EXTINF:-1,Clubland TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1066.ts
+#EXTINF:-1,4Music
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1067.ts
+#EXTINF:-1,NOW 90s
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1068.ts
+#EXTINF:-1,The Box
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1069.ts
+#EXTINF:-1,Kerrang!
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1071.ts
+#EXTINF:-1,KISS
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1072.ts
+#EXTINF:-1,Magic UK
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1073.ts
