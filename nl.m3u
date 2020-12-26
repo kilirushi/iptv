@@ -1,299 +1,217 @@
 #EXTM3U
-#EXTINF:-1,NPO1 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1792.ts
-#EXTINF:-1,NPO2 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1793.ts
-#EXTINF:-1,NPO3 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1794.ts
+#EXTINF:-1,NPO 1 HD
+http://88.198.32.78:80/edis1/edis1/332
+#EXTINF:-1,NPO 2 HD
+http://88.198.32.78:80/edis1/edis1/333
+#EXTINF:-1,NPO 3 HD
+http://88.198.32.78:80/edis1/edis1/334
 #EXTINF:-1,RTL 4 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1795.ts
+http://88.198.32.78:80/edis1/edis1/335
 #EXTINF:-1,RTL 5 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1796.ts
-#EXTINF:-1,SBS6 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1797.ts
+http://88.198.32.78:80/edis1/edis1/336
+#EXTINF:-1,SBS 6 HD
+http://88.198.32.78:80/edis1/edis1/337
 #EXTINF:-1,RTL 7 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1798.ts
-#EXTINF:-1,RTL Crime
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1799.ts
-#EXTINF:-1,RTL8 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1800.ts
-#EXTINF:-1,SBS9 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1801.ts
-#EXTINF:-1,NET5 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1802.ts
-#EXTINF:-1,Npo Nieuws
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1803.ts
-#EXTINF:-1,NPO Politiek
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1804.ts
-#EXTINF:-1,RTLZ HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1805.ts
-#EXTINF:-1,RTL Lounge
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1806.ts
-#EXTINF:-1,ARD HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1807.ts
-#EXTINF:-1,Spike HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1808.ts
-#EXTINF:-1,Comedy Central Extra
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1809.ts
-#EXTINF:-1,Comedy Central HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1810.ts
-#EXTINF:-1,Ketnet
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1811.ts
-#EXTINF:-1,TLC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1812.ts
-#EXTINF:-1,E!
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1813.ts
-#EXTINF:-1,Fashion TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1814.ts
-#EXTINF:-1,FOX
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1815.ts
-#EXTINF:-1,ONS
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1816.ts
-#EXTINF:-1,24 Kitchen
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1817.ts
+http://88.198.32.78:80/edis1/edis1/338
+#EXTINF:-1,RTL 8 HD (NL)
+http://88.198.32.78:80/edis1/edis1/339
+#EXTINF:-1,SBS 9 HD
+http://88.198.32.78:80/edis1/edis1/340
+#EXTINF:-1,NET 5 HD
+http://88.198.32.78:80/edis1/edis1/341
+#EXTINF:-1,VERONICA HD / DISNEY XD
+http://88.198.32.78:80/edis1/edis1/342
+#EXTINF:-1,RTL Z HD
+http://88.198.32.78:80/edis1/edis1/343
+#EXTINF:-1,NPO EXTRA 1
+http://88.198.32.78:80/edis1/edis1/345
+#EXTINF:-1,NPO EXTRA 2
+http://88.198.32.78:80/edis1/edis1/346
+#EXTINF:-1,NPO NIEUWS
+http://88.198.32.78:80/edis1/edis1/347
+#EXTINF:-1,NPO POLITIEK
+http://88.198.32.78:80/edis1/edis1/348
+#EXTINF:-1,COMEDY CENTRAL HD
+http://88.198.32.78:80/edis1/edis1/349
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://88.198.32.78:80/edis1/edis1/350
+#EXTINF:-1,SPIKE HD
+http://88.198.32.78:80/edis1/edis1/351
+#EXTINF:-1,FOX HD
+http://88.198.32.78:80/edis1/edis1/352
+#EXTINF:-1,BVN (NL)
+http://88.198.32.78:80/edis1/edis1/353
+#EXTINF:-1,NICKELODEON HD
+http://88.198.32.78:80/edis1/edis1/355
+#EXTINF:-1,NICKTOONS
+http://88.198.32.78:80/edis1/edis1/356
+#EXTINF:-1,KETNET
+http://88.198.32.78:80/edis1/edis1/357
+#EXTINF:-1,DISNEY XD
+http://88.198.32.78:80/edis1/edis1/358
+#EXTINF:-1,DISNEY CHANNEL HD
+http://88.198.32.78:80/edis1/edis1/359
+#EXTINF:-1,CARTOON NETWORK
+http://88.198.32.78:80/edis1/edis1/360
+#EXTINF:-1,BOOMERANG
+http://88.198.32.78:80/edis1/edis1/361
+#EXTINF:-1,PEBBLE TV
+http://88.198.32.78:80/edis1/edis1/362
+#EXTINF:-1,RTL TELEKIDS HD
+http://88.198.32.78:80/edis1/edis1/363
+#EXTINF:-1,NICK JUNIOR
+http://88.198.32.78:80/edis1/edis1/364
+#EXTINF:-1,BABY TV
+http://88.198.32.78:80/edis1/edis1/365
 #EXTINF:-1,192 TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1818.ts
-#EXTINF:-1,TV Oranje
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1819.ts
-#EXTINF:-1,Xite HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1820.ts
-#EXTINF:-1,Film1 Drama HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1821.ts
-#EXTINF:-1,Film1 Premiere HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1822.ts
-#EXTINF:-1,Film1 Action HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1823.ts
-#EXTINF:-1,Film1 Family HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1824.ts
+http://88.198.32.78:80/edis1/edis1/375
+#EXTINF:-1,MTV HD
+http://88.198.32.78:80/edis1/edis1/376
+#EXTINF:-1,MTV BRANDNEW
+http://88.198.32.78:80/edis1/edis1/377
+#EXTINF:-1,MTV LIVE HD
+http://88.198.32.78:80/edis1/edis1/378
+#EXTINF:-1,MTV MUSIC 24
+http://88.198.32.78:80/edis1/edis1/379
+#EXTINF:-1,VH1 CLASSIC
+http://88.198.32.78:80/edis1/edis1/380
+#EXTINF:-1,DANCE TRIPPIN HD
+http://88.198.32.78:80/edis1/edis1/381
+#EXTINF:-1,XITE HD
+http://88.198.32.78:80/edis1/edis1/382
+#EXTINF:-1,NICK MUSIC
+http://88.198.32.78:80/edis1/edis1/383
+#EXTINF:-1,TV ORANJE
+http://88.198.32.78:80/edis1/edis1/384
+#EXTINF:-1,MEZZO
+http://88.198.32.78:80/edis1/edis1/385
+#EXTINF:-1,100% NL TV
+http://88.198.32.78:80/edis1/edis1/386
+#EXTINF:-1,SLAM! TV
+http://88.198.32.78:80/edis1/edis1/387
+#EXTINF:-1,TV 538
+http://88.198.32.78:80/edis1/edis1/388
+#EXTINF:-1,FILM 1 ACTION HD
+http://88.198.32.78:80/edis1/edis1/390
+#EXTINF:-1,FILM 1 PREMIERE HD
+http://88.198.32.78:80/edis1/edis1/391
+#EXTINF:-1,FILM 1 DRAMA HD
+http://88.198.32.78:80/edis1/edis1/392
+#EXTINF:-1,FILM 1 FAMILY HD
+http://88.198.32.78:80/edis1/edis1/393
+#EXTINF:-1,FILM1 EUROPE HD
+http://88.198.32.78:80/edis1/edis1/394
+#EXTINF:-1,FILM1 EUROPE HD INT.
+http://88.198.32.78:80/edis1/edis1/395
+#EXTINF:-1,HBO 1 HD
+http://88.198.32.78:80/edis1/edis1/396
+#EXTINF:-1,HBO 2
+http://88.198.32.78:80/edis1/edis1/397
+#EXTINF:-1,HBO 3 (NL)
+http://88.198.32.78:80/edis1/edis1/398
+#EXTINF:-1,RTL LOUNGE HD
+http://88.198.32.78:80/edis1/edis1/400
+#EXTINF:-1,RTL CRIME HD
+http://88.198.32.78:80/edis1/edis1/401
+#EXTINF:-1,CRIME INVESTIGATION
+http://88.198.32.78:80/edis1/edis1/402
+#EXTINF:-1,E! HD
+http://88.198.32.78:80/edis1/edis1/403
+#EXTINF:-1,TLC HD
+http://88.198.32.78:80/edis1/edis1/404
+#EXTINF:-1,FASHION TV HD
+http://88.198.32.78:80/edis1/edis1/405
+#EXTINF:-1,24 KITCHEN HD
+http://88.198.32.78:80/edis1/edis1/406
+#EXTINF:-1,VICELAND HD
+http://88.198.32.78:80/edis1/edis1/407
+#EXTINF:-1,ONS
+http://88.198.32.78:80/edis1/edis1/408
+#EXTINF:-1,OUT TV HD
+http://88.198.32.78:80/edis1/edis1/409
+#EXTINF:-1,FAMILY 7 KIDS
+http://88.198.32.78:80/edis1/edis1/410
+#EXTINF:-1,NGC HD
+http://88.198.32.78:80/edis1/edis1/412
+#EXTINF:-1,NGC WILD HD
+http://88.198.32.78:80/edis1/edis1/413
+#EXTINF:-1,ANIMAL PLANET HD
+http://88.198.32.78:80/edis1/edis1/414
+#EXTINF:-1,DISCOVERY HD
+http://88.198.32.78:80/edis1/edis1/415
+#EXTINF:-1,DISCOVERY WORLD
+http://88.198.32.78:80/edis1/edis1/416
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://88.198.32.78:80/edis1/edis1/417
+#EXTINF:-1,DISCOVERY ID HD
+http://88.198.32.78:80/edis1/edis1/418
+#EXTINF:-1,HISTORY HD
+http://88.198.32.78:80/edis1/edis1/419
+#EXTINF:-1,HORSE AND COUNTRY TV HD
+http://88.198.32.78:80/edis1/edis1/420
+#EXTINF:-1,FOX SPORTS 1 HD
+http://88.198.32.78:80/edis1/edis1/422
+#EXTINF:-1,FOX SPORTS 2 HD
+http://88.198.32.78:80/edis1/edis1/423
+#EXTINF:-1,FOX SPORTS 3 HD
+http://88.198.32.78:80/edis1/edis1/424
+#EXTINF:-1,FOX SPORTS 4 HD
+http://88.198.32.78:80/edis1/edis1/425
+#EXTINF:-1,FOX SPORTS 5 HD
+http://88.198.32.78:80/edis1/edis1/426
+#EXTINF:-1,FOX SPORTS 6 HD
+http://88.198.32.78:80/edis1/edis1/427
+#EXTINF:-1,ZIGGO SPORT HD
+http://88.198.32.78:80/edis1/edis1/428
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://88.198.32.78:80/edis1/edis1/429
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://88.198.32.78:80/edis1/edis1/430
+#EXTINF:-1,ZIGGO SPORT RACING HD
+http://88.198.32.78:80/edis1/edis1/431
+#EXTINF:-1,ZIGGO SPORT GOLF HD
+http://88.198.32.78:80/edis1/edis1/432
+#EXTINF:-1,ZIGGO SPORT EXTRA 1 HD
+http://88.198.32.78:80/edis1/edis1/433
+#EXTINF:-1,ZIGGO SPORT EXTRA 2 HD
+http://88.198.32.78:80/edis1/edis1/434
+#EXTINF:-1,EXTREME SPORT
+http://88.198.32.78:80/edis1/edis1/435
+#EXTINF:-1,EUROSPORT 1 HD
+http://88.198.32.78:80/edis1/edis1/436
+#EXTINF:-1,EUROSPORT 2 HD
+http://88.198.32.78:80/edis1/edis1/437
+#EXTINF:-1,WWE HD 24/7
+http://88.198.32.78:80/edis1/edis1/438
+#EXTINF:-1,UFC 24/7 HD
+http://88.198.32.78:80/edis1/edis1/439
+#EXTINF:-1,BOXNATION HD 24/7
+http://88.198.32.78:80/edis1/edis1/440
 #EXTINF:-1,AT 5
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1825.ts
-#EXTINF:-1,Omroep Flevoland
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1826.ts
-#EXTINF:-1,Omroep Braband
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1827.ts
-#EXTINF:-1,Omroep Zeeland
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1828.ts
-#EXTINF:-1,RTV Utrecht
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1829.ts
-#EXTINF:-1,Omroep Frysland
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1830.ts
-#EXTINF:-1,RTV Drenthe
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1831.ts
-#EXTINF:-1,RTV Rijnmond
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1832.ts
-#EXTINF:-1,TV Gelderland
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1833.ts
-#EXTINF:-1,L1 Limburg
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1834.ts
-#EXTINF:-1,TV Noord
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1835.ts
-#EXTINF:-1,TV Oost
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1836.ts
-#EXTINF:-1,TV West
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1837.ts
-#EXTINF:-1,Viceland HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1838.ts
-#EXTINF:-1,BBC One HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1839.ts
-#EXTINF:-1,BBC First HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1840.ts
-#EXTINF:-1,NPO1 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1841.ts
-#EXTINF:-1,NPO2 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1842.ts
-#EXTINF:-1,NPO3 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1843.ts
-#EXTINF:-1,RTL4 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1844.ts
-#EXTINF:-1,RTL5 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1845.ts
-#EXTINF:-1,SBS6 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1846.ts
-#EXTINF:-1,RTL7 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1847.ts
-#EXTINF:-1,RTL Crime HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1848.ts
-#EXTINF:-1,RTL8 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1849.ts
-#EXTINF:-1,SBS9 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1850.ts
-#EXTINF:-1,NET5 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1851.ts
-#EXTINF:-1,NPO Nieuws HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1852.ts
-#EXTINF:-1,NPO Politiek HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1853.ts
-#EXTINF:-1,RTLZ HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1854.ts
-#EXTINF:-1,ARD HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1855.ts
-#EXTINF:-1,RTL Lounge HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1856.ts
-#EXTINF:-1,ZDF HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1857.ts
-#EXTINF:-1,Veronica HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1858.ts
-#EXTINF:-1,Spike HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1859.ts
-#EXTINF:-1,Nickelodeon HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1860.ts
-#EXTINF:-1,Nick Toons HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1861.ts
-#EXTINF:-1,Disney XD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1862.ts
-#EXTINF:-1,Nick Junior HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1863.ts
-#EXTINF:-1,RTL TeleKids HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1864.ts
-#EXTINF:-1,Baby TV HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1865.ts
-#EXTINF:-1,Boomerang HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1866.ts
-#EXTINF:-1,Disney Channel HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1867.ts
-#EXTINF:-1,Comedy Central Extra HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1868.ts
-#EXTINF:-1,Comedy Central HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1869.ts
-#EXTINF:-1,Ketnet HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1870.ts
-#EXTINF:-1,TLC HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1871.ts
-#EXTINF:-1,E! HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1872.ts
-#EXTINF:-1,Fashion TV HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1873.ts
-#EXTINF:-1,History HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1874.ts
-#EXTINF:-1,FOX HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1875.ts
-#EXTINF:-1,ONS HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1876.ts
-#EXTINF:-1,24Kitchen HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1877.ts
-#EXTINF:-1,192 TV HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1878.ts
-#EXTINF:-1,Dance Trippin HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1879.ts
-#EXTINF:-1,MTV HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1880.ts
-#EXTINF:-1,MTV Brand New HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1881.ts
-#EXTINF:-1,MTV Live HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1882.ts
-#EXTINF:-1,MTV Music 24 HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1883.ts
-#EXTINF:-1,Nick Music HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1884.ts
-#EXTINF:-1,TV Oranje HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1885.ts
-#EXTINF:-1,VH1 Classic HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1886.ts
-#EXTINF:-1,Xite HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1887.ts
-#EXTINF:-1,Mezzo HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1888.ts
-#EXTINF:-1,Discovery World HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1889.ts
-#EXTINF:-1,Discovery Science HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1890.ts
-#EXTINF:-1,CI HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1891.ts
-#EXTINF:-1,Investigon Discovery HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1892.ts
-#EXTINF:-1,National Geographic HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1893.ts
-#EXTINF:-1,National Geo Wild HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1894.ts
-#EXTINF:-1,Animal Planet HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1895.ts
-#EXTINF:-1,Film1 Drama HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1896.ts
-#EXTINF:-1,Film1 Premium HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1897.ts
-#EXTINF:-1,Film1 Acttion HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1898.ts
-#EXTINF:-1,Film1 Family HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1899.ts
-#EXTINF:-1,Eurosport1 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1900.ts
-#EXTINF:-1,Eurosport2 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1901.ts
-#EXTINF:-1,Ziggo Sport Select HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1902.ts
-#EXTINF:-1,Ziggo Voetbal HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1903.ts
-#EXTINF:-1,Ziggo Sport HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1904.ts
-#EXTINF:-1,Zigo Golf HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1905.ts
-#EXTINF:-1,Ziggo Racing HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1906.ts
-#EXTINF:-1,Ziggo Sport Extra1 HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1907.ts
-#EXTINF:-1,Ziggo Sport Extra2 HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1908.ts
-#EXTINF:-1,Fox Sport1 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1909.ts
-#EXTINF:-1,Fox Sport2 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1910.ts
-#EXTINF:-1,Fox Sport3 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1911.ts
-#EXTINF:-1,Fox Sport4 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1912.ts
-#EXTINF:-1,Fox Sport5 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1913.ts
-#EXTINF:-1,Fox Sport6 HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1914.ts
-#EXTINF:-1,AT 5 HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1915.ts
-#EXTINF:-1,Extreme Sports Channel HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1916.ts
-#EXTINF:-1,Omroep Flevoland HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1917.ts
-#EXTINF:-1,Omroep Brabant HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1918.ts
-#EXTINF:-1,Omroep Zeeland HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1919.ts
-#EXTINF:-1,Omrop Fryslan HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1920.ts
-#EXTINF:-1,RTV Utrecht HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1921.ts
-#EXTINF:-1,TV Drenthe HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1922.ts
-#EXTINF:-1,TV Rijnmond HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1923.ts
-#EXTINF:-1,TV Gelderland HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1924.ts
-#EXTINF:-1,L1 Limburg HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1925.ts
-#EXTINF:-1,TV Noord HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1926.ts
-#EXTINF:-1,TV Oost HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1927.ts
-#EXTINF:-1,TV West HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1928.ts
-#EXTINF:-1,Viceland HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1929.ts
-#EXTINF:-1,BBC One HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1930.ts
-#EXTINF:-1,BBC First HD HEVC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1931.ts
-#EXTINF:-1,Eurosport1 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1937.ts
-#EXTINF:-1,Eurosport 2
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1938.ts
-#EXTINF:-1,Ziggo Sport Select HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1939.ts
-#EXTINF:-1,Ziggo Sport Voetbal HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1940.ts
-#EXTINF:-1,Sport1 Golf
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1941.ts
-#EXTINF:-1,Ziggo Sport
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1942.ts
-#EXTINF:-1,Ziggo Racing HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1943.ts
-#EXTINF:-1,Ziggo Sport Extra 1
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1944.ts
-#EXTINF:-1,Ziggo Sport Extra 2
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1945.ts
+http://88.198.32.78:80/edis1/edis1/442
+#EXTINF:-1,RTV UTRECHT
+http://88.198.32.78:80/edis1/edis1/443
+#EXTINF:-1,L1 LIMBURG TV
+http://88.198.32.78:80/edis1/edis1/444
+#EXTINF:-1,TV NOORD
+http://88.198.32.78:80/edis1/edis1/445
+#EXTINF:-1,TV RIJNMOND
+http://88.198.32.78:80/edis1/edis1/446
+#EXTINF:-1,TV GELDERLAND
+http://88.198.32.78:80/edis1/edis1/447
+#EXTINF:-1,TV OOST
+http://88.198.32.78:80/edis1/edis1/448
+#EXTINF:-1,TV WEST
+http://88.198.32.78:80/edis1/edis1/449
+#EXTINF:-1,TV DRENTHE
+http://88.198.32.78:80/edis1/edis1/450
+#EXTINF:-1,NH NIEUWS
+http://88.198.32.78:80/edis1/edis1/451
+#EXTINF:-1,OMROEP FLEVOLAND
+http://88.198.32.78:80/edis1/edis1/452
+#EXTINF:-1,OMROEP BRABANT
+http://88.198.32.78:80/edis1/edis1/453
+#EXTINF:-1,OMROEP ZEELAND
+http://88.198.32.78:80/edis1/edis1/454
+#EXTINF:-1,OMROEP FRYSLAND
+http://88.198.32.78:80/edis1/edis1/455
