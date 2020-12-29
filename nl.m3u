@@ -1,133 +1,367 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD
-http://showflix.org:5890/ali123/ali123123/961
-#EXTINF:-1,NPO 2 HD
-http://showflix.org:5890/ali123/ali123123/962
-#EXTINF:-1,NPO 3 HD
-http://showflix.org:5890/ali123/ali123123/963
-#EXTINF:-1,RTL4 HD
-http://showflix.org:5890/ali123/ali123123/964
+#EXTINF:-1,NPO1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1792.ts
+#EXTINF:-1,NPO2 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1793.ts
+#EXTINF:-1,NPO3 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1794.ts
+#EXTINF:-1,RTL 4 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1795.ts
 #EXTINF:-1,RTL 5 HD
-http://showflix.org:5890/ali123/ali123123/965
-#EXTINF:-1,RTL Z HD
-http://showflix.org:5890/ali123/ali123123/966
-#EXTINF:-1,RTL7 HD
-http://showflix.org:5890/ali123/ali123123/967
-#EXTINF:-1,RTL 8 HD
-http://showflix.org:5890/ali123/ali123123/968
-#EXTINF:-1,Net 5 HD
-http://showflix.org:5890/ali123/ali123123/969
-#EXTINF:-1,SBS 6 HD
-http://showflix.org:5890/ali123/ali123123/970
-#EXTINF:-1,SBS 9 HD
-http://showflix.org:5890/ali123/ali123123/971
-#EXTINF:-1,RTL Crime HD
-http://showflix.org:5890/ali123/ali123123/972
-#EXTINF:-1,AT5 HD
-http://showflix.org:5890/ali123/ali123123/973
-#EXTINF:-1,TLC HD
-http://showflix.org:5890/ali123/ali123123/974
-#EXTINF:-1,FOX Channel HD
-http://showflix.org:5890/ali123/ali123123/1008
-#EXTINF:-1,Comedy Central Extra HD
-http://showflix.org:5890/ali123/ali123123/56372
-#EXTINF:-1,Viceland HD
-http://showflix.org:5890/ali123/ali123123/56374
-#EXTINF:-1,192 TV
-http://showflix.org:5890/ali123/ali123123/990
-#EXTINF:-1,SPIKE TV
-http://showflix.org:5890/ali123/ali123123/991
-#EXTINF:-1,MTV live
-http://showflix.org:5890/ali123/ali123123/1016
-#EXTINF:-1,ONS 
-http://showflix.org:5890/ali123/ali123123/55637
-#EXTINF:-1,XITE HD
-http://showflix.org:5890/ali123/ali123123/55641
-#EXTINF:-1,Discovery ID HD
-http://showflix.org:5890/ali123/ali123123/989
-#EXTINF:-1,TRAVEL XP HD
-http://showflix.org:5890/ali123/ali123123/55639
-#EXTINF:-1,Fox sport 1 HD
-http://showflix.org:5890/ali123/ali123123/975
-#EXTINF:-1,Fox sport 2 HD
-http://showflix.org:5890/ali123/ali123123/976
-#EXTINF:-1,Fox sport 3 HD
-http://showflix.org:5890/ali123/ali123123/977
-#EXTINF:-1,Fox sport 4 HD
-http://showflix.org:5890/ali123/ali123123/978
-#EXTINF:-1,Fox sport 5 HD
-http://showflix.org:5890/ali123/ali123123/979
-#EXTINF:-1,Fox Sport 6 HD
-http://showflix.org:5890/ali123/ali123123/980
-#EXTINF:-1,Ziggo Sport Select HD
-http://showflix.org:5890/ali123/ali123123/981
-#EXTINF:-1,Ziggo Sport Golf HD
-http://showflix.org:5890/ali123/ali123123/982
-#EXTINF:-1,Ziggo Sport Voetbal
-http://showflix.org:5890/ali123/ali123123/983
-#EXTINF:-1,Ziggo Sport Racing HD
-http://showflix.org:5890/ali123/ali123123/984
-#EXTINF:-1,Ziggo Sport1 extra
-http://showflix.org:5890/ali123/ali123123/985
-#EXTINF:-1,Ziggo Sport eXtra 2
-http://showflix.org:5890/ali123/ali123123/986
-#EXTINF:-1,Ziggo Sport DOCU HD
-http://showflix.org:5890/ali123/ali123123/55636
-#EXTINF:-1,Ziggo Sport HD
-http://showflix.org:5890/ali123/ali123123/55640
-#EXTINF:-1,Eurosport 1 HD
-http://showflix.org:5890/ali123/ali123123/987
-#EXTINF:-1,Eurosport 2 HD
-http://showflix.org:5890/ali123/ali123123/988
-#EXTINF:-1,Veronica/Disney XD
-http://showflix.org:5890/ali123/ali123123/992
-#EXTINF:-1,Nick Jr
-http://showflix.org:5890/ali123/ali123123/993
-#EXTINF:-1,NICKELODEON
-http://showflix.org:5890/ali123/ali123123/994
-#EXTINF:-1,Boomerang
-http://showflix.org:5890/ali123/ali123123/995
-#EXTINF:-1,CARTOON NETWOORK
-http://showflix.org:5890/ali123/ali123123/55638
-#EXTINF:-1,Animal Planet HD
-http://showflix.org:5890/ali123/ali123123/996
-#EXTINF:-1,History HD
-http://showflix.org:5890/ali123/ali123123/997
-#EXTINF:-1,24 Kitchen HD
-http://showflix.org:5890/ali123/ali123123/998
-#EXTINF:-1,Nat Geo HD
-http://showflix.org:5890/ali123/ali123123/999
-#EXTINF:-1,Nat Geo WILD HD
-http://showflix.org:5890/ali123/ali123123/1000
-#EXTINF:-1,Discovery HD
-http://showflix.org:5890/ali123/ali123123/1001
-#EXTINF:-1,Discovery Investigation HD
-http://showflix.org:5890/ali123/ali123123/1002
-#EXTINF:-1,Discovery Showcase HD
-http://showflix.org:5890/ali123/ali123123/1003
-#EXTINF:-1,NL: Discovery Science HD
-http://showflix.org:5890/ali123/ali123123/1004
-#EXTINF:-1,Discovery World HD
-http://showflix.org:5890/ali123/ali123123/56373
-#EXTINF:-1,Disney Channel HD
-http://showflix.org:5890/ali123/ali123123/1005
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1796.ts
+#EXTINF:-1,SBS6 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1797.ts
+#EXTINF:-1,RTL 7 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1798.ts
+#EXTINF:-1,RTL Crime
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1799.ts
+#EXTINF:-1,RTL8 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1800.ts
+#EXTINF:-1,SBS9 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1801.ts
+#EXTINF:-1,NET5 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1802.ts
+#EXTINF:-1,Npo Nieuws
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1803.ts
+#EXTINF:-1,NPO Politiek
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1804.ts
+#EXTINF:-1,RTLZ HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1805.ts
+#EXTINF:-1,RTL Lounge
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1806.ts
+#EXTINF:-1,ARD HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1807.ts
+#EXTINF:-1,Spike HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1808.ts
+#EXTINF:-1,Comedy Central Extra
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1809.ts
 #EXTINF:-1,Comedy Central HD
-http://showflix.org:5890/ali123/ali123123/1006
-#EXTINF:-1,NL: Crime & Investigation
-http://showflix.org:5890/ali123/ali123123/1007
-#EXTINF:-1,HBO 1 HD
-http://showflix.org:5890/ali123/ali123123/1009
-#EXTINF:-1,HBO 2 HD
-http://showflix.org:5890/ali123/ali123123/1010
-#EXTINF:-1,HBO 3 HD
-http://showflix.org:5890/ali123/ali123123/1011
-#EXTINF:-1,Film1 Action HD
-http://showflix.org:5890/ali123/ali123123/1012
-#EXTINF:-1,Film1 Family HD
-http://showflix.org:5890/ali123/ali123123/1013
-#EXTINF:-1,Film1 Premiere HD
-http://showflix.org:5890/ali123/ali123123/1014
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1810.ts
+#EXTINF:-1,Ketnet
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1811.ts
+#EXTINF:-1,TLC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1812.ts
+#EXTINF:-1,E!
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1813.ts
+#EXTINF:-1,Fashion TV HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1814.ts
+#EXTINF:-1,FOX
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1815.ts
+#EXTINF:-1,ONS
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1816.ts
+#EXTINF:-1,24 Kitchen
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1817.ts
+#EXTINF:-1,192 TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1818.ts
+#EXTINF:-1,TV Oranje
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1819.ts
+#EXTINF:-1,Xite HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1820.ts
 #EXTINF:-1,Film1 Drama HD
-http://showflix.org:5890/ali123/ali123123/1015
-#EXTINF:-1,NL: TV Gelderland HD
-http://showflix.org:5890/ali123/ali123123/88406
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1821.ts
+#EXTINF:-1,Film1 Premiere HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1822.ts
+#EXTINF:-1,Film1 Action HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1823.ts
+#EXTINF:-1,Film1 Family HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1824.ts
+#EXTINF:-1,AT 5
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1825.ts
+#EXTINF:-1,Omroep Flevoland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1826.ts
+#EXTINF:-1,Omroep Braband
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1827.ts
+#EXTINF:-1,Omroep Zeeland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1828.ts
+#EXTINF:-1,RTV Utrecht
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1829.ts
+#EXTINF:-1,Omroep Frysland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1830.ts
+#EXTINF:-1,RTV Drenthe
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1831.ts
+#EXTINF:-1,RTV Rijnmond
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1832.ts
+#EXTINF:-1,TV Gelderland
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1833.ts
+#EXTINF:-1,L1 Limburg
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1834.ts
+#EXTINF:-1,TV Noord
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1835.ts
+#EXTINF:-1,TV Oost
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1836.ts
+#EXTINF:-1,TV West
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1837.ts
+#EXTINF:-1,Viceland HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1838.ts
+#EXTINF:-1,BBC One HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1839.ts
+#EXTINF:-1,BBC First HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1840.ts
+#EXTINF:-1,NPO1 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1841.ts
+#EXTINF:-1,NPO2 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1842.ts
+#EXTINF:-1,NPO3 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1843.ts
+#EXTINF:-1,RTL4 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1844.ts
+#EXTINF:-1,RTL5 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1845.ts
+#EXTINF:-1,SBS6 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1846.ts
+#EXTINF:-1,RTL7 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1847.ts
+#EXTINF:-1,RTL Crime HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1848.ts
+#EXTINF:-1,RTL8 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1849.ts
+#EXTINF:-1,SBS9 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1850.ts
+#EXTINF:-1,NET5 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1851.ts
+#EXTINF:-1,NPO Nieuws HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1852.ts
+#EXTINF:-1,NPO Politiek HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1853.ts
+#EXTINF:-1,RTLZ HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1854.ts
+#EXTINF:-1,ARD HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1855.ts
+#EXTINF:-1,RTL Lounge HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1856.ts
+#EXTINF:-1,ZDF HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1857.ts
+#EXTINF:-1,Veronica HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1858.ts
+#EXTINF:-1,Spike HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1859.ts
+#EXTINF:-1,Nickelodeon HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1860.ts
+#EXTINF:-1,Nick Toons HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1861.ts
+#EXTINF:-1,Disney XD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1862.ts
+#EXTINF:-1,Nick Junior HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1863.ts
+#EXTINF:-1,RTL TeleKids HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1864.ts
+#EXTINF:-1,Baby TV HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1865.ts
+#EXTINF:-1,Boomerang HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1866.ts
+#EXTINF:-1,Disney Channel HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1867.ts
+#EXTINF:-1,Comedy Central Extra HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1868.ts
+#EXTINF:-1,Comedy Central HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1869.ts
+#EXTINF:-1,Ketnet HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1870.ts
+#EXTINF:-1,TLC HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1871.ts
+#EXTINF:-1,E! HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1872.ts
+#EXTINF:-1,Fashion TV HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1873.ts
+#EXTINF:-1,History HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1874.ts
+#EXTINF:-1,FOX HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1875.ts
+#EXTINF:-1,ONS HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1876.ts
+#EXTINF:-1,24Kitchen HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1877.ts
+#EXTINF:-1,192 TV HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1878.ts
+#EXTINF:-1,Dance Trippin HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1879.ts
+#EXTINF:-1,MTV HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1880.ts
+#EXTINF:-1,MTV Brand New HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1881.ts
+#EXTINF:-1,MTV Live HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1882.ts
+#EXTINF:-1,MTV Music 24 HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1883.ts
+#EXTINF:-1,Nick Music HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1884.ts
+#EXTINF:-1,TV Oranje HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1885.ts
+#EXTINF:-1,VH1 Classic HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1886.ts
+#EXTINF:-1,Xite HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1887.ts
+#EXTINF:-1,Mezzo HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1888.ts
+#EXTINF:-1,Discovery World HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1889.ts
+#EXTINF:-1,Discovery Science HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1890.ts
+#EXTINF:-1,CI HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1891.ts
+#EXTINF:-1,Investigon Discovery HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1892.ts
+#EXTINF:-1,National Geographic HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1893.ts
+#EXTINF:-1,National Geo Wild HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1894.ts
+#EXTINF:-1,Animal Planet HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1895.ts
+#EXTINF:-1,Film1 Drama HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1896.ts
+#EXTINF:-1,Film1 Premium HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1897.ts
+#EXTINF:-1,Film1 Acttion HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1898.ts
+#EXTINF:-1,Film1 Family HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1899.ts
+#EXTINF:-1,Eurosport1 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1900.ts
+#EXTINF:-1,Eurosport2 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1901.ts
+#EXTINF:-1,Ziggo Sport Select HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1902.ts
+#EXTINF:-1,Ziggo Voetbal HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1903.ts
+#EXTINF:-1,Ziggo Sport HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1904.ts
+#EXTINF:-1,Zigo Golf HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1905.ts
+#EXTINF:-1,Ziggo Racing HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1906.ts
+#EXTINF:-1,Ziggo Sport Extra1 HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1907.ts
+#EXTINF:-1,Ziggo Sport Extra2 HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1908.ts
+#EXTINF:-1,Fox Sport1 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1909.ts
+#EXTINF:-1,Fox Sport2 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1910.ts
+#EXTINF:-1,Fox Sport3 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1911.ts
+#EXTINF:-1,Fox Sport4 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1912.ts
+#EXTINF:-1,Fox Sport5 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1913.ts
+#EXTINF:-1,Fox Sport6 HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1914.ts
+#EXTINF:-1,AT 5 HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1915.ts
+#EXTINF:-1,Extreme Sports Channel HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1916.ts
+#EXTINF:-1,Omroep Flevoland HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1917.ts
+#EXTINF:-1,Omroep Brabant HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1918.ts
+#EXTINF:-1,Omroep Zeeland HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1919.ts
+#EXTINF:-1,Omrop Fryslan HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1920.ts
+#EXTINF:-1,RTV Utrecht HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1921.ts
+#EXTINF:-1,TV Drenthe HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1922.ts
+#EXTINF:-1,TV Rijnmond HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1923.ts
+#EXTINF:-1,TV Gelderland HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1924.ts
+#EXTINF:-1,L1 Limburg HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1925.ts
+#EXTINF:-1,TV Noord HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1926.ts
+#EXTINF:-1,TV Oost HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1927.ts
+#EXTINF:-1,TV West HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1928.ts
+#EXTINF:-1,Viceland HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1929.ts
+#EXTINF:-1,BBC One HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1930.ts
+#EXTINF:-1,BBC First HD HEVC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1931.ts
+#EXTINF:-1,Eurosport1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1937.ts
+#EXTINF:-1,Eurosport 2
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1938.ts
+#EXTINF:-1,Ziggo Sport Select HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1939.ts
+#EXTINF:-1,Ziggo Sport Voetbal HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1940.ts
+#EXTINF:-1,Sport1 Golf
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1941.ts
+#EXTINF:-1,Ziggo Sport
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1942.ts
+#EXTINF:-1,Ziggo Racing HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1943.ts
+#EXTINF:-1,Ziggo Sport Extra 1
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1944.ts
+#EXTINF:-1,Ziggo Sport Extra 2
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1945.ts
+#EXTINF:-1,Fox Sport 1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1946.ts
+#EXTINF:-1,Fox Sport 2 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1947.ts
+#EXTINF:-1,Fox Sport 3 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1948.ts
+#EXTINF:-1,Fox Sport 4 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1949.ts
+#EXTINF:-1,Fox Sport 5 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1950.ts
+#EXTINF:-1,Fox Sport 6 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1951.ts
+#EXTINF:-1,Extreme Sport
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1952.ts
+#EXTINF:-1,Veronica Disney XD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1953.ts
+#EXTINF:-1,Nickelodeon
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1954.ts
+#EXTINF:-1,Nick Toons
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1955.ts
+#EXTINF:-1,RTL Telekids
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1956.ts
+#EXTINF:-1,Disney XD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1957.ts
+#EXTINF:-1,Nick Jr
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1958.ts
+#EXTINF:-1,Baby TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1959.ts
+#EXTINF:-1,Cartoon Network
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1960.ts
+#EXTINF:-1,Boomerang
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1961.ts
+#EXTINF:-1,Disney Channel
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1962.ts
+#EXTINF:-1,Dance Trippin HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1963.ts
+#EXTINF:-1,MTV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1964.ts
+#EXTINF:-1,MTV Brand New
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1965.ts
+#EXTINF:-1,MTV Music 24
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1966.ts
+#EXTINF:-1,Nick Music
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1967.ts
+#EXTINF:-1,MTV Live HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1968.ts
+#EXTINF:-1,VH1 Classic
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1969.ts
+#EXTINF:-1,Mezzo
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1970.ts
+#EXTINF:-1,History
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1971.ts
+#EXTINF:-1,Discovery
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1972.ts
+#EXTINF:-1,Discovery World
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1973.ts
+#EXTINF:-1,Discovery Science
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1974.ts
+#EXTINF:-1,CI
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1975.ts
+#EXTINF:-1,Investigon Discovery
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1976.ts
+#EXTINF:-1,National Geographic
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1977.ts
+#EXTINF:-1,Nat Geo Wild
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1978.ts
+#EXTINF:-1,Animal Planet HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1979.ts
