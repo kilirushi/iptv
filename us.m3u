@@ -1,437 +1,595 @@
 #EXTM3U
-#EXTINF:-1,HBO HD
-http://88.198.32.78:80/edis1/edis1/970
-#EXTINF:-1,HBO 2 HD
-http://88.198.32.78:80/edis1/edis1/971
-#EXTINF:-1,HBO ZONE HD
-http://88.198.32.78:80/edis1/edis1/972
-#EXTINF:-1,HBO SIGNATURE
-http://88.198.32.78:80/edis1/edis1/973
-#EXTINF:-1,HBO FAMILY HD
-http://88.198.32.78:80/edis1/edis1/974
-#EXTINF:-1,HBO COMEDY HD
-http://88.198.32.78:80/edis1/edis1/975
-#EXTINF:-1,HALLMARK MOVIES & MYSTERIES HD
-http://88.198.32.78:80/edis1/edis1/976
-#EXTINF:-1,HALLMARK HD
-http://88.198.32.78:80/edis1/edis1/977
-#EXTINF:-1,HALLMARK DRAMA
-http://88.198.32.78:80/edis1/edis1/978
-#EXTINF:-1,STARZ
-http://88.198.32.78:80/edis1/edis1/979
-#EXTINF:-1,STARZ IN BLACK
-http://88.198.32.78:80/edis1/edis1/980
-#EXTINF:-1,STARZ ENCORE WESTERNS
-http://88.198.32.78:80/edis1/edis1/981
-#EXTINF:-1,STARZ ENCORE
-http://88.198.32.78:80/edis1/edis1/982
-#EXTINF:-1,STARZ EDGE
-http://88.198.32.78:80/edis1/edis1/983
-#EXTINF:-1,STARZ COMEDY
-http://88.198.32.78:80/edis1/edis1/984
-#EXTINF:-1,EPIX HITS
-http://88.198.32.78:80/edis1/edis1/985
-#EXTINF:-1,EPIX HD
-http://88.198.32.78:80/edis1/edis1/986
-#EXTINF:-1,EPIX 2
-http://88.198.32.78:80/edis1/edis1/987
-#EXTINF:-1,CINEMAXX MORE MAXX
-http://88.198.32.78:80/edis1/edis1/988
-#EXTINF:-1,CINEMAX THRILLERMAX HD
-http://88.198.32.78:80/edis1/edis1/989
-#EXTINF:-1,CINEMAX OUTER MAX
-http://88.198.32.78:80/edis1/edis1/990
-#EXTINF:-1,CINEMAX MOVIEMAX
-http://88.198.32.78:80/edis1/edis1/991
-#EXTINF:-1,CINEMAX EAST
-http://88.198.32.78:80/edis1/edis1/992
-#EXTINF:-1,CINEMAX ACTION MAX EAST
-http://88.198.32.78:80/edis1/edis1/993
-#EXTINF:-1,WGN AMERICA
-http://88.198.32.78:80/edis1/edis1/994
-#EXTINF:-1,WE TV
-http://88.198.32.78:80/edis1/edis1/995
-#EXTINF:-1,VICELAND
-http://88.198.32.78:80/edis1/edis1/996
-#EXTINF:-1,USA NETWORK
-http://88.198.32.78:80/edis1/edis1/997
-#EXTINF:-1,UNIVISION TDN
-http://88.198.32.78:80/edis1/edis1/998
-#EXTINF:-1,UNIVISION
-http://88.198.32.78:80/edis1/edis1/999
-#EXTINF:-1,UNIVERSAL HD
-http://88.198.32.78:80/edis1/edis1/1000
-#EXTINF:-1,UNIMAS
-http://88.198.32.78:80/edis1/edis1/1001
-#EXTINF:-1,TVONE
-http://88.198.32.78:80/edis1/edis1/1002
-#EXTINF:-1,TV LAND HD
-http://88.198.32.78:80/edis1/edis1/1003
-#EXTINF:-1,TRU TV
-http://88.198.32.78:80/edis1/edis1/1004
-#EXTINF:-1,TNT
-http://88.198.32.78:80/edis1/edis1/1005
-#EXTINF:-1,TLC CHANNEL
-http://88.198.32.78:80/edis1/edis1/1006
-#EXTINF:-1,THE CW HD CHICAGO
-http://88.198.32.78:80/edis1/edis1/1007
-#EXTINF:-1,THE CW PIX 11
-http://88.198.32.78:80/edis1/edis1/1008
-#EXTINF:-1,TELEMUNDO
-http://88.198.32.78:80/edis1/edis1/1009
-#EXTINF:-1,TCM
-http://88.198.32.78:80/edis1/edis1/1010
-#EXTINF:-1,TBS
-http://88.198.32.78:80/edis1/edis1/1011
-#EXTINF:-1,TBN TRINITY BROADCASTING NETWORK
-http://88.198.32.78:80/edis1/edis1/1012
-#EXTINF:-1,SYFY
-http://88.198.32.78:80/edis1/edis1/1013
-#EXTINF:-1,SUNDANCE
-http://88.198.32.78:80/edis1/edis1/1014
-#EXTINF:-1,SPIKE/PARAMOUNT
-http://88.198.32.78:80/edis1/edis1/1015
-#EXTINF:-1,SMITHSONIAN CHANNEL
-http://88.198.32.78:80/edis1/edis1/1016
-#EXTINF:-1,SHOWTIME SHOWCASE
-http://88.198.32.78:80/edis1/edis1/1017
-#EXTINF:-1,SHOWTIME HD
-http://88.198.32.78:80/edis1/edis1/1018
-#EXTINF:-1,SHOWTIME EXTREME
-http://88.198.32.78:80/edis1/edis1/1019
-#EXTINF:-1,SHOWTIME 2
-http://88.198.32.78:80/edis1/edis1/1020
-#EXTINF:-1,REVOLT
-http://88.198.32.78:80/edis1/edis1/1021
-#EXTINF:-1,REELZ
-http://88.198.32.78:80/edis1/edis1/1022
-#EXTINF:-1,RED BULL TV
-http://88.198.32.78:80/edis1/edis1/1023
-#EXTINF:-1,QVC
-http://88.198.32.78:80/edis1/edis1/1024
-#EXTINF:-1,PURSUIT CHANNEL
-http://88.198.32.78:80/edis1/edis1/1025
-#EXTINF:-1,POP
-http://88.198.32.78:80/edis1/edis1/1026
-#EXTINF:-1,OXYGEN
-http://88.198.32.78:80/edis1/edis1/1027
-#EXTINF:-1,OWN NETWORK HD
-http://88.198.32.78:80/edis1/edis1/1028
-#EXTINF:-1,OVATION
-http://88.198.32.78:80/edis1/edis1/1029
-#EXTINF:-1,NBC UNIVERSO
-http://88.198.32.78:80/edis1/edis1/1030
-#EXTINF:-1,NBC 5
-http://88.198.32.78:80/edis1/edis1/1031
-#EXTINF:-1,NBC 4 NY
-http://88.198.32.78:80/edis1/edis1/1032
-#EXTINF:-1,MY 9
-http://88.198.32.78:80/edis1/edis1/1033
-#EXTINF:-1,MSNBC
-http://88.198.32.78:80/edis1/edis1/1034
-#EXTINF:-1,ME TV
-http://88.198.32.78:80/edis1/edis1/1035
-#EXTINF:-1,MAV TV
-http://88.198.32.78:80/edis1/edis1/1036
-#EXTINF:-1,LIFETIME MOVIES
-http://88.198.32.78:80/edis1/edis1/1037
-#EXTINF:-1,LIFETIME
-http://88.198.32.78:80/edis1/edis1/1038
-#EXTINF:-1,LAFF TV
-http://88.198.32.78:80/edis1/edis1/1039
-#EXTINF:-1,ION TV
-http://88.198.32.78:80/edis1/edis1/1040
-#EXTINF:-1,INFOWARS
-http://88.198.32.78:80/edis1/edis1/1041
-#EXTINF:-1,IFC
-http://88.198.32.78:80/edis1/edis1/1042
-#EXTINF:-1,HSN
-http://88.198.32.78:80/edis1/edis1/1043
-#EXTINF:-1,HLN
-http://88.198.32.78:80/edis1/edis1/1044
-#EXTINF:-1,HGTV HD
-http://88.198.32.78:80/edis1/edis1/1045
-#EXTINF:-1,HGTV UHD
-http://88.198.32.78:80/edis1/edis1/1046
-#EXTINF:-1,HEROS & ICONS
-http://88.198.32.78:80/edis1/edis1/1047
-#EXTINF:-1,GRIT TV
-http://88.198.32.78:80/edis1/edis1/1048
-#EXTINF:-1,GALAVISION
-http://88.198.32.78:80/edis1/edis1/1049
-#EXTINF:-1,FYI NETWORK
-http://88.198.32.78:80/edis1/edis1/1050
-#EXTINF:-1,FXX
-http://88.198.32.78:80/edis1/edis1/1051
-#EXTINF:-1,FXM
-http://88.198.32.78:80/edis1/edis1/1052
-#EXTINF:-1,FX HD
-http://88.198.32.78:80/edis1/edis1/1053
-#EXTINF:-1,FUSION
-http://88.198.32.78:80/edis1/edis1/1054
-#EXTINF:-1,FUSE
-http://88.198.32.78:80/edis1/edis1/1055
-#EXTINF:-1,FREEFORM HD
-http://88.198.32.78:80/edis1/edis1/1056
-#EXTINF:-1,FOOD NETWORK
-http://88.198.32.78:80/edis1/edis1/1057
-#EXTINF:-1,EL REY NETWORK
-http://88.198.32.78:80/edis1/edis1/1058
-#EXTINF:-1,EL REY NETWORD HD
-http://88.198.32.78:80/edis1/edis1/1059
-#EXTINF:-1,E!
-http://88.198.32.78:80/edis1/edis1/1060
-#EXTINF:-1,DOG TV
-http://88.198.32.78:80/edis1/edis1/1061
-#EXTINF:-1,DIY NETWORK HD
-http://88.198.32.78:80/edis1/edis1/1062
-#EXTINF:-1,DESTINATION AMERICA
-http://88.198.32.78:80/edis1/edis1/1063
-#EXTINF:-1,COZI TV
-http://88.198.32.78:80/edis1/edis1/1064
-#EXTINF:-1,COUNTRY NETWORK
-http://88.198.32.78:80/edis1/edis1/1065
-#EXTINF:-1,COOKING CHANNEL HD
-http://88.198.32.78:80/edis1/edis1/1066
-#EXTINF:-1,COMET TV
-http://88.198.32.78:80/edis1/edis1/1067
-#EXTINF:-1,COMEDY CENTRAL
-http://88.198.32.78:80/edis1/edis1/1068
-#EXTINF:-1,CMT HD
-http://88.198.32.78:80/edis1/edis1/1069
-#EXTINF:-1,CBS NY HD
-http://88.198.32.78:80/edis1/edis1/1070
-#EXTINF:-1,CBS EAST
-http://88.198.32.78:80/edis1/edis1/1071
-#EXTINF:-1,BUZZER
-http://88.198.32.78:80/edis1/edis1/1072
-#EXTINF:-1,BRAVO
-http://88.198.32.78:80/edis1/edis1/1073
-#EXTINF:-1,BOUNCE TV
-http://88.198.32.78:80/edis1/edis1/1074
-#EXTINF:-1,BLAZE TV
-http://88.198.32.78:80/edis1/edis1/1075
-#EXTINF:-1,BET HER
-http://88.198.32.78:80/edis1/edis1/1076
-#EXTINF:-1,BET HD
-http://88.198.32.78:80/edis1/edis1/1077
-#EXTINF:-1,BBC AMERICA
-http://88.198.32.78:80/edis1/edis1/1078
-#EXTINF:-1,AXS TV
-http://88.198.32.78:80/edis1/edis1/1079
-#EXTINF:-1,AWE CHANNEL
-http://88.198.32.78:80/edis1/edis1/1080
-#EXTINF:-1,ANTENNA TV
-http://88.198.32.78:80/edis1/edis1/1081
-#EXTINF:-1,AMERICAN HEROES CHANNEL
-http://88.198.32.78:80/edis1/edis1/1082
-#EXTINF:-1,AMC
-http://88.198.32.78:80/edis1/edis1/1083
-#EXTINF:-1,ABC WEST
-http://88.198.32.78:80/edis1/edis1/1084
-#EXTINF:-1,ABC NY HD
-http://88.198.32.78:80/edis1/edis1/1085
-#EXTINF:-1,ABC EAST HD
-http://88.198.32.78:80/edis1/edis1/1086
-#EXTINF:-1,A&E HD
-http://88.198.32.78:80/edis1/edis1/1087
-#EXTINF:-1,BABY TV
-http://88.198.32.78:80/edis1/edis1/1089
-#EXTINF:-1,UNIVERSAL KIDS HD
-http://88.198.32.78:80/edis1/edis1/1090
-#EXTINF:-1,TEEN NICK
-http://88.198.32.78:80/edis1/edis1/1091
-#EXTINF:-1,STARZ KIDS & FAMILY
-http://88.198.32.78:80/edis1/edis1/1092
-#EXTINF:-1,NICKTOONS
-http://88.198.32.78:80/edis1/edis1/1093
-#EXTINF:-1,NICK JR. TOO
-http://88.198.32.78:80/edis1/edis1/1094
-#EXTINF:-1,NICK JR
-http://88.198.32.78:80/edis1/edis1/1095
-#EXTINF:-1,NICK HD
-http://88.198.32.78:80/edis1/edis1/1096
-#EXTINF:-1,DISNEY XD
-http://88.198.32.78:80/edis1/edis1/1097
-#EXTINF:-1,DISNEY JR
-http://88.198.32.78:80/edis1/edis1/1098
-#EXTINF:-1,DISNEY CHANNEL HD
-http://88.198.32.78:80/edis1/edis1/1099
-#EXTINF:-1,PBS WLIW 21
-http://88.198.32.78:80/edis1/edis1/1100
-#EXTINF:-1,PBS KIDS EAST
-http://88.198.32.78:80/edis1/edis1/1101
-#EXTINF:-1,PBS
-http://88.198.32.78:80/edis1/edis1/1102
-#EXTINF:-1,CARTOONITO ES
-http://88.198.32.78:80/edis1/edis1/1103
-#EXTINF:-1,CARTOON NETWORK
-http://88.198.32.78:80/edis1/edis1/1104
-#EXTINF:-1,BOOMERANG
-http://88.198.32.78:80/edis1/edis1/1105
-#EXTINF:-1,ANIMAL PLANET
-http://88.198.32.78:80/edis1/edis1/1107
-#EXTINF:-1,NAT GEO WILD HD US
-http://88.198.32.78:80/edis1/edis1/1108
-#EXTINF:-1,NAT GEO USA
-http://88.198.32.78:80/edis1/edis1/1109
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://88.198.32.78:80/edis1/edis1/1110
-#EXTINF:-1,HISTORY CHANNEL
-http://88.198.32.78:80/edis1/edis1/1111
-#EXTINF:-1,HISTORY 2
-http://88.198.32.78:80/edis1/edis1/1112
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://88.198.32.78:80/edis1/edis1/1113
-#EXTINF:-1,DISCOVERY LIFE
-http://88.198.32.78:80/edis1/edis1/1114
-#EXTINF:-1,DISCOVERY FAMILY
-http://88.198.32.78:80/edis1/edis1/1115
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://88.198.32.78:80/edis1/edis1/1116
-#EXTINF:-1,CRIME AND INVESTIGATION
-http://88.198.32.78:80/edis1/edis1/1117
-#EXTINF:-1,TRAVEL CHANNEL
-http://88.198.32.78:80/edis1/edis1/1118
-#EXTINF:-1,WORLD FISHING NETWORK
-http://88.198.32.78:80/edis1/edis1/1119
-#EXTINF:-1,OUTSIDE TV
-http://88.198.32.78:80/edis1/edis1/1120
-#EXTINF:-1,OUTDOOR CHANNEL
-http://88.198.32.78:80/edis1/edis1/1121
-#EXTINF:-1,BLOOMBERG
-http://88.198.32.78:80/edis1/edis1/1123
-#EXTINF:-1,CNN
-http://88.198.32.78:80/edis1/edis1/1124
-#EXTINF:-1,CNBC
-http://88.198.32.78:80/edis1/edis1/1125
-#EXTINF:-1,RT NEWS
-http://88.198.32.78:80/edis1/edis1/1126
-#EXTINF:-1,ONE AMERICA NEWS
-http://88.198.32.78:80/edis1/edis1/1127
-#EXTINF:-1,NEWS 12 NEW JERSEY
-http://88.198.32.78:80/edis1/edis1/1128
-#EXTINF:-1,NEWS 12 LONG ISLAND
-http://88.198.32.78:80/edis1/edis1/1129
-#EXTINF:-1,FOX NEWS
-http://88.198.32.78:80/edis1/edis1/1130
-#EXTINF:-1,ESPN NEWS
-http://88.198.32.78:80/edis1/edis1/1131
-#EXTINF:-1,ABC NEWS HD
-http://88.198.32.78:80/edis1/edis1/1132
-#EXTINF:-1,THE WEATHER CHANNEL HD
-http://88.198.32.78:80/edis1/edis1/1133
-#EXTINF:-1,FOX BUSINESS HD
-http://88.198.32.78:80/edis1/edis1/1134
-#EXTINF:-1,FOX 50
-http://88.198.32.78:80/edis1/edis1/1135
-#EXTINF:-1,FOX 5 HD
-http://88.198.32.78:80/edis1/edis1/1136
-#EXTINF:-1,MTV 2
-http://88.198.32.78:80/edis1/edis1/1138
-#EXTINF:-1,MTV LIVE
-http://88.198.32.78:80/edis1/edis1/1139
-#EXTINF:-1,MTV HD
-http://88.198.32.78:80/edis1/edis1/1140
-#EXTINF:-1,VH1 HD
-http://88.198.32.78:80/edis1/edis1/1141
-#EXTINF:-1,WWE
-http://88.198.32.78:80/edis1/edis1/1143
-#EXTINF:-1,UFC 24/7
-http://88.198.32.78:80/edis1/edis1/1144
-#EXTINF:-1,TVG HORSE RACING
-http://88.198.32.78:80/edis1/edis1/1145
-#EXTINF:-1,TENNIS HD
-http://88.198.32.78:80/edis1/edis1/1146
-#EXTINF:-1,SPORTSNET NY
-http://88.198.32.78:80/edis1/edis1/1147
-#EXTINF:-1,SPORTSNET LA
-http://88.198.32.78:80/edis1/edis1/1148
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://88.198.32.78:80/edis1/edis1/1149
-#EXTINF:-1,SEC NETWORK
-http://88.198.32.78:80/edis1/edis1/1150
-#EXTINF:-1,PAC-12 OREGON
-http://88.198.32.78:80/edis1/edis1/1151
-#EXTINF:-1,PAC-12 MOUNTAIN
-http://88.198.32.78:80/edis1/edis1/1152
-#EXTINF:-1,PAC-12 BAY AREA
-http://88.198.32.78:80/edis1/edis1/1153
-#EXTINF:-1,PAC-12 ARIZONA
-http://88.198.32.78:80/edis1/edis1/1154
-#EXTINF:-1,PAC 12 NETWORK
-http://88.198.32.78:80/edis1/edis1/1155
-#EXTINF:-1,PAC 12 LOS ANGELES
-http://88.198.32.78:80/edis1/edis1/1156
-#EXTINF:-1,NHL NETWORK
-http://88.198.32.78:80/edis1/edis1/1157
-#EXTINF:-1,NFL RED ZONE
-http://88.198.32.78:80/edis1/edis1/1158
-#EXTINF:-1,NFL NETWORK
-http://88.198.32.78:80/edis1/edis1/1159
-#EXTINF:-1,NESN
-http://88.198.32.78:80/edis1/edis1/1160
-#EXTINF:-1,NBC SPORTS PHILADELPHIA HD
-http://88.198.32.78:80/edis1/edis1/1161
-#EXTINF:-1,NBC SPORTS NORTHWEST HD
-http://88.198.32.78:80/edis1/edis1/1162
-#EXTINF:-1,NBC SPORTS NETWORK
-http://88.198.32.78:80/edis1/edis1/1163
-#EXTINF:-1,NBC SPORTS CHICAGO HD
-http://88.198.32.78:80/edis1/edis1/1164
-#EXTINF:-1,NBC SPORTS CALIFORNIA HD
-http://88.198.32.78:80/edis1/edis1/1165
-#EXTINF:-1,NBC SPORTS BOSTON HD
-http://88.198.32.78:80/edis1/edis1/1166
-#EXTINF:-1,NBC SPORTS BAY AREA HD
-http://88.198.32.78:80/edis1/edis1/1167
-#EXTINF:-1,NBC GOLF
-http://88.198.32.78:80/edis1/edis1/1168
-#EXTINF:-1,NBC 10 EAST
-http://88.198.32.78:80/edis1/edis1/1169
-#EXTINF:-1,NBA TV HD
-http://88.198.32.78:80/edis1/edis1/1170
-#EXTINF:-1,MSG +
-http://88.198.32.78:80/edis1/edis1/1171
-#EXTINF:-1,MSG
-http://88.198.32.78:80/edis1/edis1/1172
-#EXTINF:-1,MOTOR TREND
-http://88.198.32.78:80/edis1/edis1/1173
-#EXTINF:-1,MLB NETWORK
-http://88.198.32.78:80/edis1/edis1/1174
-#EXTINF:-1,LONGHORN NETWORK
-http://88.198.32.78:80/edis1/edis1/1175
-#EXTINF:-1,GOLF CHANNEL
-http://88.198.32.78:80/edis1/edis1/1176
-#EXTINF:-1,GAME SHOW NETWORK
-http://88.198.32.78:80/edis1/edis1/1177
-#EXTINF:-1,FOX SPORTS 1
-http://88.198.32.78:80/edis1/edis1/1178
-#EXTINF:-1,FOX SPORTS 2
-http://88.198.32.78:80/edis1/edis1/1179
-#EXTINF:-1,FOX SOCCER PLUS
-http://88.198.32.78:80/edis1/edis1/1180
-#EXTINF:-1,FOX DEPORTES
-http://88.198.32.78:80/edis1/edis1/1181
-#EXTINF:-1,FOX COLLEGE PACIFIC
-http://88.198.32.78:80/edis1/edis1/1182
-#EXTINF:-1,FOX COLLEGE CENTRAL
-http://88.198.32.78:80/edis1/edis1/1183
-#EXTINF:-1,FOX COLLEGE ATLANTIC
-http://88.198.32.78:80/edis1/edis1/1184
-#EXTINF:-1,FANTASY SPORTS NETWORK
-http://88.198.32.78:80/edis1/edis1/1185
-#EXTINF:-1,ESPN U
-http://88.198.32.78:80/edis1/edis1/1186
-#EXTINF:-1,ESPN 2
-http://88.198.32.78:80/edis1/edis1/1187
-#EXTINF:-1,ESPN
-http://88.198.32.78:80/edis1/edis1/1188
-#EXTINF:-1,ELEVEN SPORTS HD
-http://88.198.32.78:80/edis1/edis1/1189
-#EXTINF:-1,CBSN SPORTS NETWORK
-http://88.198.32.78:80/edis1/edis1/1190
-#EXTINF:-1,CBS SPORTS NETWORK
-http://88.198.32.78:80/edis1/edis1/1191
-#EXTINF:-1,BIG TEN NETWORK
-http://88.198.32.78:80/edis1/edis1/1192
+#EXTINF:-1 ,ABC News International
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
+#EXTINF:-1 ,TULALIP TV
+https://5c19aea334357.streamlock.net/tulalip/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 ,360 North
+https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
+#EXTINF:-1 ,Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 ,Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1 ,Channel 7
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1 ,Channel V6
+https://media.ksl.com/watchit/vod/41534/playlist.m3u8
+#EXTINF:-1 ,CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 ,Dancestar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 ,Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 ,FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 ,Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 ,Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 ,Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1 ,Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,KMTV Omaha
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1 ,Nothing Scripted
+http://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 ,Mo Laughter TV
+https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
+#EXTINF:-1 ,Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 ,Smart Lifestyle TV
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1 ,Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
+#EXTINF:-1 ,Temple TV
+https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
+#EXTINF:-1 ,The Beach Show
+http://30a-tv.com/beachy.m3u8
+#EXTINF:-1 ,The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+#EXTINF:-1 ,WABI 5 - Bangor - Maine
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
+#EXTINF:-1 ,Atlanta Channel
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
+#EXTINF:-1 ,Beach TV - Panama City
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 ,Beach TV - Florida - Alabama
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 ,Beach TV - Key West - Florida Keys
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 ,Beach TV - Myrtle Beach - Grand Strand
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 ,Capital City Connection Montgomery
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1 ,CT-N TV  - Conneticut
+https://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
+#EXTINF:-1 ,CVTV Channel 21
+https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/playlist.m3u8
+#EXTINF:-1 ,CVTV Channel 23
+https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
+#EXTINF:-1 ,Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 ,Fairfax Ch. 16 - Virginia
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 ,Greenbelt TV
+https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+#EXTINF:-1 ,Greensboro TV Network
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 ,HTV 1 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1 ,HTV 2 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 ,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
+#EXTINF:-1 ,NO TV - New Orleans Television
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 ,NAU-TV - Northern Arizona University
+http://stream.ec.nau.edu/live/amlst:channelfour/playlist.m3u8
+#EXTINF:-1 ,PCC-TV - Pinellas County Florida
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+#EXTINF:-1 ,Red Apple 21 - Fairfax County Public Schools - Virginia
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 ,Rye TV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 ,Seattle Channel - Washington
+https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
+#EXTINF:-1 ,The Rockville Channel
+http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8
+#EXTINF:-1 ,UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 ,WHOH TV - Hastings-On-Hudson - NY
+http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 ,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 ,BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
+#EXTINF:-1 ,Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 ,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 ,Canada Star TV
+http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist_w565131793_b2800000.m3u8
+#EXTINF:-1 ,Canal 9
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 ,CNTV
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF:-1 ,EET TV
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:-1 ,EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1 ,Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 ,ICI RDI HD
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 ,ICI T�l� HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+#EXTINF:-1 ,IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
+#EXTINF:-1 ,Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 ,Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 ,NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
+#EXTINF:-1 ,NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1 ,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 ,QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:-1 ,Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 ,Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 ,TAG TV
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 ,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 ,Tele Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist.m3u8
+#EXTINF:-1 ,Tele-V
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1 ,Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1 ,TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 ,Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:-1 ,VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+#EXTINF:-1 ,BET HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29042.m3u8
+#EXTINF:-1 ,AXS TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29037.m3u8
+#EXTINF:-1 ,Cinemax East HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13680.m3u8
+#EXTINF:-1 ,Golf Channel US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13687.m3u8
+#EXTINF:-1 ,MSNBC HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16841.m3u8
+#EXTINF:-1 ,NHL Network US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13688.m3u8
+#EXTINF:-1 ,Showtime East HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13666.m3u8
+#EXTINF:-1 ,Starz Encore East HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13677.m3u8
+#EXTINF:-1 ,A&E HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10350.m3u8
+#EXTINF:-1 ,Tennis Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18386.m3u8
+#EXTINF:-1 ,ABC WJLA Washington HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9026.m3u8
+#EXTINF:-1 ,AMC HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13104.m3u8
+#EXTINF:-1 ,C-SPAN US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10701.m3u8
+#EXTINF:-1 ,CBS Sports Network HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10347.m3u8
+#EXTINF:-1 ,CNN FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9029.m3u8
+#EXTINF:-1 ,Comedy Central US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13102.m3u8
+#EXTINF:-1 ,DIY Network HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13101.m3u8
+#EXTINF:-1 ,E! HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9021.m3u8
+#EXTINF:-1 ,ESPN HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9023.m3u8
+#EXTINF:-1 ,ESPN 2 US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9022.m3u8
+#EXTINF:-1 ,FOX News HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13100.m3u8
+#EXTINF:-1 ,FOX Sports 1 HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9031.m3u8
+#EXTINF:-1 ,FOX Sports 2 HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9030.m3u8
+#EXTINF:-1 ,FX HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13098.m3u8
+#EXTINF:-1 ,FXX HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13097.m3u8
+#EXTINF:-1 ,Hallmark Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9025.m3u8
+#EXTINF:-1 ,HBO Family FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9017.m3u8
+#EXTINF:-1 ,HBO Signature US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9016.m3u8
+#EXTINF:-1 ,Lifetime Movies HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9078.m3u8
+#EXTINF:-1 ,MLB Network HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10699.m3u8
+#EXTINF:-1 ,NBA TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9010.m3u8
+#EXTINF:-1 ,NBC WRC HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9009.m3u8
+#EXTINF:-1 ,Nick FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9012.m3u8
+#EXTINF:-1 ,Syfy HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13095.m3u8
+#EXTINF:-1 ,USA Network HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13105.m3u8
+#EXTINF:-1 ,VH1 US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/12058.m3u8
+#EXTINF:-1 ,Animal Planet HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/12060.m3u8
+#EXTINF:-1 ,Discovery Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15717.m3u8
+#EXTINF:-1 ,History HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15712.m3u8
+#EXTINF:-1 ,National Geographic HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15714.m3u8
+#EXTINF:-1 ,PBS US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15715.m3u8
+#EXTINF:-1 ,FreeForm HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/14294.m3u8
+#EXTINF:-1 ,Oprah Winfrey Network US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16295.m3u8
+#EXTINF:-1 ,NASA Live US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16585.m3u8
+#EXTINF:-1 ,Nasa TV UHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/30314.m3u8
+#EXTINF:-1 ,TNT US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15366.m3u8
+#EXTINF:-1 ,The Weather Channel US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/17427.m3u8
+#EXTINF:-1 ,Fight Sports US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/17883.m3u8
+#EXTINF:-1 ,American Heroes Channel US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18064.m3u8
+#EXTINF:-1 ,CBS 9 WUSA Washington HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18075.m3u8
+#EXTINF:-1 ,Disney Junior US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18065.m3u8
+#EXTINF:-1 ,Game Show Network FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18069.m3u8
+#EXTINF:-1 ,IFC FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18070.m3u8
+#EXTINF:-1 ,Investigation Discovery FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18071.m3u8
+#EXTINF:-1 ,Lifetime HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18072.m3u8
+#EXTINF:-1 ,MTV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18076.m3u8
+#EXTINF:-1 ,Reelz HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18074.m3u8
+#EXTINF:-1 ,TLC HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18079.m3u8
+#EXTINF:-1 ,ABC KTNV Las Vegas HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18179.m3u8
+#EXTINF:-1 ,BBC America US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18181.m3u8
+#EXTINF:-1 ,Big Ten Network US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18182.m3u8
+#EXTINF:-1 ,Bloomberg TV US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18183.m3u8
+#EXTINF:-1 ,CBSN HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18184.m3u8
+#EXTINF:-1 ,Destination America HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18189.m3u8
+#EXTINF:-1 ,ESPN U US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18190.m3u8
+#EXTINF:-1 ,Food Network US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18191.m3u8
+#EXTINF:-1 ,FXM HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18166.m3u8
+#EXTINF:-1 ,Hallmark Movies & Mysteries HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18198.m3u8
+#EXTINF:-1 ,HLN US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18199.m3u8
+#EXTINF:-1 ,Oxygen HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18176.m3u8
+#EXTINF:-1 ,Telemundo 20 HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18174.m3u8
+#EXTINF:-1 ,Travel Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18173.m3u8
+#EXTINF:-1 ,Tru TV US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18172.m3u8
+#EXTINF:-1 ,TV Land HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18171.m3u8
+#EXTINF:-1 ,UniMás Este HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18169.m3u8
+#EXTINF:-1 ,SEC Network HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18175.m3u8
+#EXTINF:-1 ,Olympic Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18850.m3u8
+#EXTINF:-1 ,NBC Sports Boston HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18853.m3u8
+#EXTINF:-1 ,PAC 12 Los Angeles HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18856.m3u8
+#EXTINF:-1 ,PAC 12 Networks HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18857.m3u8
+#EXTINF:-1 ,PAC 12 Mountain HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18858.m3u8
+#EXTINF:-1 ,PAC 12 Oregon HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18859.m3u8
+#EXTINF:-1 ,PAC 12 Washington HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18860.m3u8
+#EXTINF:-1 ,FOX Soccer Plus HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18675.m3u8
+#EXTINF:-1 ,Fight Network US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19654.m3u8
+#EXTINF:-1 ,ESPN News HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19637.m3u8
+#EXTINF:-1 ,MLB Network HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/21298.m3u8
+#EXTINF:-1 ,Disney Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/22823.m3u8
+#EXTINF:-1 ,OAN TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23152.m3u8
+#EXTINF:-1 ,Fuse HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23262.m3u8
+#EXTINF:-1 ,ESPN Deportes HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23260.m3u8
+#EXTINF:-1 ,FOX Sports Southeast HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23258.m3u8
+#EXTINF:-1 ,FOX Sports North HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23257.m3u8
+#EXTINF:-1 ,FOX Sports Midwest HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23256.m3u8
+#EXTINF:-1 ,FOX Sports Detroit HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23255.m3u8
+#EXTINF:-1 ,FOX Sports Arizona HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23254.m3u8
+#EXTINF:-1 ,CBS 11 KTVT Dallas HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23246.m3u8
+#EXTINF:-1 ,CBS 13 WJZ Baltimore HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23247.m3u8
+#EXTINF:-1 ,CBS 2 WCBS New York HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23250.m3u8
+#EXTINF:-1 ,CBS 4 WFOR Miami HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23251.m3u8
+#EXTINF:-1 ,CBS 47 WJAX Jacksonville HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23253.m3u8
+#EXTINF:-1 ,CBS 62 WWJ Detroit HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23252.m3u8
+#EXTINF:-1 ,ABC 10 WPLG Miami HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23234.m3u8
+#EXTINF:-1 ,ABC 5 KOCO HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23235.m3u8
+#EXTINF:-1 ,ABC 9 WCPO Cincinnati HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23236.m3u8
+#EXTINF:-1 ,ABC 15 KNXV Phoenix HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23238.m3u8
+#EXTINF:-1 ,ABC 2 WMAR Baltimore HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23240.m3u8
+#EXTINF:-1 ,ABC 6 WPVI Philadelphia HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23241.m3u8
+#EXTINF:-1 ,ABC 7 WLS Chicago HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23242.m3u8
+#EXTINF:-1 ,ABC 7 KMGH Denver HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23243.m3u8
+#EXTINF:-1 ,ABC 7 KABC Los Angeles HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23244.m3u8
+#EXTINF:-1 ,ABC 7 WABC New York HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23245.m3u8
+#EXTINF:-1 ,CNBC World HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23222.m3u8
+#EXTINF:-1 ,NBC 10 WBTS Boston HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23233.m3u8
+#EXTINF:-1 ,NBC 10 WCAU Philadelphia HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23232.m3u8
+#EXTINF:-1 ,NBC 4 KNBC Los Angeles HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23229.m3u8
+#EXTINF:-1 ,NBC 5 WMAQ Chicago HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23227.m3u8
+#EXTINF:-1 ,NBC 4 WNBC New York HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23228.m3u8
+#EXTINF:-1 ,NBC 5 KXAS Dallas HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23226.m3u8
+#EXTINF:-1 ,NBC 6 WTVJ Miami HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23225.m3u8
+#EXTINF:-1 ,NBC KING Seattle HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23224.m3u8
+#EXTINF:-1 ,NBC 11 WXIA Atlanta HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23223.m3u8
+#EXTINF:-1 ,NBC Sports California FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23220.m3u8
+#EXTINF:-1 ,NBCSN HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9008.m3u8
+#EXTINF:-1 ,NBC Sports Philadelphia FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23218.m3u8
+#EXTINF:-1 ,Discovery Family HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23424.m3u8
+#EXTINF:-1 ,CW KVCW FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23660.m3u8
+#EXTINF:-1 ,WWE Network US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16572.m3u8
+#EXTINF:-1 ,NFL Network US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9077.m3u8
+#EXTINF:-1 ,Stadium HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26264.m3u8
+#EXTINF:-1 ,We TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26275.m3u8
+#EXTINF:-1 ,Yes TV HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26274.m3u8
+#EXTINF:-1 ,Universal Kids HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26273.m3u8
+#EXTINF:-1 ,SportsNet New York HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26271.m3u8
+#EXTINF:-1 ,BBC World News HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26270.m3u8
+#EXTINF:-1 ,Hallmark Drama HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26268.m3u8
+#EXTINF:-1 ,Ginx eSports TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26267.m3u8
+#EXTINF:-1 ,FOX Deportes HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26266.m3u8
+#EXTINF:-1 ,NBC Sports Bay Area FHD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23221.m3u8
+#EXTINF:-1 ,Discovery Life HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27036.m3u8
+#EXTINF:-1 ,FightBox US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27188.m3u8
+#EXTINF:-1 ,UFC TV US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27221.m3u8
+#EXTINF:-1 ,MTV U HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27305.m3u8
+#EXTINF:-1 ,MSG HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27453.m3u8
+#EXTINF:-1 ,MSG+ HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27452.m3u8
+#EXTINF:-1 ,World Fishing Network HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27454.m3u8
+#EXTINF:-1 ,Gol TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27455.m3u8
+#EXTINF:-1 ,Nick Jr. US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27456.m3u8
+#EXTINF:-1 ,TeenNick HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27459.m3u8
+#EXTINF:-1 ,TVG HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27461.m3u8
+#EXTINF:-1 ,NBC Universo Este HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27462.m3u8
+#EXTINF:-1 ,Sony Movie Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27463.m3u8
+#EXTINF:-1 ,National Geographic Mundo HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27464.m3u8
+#EXTINF:-1 ,National Geographic Wild HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27465.m3u8
+#EXTINF:-1 ,Boomerang HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27466.m3u8
+#EXTINF:-1 ,Cine Sony HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27467.m3u8
+#EXTINF:-1 ,Cozi TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27470.m3u8
+#EXTINF:-1 ,FOX Life Latin HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27471.m3u8
+#EXTINF:-1 ,FYI HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27472.m3u8
+#EXTINF:-1 ,FOX College Sports Pacific HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27475.m3u8
+#EXTINF:-1 ,FOX College Sports Central HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27474.m3u8
+#EXTINF:-1 ,FOX 4 Dallas KDFW HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27564.m3u8
+#EXTINF:-1 ,ABC 8 WFAA Dallas HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27563.m3u8
+#EXTINF:-1 ,FOX 5 WNYW NY HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27544.m3u8
+#EXTINF:-1 ,Outdoor Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28161.m3u8
+#EXTINF:-1 ,MTV 2 HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28185.m3u8
+#EXTINF:-1 ,Fox Sports South HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28217.m3u8
+#EXTINF:-1 ,Fox Sports Southwest HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28216.m3u8
+#EXTINF:-1 ,Fox Sports San Diego HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28218.m3u8
+#EXTINF:-1 ,FOX 5 Atlanta WAGA HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28219.m3u8
+#EXTINF:-1 ,ABC 2 WSB Atlanta HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28220.m3u8
+#EXTINF:-1 ,VOA US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28224.m3u8
+#EXTINF:-1 ,Longhorn Network HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28223.m3u8
+#EXTINF:-1 ,Motor Trend HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28222.m3u8
+#EXTINF:-1 ,MTV Live HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28235.m3u8
+#EXTINF:-1 ,Sportsman Channel HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28391.m3u8
+#EXTINF:-1 ,ESPN + HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28741.m3u8
+#EXTINF:-1 ,Telemundo 47 WNJU (New York) HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28847.m3u8
+#EXTINF:-1 ,Telemundo 62 WWSI (Philadelphia) HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28848.m3u8
+#EXTINF:-1 ,TSN 1 HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9032.m3u8
+#EXTINF:-1 ,TSN 2 HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9033.m3u8
+#EXTINF:-1 ,TSN 4 HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9035.m3u8
+#EXTINF:-1 ,TSN 5 HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9036.m3u8
+#EXTINF:-1 ,SportsNet Pacific HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10342.m3u8
+#EXTINF:-1 ,SportsNet One HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10344.m3u8
+#EXTINF:-1 ,SportsNet West HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10345.m3u8
+#EXTINF:-1 ,SportsNet East HD CA
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13692.m3u8
+#EXTINF:-1 ,CBS 4 WCCO Minneapolis HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29495.m3u8
+#EXTINF:-1 ,FOX Sports Oklahoma HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29498.m3u8
+#EXTINF:-1 ,FOX Sports West HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29499.m3u8
+#EXTINF:-1 ,Telemundo 51 WSVC (Miami) HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/32688.m3u8
+#EXTINF:-1 ,BabyFirst TV US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33944.m3u8
+#EXTINF:-1 ,Smithsonian Channel US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/25559.m3u8
+#EXTINF:-1 ,HBO 2 HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33945.m3u8
+#EXTINF:-1 ,Starz Comedy HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33947.m3u8
+#EXTINF:-1 ,Starz Encore Classic HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33955.m3u8
+#EXTINF:-1 ,Starz Encore Westerns HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33957.m3u8
+#EXTINF:-1 ,Starz Encore Family HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33958.m3u8
+#EXTINF:-1 ,Starz Encore Suspense HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33959.m3u8
+#EXTINF:-1 ,Epix 2 HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19606.m3u8
+#EXTINF:-1 ,Sundance TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19607.m3u8
+#EXTINF:-1 ,Pop TV HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26997.m3u8
+#EXTINF:-1 ,Epix HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/34023.m3u8
+#EXTINF:-1 ,Epix Drive-In HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/34024.m3u8
+#EXTINF:-1 ,TCM HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35216.m3u8
+#EXTINF:-1 ,FOX 9 KMSP Minneapolis HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35217.m3u8
+#EXTINF:-1 ,NBC 9 KUSA Denver HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35343.m3u8
+#EXTINF:-1 ,NBC Sports Northwest HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35525.m3u8
+#EXTINF:-1 ,CW New York WPIX 11 US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35526.m3u8
+#EXTINF:-1 ,Showtime 2 HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/37838.m3u8
