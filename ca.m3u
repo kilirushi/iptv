@@ -1,91 +1,535 @@
 #EXTM3U
-#EXTINF:-1,AMC HD
-http://redcoliptv.com:8090/concert/concert/16306
-#EXTINF:-1,BNN HD
-http://redcoliptv.com:8090/concert/concert/16307
-#EXTINF:-1,Bravo TV HD
-http://redcoliptv.com:8090/concert/concert/16308
-#EXTINF:-1,CBC HD
-http://redcoliptv.com:8090/concert/concert/16309
-#EXTINF:-1,CBC Charlottetown HD
-http://redcoliptv.com:8090/concert/concert/16310
-#EXTINF:-1,CBC MONTREAL
-http://redcoliptv.com:8090/concert/concert/16311
-#EXTINF:-1,CBC Toronto
-http://redcoliptv.com:8090/concert/concert/16312
-#EXTINF:-1,CBC Ottawa HD
-http://redcoliptv.com:8090/concert/concert/16313
-#EXTINF:-1,CBC
-http://redcoliptv.com:8090/concert/concert/16314
-#EXTINF:-1,CBC Toronto HD
-http://redcoliptv.com:8090/concert/concert/16315
-#EXTINF:-1,CBC Vancouver HD
-http://redcoliptv.com:8090/concert/concert/16316
-#EXTINF:-1,City FHD
-http://redcoliptv.com:8090/concert/concert/16317
-#EXTINF:-1,Comedy HD
-http://redcoliptv.com:8090/concert/concert/16318
-#EXTINF:-1,CP24 HD
-http://redcoliptv.com:8090/concert/concert/16319
-#EXTINF:-1,CPAC HD
-http://redcoliptv.com:8090/concert/concert/16320
-#EXTINF:-1,Fight Network HD
-http://redcoliptv.com:8090/concert/concert/16321
-#EXTINF:-1,FOX HD
-http://redcoliptv.com:8090/concert/concert/16322
-#EXTINF:-1,FX FHD
-http://redcoliptv.com:8090/concert/concert/16323
-#EXTINF:-1,SHOWCASE HD
-http://redcoliptv.com:8090/concert/concert/16324
-#EXTINF:-1,FXX
-http://redcoliptv.com:8090/concert/concert/16325
-#EXTINF:-1,HBO 1
-http://redcoliptv.com:8090/concert/concert/16326
-#EXTINF:-1,HBO 2 HD
-http://redcoliptv.com:8090/concert/concert/16327
-#EXTINF:-1,Lifetime FHD
-http://redcoliptv.com:8090/concert/concert/16328
-#EXTINF:-1,National Geographic HD
-http://redcoliptv.com:8090/concert/concert/16329
-#EXTINF:-1,NTV News HD
-http://redcoliptv.com:8090/concert/concert/16330
-#EXTINF:-1,Slice HD
-http://redcoliptv.com:8090/concert/concert/16331
-#EXTINF:-1,Treehouse
-http://redcoliptv.com:8090/concert/concert/16332
-#EXTINF:-1,TLC HD
-http://redcoliptv.com:8090/concert/concert/16333
-#EXTINF:-1,TSN 3 FHD
-http://redcoliptv.com:8090/concert/concert/16334
-#EXTINF:-1,CBC Montreal
-http://redcoliptv.com:8090/concert/concert/16335
-#EXTINF:-1,Casa
-http://redcoliptv.com:8090/concert/concert/16336
-#EXTINF:-1,ICI Montreal
-http://redcoliptv.com:8090/concert/concert/16337
-#EXTINF:-1,RDI
-http://redcoliptv.com:8090/concert/concert/16338
-#EXTINF:-1,Frissons TV
-http://redcoliptv.com:8090/concert/concert/16339
-#EXTINF:-1,RDS Info
-http://redcoliptv.com:8090/concert/concert/16340
-#EXTINF:-1,Super Ecran 1
-http://redcoliptv.com:8090/concert/concert/16341
-#EXTINF:-1,Super Ecran 2
-http://redcoliptv.com:8090/concert/concert/16342
-#EXTINF:-1,Super Ecran 3
-http://redcoliptv.com:8090/concert/concert/16343
-#EXTINF:-1,Tele Quebec
-http://redcoliptv.com:8090/concert/concert/16344
-#EXTINF:-1,Super Ecran 4
-http://redcoliptv.com:8090/concert/concert/16345
-#EXTINF:-1,Zeste
-http://redcoliptv.com:8090/concert/concert/16346
-#EXTINF:-1,TMN 2
-http://redcoliptv.com:8090/concert/concert/16347
+#EXTINF:-1,CINE POP
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160802
+#EXTINF:-1,EVASION
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160803
+#EXTINF:-1,HISTORIO
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160804
+#EXTINF:-1,ICI MONTREAL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160805
+#EXTINF:-1,METEO
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160806
+#EXTINF:-1,MOI CIE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160807
+#EXTINF:-1,PRISE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160808
+#EXTINF:-1,RDS
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160809
+#EXTINF:-1,RDS 2
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160810
+#EXTINF:-1,RDS INFO
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160811
+#EXTINF:-1,SERIS
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160812
+#EXTINF:-1,LCN (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160813
+#EXTINF:-1,TFO
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160814
+#EXTINF:-1,TVA MONTREAL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160815
+#EXTINF:-1,TVA SPORTS
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160816
+#EXTINF:-1,VIE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160817
 #EXTINF:-1,VRAK TV
-http://redcoliptv.com:8090/concert/concert/16348
-#EXTINF:-1,Z-Tele
-http://redcoliptv.com:8090/concert/concert/16349
-#EXTINF:-1,TV5 Quebec
-http://redcoliptv.com:8090/concert/concert/16350
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160818
+#EXTINF:-1,ZESTE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160819
+#EXTINF:-1,A&E HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160820
+#EXTINF:-1,ABC HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160821
+#EXTINF:-1,ABC East HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160822
+#EXTINF:-1,ABC Spark
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160823
+#EXTINF:-1,ABC SPARK HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160824
+#EXTINF:-1,ADDIK TV QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160825
+#EXTINF:-1,ADDIK (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160826
+#EXTINF:-1,AMC Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160827
+#EXTINF:-1,AMC HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160828
+#EXTINF:-1,Animal Planet
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160829
+#EXTINF:-1,APTN
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160830
+#EXTINF:-1,ARTV QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160831
+#EXTINF:-1,BBC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160832
+#EXTINF:-1,BBC CANADA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160833
+#EXTINF:-1,BBC Earth HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160834
+#EXTINF:-1,BNN BLOOMBERG
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160835
+#EXTINF:-1,BOOK TV
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160836
+#EXTINF:-1,BEIN SPORTS CANADA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160837
+#EXTINF:-1,beIN Sports HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160838
+#EXTINF:-1,BNN HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160839
+#EXTINF:-1,CANAL D (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160840
+#EXTINF:-1,CANAL SAVOIR (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160842
+#EXTINF:-1,CANAL VIE QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160843
+#EXTINF:-1,CARTOON NETWORK HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160844
+#EXTINF:-1,CASA QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160845
+#EXTINF:-1,CASA (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160846
+#EXTINF:-1,CBC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160847
+#EXTINF:-1,CBC HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160848
+#EXTINF:-1,CBC CALGARY HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160849
+#EXTINF:-1,CBC Charlottetown
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160850
+#EXTINF:-1,CBC Edmonton
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160851
+#EXTINF:-1,CBC Fredericton
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160852
+#EXTINF:-1,CBC Halifax
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160853
+#EXTINF:-1,CBC HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160854
+#EXTINF:-1,CBC Montreal CA-FR
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160855
+#EXTINF:-1,CBC MONTREAL QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160856
+#EXTINF:-1,CBC MONTREAL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160857
+#EXTINF:-1,CBC News Network
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160858
+#EXTINF:-1,CBC NEWS HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160859
+#EXTINF:-1,CBC OTTAWA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160860
+#EXTINF:-1,CBC REGINA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160861
+#EXTINF:-1,CBC Toronto SD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160862
+#EXTINF:-1,CBC Vancouver HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160863
+#EXTINF:-1,CBC VANCOUVER
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160864
+#EXTINF:-1,CBC WINDSOR
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160865
+#EXTINF:-1,CBC Winnipeg
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160866
+#EXTINF:-1,CHCH Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160867
+#EXTINF:-1,CHCH HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160868
+#EXTINF:-1,CHCH HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160869
+#EXTINF:-1,CinePOP (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160870
+#EXTINF:-1,CITY CALGARY
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160871
+#EXTINF:-1,CITY MONTREAL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160872
+#EXTINF:-1,CITYLGARY
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160873
+#EXTINF:-1,CMT HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160874
+#EXTINF:-1,CNN HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160875
+#EXTINF:-1,CNN INTERNATIONAL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160876
+#EXTINF:-1,COMEDY HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160877
+#EXTINF:-1,COOKING CHANNEL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160878
+#EXTINF:-1,COOKING CHANNEL HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160879
+#EXTINF:-1,COTTAGE LIFE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160880
+#EXTINF:-1,CP24 Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160881
+#EXTINF:-1,CP24 HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160882
+#EXTINF:-1,CP24. Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160883
+#EXTINF:-1,CPAC HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160884
+#EXTINF:-1,CPAC QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160885
+#EXTINF:-1,CRAVE 1 HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160886
+#EXTINF:-1,CRAVE 2 HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160887
+#EXTINF:-1,CRAVE 3 HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160888
+#EXTINF:-1,CRAVE 4 HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160889
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160890
+#EXTINF:-1,CTV 2 VANCOUVER
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160891
+#EXTINF:-1,CTV BARRIE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160892
+#EXTINF:-1,CTV Calgary
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160893
+#EXTINF:-1,CTV Comedy HD  ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160894
+#EXTINF:-1,CTV Drama
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160895
+#EXTINF:-1,CTV HALIFAX
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160896
+#EXTINF:-1,CTV KITCHENER HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160897
+#EXTINF:-1,CTV LONDON
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160898
+#EXTINF:-1,CTV MONTREAL Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160899
+#EXTINF:-1,CTV News HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160900
+#EXTINF:-1,CTV News Live Events 3 HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160901
+#EXTINF:-1,CTV NORTH BAY
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160902
+#EXTINF:-1,CTV OTTAWA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160903
+#EXTINF:-1,CTV SUDBURY
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160904
+#EXTINF:-1,CTV TORONTO
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160905
+#EXTINF:-1,CTV VANCOUVER
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160906
+#EXTINF:-1,CTV WINNIPEG
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160907
+#EXTINF:-1,CTV2 OTTAWA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160908
+#EXTINF:-1,DAYSTAR TV
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160909
+#EXTINF:-1,DEJAVIEW
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160910
+#EXTINF:-1,DEJAVIEW SD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160911
+#EXTINF:-1,DISCOVERY HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160912
+#EXTINF:-1,Discovery Science CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160913
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160914
+#EXTINF:-1,DISNEY Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160915
+#EXTINF:-1,Disney HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160916
+#EXTINF:-1,DISNEY JR Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160917
+#EXTINF:-1,DISNEY JR HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160918
+#EXTINF:-1,Disney JR HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160919
+#EXTINF:-1,DISNEY XD HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160920
+#EXTINF:-1,DIY NETWORK HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160921
+#EXTINF:-1,DTOUR
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160922
+#EXTINF:-1,E! Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160923
+#EXTINF:-1,E! HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160924
+#EXTINF:-1,E! Entertainment HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160925
+#EXTINF:-1,FAMILY
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160926
+#EXTINF:-1,Fight Network HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160927
+#EXTINF:-1,Food Network
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160928
+#EXTINF:-1,Fox HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160929
+#EXTINF:-1,FOX NEWS
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160930
+#EXTINF:-1,FX FHD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160931
+#EXTINF:-1,FX HD Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160932
+#EXTINF:-1,FXX CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160933
+#EXTINF:-1,Game TV
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160934
+#EXTINF:-1,GAME SHOW NETWORK HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160935
+#EXTINF:-1,Global Edmonton
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160936
+#EXTINF:-1,GLOBAL HALIFAX
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160937
+#EXTINF:-1,GLOBAL VANCOUVER
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160938
+#EXTINF:-1,GLOBAL MONTREAL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160939
+#EXTINF:-1,Global Toronto
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160940
+#EXTINF:-1,GSN
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160941
+#EXTINF:-1,GUSTO
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160942
+#EXTINF:-1,H2
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160943
+#EXTINF:-1,HBO HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160944
+#EXTINF:-1,HBO 1 Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160945
+#EXTINF:-1,HBO 2 Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160946
+#EXTINF:-1,HBO 2 HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160947
+#EXTINF:-1,HGTV
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160948
+#EXTINF:-1,HISTORIA QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160949
+#EXTINF:-1,History Channel
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160950
+#EXTINF:-1,HISTORY HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160951
+#EXTINF:-1,HLN
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160952
+#EXTINF:-1,ICI MONTREAL QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160953
+#EXTINF:-1,ICI Tele Montreal
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160954
+#EXTINF:-1,ICI VANCOUVER QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160955
+#EXTINF:-1,IFC HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160956
+#EXTINF:-1,IIPC TV
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160957
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160958
+#EXTINF:-1,KNOWLEDGE KIDS
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160959
+#EXTINF:-1,KTLA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160960
+#EXTINF:-1,LCN QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160961
+#EXTINF:-1,Lifetime FHD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160962
+#EXTINF:-1,LIFETIME Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160963
+#EXTINF:-1,LIFETIME MOVIE NETWORK HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160964
+#EXTINF:-1,Love Nature
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160965
+#EXTINF:-1,MakeFul
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160966
+#EXTINF:-1,MAVTV
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160967
+#EXTINF:-1,MAX
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160968
+#EXTINF:-1,MEDIASET ITALIA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160969
+#EXTINF:-1,METEO QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160970
+#EXTINF:-1,MIRACLE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160971
+#EXTINF:-1,MOI et CIE (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160972
+#EXTINF:-1,MOVIE CENTRAL Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160973
+#EXTINF:-1,MOVIE TIME 1 Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160974
+#EXTINF:-1,MOVIETIME HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160975
+#EXTINF:-1,MTV
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160976
+#EXTINF:-1,MTV 2 HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160977
+#EXTINF:-1,MUCH
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160978
+#EXTINF:-1,Musique Plus (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160979
+#EXTINF:-1,NAT GEO WILD Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160980
+#EXTINF:-1,NAT GEO WILD HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160981
+#EXTINF:-1,NATIONAL GEOGRAPHIC Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160982
+#EXTINF:-1,NAT GEO HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160983
+#EXTINF:-1,NICKTOONS HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160984
+#EXTINF:-1,NTV News HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160985
+#EXTINF:-1,OLN Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160986
+#EXTINF:-1,OMNI 1 HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160987
+#EXTINF:-1,OMNI 2 HD Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160988
+#EXTINF:-1,ONE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160989
+#EXTINF:-1,OWN HD Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160990
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160991
+#EXTINF:-1,PEACHTREE Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160992
+#EXTINF:-1,Peachtree HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160993
+#EXTINF:-1,PRISE 2 QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160994
+#EXTINF:-1,RAI Italia
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160995
+#EXTINF:-1,RDI QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160996
+#EXTINF:-1,RDS 2 QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160997
+#EXTINF:-1,RDS Info CA-FR
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160998
+#EXTINF:-1,RDS INFO QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160999
+#EXTINF:-1,RDS QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161000
+#EXTINF:-1,RDS. QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161001
+#EXTINF:-1,Rogers TV Barrie
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161002
+#EXTINF:-1,SERIES  QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161003
+#EXTINF:-1,SERIES Plus
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161004
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161005
+#EXTINF:-1,SLICE Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161006
+#EXTINF:-1,Slice HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161015
+#EXTINF:-1,SMITHSONIAN CHANNEL HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161016
+#EXTINF:-1,CTV SCI-FI
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161017
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161018
+#EXTINF:-1,Sports Net 360 FHD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161019
+#EXTINF:-1,Sports Net East HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161020
+#EXTINF:-1,Sports Net One HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161021
+#EXTINF:-1,Sports Net Ontario HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161022
+#EXTINF:-1,Sports Net Pacific HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161023
+#EXTINF:-1,Sports Net West HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161024
+#EXTINF:-1,Sports Net World HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161025
+#EXTINF:-1,SUPER CHANNEL 1 Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161026
+#EXTINF:-1,SUPER CHANNEL 2 Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161027
+#EXTINF:-1,SUPER CHANNEL 4 Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161028
+#EXTINF:-1,Super Channel Fuse
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161029
+#EXTINF:-1,Super Channel Heart &amp; Home
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161030
+#EXTINF:-1,Super Channel Vault
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161031
+#EXTINF:-1,SUPER ECRAN 1
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161032
+#EXTINF:-1,Super Ecran 2 (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161033
+#EXTINF:-1,Super Ecran 3 (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161034
+#EXTINF:-1,Super Ecran 4 (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161035
+#EXTINF:-1,TELE QUEBEC QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161036
+#EXTINF:-1,Teletoon (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161037
+#EXTINF:-1,TELETOON HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161038
+#EXTINF:-1,Teletoon Eng
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161039
+#EXTINF:-1,TG24
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161040
+#EXTINF:-1,THE SHOPPING CHANNEL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161041
+#EXTINF:-1,TLC HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161042
+#EXTINF:-1,TLN
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161043
+#EXTINF:-1,TMN 2 HD Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161044
+#EXTINF:-1,TRAVEL ESCAPE
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161045
+#EXTINF:-1,TREEHOUSE Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161046
+#EXTINF:-1,TREEHOUSE HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161047
+#EXTINF:-1,TSN 1 HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161048
+#EXTINF:-1,TSN 2 FHD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161049
+#EXTINF:-1,TSN 2 HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161050
+#EXTINF:-1,TSN 3 FHD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161051
+#EXTINF:-1,TSN 3 HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161052
+#EXTINF:-1,TSN 4 FHD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161053
+#EXTINF:-1,TSN 5 FHD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161054
+#EXTINF:-1,TSN 5 HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161055
+#EXTINF:-1,TURNER CLASSIC MOVIES Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161056
+#EXTINF:-1,TV5 QUEBEC QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161057
+#EXTINF:-1,TVA Montreal (CFTM)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161058
+#EXTINF:-1,TVA SPORTS QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161059
+#EXTINF:-1,TVO
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161060
+#EXTINF:-1,TVO HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161061
+#EXTINF:-1,Unis_TV_(FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161062
+#EXTINF:-1,VISION TV Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161063
+#EXTINF:-1,VRAK TV QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161064
+#EXTINF:-1,W_NETWORK
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161065
+#EXTINF:-1,WEATHER NETWORK SD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161066
+#EXTINF:-1,WFN
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161067
+#EXTINF:-1,WGN
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161068
+#EXTINF:-1,Wild TV
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161069
+#EXTINF:-1,YES Ca
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161070
+#EXTINF:-1,YES TV HD CA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161071
+#EXTINF:-1,YOOPA (FR)
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161072
+#EXTINF:-1,Z TELE QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161073
+#EXTINF:-1,ZESTE QC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161074
+#EXTINF:-1,CA |CBC CALGARY HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161075
+#EXTINF:-1,CA |Discovery Velocity HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161076
+#EXTINF:-1,Adult Swim
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/161077
