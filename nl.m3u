@@ -1,151 +1,273 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8904
-#EXTINF:-1,NPO 2 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8905
-#EXTINF:-1,NPO 3 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8906
-#EXTINF:-1,RTL 4 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8907
-#EXTINF:-1,RTL 5 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8908
-#EXTINF:-1,SBS 6 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8909
-#EXTINF:-1,RTL 7 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8910
-#EXTINF:-1,VERONICA  DISNEY XD 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8911
-#EXTINF:-1,RTL 8 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8912
-#EXTINF:-1,SBS 9 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8913
-#EXTINF:-1,FOX 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8914
-#EXTINF:-1, NPO 1 HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8915
-#EXTINF:-1,NPO 2 HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8916
-#EXTINF:-1,RTL 4 HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8917
-#EXTINF:-1,RTL 5 HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8918
-#EXTINF:-1,SBS 6 HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8919
-#EXTINF:-1,RTL 7 HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8920
-#EXTINF:-1,VERONICA / DISNEY XD HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8921
-#EXTINF:-1,RTL 8 HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8922
-#EXTINF:-1,NET 5 HD+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8923
-#EXTINF:-1,MTV 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8924
-#EXTINF:-1,DISCOVERY 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8925
-#EXTINF:-1,ANIMAL PLANET 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8926
-#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8927
-#EXTINF:-1,NAT GEO WILD 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8928
-#EXTINF:-1,HISTORY 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8929
-#EXTINF:-1,Insight TV
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12413
-#EXTINF:-1,Introuble TV
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12414
-#EXTINF:-1,L1mburg
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12415
-#EXTINF:-1,Omroep Brabant
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12416
+#EXTINF:-1,NPO 1 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13128
+#EXTINF:-1,NPO 1
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5131
+#EXTINF:-1,NPO 2 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6466
+#EXTINF:-1,NPO 2 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5130
+#EXTINF:-1,NPO 3 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6465
+#EXTINF:-1,NPO 3 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5129
+#EXTINF:-1,NPO Nieuws
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655119
+#EXTINF:-1,NPO 1 Extra
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11447
+#EXTINF:-1,NPO Zapp Xtra
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5128
+#EXTINF:-1,NPO Zappelin Xtra / Humor
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5125
+#EXTINF:-1,NPO Poltiek/Sport
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5126
+#EXTINF:-1,RTL 4 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12820
+#EXTINF:-1,RTL 4 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11403
+#EXTINF:-1,RTL 4
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5124
+#EXTINF:-1,RTL 5 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6464
+#EXTINF:-1,RTL 5 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11402
+#EXTINF:-1,RTL 5
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5123
+#EXTINF:-1,SBS 6 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6462
+#EXTINF:-1,SBS 6 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5116
+#EXTINF:-1,Net 5 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5134
+#EXTINF:-1,Net 5 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6468
+#EXTINF:-1,RTL 7 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5122
+#EXTINF:-1,RTL 7 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11401
+#EXTINF:-1,RTL 8 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12821
+#EXTINF:-1,RTL 8
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5121
+#EXTINF:-1,SBS 9 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5115
+#EXTINF:-1,AT5
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5162
+#EXTINF:-1,L1 Limburg
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11419
+#EXTINF:-1,Omroep Brabant Televisie FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11414
+#EXTINF:-1,Omroep Gold HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11393
 #EXTINF:-1,Omroep Flevoland
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12417
-#EXTINF:-1,RTV Drenthe
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12418
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11413
 #EXTINF:-1,Omroep Zeeland
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12419
-#EXTINF:-1,Podium.TV
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12420
-#EXTINF:-1,Podium.TV 2
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12421
-#EXTINF:-1,Podium.TV 3
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12422
-#EXTINF:-1,RTV Noordoost Friesland
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12423
-#EXTINF:-1,RTV Oost
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12424
-#EXTINF:-1,RTV Rijnmond
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12425
-#EXTINF:-1,1Twente
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12426
-#EXTINF:-1,TV Ellef
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12427
-#EXTINF:-1,TV Valkenburg
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12428
-#EXTINF:-1,DocuBox HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12429
-#EXTINF:-1,Tommy Teleshopping
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12430
-#EXTINF:-1,ZIGGO SPORT 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8994
-#EXTINF:-1,ZIGGO SPORT SELECT HD 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8995
-#EXTINF:-1,ZIGGO SPORT VOETBAL 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8996
-#EXTINF:-1,ZIGGO SPORT GOLF 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8997
-#EXTINF:-1,ZIGGO SPORT RACING 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8998
-#EXTINF:-1,FOX SPORTS 1 FHD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8999
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9000
-#EXTINF:-1,FOX SPORTS 3 FHD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9001
-#EXTINF:-1,FOX SPORTS 4 FHD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9002
-#EXTINF:-1,FOX SPORTS 5 FHD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9003
-#EXTINF:-1,FOX SPORTS 6 FHD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9004
-#EXTINF:-1,EUROSPORT 1 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9005
-#EXTINF:-1,EUROSPORT 2 4K+
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9006
-#EXTINF:-1,FOX SPORTS 1 HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9007
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9008
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9009
-#EXTINF:-1,ZIGGO SPORT SELECT  HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9010
-#EXTINF:-1,ZIGGO SPORT  VOETBAL HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9011
-#EXTINF:-1,ZIGGO SPORT GOLF HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9012
-#EXTINF:-1,ZIGGO SPORT RACING HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9013
-#EXTINF:-1,ZIGGO DOCU 4K
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9014
-#EXTINF:-1,ZIGGO SPORT EXTRA 4K
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9015
-#EXTINF:-1,FOX SPORTS 3 HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9016
-#EXTINF:-1,FOX SPORTS 4 HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9017
-#EXTINF:-1,FOX SPORTS 5 HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9018
-#EXTINF:-1,FOX SPORTS 6 HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9019
-#EXTINF:-1,EXTREME SPORTS
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9020
-#EXTINF:-1,DISNEY JUNIOR  SD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8985
-#EXTINF:-1,NICK JR SD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8986
-#EXTINF:-1,NICK TOONS HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8987
-#EXTINF:-1,BOOMERANG SD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/8988
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11409
+#EXTINF:-1,Oemrop Fryslan
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11408
+#EXTINF:-1,RTV 7 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11399
+#EXTINF:-1,RTV Drenthe
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5117
+#EXTINF:-1,RTV Noord
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13107
+#EXTINF:-1,RTV Arnhem
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11388
+#EXTINF:-1,TV Oost
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5104
+#EXTINF:-1,TV Rijnmond
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11390
+#EXTINF:-1,Family7
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11422
+#EXTINF:-1,------- Sports -------
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683257
+#EXTINF:-1,Ziggo Sport
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11387
+#EXTINF:-1,Ziggo Sport Extra FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625239
+#EXTINF:-1,Ziggo Sport Voetbal HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5112
+#EXTINF:-1,Ziggo Sport Golf FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5114
+#EXTINF:-1,Ziggo Sport Golf HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6460
+#EXTINF:-1,Ziggo Sport Racing FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13119
+#EXTINF:-1,Ziggo Sport Racing HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5111
+#EXTINF:-1,Ziggo Sport Select FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53267
+#EXTINF:-1,Ziggo Sport Select HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5113
+#EXTINF:-1,Ziggo Sport Docu FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5110
+#EXTINF:-1,Fox Sports 1 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6487
+#EXTINF:-1,Fox Sports 1 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5143
+#EXTINF:-1,Fox Sports 2 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6486
+#EXTINF:-1,Fox Sports 2
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5142
+#EXTINF:-1,Fox Sports 3 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6485
+#EXTINF:-1,Fox Sports 3 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5141
+#EXTINF:-1,Fox Sports 4 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/64848
+#EXTINF:-1,Fox Sports 4 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/514522
+#EXTINF:-1,Fox Sports 5 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/64338
+#EXTINF:-1,Fox Sports 5 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/513532
+#EXTINF:-1,Fox Sports 6 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/131212
+#EXTINF:-1,Fox Sports 6 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/513821
+#EXTINF:-1,Eurosport 1 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11444
+#EXTINF:-1,Eurosport 1
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11445
+#EXTINF:-1,Eurosport 2 FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11443
+#EXTINF:-1,Extreme Sports
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11442
+#EXTINF:-1,------- Movies & Series -------
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683258
+#EXTINF:-1,Film 1 Premiere FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6490
+#EXTINF:-1,Film 1 Premiere HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5147
+#EXTINF:-1,Film 1 Family HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13123
+#EXTINF:-1,Film 1 Family
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5148
+#EXTINF:-1,Film 1 Action FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6492
+#EXTINF:-1,Film 1 Action
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5149
+#EXTINF:-1,Film 1 Drama FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13122
+#EXTINF:-1,Film 1 Drama
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5146
+#EXTINF:-1,Veronica / Disney XD FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6425
+#EXTINF:-1,Veronica/DisneyXD HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13127
+#EXTINF:-1,Comedy Central
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5158
+#EXTINF:-1,Comedy Central Extra
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5157
+#EXTINF:-1,RTL Lounge
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5120
+#EXTINF:-1,RTL Z
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5118
+#EXTINF:-1,RTL Crime HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11435
+#EXTINF:-1,Crime and Investigation
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5159
+#EXTINF:-1,13th Street FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5165
+#EXTINF:-1,CBS Reality
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11427
+#EXTINF:-1,Fox FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5144
+#EXTINF:-1,Fox HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6489
+#EXTINF:-1,Shorts TV HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5105
+#EXTINF:-1,ONS
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11407
+#EXTINF:-1,------- Documentary -------
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683259
+#EXTINF:-1,Discovery Channel
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5155
+#EXTINF:-1,Discovery Investigation HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11441
+#EXTINF:-1,Discovery Investigation
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5154
+#EXTINF:-1,Discovery Science HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11426
+#EXTINF:-1,Discovery World
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11424
+#EXTINF:-1,National Geographic FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12818
+#EXTINF:-1,National Geographic HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5136
+#EXTINF:-1,Nat Geo Wild FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5135
+#EXTINF:-1,Nat Geo Wild HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13116
+#EXTINF:-1,Animal Planet HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11438
+#EXTINF:-1,Spike HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13125
+#EXTINF:-1,BBC First HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/648286
+#EXTINF:-1,History FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11439
+#EXTINF:-1,History HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11440
+#EXTINF:-1,Horse & Country TV
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11421
+#EXTINF:-1,Travel XP FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13111
+#EXTINF:-1,Outdoor Channel FHD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13110
+#EXTINF:-1,24 Kitchen HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5164
+#EXTINF:-1,E! Entertainment HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13113
+#EXTINF:-1,TLC
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5107
+#EXTINF:-1,------- Children -------
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683260
+#EXTINF:-1,Baby TV
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5163
+#EXTINF:-1,Disney Channel
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5153
+#EXTINF:-1,Nickelodeon
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5133
+#EXTINF:-1,NickToons
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5132
+#EXTINF:-1,Nick JR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11433
+#EXTINF:-1,Cartoon Network
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5160
+#EXTINF:-1,Boomerang
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5161
+#EXTINF:-1,RTL Telekids
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5119
+#EXTINF:-1,Pebble TV
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11406
+#EXTINF:-1,Jim Jam
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11432
+#EXTINF:-1,------- Music -------
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683261
+#EXTINF:-1,MTV
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5103
+#EXTINF:-1,MTV Music 24
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5102
+#EXTINF:-1,MTV Brand New
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13106
+#EXTINF:-1,MTV Hits
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11431
+#EXTINF:-1,Xite HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5101
+#EXTINF:-1,SLAM!
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11396
+#EXTINF:-1,192 TV
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11446
+#EXTINF:-1,TV Oranje
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11391
+#EXTINF:-1,Nick Music
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11434
+#EXTINF:-1,Stingray LiteTV
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11395
+#EXTINF:-1,Mezzo
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11418
+#EXTINF:-1,IConcerts
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11420
+#EXTINF:-1,DJazz TV
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11423
