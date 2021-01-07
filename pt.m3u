@@ -1,299 +1,389 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7459
-#EXTINF:-1,RTP 1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7496
-#EXTINF:-1,RTP 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7458
-#EXTINF:-1,RTP 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7495
-#EXTINF:-1,RTP 3
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7494
-#EXTINF:-1,RTP Internacional
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7491
-#EXTINF:-1,RTP Madeira
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7490
-#EXTINF:-1,RTP Memoria
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7489
-#EXTINF:-1,RTP Acores
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7493
-#EXTINF:-1,RTP Africa
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7492
-#EXTINF:-1,SIC HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7488
-#EXTINF:-1,TVI FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7464
-#EXTINF:-1,TVI HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7455
-#EXTINF:-1,TVI
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13456
-#EXTINF:-1,TVI 24
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7463
-#EXTINF:-1,CM TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7524
-#EXTINF:-1,Globo TV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8794
-#EXTINF:-1,Globo Premium FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12507
-#EXTINF:-1,SIC Mulher
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7485
-#EXTINF:-1,SIC Caras
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7487
-#EXTINF:-1,SIC Noticias
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7484
-#EXTINF:-1,SIC Radical
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7483
-#EXTINF:-1,Porto Canal
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7499
-#EXTINF:-1,CMTV HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12536
-#EXTINF:-1,CMTV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12535
-#EXTINF:-1,Localvisao HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12529
-#EXTINF:-1,------- News -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682908
-#EXTINF:-1,Euronews
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8788
-#EXTINF:-1,BBC World News
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12527
-#EXTINF:-1,Fox News
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12513
-#EXTINF:-1,CNN
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12515
-#EXTINF:-1,Bloomberg
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12525
-#EXTINF:-1,TVE 24H
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12512
-#EXTINF:-1,------- Religious -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682909
-#EXTINF:-1,Cancao Nova
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7527
-#EXTINF:-1,Rede TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8797
-#EXTINF:-1,Santuario Fatima
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8972
-#EXTINF:-1,------- Sports -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682900
-#EXTINF:-1,BTV 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12521
-#EXTINF:-1,BTV 1 FHD [B]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7534
-#EXTINF:-1,BTV 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12520
-#EXTINF:-1,Eurosport 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7519
-#EXTINF:-1,Eurosport 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7518
-#EXTINF:-1,Eleven Sport 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51927
-#EXTINF:-1,Eleven Sport 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51926
-#EXTINF:-1,Eleven Sport 3 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51925
-#EXTINF:-1,Eleven Sport 4 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51924
-#EXTINF:-1,Eleven Sport 5 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51923
-#EXTINF:-1,Eleven Sport 6 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51922
-#EXTINF:-1,Sport TV + FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7477
-#EXTINF:-1,Sporting TV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7476
-#EXTINF:-1,Sport TV 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8818
-#EXTINF:-1,Sport TV 1 [B] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13097
-#EXTINF:-1,Sport TV 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13096
-#EXTINF:-1,Sport TV 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7481
-#EXTINF:-1,Sport TV 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8814
-#EXTINF:-1,Sport TV 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13093
-#EXTINF:-1,Sport TV 3 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8817
-#EXTINF:-1,Sport TV 3 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8813
-#EXTINF:-1,Sport TV 3
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13091
-#EXTINF:-1,Sport TV 4 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8816
-#EXTINF:-1,Sport TV 4
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13089
-#EXTINF:-1,Sport TV 4 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7479
-#EXTINF:-1,Sport TV 5 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7478
-#EXTINF:-1,Sport TV 5 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8812
-#EXTINF:-1,Sport TV 5
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13087
-#EXTINF:-1,Real Madrid TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7497
-#EXTINF:-1,NBA TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8799
-#EXTINF:-1,Toros TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7473
-#EXTINF:-1,Fuel TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7512
-#EXTINF:-1,Kombat Sports
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8793
-#EXTINF:-1,Canal 11 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/670849
-#EXTINF:-1,PFC
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7500
-#EXTINF:-1,------- Movies & Series -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682903
-#EXTINF:-1,AXN FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7538
-#EXTINF:-1,AXN White FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7536
-#EXTINF:-1,AXN White FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667464
-#EXTINF:-1,AXN Movies FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7537
 #EXTINF:-1,AMC
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7539
-#EXTINF:-1,Fox Crime FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8810
-#EXTINF:-1,Fox Comedy
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7515
-#EXTINF:-1,Fox Life FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7514
-#EXTINF:-1,Fox FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7456
-#EXTINF:-1,Fox HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7516
-#EXTINF:-1,Syfy HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7454
-#EXTINF:-1,Syfy
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7475
-#EXTINF:-1,Fox Movies FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7513
-#EXTINF:-1,TvCine Top FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13105
-#EXTINF:-1,TvCine Top HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13104
-#EXTINF:-1,TvCine Emotion FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13103
-#EXTINF:-1,TvCine Emotion HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13102
-#EXTINF:-1,TvCine Action FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13101
-#EXTINF:-1,TvCine Action HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13100
-#EXTINF:-1,TvCine Edition FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13099
-#EXTINF:-1,TvCine Edition HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13098
-#EXTINF:-1,TV Series FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7469
-#EXTINF:-1,Hollywood
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7510
-#EXTINF:-1,NOS Studios HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/658469
-#EXTINF:-1,Cine Mundo
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7525
-#EXTINF:-1,ZAP VIVA HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667814
-#EXTINF:-1,------- Documentary -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682901
-#EXTINF:-1,Discovery Channel HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7523
-#EXTINF:-1,Discovery Showcase FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7522
-#EXTINF:-1,Investigation Discovery FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682122
-#EXTINF:-1,Crime Investigation
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12516
-#EXTINF:-1,National Geographic FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7503
-#EXTINF:-1,Nat Geo Wild FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7504
-#EXTINF:-1,Travel Channel FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7472
-#EXTINF:-1,Caza Y Pezca
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8791
-#EXTINF:-1,CBS Reality
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7526
-#EXTINF:-1,Canal Historia
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7530
-#EXTINF:-1,Historia
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8789
-#EXTINF:-1,Odisseia
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12500
-#EXTINF:-1,TLC
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7474
-#EXTINF:-1,24 Kitchen FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7542
-#EXTINF:-1,Food Network HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12510
-#EXTINF:-1,Fine Living Network FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12509
-#EXTINF:-1,Dog TV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12528
+http://super1.ideaiptv.com:2052/bandook/3243243/19367
 #EXTINF:-1,Blaze
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7540
-#EXTINF:-1,------- Entertainment -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682905
-#EXTINF:-1,E! Entertainment
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8790
-#EXTINF:-1,Fashion Box HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12526
-#EXTINF:-1,Canal Q
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7528
-#EXTINF:-1,TV Record HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8811
-#EXTINF:-1,TVI Reality
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7462
-#EXTINF:-1,TVI Ficcao
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7461
-#EXTINF:-1,SIC K
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7486
-#EXTINF:-1,MOV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7453
-#EXTINF:-1,Cacavision
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7531
-#EXTINF:-1,------- Children -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682902
-#EXTINF:-1,Baby TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7535
-#EXTINF:-1,Nickelodeon
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7502
-#EXTINF:-1,Disney Junior
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7520
-#EXTINF:-1,Disney Channel
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7521
-#EXTINF:-1,Cartoon Network
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8804
-#EXTINF:-1,Canal Panda
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7529
-#EXTINF:-1,Biggs
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7533
-#EXTINF:-1,Sic Kids
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8801
+http://super1.ideaiptv.com:2052/bandook/3243243/19371
+#EXTINF:-1,Discovery Channel
+http://super1.ideaiptv.com:2052/bandook/3243243/19373
+#EXTINF:-1,Euro news
+http://super1.ideaiptv.com:2052/bandook/3243243/19374
+#EXTINF:-1,FOX Comedy
+http://super1.ideaiptv.com:2052/bandook/3243243/19375
+#EXTINF:-1,FOX Movies
+http://super1.ideaiptv.com:2052/bandook/3243243/19376
 #EXTINF:-1,Jim Jam
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7511
-#EXTINF:-1,A Bola TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7541
-#EXTINF:-1,Panda Biggs
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8805
-#EXTINF:-1,------- Music -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682906
-#EXTINF:-1,MTV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7505
+http://super1.ideaiptv.com:2052/bandook/3243243/19379
+#EXTINF:-1,Kombat Sport
+http://super1.ideaiptv.com:2052/bandook/3243243/19380
+#EXTINF:-1,My Cuisine
+http://super1.ideaiptv.com:2052/bandook/3243243/19381
+#EXTINF:-1,RTP Memoria
+http://super1.ideaiptv.com:2052/bandook/3243243/19383
+#EXTINF:-1,SIC Caras HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19384
+#EXTINF:-1,SIC Noticias
+http://super1.ideaiptv.com:2052/bandook/3243243/19385
+#EXTINF:-1,SIC Radical HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19386
+#EXTINF:-1,Sport TV 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19390
+#EXTINF:-1,Sky News
+http://super1.ideaiptv.com:2052/bandook/3243243/19387
+#EXTINF:-1,Sport TV 2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19392
+#EXTINF:-1,Sporting TV
+http://super1.ideaiptv.com:2052/bandook/3243243/19393
+#EXTINF:-1,Toros TV
+http://super1.ideaiptv.com:2052/bandook/3243243/19394
+#EXTINF:-1,Travel Channel HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19395
+#EXTINF:-1,TVI Reality
+http://super1.ideaiptv.com:2052/bandook/3243243/19396
 #EXTINF:-1,VH1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8785
-#EXTINF:-1,MCM Pop
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7509
-#EXTINF:-1,Afro Music
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12501
-#EXTINF:-1,Trace Urban HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12503
-#EXTINF:-1,Trace Urban
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12505
-#EXTINF:-1,iConcerts HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12502
+http://super1.ideaiptv.com:2052/bandook/3243243/19397
+#EXTINF:-1, FOX Crime Hd
+http://super1.ideaiptv.com:2052/bandook/3243243/19399
+#EXTINF:-1, Fox Hd
+http://super1.ideaiptv.com:2052/bandook/3243243/19400
+#EXTINF:-1,CMTV
+http://super1.ideaiptv.com:2052/bandook/3243243/19407
+#EXTINF:-1,PT:24 KITCHEN
+http://super1.ideaiptv.com:2052/bandook/3243243/19412
+#EXTINF:-1,A & E
+http://super1.ideaiptv.com:2052/bandook/3243243/19413
+#EXTINF:-1,PT:AFRO MUSIC
+http://super1.ideaiptv.com:2052/bandook/3243243/19414
+#EXTINF:-1,PT:AXN HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19415
+#EXTINF:-1,PT:BABY TV
+http://super1.ideaiptv.com:2052/bandook/3243243/19416
+#EXTINF:-1,PT:CACA E PESCA
+http://super1.ideaiptv.com:2052/bandook/3243243/19418
+#EXTINF:-1,PT:CANAL HIST?RIA
+http://super1.ideaiptv.com:2052/bandook/3243243/19419
+#EXTINF:-1,PT:CBS Reality
+http://super1.ideaiptv.com:2052/bandook/3243243/19421
+#EXTINF:-1,PT:DISNEY JUNIOR
+http://super1.ideaiptv.com:2052/bandook/3243243/19425
+#EXTINF:-1,PT:TVI FICCAO
+http://super1.ideaiptv.com:2052/bandook/3243243/19466
+#EXTINF:-1,TVC 1
+http://super1.ideaiptv.com:2052/bandook/3243243/19460
+#EXTINF:-1,PT:GLOBO PREMIUM
+http://super1.ideaiptv.com:2052/bandook/3243243/19426
+#EXTINF:-1,PT:NATIONAL GEOGRAPHIC HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19429
+#EXTINF:-1,PT:Panda
+http://super1.ideaiptv.com:2052/bandook/3243243/19431
+#EXTINF:-1,PT:PANDA BIGGS
+http://super1.ideaiptv.com:2052/bandook/3243243/19432
+#EXTINF:-1,PT:RTP 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19437
+#EXTINF:-1,PT:RTP 2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19439
+#EXTINF:-1,PT:RTP 3 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19440
+#EXTINF:-1,PT:SIC HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19445
+#EXTINF:-1,PT:SIC K
+http://super1.ideaiptv.com:2052/bandook/3243243/19446
+#EXTINF:-1,PT:Sport tv
+http://super1.ideaiptv.com:2052/bandook/3243243/19448
+#EXTINF:-1,PT:SPORT TV  5 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19449
+#EXTINF:-1,PT:SPORT TV 3 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19452
+#EXTINF:-1,PT:SPORT TV 4 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/19453
+#EXTINF:-1,Eleven Sports 5 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/21810
+#EXTINF:-1,Eleven Sports 6 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/21809
+#EXTINF:-1,Eleven Sports 4 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/21811
+#EXTINF:-1,Eleven Sports 3 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/21813
+#EXTINF:-1,Eleven Sports 3 SD
+http://super1.ideaiptv.com:2052/bandook/3243243/21814
+#EXTINF:-1,Eleven Sports 2 SD
+http://super1.ideaiptv.com:2052/bandook/3243243/21817
+#EXTINF:-1,Eleven Sports 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/21819
+#EXTINF:-1,Eleven Sports 1 SD
+http://super1.ideaiptv.com:2052/bandook/3243243/21820
+#EXTINF:-1,Eleven Sports 2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/21816
+#EXTINF:-1,NATIONAL GEOGRAPHIC LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24700
+#EXTINF:-1,DISNEY CHANNEL LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24698
+#EXTINF:-1,GLOBO LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24697
+#EXTINF:-1,TV RECORD LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24696
+#EXTINF:-1,AXN BLACK LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24695
+#EXTINF:-1,AXN WHITE LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24694
+#EXTINF:-1,AXN LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24693
+#EXTINF:-1,FOX CRIME LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24691
+#EXTINF:-1,FOX LIFE LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24690
+#EXTINF:-1, FOX LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24689
+#EXTINF:-1,TV SERIES LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24688
+#EXTINF:-1,TV CINE 4 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24687
+#EXTINF:-1,TV CINE 3 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24686
+#EXTINF:-1,SYFY LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24681
+#EXTINF:-1,TV CINE 2 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24685
+#EXTINF:-1,CINEMUNDO LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24680
+#EXTINF:-1,CANAL 11 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24678
+#EXTINF:-1,BTV 1 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24677
+#EXTINF:-1,SPORT TV+ LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24676
+#EXTINF:-1,SPORT TV 5 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24675
+#EXTINF:-1,SPORT TV 4 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24674
+#EXTINF:-1,SPORT TV 3 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24673
+#EXTINF:-1,SPORT TV 2 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24672
+#EXTINF:-1,TVI 24 LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24663
+#EXTINF:-1,SIC LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24661
+#EXTINF:-1,CANAL LOW
+http://super1.ideaiptv.com:2052/bandook/3243243/24660
+#EXTINF:-1,MEZZO LIVE HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24659
+#EXTINF:-1,MCM TOP SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24658
+#EXTINF:-1,MTV PORTUGAL HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24656
+#EXTINF:-1,TRACE TOCA SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24655
+#EXTINF:-1,TRACE URBAN SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24654
+#EXTINF:-1,MÚSICA
+http://super1.ideaiptv.com:2052/bandook/3243243/24653
+#EXTINF:-1,BOOMERANG SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24652
+#EXTINF:-1,NICKELODEON SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24651
+#EXTINF:-1,NICK JR SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24650
+#EXTINF:-1,DISNEY CHANNEL SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24649
+#EXTINF:-1,INFANTIL
+http://super1.ideaiptv.com:2052/bandook/3243243/24648
+#EXTINF:-1,EUROCHANNEL SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24647
+#EXTINF:-1,CACAVISION SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24643
+#EXTINF:-1,MOTORVISION HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24642
+#EXTINF:-1,PFC SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24641
+#EXTINF:-1,A BOLA TV SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24640
+#EXTINF:-1,BTV 1 SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24639
+#EXTINF:-1,BTV 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24638
+#EXTINF:-1,BTV 1 FHD
+http://super1.ideaiptv.com:2052/bandook/3243243/24637
+#EXTINF:-1,EUROSPORT 2 SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24636
+#EXTINF:-1,EUROSPORT 1 SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24635
+#EXTINF:-1,EUROSPORT 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24634
+#EXTINF:-1,CNBC EUROPE SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24621
+#EXTINF:-1,DESPORTO
+http://super1.ideaiptv.com:2052/bandook/3243243/24624
+#EXTINF:-1,CANCAO NOVA SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24623
+#EXTINF:-1,CNN SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24622
+#EXTINF:-1,BLOOMBERG SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24620
+#EXTINF:-1,BBC WORLD NEWS HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24619
+#EXTINF:-1,FOX NEWS SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24618
+#EXTINF:-1,TV5 MONDE EUROPE SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24617
+#EXTINF:-1,RECORD NEWS SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24616
+#EXTINF:-1,TV GALICIA SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24615
+#EXTINF:-1,TVE INTERNACIONAL SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24614
+#EXTINF:-1,TPA INTERNACIONAL SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24613
+#EXTINF:-1,GLOBO NOW SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24611
+#EXTINF:-1,INFORMAÇÃO
+http://super1.ideaiptv.com:2052/bandook/3243243/24609
+#EXTINF:-1,FASHION TV HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24608
+#EXTINF:-1,KURIAKOS TV SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24607
+#EXTINF:-1,TLC SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24605
+#EXTINF:-1,DEUTSCHE WELLE SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24604
+#EXTINF:-1,HISTORIA SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24603
+#EXTINF:-1,ODISSEIA SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24602
+#EXTINF:-1,NAT GEO WILD SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24600
+#EXTINF:-1,CULTURA
+http://super1.ideaiptv.com:2052/bandook/3243243/24599
+#EXTINF:-1,TVI REALITY SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24596
+#EXTINF:-1,BBC ENTERTAINMENT SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24595
+#EXTINF:-1,SYFY SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24594
+#EXTINF:-1,E! ENTERTAINMENT SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24591
+#EXTINF:-1,TV SERIES SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24590
+#EXTINF:-1,TV SERIES HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24589
+#EXTINF:-1,FOX LIFE HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24588
+#EXTINF:-1,AXN BLACK HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24587
+#EXTINF:-1,SERIES
+http://super1.ideaiptv.com:2052/bandook/3243243/24585
+#EXTINF:-1,AXN WHITE HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24586
+#EXTINF:-1,CRIME+ INVESTIGATION SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24584
+#EXTINF:-1,CINEMUNDO SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24583
+#EXTINF:-1,FILMES
+http://super1.ideaiptv.com:2052/bandook/3243243/24580
+#EXTINF:-1,TV RECORD HD
+http://super1.ideaiptv.com:2052/bandook/3243243/24579
+#EXTINF:-1,RTP ACORES SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24578
+#EXTINF:-1,RTP MADEIRA SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24577
+#EXTINF:-1,RTP AFRICA SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24576
+#EXTINF:-1,PORTO CANAL SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24575
+#EXTINF:-1,CANAL Q SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24573
+#EXTINF:-1,SIC MULHER SD
+http://super1.ideaiptv.com:2052/bandook/3243243/24572
+#EXTINF:-1,PORTUGAL
+http://super1.ideaiptv.com:2052/bandook/3243243/24567
+#EXTINF:-1,Dog TV
+http://super1.ideaiptv.com:2052/bandook/3243243/27102
+#EXTINF:-1,Food Network
+http://super1.ideaiptv.com:2052/bandook/3243243/27103
+#EXTINF:-1,FIght Box HD
+http://super1.ideaiptv.com:2052/bandook/3243243/27104
+#EXTINF:-1,TV Cine 1 Low
+http://super1.ideaiptv.com:2052/bandook/3243243/28170
+#EXTINF:-1,OS BATANETES (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62792
+#EXTINF:-1,GATO FEDORENTO (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62793
+#EXTINF:-1,INSIDE FORMULA 1 (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62794
+#EXTINF:-1,CINEMA PORTUGAL ( EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62795
+#EXTINF:-1,MAGIC FOR HUMANS (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62796
+#EXTINF:-1,SERTANEJO (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62797
+#EXTINF:-1,NETFLIX KIDS (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62798
+#EXTINF:-1,TALKING TOM CAT AND FRIENDS (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62799
+#EXTINF:-1,BACALHAU COM TODOS (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62800
+#EXTINF:-1,DISNEY + (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62801
+#EXTINF:-1,PORTUGAL TAL E QUAL (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62802
+#EXTINF:-1,BOOM (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62803
+#EXTINF:-1,SLAM (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62804
+#EXTINF:-1,TOMORROWLAND MUSIC (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62805
+#EXTINF:-1,ROBOT MOVIES (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62806
+#EXTINF:-1,FICTION MOVIES (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62807
+#EXTINF:-1,VINGADORES ANIMAÇÃO (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62808
+#EXTINF:-1,FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62809
+#EXTINF:-1,DRAGON BALL SUPER (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62810
+#EXTINF:-1,RICK AND MORTY (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62811
+#EXTINF:-1,OS SIMPSONS (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62812
+#EXTINF:-1,PORTUGAL A RIR (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62813
+#EXTINF:-1,APANHADOS 2 (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62814
+#EXTINF:-1,APANHADOS (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62815
+#EXTINF:-1,OS MALUCOS DO RISO (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62816
+#EXTINF:-1,SÉRIES 24/7 (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62817
+#EXTINF:-1,24/7 STARWARS (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62818
+#EXTINF:-1,FILMES MUSICAIS (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62819
+#EXTINF:-1,FILMES THRILLER/TERROR (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62820
+#EXTINF:-1,TOM CRUISE (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62821
+#EXTINF:-1,JACKIE CHAN ADVENTURES (EXCLUSIVE:
+http://super1.ideaiptv.com:2052/bandook/3243243/62822
+#EXTINF:-1,SYLVESTER STALLONE (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62823
+#EXTINF:-1,FILMES DENZEL WASHINGTON (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62824
+#EXTINF:-1,FILMES COMÉDIA (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62825
+#EXTINF:-1,FILMES WESTERN (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62826
+#EXTINF:-1,FILMES CLÁSSICOS (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62827
+#EXTINF:-1,FILMES ACÇÃO (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62828
+#EXTINF:-1,HBO PORTUGAL (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62829
+#EXTINF:-1,NETFLIX (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62830
+#EXTINF:-1,DC TV (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62831
+#EXTINF:-1,MARVEL II  (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62832
+#EXTINF:-1,MARVEL (exclusive:
+http://super1.ideaiptv.com:2052/bandook/3243243/62833
