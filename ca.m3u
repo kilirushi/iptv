@@ -1,323 +1,1047 @@
 #EXTM3U
-#EXTINF:-1,CBC (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3665
-#EXTINF:-1,CBC Charlottetown (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3666
-#EXTINF:-1,CBC Federicton (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3667
-#EXTINF:-1,CBC Halifax (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3668
-#EXTINF:-1,CBC Ottawa (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3669
-#EXTINF:-1,CBC Toronto (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3671
-#EXTINF:-1,CBC Vancouver (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3672
-#EXTINF:-1,CHCH HD CA
-http://opplex.tv:8080/4567/4567/70518
-#EXTINF:-1,CNN HD
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19538
-#EXTINF:-1,CP24 (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3678
-#EXTINF:-1,CP24 (Backup) (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/53998
-#EXTINF:-1,CPAC HD CA
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19529
+#EXTINF:-1,ABC (West) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118155
+#EXTINF:-1,ABC HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118159
+#EXTINF:-1,ABC Spark HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118160
+#EXTINF:-1,ADDIK TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118163
+#EXTINF:-1,AMC FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118167
+#EXTINF:-1,APTN HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118170
+#EXTINF:-1,BBC CANADA HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118173
+#EXTINF:-1,BBC EARTH HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118174
+#EXTINF:-1,BBC NEWS HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118175
+#EXTINF:-1,BBC WORLD NEWS HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118176
+#EXTINF:-1,beIN Sports HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118177
+#EXTINF:-1,BET HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118179
+#EXTINF:-1,BNN BLOOMBERG HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118180
+#EXTINF:-1,BNN HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118181
+#EXTINF:-1,BOOK TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118182
+#EXTINF:-1,BRAVO HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118183
+#EXTINF:-1,C-PAC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118184
+#EXTINF:-1,C-PAC (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118185
+#EXTINF:-1,CANAL D (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118189
+#EXTINF:-1,CANAL VIE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118194
+#EXTINF:-1,CASA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118196
+#EXTINF:-1,CASA (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118197
+#EXTINF:-1,CBC CALGARY HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118199
+#EXTINF:-1,CBC Central HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118200
+#EXTINF:-1,CBC CHARLOTTETOWN HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118201
+#EXTINF:-1,CBC Eastern HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118202
+#EXTINF:-1,CBC EDMONTON HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118203
+#EXTINF:-1,CBC Federicton
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118204
+#EXTINF:-1,CBC HALIFAX HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118205
+#EXTINF:-1,CBC HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118206
+#EXTINF:-1,CBC Montreal HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118208
+#EXTINF:-1,CBC NEWS HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118209
+#EXTINF:-1,CBC NEWS TORONTO HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118211
+#EXTINF:-1,CBC OTTAWA HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118212
+#EXTINF:-1,CBC REGINA HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118213
+#EXTINF:-1,CBC TORONTO FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118215
+#EXTINF:-1,CBC VANCOUVER HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118216
+#EXTINF:-1,CBC West HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118217
+#EXTINF:-1,CBC WINDSOR HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118218
+#EXTINF:-1,CBC WINNIPEG HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118219
+#EXTINF:-1,CBS HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118221
+#EXTINF:-1,CBS West HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118224
+#EXTINF:-1,CINE POP
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118226
+#EXTINF:-1,CITY MONTREAL
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118229
+#EXTINF:-1,CITY TORONTO HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118230
+#EXTINF:-1,CITY TV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118231
+#EXTINF:-1,Citytv Toronto
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118233
+#EXTINF:-1,CMT HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118234
+#EXTINF:-1,CNBC HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118235
+#EXTINF:-1,CNN INTERNATIONAL HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118237
+#EXTINF:-1,COMEDY HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118239
+#EXTINF:-1,COOKING Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118240
+#EXTINF:-1,Cottage Life FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118241
+#EXTINF:-1,CPAC EN
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118244
 #EXTINF:-1,CRAVE 1 HD
-http://opplex.tv:8080/4567/4567/70535
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118245
+#EXTINF:-1,CRAVE 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118246
 #EXTINF:-1,CRAVE 4 HD
-http://opplex.tv:8080/4567/4567/70538
-#EXTINF:-1,CTV
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1,CTV BARRIE
-http://opplex.tv:8080/4567/4567/70541
-#EXTINF:-1,CTV Calgary
-http://opplex.tv:8080/4567/4567/70542
-#EXTINF:-1,CTV Comedy HD ca
-http://opplex.tv:8080/4567/4567/70543
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118248
+#EXTINF:-1,CTV 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118250
+#EXTINF:-1,CTV 2 VANCOUVER HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118251
+#EXTINF:-1,CTV CALGARY
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118252
+#EXTINF:-1,CTV Central HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118253
+#EXTINF:-1,CTV Comedy East HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118254
+#EXTINF:-1,CTV COMEDY HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118255
 #EXTINF:-1,CTV HALIFAX
-http://opplex.tv:8080/4567/4567/70545
-#EXTINF:-1,CTV KITCHENER HD
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19516
-#EXTINF:-1,CTV TORONTO
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19508
-#EXTINF:-1,CTV VANCOUVER
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19507
-#EXTINF:-1,Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1,Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1,Casa (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3708
-#EXTINF:-1,CinePOP (FR)
-http://opplex.tv:8080/4567/4567/70519
-#EXTINF:-1,CinePOP (FR)
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19543
-#EXTINF:-1,City (1080)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3676
-#EXTINF:-1,Comedy (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3677
-#EXTINF:-1,DISCOVERY HD
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19501
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://opplex.tv:8080/4567/4567/70564
-#EXTINF:-1,DIY NETWORK HD
-http://opplex.tv:8080/4567/4567/70571
-#EXTINF:-1,Discovery Science (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3681
-#EXTINF:-1,Discovery Velocity
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/386023.ts
-#EXTINF:-1,Disney (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3682
-#EXTINF:-1,Disney JR (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3684
-#EXTINF:-1,Disney JR HD CA
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19494
-#EXTINF:-1,Disney La Chaine (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3709
-#EXTINF:-1,E! Entertainment (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3685
-#EXTINF:-1,EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1,EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1,FAMILY
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19487
-#EXTINF:-1,FX (1080)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3688
-#EXTINF:-1,FX FHD CA
-http://opplex.tv:8080/4567/4567/70581
-#EXTINF:-1,FX FHD CA
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19482
-#EXTINF:-1,FXX (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3690
-#EXTINF:-1,FXX CA
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19480
-#EXTINF:-1,Fight Network (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3686
-#EXTINF:-1,Food Network
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19485
-#EXTINF:-1,Frissons TV (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3712
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118258
+#EXTINF:-1,CTV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118259
+#EXTINF:-1,CTV MONTREAL HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118260
+#EXTINF:-1,CTV OTTAWA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118268
+#EXTINF:-1,CTV sci-fi
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118269
+#EXTINF:-1,CTV VANCOUVER HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118275
+#EXTINF:-1,CW FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118279
+#EXTINF:-1,DAYSTAR TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118280
+#EXTINF:-1,DEJAVIEW HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118281
+#EXTINF:-1,Discovery Channel FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118282
+#EXTINF:-1,Discovery Science HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118283
+#EXTINF:-1,Discovery Velocity HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118285
+#EXTINF:-1,Disney (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118286
+#EXTINF:-1,Disney Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118287
+#EXTINF:-1,Disney FRENCH (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118288
+#EXTINF:-1,Disney Junior (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118290
+#EXTINF:-1,Disney La Chaine (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118291
+#EXTINF:-1,Disney La Chaîne
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118292
+#EXTINF:-1,DIY
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118294
+#EXTINF:-1,DOCUMENTARY Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118296
+#EXTINF:-1,DTOUR
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118297
+#EXTINF:-1,E! FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118298
+#EXTINF:-1,EVASION
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118299
+#EXTINF:-1,EVASION (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118300
+#EXTINF:-1,EW ABC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118301
+#EXTINF:-1,EW CBS
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118302
+#EXTINF:-1,ew citytor
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118303
+#EXTINF:-1,EW CP24
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118304
+#EXTINF:-1,EW CPAC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118305
+#EXTINF:-1,ew Disneyca
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118306
+#EXTINF:-1,EW FOODNETWORK
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118307
+#EXTINF:-1,ew fxxca
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118308
+#EXTINF:-1,EW SLICE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118309
+#EXTINF:-1,FAMILY (East) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118310
+#EXTINF:-1,FAMILY Channel
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118311
+#EXTINF:-1,FAMILY CHRGD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118312
+#EXTINF:-1,Family JR HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118313
+#EXTINF:-1,FIGHT NETWORK FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118314
+#EXTINF:-1,Flow Sport 1
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118315
+#EXTINF:-1,Fox 25
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118317
+#EXTINF:-1,FOX FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118318
+#EXTINF:-1,FOX News HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118319
+#EXTINF:-1,FOX SPORTS Racing
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118320
+#EXTINF:-1,FOXNADA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118321
+#EXTINF:-1,FTV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118322
+#EXTINF:-1,FTV CANADA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118323
+#EXTINF:-1,FX FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118324
+#EXTINF:-1,FXX CANADA HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118325
+#EXTINF:-1,FXX HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118326
+#EXTINF:-1,FXX HD (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118327
+#EXTINF:-1,Game Show HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118328
+#EXTINF:-1,GAME SHOW NETWORK FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118329
+#EXTINF:-1,Game TV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118330
+#EXTINF:-1,Game+ HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118331
+#EXTINF:-1,GINX ESPORTS TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118332
+#EXTINF:-1,Global FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118333
+#EXTINF:-1,GLOBAL HALIFAX HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118334
+#EXTINF:-1,Global National
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118335
+#EXTINF:-1,GLOBAL NEWBRUNSWICK
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118336
+#EXTINF:-1,GLOBAL TORONTO HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118338
+#EXTINF:-1,GLOBAL VANCOUVER HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118339
+#EXTINF:-1,GOLF Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118340
+#EXTINF:-1,GSN
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118341
+#EXTINF:-1,GSN (GAME SHOW NETWORK)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118342
 #EXTINF:-1,GUSTO
-http://dragon2020.com:8080/admin_500465/8rSdnAxW/160942
-#EXTINF:-1,Game TV
-http://opplex.tv:8080/4567/4567/70584
-#EXTINF:-1,Global (1080)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3691
-#EXTINF:-1,Global Calgary
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1,Global Edmonton
-http://dragon2020.com:8080/admin_500465/8rSdnAxW/160936
-#EXTINF:-1,Global Edmonton
-http://opplex.tv:8080/4567/4567/70586
-#EXTINF:-1,GurSikh Sabha TV (Scarborough)
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1,HBO 1 (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3692
-#EXTINF:-1,HBO 1 Ca
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19468
-#EXTINF:-1,HBO 2 (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3693
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118343
+#EXTINF:-1,H2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118344
+#EXTINF:-1,HBO 1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118345
+#EXTINF:-1,HBO 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118346
+#EXTINF:-1,HBO HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118347
+#EXTINF:-1,Headline News
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118348
+#EXTINF:-1,HGTV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118349
+#EXTINF:-1,HISTORIA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118350
+#EXTINF:-1,HISTORIO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118351
+#EXTINF:-1,HISTORIO (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118352
+#EXTINF:-1,History (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118353
+#EXTINF:-1,History 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118354
+#EXTINF:-1,HLN FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118355
+#EXTINF:-1,HLNHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118356
+#EXTINF:-1,ICI (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118357
+#EXTINF:-1,ICI ARTV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118358
+#EXTINF:-1,ICI ARTV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118359
 #EXTINF:-1,ICI MONTREAL
-http://dragon2020.com:8080/admin_500465/8rSdnAxW/160805
-#EXTINF:-1,ICI Montreal (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3710
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118360
+#EXTINF:-1,ICI MONTREAL (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118361
+#EXTINF:-1,ICI Radio
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118362
 #EXTINF:-1,ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1,IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1,Lifetime (1080)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3694
-#EXTINF:-1,Love Nature
-http://dragon2020.com:8080/admin_500465/8rSdnAxW/160965
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118363
+#EXTINF:-1,ICI RDI (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118364
+#EXTINF:-1,ICI RDIHD (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118365
+#EXTINF:-1,ICI Tele Est-Quebec
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118366
+#EXTINF:-1,ICI Tele Quebec
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118367
+#EXTINF:-1,ICI TELEVISION HD (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118368
+#EXTINF:-1,ICI VANCOUVER
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118369
+#EXTINF:-1,ICI VANCOUVER (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118370
+#EXTINF:-1,iConcert TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118371
+#EXTINF:-1,Investigation Discovery HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118372
+#EXTINF:-1,KNOWLEDGE KIDS HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118373
+#EXTINF:-1,KTLA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118374
+#EXTINF:-1,La chaÃ®ne Disney (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118375
+#EXTINF:-1,LCN (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118376
+#EXTINF:-1,Lifetime FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118377
+#EXTINF:-1,LIFETIME MOVIE NETWORK HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118378
+#EXTINF:-1,LOVE NATURE HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118379
+#EXTINF:-1,Makeful
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118380
+#EXTINF:-1,MAV TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118381
+#EXTINF:-1,MAX
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118382
+#EXTINF:-1,MAX (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118383
 #EXTINF:-1,MEDIASET ITALIA
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19444
-#EXTINF:-1,MOI et CIE (FR)
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19441
-#EXTINF:-1,MOI et CIE (FR)
-http://opplex.tv:8080/4567/4567/70622
-#EXTINF:-1,MTV
-http://opplex.tv:8080/4567/4567/70626
-#EXTINF:-1,MakeFul
-http://dragon2020.com:8080/admin_500465/8rSdnAxW/160966
-#EXTINF:-1,Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1,NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1,NTV News (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3696
-#EXTINF:-1,National Geographic (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3695
-#EXTINF:-1,Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Peachtree (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3697
-#EXTINF:-1,Peachtree HD CA
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19420
-#EXTINF:-1,Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1,Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1,QVTV
-https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1,RDI (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3711
-#EXTINF:-1,RED Carpet TV (1080)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3689
-#EXTINF:-1,Rogers TV Barrie
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19411
-#EXTINF:-1,Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1,Sports Net 360 FHD
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19402
-#EXTINF:-1,Sports Net 360 FHD
-http://opplex.tv:8080/4567/4567/70661
-#EXTINF:-1,Sports Net World HD
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19396
-#EXTINF:-1,Super Ecran (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/60371
-#EXTINF:-1,Super Ecran 4 (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3718
-#EXTINF:-1,TLC (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3700
-#EXTINF:-1,TLC HD CA
-http://opplex.tv:8080/4567/4567/70684
-#EXTINF:-1,TMN 2 HD Ca
-http://opplex.tv:8080/4567/4567/70686
-#EXTINF:-1,TRAVEL ESCAPE
-http://opplex.tv:8080/4567/4567/70687
-#EXTINF:-1,TSN 4 (1080)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3705
-#EXTINF:-1,TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1,TVO
-http://opplex.tv:8080/4567/4567/70702
-#EXTINF:-1,TVO HD
-http://opplex.tv:8080/4567/4567/70703
-#EXTINF:-1,Tamil Vision International, Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1,Tele (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3722
-#EXTINF:-1,Tele Quebec (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3717
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118384
+#EXTINF:-1,METEO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118385
+#EXTINF:-1,METEO (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118386
+#EXTINF:-1,Meteo Media (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118387
+#EXTINF:-1,Metro Media (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118388
+#EXTINF:-1,MIRACLE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118389
+#EXTINF:-1,MLB Network HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118390
+#EXTINF:-1,MLB TV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118391
+#EXTINF:-1,MOI & CIE (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118392
+#EXTINF:-1,MOI CIE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118393
+#EXTINF:-1,MOVIE CENTRAL
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118394
+#EXTINF:-1,MSNBC HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118396
+#EXTINF:-1,MTIME
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118397
+#EXTINF:-1,MTV 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118398
+#EXTINF:-1,MUCH HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118400
+#EXTINF:-1,Much Music HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118401
+#EXTINF:-1,MUSIC PLUS (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118402
+#EXTINF:-1,MUSIQUE PLUS (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118403
+#EXTINF:-1,NAT GEO HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118404
+#EXTINF:-1,NAT GEO Wild HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118405
+#EXTINF:-1,NAT nal Savoir (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118406
+#EXTINF:-1,NBA TV FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118407
+#EXTINF:-1,NBC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118408
+#EXTINF:-1,NBC BUFFALO NY WGRZ
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118409
+#EXTINF:-1,NBC East
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118410
+#EXTINF:-1,NBC SEATTLE WA KING
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118411
+#EXTINF:-1,NBC WEST
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118412
+#EXTINF:-1,NFL NETWORK HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118413
+#EXTINF:-1,NFL NETWORKHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118414
+#EXTINF:-1,NHL Network HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118415
+#EXTINF:-1,nickelodeon HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118416
+#EXTINF:-1,NICKTOONS HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118417
+#EXTINF:-1,NTV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118418
+#EXTINF:-1,NTV News HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118419
+#EXTINF:-1,OMNI 1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118421
+#EXTINF:-1,OMNI 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118422
+#EXTINF:-1,ONE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118423
+#EXTINF:-1,OWN HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118424
+#EXTINF:-1,PARAMOUNT
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118425
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118426
+#EXTINF:-1,PBS Buffalo
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118427
+#EXTINF:-1,PBS Buffalo (WNED) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118428
+#EXTINF:-1,PBS BUFFALO TORONTO WNED
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118429
+#EXTINF:-1,PBS EAST HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118430
+#EXTINF:-1,PBS HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118431
+#EXTINF:-1,PBS WEST HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118432
+#EXTINF:-1,PRISE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118434
+#EXTINF:-1,PRISE (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118435
+#EXTINF:-1,Prise 2 (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118436
+#EXTINF:-1,RDI
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118437
+#EXTINF:-1,RDI (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118438
+#EXTINF:-1,RDS
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118439
+#EXTINF:-1,RDS (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118440
+#EXTINF:-1,RDS 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118441
+#EXTINF:-1,RDS 2 (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118442
+#EXTINF:-1,RDS INFO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118443
+#EXTINF:-1,RDS INFO (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118444
+#EXTINF:-1,RDS2 TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118445
+#EXTINF:-1,Rogers TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118446
+#EXTINF:-1,Series Plus
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118447
+#EXTINF:-1,Series Plus (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118448
+#EXTINF:-1,Series+ (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118449
+#EXTINF:-1,SERIS
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118450
+#EXTINF:-1,SERIS (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118451
+#EXTINF:-1,Seris +
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118452
+#EXTINF:-1,SHOPPING
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118453
+#EXTINF:-1,SHOWCASE EAST
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118454
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118456
+#EXTINF:-1,Slice HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118457
+#EXTINF:-1,SMITHSONIAN Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118458
+#EXTINF:-1,SPACE HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118459
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118460
+#EXTINF:-1,Spike TV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118462
+#EXTINF:-1,SPIKE TV PARAMOUNTNADA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118463
+#EXTINF:-1,Sportnet Ontario HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118464
+#EXTINF:-1,Sportnet Pacific HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118465
+#EXTINF:-1,Sports Net One
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118466
+#EXTINF:-1,Sports NET West HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118467
+#EXTINF:-1,Sports Net World
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118468
+#EXTINF:-1,SPORTSMAN Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118469
+#EXTINF:-1,SportsNet 1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118470
+#EXTINF:-1,SportsNet 360 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118471
+#EXTINF:-1,SportsNet Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118472
+#EXTINF:-1,SportsNet East HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118473
+#EXTINF:-1,SportsNet Eeast
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118474
+#EXTINF:-1,SportsNet New York HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118475
+#EXTINF:-1,SportsNet Ontario FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118476
+#EXTINF:-1,SportsNet Pacific FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118477
+#EXTINF:-1,SportsNet West FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118478
+#EXTINF:-1,SportsNet World HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118479
+#EXTINF:-1,Starz 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118480
+#EXTINF:-1,Stingray iconcerts FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118481
+#EXTINF:-1,SUPER Channel 1
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118482
+#EXTINF:-1,SUPER Channel 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118483
+#EXTINF:-1,SUPER Channel 4
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118484
+#EXTINF:-1,SUPER Channel h&h
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118485
+#EXTINF:-1,SUPER Channel HEART & HOME
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118486
+#EXTINF:-1,SUPER Channel VAULT
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118487
+#EXTINF:-1,SUPER ECRAN 1
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118488
+#EXTINF:-1,SUPER ECRAN 1 (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118489
+#EXTINF:-1,SUPER ECRAN 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118490
+#EXTINF:-1,SUPER ECRAN 2 (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118491
+#EXTINF:-1,SUPER ECRAN 3
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118492
+#EXTINF:-1,Super Ecran 3 (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118493
+#EXTINF:-1,SUPER ECRAN 4
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118494
+#EXTINF:-1,Super Ecran 4 (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118495
+#EXTINF:-1,SUPER SPORTS CH 267
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118496
+#EXTINF:-1,SUPER SPORTS CH 433
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118497
+#EXTINF:-1,SUPER SPORTS CH 435
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118498
+#EXTINF:-1,SUPER SPORTS CH 436
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118499
+#EXTINF:-1,SUPER SPORTS CH 438
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118500
+#EXTINF:-1,SUPER SPORTS CH 439
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118501
+#EXTINF:-1,SUPER SPORTS CH 441
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118502
+#EXTINF:-1,SUPER SPORTS CH 443
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118503
+#EXTINF:-1,SUPER SPORTS CH 450
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118504
+#EXTINF:-1,SUPER SPORTS CH 461
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118505
+#EXTINF:-1,SUPER SPORTS CH 462
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118506
+#EXTINF:-1,SUPER SPORTS CH 476
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118507
+#EXTINF:-1,SUPER SPORTS CH 479
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118508
+#EXTINF:-1,SUPER SPORTS CH 480
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118509
+#EXTINF:-1,SUPER SPORTS CH 482
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118510
+#EXTINF:-1,SUPER SPORTS CH 483
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118511
+#EXTINF:-1,TCM HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118512
+#EXTINF:-1,TCTV2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118513
+#EXTINF:-1,TELE LATINO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118514
+#EXTINF:-1,TELE QUEBEC (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118515
+#EXTINF:-1,TELE TOON WEST
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118516
+#EXTINF:-1,Tele-Quebec
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118517
+#EXTINF:-1,TELEMAGINO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118518
+#EXTINF:-1,TELEMAGINO (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118519
 #EXTINF:-1,Teletoon (FR)
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19384
-#EXTINF:-1,Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1,VISION TV Ca
-http://opplex.tv:8080/4567/4567/70705
-#EXTINF:-1,WEATHER NETWORK SD
-http://opplex.tv:8080/4567/4567/70708
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118520
+#EXTINF:-1,Teletoon East
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118521
+#EXTINF:-1,TELETOON HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118522
+#EXTINF:-1,Teletoon Quebec (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118523
+#EXTINF:-1,TFO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118524
+#EXTINF:-1,TFO (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118525
+#EXTINF:-1,THE SHOPPING Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118526
+#EXTINF:-1,THE WEATHER NETWORK
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118527
+#EXTINF:-1,TLC HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118528
+#EXTINF:-1,TMN 1 (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118530
+#EXTINF:-1,TMN 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118531
+#EXTINF:-1,Travel + Escape
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118533
+#EXTINF:-1,Travel ESCAPE HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118535
+#EXTINF:-1,Travel ESCAPEHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118536
+#EXTINF:-1,TREEHOUSE HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118537
+#EXTINF:-1,TSC HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118538
+#EXTINF:-1,TSN 2 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118540
+#EXTINF:-1,TSN 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118541
+#EXTINF:-1,TSN 3 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118543
+#EXTINF:-1,TSN 4 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118544
+#EXTINF:-1,TSN 4 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118545
+#EXTINF:-1,TSN 5 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118546
+#EXTINF:-1,TSN 5 FHD (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118547
+#EXTINF:-1,TSN 5 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118548
+#EXTINF:-1,TSN Sport 1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118549
+#EXTINF:-1,TSN Sport 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118550
+#EXTINF:-1,TSN Sport 3 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118551
+#EXTINF:-1,TSN Sport 4 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118552
+#EXTINF:-1,TSN Sport 5 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118553
+#EXTINF:-1,TSNET 360
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118554
+#EXTINF:-1,TSNET One
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118555
+#EXTINF:-1,TSNET Pacific HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118556
+#EXTINF:-1,TURNER CLASSIC Movies
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118557
+#EXTINF:-1,TV Ontario
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118558
+#EXTINF:-1,TV Rogers
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118559
+#EXTINF:-1,TV5 (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118560
+#EXTINF:-1,TV5 QUEBEC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118561
+#EXTINF:-1,TV5 Quebec (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118562
+#EXTINF:-1,TVA GATINEAU (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118563
+#EXTINF:-1,TVA MONTREAL
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118564
+#EXTINF:-1,TVA Montreal (CFTM)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118565
+#EXTINF:-1,TVA MONTREAL (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118566
+#EXTINF:-1,TVA Quebec
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118567
+#EXTINF:-1,TVA SPORTS (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118568
+#EXTINF:-1,TVA SPORTS 1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118569
+#EXTINF:-1,TVA Sports 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118570
+#EXTINF:-1,TVA SPORTS HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118571
+#EXTINF:-1,TVO HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118572
+#EXTINF:-1,Unis TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118573
+#EXTINF:-1,Unis TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118574
+#EXTINF:-1,V Montreal
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118575
+#EXTINF:-1,V MONTREAL (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118576
+#EXTINF:-1,VIE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118577
+#EXTINF:-1,VIE (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118578
+#EXTINF:-1,VISION TV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118579
+#EXTINF:-1,VRAK TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118580
+#EXTINF:-1,VRAK TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118581
+#EXTINF:-1,W
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118582
+#EXTINF:-1,W Network HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118583
+#EXTINF:-1,WEATHER NETWORK HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118584
 #EXTINF:-1,WFN
-http://opplex.tv:8080/4567/4567/70709
-#EXTINF:-1,ZESTE QC
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/19347
-#EXTINF:-1,ZESTE QC
-http://opplex.tv:8080/4567/4567/70716
-#EXTINF:-1,Zeste (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dNQUbok.png" group-title="",Assemblee Nationale du Quebec
-http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
-http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CBC News Network
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="",CPAC
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="" group-title="",Eawaz TV (CA)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/HRqcIcR.png" group-title="",EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",EWTN Canada
-https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
-https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/1VlArCc.png" group-title="Music",GEM Arabia
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="",Global British Columbia
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="",Global Calgary
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7R10c5i.png" group-title="",Global Edmonton
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="",Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="",Global Toronto
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV (Scarborough)
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="",Legislative Assembly of Ontario
-https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="",NTV
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="",NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ONE STUDIO
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",PRIME CANADA TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV
-https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="",Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
-https://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="",TAG TV
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="",Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="",The Shopping Channel
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/oRigj9q.jpg" group-title="",Télé Culturelle Médias
-https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="",VBS
-https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/chunklist.m3u8
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118585
+#EXTINF:-1,WGN
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118586
+#EXTINF:-1,WGN (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118587
+#EXTINF:-1,Wild TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118588
+#EXTINF:-1,WORLD FISHING NET HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118589
+#EXTINF:-1,World Fishing Network (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118590
+#EXTINF:-1,World Fishing TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118591
+#EXTINF:-1,WWE FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118592
+#EXTINF:-1,YES HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118593
+#EXTINF:-1,YES TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118594
+#EXTINF:-1,YES TV (Ontario)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118595
+#EXTINF:-1,YOOPA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118596
+#EXTINF:-1,YOOPA (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118597
+#EXTINF:-1,YTV East
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118598
+#EXTINF:-1,YTV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118599
+#EXTINF:-1,YTV West
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118600
+#EXTINF:-1,Z TELE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118601
+#EXTINF:-1,Z TELE (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118602
+#EXTINF:-1,ZESTE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118603
+#EXTINF:-1,ZESTE (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118604
+#EXTINF:-1,AMI-tele (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155398
+#EXTINF:-1,Assemblée nationale du Québec
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155399
+#EXTINF:-1,beIN Sports Canada HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155400
+#EXTINF:-1,beIN Sports LaLiga HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155401
+#EXTINF:-1,BET
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155402
+#EXTINF:-1,BOOMERANG HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155403
+#EXTINF:-1,CANAL VIE (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155404
+#EXTINF:-1,CBC Oshawa
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155405
+#EXTINF:-1,CBC Oshawa (CHEX2)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155406
+#EXTINF:-1,CBC St. Johns (CBNT)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155407
+#EXTINF:-1,CBC TV ONTARIO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155408
+#EXTINF:-1,CBS BOSTON MA WBZ
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155409
+#EXTINF:-1,CBS EAST
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155410
+#EXTINF:-1,CITY CALGARY HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155411
+#EXTINF:-1,CITY VANCOUVER HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155412
+#EXTINF:-1,CMT CANADA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155413
+#EXTINF:-1,CNBC Canada
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155414
+#EXTINF:-1,CNBC WORLD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155415
+#EXTINF:-1,COMEDY CENTRAL
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155416
+#EXTINF:-1,CPAC English
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155417
+#EXTINF:-1,CTV Comdey HD (East)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155418
+#EXTINF:-1,CTV KITCHNER
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155419
+#EXTINF:-1,CW 11 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155420
+#EXTINF:-1,EMCI TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155421
+#EXTINF:-1,ENCORE 1 EAST
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155422
+#EXTINF:-1,ENCORE 2 EAST
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155423
+#EXTINF:-1,FAMILY
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155424
+#EXTINF:-1,FYI
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155425
+#EXTINF:-1,GLOBAL BC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155426
+#EXTINF:-1,GLOBAL EDMONTON
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155427
+#EXTINF:-1,Gospel Tv Canada
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155428
+#EXTINF:-1,H2 CANADA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155429
+#EXTINF:-1,HOPE TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155430
+#EXTINF:-1,ICE RDI
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155431
+#EXTINF:-1,Ici TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155432
+#EXTINF:-1,ICI Télévision
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155433
+#EXTINF:-1,IFC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155434
+#EXTINF:-1,Lachaîne Disney (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155435
+#EXTINF:-1,MOTOR TREND
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155436
+#EXTINF:-1,MTV LIVE HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155437
+#EXTINF:-1,MuchMusicHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155438
+#EXTINF:-1,MUSIQUE PLUS
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155439
+#EXTINF:-1,NBA TV Canada
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155440
+#EXTINF:-1,NTV News HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155441
+#EXTINF:-1,OMNI East
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155442
+#EXTINF:-1,PARAMOUNT
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155443
+#EXTINF:-1,PBS KIDS
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155444
+#EXTINF:-1,Prime Asia TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155445
+#EXTINF:-1,RDI
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155446
+#EXTINF:-1,RDS 2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155447
+#EXTINF:-1,RDS INFO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155448
+#EXTINF:-1,RDS2
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155449
+#EXTINF:-1,RDSINFO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155450
+#EXTINF:-1,Salt & Light TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155451
+#EXTINF:-1,SPIKE TV / PARAMOUNT HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155452
+#EXTINF:-1,Sports Net 360
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155453
+#EXTINF:-1,SportsNet NY
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155454
+#EXTINF:-1,SportsNet PPV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155455
+#EXTINF:-1,Starz 1
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155456
+#EXTINF:-1,SUPER SPORTS CH 422
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155457
+#EXTINF:-1,SUPER SPORTS CH 434
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155458
+#EXTINF:-1,SUPER SPORTS CH 437
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155459
+#EXTINF:-1,SUPER SPORTS CH 440
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155460
+#EXTINF:-1,SUPER SPORTS CH 444
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155461
+#EXTINF:-1,SUPER SPORTS CH 464
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155462
+#EXTINF:-1,SUPER SPORTS CH 465
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155463
+#EXTINF:-1,SUPER SPORTS CH 472
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155464
+#EXTINF:-1,SUPER SPORTS CH 477
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155465
+#EXTINF:-1,SUPER SPORTS CH 478
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155466
+#EXTINF:-1,SUPER SPORTS CH 484
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155467
+#EXTINF:-1,Tamil Vision
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155468
+#EXTINF:-1,TELE V
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155469
+#EXTINF:-1,Teletoon (EAST) HD (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155470
+#EXTINF:-1,THE WEATHER Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155471
+#EXTINF:-1,TLC CANADA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155472
+#EXTINF:-1,TV Francophonie
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155473
+#EXTINF:-1,TV5 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155474
+#EXTINF:-1,TVA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155475
+#EXTINF:-1,W Network HD (East)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/155476
+#EXTINF:-1,CTV News Channel HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/156224
+#EXTINF:-1,CTV2 OTTAWA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/156225
+#EXTINF:-1,DIY Network FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/156226
+#EXTINF:-1,GLOBAL TORONTO (CIII) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/156227
+#EXTINF:-1,TSN 3 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/156228
+#EXTINF:-1,ABC East HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162723
+#EXTINF:-1,BBC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162724
+#EXTINF:-1,CITY NEWS
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162725
+#EXTINF:-1,Disney Junior HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162727
+#EXTINF:-1,EMCI TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162728
+#EXTINF:-1,FOOD NETWORK FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162729
+#EXTINF:-1,Francophonie 24 TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162730
+#EXTINF:-1,FTV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162731
+#EXTINF:-1,HISTORIO (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162732
+#EXTINF:-1,Metro Media (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162733
+#EXTINF:-1,Montreal Greek TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162734
+#EXTINF:-1,OLN HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162735
+#EXTINF:-1,TSN 1 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/162737
+#EXTINF:-1,ABC BOSTON (WCVB)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176096
+#EXTINF:-1,ACTION
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176097
+#EXTINF:-1,ASSEMBLEE NATIONALE QUEBEC
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176098
+#EXTINF:-1,CBS 4 (BOSTON) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176099
+#EXTINF:-1,CBS 4 (Buffalo) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176100
+#EXTINF:-1,CORONA VIRUS INFO
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176101
+#EXTINF:-1,CPAC FRENCH
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176102
+#EXTINF:-1,CTV ATLANTIC (ATV MONCTON) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176103
+#EXTINF:-1,CTV DRAMA Channel
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176104
+#EXTINF:-1,CTV EASTERN HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176105
+#EXTINF:-1,CTV KITCHENER
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176106
+#EXTINF:-1,Discovery VELOCITY (MOTORTREND)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176107
+#EXTINF:-1,Disney FRENCH
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176108
+#EXTINF:-1,EWTN TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176109
+#EXTINF:-1,Family Channel (West)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176110
+#EXTINF:-1,FAMILY CHARGD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176111
+#EXTINF:-1,FOXNADA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176112
+#EXTINF:-1,FRISSON
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176113
+#EXTINF:-1,FT
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176114
+#EXTINF:-1,GLOBAL NEWS (BC) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176115
+#EXTINF:-1,Iipc TV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176116
+#EXTINF:-1,LCN
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176117
+#EXTINF:-1,MEDIASET ITALIA
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176118
+#EXTINF:-1,Meteo Media
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176119
+#EXTINF:-1,MOI & CIE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176120
+#EXTINF:-1,MOVIETIME HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176121
+#EXTINF:-1,MTV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176122
+#EXTINF:-1,MY 43 (Cleveland)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176123
+#EXTINF:-1,NTV St Johns HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176124
+#EXTINF:-1,OUTTV
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176125
+#EXTINF:-1,SportsNet (SOUTHWEST)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176126
+#EXTINF:-1,SportsNet Ontario (Premier League)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176127
+#EXTINF:-1,SUPER Channel FUSE
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176128
+#EXTINF:-1,SUPER SPORTS CH 432
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176129
+#EXTINF:-1,SUPER SPORTS CH 442
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176130
+#EXTINF:-1,SUPER SPORTS CH 481
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176131
+#EXTINF:-1,SYFY HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176132
+#EXTINF:-1,TELE TOON FRENCH
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176133
+#EXTINF:-1,Teletoon Quebec
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176134
+#EXTINF:-1,THE SHOPPING NETWORK
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176135
+#EXTINF:-1,TMN 1
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176136
+#EXTINF:-1,TMN 2E (CRAVE TV 2) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176137
+#EXTINF:-1,TMN 3E (CRAVE TV 3) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176138
+#EXTINF:-1,TMN CRAVE 1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176139
+#EXTINF:-1,TMN4E (CRAVE TV 4) HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176140
+#EXTINF:-1,Toronto 360 TV (FR)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176141
+#EXTINF:-1,TVA Gatineau
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176142
+#EXTINF:-1,WEATHER NETWORK (TORONTO)
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176143
