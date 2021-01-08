@@ -1,360 +1,242 @@
 #EXTM3U
-#EXTINF:-1,TF1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12857
-#EXTINF:-1,TF1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5610
-#EXTINF:-1,TF +1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678943
-#EXTINF:-1,France 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5669
-#EXTINF:-1,France 3 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12858
-#EXTINF:-1,France 3 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5668
-#EXTINF:-1,France 4 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5667
-#EXTINF:-1,France 5 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5666
-#EXTINF:-1,France O HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5664
-#EXTINF:-1,M6 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5653
-#EXTINF:-1,M6 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683182
-#EXTINF:-1,6Ter FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13004
-#EXTINF:-1,C8 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13006
-#EXTINF:-1,Cherie 25 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5693
-#EXTINF:-1,TV 5 Monde FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5604
-#EXTINF:-1,TV 5 Monde
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8631
-#EXTINF:-1,RTS Un HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5619
-#EXTINF:-1,RTS Deux
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5618
-#EXTINF:-1,Elle Girl FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12856
-#EXTINF:-1,6Ter HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5716
-#EXTINF:-1,Alsace 20
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12941
-#EXTINF:-1,C8 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5703
-#EXTINF:-1,LCP
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5655
-#EXTINF:-1,La Une HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5657
-#EXTINF:-1,RTL9 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7945
-#EXTINF:-1,Teva FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13002
-#EXTINF:-1,Téva HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12949
-#EXTINF:-1,Teva
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5611
-#EXTINF:-1,Vosges Télévision HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12932
-#EXTINF:-1,OL TV HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16900
-#EXTINF:-1,OLTV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5633
-#EXTINF:-1,Weo HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5600
-#EXTINF:-1,RTL 9 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5620
-#EXTINF:-1,TFX FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50868
-#EXTINF:-1,------- Sports -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678947
-#EXTINF:-1,RMC Sport News HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624939
-#EXTINF:-1,RMC Sport 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625254
-#EXTINF:-1,RMC Sport 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/86352
-#EXTINF:-1,RMC Sport 3 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625250
-#EXTINF:-1,RMC Sport 4 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625253
-#EXTINF:-1,RMC Story HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5638
-#EXTINF:-1,beIN Sports 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5710
-#EXTINF:-1,beIN Sports 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12961
-#EXTINF:-1,beIN Sports 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12958
-#EXTINF:-1,beIN Sports 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5709
-#EXTINF:-1,beIN Sports 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12959
-#EXTINF:-1,beIN Sports 3 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5708
-#EXTINF:-1,beIN Sports 3 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12957
-#EXTINF:-1,beIN Sports 4 Max
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8562
-#EXTINF:-1,beIN Sports 6 Max
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8538
-#EXTINF:-1,beIN Sports 7 Max
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8537
-#EXTINF:-1,beIN Sports 8 Max HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12956
-#EXTINF:-1,beIN Sports 9 Max HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12954
-#EXTINF:-1,beIN Sports 10 Max FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12953
-#EXTINF:-1,Eurosport 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5672
-#EXTINF:-1,Eurosport 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682922
-#EXTINF:-1,Eurosport 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5671
-#EXTINF:-1,Eurosport 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12951
-#EXTINF:-1,BFM Sport
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8560
-#EXTINF:-1,Equidia Life HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12950
-#EXTINF:-1,Equidia Live FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5675
-#EXTINF:-1,Equipe HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5676
-#EXTINF:-1,Equipe 21 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5674
-#EXTINF:-1,Foot+ 24
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5670
-#EXTINF:-1,InfoSport+ FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16915
-#EXTINF:-1,InfoSport+ HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12952
-#EXTINF:-1,InfoSport+
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5660
-#EXTINF:-1,Golf Channel FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16918
-#EXTINF:-1,Golf+ FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12948
-#EXTINF:-1,------- News -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678951
-#EXTINF:-1,France 24 News
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8630
-#EXTINF:-1,France 24 English
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8559
-#EXTINF:-1,France 24 English [B]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5665
-#EXTINF:-1,France Info HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12971
-#EXTINF:-1,RTance HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/648935
-#EXTINF:-1,Euronews HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5673
-#EXTINF:-1,Cnews HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16924
-#EXTINF:-1,i24News
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12931
-#EXTINF:-1,BFM Business
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5707
-#EXTINF:-1,BFM TV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5706
-#EXTINF:-1,LCi HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5656
-#EXTINF:-1,------- Entertainment -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678952
-#EXTINF:-1,E! Entertainment FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5678
-#EXTINF:-1,Non Stop People FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16901
-#EXTINF:-1,My Zen TV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676715
-#EXTINF:-1,Game One FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16919
-#EXTINF:-1,Game One
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5663
-#EXTINF:-1,Gong FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8558
-#EXTINF:-1,Trek FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13005
-#EXTINF:-1,Trek
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5608
-#EXTINF:-1,Gulli
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8615
-#EXTINF:-1,NT1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5639
-#EXTINF:-1,------- Documentary -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678946
-#EXTINF:-1,Discovery FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12997
-#EXTINF:-1,Discovery HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5683
-#EXTINF:-1,Discovery Investigation FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9034
-#EXTINF:-1,Discovery Science FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5682
-#EXTINF:-1,Discovery Family FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16921
-#EXTINF:-1,National Geographic FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12999
-#EXTINF:-1,National Geographic HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5644
-#EXTINF:-1,National Geographic
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8632
-#EXTINF:-1,Nat Geo Wild FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16906
-#EXTINF:-1,Nat Geo Wild HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5645
-#EXTINF:-1,Toute l'Histoire FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13000
-#EXTINF:-1,RMC Decouverte FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5621
-#EXTINF:-1,Planete A&E HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8563
-#EXTINF:-1,Planete+ FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5624
-#EXTINF:-1,Planete+
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8572
-#EXTINF:-1,Arte FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12862
-#EXTINF:-1,Arte HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5711
-#EXTINF:-1,Luxe TV HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16913
-#EXTINF:-1,Luxe TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12861
-#EXTINF:-1,Animaux
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5712
-#EXTINF:-1,Histoire FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16916
-#EXTINF:-1,Histoire
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8570
-#EXTINF:-1,Toute L Historie
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5606
-#EXTINF:-1,Science et Vie FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16894
-#EXTINF:-1,Science et Vie HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5615
-#EXTINF:-1,Seasons FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16893
-#EXTINF:-1,Ushuaia TV HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5603
-#EXTINF:-1,Voyage FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16883
-#EXTINF:-1,Planete+ CI FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5622
-#EXTINF:-1,Planete A&E FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12998
-#EXTINF:-1,Chasse E Peche HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5694
-#EXTINF:-1,Planète+ Crime Investigation FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12942
-#EXTINF:-1,KTO
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5659
-#EXTINF:-1,My Cuisine FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16908
-#EXTINF:-1,Seasons HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5617
-#EXTINF:-1,Voyage TV HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5602
-#EXTINF:-1,------- Children -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678948
-#EXTINF:-1,Boing HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5705
-#EXTINF:-1,Boomerang HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5704
-#EXTINF:-1,Gulli FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16917
-#EXTINF:-1,Cartoon Network FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12943
-#EXTINF:-1,Cartoon Network
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5695
-#EXTINF:-1,Disney Channel FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5681
-#EXTINF:-1,Disney Channel +1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12947
-#EXTINF:-1,Disney Cinema FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12946
-#EXTINF:-1,Disney Cinema HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8617
-#EXTINF:-1,Disney Junior FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5679
-#EXTINF:-1,Disney Junior HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12945
-#EXTINF:-1,Disney XD FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16920
-#EXTINF:-1,Disney XD HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8614
-#EXTINF:-1,Mangas HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625363
-#EXTINF:-1,Nickelodeon HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5643
-#EXTINF:-1,Nickelodeon +1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16904
-#EXTINF:-1,Nickelodeon 4 Teen FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16903
-#EXTINF:-1,Nickelodeon FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16902
-#EXTINF:-1,Nickelodeon Junior
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5642
-#EXTINF:-1,Piwi HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5625
-#EXTINF:-1,Piwi+ FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12944
-#EXTINF:-1,Tiji HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5609
-#EXTINF:-1,Toonami FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16890
-#EXTINF:-1,TeleToon+ FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16891
-#EXTINF:-1,TeleToon+
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5612
-#EXTINF:-1,Mangas
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8616
-#EXTINF:-1,J-One HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625364
-#EXTINF:-1,------- Music -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678949
-#EXTINF:-1,MTV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7942
-#EXTINF:-1,MTV Music HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12965
-#EXTINF:-1,MTV Hits FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8568
-#EXTINF:-1,MTV Hits
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16910
-#EXTINF:-1,BBlack Africa
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14275
-#EXTINF:-1,M6 Music HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5654
-#EXTINF:-1,Bet HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7941
-#EXTINF:-1,Clubbing TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12939
-#EXTINF:-1,CStar FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5686
-#EXTINF:-1,NRJ Hits HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5640
-#EXTINF:-1,MCM Top FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16911
-#EXTINF:-1,Trace Africa FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16889
-#EXTINF:-1,Trace Tropical FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16887
-#EXTINF:-1,Trace Urban FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16886
-#EXTINF:-1,Trace Urban HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12963
-#EXTINF:-1,Rouge TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/643095
-#EXTINF:-1,Brava FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7940
-#EXTINF:-1,Mezzo Live FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5652
-#EXTINF:-1,W9 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5601
-#EXTINF:-1,Djazz TV FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7939
+#EXTINF:-1,FR 6Ter
+http://ky-iptv.com:25461/powerful/powerful/182257
+#EXTINF:-1,FR ARTE
+http://ky-iptv.com:25461/powerful/powerful/182258
+#EXTINF:-1,FR FRANCE 2
+http://ky-iptv.com:25461/powerful/powerful/182269
+#EXTINF:-1,FR FRANCE 3
+http://ky-iptv.com:25461/powerful/powerful/182271
+#EXTINF:-1,FR FRANCE 4
+http://ky-iptv.com:25461/powerful/powerful/182273
+#EXTINF:-1,FR FRANCE 5
+http://ky-iptv.com:25461/powerful/powerful/182275
+#EXTINF:-1,FR FRANCE INFO HD
+http://ky-iptv.com:25461/powerful/powerful/182276
+#EXTINF:-1,FR FRANCE O
+http://ky-iptv.com:25461/powerful/powerful/182277
+#EXTINF:-1,FR FRANCE.24
+http://ky-iptv.com:25461/powerful/powerful/182280
+#EXTINF:-1,FR M6
+http://ky-iptv.com:25461/powerful/powerful/182288
+#EXTINF:-1,FR NRJ12
+http://ky-iptv.com:25461/powerful/powerful/182291
+#EXTINF:-1,FR TF1
+http://ky-iptv.com:25461/powerful/powerful/182293
+#EXTINF:-1,FR TF1 +1
+http://ky-iptv.com:25461/powerful/powerful/182294
+#EXTINF:-1,FR TF1 Series Films
+http://ky-iptv.com:25461/powerful/powerful/182299
+#EXTINF:-1,FR TV5 MONDE HD
+http://ky-iptv.com:25461/powerful/powerful/182302
+#EXTINF:-1,FR W9
+http://ky-iptv.com:25461/powerful/powerful/182305
+#EXTINF:-1,FR BFM HD
+http://ky-iptv.com:25461/powerful/powerful/182307
+#EXTINF:-1,FR EURONEWS HD
+http://ky-iptv.com:25461/powerful/powerful/182311
+#EXTINF:-1,FR LCI HD
+http://ky-iptv.com:25461/powerful/powerful/182313
+#EXTINF:-1,FR LCP HD
+http://ky-iptv.com:25461/powerful/powerful/182315
+#EXTINF:-1,FR beIN SPORTS 1
+http://ky-iptv.com:25461/powerful/powerful/182316
+#EXTINF:-1,FR beIN SPORTS 2 FHD
+http://ky-iptv.com:25461/powerful/powerful/182319
+#EXTINF:-1,FR DISNEY+ FHD
+http://ky-iptv.com:25461/powerful/powerful/182325
+#EXTINF:-1,FR M6 MUSIC HD
+http://ky-iptv.com:25461/powerful/powerful/182327
+#EXTINF:-1,FR MCM HD
+http://ky-iptv.com:25461/powerful/powerful/182329
+#EXTINF:-1,MCM TOP FHD
+http://ky-iptv.com:25461/powerful/powerful/182331
+#EXTINF:-1,FR MEZZO FR HD
+http://ky-iptv.com:25461/powerful/powerful/182332
+#EXTINF:-1,FR MEZZO LIVE HD
+http://ky-iptv.com:25461/powerful/powerful/182333
+#EXTINF:-1,FR MTV Base HD
+http://ky-iptv.com:25461/powerful/powerful/182335
+#EXTINF:-1,FR MTV Dance HD
+http://ky-iptv.com:25461/powerful/powerful/182337
+#EXTINF:-1,FR MTV FRANCE HD
+http://ky-iptv.com:25461/powerful/powerful/182339
+#EXTINF:-1,FR MTV Hits HD
+http://ky-iptv.com:25461/powerful/powerful/182341
+#EXTINF:-1,FR PARAMOUNT CHANNEL HD
+http://ky-iptv.com:25461/powerful/powerful/182453
+#EXTINF:-1,FR PARIS PREMIERE HD
+http://ky-iptv.com:25461/powerful/powerful/182455
+#EXTINF:-1,FR ROUGE TV HD
+http://ky-iptv.com:25461/powerful/powerful/182457
+#EXTINF:-1,FR RTL9 HD
+http://ky-iptv.com:25461/powerful/powerful/182459
+#EXTINF:-1,FR SERIE CLUB FHD
+http://ky-iptv.com:25461/powerful/powerful/182460
+#EXTINF:-1,FR SYFY HD
+http://ky-iptv.com:25461/powerful/powerful/182463
+#EXTINF:-1,FR TCM CINEMA HD
+http://ky-iptv.com:25461/powerful/powerful/182465
+#EXTINF:-1,FR TFX HD
+http://ky-iptv.com:25461/powerful/powerful/182467
+#EXTINF:-1,FR TMC HD
+http://ky-iptv.com:25461/powerful/powerful/182469
+#EXTINF:-1,FR ANIMAUX HD
+http://ky-iptv.com:25461/powerful/powerful/182471
+#EXTINF:-1,FR CHASSE&PECHE
+http://ky-iptv.com:25461/powerful/powerful/182472
+#EXTINF:-1,FR Comedie + HD
+http://ky-iptv.com:25461/powerful/powerful/182475
+#EXTINF:-1,FR CRIME DISTRICT HD
+http://ky-iptv.com:25461/powerful/powerful/182477
+#EXTINF:-1,FR DISCOVERY HD
+http://ky-iptv.com:25461/powerful/powerful/182479
+#EXTINF:-1,FR DISCOVERY INVESTIGATION HD
+http://ky-iptv.com:25461/powerful/powerful/182481
+#EXTINF:-1,FR DISCOVERY SCIENCE HD
+http://ky-iptv.com:25461/powerful/powerful/182483
+#EXTINF:-1,FR HISTOIRE HD
+http://ky-iptv.com:25461/powerful/powerful/182485
+#EXTINF:-1,FR NAT GEO WILD
+http://ky-iptv.com:25461/powerful/powerful/182486
+#EXTINF:-1,FR NATIONAL GEO
+http://ky-iptv.com:25461/powerful/powerful/182488
+#EXTINF:-1,FR PLANET PLUS
+http://ky-iptv.com:25461/powerful/powerful/182490
+#EXTINF:-1,FR PLANETE A&E
+http://ky-iptv.com:25461/powerful/powerful/182492
+#EXTINF:-1,FR PLANETE CI
+http://ky-iptv.com:25461/powerful/powerful/182494
+#EXTINF:-1,FR RFM TV HD
+http://ky-iptv.com:25461/powerful/powerful/182496
+#EXTINF:-1,FR RMC Decouverte HD
+http://ky-iptv.com:25461/powerful/powerful/182498
+#EXTINF:-1,FR RMC STORY HD
+http://ky-iptv.com:25461/powerful/powerful/182500
+#EXTINF:-1,FR SCIENCE ET VIE HD
+http://ky-iptv.com:25461/powerful/powerful/182502
+#EXTINF:-1,FR SEASON
+http://ky-iptv.com:25461/powerful/powerful/182503
+#EXTINF:-1,FR TOUTE_L'HISTOIRE HD
+http://ky-iptv.com:25461/powerful/powerful/182506
+#EXTINF:-1,FR Trek HD
+http://ky-iptv.com:25461/powerful/powerful/182508
+#EXTINF:-1,FR Ushuaia HD
+http://ky-iptv.com:25461/powerful/powerful/182510
+#EXTINF:-1,FR VOYAGE HD
+http://ky-iptv.com:25461/powerful/powerful/182512
+#EXTINF:-1,FR AB1 HD
+http://ky-iptv.com:25461/powerful/powerful/182514
+#EXTINF:-1,FR BET HD
+http://ky-iptv.com:25461/powerful/powerful/182515
+#EXTINF:-1,FR BFM Business HD
+http://ky-iptv.com:25461/powerful/powerful/182517
+#EXTINF:-1,FR BRAVA HD
+http://ky-iptv.com:25461/powerful/powerful/182518
+#EXTINF:-1,FR Discovery Family HD
+http://ky-iptv.com:25461/powerful/powerful/182520
+#EXTINF:-1,FR E! Entertainment HD
+http://ky-iptv.com:25461/powerful/powerful/182522
+#EXTINF:-1,FR ELLE GIRL HD
+http://ky-iptv.com:25461/powerful/powerful/182523
+#EXTINF:-1,FR My Cuisine HD
+http://ky-iptv.com:25461/powerful/powerful/182526
+#EXTINF:-1,FR ONE TV HD
+http://ky-iptv.com:25461/powerful/powerful/182527
+#EXTINF:-1,FR TEVA HD
+http://ky-iptv.com:25461/powerful/powerful/182529
+#EXTINF:-1,FR TRACE Urban HD
+http://ky-iptv.com:25461/powerful/powerful/182530
+#EXTINF:-1,FR Tv Breizh HD
+http://ky-iptv.com:25461/powerful/powerful/182533
+#EXTINF:-1,FR TVM3 HD
+http://ky-iptv.com:25461/powerful/powerful/182534
+#EXTINF:-1,FR WEO HD
+http://ky-iptv.com:25461/powerful/powerful/182535
+#EXTINF:-1,FR BOING HD
+http://ky-iptv.com:25461/powerful/powerful/182537
+#EXTINF:-1,FR BOOMERANG HD
+http://ky-iptv.com:25461/powerful/powerful/182540
+#EXTINF:-1,FR CartoonNetwork HD
+http://ky-iptv.com:25461/powerful/powerful/182544
+#EXTINF:-1,FR DISNEY CHANNEL
+http://ky-iptv.com:25461/powerful/powerful/182545
+#EXTINF:-1,FR DISNEY CHANNEL HD
+http://ky-iptv.com:25461/powerful/powerful/182546
+#EXTINF:-1,FR DISNEY CINEMA
+http://ky-iptv.com:25461/powerful/powerful/182547
+#EXTINF:-1,FR DISNEY CINEMA HD
+http://ky-iptv.com:25461/powerful/powerful/182548
+#EXTINF:-1,FR DISNEY JUNIOR HD
+http://ky-iptv.com:25461/powerful/powerful/182550
+#EXTINF:-1,FR DISNEY XD HD
+http://ky-iptv.com:25461/powerful/powerful/182552
+#EXTINF:-1,FR GAME ONE HD
+http://ky-iptv.com:25461/powerful/powerful/182554
+#EXTINF:-1,FR GULLI HD
+http://ky-iptv.com:25461/powerful/powerful/182556
+#EXTINF:-1,FR J-ONE HD
+http://ky-iptv.com:25461/powerful/powerful/182557
+#EXTINF:-1,FR MANGAS TV
+http://ky-iptv.com:25461/powerful/powerful/182559
+#EXTINF:-1,FR NICKELODEON HD
+http://ky-iptv.com:25461/powerful/powerful/182561
+#EXTINF:-1,FR NICKELODEON 4TEEN HD
+http://ky-iptv.com:25461/powerful/powerful/182562
+#EXTINF:-1,FR NICKELODEON JUNIOR HD
+http://ky-iptv.com:25461/powerful/powerful/182566
+#EXTINF:-1,FR Piwi
+http://ky-iptv.com:25461/powerful/powerful/182567
+#EXTINF:-1,FR Piwi HD
+http://ky-iptv.com:25461/powerful/powerful/182568
+#EXTINF:-1,FR TELETOON +1
+http://ky-iptv.com:25461/powerful/powerful/182570
+#EXTINF:-1,FR-L: TELETOON+
+http://ky-iptv.com:25461/powerful/powerful/182571
+#EXTINF:-1,FR TIJI HD
+http://ky-iptv.com:25461/powerful/powerful/182574
+#EXTINF:-1,FR Toonami
+http://ky-iptv.com:25461/powerful/powerful/182575
+#EXTINF:-1,FR Toonami HD
+http://ky-iptv.com:25461/powerful/powerful/182576
+#EXTINF:-1,FR BFM sport HD
+http://ky-iptv.com:25461/powerful/powerful/182363
+#EXTINF:-1,A LA CARTE 02
+http://ky-iptv.com:25461/powerful/powerful/182344
+#EXTINF:-1,MELODY HD
+http://ky-iptv.com:25461/powerful/powerful/560933
+#EXTINF:-1,Telefoot Stadium 4K
+http://ky-iptv.com:25461/powerful/powerful/696927
+#EXTINF:-1,FR CINE POLAR+ HD
+http://ky-iptv.com:25461/powerful/powerful/182441
+#EXTINF:-1,TeleFoot Stadium 2 FHD
+http://ky-iptv.com:25461/powerful/powerful/814676
+#EXTINF:-1,FR-L: TELEFOOT STADIUM 3 HD
+http://ky-iptv.com:25461/powerful/powerful/814677
+#EXTINF:-1,TeleFoot Stadium 4 FHD
+http://ky-iptv.com:25461/powerful/powerful/814678
+#EXTINF:-1,TeleFoot Stadium 5 FHD
+http://ky-iptv.com:25461/powerful/powerful/814679
+#EXTINF:-1,TeleFoot Stadium 6 FHD
+http://ky-iptv.com:25461/powerful/powerful/814680
+#EXTINF:-1,TeleFoot Stadium 7 FHD
+http://ky-iptv.com:25461/powerful/powerful/814681
+#EXTINF:-1,TeleFoot Stadium 8 HD
+http://ky-iptv.com:25461/powerful/powerful/814682
+#EXTINF:-1,beIN Sports 4 HD
+http://ky-iptv.com:25461/powerful/powerful/819492
+#EXTINF:-1,beIN Sports 6 HD
+http://ky-iptv.com:25461/powerful/powerful/819493
+#EXTINF:-1,beIN Sports 7 HD
+http://ky-iptv.com:25461/powerful/powerful/819495
+#EXTINF:-1,beIN Sports 8 HD
+http://ky-iptv.com:25461/powerful/powerful/819496
+#EXTINF:-1,beIN Sports 9 HD
+http://ky-iptv.com:25461/powerful/powerful/819497
+#EXTINF:-1,beIN Sports 5
+http://ky-iptv.com:25461/powerful/powerful/819494
+#EXTINF:-1,FR beIN SPORTS 3 FHD
+http://ky-iptv.com:25461/powerful/powerful/182322
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="",Alpe d’Huez TV
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
