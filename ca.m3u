@@ -1,793 +1,443 @@
 #EXTM3U
-#EXTINF:-1,WEATHER NETWORK
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11524.ts
-#EXTINF:-1,CP24
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32937.ts
-#EXTINF:-1,CP24 (Backup)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11452.ts
-#EXTINF:-1,CP24
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208232.ts
-#EXTINF:-1,BBC CANADA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56592.ts
-#EXTINF:-1,CTV HALIFAX
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11464.ts
-#EXTINF:-1,CBC HALIFAX
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11429.ts
-#EXTINF:-1,CTV OTTAWA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11466.ts
-#EXTINF:-1,CTV 2 ATLANTIC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11469.ts
-#EXTINF:-1,CBC (OTTAWA) SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208219.ts
-#EXTINF:-1,CBC OTTAWA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11433.ts
-#EXTINF:-1,CTV TORONTO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11467.ts
-#EXTINF:-1,CTV (TORONTO) (CFTO)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208240.ts
-#EXTINF:-1,GLOBAL TORONTO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56580.ts
-#EXTINF:-1,GLOBAL TORONTO (CIII) HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208275.ts
-#EXTINF:-1,CBC (TORONTO) HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208220.ts
-#EXTINF:-1,CBC Toronto
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11435.ts
-#EXTINF:-1,CITY NEWS (TORONTO)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11443.ts
-#EXTINF:-1,CITY TORONTO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11447.ts
-#EXTINF:-1,CTV MONTREAL
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11465.ts
-#EXTINF:-1,CBC MONTREAL
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11431.ts
-#EXTINF:-1,CITY MONTREAL
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11445.ts
-#EXTINF:-1,CA-FR: ICI MONTREAL
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11491.ts
-#EXTINF:-1,TVA Montreal (CFTM) HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208383.ts
-#EXTINF:-1,CA-FR: TVA Montreal 
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208384.ts
-#EXTINF:-1,CTV 2 VANCOUVER
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11470.ts
-#EXTINF:-1,CTV VANCOUVER
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56561.ts
-#EXTINF:-1,GLOBAL VANCOUVER
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11484.ts
-#EXTINF:-1,CBC VANCOUVER
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11436.ts
-#EXTINF:-1,CITY VANCOUVER
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11448.ts
-#EXTINF:-1,ICI VANCOUVER
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56589.ts
-#EXTINF:-1,ICI VANCOUVER
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208288.ts
-#EXTINF:-1,CTV CALGARY
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11463.ts
-#EXTINF:-1,GLOBAL CALGARY
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56578.ts
-#EXTINF:-1,GLOBAL NEWS HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208273.ts
-#EXTINF:-1,CBC CALGARY
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11426.ts
-#EXTINF:-1,CBC CHARLOTTETOWN
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11427.ts
-#EXTINF:-1,ABC BUFFALO (WKBW)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56538.ts
-#EXTINF:-1,Starz 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208223.ts
-#EXTINF:-1,NBC 2 (Buffalo)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208307.ts
-#EXTINF:-1,PBS Buffalo
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208391.ts
-#EXTINF:-1,CARTOON NETWORK
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11422.ts
-#EXTINF:-1,CARTOON NETWORK 
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208218.ts
-#EXTINF:-1,DISNEY CHANNEL HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208254.ts
-#EXTINF:-1,DISNEY JR
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11477.ts
-#EXTINF:-1,Disney Junior HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208256.ts
-#EXTINF:-1,CA-FR: Disney
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208255.ts
-#EXTINF:-1,DISNEY XD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56565.ts
-#EXTINF:-1,DISNEY XD HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208257.ts
-#EXTINF:-1,NICK
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56596.ts
-#EXTINF:-1,NICKELODEON HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208311.ts
-#EXTINF:-1,NICKTOON
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56597.ts
-#EXTINF:-1,ABC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11475.ts
-#EXTINF:-1,ABC WEST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56540.ts
-#EXTINF:-1,ABC SPARK
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11416.ts
-#EXTINF:-1,BNN BLOOMBERG
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11419.ts
-#EXTINF:-1,CA-FR: CANAL D
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11420.ts
-#EXTINF:-1,CA-FR: CASA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11423.ts
-#EXTINF:-1,CTV NEWS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11459.ts
-#EXTINF:-1,CTV COMEDY
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11460.ts
-#EXTINF:-1,CTV DRAMA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11461.ts
-#EXTINF:-1,CTV SCI-FI
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11462.ts
-#EXTINF:-1,Starz 1
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56560.ts
-#EXTINF:-1,CTV COMEDY (EAST) HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208241.ts
-#EXTINF:-1,CTV DRAMA HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208242.ts
-#EXTINF:-1,CTV NEWS NETWORK
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208243.ts
-#EXTINF:-1,CTV SCI-FI Channel  HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208244.ts
-#EXTINF:-1,CT
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208245.ts
-#EXTINF:-1,CTV2 (Atlantic) HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208246.ts
-#EXTINF:-1,GLOBAL BC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11528.ts
-#EXTINF:-1,GLOBAL EDMONTON
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56579.ts
-#EXTINF:-1,GLOBAL NEWBRUNSWICK SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208272.ts
-#EXTINF:-1,GLOBAL HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208274.ts
-#EXTINF:-1,CBC FREDERICTON
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56547.ts
-#EXTINF:-1,CBC St. John's (CBNT) HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56548.ts
-#EXTINF:-1,CBC HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208221.ts
-#EXTINF:-1,CBC NEWS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11425.ts
-#EXTINF:-1,CBC EDMONTON
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11428.ts
-#EXTINF:-1,CBC REGINA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11434.ts
-#EXTINF:-1,CBC WINDSOR
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11439.ts
-#EXTINF:-1,CBC YELLOWKNIFE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11440.ts
-#EXTINF:-1,CBC WINNIPEG
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11441.ts
-#EXTINF:-1,CITY TV SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208225.ts
-#EXTINF:-1,CHCH
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11442.ts
-#EXTINF:-1,COTTAGE LIFE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11451.ts
-#EXTINF:-1,CRIME & INVESTIGATION
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11458.ts
-#EXTINF:-1,DAY STAR
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11471.ts
-#EXTINF:-1,CTV Two Victoria
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11473.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11474.ts
-#EXTINF:-1,FOOD NETWORK
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11479.ts
-#EXTINF:-1,HGTV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11488.ts
-#EXTINF:-1,KNOWLEDGE KIDS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11493.ts
-#EXTINF:-1,LOVE NATURE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11495.ts
-#EXTINF:-1,CA-FR: MAX
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11497.ts
-#EXTINF:-1,MIRACLE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11498.ts
-#EXTINF:-1,NAT GEO (Backup)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11503.ts
-#EXTINF:-1,NAT GEO WILD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11504.ts
-#EXTINF:-1, Newfoundland TV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11505.ts
-#EXTINF:-1,OMNI 1
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11506.ts
-#EXTINF:-1,Game Show Network
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11508.ts
-#EXTINF:-1,PARAMOUNT NETWORK
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11509.ts
-#EXTINF:-1,PEACH TREE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11510.ts
-#EXTINF:-1,CA-FR: PRISE 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11511.ts
-#EXTINF:-1,CA-FR: SERIES QC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11512.ts
-#EXTINF:-1,SLICE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11514.ts
-#EXTINF:-1,CA-FR: SUPER ECRAN 3
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11517.ts
-#EXTINF:-1,TREEHOUSE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11521.ts
-#EXTINF:-1,TVO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11522.ts
-#EXTINF:-1,VISION
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11523.ts
-#EXTINF:-1,WGN TV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11525.ts
-#EXTINF:-1,WILD TV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11526.ts
-#EXTINF:-1,A&E
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11527.ts
-#EXTINF:-1,FX
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11529.ts
-#EXTINF:-1,SPORTSNET 360
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11544.ts
-#EXTINF:-1,SPORTSNET EAST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11545.ts
-#EXTINF:-1,SPORTSNET ONE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11546.ts
-#EXTINF:-1,SPORTSNET ONTARIO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11547.ts
-#EXTINF:-1,SPORTSNET PACIFIC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11548.ts
-#EXTINF:-1,SPORTSNET WEST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11549.ts
-#EXTINF:-1,SPORTSNET World
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11550.ts
-#EXTINF:-1,TSN 1
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11551.ts
-#EXTINF:-1,TSN 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11552.ts
-#EXTINF:-1,TSN 3
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11553.ts
-#EXTINF:-1,TSN 4
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11554.ts
-#EXTINF:-1,TSN 5
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11555.ts
-#EXTINF:-1,OMNI 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11507.ts
-#EXTINF:-1,NBA TV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30372.ts
-#EXTINF:-1,beIN Sports
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30870.ts
-#EXTINF:-1,RDS SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/41417.ts
-#EXTINF:-1,RDS 2 SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/41418.ts
-#EXTINF:-1,RDS INFO SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/41419.ts
-#EXTINF:-1,AMC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56542.ts
-#EXTINF:-1,ANIMAL PLANET
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56543.ts
-#EXTINF:-1,APTN HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56544.ts
-#EXTINF:-1,BRAVO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56545.ts
-#EXTINF:-1,CABLEPULSE 24 HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56546.ts
-#EXTINF:-1,TV ONTARIO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56549.ts
-#EXTINF:-1,CBS EAST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56551.ts
-#EXTINF:-1,CBS WEST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56552.ts
-#EXTINF:-1,CINEPOP
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56553.ts
-#EXTINF:-1,CMT CANADA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56554.ts
-#EXTINF:-1,CNBC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56555.ts
-#EXTINF:-1,CNN INTERNATIONAL
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56556.ts
-#EXTINF:-1,COOKING CHANNEL
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56557.ts
-#EXTINF:-1,CPAC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56558.ts
-#EXTINF:-1,CA-FR: CPAC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56559.ts
-#EXTINF:-1,DEJA VIEW
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56562.ts
-#EXTINF:-1,DISCOVERY
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56563.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56564.ts
-#EXTINF:-1,La Chaine Disney
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56566.ts
-#EXTINF:-1,DIY
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56567.ts
-#EXTINF:-1,E! CANADA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56568.ts
-#EXTINF:-1,ENCORE 1 EAST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56569.ts
-#EXTINF:-1,ENCORE 2 EAST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56570.ts
-#EXTINF:-1,FAMILY EAST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56571.ts
-#EXTINF:-1,FOX NEWS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56573.ts
-#EXTINF:-1,FYI
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56576.ts
-#EXTINF:-1,Game Show Network
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56577.ts
-#EXTINF:-1,GOLF HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56581.ts
-#EXTINF:-1,H2 CANADA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56582.ts
-#EXTINF:-1,HISTORY
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56585.ts
-#EXTINF:-1,ICE RDI
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56587.ts
-#EXTINF:-1,ICI TELEVISION
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56588.ts
-#EXTINF:-1,LIFETIME
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56590.ts
-#EXTINF:-1,CA-FR: METEO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56591.ts
-#EXTINF:-1,MUSIQUE PLUS (R)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56593.ts
-#EXTINF:-1,NBC EAST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56594.ts
-#EXTINF:-1,NBC WEST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56595.ts
-#EXTINF:-1,OLN
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56598.ts
-#EXTINF:-1,ONE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56599.ts
-#EXTINF:-1,RDI
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56603.ts
-#EXTINF:-1,RDS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56604.ts
-#EXTINF:-1,SILVER SCREEN CLASSICS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56606.ts
-#EXTINF:-1,SMITHSONIAN
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56607.ts
-#EXTINF:-1,SUPER ECRAN 1
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56608.ts
-#EXTINF:-1,SUPER ECRAN 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56609.ts
-#EXTINF:-1,SUPER ECRAN 4
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56610.ts
-#EXTINF:-1,TELE QUEBEC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56612.ts
-#EXTINF:-1,TELE TOON FRENCH
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56613.ts
-#EXTINF:-1,TELE V
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56614.ts
-#EXTINF:-1,TELEMAGINO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56615.ts
-#EXTINF:-1,TLC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56616.ts
-#EXTINF:-1,BBC WORLD NEWS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56617.ts
-#EXTINF:-1,TMN 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56618.ts
-#EXTINF:-1,TMN 4
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56619.ts
-#EXTINF:-1,TV5 QUEBEC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56620.ts
-#EXTINF:-1,TVA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56621.ts
-#EXTINF:-1,TVA SPORTS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56622.ts
-#EXTINF:-1,UNIS TV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56623.ts
-#EXTINF:-1,CA-FR: CANAL VIE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56624.ts
-#EXTINF:-1,VRAK TV (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56625.ts
-#EXTINF:-1,W NETWORK
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56626.ts
-#EXTINF:-1,YES TV (Ontario)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56627.ts
-#EXTINF:-1,YOOPA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56628.ts
-#EXTINF:-1,YTV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56629.ts
-#EXTINF:-1,YTV West
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56630.ts
-#EXTINF:-1,Z TELE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56631.ts
-#EXTINF:-1,ZESTE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56632.ts
-#EXTINF:-1,TVA Sports 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68017.ts
-#EXTINF:-1,TELE TOON WEST
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68018.ts
-#EXTINF:-1,BEIN SPORTS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68020.ts
-#EXTINF:-1,SUPER CHANNEL 1
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68023.ts
+#EXTINF:-1,ABC Spark HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3068
 #EXTINF:-1,BET
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68025.ts
-#EXTINF:-1,OUTTV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68027.ts
-#EXTINF:-1,OLN
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68028.ts
-#EXTINF:-1,MOVIE TIME HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68029.ts
-#EXTINF:-1,KTLA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68030.ts
-#EXTINF:-1,CA-FR: MOI CIE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/68072.ts
-#EXTINF:-1,HBO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11486.ts
-#EXTINF:-1,HBO 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56583.ts
-#EXTINF:-1,MTV 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11499.ts
-#EXTINF:-1,MUCH MUSIC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11501.ts
-#EXTINF:-1,CA-FR: ADDIK TV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208212.ts
-#EXTINF:-1,CA-FR: AM FR HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208213.ts
-#EXTINF:-1,BOOK TV SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208215.ts
-#EXTINF:-1,CANAL SAVOIR SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208216.ts
-#EXTINF:-1,CANAL VIE HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208217.ts
-#EXTINF:-1,CMT
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208226.ts
-#EXTINF:-1,CNBC HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208227.ts
-#EXTINF:-1,CNBC SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208228.ts
-#EXTINF:-1,CNN
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208229.ts
-#EXTINF:-1,COMEDY CENTRAL SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208230.ts
-#EXTINF:-1,COOKING CHANNEL
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208231.ts
-#EXTINF:-1,CPAC EN HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208233.ts
-#EXTINF:-1,CPAC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208234.ts
-#EXTINF:-1,CRAVE 1 HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208235.ts
-#EXTINF:-1,Crave 2 HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208236.ts
-#EXTINF:-1,Crave 3 HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208237.ts
-#EXTINF:-1,Crave 4 HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208238.ts
-#EXTINF:-1,CRIME & INVESTIGATION HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208239.ts
-#EXTINF:-1,DEJAVIEW SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208253.ts
+http://a1.gokakka.club:8880/testzyx030/123456789/3063
+#EXTINF:-1,BRAVO HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3061
+#EXTINF:-1,CHCH HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3058
+#EXTINF:-1,CITY TV HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3057
+#EXTINF:-1,COTTAGE-LIFE
+http://a1.gokakka.club:8880/testzyx030/123456789/3054
+#EXTINF:-1,CPAC HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3052
+#EXTINF:-1,ABC BOSTON HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3051
+#EXTINF:-1,DIY Network HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3043
 #EXTINF:-1,DTOUR HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208258.ts
-#EXTINF:-1,E! CANADA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208259.ts
-#EXTINF:-1,EVASION
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208260.ts
-#EXTINF:-1,FAMILY CHARGED HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208262.ts
-#EXTINF:-1,FAMILY JR HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208263.ts
-#EXTINF:-1,FIGHT NETWORK HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208264.ts
-#EXTINF:-1,FOX SPORTS RACING HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208265.ts
-#EXTINF:-1,FOX HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208266.ts
-#EXTINF:-1,FX HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208267.ts
+http://a1.gokakka.club:8880/testzyx030/123456789/3042
+#EXTINF:-1,E! HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3041
+#EXTINF:-1,FOOD NETWORK HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3039
+#EXTINF:-1,FOX-EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/3038
 #EXTINF:-1,FXX HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208268.ts
-#EXTINF:-1,Game TV  HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208270.ts
-#EXTINF:-1,GINX ESPORTSTV HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208271.ts
-#EXTINF:-1,GOLF HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208276.ts
-#EXTINF:-1,GSN
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208277.ts
-#EXTINF:-1,GUSTO SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208278.ts
-#EXTINF:-1,H2 SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208279.ts
-#EXTINF:-1,HBO 2 HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208280.ts
-#EXTINF:-1,HBO HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208281.ts
-#EXTINF:-1,Headline News HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208282.ts
+http://a1.gokakka.club:8880/testzyx030/123456789/3036
+#EXTINF:-1,GLOBAL-EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/3035
+#EXTINF:-1,GUSTO
+http://a1.gokakka.club:8880/testzyx030/123456789/3033
 #EXTINF:-1,HGTV HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208283.ts
-#EXTINF:-1,CA - FR: HISTORY HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208284.ts
-#EXTINF:-1,ICI RDI SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208286.ts
-#EXTINF:-1,RDI QC
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208287.ts
-#EXTINF:-1,LCN
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208289.ts
-#EXTINF:-1,LIFETIME HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208290.ts
-#EXTINF:-1,Makeful
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208291.ts
-#EXTINF:-1,MAVTV SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208292.ts
-#EXTINF:-1,MEDIASET ITALIA
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208293.ts
-#EXTINF:-1,METEO MEDIA HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208294.ts
-#EXTINF:-1,MLB NETWORK HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208296.ts
-#EXTINF:-1,MovieTime HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208298.ts
-#EXTINF:-1,MTV 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208299.ts
+http://a1.gokakka.club:8880/testzyx030/123456789/3030
+#EXTINF:-1,VISON
+http://a1.gokakka.club:8880/testzyx030/123456789/3024
 #EXTINF:-1,MTV HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208300.ts
-#EXTINF:-1,MUCH MUSIC HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208301.ts
-#EXTINF:-1,MUCH HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208302.ts
-#EXTINF:-1,CA-FR: MUSIC PLUS SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208303.ts
-#EXTINF:-1,Nat GEO
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208305.ts
-#EXTINF:-1,NBA TV HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208306.ts
-#EXTINF:-1,CA-FR: ICI ARTV (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208308.ts
-#EXTINF:-1,NFL NETWORK HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208310.ts
-#EXTINF:-1,NTV SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208312.ts
-#EXTINF:-1,ONE SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208313.ts
-#EXTINF:-1,PBS HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208322.ts
-#EXTINF:-1,PRISE SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208323.ts
-#EXTINF:-1,CA-FR: RDS
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208324.ts
-#EXTINF:-1,CA-FR: RDS 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208325.ts
-#EXTINF:-1,CA-FR: RDS INFO SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208326.ts
-#EXTINF:-1,CA-FR: Rogers TV 
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208327.ts
-#EXTINF:-1,SERIES  +
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208328.ts
-#EXTINF:-1,SHOPPING SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208329.ts
-#EXTINF:-1,Showcase HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208330.ts
-#EXTINF:-1,SILVER SCREEN CLASSICS SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208331.ts
-#EXTINF:-1,SPIKE TV / PARAMOUNT SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208332.ts
-#EXTINF:-1,SPORTSNET PPV HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208333.ts
-#EXTINF:-1,SUPER CHANNEL HEART & HOME HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208334.ts
-#EXTINF:-1,SUPER ECRAN 1 SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208335.ts
-#EXTINF:-1,SUPER ECRAN 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208336.ts
-#EXTINF:-1,SUPER ECRAN 4
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208337.ts
-#EXTINF:-1,SUPER SPORTS CH 484
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208338.ts
-#EXTINF:-1,SUPER SPORTS CH 483
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208339.ts
-#EXTINF:-1,SUPER SPORTS CH 482
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208340.ts
-#EXTINF:-1,SUPER SPORTS CH 480
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208341.ts
-#EXTINF:-1,SUPER SPORTS CH 479
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208342.ts
-#EXTINF:-1,SUPER SPORTS CH 478
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208343.ts
-#EXTINF:-1,SUPER SPORTS CH 477
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208344.ts
-#EXTINF:-1,SUPER SPORTS CH 476
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208345.ts
-#EXTINF:-1,SUPER SPORTS CH 472
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208346.ts
-#EXTINF:-1,SUPER SPORTS CH 465
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208347.ts
-#EXTINF:-1,SUPER SPORTS CH 462
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208348.ts
-#EXTINF:-1,SUPER SPORTS CH 461
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208349.ts
-#EXTINF:-1,SUPER SPORTS CH 450
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208350.ts
-#EXTINF:-1,SUPER SPORTS CH 444
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208351.ts
-#EXTINF:-1,SUPER SPORTS CH 443
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208352.ts
-#EXTINF:-1,SUPER SPORTS CH 422
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208353.ts
-#EXTINF:-1,SUPER SPORTS CH 441
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208354.ts
-#EXTINF:-1,SUPER SPORTS CH 476
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208355.ts
-#EXTINF:-1,SUPER SPORTS CH 440
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208356.ts
-#EXTINF:-1,SUPER SPORTS CH 439
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208357.ts
-#EXTINF:-1,SUPER SPORTS CH 438
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208358.ts
-#EXTINF:-1,SUPER SPORTS CH 437
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208359.ts
-#EXTINF:-1,SUPER SPORTS CH 436
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208361.ts
-#EXTINF:-1,SUPER SPORTS CH 435
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208362.ts
-#EXTINF:-1,SUPER SPORTS CH 484
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208363.ts
-#EXTINF:-1,TCMHD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208364.ts
-#EXTINF:-1,TCTV2HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208365.ts
-#EXTINF:-1,CA-FR: TELEMAGINO  SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208366.ts
-#EXTINF:-1,CA-FR: Teletoon
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208367.ts
-#EXTINF:-1,CA-FR: TFO HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208368.ts
-#EXTINF:-1,CA-FR: Trace LATINA HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208371.ts
-#EXTINF:-1,CA-FR: TRACE URBAN HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208374.ts
-#EXTINF:-1,TRAVEL ESCAPE HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208375.ts
-#EXTINF:-1,TREEHOUSE HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208376.ts
-#EXTINF:-1,TSC HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208377.ts
-#EXTINF:-1,CA-FR: TV5 Quebec HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208379.ts
-#EXTINF:-1,CA-FR: TV5 QUEBEC SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208380.ts
-#EXTINF:-1,TVA  Sports 2 HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208381.ts
-#EXTINF:-1,CA-FR: TVA Gatineau HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208382.ts
-#EXTINF:-1,TVA Sports HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208385.ts
-#EXTINF:-1,TVO SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208386.ts
-#EXTINF:-1,CA-FR: UNIS TV HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208387.ts
-#EXTINF:-1,CA-FR: VIE SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208388.ts
-#EXTINF:-1,CA-FR: VRAK TV SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208389.ts
-#EXTINF:-1,WFN
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208390.ts
-#EXTINF:-1,YES TV HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208392.ts
-#EXTINF:-1,CA-FR: YOOPA SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208393.ts
-#EXTINF:-1,YTV (WEST) HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208394.ts
-#EXTINF:-1,CA-FR: ZESTE SD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208395.ts
-#EXTINF:-1,CBC MONTREAL (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215311.ts
-#EXTINF:-1,NAT nal Savoir (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215312.ts
-#EXTINF:-1,RDI (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215313.ts
-#EXTINF:-1,TMN 1 (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215314.ts
-#EXTINF:-1,SUPER ECRAN 3
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215315.ts
-#EXTINF:-1,SUPER ECRAN 1 (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215316.ts
+http://a1.gokakka.club:8880/testzyx030/123456789/3022
+#EXTINF:-1,MUCHMUSIC HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3021
+#EXTINF:-1,Sportsnet World HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3018
+#EXTINF:-1,OLN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3017
+#EXTINF:-1,OWN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3015
+#EXTINF:-1,PEACHTREE HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3014
+#EXTINF:-1,SLICE HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3013
+#EXTINF:-1,TLC HS
+http://a1.gokakka.club:8880/testzyx030/123456789/3006
+#EXTINF:-1,Game TV HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2998
+#EXTINF:-1,Weather channel HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2996
+#EXTINF:-1,ICI RDI HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2995
+#EXTINF:-1,YES HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2994
+#EXTINF:-1,TVA HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2993
+#EXTINF:-1,V MONTREAL
+http://a1.gokakka.club:8880/testzyx030/123456789/2991
+#EXTINF:-1,A&E HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30231
+#EXTINF:-1,ABC EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/30230
+#EXTINF:-1,AHC HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30227
+#EXTINF:-1,APTN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30226
+#EXTINF:-1,ARTV
+http://a1.gokakka.club:8880/testzyx030/123456789/30225
+#EXTINF:-1,Assemblée Nationale Québec
+http://a1.gokakka.club:8880/testzyx030/123456789/30224
+#EXTINF:-1,BOOK TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30221
+#EXTINF:-1,CASA
+http://a1.gokakka.club:8880/testzyx030/123456789/30217
+#EXTINF:-1,CITY TORONTO
+http://a1.gokakka.club:8880/testzyx030/123456789/30208
+#EXTINF:-1,CITY VANCOUVER HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30207
+#EXTINF:-1,CMT CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30206
+#EXTINF:-1,COMEDY GOLD
+http://a1.gokakka.club:8880/testzyx030/123456789/30203
+#EXTINF:-1,COOKING CHANNEL
+http://a1.gokakka.club:8880/testzyx030/123456789/30202
+#EXTINF:-1,CPAC FRENCH
+http://a1.gokakka.club:8880/testzyx030/123456789/30200
+#EXTINF:-1,CW 11
+http://a1.gokakka.club:8880/testzyx030/123456789/30193
+#EXTINF:-1,DAYSTAR TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30192
+#EXTINF:-1,DEJAVIEW
+http://a1.gokakka.club:8880/testzyx030/123456789/30191
+#EXTINF:-1,ENCORE 1 EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/30187
+#EXTINF:-1,ENCORE 2 EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/30186
+#EXTINF:-1,EVASION
+http://a1.gokakka.club:8880/testzyx030/123456789/30185
+#EXTINF:-1,FOX WEST
+http://a1.gokakka.club:8880/testzyx030/123456789/30180
+#EXTINF:-1,FTV CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30179
+#EXTINF:-1,GLOBAL TORONTO
+http://a1.gokakka.club:8880/testzyx030/123456789/30177
+#EXTINF:-1,GLOBAL VANCOUVER
+http://a1.gokakka.club:8880/testzyx030/123456789/30176
+#EXTINF:-1,ICI MONTREAL
+http://a1.gokakka.club:8880/testzyx030/123456789/30170
+#EXTINF:-1,ICI VANCOUVER
+http://a1.gokakka.club:8880/testzyx030/123456789/30169
+#EXTINF:-1,KTLA
+http://a1.gokakka.club:8880/testzyx030/123456789/30166
 #EXTINF:-1,MAX
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215317.ts
-#EXTINF:-1,CANAL D (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215318.ts
-#EXTINF:-1,Canal Savoir
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215319.ts
-#EXTINF:-1,TELETOON HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215320.ts
-#EXTINF:-1,Assemblée nationale du Québec
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215321.ts
-#EXTINF:-1,PRISE (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215322.ts
-#EXTINF:-1,Teletoon (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215324.ts
-#EXTINF:-1,ASSEMBLEE NATIONALE QUEBEC (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215325.ts
-#EXTINF:-1,Disney La Chaine (FR)
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/215326.ts
-#EXTINF:-1,PBS Buffalo (WNED) HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/233016.ts
-#EXTINF:-1,PBS BUFFALO TORONTO WNED
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/233017.ts
-#EXTINF:-1,ABC Buffalo
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/233018.ts
-#EXTINF:-1,PBS EAST HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/233019.ts
-#EXTINF:-1,PBS WEST HD
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/233020.ts
-#EXTINF:-1,Stingray Pop Classics
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/284994.ts
-#EXTINF:-1,Stingray Pop Adult
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/284995.ts
-#EXTINF:-1,Stingray Opera Plus
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/284996.ts
-#EXTINF:-1,ATN Punjabi 5
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/284997.ts
-#EXTINF:-1,Stingray Kids’ Stuff
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/284998.ts
-#EXTINF:-1,Stingray Loud
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/284999.ts
-#EXTINF:-1,Stingray Nostalgie
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285000.ts
-#EXTINF:-1,Stingray Nature
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285001.ts
-#EXTINF:-1,Stingray Le Top Detente
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285002.ts
-#EXTINF:-1,Stingray Latino Tropical
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285003.ts
-#EXTINF:-1,Stingray Jukebox Oldies
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285004.ts
-#EXTINF:-1,Stingray Jazz Now
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285005.ts
-#EXTINF:-1,Stingray Hits!
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285006.ts
-#EXTINF:-1,HIFI
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285007.ts
-#EXTINF:-1,WWE
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285008.ts
-#EXTINF:-1,GMA Life
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285009.ts
-#EXTINF:-1,GMA Pinoy TV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285010.ts
-#EXTINF:-1,Filipino TV
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285011.ts
-#EXTINF:-1,ATN Punjabi
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285012.ts
-#EXTINF:-1,TG24
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285013.ts
-#EXTINF:-1,RAI Italia
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285014.ts
-#EXTINF:-1,Odyssey
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285015.ts
-#EXTINF:-1,Mega Cosmos
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285016.ts
-#EXTINF:-1,ERT World
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285017.ts
-#EXTINF:-1,Alpha Sat
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285018.ts
-#EXTINF:-1,TamilVision International
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285019.ts
-#EXTINF:-1,Prime Asia Television
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285020.ts
-#EXTINF:-1,Ethernal World Television Network
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285021.ts
-#EXTINF:-1,Stingray Rock
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285022.ts
-#EXTINF:-1,Stingray Retro
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285023.ts
-#EXTINF:-1,Stingray Country Classics
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285024.ts
-#EXTINF:-1,Stingray Vibe
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/285025.ts
-#EXTINF:-1,DAZN 1
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/286911.ts
-#EXTINF:-1,DAZN 2
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/286912.ts
-#EXTINF:-1,DAZN 3
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/286913.ts
-#EXTINF:-1,DAZN 4
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/286914.ts
-#EXTINF:-1,DAZN 5
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/286915.ts
-#EXTINF:-1,DAZN 6
-http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/286916.ts
+http://a1.gokakka.club:8880/testzyx030/123456789/30164
+#EXTINF:-1,METEO MEDIA
+http://a1.gokakka.club:8880/testzyx030/123456789/30163
+#EXTINF:-1,MIRACLE
+http://a1.gokakka.club:8880/testzyx030/123456789/30162
+#EXTINF:-1,MOI ET CIE
+http://a1.gokakka.club:8880/testzyx030/123456789/30161
+#EXTINF:-1,MTV 2
+http://a1.gokakka.club:8880/testzyx030/123456789/30159
+#EXTINF:-1,MUSIQUE PLUS
+http://a1.gokakka.club:8880/testzyx030/123456789/30158
+#EXTINF:-1,VISION
+http://a1.gokakka.club:8880/testzyx030/123456789/30156
+#EXTINF:-1,VRAK TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30155
+#EXTINF:-1,WFN
+http://a1.gokakka.club:8880/testzyx030/123456789/30154
+#EXTINF:-1,Wild TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30152
+#EXTINF:-1,WSBK
+http://a1.gokakka.club:8880/testzyx030/123456789/30151
+#EXTINF:-1,ZESTE
+http://a1.gokakka.club:8880/testzyx030/123456789/30148
+#EXTINF:-1,TFO HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30147
+#EXTINF:-1,THE WEATHER NETWORK HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30146
+#EXTINF:-1,OMNI 1 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30140
+#EXTINF:-1,OMNI 2 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30139
+#EXTINF:-1,ONE
+http://a1.gokakka.club:8880/testzyx030/123456789/30138
+#EXTINF:-1,OUTTV
+http://a1.gokakka.club:8880/testzyx030/123456789/30137
+#EXTINF:-1,PEACH TREE
+http://a1.gokakka.club:8880/testzyx030/123456789/30136
+#EXTINF:-1,PRISE 2 (FR)
+http://a1.gokakka.club:8880/testzyx030/123456789/30135
+#EXTINF:-1,SERIS
+http://a1.gokakka.club:8880/testzyx030/123456789/30130
+#EXTINF:-1,GLOBAL
+http://a1.gokakka.club:8880/testzyx030/123456789/30133
+#EXTINF:-1,SHOPPING
+http://a1.gokakka.club:8880/testzyx030/123456789/30129
+#EXTINF:-1,TELEMAGINO
+http://a1.gokakka.club:8880/testzyx030/123456789/30116
+#EXTINF:-1,NBC EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/30115
+#EXTINF:-1,NBC WEST
+http://a1.gokakka.club:8880/testzyx030/123456789/30114
+#EXTINF:-1,CITY MONTREAL
+http://a1.gokakka.club:8880/testzyx030/123456789/30113
+#EXTINF:-1,MAKEFUL
+http://a1.gokakka.club:8880/testzyx030/123456789/30112
+#EXTINF:-1,GLOBAL HALIFAX
+http://a1.gokakka.club:8880/testzyx030/123456789/30109
+#EXTINF:-1,HOPE TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30108
+#EXTINF:-1,UNIS TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30106
+#EXTINF:-1,MAVTV CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30104
+#EXTINF:-1,TRAVEL ESCAPE
+http://a1.gokakka.club:8880/testzyx030/123456789/30101
+#EXTINF:-1,CITY CALGARY
+http://a1.gokakka.club:8880/testzyx030/123456789/30099
+#EXTINF:-1,GLOBAL CALGARY
+http://a1.gokakka.club:8880/testzyx030/123456789/30097
+#EXTINF:-1,CANAL V
+http://a1.gokakka.club:8880/testzyx030/123456789/30094
+#EXTINF:-1,CBC Winnipeg
+http://a1.gokakka.club:8880/testzyx030/123456789/59195
+#EXTINF:-1,Global Montreal
+http://a1.gokakka.club:8880/testzyx030/123456789/59196
+#EXTINF:-1,TVA Montreal
+http://a1.gokakka.club:8880/testzyx030/123456789/59197
+#EXTINF:-1,Sportnet Ontario HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3067
+#EXTINF:-1,NBA HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3037
+#EXTINF:-1,SPORTSNET-360
+http://a1.gokakka.club:8880/testzyx030/123456789/3010
+#EXTINF:-1,SPORTSNET EAST HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3009
+#EXTINF:-1,SPORTSNET-ONE
+http://a1.gokakka.club:8880/testzyx030/123456789/3008
+#EXTINF:-1,SPORTSNET WEST HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3007
+#EXTINF:-1,TSN-1 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3004
+#EXTINF:-1,TSN-2 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3003
+#EXTINF:-1,TSN-3 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3002
+#EXTINF:-1,TSN-4 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3001
+#EXTINF:-1,TSN-5 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3000
+#EXTINF:-1,TVA Sports HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2992
+#EXTINF:-1,RDS (FR)
+http://a1.gokakka.club:8880/testzyx030/123456789/2987
+#EXTINF:-1,Bein Sports HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30178
+#EXTINF:-1,GOLF HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30175
+#EXTINF:-1,RDS 2 (FR)
+http://a1.gokakka.club:8880/testzyx030/123456789/30132
+#EXTINF:-1,Sportnet Pacific HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30126
+#EXTINF:-1,MLB NETWORK HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30111
+#EXTINF:-1,Sportsman Canada HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30096
+#EXTINF:-1,AMC HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3066
+#EXTINF:-1,TMN 1 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3064
+#EXTINF:-1,CTV COMEDY HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3055
+#EXTINF:-1,HBO East
+http://a1.gokakka.club:8880/testzyx030/123456789/3032
+#EXTINF:-1,HBO West
+http://a1.gokakka.club:8880/testzyx030/123456789/3031
+#EXTINF:-1,LIFETIME HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3025
+#EXTINF:-1,ShowCase HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3023
+#EXTINF:-1,SPACE
+http://a1.gokakka.club:8880/testzyx030/123456789/3011
+#EXTINF:-1,SUPER CHANNEL VAULT    
+http://a1.gokakka.club:8880/testzyx030/123456789/2990
+#EXTINF:-1,ACTION
+http://a1.gokakka.club:8880/testzyx030/123456789/30229
+#EXTINF:-1,ADDIK TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30228
+#EXTINF:-1,CINEPOP
+http://a1.gokakka.club:8880/testzyx030/123456789/30209
+#EXTINF:-1,FIGHT NETWORK HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30182
+#EXTINF:-1,HBO 1
+http://a1.gokakka.club:8880/testzyx030/123456789/30173
+#EXTINF:-1,HBO 2
+http://a1.gokakka.club:8880/testzyx030/123456789/30172
+#EXTINF:-1,MTIME
+http://a1.gokakka.club:8880/testzyx030/123456789/30160
+#EXTINF:-1,Z TELE
+http://a1.gokakka.club:8880/testzyx030/123456789/30149
+#EXTINF:-1,CRAVE 2 / TMN 2 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30145
+#EXTINF:-1,CRAVE 3 / TMN 3 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30144
+#EXTINF:-1,CRAVE 4 / TMN 4 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30143
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://a1.gokakka.club:8880/testzyx030/123456789/30128
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30127
+#EXTINF:-1,SUPER ECRAN 1
+http://a1.gokakka.club:8880/testzyx030/123456789/30125
+#EXTINF:-1,SUPER ECRAN 2
+http://a1.gokakka.club:8880/testzyx030/123456789/30124
+#EXTINF:-1,SUPER ECRAN 3
+http://a1.gokakka.club:8880/testzyx030/123456789/30123
+#EXTINF:-1,SUPER ECRAN 4
+http://a1.gokakka.club:8880/testzyx030/123456789/30122
+#EXTINF:-1,TCM
+http://a1.gokakka.club:8880/testzyx030/123456789/30121
+#EXTINF:-1,FX FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/30103
+#EXTINF:-1,SUPER CHANNEL HEART & HOME
+http://a1.gokakka.club:8880/testzyx030/123456789/30095
+#EXTINF:-1,BNN BLOOMBERG HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3062
+#EXTINF:-1,CBC Edmonton HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3060
+#EXTINF:-1,CBC News Network HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3059
+#EXTINF:-1,CNN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3056
+#EXTINF:-1,CP24 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3053
+#EXTINF:-1,CTV HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3050
+#EXTINF:-1,CTV Atlantic HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3049
+#EXTINF:-1,CTV NEWS HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3048
+#EXTINF:-1,GSN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3034
+#EXTINF:-1,HLN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3028
+#EXTINF:-1,W NETWORK HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3016
+#EXTINF:-1,LCN FR
+http://a1.gokakka.club:8880/testzyx030/123456789/2989
+#EXTINF:-1,RDI FR
+http://a1.gokakka.club:8880/testzyx030/123456789/2988
+#EXTINF:-1,BBC CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30223
+#EXTINF:-1,BBC WORLD NEWS
+http://a1.gokakka.club:8880/testzyx030/123456789/30222
+#EXTINF:-1,CBC MONTREAL
+http://a1.gokakka.club:8880/testzyx030/123456789/30216
+#EXTINF:-1,CBC NEWS
+http://a1.gokakka.club:8880/testzyx030/123456789/30215
+#EXTINF:-1,CBC OTTAWA HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30214
+#EXTINF:-1,CBC TORONTO
+http://a1.gokakka.club:8880/testzyx030/123456789/30213
+#EXTINF:-1,CBC VANCOUVER
+http://a1.gokakka.club:8880/testzyx030/123456789/30212
+#EXTINF:-1,CBS EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/30211
+#EXTINF:-1,CBS WEST
+http://a1.gokakka.club:8880/testzyx030/123456789/30210
+#EXTINF:-1,CNBC
+http://a1.gokakka.club:8880/testzyx030/123456789/30205
+#EXTINF:-1,CNN INTERNATIONAL
+http://a1.gokakka.club:8880/testzyx030/123456789/30204
+#EXTINF:-1,CTV MONTREAL
+http://a1.gokakka.club:8880/testzyx030/123456789/30201
+#EXTINF:-1,CTV 2 VANCOUVER
+http://a1.gokakka.club:8880/testzyx030/123456789/30198
+#EXTINF:-1,CTV OTTAWA
+http://a1.gokakka.club:8880/testzyx030/123456789/30197
+#EXTINF:-1,CTV TORONTO
+http://a1.gokakka.club:8880/testzyx030/123456789/30196
+#EXTINF:-1,CTV VANCOUVER
+http://a1.gokakka.club:8880/testzyx030/123456789/30195
+#EXTINF:-1,CTV2 OTTAWA
+http://a1.gokakka.club:8880/testzyx030/123456789/30194
+#EXTINF:-1,FOX NEWS HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30181
+#EXTINF:-1,ICI RDI HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30168
+#EXTINF:-1,LCN
+http://a1.gokakka.club:8880/testzyx030/123456789/30165
+#EXTINF:-1,VIE
+http://a1.gokakka.club:8880/testzyx030/123456789/30157
+#EXTINF:-1,WGN
+http://a1.gokakka.club:8880/testzyx030/123456789/30153
+#EXTINF:-1,TV5 QUEBEC HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30142
+#EXTINF:-1,NTV
+http://a1.gokakka.club:8880/testzyx030/123456789/30141
+#EXTINF:-1,RDI
+http://a1.gokakka.club:8880/testzyx030/123456789/30134
+#EXTINF:-1,RDS INFO
+http://a1.gokakka.club:8880/testzyx030/123456789/30131
+#EXTINF:-1,CTV HALIFAX
+http://a1.gokakka.club:8880/testzyx030/123456789/30110
+#EXTINF:-1,CBC Windsor
+http://a1.gokakka.club:8880/testzyx030/123456789/30107
+#EXTINF:-1,MEDIASET ITALIA CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30102
+#EXTINF:-1,CBC CALGARY
+http://a1.gokakka.club:8880/testzyx030/123456789/30100
+#EXTINF:-1,CTV CALGARY
+http://a1.gokakka.club:8880/testzyx030/123456789/30098
+#EXTINF:-1,Disney Channel HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3046
+#EXTINF:-1,Disney Junior HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3045
+#EXTINF:-1,Disney XD HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3044
+#EXTINF:-1,FAMILY HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3040
+#EXTINF:-1,PBS HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3026
+#EXTINF:-1,TREEHOUSE HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3005
+#EXTINF:-1,TVO HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2999
+#EXTINF:-1,YTV HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2997
+#EXTINF:-1,FAMILY CHRGD HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30184
+#EXTINF:-1,FAMILY JR
+http://a1.gokakka.club:8880/testzyx030/123456789/30183
+#EXTINF:-1,KNOWLEDGE KIDS
+http://a1.gokakka.club:8880/testzyx030/123456789/30167
+#EXTINF:-1,YOOPA
+http://a1.gokakka.club:8880/testzyx030/123456789/30150
+#EXTINF:-1,TELE LATINO
+http://a1.gokakka.club:8880/testzyx030/123456789/30120
+#EXTINF:-1,TELE QUEBEC
+http://a1.gokakka.club:8880/testzyx030/123456789/30119
+#EXTINF:-1,TELE TOON EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/30118
+#EXTINF:-1,TELE TOON FRENCH
+http://a1.gokakka.club:8880/testzyx030/123456789/30117
+#EXTINF:-1,NICK
+http://a1.gokakka.club:8880/testzyx030/123456789/30105
+#EXTINF:-1,Animal Planet HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3065
+#EXTINF:-1,DISCOVERY HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3047
+#EXTINF:-1,HISTORY HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3029
+#EXTINF:-1,ID HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3027
+#EXTINF:-1,National Geographic HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3020
+#EXTINF:-1,NAT GEO WILD HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3019
+#EXTINF:-1,SMITHSONIAN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3012
+#EXTINF:-1,CANAL D HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30220
+#EXTINF:-1,Crime & Investigation HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30199
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30190
+#EXTINF:-1,DOCUMENTARY
+http://a1.gokakka.club:8880/testzyx030/123456789/30188
+#EXTINF:-1,H2 CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30174
+#EXTINF:-1,HISTORIA (FR)
+http://a1.gokakka.club:8880/testzyx030/123456789/30171
+#EXTINF:-1,TVA Sports 2
+http://a1.gokakka.club:8880/testzyx030/123456789/65933
