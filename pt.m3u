@@ -1,613 +1,297 @@
 #EXTM3U
-#EXTINF:-1,RTP ❶
-http://melhordomundo.in:8080/horacio/horacio/2
-#EXTINF:-1,RTP ① ᴴᴰ
-http://melhordomundo.in:8080/horacio/horacio/3
-#EXTINF:-1,RTP ① ᶠᴴᴰ
-http://melhordomundo.in:8080/horacio/horacio/4
-#EXTINF:-1,RTP ②
-http://melhordomundo.in:8080/horacio/horacio/5
-#EXTINF:-1,RTP ② ᴴᴰ
-http://melhordomundo.in:8080/horacio/horacio/6
-#EXTINF:-1,SIC 
-http://melhordomundo.in:8080/horacio/horacio/7
-#EXTINF:-1,SIC ᴴᴰ     
-http://melhordomundo.in:8080/horacio/horacio/8
-#EXTINF:-1,SIC ᶠᴴᴰ
-http://melhordomundo.in:8080/horacio/horacio/9
-#EXTINF:-1,TVI 
-http://melhordomundo.in:8080/horacio/horacio/10
-#EXTINF:-1,TVI ᴴᴰ 
-http://melhordomundo.in:8080/horacio/horacio/11
-#EXTINF:-1,TVI FHD
-http://melhordomundo.in:8080/horacio/horacio/120062
-#EXTINF:-1,PORTO CANAL
-http://melhordomundo.in:8080/horacio/horacio/20
-#EXTINF:-1,PORTO CANAL ᴴᴰ 
-http://melhordomundo.in:8080/horacio/horacio/21
-#EXTINF:-1,♛Informação♛
-http://melhordomundo.in:8080/horacio/horacio/116996
-#EXTINF:-1,SIC NOTICIAS
-http://melhordomundo.in:8080/horacio/horacio/27
-#EXTINF:-1,SIC NOTICIAS HD
-http://melhordomundo.in:8080/horacio/horacio/28
-#EXTINF:-1,TVI 24
-http://melhordomundo.in:8080/horacio/horacio/29
-#EXTINF:-1,TVI 24 HD
-http://melhordomundo.in:8080/horacio/horacio/30
-#EXTINF:-1,TVI 24 FHD
-http://melhordomundo.in:8080/horacio/horacio/31
-#EXTINF:-1,CMTV HD 
-http://melhordomundo.in:8080/horacio/horacio/32
-#EXTINF:-1,CMTV FHD
-http://melhordomundo.in:8080/horacio/horacio/33
+#EXTINF:-1,RTP 1
+http://opplex.tv:8080/1122/1122/72577
+#EXTINF:-1,RTP 1 HD
+http://opplex.tv:8080/1122/1122/72578
+#EXTINF:-1,RTP 1 FHD
+http://opplex.tv:8080/1122/1122/72579
+#EXTINF:-1,RTP 2
+http://opplex.tv:8080/1122/1122/72580
+#EXTINF:-1,RTP 2 HD
+http://opplex.tv:8080/1122/1122/72581
+#EXTINF:-1,RTP 2 FHD
+http://opplex.tv:8080/1122/1122/72582
 #EXTINF:-1,RTP 3
-http://melhordomundo.in:8080/horacio/horacio/34
-#EXTINF:-1,RTP AFRICA
-http://melhordomundo.in:8080/horacio/horacio/22
+http://opplex.tv:8080/1122/1122/72583
+#EXTINF:-1,RTP 3 HD
+http://opplex.tv:8080/1122/1122/72584
+#EXTINF:-1,RTP 3 FHD
+http://opplex.tv:8080/1122/1122/72585
 #EXTINF:-1,RTP ACORES
-http://melhordomundo.in:8080/horacio/horacio/23
-#EXTINF:-1,RTP MEMÓRIA
-http://melhordomundo.in:8080/horacio/horacio/24
-#EXTINF:-1,RTP MEMÓRIAᴬ
-http://melhordomundo.in:8080/horacio/horacio/120063
-#EXTINF:-1,RTP MEMÓRIAᴮ
-http://melhordomundo.in:8080/horacio/horacio/120064
-#EXTINF:-1,RTP INTERNACIONAL
-http://melhordomundo.in:8080/horacio/horacio/25
+http://opplex.tv:8080/1122/1122/72586
 #EXTINF:-1,RTP MADEIRA
-http://melhordomundo.in:8080/horacio/horacio/26
-#EXTINF:-1,AR TV
-http://melhordomundo.in:8080/horacio/horacio/35
-#EXTINF:-1,♛Entretenimento♛
-http://melhordomundo.in:8080/horacio/horacio/116997
-#EXTINF:-1,OPTO
-http://melhordomundo.in:8080/horacio/horacio/131071
-#EXTINF:-1,SIC MULHER
-http://melhordomundo.in:8080/horacio/horacio/14
-#EXTINF:-1,SIC MULHER HD
-http://melhordomundo.in:8080/horacio/horacio/15
-#EXTINF:-1,SIC CARAS
-http://melhordomundo.in:8080/horacio/horacio/16
-#EXTINF:-1,SIC RADICAL
-http://melhordomundo.in:8080/horacio/horacio/17
-#EXTINF:-1,SIC RADICAL HD
-http://melhordomundo.in:8080/horacio/horacio/18
-#EXTINF:-1,TVI FICÇÃO SD
-http://melhordomundo.in:8080/horacio/horacio/127113
-#EXTINF:-1,TVI FICÇÃO ᶠᴴᴰ
-http://melhordomundo.in:8080/horacio/horacio/12
-#EXTINF:-1,TVI REALITY
-http://melhordomundo.in:8080/horacio/horacio/13
-#EXTINF:-1,TVI REALITY MOSAICO
-http://melhordomundo.in:8080/horacio/horacio/124015
-#EXTINF:-1,TVI REALITY CAMARA 1
-http://melhordomundo.in:8080/horacio/horacio/124016
-#EXTINF:-1,TVI REALITY CAMARA 2
-http://melhordomundo.in:8080/horacio/horacio/124017
-#EXTINF:-1,TVI REALITY CAMARA 3
-http://melhordomundo.in:8080/horacio/horacio/124018
-#EXTINF:-1,TVI REALITY CAMARA 4
-http://melhordomundo.in:8080/horacio/horacio/124019
-#EXTINF:-1,CANAL Q
-http://melhordomundo.in:8080/horacio/horacio/19
-#EXTINF:-1, TV RECORD
-http://melhordomundo.in:8080/horacio/horacio/173
-#EXTINF:-1, CANÇÃO NOVA
-http://melhordomundo.in:8080/horacio/horacio/174
-#EXTINF:-1, GLOBO
-http://melhordomundo.in:8080/horacio/horacio/175
-#EXTINF:-1,GLOBO PORTUGAL HD
-http://melhordomundo.in:8080/horacio/horacio/176
-#EXTINF:-1, GLOBO NOW
-http://melhordomundo.in:8080/horacio/horacio/177
-#EXTINF:-1, ZAP VIVA HD
-http://melhordomundo.in:8080/horacio/horacio/180
-#EXTINF:-1, BLAZE TV
-http://melhordomundo.in:8080/horacio/horacio/162
-#EXTINF:-1,BLAZE TV HD
-http://melhordomundo.in:8080/horacio/horacio/163
-#EXTINF:-1, CBS REALITY
-http://melhordomundo.in:8080/horacio/horacio/164
-#EXTINF:-1, ID INVESTIGATION DISCOVERY
-http://melhordomundo.in:8080/horacio/horacio/143
-#EXTINF:-1, CRIME   INVESTIGATION
-http://melhordomundo.in:8080/horacio/horacio/147
-#EXTINF:-1,E! ENTERTAINMENT
-http://melhordomundo.in:8080/horacio/horacio/165
-#EXTINF:-1,CACA E PESCA
-http://melhordomundo.in:8080/horacio/horacio/148
-#EXTINF:-1, CAÇAVISION
-http://melhordomundo.in:8080/horacio/horacio/149
-#EXTINF:-1, DOG TV FHD
-http://melhordomundo.in:8080/horacio/horacio/172
-#EXTINF:-1,♛Desporto♛
-http://melhordomundo.in:8080/horacio/horacio/116998
-#EXTINF:-1,CANAL 11
-http://melhordomundo.in:8080/horacio/horacio/36
-#EXTINF:-1,CANAL 11 HD
-http://melhordomundo.in:8080/horacio/horacio/37
-#EXTINF:-1,CANAL 11 FHD
-http://melhordomundo.in:8080/horacio/horacio/38
-#EXTINF:-1,SPORT TV +
-http://melhordomundo.in:8080/horacio/horacio/39
-#EXTINF:-1,SPORT TV + HD
-http://melhordomundo.in:8080/horacio/horacio/40
-#EXTINF:-1,Sport tv 1 SD extra
-http://melhordomundo.in:8080/horacio/horacio/41
-#EXTINF:-1,SPORT TV 1 SD
-http://melhordomundo.in:8080/horacio/horacio/42
-#EXTINF:-1,SPORT TV 1 HD
-http://melhordomundo.in:8080/horacio/horacio/43
-#EXTINF:-1,SPORT TV 1 FHD
-http://melhordomundo.in:8080/horacio/horacio/44
-#EXTINF:-1,Sport TV 1 HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127345
-#EXTINF:-1,SPORT TV 1 FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127346
-#EXTINF:-1,SPORT TV 1  ⁴ᵏ ʰ²⁶⁵
-http://melhordomundo.in:8080/horacio/horacio/128836
-#EXTINF:-1,SPORT TV  1 [low]
-http://melhordomundo.in:8080/horacio/horacio/127297
-#EXTINF:-1,SPORT TV 2
-http://melhordomundo.in:8080/horacio/horacio/45
-#EXTINF:-1,SPORT TV 2 HD
-http://melhordomundo.in:8080/horacio/horacio/46
-#EXTINF:-1,SPORT TV 2 FHD
-http://melhordomundo.in:8080/horacio/horacio/47
-#EXTINF:-1,SPORT TV 3
-http://melhordomundo.in:8080/horacio/horacio/48
-#EXTINF:-1,SPORT TV 3 HD
-http://melhordomundo.in:8080/horacio/horacio/49
-#EXTINF:-1,SPORT TV 3 FHD
-http://melhordomundo.in:8080/horacio/horacio/50
-#EXTINF:-1,SPORT TV 4
-http://melhordomundo.in:8080/horacio/horacio/51
-#EXTINF:-1,SPORT TV 4 HD
-http://melhordomundo.in:8080/horacio/horacio/52
-#EXTINF:-1,SPORT TV 5
-http://melhordomundo.in:8080/horacio/horacio/53
-#EXTINF:-1,SPORT TV 5 HD
-http://melhordomundo.in:8080/horacio/horacio/54
-#EXTINF:-1,SPORT TV 5 FHD
-http://melhordomundo.in:8080/horacio/horacio/55
-#EXTINF:-1, ELEVEN SPORTS 1 SD
-http://melhordomundo.in:8080/horacio/horacio/56
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://melhordomundo.in:8080/horacio/horacio/57
-#EXTINF:-1, ELEVEN SPORTS 1 FHD
-http://melhordomundo.in:8080/horacio/horacio/58
-#EXTINF:-1, ELEVEN SPORTS 2 SD
-http://melhordomundo.in:8080/horacio/horacio/59
-#EXTINF:-1, ELEVEN SPORTS 2 HD
-http://melhordomundo.in:8080/horacio/horacio/60
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://melhordomundo.in:8080/horacio/horacio/61
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://melhordomundo.in:8080/horacio/horacio/63
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://melhordomundo.in:8080/horacio/horacio/64
-#EXTINF:-1, ELEVEN SPORTS 4 SD
-http://melhordomundo.in:8080/horacio/horacio/65
-#EXTINF:-1, ELEVEN SPORTS 4 HD
-http://melhordomundo.in:8080/horacio/horacio/66
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://melhordomundo.in:8080/horacio/horacio/67
-#EXTINF:-1, ELEVEN SPORTS 5 HD
-http://melhordomundo.in:8080/horacio/horacio/69
-#EXTINF:-1, ELEVEN SPORTS 5 FHD
-http://melhordomundo.in:8080/horacio/horacio/70
-#EXTINF:-1,ELEVEN SPORTS 6 SD
-http://melhordomundo.in:8080/horacio/horacio/71
-#EXTINF:-1, ELEVEN SPORTS 6 HD
-http://melhordomundo.in:8080/horacio/horacio/72
-#EXTINF:-1,ELEVEN SPORTS 6 FHD
-http://melhordomundo.in:8080/horacio/horacio/73
-#EXTINF:-1, BTV  ⁴ᵏ ʰ²⁶⁵
-http://melhordomundo.in:8080/horacio/horacio/74
+http://opplex.tv:8080/1122/1122/72587
+#EXTINF:-1,RTP MEMORIA
+http://opplex.tv:8080/1122/1122/72588
+#EXTINF:-1,RTP Africa
+http://opplex.tv:8080/1122/1122/72589
+#EXTINF:-1,AMC
+http://opplex.tv:8080/1122/1122/72590
+#EXTINF:-1,Nat Geo
+http://opplex.tv:8080/1122/1122/72591
+#EXTINF:-1,AXN Black
+http://opplex.tv:8080/1122/1122/72592
+#EXTINF:-1,AXN White
+http://opplex.tv:8080/1122/1122/72593
+#EXTINF:-1,Fox Comedy
+http://opplex.tv:8080/1122/1122/72594
+#EXTINF:-1,Fox Crime
+http://opplex.tv:8080/1122/1122/72595
+#EXTINF:-1,Fox Life
+http://opplex.tv:8080/1122/1122/72596
+#EXTINF:-1,Fox Movies
+http://opplex.tv:8080/1122/1122/72597
+#EXTINF:-1,Sic Noticias
+http://opplex.tv:8080/1122/1122/72598
+#EXTINF:-1,CMTV
+http://opplex.tv:8080/1122/1122/72599
+#EXTINF:-1,Sic Mulher
+http://opplex.tv:8080/1122/1122/72600
+#EXTINF:-1,SIC Caras
+http://opplex.tv:8080/1122/1122/72601
+#EXTINF:-1,SIC Radical
+http://opplex.tv:8080/1122/1122/72602
+#EXTINF:-1,TVCINE TOP
+http://opplex.tv:8080/1122/1122/72603
+#EXTINF:-1,TVCINE EDITION
+http://opplex.tv:8080/1122/1122/72604
+#EXTINF:-1,TVCINE 3 EMOTION
+http://opplex.tv:8080/1122/1122/72605
+#EXTINF:-1,TV SERIES
+http://opplex.tv:8080/1122/1122/72607
+#EXTINF:-1,HOLLYWOOD
+http://opplex.tv:8080/1122/1122/72608
+#EXTINF:-1,ARTV
+http://opplex.tv:8080/1122/1122/72609
+#EXTINF:-1,BIGGS
+http://opplex.tv:8080/1122/1122/72610
+#EXTINF:-1,SYFY
+http://opplex.tv:8080/1122/1122/72611
+#EXTINF:-1,11 HD
+http://opplex.tv:8080/1122/1122/72612
+#EXTINF:-1,24 KITCHEN HD
+http://opplex.tv:8080/1122/1122/72613
+#EXTINF:-1,A BOLA TV
+http://opplex.tv:8080/1122/1122/72614
+#EXTINF:-1,AFRO MUSIC
+http://opplex.tv:8080/1122/1122/72615
+#EXTINF:-1,AMC HD
+http://opplex.tv:8080/1122/1122/72616
+#EXTINF:-1,AXN BLACK HD
+http://opplex.tv:8080/1122/1122/72617
+#EXTINF:-1,AXN HD
+http://opplex.tv:8080/1122/1122/72618
+#EXTINF:-1,AXN WHITE HD
+http://opplex.tv:8080/1122/1122/72619
+#EXTINF:-1,BABY TV
+http://opplex.tv:8080/1122/1122/72620
+#EXTINF:-1,BLAZE
+http://opplex.tv:8080/1122/1122/72621
+#EXTINF:-1,BTV
+http://opplex.tv:8080/1122/1122/72622
 #EXTINF:-1,BTV HD
-http://melhordomundo.in:8080/horacio/horacio/75
-#EXTINF:-1, BTV FHD
-http://melhordomundo.in:8080/horacio/horacio/76
-#EXTINF:-1,BTV HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127368
-#EXTINF:-1,BTV FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127369
-#EXTINF:-1, SPORTING TV
-http://melhordomundo.in:8080/horacio/horacio/77
-#EXTINF:-1, SPORTING TV HD
-http://melhordomundo.in:8080/horacio/horacio/78
-#EXTINF:-1, A BOLA TV FHD
-http://melhordomundo.in:8080/horacio/horacio/79
-#EXTINF:-1,PFC
-http://melhordomundo.in:8080/horacio/horacio/80
-#EXTINF:-1, NBA TV
-http://melhordomundo.in:8080/horacio/horacio/81
-#EXTINF:-1, SPORT TV NBA HD
-http://melhordomundo.in:8080/horacio/horacio/82
-#EXTINF:-1, WWE NETWORK
-http://melhordomundo.in:8080/horacio/horacio/83
-#EXTINF:-1, Red Bull TV FHD
-http://melhordomundo.in:8080/horacio/horacio/84
-#EXTINF:-1,WRC + FHD
-http://melhordomundo.in:8080/horacio/horacio/117130
-#EXTINF:-1, EUROSPORT 1
-http://melhordomundo.in:8080/horacio/horacio/85
-#EXTINF:-1,EUROSPORT 1 HD
-http://melhordomundo.in:8080/horacio/horacio/86
-#EXTINF:-1, EUROSPORT 2
-http://melhordomundo.in:8080/horacio/horacio/87
-#EXTINF:-1, KOMBAT SPORT
-http://melhordomundo.in:8080/horacio/horacio/88
-#EXTINF:-1,FIGHT NETWORK FHD
-http://melhordomundo.in:8080/horacio/horacio/89
-#EXTINF:-1, FUEL TV
-http://melhordomundo.in:8080/horacio/horacio/90
-#EXTINF:-1, MOTORVISION
-http://melhordomundo.in:8080/horacio/horacio/91
-#EXTINF:-1, REAL MADRID
-http://melhordomundo.in:8080/horacio/horacio/92
-#EXTINF:-1,♛Filmes/Séries♛
-http://melhordomundo.in:8080/horacio/horacio/117000
-#EXTINF:-1, TV Cine TOP
-http://melhordomundo.in:8080/horacio/horacio/93
-#EXTINF:-1, TV Cine TOP HD
-http://melhordomundo.in:8080/horacio/horacio/94
-#EXTINF:-1, TV Cine TOP FHD
-http://melhordomundo.in:8080/horacio/horacio/95
-#EXTINF:-1,Tv Cine EDITION
-http://melhordomundo.in:8080/horacio/horacio/96
-#EXTINF:-1,Tv Cine EDITION HD
-http://melhordomundo.in:8080/horacio/horacio/97
-#EXTINF:-1,Tv Cine EDITION FHD
-http://melhordomundo.in:8080/horacio/horacio/98
-#EXTINF:-1, Tv Cine EMOTION
-http://melhordomundo.in:8080/horacio/horacio/99
-#EXTINF:-1, Tv Cine EMOTION HD
-http://melhordomundo.in:8080/horacio/horacio/100
-#EXTINF:-1,Tv Cine EMOTION FHD
-http://melhordomundo.in:8080/horacio/horacio/101
-#EXTINF:-1,Tv Cine ACTION
-http://melhordomundo.in:8080/horacio/horacio/102
-#EXTINF:-1, Tv Cine ACTION HD
-http://melhordomundo.in:8080/horacio/horacio/103
-#EXTINF:-1, Tv Cine ACTION FHD
-http://melhordomundo.in:8080/horacio/horacio/104
-#EXTINF:-1, NOS STUDIO FHD
-http://melhordomundo.in:8080/horacio/horacio/108
-#EXTINF:-1,EUROCHANNEL
-http://melhordomundo.in:8080/horacio/horacio/117131
-#EXTINF:-1, AMC
-http://melhordomundo.in:8080/horacio/horacio/113
-#EXTINF:-1, AMC FHD
-http://melhordomundo.in:8080/horacio/horacio/114
-#EXTINF:-1, AMC HD
-http://melhordomundo.in:8080/horacio/horacio/115
-#EXTINF:-1, AXN
-http://melhordomundo.in:8080/horacio/horacio/128
-#EXTINF:-1, AXN HD
-http://melhordomundo.in:8080/horacio/horacio/129
-#EXTINF:-1, AXN FHD
-http://melhordomundo.in:8080/horacio/horacio/130
-#EXTINF:-1, AXN WHITE
-http://melhordomundo.in:8080/horacio/horacio/131
-#EXTINF:-1, AXN WHITE HD
-http://melhordomundo.in:8080/horacio/horacio/132
-#EXTINF:-1,AXN WHITE FHD
-http://melhordomundo.in:8080/horacio/horacio/133
-#EXTINF:-1,AXN MOVIES
-http://melhordomundo.in:8080/horacio/horacio/134
-#EXTINF:-1,AXN MOVIES HD
-http://melhordomundo.in:8080/horacio/horacio/135
-#EXTINF:-1, AXN MOVIES FHD
-http://melhordomundo.in:8080/horacio/horacio/136
-#EXTINF:-1, CINEMUNDO
-http://melhordomundo.in:8080/horacio/horacio/111
-#EXTINF:-1, CINEMUNDO HD
-http://melhordomundo.in:8080/horacio/horacio/112
-#EXTINF:-1,FOX MOVIES
-http://melhordomundo.in:8080/horacio/horacio/116
-#EXTINF:-1, FOX MOVIES HD
-http://melhordomundo.in:8080/horacio/horacio/117
-#EXTINF:-1,FOX
-http://melhordomundo.in:8080/horacio/horacio/118
-#EXTINF:-1, FOX HD
-http://melhordomundo.in:8080/horacio/horacio/120
-#EXTINF:-1, FOX FHD
-http://melhordomundo.in:8080/horacio/horacio/119
-#EXTINF:-1, FOX CRIME
-http://melhordomundo.in:8080/horacio/horacio/121
-#EXTINF:-1,FOX CRIME HD
-http://melhordomundo.in:8080/horacio/horacio/122
-#EXTINF:-1,FOX CRIME FHD
-http://melhordomundo.in:8080/horacio/horacio/123
-#EXTINF:-1,FOX LIFE
-http://melhordomundo.in:8080/horacio/horacio/124
-#EXTINF:-1,FOX LIFE HD
-http://melhordomundo.in:8080/horacio/horacio/125
-#EXTINF:-1, FOX COMEDY
-http://melhordomundo.in:8080/horacio/horacio/126
+http://opplex.tv:8080/1122/1122/72623
+#EXTINF:-1,CA�A E PESCA
+http://opplex.tv:8080/1122/1122/72624
+#EXTINF:-1,CA�AVISION
+http://opplex.tv:8080/1122/1122/72625
+#EXTINF:-1,CANAL HISTORIA
+http://opplex.tv:8080/1122/1122/72626
+#EXTINF:-1,CANAL PANDA
+http://opplex.tv:8080/1122/1122/72627
+#EXTINF:-1,CANAL Q
+http://opplex.tv:8080/1122/1122/72628
+#EXTINF:-1,CBS REALITY
+http://opplex.tv:8080/1122/1122/72630
+#EXTINF:-1,CINEMUNDO HD
+http://opplex.tv:8080/1122/1122/72631
+#EXTINF:-1,CMTV HD
+http://opplex.tv:8080/1122/1122/72632
+#EXTINF:-1,DISCOVERY
+http://opplex.tv:8080/1122/1122/72633
+#EXTINF:-1,DISNEY CHANNEL
+http://opplex.tv:8080/1122/1122/72634
+#EXTINF:-1,DISNEY JUNIOR
+http://opplex.tv:8080/1122/1122/72635
+#EXTINF:-1,E! ENTERTAINMENT
+http://opplex.tv:8080/1122/1122/72636
+#EXTINF:-1,ELEVEN  2 HD
+http://opplex.tv:8080/1122/1122/72637
+#EXTINF:-1,ELEVEN 3 HD
+http://opplex.tv:8080/1122/1122/72638
+#EXTINF:-1,ELEVEN 5 HD
+http://opplex.tv:8080/1122/1122/72639
+#EXTINF:-1,ELEVEN 6 HD
+http://opplex.tv:8080/1122/1122/72640
+#EXTINF:-1,ELEVEN 1 HD
+http://opplex.tv:8080/1122/1122/72641
+#EXTINF:-1,ELEVEN 4 HD
+http://opplex.tv:8080/1122/1122/72642
+#EXTINF:-1,EUROSPORT  1 HD
+http://opplex.tv:8080/1122/1122/72643
+#EXTINF:-1,FOOD NETWORK HD
+http://opplex.tv:8080/1122/1122/72644
 #EXTINF:-1,FOX COMEDY HD
-http://melhordomundo.in:8080/horacio/horacio/127
-#EXTINF:-1, HOLLYWOOD
-http://melhordomundo.in:8080/horacio/horacio/109
-#EXTINF:-1, HOLLYWOOD HD
-http://melhordomundo.in:8080/horacio/horacio/110
-#EXTINF:-1, SYFY
-http://melhordomundo.in:8080/horacio/horacio/137
-#EXTINF:-1, SYFY HD
-http://melhordomundo.in:8080/horacio/horacio/138
-#EXTINF:-1,♛Infantil♛
-http://melhordomundo.in:8080/horacio/horacio/116999
-#EXTINF:-1,DISNEY CHANNEL FAMILY
-http://melhordomundo.in:8080/horacio/horacio/126416
-#EXTINF:-1, DISNEY CHANNEL
-http://melhordomundo.in:8080/horacio/horacio/151
-#EXTINF:-1,DISNEY JÚNIOR
-http://melhordomundo.in:8080/horacio/horacio/152
-#EXTINF:-1, CANAL PANDA
-http://melhordomundo.in:8080/horacio/horacio/153
-#EXTINF:-1, BIGGS
-http://melhordomundo.in:8080/horacio/horacio/154
+http://opplex.tv:8080/1122/1122/72645
+#EXTINF:-1,FOX CRIME HD
+http://opplex.tv:8080/1122/1122/72646
+#EXTINF:-1,FOX HD
+http://opplex.tv:8080/1122/1122/72647
+#EXTINF:-1,FOX LIFE HD
+http://opplex.tv:8080/1122/1122/72648
+#EXTINF:-1,FOX MOVIES HD
+http://opplex.tv:8080/1122/1122/72649
+#EXTINF:-1,FUEL TV
+http://opplex.tv:8080/1122/1122/72650
+#EXTINF:-1,GLOBO PORTUGAL
+http://opplex.tv:8080/1122/1122/72651
+#EXTINF:-1,GLOBO PORTUGAL HD
+http://opplex.tv:8080/1122/1122/72652
+#EXTINF:-1,HOLLYWOOD HD
+http://opplex.tv:8080/1122/1122/72653
 #EXTINF:-1,JIM JAM
-http://melhordomundo.in:8080/horacio/horacio/155
-#EXTINF:-1, BABY TV
-http://melhordomundo.in:8080/horacio/horacio/156
-#EXTINF:-1, CARTOON NETWORK
-http://melhordomundo.in:8080/horacio/horacio/157
-#EXTINF:-1,NICKELODEON
-http://melhordomundo.in:8080/horacio/horacio/158
+http://opplex.tv:8080/1122/1122/72654
+#EXTINF:-1,KOMBAT SPORT
+http://opplex.tv:8080/1122/1122/72655
+#EXTINF:-1,MCM POP
+http://opplex.tv:8080/1122/1122/72656
+#EXTINF:-1,MCM TOP
+http://opplex.tv:8080/1122/1122/72657
+#EXTINF:-1,MEZZO-LIVE HD
+http://opplex.tv:8080/1122/1122/72658
+#EXTINF:-1,MOTORVISION HD
+http://opplex.tv:8080/1122/1122/72659
+#EXTINF:-1,MTV PORTUGAL HD
+http://opplex.tv:8080/1122/1122/72660
+#EXTINF:-1,NAT GEO HD
+http://opplex.tv:8080/1122/1122/72661
+#EXTINF:-1,NAT GEO WILD
+http://opplex.tv:8080/1122/1122/72662
+#EXTINF:-1,NAT GEO WILD HD
+http://opplex.tv:8080/1122/1122/72663
 #EXTINF:-1,NICK JR.
-http://melhordomundo.in:8080/horacio/horacio/159
-#EXTINF:-1, SIC K
-http://melhordomundo.in:8080/horacio/horacio/160
-#EXTINF:-1,♛Documentários♛
-http://melhordomundo.in:8080/horacio/horacio/117001
-#EXTINF:-1, DISCOVERY CHANNEL
-http://melhordomundo.in:8080/horacio/horacio/141
-#EXTINF:-1, DISCOVERY CHANNEL HD
-http://melhordomundo.in:8080/horacio/horacio/142
-#EXTINF:-1, National Geographic WILD
-http://melhordomundo.in:8080/horacio/horacio/139
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://melhordomundo.in:8080/horacio/horacio/140
-#EXTINF:-1, HISTORIA
-http://melhordomundo.in:8080/horacio/horacio/144
-#EXTINF:-1, ODISSEIA
-http://melhordomundo.in:8080/horacio/horacio/145
-#EXTINF:-1, ODISSEIA HD
-http://melhordomundo.in:8080/horacio/horacio/146
-#EXTINF:-1,♛LifeStyle♛
-http://melhordomundo.in:8080/horacio/horacio/117002
-#EXTINF:-1, TLC
-http://melhordomundo.in:8080/horacio/horacio/168
-#EXTINF:-1, TRAVEL CHANNEL HD
-http://melhordomundo.in:8080/horacio/horacio/150
-#EXTINF:-1, 24 KITCHEN
-http://melhordomundo.in:8080/horacio/horacio/171
-#EXTINF:-1,Casa E Cozinha
-http://melhordomundo.in:8080/horacio/horacio/120061
-#EXTINF:-1, MY CUISINE
-http://melhordomundo.in:8080/horacio/horacio/167
-#EXTINF:-1, LUXE TV HD
-http://melhordomundo.in:8080/horacio/horacio/161
-#EXTINF:-1,KURIAKOS
-http://melhordomundo.in:8080/horacio/horacio/166
-#EXTINF:-1, FASHION TV
-http://melhordomundo.in:8080/horacio/horacio/169
-#EXTINF:-1,♛Música♛
-http://melhordomundo.in:8080/horacio/horacio/117003
-#EXTINF:-1, MTV PORTUGAL
-http://melhordomundo.in:8080/horacio/horacio/189
-#EXTINF:-1,iCONCERTs
-http://melhordomundo.in:8080/horacio/horacio/124315
-#EXTINF:-1, VH1
-http://melhordomundo.in:8080/horacio/horacio/190
-#EXTINF:-1, MCM POP
-http://melhordomundo.in:8080/horacio/horacio/188
-#EXTINF:-1, AFRO MUSIC
-http://melhordomundo.in:8080/horacio/horacio/191
-#EXTINF:-1, TRACE TOCA
-http://melhordomundo.in:8080/horacio/horacio/192
-#EXTINF:-1, TRACE URBAN
-http://melhordomundo.in:8080/horacio/horacio/193
-#EXTINF:-1, MEZZO
-http://melhordomundo.in:8080/horacio/horacio/194
-#EXTINF:-1,♛Internacionais♛
-http://melhordomundo.in:8080/horacio/horacio/117004
-#EXTINF:-1, EURONEWS
-http://melhordomundo.in:8080/horacio/horacio/170
-#EXTINF:-1, TCV CABO
-http://melhordomundo.in:8080/horacio/horacio/178
-#EXTINF:-1, TPA INTERNACIONAL
-http://melhordomundo.in:8080/horacio/horacio/179
-#EXTINF:-1, TV5 MONDE
-http://melhordomundo.in:8080/horacio/horacio/181
-#EXTINF:-1, TVE 24h
-http://melhordomundo.in:8080/horacio/horacio/182
-#EXTINF:-1, TVE Internacional
-http://melhordomundo.in:8080/horacio/horacio/183
-#EXTINF:-1, Sky News
-http://melhordomundo.in:8080/horacio/horacio/184
-#EXTINF:-1, CNN
-http://melhordomundo.in:8080/horacio/horacio/185
-#EXTINF:-1,M6
-http://melhordomundo.in:8080/horacio/horacio/186
-#EXTINF:-1,BLOOMBERG
-http://melhordomundo.in:8080/horacio/horacio/187
-#EXTINF:-1,♛LOW(Internet Fraca)♛
-http://melhordomundo.in:8080/horacio/horacio/127375
-#EXTINF:-1,RTP 1 [low]
-http://melhordomundo.in:8080/horacio/horacio/127284
-#EXTINF:-1,SIC [low]
-http://melhordomundo.in:8080/horacio/horacio/127285
-#EXTINF:-1,TVI [low]
-http://melhordomundo.in:8080/horacio/horacio/127286
-#EXTINF:-1,CMTV [low]
-http://melhordomundo.in:8080/horacio/horacio/127287
-#EXTINF:-1,TVI 24 [low]
-http://melhordomundo.in:8080/horacio/horacio/127288
-#EXTINF:-1,SIC Noticias [low]
-http://melhordomundo.in:8080/horacio/horacio/127289
-#EXTINF:-1,TVI Ficção [low]
-http://melhordomundo.in:8080/horacio/horacio/127292
-#EXTINF:-1,SIC Caras [low]
-http://melhordomundo.in:8080/horacio/horacio/127293
-#EXTINF:-1,SIC Mulher [low]
-http://melhordomundo.in:8080/horacio/horacio/127294
-#EXTINF:-1,SIC Radical [low]
-http://melhordomundo.in:8080/horacio/horacio/127295
-#EXTINF:-1,Globo [low]
-http://melhordomundo.in:8080/horacio/horacio/127296
-#EXTINF:-1,Canal 11 [low]
-http://melhordomundo.in:8080/horacio/horacio/127290
-#EXTINF:-1,Sport TV 2 [low]
-http://melhordomundo.in:8080/horacio/horacio/127298
-#EXTINF:-1,Sport TV 3 [low]
-http://melhordomundo.in:8080/horacio/horacio/127299
-#EXTINF:-1,Sport TV 4 [low]
-http://melhordomundo.in:8080/horacio/horacio/127300
-#EXTINF:-1,Sport TV 5 [low]
-http://melhordomundo.in:8080/horacio/horacio/127301
-#EXTINF:-1,Eleven Sports 1 [low]
-http://melhordomundo.in:8080/horacio/horacio/127303
-#EXTINF:-1,Eleven Sports 2 [low]
-http://melhordomundo.in:8080/horacio/horacio/127304
-#EXTINF:-1,Eleven Sports 3 [low]
-http://melhordomundo.in:8080/horacio/horacio/127305
-#EXTINF:-1,Benfica TV [low]
-http://melhordomundo.in:8080/horacio/horacio/127302
-#EXTINF:-1,A Bola TV [low]
-http://melhordomundo.in:8080/horacio/horacio/127291
-#EXTINF:-1,Eurosport 1 [low]
-http://melhordomundo.in:8080/horacio/horacio/127306
-#EXTINF:-1,TV Cine TOP [low]
-http://melhordomundo.in:8080/horacio/horacio/127307
-#EXTINF:-1,TV Cine Edition [low]
-http://melhordomundo.in:8080/horacio/horacio/127308
-#EXTINF:-1,TV Cine Emotion [low]
-http://melhordomundo.in:8080/horacio/horacio/127309
-#EXTINF:-1,TV Cine Action [low]
-http://melhordomundo.in:8080/horacio/horacio/127310
-#EXTINF:-1,Nos Studios [low]
-http://melhordomundo.in:8080/horacio/horacio/127311
-#EXTINF:-1,Hollywood [low]
-http://melhordomundo.in:8080/horacio/horacio/127312
-#EXTINF:-1,Cinemundo [low]
-http://melhordomundo.in:8080/horacio/horacio/127313
-#EXTINF:-1,SYFY [low]
-http://melhordomundo.in:8080/horacio/horacio/127314
-#EXTINF:-1,AMC [low]
-http://melhordomundo.in:8080/horacio/horacio/127315
-#EXTINF:-1,AXN [low]
-http://melhordomundo.in:8080/horacio/horacio/127316
-#EXTINF:-1,AXN Movies [low]
-http://melhordomundo.in:8080/horacio/horacio/127317
-#EXTINF:-1,AXN White [low]
-http://melhordomundo.in:8080/horacio/horacio/127318
-#EXTINF:-1,FOX [low]
-http://melhordomundo.in:8080/horacio/horacio/127319
-#EXTINF:-1,FOX Comedy [low]
-http://melhordomundo.in:8080/horacio/horacio/127320
-#EXTINF:-1,FOX Crime [low]
-http://melhordomundo.in:8080/horacio/horacio/127321
-#EXTINF:-1,FOX Life [low]
-http://melhordomundo.in:8080/horacio/horacio/127322
-#EXTINF:-1,FOX Movies [low]
-http://melhordomundo.in:8080/horacio/horacio/127323
-#EXTINF:-1,Canal Panda [low]
-http://melhordomundo.in:8080/horacio/horacio/127324
-#EXTINF:-1,Disney [low]
-http://melhordomundo.in:8080/horacio/horacio/127325
-#EXTINF:-1,SIC Kids [low]
-http://melhordomundo.in:8080/horacio/horacio/127326
-#EXTINF:-1,Odisseia [low]
-http://melhordomundo.in:8080/horacio/horacio/127327
-#EXTINF:-1,Nat Geo [low]
-http://melhordomundo.in:8080/horacio/horacio/127328
-#EXTINF:-1,Blaze [low]
-http://melhordomundo.in:8080/horacio/horacio/127329
-#EXTINF:-1,♛HEVC/H265♛
-http://melhordomundo.in:8080/horacio/horacio/127376
-#EXTINF:-1,RTP 1 HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127351
-#EXTINF:-1,RTP 1 FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127352
-#EXTINF:-1,SIC HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127349
-#EXTINF:-1,SIC FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127350
-#EXTINF:-1,TVI HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127330
-#EXTINF:-1,TVI FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127331
-#EXTINF:-1,SIC NOTICIAS HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127348
-#EXTINF:-1,CMTV HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127365
-#EXTINF:-1,CMTV FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127366
-#EXTINF:-1,GLOBO HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127355
-#EXTINF:-1,SPORT TV   HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127347
-#EXTINF:-1,SPORT TV 2 HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127343
-#EXTINF:-1,SPORT TV 2 FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127344
-#EXTINF:-1,SPORT TV 3 HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127342
-#EXTINF:-1,SPORT TV 4 HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127341
-#EXTINF:-1,SPORT TV 5 HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127340
-#EXTINF:-1,ELEVEN SPORTS 1 HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127363
-#EXTINF:-1,ELEVEN SPORTS 1 FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127364
-#EXTINF:-1,ELEVEN SPORTS 2 HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127361
-#EXTINF:-1,ELEVEN SPORTS 2 FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127362
-#EXTINF:-1,A BOLA HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127374
-#EXTINF:-1,TVCINE TOP HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127332
-#EXTINF:-1,TVCINE TOP FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127333
-#EXTINF:-1,TVCINE EDITION HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127336
-#EXTINF:-1,TVCINE EDITION FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127337
-#EXTINF:-1,TVCINE EMOTON HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127334
-#EXTINF:-1,TVCINE EMOTON FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127335
-#EXTINF:-1,TVCINE ACTION HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127338
-#EXTINF:-1,TVCINE ACTION FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127339
-#EXTINF:-1,NOS STUDIOS HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127353
-#EXTINF:-1,FOX HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127357
-#EXTINF:-1,FOX FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127358
-#EXTINF:-1,FOX MOVIES HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127356
-#EXTINF:-1,FOX CRIME HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127359
-#EXTINF:-1,FOX COMEDY HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127360
-#EXTINF:-1,HOLLYWOOD HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127354
-#EXTINF:-1,CINEMUNDO HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127367
-#EXTINF:-1,AXN HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127372
-#EXTINF:-1,AXN FHD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127373
-#EXTINF:-1,AXN WHITE HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127370
-#EXTINF:-1,AXN MOVIES HD [hevc]
-http://melhordomundo.in:8080/horacio/horacio/127371
+http://opplex.tv:8080/1122/1122/72664
+#EXTINF:-1,NICKELODEON
+http://opplex.tv:8080/1122/1122/72665
+#EXTINF:-1,NOS STUDIOS HD
+http://opplex.tv:8080/1122/1122/72666
+#EXTINF:-1,ODISSEIA HD
+http://opplex.tv:8080/1122/1122/72667
+#EXTINF:-1,PANDA BIGSS
+http://opplex.tv:8080/1122/1122/72668
+#EXTINF:-1,PFC
+http://opplex.tv:8080/1122/1122/72669
+#EXTINF:-1,SIC
+http://opplex.tv:8080/1122/1122/72671
+#EXTINF:-1,SIC CARAS HD
+http://opplex.tv:8080/1122/1122/72672
+#EXTINF:-1,SIC HD
+http://opplex.tv:8080/1122/1122/72673
+#EXTINF:-1,SIC Kids
+http://opplex.tv:8080/1122/1122/72674
+#EXTINF:-1,Sic Kids HD
+http://opplex.tv:8080/1122/1122/72675
+#EXTINF:-1,SIC MULHER HD
+http://opplex.tv:8080/1122/1122/72676
+#EXTINF:-1,SIC NOTICIAS HD
+http://opplex.tv:8080/1122/1122/72677
+#EXTINF:-1,SIC RADICAL HD
+http://opplex.tv:8080/1122/1122/72678
+#EXTINF:-1,SPORTING TV HD
+http://opplex.tv:8080/1122/1122/72679
+#EXTINF:-1,SYFY-HD
+http://opplex.tv:8080/1122/1122/72680
+#EXTINF:-1,TLC
+http://opplex.tv:8080/1122/1122/72681
+#EXTINF:-1,TOROS TV HD
+http://opplex.tv:8080/1122/1122/72682
+#EXTINF:-1,TPA
+http://opplex.tv:8080/1122/1122/72683
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://opplex.tv:8080/1122/1122/72684
+#EXTINF:-1,TV RECORD HD
+http://opplex.tv:8080/1122/1122/72685
+#EXTINF:-1,TV SERIES HD
+http://opplex.tv:8080/1122/1122/72686
+#EXTINF:-1,TVCINE TOP HD
+http://opplex.tv:8080/1122/1122/72687
+#EXTINF:-1,TVCINE EDITION HD
+http://opplex.tv:8080/1122/1122/72688
+#EXTINF:-1,TVCINE EMOTION HD
+http://opplex.tv:8080/1122/1122/72689
+#EXTINF:-1,TVCINE ACTION HD
+http://opplex.tv:8080/1122/1122/72690
+#EXTINF:-1,TVI
+http://opplex.tv:8080/1122/1122/72691
+#EXTINF:-1,TVI 24
+http://opplex.tv:8080/1122/1122/72692
+#EXTINF:-1,TVI FICCAO
+http://opplex.tv:8080/1122/1122/72693
+#EXTINF:-1,TVI HD
+http://opplex.tv:8080/1122/1122/72694
+#EXTINF:-1,TVI REALITY
+http://opplex.tv:8080/1122/1122/72695
+#EXTINF:-1,VH1
+http://opplex.tv:8080/1122/1122/72696
+#EXTINF:-1,DISCOVERY HD
+http://opplex.tv:8080/1122/1122/72698
+#EXTINF:-1,ODISSEIA
+http://opplex.tv:8080/1122/1122/72699
+#EXTINF:-1,AXN
+http://opplex.tv:8080/1122/1122/72700
+#EXTINF:-1,Cinemundo
+http://opplex.tv:8080/1122/1122/72701
+#EXTINF:-1,MTV Portugal
+http://opplex.tv:8080/1122/1122/72702
+#EXTINF:-1,ZAP VIVA HD
+http://opplex.tv:8080/1122/1122/72703
+#EXTINF:-1,GLOBO NOW HD
+http://opplex.tv:8080/1122/1122/72704
+#EXTINF:-1,MY CUISINE
+http://opplex.tv:8080/1122/1122/72705
+#EXTINF:-1,TV RECORD
+http://opplex.tv:8080/1122/1122/72706
+#EXTINF:-1,Porto Canal
+http://opplex.tv:8080/1122/1122/72707
+#EXTINF:-1,Sporting TV
+http://opplex.tv:8080/1122/1122/72708
+#EXTINF:-1,SPORT TV + HD
+http://opplex.tv:8080/1122/1122/72709
+#EXTINF:-1,SPORT TV 1
+http://opplex.tv:8080/1122/1122/72710
+#EXTINF:-1,SPORT TV 1 HD
+http://opplex.tv:8080/1122/1122/72711
+#EXTINF:-1,SPORT TV 2
+http://opplex.tv:8080/1122/1122/72712
+#EXTINF:-1,SPORT TV 2 HD
+http://opplex.tv:8080/1122/1122/72713
+#EXTINF:-1,SPORT TV 3
+http://opplex.tv:8080/1122/1122/72714
+#EXTINF:-1,SPORT TV 3 HD
+http://opplex.tv:8080/1122/1122/72715
+#EXTINF:-1,SPORT TV 4
+http://opplex.tv:8080/1122/1122/72716
+#EXTINF:-1,SPORT TV 4 HD
+http://opplex.tv:8080/1122/1122/72717
+#EXTINF:-1,SPORT TV 5
+http://opplex.tv:8080/1122/1122/72718
+#EXTINF:-1,SPORT TV 5 HD
+http://opplex.tv:8080/1122/1122/72719
+#EXTINF:-1,SPORT TV NBA  HD
+http://opplex.tv:8080/1122/1122/72720
+#EXTINF:-1,Eurosport 1
+http://opplex.tv:8080/1122/1122/72721
+#EXTINF:-1,Eurosport 2
+http://opplex.tv:8080/1122/1122/72722
+#EXTINF:-1,Eleven Sports 3
+http://opplex.tv:8080/1122/1122/72723
+#EXTINF:-1,Eleven Sports 6
+http://opplex.tv:8080/1122/1122/72724
+#EXTINF:-1,Eleven Sports 5
+http://opplex.tv:8080/1122/1122/72725
+#EXTINF:-1,Eleven Sports 4
+http://opplex.tv:8080/1122/1122/72726
+#EXTINF:-1,Eleven Sports 2
+http://opplex.tv:8080/1122/1122/72727
+#EXTINF:-1,Eleven Sports 1
+http://opplex.tv:8080/1122/1122/72728
