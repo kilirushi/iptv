@@ -1,97 +1,327 @@
 #EXTM3U
-#EXTINF:-1,TVP Seriale
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2278.ts
-#EXTINF:-1,Polsat HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2279.ts
-#EXTINF:-1,TVN Style HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2280.ts
-#EXTINF:-1,MiniMini HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2281.ts
-#EXTINF:-1,teleTOON+ HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2282.ts
-#EXTINF:-1,TVP ABC
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2283.ts
-#EXTINF:-1,Super Polsat
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2284.ts
-#EXTINF:-1,Polsat Cafe HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2285.ts
+#EXTINF:-1,13 Ulica HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375792.ts
+#EXTINF:-1,4 Fun Hits
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375707.ts
+#EXTINF:-1,4 Fun TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375708.ts
+#EXTINF:-1,4Fun Dance
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375793.ts
+#EXTINF:-1,4Fun Gold Hits
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375794.ts
+#EXTINF:-1,4FUN TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322654.ts
+#EXTINF:-1,Active Family
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375795.ts
+#EXTINF:-1,ADVENTURE HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375796.ts
+#EXTINF:-1,ALE KINO HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375669.ts
+#EXTINF:-1,Ale Kino+  HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375797.ts
+#EXTINF:-1,AMC
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375798.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375670.ts
+#EXTINF:-1,ATM Rozrywka
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375799.ts
+#EXTINF:-1,AXN Black
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375724.ts
+#EXTINF:-1,AXN HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375725.ts
+#EXTINF:-1,AXN SPIN HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375800.ts
+#EXTINF:-1,AXN White
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375726.ts
+#EXTINF:-1,Baby TV HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375709.ts
+#EXTINF:-1,BBC EARTH
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375728.ts
+#EXTINF:-1,BBC HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375729.ts
+#EXTINF:-1,BOOMERANG
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375730.ts
+#EXTINF:-1,Cinemax 2 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375806.ts
+#EXTINF:-1,CINEMAX HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375677.ts
+#EXTINF:-1,COMEDY CENTERAL
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375678.ts
+#EXTINF:-1,Comedy Central Family
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375807.ts
+#EXTINF:-1,Da Vinci Learning
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375808.ts
+#EXTINF:-1,Disco Polo Music
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375809.ts
+#EXTINF:-1,Discovery Channel
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375810.ts
+#EXTINF:-1,Discovery HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375713.ts
+#EXTINF:-1,Discovery Historia
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375738.ts
+#EXTINF:-1,Discovery Life HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375811.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375739.ts
+#EXTINF:-1,DISCOVERY TURBO XTRA
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375679.ts
+#EXTINF:-1,DISNEY
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375680.ts
+#EXTINF:-1,Disney Channel
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375740.ts
+#EXTINF:-1,DISNEY J
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375714.ts
+#EXTINF:-1,Disney Junior
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375812.ts
+#EXTINF:-1,Disney XD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375813.ts
+#EXTINF:-1,Domo  HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375715.ts
+#EXTINF:-1,DTX
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375814.ts
 #EXTINF:-1,E! Entertainment
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2286.ts
-#EXTINF:-1,TVP Kultura
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2287.ts
-#EXTINF:-1,TVP Polonia
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2288.ts
-#EXTINF:-1,TV6
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2289.ts
-#EXTINF:-1,TV4 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2290.ts
-#EXTINF:-1,TVS
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2291.ts
-#EXTINF:-1,TVN HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2292.ts
-#EXTINF:-1,TVN 24 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2293.ts
-#EXTINF:-1,TVN 24 Bis HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2294.ts
-#EXTINF:-1,TV Republika
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2295.ts
-#EXTINF:-1,TELE 5
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2296.ts
-#EXTINF:-1,TVP Sport HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2299.ts
-#EXTINF:-1,TVP HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2300.ts
-#EXTINF:-1,TVP 1 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2301.ts
-#EXTINF:-1,TVP 2 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2302.ts
-#EXTINF:-1,Eleven Sports 1 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2303.ts
-#EXTINF:-1,Eleven Sports 2 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2304.ts
-#EXTINF:-1,Eleven Sports 3 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2305.ts
-#EXTINF:-1,VOX Music
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2306.ts
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375815.ts
+#EXTINF:-1,Eleven Extra HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375681.ts
+#EXTINF:-1,ELEVEN HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375682.ts
+#EXTINF:-1,Eleven Sports 2 FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375816.ts
+#EXTINF:-1,Eleven Sports 3 FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375817.ts
 #EXTINF:-1,Eleven Sports 4 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2307.ts
-#EXTINF:-1,Motowizja HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2308.ts
-#EXTINF:-1,TVP Info HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2309.ts
-#EXTINF:-1,Polsat Play HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2310.ts
-#EXTINF:-1,Polsat News HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2311.ts
-#EXTINF:-1,Film Box
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2312.ts
-#EXTINF:-1,Filmbox Premium
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2313.ts
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375818.ts
+#EXTINF:-1,ELEVEN SPORTS HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375684.ts
+#EXTINF:-1,Eleven Sports HD ( 1080P )
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375685.ts
+#EXTINF:-1,ESKA TV Extra
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375819.ts
+#EXTINF:-1,Eurosport 1 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375686.ts
+#EXTINF:-1,Eurosport 2
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375716.ts
+#EXTINF:-1,Extreme Sports HD 1080
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375717.ts
+#EXTINF:-1,Fightbox HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375687.ts
+#EXTINF:-1,FILMBOX ACTION
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322729.ts
+#EXTINF:-1,Filmbox Arthouse
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375820.ts
+#EXTINF:-1,FILMBOX EXTRA
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322731.ts
 #EXTINF:-1,Filmbox Family
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2314.ts
-#EXTINF:-1,Filmbox Action
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2315.ts
-#EXTINF:-1,FilmBox Extra HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2316.ts
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375667.ts
+#EXTINF:-1,Filmbox Premium
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375666.ts
+#EXTINF:-1,FOKUS TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322732.ts
+#EXTINF:-1,FOX COMEDY
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322733.ts
+#EXTINF:-1,FOX HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375822.ts
+#EXTINF:-1,Golf Channel HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375823.ts
+#EXTINF:-1,H2 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375824.ts
+#EXTINF:-1,HBO 2 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375691.ts
+#EXTINF:-1,HBO 3 HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375745.ts
 #EXTINF:-1,HBO HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2322.ts
-#EXTINF:-1,HBO2 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2323.ts
-#EXTINF:-1,HBO3 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2324.ts
-#EXTINF:-1,Ale Kino+ HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2325.ts
-#EXTINF:-1,Cinemax HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2326.ts
-#EXTINF:-1,AXN Spin HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2327.ts
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375690.ts
+#EXTINF:-1,HGTV HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375770.ts
+#EXTINF:-1,HIP HOP TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375825.ts
+#EXTINF:-1,History
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375718.ts
+#EXTINF:-1,History HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375747.ts
+#EXTINF:-1,KINO POLSKA
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375826.ts
+#EXTINF:-1,Kino Polska Muzyka
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375827.ts
+#EXTINF:-1,Kino Tv
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375828.ts
+#EXTINF:-1,Kuchnia  HD HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375748.ts
+#EXTINF:-1,Lifetime HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375829.ts
+#EXTINF:-1,Mango 24
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375848.ts
+#EXTINF:-1,Metro
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375830.ts
+#EXTINF:-1,MiniMini  HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375831.ts
+#EXTINF:-1,MTV Dance HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375832.ts
+#EXTINF:-1,MTV Polska HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375833.ts
+#EXTINF:-1,Nat Geo HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375749.ts
+#EXTINF:-1,Nat Geo People HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375834.ts
+#EXTINF:-1,NAT GEO WILD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375692.ts
+#EXTINF:-1,Nat Geographic
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375719.ts
+#EXTINF:-1,Nick Jr
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375771.ts
+#EXTINF:-1,NOWA TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375835.ts
+#EXTINF:-1,Nsport
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375720.ts
+#EXTINF:-1,Paramount Channel HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375836.ts
+#EXTINF:-1,PLANETE  FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322764.ts
+#EXTINF:-1,Planete+ HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375837.ts
+#EXTINF:-1,PLAY HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375693.ts
+#EXTINF:-1,Polo TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375838.ts
+#EXTINF:-1,Polsat
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375665.ts
+#EXTINF:-1,POLSAT 2
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375694.ts
+#EXTINF:-1,Polsat 2 HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375751.ts
+#EXTINF:-1,Polsat Cafe
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375664.ts
+#EXTINF:-1,Polsat Doku FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375839.ts
+#EXTINF:-1,POLSAT FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322773.ts
+#EXTINF:-1,Polsat Film HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375753.ts
+#EXTINF:-1,Polsat HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375754.ts
+#EXTINF:-1,Polsat Jim Jam
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375755.ts
+#EXTINF:-1,Polsat Music FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375840.ts
+#EXTINF:-1,Polsat News
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375721.ts
+#EXTINF:-1,POLSAT PLAY
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375696.ts
+#EXTINF:-1,Polsat Play HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375756.ts
+#EXTINF:-1,POLSAT ROMANS HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375841.ts
+#EXTINF:-1,Polsat Sport Extra
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375698.ts
+#EXTINF:-1,Polsat Sport Extra HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375663.ts
+#EXTINF:-1,Polsat Sport Fight HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375842.ts
+#EXTINF:-1,Polsat Sport News HD 1080
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375757.ts
+#EXTINF:-1,POLSAT SPORTS
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375697.ts
+#EXTINF:-1,Polsat Viasat Explore HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375843.ts
+#EXTINF:-1,Polsat Viasat History HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375844.ts
+#EXTINF:-1,Polsat Viasat Nature
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375845.ts
+#EXTINF:-1,Power TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375846.ts
+#EXTINF:-1,Puls 2
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375847.ts
+#EXTINF:-1,SciFi Universal
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375774.ts
+#EXTINF:-1,Sport Klub Polska
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375769.ts
+#EXTINF:-1,Stars TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375775.ts
+#EXTINF:-1,Stopklatka TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375776.ts
+#EXTINF:-1,Super Polsat
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375777.ts
+#EXTINF:-1,TELETOON FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322794.ts
+#EXTINF:-1,TeleToon+ HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375778.ts
+#EXTINF:-1,TLC HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375758.ts
 #EXTINF:-1,TNT HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2328.ts
-#EXTINF:-1,Polsat Film HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2329.ts
-#EXTINF:-1,Polsat 2 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2330.ts
-#EXTINF:-1,TVN 7 HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2331.ts
-#EXTINF:-1,Kino Polska HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2332.ts
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375779.ts
+#EXTINF:-1,TTV HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375849.ts
+#EXTINF:-1,TV Puls
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375780.ts
+#EXTINF:-1,TV Republika
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375781.ts
+#EXTINF:-1,TV Trwam
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375782.ts
+#EXTINF:-1,TV4
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375850.ts
+#EXTINF:-1,TV4 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375699.ts
+#EXTINF:-1,TVN 24
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375700.ts
+#EXTINF:-1,TVN 7
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375772.ts
+#EXTINF:-1,TVN 7 FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375773.ts
+#EXTINF:-1,Tvn Fabula HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375722.ts
+#EXTINF:-1,TVN Fabula HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375759.ts
+#EXTINF:-1,TVN FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322806.ts
+#EXTINF:-1,TVN HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375760.ts
+#EXTINF:-1,Tvn Style
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375723.ts
+#EXTINF:-1,TVN Style HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375761.ts
+#EXTINF:-1,TVN Turbo
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375662.ts
+#EXTINF:-1,TVP 1 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375701.ts
+#EXTINF:-1,TVP 1 HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375762.ts
+#EXTINF:-1,TVP 2 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375702.ts
+#EXTINF:-1,TVP 2 HD 1080P
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375763.ts
+#EXTINF:-1,TVP ABC
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375783.ts
+#EXTINF:-1,TVP FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/322814.ts
+#EXTINF:-1,TVP HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375703.ts
+#EXTINF:-1,TVP Historia
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375784.ts
+#EXTINF:-1,TVP INFO
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375764.ts
+#EXTINF:-1,TVP KULTURA
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375765.ts
+#EXTINF:-1,TVP Polonia
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375785.ts
+#EXTINF:-1,TVP Rozrywka
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375786.ts
+#EXTINF:-1,TVP SERIALE
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375766.ts
+#EXTINF:-1,TVP SPORT HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375704.ts
+#EXTINF:-1,TVP3
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375768.ts
+#EXTINF:-1,TVS
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375787.ts
+#EXTINF:-1,UNIVERSAL HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375705.ts
+#EXTINF:-1,VH1
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375788.ts
+#EXTINF:-1,VIVA POLSKA
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375706.ts
+#EXTINF:-1,WP
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375790.ts
+#EXTINF:-1,Zest TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375851.ts
+#EXTINF:-1,Zoom TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375791.ts
