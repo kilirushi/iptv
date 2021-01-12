@@ -1,685 +1,333 @@
 #EXTM3U
-#EXTINF:-1,A&E FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1729
-#EXTINF:-1,ABC Buffalo HD WKBW 
-http://iptvtree.net:8080/766a3d10/7781c6505e/13235
-#EXTINF:-1,ABC CHICAGO
-http://iptvtree.net:8080/766a3d10/7781c6505e/201176
+#EXTINF:-1,ABC EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/30230
 #EXTINF:-1,ABC East HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/147404
 #EXTINF:-1,ABC HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/445
 #EXTINF:-1,ABC Spark HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3068
+#EXTINF:-1,ABC Spark HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/13236
-#EXTINF:-1,Aboriginal Peoples Television Network HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/193212
-#EXTINF:-1,ADDIK TV FR 
+#EXTINF:-1,ADDIK TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30228
+#EXTINF:-1,ADDIK TV FR
 http://iptvtree.net:8080/766a3d10/7781c6505e/485
-#EXTINF:-1,ADULT SWIM HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9218
 #EXTINF:-1,AMC FHD
 http://iptvtree.net:8080/766a3d10/7781c6505e/503
-#EXTINF:-1,American Movie Classics HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/193258
+#EXTINF:-1,AMC HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3066
 #EXTINF:-1,AMItv
 http://iptvtree.net:8080/766a3d10/7781c6505e/193215
 #EXTINF:-1,ANIMAL PLANET HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/9259
 #EXTINF:-1,APTN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9294
+http://a1.gokakka.club:8880/testzyx030/123456789/30226
+#EXTINF:-1,Aboriginal Peoples Television Network HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/193212
+#EXTINF:-1,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1,Amazing Discoveries TV, CA | Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+#EXTINF:-1,American Movie Classics HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/193258
+#EXTINF:-1,Assemblee Nationale du Quebec, CA | Assemblee Nationale du Quebec
+http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
 #EXTINF:-1,Assemblée nationale du Québec
 http://iptvtree.net:8080/766a3d10/7781c6505e/165423
 #EXTINF:-1,BBC CANADA HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/9249
+#EXTINF:-1,BBC WORLD NEWS
+http://a1.gokakka.club:8880/testzyx030/123456789/30222
 #EXTINF:-1,BBC WORLD NEWS HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/2585
-#EXTINF:-1,beIN Sports HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13239
-#EXTINF:-1,beIN Sports LaLiga HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174527
 #EXTINF:-1,BET
 http://iptvtree.net:8080/766a3d10/7781c6505e/173690
-#EXTINF:-1,BET HD FR 
+#EXTINF:-1,BET HD FR
 http://iptvtree.net:8080/766a3d10/7781c6505e/9295
 #EXTINF:-1,BNN BLOOMBERG HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/504
+#EXTINF:-1,BNN BLOOMBERG HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3062
 #EXTINF:-1,BNN HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/28709
 #EXTINF:-1,BRAVO HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/20360
+#EXTINF:-1,Bein Sports HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30178
+#EXTINF:-1,Bravo TV (720)(M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/3663
 #EXTINF:-1,C-PAC
 http://iptvtree.net:8080/766a3d10/7781c6505e/475
-#EXTINF:-1,Cable Pulse 24 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9224
-#EXTINF:-1,CANAL D FR 
+#EXTINF:-1,CA | Canadian Arab TV, Canadian Arab TV, Canadian Arab TV (Canada)
+http://192.226.228.32:8080/hls/catv/index.m3u8
+#EXTINF:-1,CA | EMCI TV, EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1,CA | EWTN Canada, EWTN Canada
+https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
+#EXTINF:-1,CA | Global British Columbia, Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+#EXTINF:-1,CA | Global Calgary, Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
+#EXTINF:-1,CA | Global Edmonton, Global Edmonton
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:-1,CA | Global News, Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1,CA | Global Toronto, Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+#EXTINF:-1,CA | IIPC TV, IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
+#EXTINF:-1,CA | Legislative Assembly of Ontario, Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1,CA | NTV, NTV, NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
+#EXTINF:-1,CA | QVTV, QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:-1,CA | Urdu TV Toronto, Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1,CANAL D FR
 http://iptvtree.net:8080/766a3d10/7781c6505e/486
-#EXTINF:-1,CANAL SAVOIR FR 
+#EXTINF:-1,CANAL D HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30220
+#EXTINF:-1,CANAL SAVOIR FR
 http://iptvtree.net:8080/766a3d10/7781c6505e/12733
 #EXTINF:-1,CANAL SAVOIR HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/9296
-#EXTINF:-1,CANAL VIE
-http://iptvtree.net:8080/766a3d10/7781c6505e/30793
+#EXTINF:-1,CANAL V
+http://a1.gokakka.club:8880/testzyx030/123456789/30094
 #EXTINF:-1,CARTOON NETWORK HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/505
-#EXTINF:-1,CASA FR 
+#EXTINF:-1,CASA FR
 http://iptvtree.net:8080/766a3d10/7781c6505e/487
+#EXTINF:-1,CBC CALGARY
+http://a1.gokakka.club:8880/testzyx030/123456789/30100
 #EXTINF:-1,CBC CALGARY HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/11619
 #EXTINF:-1,CBC Central HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/81173
 #EXTINF:-1,CBC Charlotte Town HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/34734
-#EXTINF:-1,CBC Eastern HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/81172
 #EXTINF:-1,CBC EDMONTON HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/76729
+#EXTINF:-1,CBC Eastern HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/81172
 #EXTINF:-1,CBC Federicton
 http://iptvtree.net:8080/766a3d10/7781c6505e/54634
 #EXTINF:-1,CBC HALIFAX HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/425
 #EXTINF:-1,CBC HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/506
+#EXTINF:-1,CBC MONTREAL
+http://a1.gokakka.club:8880/testzyx030/123456789/30216
 #EXTINF:-1,CBC Montreal HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/426
-#EXTINF:-1,CBC New Network HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/247458
-#EXTINF:-1,CBC NEWS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/11611
 #EXTINF:-1,CBC NEWS TORONTO HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/34761
-#EXTINF:-1,CBC Neww Network HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13232
-#EXTINF:-1,CBC Oshawa CHEX2 
-http://iptvtree.net:8080/766a3d10/7781c6505e/168955
+#EXTINF:-1,CBC New Network HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/247458
 #EXTINF:-1,CBC OTTAWA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/427
-#EXTINF:-1,CBC REGINA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/428
-#EXTINF:-1,CBC St Johns [CBNT]
-http://iptvtree.net:8080/766a3d10/7781c6505e/168954
-#EXTINF:-1,CBC Toronto CBLT 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9247
-#EXTINF:-1,CBC TORONTO FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/429
-#EXTINF:-1,CBC VANCOUVER HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/430
-#EXTINF:-1,CBC West HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/81174
-#EXTINF:-1,CBC WINDSOR HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/431
-#EXTINF:-1,CBC WINNIPEG HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/432
-#EXTINF:-1,CBS Buffalo HD [WIVB]
-http://iptvtree.net:8080/766a3d10/7781c6505e/193216
-#EXTINF:-1,CHCH FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9246
-#EXTINF:-1,CHRGD HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/172486
-#EXTINF:-1,CINE POP FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/488
-#EXTINF:-1,CINEPOP
-http://iptvtree.net:8080/766a3d10/7781c6505e/24842
-#EXTINF:-1,CITY CALGARY HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/25801
-#EXTINF:-1,CITY TORONTO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1727
-#EXTINF:-1,CITY TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/483
-#EXTINF:-1,CITY TV VANCOUVER
-http://iptvtree.net:8080/766a3d10/7781c6505e/147407
-#EXTINF:-1,Citytv Toronto
-http://iptvtree.net:8080/766a3d10/7781c6505e/69070
-#EXTINF:-1,CMT CANADA
-http://iptvtree.net:8080/766a3d10/7781c6505e/174733
-#EXTINF:-1,CMT HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/482
-#EXTINF:-1,CNBC Canada
-http://iptvtree.net:8080/766a3d10/7781c6505e/187250
-#EXTINF:-1,CNBC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9221
+http://a1.gokakka.club:8880/testzyx030/123456789/30214
+#EXTINF:-1,CBS WEST
+http://a1.gokakka.club:8880/testzyx030/123456789/30210
+#EXTINF:-1,CHCH HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3058
+#EXTINF:-1,CITY TORONTO
+http://a1.gokakka.club:8880/testzyx030/123456789/30208
 #EXTINF:-1,CNN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/480
-#EXTINF:-1,COMEDY CENTRAL
-http://iptvtree.net:8080/766a3d10/7781c6505e/173692
-#EXTINF:-1,COMEDY HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/479
-#EXTINF:-1,COOKING Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/478
-#EXTINF:-1,CORONA VIRUS INFO
-http://iptvtree.net:8080/766a3d10/7781c6505e/196540
-#EXTINF:-1,Cottage Life FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/477
-#EXTINF:-1,CP 24 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/476
-#EXTINF:-1,CPAC FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9254
-#EXTINF:-1,CPAC EN
-http://iptvtree.net:8080/766a3d10/7781c6505e/13230
-#EXTINF:-1,CPAC English
-http://iptvtree.net:8080/766a3d10/7781c6505e/187255
+http://a1.gokakka.club:8880/testzyx030/123456789/3056
+#EXTINF:-1,CNN INTERNATIONAL
+http://a1.gokakka.club:8880/testzyx030/123456789/30204
+#EXTINF:-1,COOKING CHANNEL
+http://a1.gokakka.club:8880/testzyx030/123456789/30202
+#EXTINF:-1,COTTAGE-LIFE
+http://a1.gokakka.club:8880/testzyx030/123456789/3054
 #EXTINF:-1,CPAC FRENCH
-http://iptvtree.net:8080/766a3d10/7781c6505e/199692
-#EXTINF:-1,CRAVE 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13244
-#EXTINF:-1,CRAVE 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13245
-#EXTINF:-1,CRAVE 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9283
-#EXTINF:-1,CRAVE 4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13246
-#EXTINF:-1,Crime+ Investigation HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9308
-#EXTINF:-1,CTV 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/15013
-#EXTINF:-1,CTV 2 VANCOUVER HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6143
+http://a1.gokakka.club:8880/testzyx030/123456789/30200
+#EXTINF:-1,CPAC HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3052
+#EXTINF:-1,CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1,CTV 2 VANCOUVER
+http://a1.gokakka.club:8880/testzyx030/123456789/30198
 #EXTINF:-1,CTV CALGARY
-http://iptvtree.net:8080/766a3d10/7781c6505e/40631
-#EXTINF:-1,CTV CENTRAL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/81176
-#EXTINF:-1,CTV Comedy East HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/68580
-#EXTINF:-1,CTV COMEDY HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13229
-#EXTINF:-1,CTV DRAMA Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/9220
-#EXTINF:-1,CTV EASTERN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/81181
+http://a1.gokakka.club:8880/testzyx030/123456789/30098
 #EXTINF:-1,CTV HALIFAX
-http://iptvtree.net:8080/766a3d10/7781c6505e/9310
+http://a1.gokakka.club:8880/testzyx030/123456789/30110
 #EXTINF:-1,CTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9297
-#EXTINF:-1,CTV KITCHENER
-http://iptvtree.net:8080/766a3d10/7781c6505e/147409
-#EXTINF:-1,CTV MONTREAL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9311
-#EXTINF:-1,CTV News Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/474
-#EXTINF:-1,CTV NEWS NETWORK HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9312
-#EXTINF:-1,CTV OTTAWA
-http://iptvtree.net:8080/766a3d10/7781c6505e/9313
-#EXTINF:-1,CTV sci-fi HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/121596
-#EXTINF:-1,CTV SYFY
-http://iptvtree.net:8080/766a3d10/7781c6505e/60157
-#EXTINF:-1,CTV TORONTO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/473
-#EXTINF:-1,CTV VANCOUVER HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9314
-#EXTINF:-1,CTV2 OTTAWA
-http://iptvtree.net:8080/766a3d10/7781c6505e/9315
-#EXTINF:-1,CW
-http://iptvtree.net:8080/766a3d10/7781c6505e/6144
+http://a1.gokakka.club:8880/testzyx030/123456789/3050
+#EXTINF:-1,CTV NEWS HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3048
+#EXTINF:-1,CTV TORONTO
+http://a1.gokakka.club:8880/testzyx030/123456789/30196
+#EXTINF:-1,Cable Pulse 24 HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/9224
+#EXTINF:-1,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1,Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 #EXTINF:-1,DAYSTAR TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/9316
-#EXTINF:-1,DEJAVIEW HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/472
-#EXTINF:-1,Discovery CANADA
-http://iptvtree.net:8080/766a3d10/7781c6505e/72569
-#EXTINF:-1,Discovery Channel FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1726
-#EXTINF:-1,Discovery Science HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2583
-#EXTINF:-1,Discovery Velocity HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/36720
+http://a1.gokakka.club:8880/testzyx030/123456789/30192
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30190
+#EXTINF:-1,Discovery Velocity
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/386023.ts
 #EXTINF:-1,Disney Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6146
-#EXTINF:-1,Disney FRENCH
-http://iptvtree.net:8080/766a3d10/7781c6505e/200241
-#EXTINF:-1,Disney Junior FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/264457
-#EXTINF:-1,Disney Junior HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/471
-#EXTINF:-1,Disney La Chaine FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/54675
+http://a1.gokakka.club:8880/testzyx030/123456789/3046
+#EXTINF:-1,Disney La Chaine (M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/3709
 #EXTINF:-1,Disney XD HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/470
-#EXTINF:-1,DIY
-http://iptvtree.net:8080/766a3d10/7781c6505e/29635
-#EXTINF:-1,DIY Network FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/469
-#EXTINF:-1,DOCUMENTARY Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1725
-#EXTINF:-1,DTour HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9238
-#EXTINF:-1,E! FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/468
-#EXTINF:-1,EMCI TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/165426
-#EXTINF:-1,EVASION
-http://iptvtree.net:8080/766a3d10/7781c6505e/2589
-#EXTINF:-1,EVASION FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/489
-#EXTINF:-1,FAMILY
-http://iptvtree.net:8080/766a3d10/7781c6505e/168956
-#EXTINF:-1,Family Jr HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9236
-#EXTINF:-1,FIGHT NETWORK FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9235
-#EXTINF:-1,FOOD NETWORK FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1724
-#EXTINF:-1,FOX Buffalo
-http://iptvtree.net:8080/766a3d10/7781c6505e/172489
-#EXTINF:-1,FOX Buffalo HD [WUTV]
-http://iptvtree.net:8080/766a3d10/7781c6505e/193219
-#EXTINF:-1,FOX FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/467
-#EXTINF:-1,FOX NEWS CANADA
-http://iptvtree.net:8080/766a3d10/7781c6505e/83891
-#EXTINF:-1,FOX News HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13272
-#EXTINF:-1,FOX SPORTS Racing
-http://iptvtree.net:8080/766a3d10/7781c6505e/13207
-#EXTINF:-1,FOXNADA
-http://iptvtree.net:8080/766a3d10/7781c6505e/200242
-#EXTINF:-1,FX CANADA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/72590
-#EXTINF:-1,FX FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/11616
+http://a1.gokakka.club:8880/testzyx030/123456789/3044
+#EXTINF:-1,EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1,ENCORE 1 EAST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56569.ts
+#EXTINF:-1,EWTN Canada
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:-1,Eleven Sports 1 HD
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/17128.ts
+#EXTINF:-1,FOX WEST
+http://a1.gokakka.club:8880/testzyx030/123456789/30180
+#EXTINF:-1,FOX-EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/3038
 #EXTINF:-1,FXX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6148
-#EXTINF:-1,FXX HD FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/60186
-#EXTINF:-1,Game Show HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/32449
+http://a1.gokakka.club:8880/testzyx030/123456789/3036
+#EXTINF:-1,GLOBAL VANCOUVER
+http://a1.gokakka.club:8880/testzyx030/123456789/30176
+#EXTINF:-1,GSN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3034
 #EXTINF:-1,Game TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9233
-#EXTINF:-1,GLOBAL BC
-http://iptvtree.net:8080/766a3d10/7781c6505e/168555
-#EXTINF:-1,GLOBAL EDMONTON
-http://iptvtree.net:8080/766a3d10/7781c6505e/174755
-#EXTINF:-1,Global FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/464
-#EXTINF:-1,GLOBAL HALIFAX
-http://iptvtree.net:8080/766a3d10/7781c6505e/9317
-#EXTINF:-1,GLOBAL TORONTO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/465
-#EXTINF:-1,Global Toronto HD [CIII]
-http://iptvtree.net:8080/766a3d10/7781c6505e/13224
-#EXTINF:-1,GLOBAL VANCOUVER HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/11620
-#EXTINF:-1,GOLF Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9232
-#EXTINF:-1,Gospel Tv Canada
-http://iptvtree.net:8080/766a3d10/7781c6505e/166008
-#EXTINF:-1,GSN FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/466
-#EXTINF:-1,GUSTO
-http://iptvtree.net:8080/766a3d10/7781c6505e/9318
-#EXTINF:-1,H2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13275
-#EXTINF:-1,HBO 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9285
-#EXTINF:-1,HBO 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9284
-#EXTINF:-1,HBO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/463
-#EXTINF:-1,Headline News HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9219
-#EXTINF:-1,HGTV Canada
-http://iptvtree.net:8080/766a3d10/7781c6505e/193253
+http://a1.gokakka.club:8880/testzyx030/123456789/2998
+#EXTINF:-1,Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+#EXTINF:-1,GurSikh Sabha TV (Scarborough)
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:-1,H2 CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30174
 #EXTINF:-1,HGTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9231
-#EXTINF:-1,HISTORIA
-http://iptvtree.net:8080/766a3d10/7781c6505e/462
-#EXTINF:-1,HISTORIO
-http://iptvtree.net:8080/766a3d10/7781c6505e/25104
-#EXTINF:-1,HISTORIO FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/192829
-#EXTINF:-1,History FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/11625
-#EXTINF:-1,History 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/32450
-#EXTINF:-1,History Television
-http://iptvtree.net:8080/766a3d10/7781c6505e/193246
-#EXTINF:-1,HLN FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13223
-#EXTINF:-1,ICE RDI
-http://iptvtree.net:8080/766a3d10/7781c6505e/174734
+http://a1.gokakka.club:8880/testzyx030/123456789/3030
+#EXTINF:-1,HLN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3028
 #EXTINF:-1,ICI MONTREAL
-http://iptvtree.net:8080/766a3d10/7781c6505e/2595
-#EXTINF:-1,ICI MONTREAL FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/490
-#EXTINF:-1,ICI Radio-Canada Télé [TOR]
-http://iptvtree.net:8080/766a3d10/7781c6505e/193257
+http://a1.gokakka.club:8880/testzyx030/123456789/30170
+#EXTINF:-1,ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1,ICI RDI HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9257
-#EXTINF:-1,Ici TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/166064
-#EXTINF:-1,ICI Télévision
-http://iptvtree.net:8080/766a3d10/7781c6505e/165424
-#EXTINF:-1,ICI VANCOUVER FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/2596
-#EXTINF:-1,iConcert TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/69947
-#EXTINF:-1,IFC
-http://iptvtree.net:8080/766a3d10/7781c6505e/40652
-#EXTINF:-1,Investigation Discovery HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9319
-#EXTINF:-1,KNOWLEDGE KIDS
-http://iptvtree.net:8080/766a3d10/7781c6505e/13276
-#EXTINF:-1,LCN
-http://iptvtree.net:8080/766a3d10/7781c6505e/173116
-#EXTINF:-1,LCN FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9300
-#EXTINF:-1,Lifetime FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/460
-#EXTINF:-1,LIFETIME MOVIE NETWORK HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/34751
-#EXTINF:-1,LOVE NATURE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1723
-#EXTINF:-1,Makeful
-http://iptvtree.net:8080/766a3d10/7781c6505e/9228
-#EXTINF:-1,MAV TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/9320
-#EXTINF:-1,MAX FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/491
-#EXTINF:-1,MAX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9321
-#EXTINF:-1,MEDIASET ITALIA
-http://iptvtree.net:8080/766a3d10/7781c6505e/196441
-#EXTINF:-1,METEO FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/492
-#EXTINF:-1,Meteo Media
-http://iptvtree.net:8080/766a3d10/7781c6505e/196481
-#EXTINF:-1,Meteo Media FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9280
-#EXTINF:-1,Miracle Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/9323
-#EXTINF:-1,MIRACLE Channel CANADA
-http://iptvtree.net:8080/766a3d10/7781c6505e/72571
-#EXTINF:-1,MLB Network HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9256
-#EXTINF:-1,MLB TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/81194
-#EXTINF:-1,MOI & CIE FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/493
-#EXTINF:-1,MOVIETIME HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9204
-#EXTINF:-1,MSNBC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14961
+http://a1.gokakka.club:8880/testzyx030/123456789/30168
+#EXTINF:-1,IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+#EXTINF:-1,KTLA
+http://a1.gokakka.club:8880/testzyx030/123456789/30166
+#EXTINF:-1,MAX
+http://a1.gokakka.club:8880/testzyx030/123456789/30164
+#EXTINF:-1,MEDIASET ITALIA CANADA
+http://a1.gokakka.club:8880/testzyx030/123456789/30102
+#EXTINF:-1,MIRACLE
+http://a1.gokakka.club:8880/testzyx030/123456789/30162
 #EXTINF:-1,MTIME
-http://iptvtree.net:8080/766a3d10/7781c6505e/62620
-#EXTINF:-1,MTV 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/459
+http://a1.gokakka.club:8880/testzyx030/123456789/30160
 #EXTINF:-1,MTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2584
-#EXTINF:-1,MUCH HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/458
-#EXTINF:-1,Much Music HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9226
-#EXTINF:-1,MuchMusicHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187220
-#EXTINF:-1,MUSIQUE PLUS FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/12739
-#EXTINF:-1,NAT GEO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/456
-#EXTINF:-1,NAT GEO Wild HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/457
-#EXTINF:-1,NAT nal Savoir FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/145215
-#EXTINF:-1,NBA TV Canada
-http://iptvtree.net:8080/766a3d10/7781c6505e/187235
-#EXTINF:-1,NBA TV FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13222
-#EXTINF:-1,NBC Buffalo HD [WGRZ]
-http://iptvtree.net:8080/766a3d10/7781c6505e/193217
-#EXTINF:-1,NFL NETWORK HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9211
-#EXTINF:-1,NHL Network HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/81198
-#EXTINF:-1,nickelodeon HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9202
-#EXTINF:-1,NTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/9325
-#EXTINF:-1,OLN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/454
+http://a1.gokakka.club:8880/testzyx030/123456789/3022
+#EXTINF:-1,MUSIQUE PLUS
+http://a1.gokakka.club:8880/testzyx030/123456789/30158
+#EXTINF:-1,Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1,NBC WEST
+http://a1.gokakka.club:8880/testzyx030/123456789/30114
+#EXTINF:-1,NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1,National Geographic HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3020
 #EXTINF:-1,OMNI 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/453
-#EXTINF:-1,OMNI 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/452
-#EXTINF:-1,OWN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13219
-#EXTINF:-1,PARAMOUNT
-http://iptvtree.net:8080/766a3d10/7781c6505e/173694
-#EXTINF:-1,PARAMOUNT NETWORK HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/451
-#EXTINF:-1,PBS Buffalo HD WNED 
-http://iptvtree.net:8080/766a3d10/7781c6505e/13218
+http://a1.gokakka.club:8880/testzyx030/123456789/30140
+#EXTINF:-1,ONE
+http://a1.gokakka.club:8880/testzyx030/123456789/30138
 #EXTINF:-1,PBS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14959
-#EXTINF:-1,PEACH TREE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/484
-#EXTINF:-1,PRISE
-http://iptvtree.net:8080/766a3d10/7781c6505e/2590
-#EXTINF:-1,PRISE FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/494
-#EXTINF:-1,RDI FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/12740
-#EXTINF:-1,RDS
-http://iptvtree.net:8080/766a3d10/7781c6505e/264458
-#EXTINF:-1,RDS 2 FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/495
-#EXTINF:-1,RDS INFO FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/496
-#EXTINF:-1,Salt & Light TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/165432
-#EXTINF:-1,Series Plus
-http://iptvtree.net:8080/766a3d10/7781c6505e/13277
-#EXTINF:-1,SERIS FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/26036
-#EXTINF:-1,Seris +
-http://iptvtree.net:8080/766a3d10/7781c6505e/46801
-#EXTINF:-1,SHOPPING
-http://iptvtree.net:8080/766a3d10/7781c6505e/9327
-#EXTINF:-1,Showcase [East]
-http://iptvtree.net:8080/766a3d10/7781c6505e/46778
-#EXTINF:-1,Showcase HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9210
-#EXTINF:-1,SILVER SCREEN CLASSICS
-http://iptvtree.net:8080/766a3d10/7781c6505e/9328
-#EXTINF:-1,Slice HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13215
-#EXTINF:-1,SMITHSONIAN Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/34738
-#EXTINF:-1,SNW West
-http://iptvtree.net:8080/766a3d10/7781c6505e/201177
-#EXTINF:-1,SPACE
-http://iptvtree.net:8080/766a3d10/7781c6505e/28717
-#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
-http://iptvtree.net:8080/766a3d10/7781c6505e/35240
-#EXTINF:-1,Sportnet Ontario HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/7808
-#EXTINF:-1,Sports Net 360
-http://iptvtree.net:8080/766a3d10/7781c6505e/173404
-#EXTINF:-1,Sports Net One HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/54657
-#EXTINF:-1,Sports Net Pacific HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/40670
-#EXTINF:-1,Sports NET West HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/72575
-#EXTINF:-1,SportsNet 360 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/3377
-#EXTINF:-1,SportsNet East HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/3379
-#EXTINF:-1,SportsNet HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78271
-#EXTINF:-1,SportsNet New York HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/150621
-#EXTINF:-1,SportsNet ONE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/3378
-#EXTINF:-1,SportsNet Ontario Premier League 
-http://iptvtree.net:8080/766a3d10/7781c6505e/199697
-#EXTINF:-1,SportsNet Ontario FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1721
-#EXTINF:-1,SportsNet Pacific FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/5511
-#EXTINF:-1,SportsNet West FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/3380
-#EXTINF:-1,SportsNet WORLD HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1720
-#EXTINF:-1,SSP Promotion Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/193251
-#EXTINF:-1,SUPER Channel FUSE
-http://iptvtree.net:8080/766a3d10/7781c6505e/62633
-#EXTINF:-1,SUPER Channel VAULT
-http://iptvtree.net:8080/766a3d10/7781c6505e/62634
-#EXTINF:-1,SUPER ECRAN 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/2603
-#EXTINF:-1,SUPER ECRAN 1 FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/12731
+http://a1.gokakka.club:8880/testzyx030/123456789/3026
+#EXTINF:-1,PEACH TREE
+http://a1.gokakka.club:8880/testzyx030/123456789/30136
+#EXTINF:-1,PEACHTREE HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3014
+#EXTINF:-1,Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1,QVTV
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1,RDI
+http://a1.gokakka.club:8880/testzyx030/123456789/30134
+#EXTINF:-1,RDI FR
+http://a1.gokakka.club:8880/testzyx030/123456789/2988
+#EXTINF:-1,RDS 2 (FR)
+http://a1.gokakka.club:8880/testzyx030/123456789/30132
+#EXTINF:-1,SERIS
+http://a1.gokakka.club:8880/testzyx030/123456789/30130
+#EXTINF:-1,SMITHSONIAN HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3012
+#EXTINF:-1,SPORTSNET-360
+http://a1.gokakka.club:8880/testzyx030/123456789/3010
+#EXTINF:-1,SPORTSNET-ONE
+http://a1.gokakka.club:8880/testzyx030/123456789/3008
+#EXTINF:-1,SUPER CHANNEL VAULT
+http://a1.gokakka.club:8880/testzyx030/123456789/2990
 #EXTINF:-1,SUPER ECRAN 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/2604
-#EXTINF:-1,SUPER ECRAN 2 FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/11630
-#EXTINF:-1,SUPER ECRAN 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/25103
-#EXTINF:-1,Super Ecran 3 FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9333
+http://a1.gokakka.club:8880/testzyx030/123456789/30124
 #EXTINF:-1,SUPER ECRAN 4
-http://iptvtree.net:8080/766a3d10/7781c6505e/2605
-#EXTINF:-1,Super Ecran 4 FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9334
-#EXTINF:-1,SYFY HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/198240
-#EXTINF:-1,Tamil Vision
-http://iptvtree.net:8080/766a3d10/7781c6505e/166067
-#EXTINF:-1,TCTV2
-http://iptvtree.net:8080/766a3d10/7781c6505e/13213
-#EXTINF:-1,TELE QUEBEC
-http://iptvtree.net:8080/766a3d10/7781c6505e/2606
-#EXTINF:-1,TELE QUEBEC FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/497
-#EXTINF:-1,TELE TOON FRENCH
-http://iptvtree.net:8080/766a3d10/7781c6505e/197089
+http://a1.gokakka.club:8880/testzyx030/123456789/30122
+#EXTINF:-1,Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1,Sportsnet World HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3018
+#EXTINF:-1,TELE LATINO
+http://a1.gokakka.club:8880/testzyx030/123456789/30120
+#EXTINF:-1,TELE TOON EAST
+http://a1.gokakka.club:8880/testzyx030/123456789/30118
 #EXTINF:-1,TELEMAGINO
-http://iptvtree.net:8080/766a3d10/7781c6505e/40677
-#EXTINF:-1,TELEMAGINO FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9292
-#EXTINF:-1,Teletoon FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9252
-#EXTINF:-1,TELETOON HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/15019
-#EXTINF:-1,Teletoon HD East 
-http://iptvtree.net:8080/766a3d10/7781c6505e/39832
-#EXTINF:-1,TFO FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/498
-#EXTINF:-1,TFO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2607
-#EXTINF:-1,THE FAMILY Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9237
-#EXTINF:-1,THE WEATHER Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174531
-#EXTINF:-1,THE WEATHER NETWORK HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13209
-#EXTINF:-1,TLC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9255
-#EXTINF:-1,TMN 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/40685
-#EXTINF:-1,TMN 1 FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/46804
-#EXTINF:-1,TMN 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/40681
-#EXTINF:-1,Travel ESCAPE
-http://iptvtree.net:8080/766a3d10/7781c6505e/9329
-#EXTINF:-1,TREEHOUSE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/449
-#EXTINF:-1,TSC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/13214
-#EXTINF:-1,TSN 1 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192807
-#EXTINF:-1,TSN 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/770
-#EXTINF:-1,TSN 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/771
-#EXTINF:-1,TSN 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/772
-#EXTINF:-1,TSN 4 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/17469
-#EXTINF:-1,TSN 4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/773
-#EXTINF:-1,TSN 5 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/774
-#EXTINF:-1,TSNET 360
-http://iptvtree.net:8080/766a3d10/7781c6505e/14962
-#EXTINF:-1,TSNET One
-http://iptvtree.net:8080/766a3d10/7781c6505e/14960
-#EXTINF:-1,TSNET Pacific HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14963
-#EXTINF:-1,Turner Classic Movies HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/28712
-#EXTINF:-1,TV Francophonie
-http://iptvtree.net:8080/766a3d10/7781c6505e/165427
-#EXTINF:-1,TV Ontario HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9258
-#EXTINF:-1,TV5 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187236
-#EXTINF:-1,TV5 QUEBEC
-http://iptvtree.net:8080/766a3d10/7781c6505e/40688
-#EXTINF:-1,TV5 Quebec FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9303
-#EXTINF:-1,TVA MONTREAL
-http://iptvtree.net:8080/766a3d10/7781c6505e/2608
-#EXTINF:-1,TVA Montreal CFTM 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9250
-#EXTINF:-1,TVA MONTREAL FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/499
-#EXTINF:-1,TVA SPORTS FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/500
-#EXTINF:-1,TVA SPORTS 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/72581
-#EXTINF:-1,TVA Sports 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/13243
-#EXTINF:-1,TVA SPORTS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1719
-#EXTINF:-1,TVO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/448
-#EXTINF:-1,Unis TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/81136
-#EXTINF:-1,VIE FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/501
-#EXTINF:-1,VISION TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/1718
-#EXTINF:-1,VRAK TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/2586
-#EXTINF:-1,VRAK TV FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/9304
-#EXTINF:-1,W
-http://iptvtree.net:8080/766a3d10/7781c6505e/30841
-#EXTINF:-1,W Network HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9200
-#EXTINF:-1,W Network HD East 
-http://iptvtree.net:8080/766a3d10/7781c6505e/187219
-#EXTINF:-1,WEATHER NETWORK HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/447
+http://a1.gokakka.club:8880/testzyx030/123456789/30116
+#EXTINF:-1,TLC HS
+http://a1.gokakka.club:8880/testzyx030/123456789/3006
+#EXTINF:-1,TMN 1 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3064
+#EXTINF:-1,TSN-1 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3004
+#EXTINF:-1,TSN-3 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3002
+#EXTINF:-1,TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1,TV5 QUEBEC HD
+http://a1.gokakka.club:8880/testzyx030/123456789/30142
+#EXTINF:-1,TVA Sports HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2992
+#EXTINF:-1,TVO SD
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208386.ts
+#EXTINF:-1,Tamil Vision International, Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1,Teletoon
+http://ky-iptv.com:25461/powerful/powerful/182173
+#EXTINF:-1,Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1,UNIS TV
+http://a1.gokakka.club:8880/testzyx030/123456789/30106
+#EXTINF:-1,VISION
+http://a1.gokakka.club:8880/testzyx030/123456789/30156
 #EXTINF:-1,WFN
-http://iptvtree.net:8080/766a3d10/7781c6505e/9330
-#EXTINF:-1,WGN
-http://iptvtree.net:8080/766a3d10/7781c6505e/9331
+http://a1.gokakka.club:8880/testzyx030/123456789/30154
+#EXTINF:-1,Weather channel HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2996
 #EXTINF:-1,Wild TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/9332
-#EXTINF:-1,WNLO Buffalo [CW23]
-http://iptvtree.net:8080/766a3d10/7781c6505e/193254
-#EXTINF:-1,WNYO Buffalo [MyNetworkTV]
-http://iptvtree.net:8080/766a3d10/7781c6505e/193211
-#EXTINF:-1,World Fishing Network FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/151095
-#EXTINF:-1,World Fishing TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/79495
+http://a1.gokakka.club:8880/testzyx030/123456789/30152
 #EXTINF:-1,YES HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/446
-#EXTINF:-1,YES TV FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/60183
-#EXTINF:-1,YOOPA FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/12743
-#EXTINF:-1,YTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/9199
-#EXTINF:-1,YTV HD East 
-http://iptvtree.net:8080/766a3d10/7781c6505e/78298
-#EXTINF:-1,Z TELE
-http://iptvtree.net:8080/766a3d10/7781c6505e/78280
-#EXTINF:-1,Z TELE FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/11626
-#EXTINF:-1,ZESTE FR 
-http://iptvtree.net:8080/766a3d10/7781c6505e/502
+http://a1.gokakka.club:8880/testzyx030/123456789/2994
+#EXTINF:-1,YOOPA
+http://a1.gokakka.club:8880/testzyx030/123456789/30150
+#EXTINF:-1,ZESTE
+http://a1.gokakka.club:8880/testzyx030/123456789/30148
+#EXTINF:-1,beIN Sports HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/13239
+#EXTINF:-1,beIN Sports LaLiga HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/174527
