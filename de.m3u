@@ -1,631 +1,1589 @@
 #EXTM3U
-#EXTINF:-1,Das Erste HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13166
-#EXTINF:-1,Das Erste HD [B] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6262
-#EXTINF:-1,Das Erste DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6256
-#EXTINF:-1,ZDF FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6151
-#EXTINF:-1,ZDF HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/17011
-#EXTINF:-1,ZDF Neo HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/17304
-#EXTINF:-1,RTL FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13565
-#EXTINF:-1,RTL FHD [B] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683243
-#EXTINF:-1,RTL HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6216
-#EXTINF:-1,Sat.1 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6210
-#EXTINF:-1,Sat.1 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683455
-#EXTINF:-1,Pro 7 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6220
-#EXTINF:-1,Pro 7 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683393
-#EXTINF:-1,Pro Sieben FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8235
-#EXTINF:-1,Pro Sieben HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13144
-#EXTINF:-1,VOX FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13553
-#EXTINF:-1,VOX DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6153
-#EXTINF:-1,VOXup DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679836
-#EXTINF:-1,Kabel 1 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6242
-#EXTINF:-1,Kabel 1 Classic HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9151
-#EXTINF:-1,Kabel 1 Classic DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679844
-#EXTINF:-1,RTL 2 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6215
-#EXTINF:-1,RTL 2 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13136
-#EXTINF:-1,RTL Nitro FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6212
-#EXTINF:-1,RTL Nitro HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13137
-#EXTINF:-1,RTL Passion FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8219
-#EXTINF:-1,RTL Plus DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9152
-#EXTINF:-1,RTL Crime FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6214
-#EXTINF:-1,RTL Crime HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/17012
-#EXTINF:-1,Crime & Investigation FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6263
-#EXTINF:-1,Crime & Investigation HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8197
-#EXTINF:-1,RTL Living FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6150
-#EXTINF:-1,RTL Living HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6213
-#EXTINF:-1,Sat1 Emotion DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13135
-#EXTINF:-1,Sat1 Gold FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6209
-#EXTINF:-1,Pro 7 Fun FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6219
-#EXTINF:-1,Pro 7 Fun HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13145
-#EXTINF:-1,Pro 7 Fun [B] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13142
-#EXTINF:-1,Pro 7 Max FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6218
-#EXTINF:-1,Pro 7 Max HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683394
-#EXTINF:-1,Pro Sieben Maxx HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13143
-#EXTINF:-1,Pro Sieben Maxx FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8234
-#EXTINF:-1,E! Entertainment FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13569
-#EXTINF:-1,E! Entertainment HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9137
-#EXTINF:-1,E! Entertainment DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5095
-#EXTINF:-1,SRF 1 DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6170
-#EXTINF:-1,MDR HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6238
-#EXTINF:-1,MDR S-Anhalt HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8240
-#EXTINF:-1,MDR Sachsen HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8239
-#EXTINF:-1,3Sat FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16289
-#EXTINF:-1,3sat HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6265
-#EXTINF:-1,NDR HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6225
-#EXTINF:-1,HR FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13150
-#EXTINF:-1,HR HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6243
-#EXTINF:-1,HR Fernsehen HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8225
-#EXTINF:-1,RBB Berlin HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6217
-#EXTINF:-1,BR DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13168
-#EXTINF:-1,SWR HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6165
-#EXTINF:-1,WDR HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6152
-#EXTINF:-1,Franken Fernsehen FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677835
-#EXTINF:-1,BW Family TV FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6246
-#EXTINF:-1,BW Family TV HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23772
-#EXTINF:-1,QVC HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13140
-#EXTINF:-1,QVC Beauty & Style DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13141
-#EXTINF:-1,Augsburg TV HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13170
-#EXTINF:-1,Sonnenklar TV FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13130
-#EXTINF:-1,Event - Covid Info FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679845
-#EXTINF:-1,------- Sports -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678834
-#EXTINF:-1,Sky Sports News FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13555
-#EXTINF:-1,Sky Sports News HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684431
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684432
-#EXTINF:-1,Sky Sport 1 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683895
-#EXTINF:-1,Sky Sport 1 DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9125
-#EXTINF:-1,Sky Sport 1 [B] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684429
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7362
-#EXTINF:-1,Sky Sport 2 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683896
-#EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13563
-#EXTINF:-1,Sky Sport 3 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6182
-#EXTINF:-1,Sky Sport 4 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13562
-#EXTINF:-1,Sky Sport 4 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9127
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13561
-#EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9126
-#EXTINF:-1,Sky Sport 6 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6181
-#EXTINF:-1,Sky Sport 7 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6180
-#EXTINF:-1,Sky Sport 8 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6179
-#EXTINF:-1,Sky Sport 9 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6178
-#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6177
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684430
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683408
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683409
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13538
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/73136
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684005
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135258
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62223
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135671
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62220
-#EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/91235
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135335
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62002
-#EXTINF:-1,Sky Sport Bundesliga 6 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/619225
-#EXTINF:-1,Sky Sport Bundesliga 7 [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6198
-#EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6197
-#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6196
-#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6195
-#EXTINF:-1,DAZN 1 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/661090
-#EXTINF:-1,DAZN 1 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625243
-#EXTINF:-1,DAZN 1 [B] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/661088
-#EXTINF:-1,DAZN 2 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/661089
-#EXTINF:-1,DAZN 2 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50775
-#EXTINF:-1,Sport1 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6173
-#EXTINF:-1,Sport1 HD  DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8221
-#EXTINF:-1,Sport1 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8226
-#EXTINF:-1,Sport1+ FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679847
-#EXTINF:-1,Sport1+ HD [B] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679848
-#EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679822
-#EXTINF:-1,Telekom Fußball 1 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679821
-#EXTINF:-1,Telekom Fußball 3 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679823
-#EXTINF:-1,Telekom Fußball 4 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679824
-#EXTINF:-1,Telekom Fußball 5 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679825
-#EXTINF:-1,Telekom Fußball 6 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679826
-#EXTINF:-1,Telekom Fußball 7 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679827
-#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679671
-#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679672
-#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679673
-#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679676
-#EXTINF:-1,Telekom Basketball 1 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679674
-#EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679675
-#EXTINF:-1,Eurosport 1 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8218
-#EXTINF:-1,Eurosport 2 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9131
-#EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13163
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9130
-#EXTINF:-1,Sport Digital FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8244
-#EXTINF:-1,Sport Digital HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6171
-#EXTINF:-1,Motorvision HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8222
-#EXTINF:-1,Auto Motor Sport FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9132
-#EXTINF:-1,FC Bayern TV HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9128
-#EXTINF:-1,DEL Sport 1 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679851
-#EXTINF:-1,DEL Sport 2 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679852
-#EXTINF:-1,DEL Sport 3 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679853
-#EXTINF:-1,DEL Sport 4 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679854
-#EXTINF:-1,DEL Sport 5 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679855
-#EXTINF:-1,DEL Sport 6 HD [Match Time] DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679856
-#EXTINF:-1,------- Movies & Series -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678836
-#EXTINF:-1,Sky Action HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5093
-#EXTINF:-1,Sky Action DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6205
-#EXTINF:-1,Sky Cinema Special FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8217
-#EXTINF:-1,Sky Cinema Special HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6252
-#EXTINF:-1,Sky Cinema Thriller FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5089
-#EXTINF:-1,Sky Cinema Thriller HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7372
-#EXTINF:-1,Sky Cinema Thriller DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6193
-#EXTINF:-1,Sky Cinema Premieren FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6194
-#EXTINF:-1,Sky Cinema Premieren HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7373
-#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6192
-#EXTINF:-1,Sky Cinema Premieren +24 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13133
-#EXTINF:-1,Sky Cinema Action HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7370
-#EXTINF:-1,Sky Cinema Action DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9146
-#EXTINF:-1,Sky Cinema Fun HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9144
-#EXTINF:-1,Sky Cinema Fun DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6190
-#EXTINF:-1,Sky Cinema Best Of FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7368
-#EXTINF:-1,Sky Cinema Best Of HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8223
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9145
-#EXTINF:-1,Sky Cinema Family HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7369
-#EXTINF:-1,Sky Cinema Classics HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13131
-#EXTINF:-1,Sky Cinema Classics DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6186
-#EXTINF:-1,Sky Cinema Best of DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5088
-#EXTINF:-1,Sky Atlantic HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7367
-#EXTINF:-1,Sky Atlantic DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6204
-#EXTINF:-1,Sky Atlantic +1 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13134
-#EXTINF:-1,Sky 13TH Street HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7365
-#EXTINF:-1,13th Street FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5098
-#EXTINF:-1,13th Street HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8198
-#EXTINF:-1,Sky One FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9138
-#EXTINF:-1,One HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9147
-#EXTINF:-1,Fox FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13567
-#EXTINF:-1,Fox HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6245
-#EXTINF:-1,Fox DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23770
-#EXTINF:-1,Syfy FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7364
-#EXTINF:-1,Syfy HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5087
-#EXTINF:-1,Syfy DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6164
-#EXTINF:-1,Sky Krimi HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8220
-#EXTINF:-1,TNT Comedy FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6157
-#EXTINF:-1,TNT Film FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6156
-#EXTINF:-1,TNT Film HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683894
-#EXTINF:-1,TNT Serie FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5084
-#EXTINF:-1,TNT Serie HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6155
-#EXTINF:-1,TNT Serie DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13154
-#EXTINF:-1,Universal FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5265
-#EXTINF:-1,SonyTV HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6167
-#EXTINF:-1,Kinowelt HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6240
-#EXTINF:-1,Kinowelt DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672086
-#EXTINF:-1,Eagle Cinema Premiere FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681946
-#EXTINF:-1,Eagle Cinema Horror FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681942
-#EXTINF:-1,Eagle Cinema Thriller FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681950
-#EXTINF:-1,Eagle Cinema Sci-Fi FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681949
-#EXTINF:-1,Eagle Cinema Animation HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681939
-#EXTINF:-1,Eagle Cinema Mythologie HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681945
-#EXTINF:-1,Eagle Cinema Lächeln HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681944
-#EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681941
-#EXTINF:-1,Eagle Cinema Romantisch FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681948
-#EXTINF:-1,Sky Select 1 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655131
-#EXTINF:-1,Sky Select 1 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7375
-#EXTINF:-1,Sky Select 2 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655130
-#EXTINF:-1,Sky Select 2 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7376
-#EXTINF:-1,Sky Select 3 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655129
-#EXTINF:-1,Sky Select 3 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7377
-#EXTINF:-1,Sky Select 4 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655128
-#EXTINF:-1,Sky Select 4 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7378
-#EXTINF:-1,Sky Select 5 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8977
-#EXTINF:-1,Sky Select 5 HD (demnächst) DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655127
-#EXTINF:-1,Sky Select 6 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8976
-#EXTINF:-1,Sky Select 6 FHD (demnächst) DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655126
-#EXTINF:-1,Sky Select 7 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8975
-#EXTINF:-1,Sky Select 8 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8974
-#EXTINF:-1,PopCorn Select 1 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23778
-#EXTINF:-1,PopCorn Select 2 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683536
-#EXTINF:-1,PopCorn Select 2 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23777
-#EXTINF:-1,PopCorn Select 3 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683537
-#EXTINF:-1,PopCorn Select 3 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23776
-#EXTINF:-1,PopCorn Select 4 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23775
-#EXTINF:-1,PopCorn Select 5 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683540
-#EXTINF:-1,HiperCinema 4K DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683524
-#EXTINF:-1,HyperCinema Boxset FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683534
-#EXTINF:-1,HyperCinema INFO FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683523
-#EXTINF:-1,HyperCinema 1 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683535
-#EXTINF:-1,HyperCinema 2 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683525
-#EXTINF:-1,HyperCinema 3 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683526
-#EXTINF:-1,HyperCinema 4 4K DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683527
-#EXTINF:-1,HyperCinema 5 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683528
-#EXTINF:-1,HyperCinema 6 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683529
-#EXTINF:-1,HyperCinema 7 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683530
-#EXTINF:-1,HyperCinema 8 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683531
-#EXTINF:-1,HyperCinema 9 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683532
-#EXTINF:-1,HyperCinema 10 FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683533
-#EXTINF:-1,AXN FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5097
-#EXTINF:-1,AXN HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6259
-#EXTINF:-1,Comedy Central FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6154
-#EXTINF:-1,Romance TV HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13152
-#EXTINF:-1,Romance TV DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6211
-#EXTINF:-1,Sky Heimat Kanal HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678481
-#EXTINF:-1,Sky Heimat Kanal DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6188
-#EXTINF:-1,Sixx FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6207
-#EXTINF:-1,Servus TV HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6208
-#EXTINF:-1,Tele 5 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9150
-#EXTINF:-1,Bibel TV HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677497
-#EXTINF:-1,------- Documentary -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678919
-#EXTINF:-1,ZDF Info HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9148
-#EXTINF:-1,N24 Doku DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679837
-#EXTINF:-1,Kabel Eins Doku FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13147
-#EXTINF:-1,Kabel 1 Doku DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679843
-#EXTINF:-1,History Channel FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6244
-#EXTINF:-1,Spiegel Geschichte HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6174
-#EXTINF:-1,Spiegel TV Wissen HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9135
-#EXTINF:-1,Discovery FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13570
-#EXTINF:-1,Discovery HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5096
-#EXTINF:-1,Planet HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679846
-#EXTINF:-1,Animal Planet FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8196
-#EXTINF:-1,Animal Planet HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13173
-#EXTINF:-1,National Geographic HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8194
-#EXTINF:-1,National Geographic DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6226
-#EXTINF:-1,Nat Geo wild FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6227
-#EXTINF:-1,Nat Geo Wild HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9136
-#EXTINF:-1,Nat Geo Wild DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5085
-#EXTINF:-1,Welt der Wunder HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679838
-#EXTINF:-1,Welt der Wunder DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13129
-#EXTINF:-1,Anixe HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6264
-#EXTINF:-1,Dmax FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6249
-#EXTINF:-1,TLC HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8224
-#EXTINF:-1,Luxe TV FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676714
-#EXTINF:-1,Sky Arte FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5091
-#EXTINF:-1,Sky Arte HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9139
-#EXTINF:-1,Sky Arte DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6261
-#EXTINF:-1,ARD Alpha HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13171
-#EXTINF:-1,------- News -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678922
-#EXTINF:-1,Euronews DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6248
-#EXTINF:-1,Welt HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6228
-#EXTINF:-1,N-TV FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13149
-#EXTINF:-1,N-TV HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8195
-#EXTINF:-1,N-TV DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13566
-#EXTINF:-1,Munchen TV DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6229
-#EXTINF:-1,Phoenix HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6221
-#EXTINF:-1,Tagesschau 24 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6163
-#EXTINF:-1,------- Children -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678923
-#EXTINF:-1,Super RTL FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13554
-#EXTINF:-1,Super RTL HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6166
-#EXTINF:-1,KiKa FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679839
-#EXTINF:-1,Kika HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6241
-#EXTINF:-1,Baby TV DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13169
-#EXTINF:-1,Toggo Plus HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5086
-#EXTINF:-1,Toggo Plus DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9133
-#EXTINF:-1,Boomerang HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6258
-#EXTINF:-1,Cartoon Network FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6257
-#EXTINF:-1,Disney Channel FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6253
-#EXTINF:-1,Disney Junior FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13568
-#EXTINF:-1,Disney Junior HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6251
-#EXTINF:-1,Junior HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6239
-#EXTINF:-1,Nickelodeon HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6224
-#EXTINF:-1,Fix & Foxi DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23771
-#EXTINF:-1,Kids Tom&Jerry DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679840
-#EXTINF:-1,------- Music -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678925
-#EXTINF:-1,MTV FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/35466
-#EXTINF:-1,MTV +1 HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679793
-#EXTINF:-1,MTV 80s DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/638080
-#EXTINF:-1,Sky Classica DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6191
-#EXTINF:-1,Classica HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13167
-#EXTINF:-1,Gold Star TV DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683427
-#EXTINF:-1,Deep House Radio FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679832
-#EXTINF:-1,Urban Radio FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679833
-#EXTINF:-1,Classic Radio FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679834
-#EXTINF:-1,Trap Radio FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679835
-#EXTINF:-1,Rainy Jazz Radio HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679831
-#EXTINF:-1,Jukebox DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13148
-#EXTINF:-1,Deluxe Music HD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6255
-#EXTINF:-1,Kronehit FHD DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14200
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13165
+#EXTINF:-1,13TH STREET
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17248
+#EXTINF:-1,3SAT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17197
+#EXTINF:-1,ANIXE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17207
+#EXTINF:-1,ARTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17208
+#EXTINF:-1,AXN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17268
+#EXTINF:-1,BOOMERANG
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17238
+#EXTINF:-1,Cinedome Action
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77367
+#EXTINF:-1,Cinedome Animation
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77366
+#EXTINF:-1,Cinedome Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77364
+#EXTINF:-1,Cinedome Familie
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77363
+#EXTINF:-1,Cinedome Hits
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77362
+#EXTINF:-1,Cinedome Horror
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77361
+#EXTINF:-1,Cinedome Marvel
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77360
+#EXTINF:-1,CiNEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72308
+#EXTINF:-1,CiNEMA 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72309
+#EXTINF:-1,CiNEMA 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72310
+#EXTINF:-1,CLASSICA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17320
+#EXTINF:-1,DAS ERSTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17196
+#EXTINF:-1,Das Erste HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74869
+#EXTINF:-1,DAZN 1 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17378
+#EXTINF:-1,DAZN 2 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17379
+#EXTINF:-1,DAZN SPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17308
+#EXTINF:-1,DAZN SPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17309
+#EXTINF:-1,DELUXE MUSIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17350
+#EXTINF:-1,DISCOVERY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17262
+#EXTINF:-1,DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17241
+#EXTINF:-1,Disney Channel FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84699
+#EXTINF:-1,DISNEY CINEMAGIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17242
+#EXTINF:-1,DISNEY JR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17335
+#EXTINF:-1,DISNEY JUNIOR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17243
+#EXTINF:-1,DISNEY XD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17240
+#EXTINF:-1,DMAX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17270
+#EXTINF:-1,E! ENTERTAINMENT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17352
+#EXTINF:-1,EUROSPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17305
+#EXTINF:-1,EUROSPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17306
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17307
+#EXTINF:-1,Folx TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85224
+#EXTINF:-1,FOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17249
+#EXTINF:-1,Franken Fernsehen
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85225
+#EXTINF:-1,HEIMATKANAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17212
+#EXTINF:-1,HISTORY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17263
+#EXTINF:-1,HR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85221
+#EXTINF:-1,JUKEBOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17356
+#EXTINF:-1,KABEL EINS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17213
+#EXTINF:-1,KABEL EINS CLASSICS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17214
+#EXTINF:-1,KIKA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17244
+#EXTINF:-1,KINO WELT TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74980
+#EXTINF:-1,KiNOBOX 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72520
+#EXTINF:-1,KiNOBOX 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72529
+#EXTINF:-1,KiNOBOX 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72521
+#EXTINF:-1,KiNOBOX 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72522
+#EXTINF:-1,KiNOBOX 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72523
+#EXTINF:-1,KiNOBOX 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72525
+#EXTINF:-1,KiNOBOX 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72524
+#EXTINF:-1,KiNOBOX 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72526
+#EXTINF:-1,KiNOBOX 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72527
+#EXTINF:-1,KiNOBOX 9 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72528
+#EXTINF:-1,KiNOBOX PEPPA PIG HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72532
+#EXTINF:-1,KiNOBOX SPONGEBOB HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72530
+#EXTINF:-1,KiNOBOX Mascha UND DER BAR HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85195
+#EXTINF:-1,KiNOBOX BEN 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72531
+#EXTINF:-1,KINOWELT TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17284
+#EXTINF:-1,MAX SELECT HD 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77353
+#EXTINF:-1,MAX SELECT HD 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77354
+#EXTINF:-1,MAX SELECT HD 3
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77355
+#EXTINF:-1,MAX SELECT HD 4
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77356
+#EXTINF:-1,MAX SELECT HD 5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77357
+#EXTINF:-1,MAX SELECT HD 6
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77358
+#EXTINF:-1,MAX SELECT HD 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77359
+#EXTINF:-1,MDR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17215
+#EXTINF:-1,MOTORVISION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17318
+#EXTINF:-1,MOTORVISION TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17388
+#EXTINF:-1,MTV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17319
+#EXTINF:-1,Munchen TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85227
+#EXTINF:-1,N-TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17351
+#EXTINF:-1,N24 Doku
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17216
+#EXTINF:-1,NAT GEO WILD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17265
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17264
+#EXTINF:-1,NDR HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17217
+#EXTINF:-1,NICKELODEON
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17245
+#EXTINF:-1,NTV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17219
+#EXTINF:-1,NTV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/79713
+#EXTINF:-1,Oberpfalz TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85230
+#EXTINF:-1,ORF 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17223
+#EXTINF:-1,ORF 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17224
+#EXTINF:-1,PHOENIX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17220
+#EXTINF:-1,PRO 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17326
+#EXTINF:-1,PRO 7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17327
+#EXTINF:-1,PRO7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17229
+#EXTINF:-1,PROSIEBEN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17227
+#EXTINF:-1,PROSIEBEN FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17228
+#EXTINF:-1,ROMANCE TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17261
+#EXTINF:-1,RTL 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17231
+#EXTINF:-1,RTL 2 YOU
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17232
+#EXTINF:-1,RTL 4K+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17230
+#EXTINF:-1,RTL CRIME
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17233
+#EXTINF:-1,RTL LIVING
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17234
+#EXTINF:-1,RTL NITRO FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17237
+#EXTINF:-1,RTL NITRO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84698
+#EXTINF:-1,RTL PASSION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17235
+#EXTINF:-1,SAT 1 4K+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17204
+#EXTINF:-1,SAT 1 EMOTIONS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17205
+#EXTINF:-1,SAT 1 GOLD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17332
+#EXTINF:-1,SIXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17222
+#EXTINF:-1,SKY 1 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84702
+#EXTINF:-1,SKY 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72316
+#EXTINF:-1,SKY ATLANTIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17275
+#EXTINF:-1,SKY CINEMA   +24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17272
+#EXTINF:-1,SKY CINEMA  24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17359
+#EXTINF:-1,SKY CINEMA 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17360
+#EXTINF:-1,SKY CINEMA 1   HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72307
+#EXTINF:-1,SKY CINEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72306
+#EXTINF:-1,SKY CINEMA ACTION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17277
+#EXTINF:-1,SKY CINEMA BEST OF
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17281
+#EXTINF:-1,Sky Cinema Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72268
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72313
+#EXTINF:-1,SKY CINEMA FAMILY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17280
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72315
+#EXTINF:-1,Sky Cinema Family HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72257
+#EXTINF:-1,SKY CINEMA FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17278
+#EXTINF:-1,SKY CINEMA HITS FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72314
+#EXTINF:-1,SKY CINEMA NOSTALGIE HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72311
+#EXTINF:-1,SKY CINEMA SPECIAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17271
+#EXTINF:-1,SKY DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17247
+#EXTINF:-1,SKY KRIMI HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72312
+#EXTINF:-1,SKY SELECT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72282
+#EXTINF:-1,SKY SELECT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17286
+#EXTINF:-1,SKY SELECT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72281
+#EXTINF:-1,SKY SELECT 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72279
+#EXTINF:-1,SKY SELECT 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72278
+#EXTINF:-1,SKY SELECT 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72277
+#EXTINF:-1,SONNENKLAR TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17211
+#EXTINF:-1,SONY ENTERTAINMENT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17254
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17206
+#EXTINF:-1,SPIEGEL TV WISSEN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17353
+#EXTINF:-1,SUPER RTL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17236
+#EXTINF:-1,SYFY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17253
+#EXTINF:-1,TELE 5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17202
+#EXTINF:-1,TLC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17252
+#EXTINF:-1,TNT SERIE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17260
+#EXTINF:-1,TOGGO PLUS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17257
+#EXTINF:-1,UNIVERSAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17357
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17256
+#EXTINF:-1,VOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17200
+#EXTINF:-1,WDR HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17201
+#EXTINF:-1,WELT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17355
+#EXTINF:-1,ZDF FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72654
+#EXTINF:-1,ZDF HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72655
+#EXTINF:-1,ZDF INFO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17199
+#EXTINF:-1,ZDF INFO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56386
+#EXTINF:-1,ZDF NEO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17324
+#EXTINF:-1,ZEE ONE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17255
+#EXTINF:-1,CiNEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72308
+#EXTINF:-1,CiNEMA 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72309
+#EXTINF:-1,CiNEMA 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72310
+#EXTINF:-1,Cinedome Action
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77367
+#EXTINF:-1,Cinedome Animation
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77366
+#EXTINF:-1,Cinedome Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77364
+#EXTINF:-1,Cinedome Familie
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77363
+#EXTINF:-1,Cinedome Hits
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77362
+#EXTINF:-1,Cinedome Horror
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77361
+#EXTINF:-1,Cinedome Marvel
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77360
+#EXTINF:-1,MAX SELECT HD 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77353
+#EXTINF:-1,MAX SELECT HD 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77354
+#EXTINF:-1,MAX SELECT HD 3
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77355
+#EXTINF:-1,MAX SELECT HD 4
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77356
+#EXTINF:-1,MAX SELECT HD 5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77357
+#EXTINF:-1,MAX SELECT HD 6
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77358
+#EXTINF:-1,MAX SELECT HD 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77359
+#EXTINF:-1,SKY 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72316
+#EXTINF:-1,SKY ATLANTIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17275
+#EXTINF:-1,SKY CINEMA SPECIAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17271
+#EXTINF:-1,SKY CINEMA 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17360
+#EXTINF:-1,SKY CINEMA   +24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17272
+#EXTINF:-1,SKY CINEMA  24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17359
+#EXTINF:-1,SKY CINEMA 1   HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72307
+#EXTINF:-1,SKY CINEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72306
+#EXTINF:-1,SKY CINEMA ACTION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17277
+#EXTINF:-1,Sky Cinema Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72268
+#EXTINF:-1,SKY CINEMA FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17278
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72313
+#EXTINF:-1,SKY CINEMA FAMILY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17280
+#EXTINF:-1,Sky Cinema Family HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72257
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72315
+#EXTINF:-1,SKY CINEMA BEST OF
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17281
+#EXTINF:-1,SKY CINEMA HITS FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72314
+#EXTINF:-1,SKY CINEMA NOSTALGIE HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72311
+#EXTINF:-1,SKY KRIMI HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72312
+#EXTINF:-1,SKY DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17247
+#EXTINF:-1,SKY SELECT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72282
+#EXTINF:-1,SKY SELECT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72281
+#EXTINF:-1,SKY SELECT 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72279
+#EXTINF:-1,SKY SELECT 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72278
+#EXTINF:-1,SKY SELECT 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72277
+#EXTINF:-1,SKY SELECT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17286
+#EXTINF:-1,TNT SERIE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17260
+#EXTINF:-1,KiNOBOX 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72520
+#EXTINF:-1,KiNOBOX 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72521
+#EXTINF:-1,KiNOBOX 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72522
+#EXTINF:-1,KiNOBOX 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72523
+#EXTINF:-1,KiNOBOX 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72525
+#EXTINF:-1,KiNOBOX 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72524
+#EXTINF:-1,KiNOBOX 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72526
+#EXTINF:-1,KiNOBOX 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72527
+#EXTINF:-1,KiNOBOX 9 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72528
+#EXTINF:-1,KiNOBOX 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72529
+#EXTINF:-1,KiNOBOX PEPPA PIG HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72532
+#EXTINF:-1,KiNOBOX SPONGEBOB HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72530
+#EXTINF:-1,KiNOBOX BEN 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72531
+#EXTINF:-1,KiNOBOX Mascha UND DER BAR HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85195
+#EXTINF:-1,Das Erste HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74869
+#EXTINF:-1,ZDF FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72654
+#EXTINF:-1,RTL 4K+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17230
+#EXTINF:-1,RTL NITRO FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17237
+#EXTINF:-1,PROSIEBEN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17227
+#EXTINF:-1,RTL 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17231
+#EXTINF:-1,SAT 1 EMOTIONS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17205
+#EXTINF:-1,SAT 1 GOLD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17332
+#EXTINF:-1,VOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17200
+#EXTINF:-1,KABEL EINS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17213
+#EXTINF:-1,SIXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17222
+#EXTINF:-1,SAT 1 4K+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17204
+#EXTINF:-1,ZEE ONE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17255
+#EXTINF:-1,3SAT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17197
+#EXTINF:-1,HR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85221
+#EXTINF:-1,NDR HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17217
+#EXTINF:-1,SUPER RTL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17236
+#EXTINF:-1,WDR DORDTMUND
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/115666
+#EXTINF:-1,ANIXE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17207
+#EXTINF:-1,ARTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17208
+#EXTINF:-1,AXN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17268
+#EXTINF:-1,ZDF HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72655
+#EXTINF:-1,TELE 5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17202
+#EXTINF:-1,WDR HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17201
+#EXTINF:-1,N-TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17351
+#EXTINF:-1,N24 Doku
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17216
+#EXTINF:-1,NTV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/79713
+#EXTINF:-1,SPIEGEL TV WISSEN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17353
+#EXTINF:-1,MDR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17215
+#EXTINF:-1,ZDF INFO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17199
+#EXTINF:-1,ZDF INFO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56386
+#EXTINF:-1,ZDF NEO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17324
+#EXTINF:-1,TLC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17252
+#EXTINF:-1,DE: N24 SD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/75676
+#EXTINF:-1,DE: NTV SD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/75673
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17206
+#EXTINF:-1,DE: EURONEWS SD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/75668
+#EXTINF:-1,ORF 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17223
+#EXTINF:-1,ORF 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17224
+#EXTINF:-1,Oberpfalz TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85230
+#EXTINF:-1,PRO 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17326
+#EXTINF:-1,NTV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17219
+#EXTINF:-1,Munchen TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85227
+#EXTINF:-1,HEIMATKANAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17212
+#EXTINF:-1,Franken Fernsehen
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85225
+#EXTINF:-1,Folx TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85224
+#EXTINF:-1,BOOMERANG
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17238
+#EXTINF:-1,13TH STREET
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17248
+#EXTINF:-1,WELT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17355
+#EXTINF:-1,PHOENIX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17220
+#EXTINF:-1,PRO 7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17327
+#EXTINF:-1,PRO7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17229
+#EXTINF:-1,SYFY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17253
+#EXTINF:-1,SONNENKLAR TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17211
+#EXTINF:-1,ARD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109167
+#EXTINF:-1,ARD Alpha
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109166
+#EXTINF:-1,Sports Digital
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109152
+#EXTINF:-1,Tagesschau 24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109169
+#EXTINF:-1,13TH STREET
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17248
+#EXTINF:-1,3SAT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17197
+#EXTINF:-1,ANIXE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17207
+#EXTINF:-1,ARTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17208
+#EXTINF:-1,AUTO MOTOR SPORT HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101501
+#EXTINF:-1,AXN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17268
+#EXTINF:-1,BOOMERANG
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17238
+#EXTINF:-1,Cinedome Action
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77367
+#EXTINF:-1,Cinedome Animation
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77366
+#EXTINF:-1,Cinedome Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77364
+#EXTINF:-1,Cinedome Familie
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77363
+#EXTINF:-1,Cinedome Hits
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77362
+#EXTINF:-1,Cinedome Horror
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77361
+#EXTINF:-1,Cinedome Marvel
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77360
+#EXTINF:-1,CiNEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72308
+#EXTINF:-1,CiNEMA 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72309
+#EXTINF:-1,CiNEMA 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72310
+#EXTINF:-1,CLASSICA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17320
+#EXTINF:-1,DAS ERSTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17196
+#EXTINF:-1,Das Erste HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74869
+#EXTINF:-1,DAZN 1 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17378
+#EXTINF:-1,Dazn 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101474
+#EXTINF:-1,DAZN 2 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17379
+#EXTINF:-1,Dazn 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101475
+#EXTINF:-1,DAZN SPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17308
+#EXTINF:-1,DAZN SPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17309
+#EXTINF:-1,DELUXE MUSIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17350
+#EXTINF:-1,DISCOVERY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17262
+#EXTINF:-1,DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17241
+#EXTINF:-1,Disney Channel FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84699
+#EXTINF:-1,DISNEY CINEMAGIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17242
+#EXTINF:-1,DISNEY JR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17335
+#EXTINF:-1,DISNEY JUNIOR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17243
+#EXTINF:-1,DISNEY XD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17240
+#EXTINF:-1,DMAX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17270
+#EXTINF:-1,E! ENTERTAINMENT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17352
+#EXTINF:-1,EUROSPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17305
+#EXTINF:-1,EUROSPORT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101505
+#EXTINF:-1,EUROSPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17306
+#EXTINF:-1,EUROSPORT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101503
+#EXTINF:-1,EUROSPORT 2 HD XTRA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101504
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17307
+#EXTINF:-1,FC BAYERN TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101500
+#EXTINF:-1,Folx TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85224
+#EXTINF:-1,FOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17249
+#EXTINF:-1,Franken Fernsehen
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85225
+#EXTINF:-1,HEIMATKANAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17212
+#EXTINF:-1,WDR DORDTMUND
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/115666
+#EXTINF:-1,HISTORY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17263
+#EXTINF:-1,HR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85221
+#EXTINF:-1,JUKEBOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17356
+#EXTINF:-1,KABEL EINS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17213
+#EXTINF:-1,KABEL EINS CLASSICS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17214
+#EXTINF:-1,KIKA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17244
+#EXTINF:-1,ZDF FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72654
+#EXTINF:-1,ZDF HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72655
+#EXTINF:-1,ZDF INFO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17199
+#EXTINF:-1,ZDF INFO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56386
+#EXTINF:-1,ZDF NEO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17324
+#EXTINF:-1,SUPER RTL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17236
+#EXTINF:-1,RTL 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17231
+#EXTINF:-1,RTL CRIME
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17233
+#EXTINF:-1,RTL LIVING
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17234
+#EXTINF:-1,RTL NITRO FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17237
+#EXTINF:-1,RTL NITRO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84698
+#EXTINF:-1,RTL PASSION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17235
+#EXTINF:-1,SAT 1 GOLD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17332
+#EXTINF:-1,PROSIEBEN FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17228
+#EXTINF:-1,PROSIEBEN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17227
+#EXTINF:-1,PRO7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17229
+#EXTINF:-1,PRO 7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17327
+#EXTINF:-1,PRO 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17326
+#EXTINF:-1,PHOENIX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17220
+#EXTINF:-1,NDR HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17217
+#EXTINF:-1,NAT GEO WILD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17265
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17264
+#EXTINF:-1,N24 Doku
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17216
+#EXTINF:-1,Munchen TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85227
+#EXTINF:-1,MTV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17319
+#EXTINF:-1,N-TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17351
+#EXTINF:-1,MOTORVISION TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17388
+#EXTINF:-1,MOTORVISION HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101502
+#EXTINF:-1,MOTORVISION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17318
+#EXTINF:-1,MDR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17215
+#EXTINF:-1,NICKELODEON
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17245
+#EXTINF:-1,Oberpfalz TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85230
+#EXTINF:-1,ORF 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17223
+#EXTINF:-1,ORF 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17224
+#EXTINF:-1,SKY 1 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84702
+#EXTINF:-1,SIXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17222
+#EXTINF:-1,SAT 1 EMOTIONS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17205
+#EXTINF:-1,DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17241
+#EXTINF:-1,NICKELODEON
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17245
+#EXTINF:-1,KIKA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17244
+#EXTINF:-1,Disney Channel FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84699
+#EXTINF:-1,DISNEY XD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17240
+#EXTINF:-1,BOOMERANG
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17238
+#EXTINF:-1,TOGGO PLUS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17257
+#EXTINF:-1,SUPER RTL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17236
+#EXTINF:-1,DISNEY JUNIOR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17243
+#EXTINF:-1,DISNEY JR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17335
+#EXTINF:-1,DISNEY CINEMAGIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17242
+#EXTINF:-1,SKY DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17247
+#EXTINF:-1,SKY CINEMA FAMILY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17280
+#EXTINF:-1,MTV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17319
+#EXTINF:-1,DELUXE MUSIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17350
+#EXTINF:-1,CiNEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72308
+#EXTINF:-1,CiNEMA 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72309
+#EXTINF:-1,CiNEMA 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72310
+#EXTINF:-1,Cinedome Action
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77367
+#EXTINF:-1,Cinedome Animation
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77366
+#EXTINF:-1,Cinedome Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77364
+#EXTINF:-1,Cinedome Familie
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77363
+#EXTINF:-1,Cinedome Hits
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77362
+#EXTINF:-1,Cinedome Horror
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77361
+#EXTINF:-1,Cinedome Marvel
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77360
+#EXTINF:-1,13TH STREET
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17248
+#EXTINF:-1,AXN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17268
+#EXTINF:-1,FOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17249
+#EXTINF:-1,RTL CRIME
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17233
+#EXTINF:-1,ROMANCE TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17261
+#EXTINF:-1,PROSIEBEN FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17228
+#EXTINF:-1,RTL LIVING
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17234
+#EXTINF:-1,RTL NITRO FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17237
+#EXTINF:-1,RTL PASSION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17235
+#EXTINF:-1,SYFY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17253
+#EXTINF:-1,TNT SERIE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17260
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17256
+#EXTINF:-1,E! ENTERTAINMENT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17352
+#EXTINF:-1,KINO WELT TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74980
+#EXTINF:-1,SKY SELECT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72281
+#EXTINF:-1,CLASSICA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17320
+#EXTINF:-1,SKY CINEMA   +24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17272
+#EXTINF:-1,SKY CINEMA ACTION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17277
+#EXTINF:-1,SKY CINEMA BEST OF
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17281
+#EXTINF:-1,SKY CINEMA NOSTALGIE HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72311
+#EXTINF:-1,SKY CINEMA SPECIAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17271
+#EXTINF:-1,MAX SELECT HD 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77353
+#EXTINF:-1,MAX SELECT HD 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77354
+#EXTINF:-1,MAX SELECT HD 3
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77355
+#EXTINF:-1,MAX SELECT HD 4
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77356
+#EXTINF:-1,MAX SELECT HD 5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77357
+#EXTINF:-1,MAX SELECT HD 6
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77358
+#EXTINF:-1,MAX SELECT HD 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77359
+#EXTINF:-1,KiNOBOX 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72520
+#EXTINF:-1,KiNOBOX 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72521
+#EXTINF:-1,KiNOBOX 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72522
+#EXTINF:-1,KiNOBOX 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72523
+#EXTINF:-1,KiNOBOX 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72525
+#EXTINF:-1,KiNOBOX 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72524
+#EXTINF:-1,KiNOBOX 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72526
+#EXTINF:-1,KiNOBOX 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72527
+#EXTINF:-1,KiNOBOX 9 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72528
+#EXTINF:-1,KiNOBOX 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72529
+#EXTINF:-1,KiNOBOX PEPPA PIG HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72532
+#EXTINF:-1,KiNOBOX SPONGEBOB HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72530
+#EXTINF:-1,KiNOBOX Mascha UND DER BAR HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85195
+#EXTINF:-1,KiNOBOX BEN 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72531
+#EXTINF:-1,EUROSPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17305
+#EXTINF:-1,EUROSPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17306
+#EXTINF:-1,DE: SPORT 1 SD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/75639
+#EXTINF:-1,MOTORVISION TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17388
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17307
+#EXTINF:-1,DE: FC Bayern TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/57874
+#EXTINF:-1,DAZN 1 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17378
+#EXTINF:-1,DAZN 2 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17379
+#EXTINF:-1,ARD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109167
+#EXTINF:-1,ARD Alpha
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109166
+#EXTINF:-1,Sports Digital
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109152
+#EXTINF:-1,Tagesschau 24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109169
+#EXTINF:-1,13TH STREET
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17248
+#EXTINF:-1,3SAT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17197
+#EXTINF:-1,ANIXE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17207
+#EXTINF:-1,ARTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17208
+#EXTINF:-1,AUTO MOTOR SPORT HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101501
+#EXTINF:-1,AXN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17268
+#EXTINF:-1,BOOMERANG
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17238
+#EXTINF:-1,Cinedome Action
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77367
+#EXTINF:-1,Cinedome Animation
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77366
+#EXTINF:-1,Cinedome Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77364
+#EXTINF:-1,Cinedome Familie
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77363
+#EXTINF:-1,Cinedome Hits
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77362
+#EXTINF:-1,Cinedome Horror
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77361
+#EXTINF:-1,Cinedome Marvel
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77360
+#EXTINF:-1,CiNEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72308
+#EXTINF:-1,CiNEMA 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72309
+#EXTINF:-1,CiNEMA 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72310
+#EXTINF:-1,CLASSICA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17320
+#EXTINF:-1,DAS ERSTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17196
+#EXTINF:-1,Das Erste HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74869
+#EXTINF:-1,DAZN 1 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17378
+#EXTINF:-1,Dazn 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101474
+#EXTINF:-1,DAZN 2 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17379
+#EXTINF:-1,Dazn 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101475
+#EXTINF:-1,DAZN SPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17308
+#EXTINF:-1,DAZN SPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17309
+#EXTINF:-1,DELUXE MUSIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17350
+#EXTINF:-1,DISCOVERY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17262
+#EXTINF:-1,DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17241
+#EXTINF:-1,Disney Channel FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84699
+#EXTINF:-1,DISNEY CINEMAGIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17242
+#EXTINF:-1,DISNEY JR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17335
+#EXTINF:-1,DISNEY JUNIOR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17243
+#EXTINF:-1,DISNEY XD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17240
+#EXTINF:-1,DMAX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17270
+#EXTINF:-1,E! ENTERTAINMENT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17352
+#EXTINF:-1,EUROSPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17305
+#EXTINF:-1,EUROSPORT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101505
+#EXTINF:-1,EUROSPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17306
+#EXTINF:-1,EUROSPORT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101503
+#EXTINF:-1,EUROSPORT 2 HD XTRA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101504
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17307
+#EXTINF:-1,FC BAYERN TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101500
+#EXTINF:-1,Folx TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85224
+#EXTINF:-1,FOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17249
+#EXTINF:-1,Franken Fernsehen
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85225
+#EXTINF:-1,HEIMATKANAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17212
+#EXTINF:-1,WDR DORDTMUND
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/115666
+#EXTINF:-1,HISTORY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17263
+#EXTINF:-1,HR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85221
+#EXTINF:-1,JUKEBOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17356
+#EXTINF:-1,KABEL EINS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17213
+#EXTINF:-1,KABEL EINS CLASSICS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17214
+#EXTINF:-1,KIKA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17244
+#EXTINF:-1,ZDF FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72654
+#EXTINF:-1,ZDF HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72655
+#EXTINF:-1,ZDF INFO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17199
+#EXTINF:-1,ZDF INFO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56386
+#EXTINF:-1,ZDF NEO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17324
+#EXTINF:-1,SUPER RTL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17236
+#EXTINF:-1,RTL 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17231
+#EXTINF:-1,RTL CRIME
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17233
+#EXTINF:-1,RTL LIVING
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17234
+#EXTINF:-1,RTL NITRO FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17237
+#EXTINF:-1,RTL NITRO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84698
+#EXTINF:-1,RTL PASSION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17235
+#EXTINF:-1,SAT 1 GOLD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17332
+#EXTINF:-1,PROSIEBEN FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17228
+#EXTINF:-1,PROSIEBEN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17227
+#EXTINF:-1,PRO7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17229
+#EXTINF:-1,PRO 7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17327
+#EXTINF:-1,PRO 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17326
+#EXTINF:-1,PHOENIX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17220
+#EXTINF:-1,NDR HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17217
+#EXTINF:-1,NAT GEO WILD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17265
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17264
+#EXTINF:-1,N24 Doku
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17216
+#EXTINF:-1,Munchen TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85227
+#EXTINF:-1,MTV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17319
+#EXTINF:-1,N-TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17351
+#EXTINF:-1,MOTORVISION TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17388
+#EXTINF:-1,MOTORVISION HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101502
+#EXTINF:-1,MOTORVISION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17318
+#EXTINF:-1,MDR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17215
+#EXTINF:-1,NICKELODEON
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17245
+#EXTINF:-1,Oberpfalz TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85230
+#EXTINF:-1,ORF 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17223
+#EXTINF:-1,ORF 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17224
+#EXTINF:-1,SKY 1 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84702
+#EXTINF:-1,SIXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17222
+#EXTINF:-1,SAT 1 EMOTIONS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17205
+#EXTINF:-1,DE: FC Bayern TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/57874
+#EXTINF:-1,FC BAYERN TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101500
+#EXTINF:-1,AUTO MOTOR SPORT HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101501
+#EXTINF:-1,MOTORVISION HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101502
+#EXTINF:-1,Dazn 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101474
+#EXTINF:-1,Dazn 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101475
+#EXTINF:-1,EUROSPORT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101505
+#EXTINF:-1,EUROSPORT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101503
+#EXTINF:-1,EUROSPORT 2 HD XTRA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101504
+#EXTINF:-1,SKY SPORT NEWS HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101476
+#EXTINF:-1,Sky Sport News HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101441
+#EXTINF:-1,SKY SPORT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101478
+#EXTINF:-1,Sky Sport 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101442
+#EXTINF:-1,SKY SPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101488
+#EXTINF:-1,SKY SPORT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101479
+#EXTINF:-1,Sky Sport 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101443
+#EXTINF:-1,SKY SPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101489
+#EXTINF:-1,SKY SPORT 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101480
+#EXTINF:-1,Sky Sport 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101444
+#EXTINF:-1,SKY SPORT 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101481
+#EXTINF:-1,Sky Sport 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101445
+#EXTINF:-1,SKY SPORT 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101482
+#EXTINF:-1,Sky Sport 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101446
+#EXTINF:-1,SKY SPORT 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101483
+#EXTINF:-1,Sky Sport 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101448
+#EXTINF:-1,SKY SPORT 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101484
+#EXTINF:-1,Sky Sport 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101447
+#EXTINF:-1,SKY SPORT 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101485
+#EXTINF:-1,Sky Sport 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101449
+#EXTINF:-1,SKY SPORT 9 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101486
+#EXTINF:-1,Sky Sport 9 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101450
+#EXTINF:-1,Sky Sport 10 HD 1080p
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101451
+#EXTINF:-1,SKY SPORT 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101487
+#EXTINF:-1,Sky Sport 11 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101452
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101490
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101430
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101491
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101431
+#EXTINF:-1,SKY SPORT BUNDESLIGA 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101492
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101432
+#EXTINF:-1,SKY SPORT BUNDESLIGA 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101493
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101433
+#EXTINF:-1,SKY SPORT BUNDESLIGA 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101494
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101434
+#EXTINF:-1,SKY SPORT BUNDESLIGA 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101495
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101435
+#EXTINF:-1,SKY SPORT BUNDESLIGA 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101496
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101436
+#EXTINF:-1,Sky Sport Bundesliga 8 HD 1080p
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101437
+#EXTINF:-1,SKY SPORT BUNDESLIGA 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101497
+#EXTINF:-1,Sky Sport Bundesliga 9 HD 1080p
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101438
+#EXTINF:-1,SKY SPORT BUNDESLIGA 9 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101498
+#EXTINF:-1,Sky Sport Bundesliga 10 HD 1080p
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101439
+#EXTINF:-1,SKY SPORT BUNDESLIGA 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101499
+#EXTINF:-1,Sports Digital
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109152
+#EXTINF:-1,CiNEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72308
+#EXTINF:-1,CiNEMA 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72309
+#EXTINF:-1,CiNEMA 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72310
+#EXTINF:-1,Cinedome Action
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77367
+#EXTINF:-1,Cinedome Animation
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77366
+#EXTINF:-1,Cinedome Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77364
+#EXTINF:-1,Cinedome Familie
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77363
+#EXTINF:-1,Cinedome Hits
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77362
+#EXTINF:-1,Cinedome Horror
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77361
+#EXTINF:-1,Cinedome Marvel
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77360
+#EXTINF:-1,MAX SELECT HD 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77353
+#EXTINF:-1,MAX SELECT HD 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77354
+#EXTINF:-1,MAX SELECT HD 3
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77355
+#EXTINF:-1,MAX SELECT HD 4
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77356
+#EXTINF:-1,MAX SELECT HD 5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77357
+#EXTINF:-1,MAX SELECT HD 6
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77358
+#EXTINF:-1,MAX SELECT HD 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77359
+#EXTINF:-1,SKY 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72316
+#EXTINF:-1,SKY ATLANTIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17275
+#EXTINF:-1,SKY CINEMA SPECIAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17271
+#EXTINF:-1,SKY CINEMA 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17360
+#EXTINF:-1,SKY CINEMA   +24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17272
+#EXTINF:-1,SKY CINEMA  24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17359
+#EXTINF:-1,SKY CINEMA 1   HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72307
+#EXTINF:-1,SKY CINEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72306
+#EXTINF:-1,SKY CINEMA ACTION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17277
+#EXTINF:-1,Sky Cinema Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72268
+#EXTINF:-1,SKY CINEMA FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17278
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72313
+#EXTINF:-1,SKY CINEMA FAMILY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17280
+#EXTINF:-1,Sky Cinema Family HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72257
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72315
+#EXTINF:-1,SKY CINEMA BEST OF
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17281
+#EXTINF:-1,SKY CINEMA HITS FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72314
+#EXTINF:-1,SKY CINEMA NOSTALGIE HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72311
+#EXTINF:-1,SKY KRIMI HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72312
+#EXTINF:-1,SKY DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17247
+#EXTINF:-1,SKY SELECT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72282
+#EXTINF:-1,SKY SELECT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72281
+#EXTINF:-1,SKY SELECT 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72279
+#EXTINF:-1,SKY SELECT 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72278
+#EXTINF:-1,SKY SELECT 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72277
+#EXTINF:-1,SKY SELECT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17286
+#EXTINF:-1,TNT SERIE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17260
+#EXTINF:-1,KiNOBOX 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72520
+#EXTINF:-1,KiNOBOX 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72521
+#EXTINF:-1,KiNOBOX 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72522
+#EXTINF:-1,KiNOBOX 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72523
+#EXTINF:-1,KiNOBOX 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72525
+#EXTINF:-1,KiNOBOX 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72524
+#EXTINF:-1,KiNOBOX 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72526
+#EXTINF:-1,KiNOBOX 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72527
+#EXTINF:-1,KiNOBOX 9 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72528
+#EXTINF:-1,KiNOBOX 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72529
+#EXTINF:-1,KiNOBOX PEPPA PIG HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72532
+#EXTINF:-1,KiNOBOX SPONGEBOB HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72530
+#EXTINF:-1,KiNOBOX BEN 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72531
+#EXTINF:-1,KiNOBOX Mascha UND DER BAR HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85195
+#EXTINF:-1,13TH STREET
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17248
+#EXTINF:-1,3SAT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17197
+#EXTINF:-1,ANIXE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17207
+#EXTINF:-1,ARTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17208
+#EXTINF:-1,AXN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17268
+#EXTINF:-1,BOOMERANG
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17238
+#EXTINF:-1,Cinedome Action
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77367
+#EXTINF:-1,Cinedome Animation
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77366
+#EXTINF:-1,Cinedome Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77364
+#EXTINF:-1,Cinedome Familie
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77363
+#EXTINF:-1,Cinedome Hits
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77362
+#EXTINF:-1,Cinedome Horror
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77361
+#EXTINF:-1,Cinedome Marvel
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77360
+#EXTINF:-1,CiNEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72308
+#EXTINF:-1,CiNEMA 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72309
+#EXTINF:-1,CiNEMA 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72310
+#EXTINF:-1,CLASSICA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17320
+#EXTINF:-1,DAS ERSTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17196
+#EXTINF:-1,Das Erste HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74869
+#EXTINF:-1,DAZN 1 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17378
+#EXTINF:-1,DAZN 2 BAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17379
+#EXTINF:-1,DAZN SPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17308
+#EXTINF:-1,DAZN SPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17309
+#EXTINF:-1,DELUXE MUSIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17350
+#EXTINF:-1,DISCOVERY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17262
+#EXTINF:-1,DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17241
+#EXTINF:-1,Disney Channel FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84699
+#EXTINF:-1,DISNEY CINEMAGIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17242
+#EXTINF:-1,DISNEY JR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17335
+#EXTINF:-1,DISNEY JUNIOR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17243
+#EXTINF:-1,DISNEY XD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17240
+#EXTINF:-1,DMAX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17270
+#EXTINF:-1,E! ENTERTAINMENT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17352
+#EXTINF:-1,EUROSPORT 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17305
+#EXTINF:-1,EUROSPORT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17306
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17307
+#EXTINF:-1,Folx TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85224
+#EXTINF:-1,FOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17249
+#EXTINF:-1,Franken Fernsehen
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85225
+#EXTINF:-1,HEIMATKANAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17212
+#EXTINF:-1,HISTORY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17263
+#EXTINF:-1,HR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85221
+#EXTINF:-1,JUKEBOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17356
+#EXTINF:-1,KABEL EINS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17213
+#EXTINF:-1,KABEL EINS CLASSICS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17214
+#EXTINF:-1,KIKA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17244
+#EXTINF:-1,KINO WELT TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74980
+#EXTINF:-1,KiNOBOX 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72520
+#EXTINF:-1,KiNOBOX 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72529
+#EXTINF:-1,KiNOBOX 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72521
+#EXTINF:-1,KiNOBOX 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72522
+#EXTINF:-1,KiNOBOX 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72523
+#EXTINF:-1,KiNOBOX 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72525
+#EXTINF:-1,KiNOBOX 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72524
+#EXTINF:-1,KiNOBOX 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72526
+#EXTINF:-1,KiNOBOX 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72527
+#EXTINF:-1,KiNOBOX 9 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72528
+#EXTINF:-1,KiNOBOX PEPPA PIG HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72532
+#EXTINF:-1,KiNOBOX SPONGEBOB HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72530
+#EXTINF:-1,KiNOBOX Mascha UND DER BAR HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85195
+#EXTINF:-1,KiNOBOX BEN 10 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72531
+#EXTINF:-1,KINOWELT TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17284
+#EXTINF:-1,MAX SELECT HD 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77353
+#EXTINF:-1,MAX SELECT HD 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77354
+#EXTINF:-1,MAX SELECT HD 3
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77355
+#EXTINF:-1,MAX SELECT HD 4
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77356
+#EXTINF:-1,MAX SELECT HD 5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77357
+#EXTINF:-1,MAX SELECT HD 6
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77358
+#EXTINF:-1,MAX SELECT HD 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77359
+#EXTINF:-1,MDR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17215
+#EXTINF:-1,MOTORVISION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17318
+#EXTINF:-1,MOTORVISION TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17388
+#EXTINF:-1,MTV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17319
+#EXTINF:-1,Munchen TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85227
+#EXTINF:-1,N-TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17351
+#EXTINF:-1,N24 Doku
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17216
+#EXTINF:-1,NAT GEO WILD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17265
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17264
+#EXTINF:-1,NDR HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17217
+#EXTINF:-1,NICKELODEON
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17245
+#EXTINF:-1,NTV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17219
+#EXTINF:-1,NTV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/79713
+#EXTINF:-1,Oberpfalz TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/85230
+#EXTINF:-1,ORF 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17223
+#EXTINF:-1,ORF 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17224
+#EXTINF:-1,PHOENIX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17220
+#EXTINF:-1,PRO 7
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17326
+#EXTINF:-1,PRO 7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17327
+#EXTINF:-1,PRO7 MAXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17229
+#EXTINF:-1,PROSIEBEN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17227
+#EXTINF:-1,PROSIEBEN FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17228
+#EXTINF:-1,ROMANCE TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17261
+#EXTINF:-1,RTL 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17231
+#EXTINF:-1,RTL 2 YOU
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17232
+#EXTINF:-1,RTL 4K+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17230
+#EXTINF:-1,RTL CRIME
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17233
+#EXTINF:-1,RTL LIVING
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17234
+#EXTINF:-1,RTL NITRO FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17237
+#EXTINF:-1,RTL NITRO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84698
+#EXTINF:-1,RTL PASSION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17235
+#EXTINF:-1,SAT 1 4K+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17204
+#EXTINF:-1,SAT 1 EMOTIONS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17205
+#EXTINF:-1,SAT 1 GOLD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17332
+#EXTINF:-1,SIXX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17222
+#EXTINF:-1,SKY 1 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/84702
+#EXTINF:-1,SKY 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72316
+#EXTINF:-1,SKY ATLANTIC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17275
+#EXTINF:-1,SKY CINEMA   +24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17272
+#EXTINF:-1,SKY CINEMA  24
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17359
+#EXTINF:-1,SKY CINEMA 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17360
+#EXTINF:-1,SKY CINEMA 1   HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72307
+#EXTINF:-1,SKY CINEMA 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72306
+#EXTINF:-1,SKY CINEMA ACTION
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17277
+#EXTINF:-1,SKY CINEMA BEST OF
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17281
+#EXTINF:-1,Sky Cinema Comedy
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72268
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72313
+#EXTINF:-1,SKY CINEMA FAMILY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17280
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72315
+#EXTINF:-1,Sky Cinema Family HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72257
+#EXTINF:-1,SKY CINEMA FUN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17278
+#EXTINF:-1,SKY CINEMA HITS FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72314
+#EXTINF:-1,SKY CINEMA NOSTALGIE HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72311
+#EXTINF:-1,SKY CINEMA SPECIAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17271
+#EXTINF:-1,SKY DISNEY CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17247
+#EXTINF:-1,SKY KRIMI HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72312
+#EXTINF:-1,SKY SELECT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72282
+#EXTINF:-1,SKY SELECT 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17286
+#EXTINF:-1,SKY SELECT 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72281
+#EXTINF:-1,SKY SELECT 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72279
+#EXTINF:-1,SKY SELECT 5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72278
+#EXTINF:-1,SKY SELECT 6 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72277
+#EXTINF:-1,SONNENKLAR TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17211
+#EXTINF:-1,SONY ENTERTAINMENT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17254
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17206
+#EXTINF:-1,SPIEGEL TV WISSEN
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17353
+#EXTINF:-1,SUPER RTL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17236
+#EXTINF:-1,SYFY
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17253
+#EXTINF:-1,TELE 5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17202
+#EXTINF:-1,TLC
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17252
+#EXTINF:-1,TNT SERIE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17260
+#EXTINF:-1,TOGGO PLUS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17257
+#EXTINF:-1,UNIVERSAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17357
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17256
+#EXTINF:-1,VOX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17200
+#EXTINF:-1,WDR HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17201
+#EXTINF:-1,WELT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17355
+#EXTINF:-1,ZDF FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72654
+#EXTINF:-1,ZDF HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/72655
+#EXTINF:-1,ZDF INFO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17199
+#EXTINF:-1,ZDF INFO HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56386
+#EXTINF:-1,ZDF NEO
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17324
+#EXTINF:-1,ZEE ONE
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/17255
