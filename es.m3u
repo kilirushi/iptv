@@ -1,361 +1,631 @@
 #EXTM3U
-#EXTINF:-1,LA1 FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16288
-#EXTINF:-1,LA1 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8782
-#EXTINF:-1,LA1 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7215
-#EXTINF:-1,LA2 FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8781
-#EXTINF:-1,LA2 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7214
-#EXTINF:-1,LA Sexta FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16260
-#EXTINF:-1,LA Sexta HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7213
-#EXTINF:-1,LA Sexta ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6671
-#EXTINF:-1,Antena 3 FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7253
-#EXTINF:-1,Antena 3 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8779
-#EXTINF:-1,Cuatro FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7228
-#EXTINF:-1,Cuatro HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8777
-#EXTINF:-1,Telecinco FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14022
-#EXTINF:-1,Telecinco HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11488
-#EXTINF:-1,Canal #0 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16283
-#EXTINF:-1,Canal #0 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13539
-#EXTINF:-1,24 Horas ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7174
-#EXTINF:-1,DW ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13532
-#EXTINF:-1,TV Galicia ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7218
-#EXTINF:-1,TV3 Catalunya HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8780
-#EXTINF:-1,TV 3 Catalunya ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7175
-#EXTINF:-1,Andalucia ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7254
-#EXTINF:-1,7RM VIP ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683550
-#EXTINF:-1,13 TV ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13547
-#EXTINF:-1,8TV Madrid ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13545
-#EXTINF:-1,RTVA ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8775
-#EXTINF:-1,XTRM HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13527
-#EXTINF:-1,Red Advenir ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13524
-#EXTINF:-1,Wow TV HD VIP ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683546
-#EXTINF:-1,Be Mad TV ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683552
-#EXTINF:-1,Canaria SAT ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685648
-#EXTINF:-1,------- Sports -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679811
-#EXTINF:-1,bein Sports Espana FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7248
-#EXTINF:-1,bein Sports Espana HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8745
-#EXTINF:-1,beIN Sports Espana ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540
-#EXTINF:-1,DAZN 1 FHD VIP ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683544
-#EXTINF:-1,DAZN 2 HD VIP ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683545
-#EXTINF:-1,DAZN 1 [Web TV] FHD VIP ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683547
-#EXTINF:-1,DAZN 1 [Web TV] HD VIP ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683551
-#EXTINF:-1,La Liga TV BAR HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/669971
-#EXTINF:-1,Movistar La Liga FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16274
-#EXTINF:-1,Movistar La Liga 1 [Match Time] ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683144
-#EXTINF:-1,Movistar La Liga 2 [Match Time] ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683145
-#EXTINF:-1,Movistar La Liga 3 [Match Time] ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683142
-#EXTINF:-1,Movistar La Liga 9 [Match Time] ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683151
-#EXTINF:-1,Movistar La Liga 10 [Match Time] ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683152
-#EXTINF:-1,Movistar Vamos Bar ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683141
-#EXTINF:-1,Movistar Vamos FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682871
-#EXTINF:-1,Movistar Vamos HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682872
-#EXTINF:-1,Movistar Liga De Campeones FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/620686
-#EXTINF:-1,Movistar Liga De Campeones HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/620685
-#EXTINF:-1,Movistar Liga De Campeones 1 [Match Time] HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683153
-#EXTINF:-1,Movistar Deportes FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16278
-#EXTINF:-1,Movistar Deportes HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7240
-#EXTINF:-1,Movistar Deportes 2 FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16277
-#EXTINF:-1,Movistar Deportes 2 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7239
-#EXTINF:-1,Movistar Futbol FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13551
-#EXTINF:-1,Movistar Futbol HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8783
-#EXTINF:-1,Movistar Futbol ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7238
-#EXTINF:-1,Movistar F1 FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7246
-#EXTINF:-1,Movistar F1 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13549
-#EXTINF:-1,Movistar F1 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/71971
-#EXTINF:-1,Movistar Golf FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7237
-#EXTINF:-1,Movistar Golf HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13550
-#EXTINF:-1,Gol TV ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13457
-#EXTINF:-1,Teledeporte ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7178
-#EXTINF:-1,Real Madrid Channel ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7182
-#EXTINF:-1,Tele Madrid ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679745
-#EXTINF:-1,Barca TV ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7250
-#EXTINF:-1,Eurosport 1 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8746
-#EXTINF:-1,Eurosport 2 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13531
-#EXTINF:-1,Viajar FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7170
-#EXTINF:-1,Toros HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13548
-#EXTINF:-1,ETB SAT ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684922
-#EXTINF:-1,ETB 1 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684921
-#EXTINF:-1,ETB 2 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684923
-#EXTINF:-1,------- Movies & Series -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679812
-#EXTINF:-1,AXN HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7252
-#EXTINF:-1,AXN ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13543
-#EXTINF:-1,AXN White FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7251
-#EXTINF:-1,AXN White ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13542
-#EXTINF:-1,AMC FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7255
-#EXTINF:-1,SyFy FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13522
-#EXTINF:-1,SyFy HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13523
-#EXTINF:-1,Fox FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16267
-#EXTINF:-1,Fox ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7220
-#EXTINF:-1,FOX Life FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16266
-#EXTINF:-1,Fox Life ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7219
-#EXTINF:-1,TNT FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7177
-#EXTINF:-1,XTRM FHD VIP ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683549
-#EXTINF:-1,Sundance TV ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14121
-#EXTINF:-1,Movistar Series FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7191
-#EXTINF:-1,Movistar Series HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16282
-#EXTINF:-1,Movistar Series ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8767
-#EXTINF:-1,Movistar Seriesmania FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7190
-#EXTINF:-1,Movistar Seriesmania HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7234
-#EXTINF:-1,Movistar Seriesmania ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8770
-#EXTINF:-1,Movistar Accion FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7245
-#EXTINF:-1,Movistar Accion HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16280
-#EXTINF:-1,Movistar Accion ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7195
-#EXTINF:-1,Movistar Drama FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685775
-#EXTINF:-1,Movistar Drama HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685776
-#EXTINF:-1,Movistar Comedia FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7243
-#EXTINF:-1,Movistar Comedia HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7194
-#EXTINF:-1,Movistar Esternos FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7192
-#EXTINF:-1,Movistar Estrenos FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16262
-#EXTINF:-1,Movistar Estrenos HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8771
-#EXTINF:-1,Movistar Estrenos ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7222
-#EXTINF:-1,Movistar DCine FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16279
-#EXTINF:-1,Movistar DCine HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7193
-#EXTINF:-1,Movistar DCine ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7242
-#EXTINF:-1,Movistar CineDoc & Roll ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7233
-#EXTINF:-1,Movistar Cine ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13530
-#EXTINF:-1,Neox TV HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7186
-#EXTINF:-1,Neox TV ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16264
-#EXTINF:-1,Cosmo FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7229
-#EXTINF:-1,Cosmopolitan HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13537
-#EXTINF:-1,Calle 13 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7247
-#EXTINF:-1,Comedy Central HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7230
-#EXTINF:-1,A3 Series ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13544
-#EXTINF:-1,Nova HD VIP ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684927
-#EXTINF:-1,Nova ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7183
-#EXTINF:-1,Divinity HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13534
-#EXTINF:-1,Energy ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8765
-#EXTINF:-1,Taquilla 1 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7211
-#EXTINF:-1,Taquilla 1 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8756
-#EXTINF:-1,Taquilla 2 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7210
-#EXTINF:-1,Taquilla 2 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8755
-#EXTINF:-1,Taquilla 3 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7209
-#EXTINF:-1,Taquilla 3 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8754
-#EXTINF:-1,Taquilla 4 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7208
-#EXTINF:-1,Taquilla 5 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7207
-#EXTINF:-1,Taquilla 5 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8752
-#EXTINF:-1,Taquilla 6 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7206
-#EXTINF:-1,Taquilla 6 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8751
-#EXTINF:-1,Taquilla 7 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7205
-#EXTINF:-1,Taquilla 7 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8750
-#EXTINF:-1,Taquilla 8 HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7204
-#EXTINF:-1,Taquilla 8 ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13520
-#EXTINF:-1,TCM HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7180
-#EXTINF:-1,Paramount Channel ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8769
-#EXTINF:-1,Hollywood FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8768
-#EXTINF:-1,Hollywood HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7216
-#EXTINF:-1,------- Documentary -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679813
-#EXTINF:-1,Discovery Channel ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7226
-#EXTINF:-1,Discovery Dmax ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13535
-#EXTINF:-1,National Geographic HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13528
-#EXTINF:-1,National Geographic ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16270
-#EXTINF:-1,Nat Geo Wild ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7188
-#EXTINF:-1,Crime & Investigation ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8757
-#EXTINF:-1,Historia ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7217
-#EXTINF:-1,Canal Cocina ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7244
-#EXTINF:-1,DeCasa ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7241
-#EXTINF:-1,Dkiss HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13533
-#EXTINF:-1,Mega FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16263
-#EXTINF:-1,Mega HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13824
-#EXTINF:-1,Mega ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8760
-#EXTINF:-1,Blaze ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7184
-#EXTINF:-1,Caza y Pesca FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16269
-#EXTINF:-1,Caza y Pesca ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7232
-#EXTINF:-1,Iberalia ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7171
-#EXTINF:-1,Odisea TV HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685777
-#EXTINF:-1,Odisea TV ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8761
-#EXTINF:-1,------- Entertainment -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679816
-#EXTINF:-1,MTV Espana ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8759
-#EXTINF:-1,FDF ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7221
-#EXTINF:-1,Ten ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13518
-#EXTINF:-1,Mezzo HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7212
-#EXTINF:-1,------- Children -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679814
-#EXTINF:-1,Baby TV ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8774
-#EXTINF:-1,Disney Channel FHD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16287
-#EXTINF:-1,Disney Channel HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7225
-#EXTINF:-1,Disney+ ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7223
-#EXTINF:-1,Disney Junior ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7224
-#EXTINF:-1,Nickelodeon HD ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16268
-#EXTINF:-1,Nickelodeon ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7185
-#EXTINF:-1,Nick Jr. ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13526
-#EXTINF:-1,Boing ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8773
-#EXTINF:-1,Canal Panda ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53156
-#EXTINF:-1,Clan TVE ES
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7231
+#EXTINF:-1,#0
+http://nomorecable.xyz:80/delano/delano/119189
+#EXTINF:-1,#0 FHD
+http://nomorecable.xyz:80/delano/delano/119191
+#EXTINF:-1,#0 HD
+http://nomorecable.xyz:80/delano/delano/119190
+#EXTINF:-1,#VAMOS
+http://nomorecable.xyz:80/delano/delano/119160
+#EXTINF:-1,#VAMOS BAR1
+http://nomorecable.xyz:80/delano/delano/119163
+#EXTINF:-1,#VAMOS BAR2
+http://nomorecable.xyz:80/delano/delano/119164
+#EXTINF:-1,#VAMOS HD
+http://nomorecable.xyz:80/delano/delano/119159
+#EXTINF:-1,24 HORAS
+http://nomorecable.xyz:80/delano/delano/119073
+#EXTINF:-1,24/7 Valeria
+http://nomorecable.xyz:80/delano/delano/119249
+#EXTINF:-1,24h FHD
+http://nomorecable.xyz:80/delano/delano/119081
+#EXTINF:-1,7 R. DE MURCIA
+http://nomorecable.xyz:80/delano/delano/119341
+#EXTINF:-1,8 La Janda
+http://nomorecable.xyz:80/delano/delano/119170
+#EXTINF:-1,9 la Loma TV
+http://nomorecable.xyz:80/delano/delano/119298
+#EXTINF:-1,Alcarria TV
+http://nomorecable.xyz:80/delano/delano/119287
+#EXTINF:-1,ALQUILER 1
+http://nomorecable.xyz:80/delano/delano/119272
+#EXTINF:-1,ALQUILER 2
+http://nomorecable.xyz:80/delano/delano/119273
+#EXTINF:-1,ALQUILER 3
+http://nomorecable.xyz:80/delano/delano/119275
+#EXTINF:-1,ALQUILER 4
+http://nomorecable.xyz:80/delano/delano/119276
+#EXTINF:-1,ALQUILER 5
+http://nomorecable.xyz:80/delano/delano/119277
+#EXTINF:-1,ALQUILER 6
+http://nomorecable.xyz:80/delano/delano/119278
+#EXTINF:-1,ALQUILER 7
+http://nomorecable.xyz:80/delano/delano/119271
+#EXTINF:-1,ALQUILER 8
+http://nomorecable.xyz:80/delano/delano/119274
+#EXTINF:-1,AMC
+http://nomorecable.xyz:80/delano/delano/119192
+#EXTINF:-1,AMC FHD
+http://nomorecable.xyz:80/delano/delano/119194
+#EXTINF:-1,AMC HD
+http://nomorecable.xyz:80/delano/delano/119193
+#EXTINF:-1,Andalucia TV
+http://nomorecable.xyz:80/delano/delano/119324
+#EXTINF:-1,ANTENA 3
+http://nomorecable.xyz:80/delano/delano/119061
+#EXTINF:-1,ANTENA 3 FHD
+http://nomorecable.xyz:80/delano/delano/119063
+#EXTINF:-1,ANTENA 3 HD
+http://nomorecable.xyz:80/delano/delano/119062
+#EXTINF:-1,ARAGON TV INT
+http://nomorecable.xyz:80/delano/delano/119322
+#EXTINF:-1,Atreseries  (1080P)
+http://nomorecable.xyz:80/delano/delano/119329
+#EXTINF:-1,Atreseries (720P)
+http://nomorecable.xyz:80/delano/delano/119328
+#EXTINF:-1,Atresplayer 1
+http://nomorecable.xyz:80/delano/delano/119279
+#EXTINF:-1,AXN
+http://nomorecable.xyz:80/delano/delano/119198
+#EXTINF:-1,AXN FHD
+http://nomorecable.xyz:80/delano/delano/119200
+#EXTINF:-1,AXN HD
+http://nomorecable.xyz:80/delano/delano/119199
+#EXTINF:-1,AXN WHITE
+http://nomorecable.xyz:80/delano/delano/119195
+#EXTINF:-1,AXN WHITE FHD
+http://nomorecable.xyz:80/delano/delano/119197
+#EXTINF:-1,AXN WHITE HD
+http://nomorecable.xyz:80/delano/delano/119196
+#EXTINF:-1,BABY TV
+http://nomorecable.xyz:80/delano/delano/119366
+#EXTINF:-1,BARCA TV
+http://nomorecable.xyz:80/delano/delano/119145
+#EXTINF:-1,BE MAD
+http://nomorecable.xyz:80/delano/delano/119306
+#EXTINF:-1,BE MAD FHD
+http://nomorecable.xyz:80/delano/delano/119308
+#EXTINF:-1,BE MAD HD
+http://nomorecable.xyz:80/delano/delano/119307
+#EXTINF:-1,betevÃ©
+http://nomorecable.xyz:80/delano/delano/119338
+#EXTINF:-1,BLAZE
+http://nomorecable.xyz:80/delano/delano/119264
+#EXTINF:-1,BOING
+http://nomorecable.xyz:80/delano/delano/119357
+#EXTINF:-1,Cadena Elite Granada
+http://nomorecable.xyz:80/delano/delano/119297
+#EXTINF:-1,CALLE 13
+http://nomorecable.xyz:80/delano/delano/119240
+#EXTINF:-1,CALLE 13 FHD
+http://nomorecable.xyz:80/delano/delano/119243
+#EXTINF:-1,CALLE 13 HD
+http://nomorecable.xyz:80/delano/delano/119241
+#EXTINF:-1,Canal 4 Tenerife HD
+http://nomorecable.xyz:80/delano/delano/119333
+#EXTINF:-1,CANAL CAPITAL COLOMBIA
+http://nomorecable.xyz:80/delano/delano/119350
+#EXTINF:-1,CANAL COCINA
+http://nomorecable.xyz:80/delano/delano/119263
+#EXTINF:-1,CANAL DECASA
+http://nomorecable.xyz:80/delano/delano/119262
+#EXTINF:-1,CANAL ODISEA
+http://nomorecable.xyz:80/delano/delano/119253
+#EXTINF:-1,CANAL PANDA
+http://nomorecable.xyz:80/delano/delano/119365
+#EXTINF:-1,Canal Sierra de CÃ¡diz FHD
+http://nomorecable.xyz:80/delano/delano/119289
+#EXTINF:-1,CANAL SUR A.
+http://nomorecable.xyz:80/delano/delano/119323
+#EXTINF:-1,Canal Terrassa
+http://nomorecable.xyz:80/delano/delano/119346
+#EXTINF:-1,Canal Terres de l'Ebre
+http://nomorecable.xyz:80/delano/delano/119347
+#EXTINF:-1,Canarias HD
+http://nomorecable.xyz:80/delano/delano/119282
+#EXTINF:-1,Cancionero TV
+http://nomorecable.xyz:80/delano/delano/119345
+#EXTINF:-1,CAZA Y PESCA
+http://nomorecable.xyz:80/delano/delano/119266
+#EXTINF:-1,CAZA Y PESCA FHD
+http://nomorecable.xyz:80/delano/delano/119268
+#EXTINF:-1,CAZA y PESCA HD
+http://nomorecable.xyz:80/delano/delano/119267
+#EXTINF:-1,CLAN  TVE
+http://nomorecable.xyz:80/delano/delano/119354
+#EXTINF:-1,CLASSICA
+http://nomorecable.xyz:80/delano/delano/119327
+#EXTINF:-1,cmm
+http://nomorecable.xyz:80/delano/delano/119326
+#EXTINF:-1,COMEDY CENTRAL
+http://nomorecable.xyz:80/delano/delano/119201
+#EXTINF:-1,COMEDY CENTRAL HD
+http://nomorecable.xyz:80/delano/delano/119202
+#EXTINF:-1,COMEDYCENTRAL FHD
+http://nomorecable.xyz:80/delano/delano/119204
+#EXTINF:-1,CondavisiÃ³n
+http://nomorecable.xyz:80/delano/delano/119293
+#EXTINF:-1,COSMO
+http://nomorecable.xyz:80/delano/delano/119203
+#EXTINF:-1,COSMO FHD
+http://nomorecable.xyz:80/delano/delano/119206
+#EXTINF:-1,COSMO HD
+http://nomorecable.xyz:80/delano/delano/119205
+#EXTINF:-1,CRIMEN+INVES
+http://nomorecable.xyz:80/delano/delano/119207
+#EXTINF:-1,CUATRO
+http://nomorecable.xyz:80/delano/delano/119064
+#EXTINF:-1,CUATRO FHD
+http://nomorecable.xyz:80/delano/delano/119066
+#EXTINF:-1,CUATRO HD
+http://nomorecable.xyz:80/delano/delano/119065
+#EXTINF:-1,CÃ³rdoba TV
+http://nomorecable.xyz:80/delano/delano/119300
+#EXTINF:-1,DARK FHD
+http://nomorecable.xyz:80/delano/delano/119228
+#EXTINF:-1,DAZN 1 FHD ( SOLO EVENTOS )
+http://nomorecable.xyz:80/delano/delano/119371
+#EXTINF:-1,DAZN 2 FHD ( SOLO EVENTOS )
+http://nomorecable.xyz:80/delano/delano/119372
+#EXTINF:-1,DAZN Y FOOTTERS FHD ( SOLO EVENTOS )
+http://nomorecable.xyz:80/delano/delano/119373
+#EXTINF:-1,DISCOVERY
+http://nomorecable.xyz:80/delano/delano/119261
+#EXTINF:-1,DISNEY CH FHD
+http://nomorecable.xyz:80/delano/delano/119363
+#EXTINF:-1,DISNEY CH.
+http://nomorecable.xyz:80/delano/delano/119362
+#EXTINF:-1,Disney Channel FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119370
+#EXTINF:-1,DISNEY CHANNEL HD
+http://nomorecable.xyz:80/delano/delano/119356
+#EXTINF:-1,DISNEY JR
+http://nomorecable.xyz:80/delano/delano/119364
+#EXTINF:-1,Disney XD
+http://nomorecable.xyz:80/delano/delano/119355
+#EXTINF:-1,Disney+
+http://nomorecable.xyz:80/delano/delano/119353
+#EXTINF:-1,DIVINITY
+http://nomorecable.xyz:80/delano/delano/119309
+#EXTINF:-1,Divinity (720P)
+http://nomorecable.xyz:80/delano/delano/119310
+#EXTINF:-1,DKISS
+http://nomorecable.xyz:80/delano/delano/119311
+#EXTINF:-1,DMAX EspaÃa
+http://nomorecable.xyz:80/delano/delano/119270
+#EXTINF:-1,El Toro TV
+http://nomorecable.xyz:80/delano/delano/119280
+#EXTINF:-1,ENERGY
+http://nomorecable.xyz:80/delano/delano/119312
+#EXTINF:-1,Energy HD
+http://nomorecable.xyz:80/delano/delano/119313
+#EXTINF:-1,ETB 1
+http://nomorecable.xyz:80/delano/delano/119325
+#EXTINF:-1,ETB 2
+http://nomorecable.xyz:80/delano/delano/119320
+#EXTINF:-1,ETB SAT
+http://nomorecable.xyz:80/delano/delano/119330
+#EXTINF:-1,EUROSPORT 1
+http://nomorecable.xyz:80/delano/delano/119146
+#EXTINF:-1,Eurosport 1 HD
+http://nomorecable.xyz:80/delano/delano/119147
+#EXTINF:-1,EUROSPORT 2
+http://nomorecable.xyz:80/delano/delano/119149
+#EXTINF:-1,EUROSPORT1 FHD
+http://nomorecable.xyz:80/delano/delano/119148
+#EXTINF:-1,FDF
+http://nomorecable.xyz:80/delano/delano/119175
+#EXTINF:-1,FDF FHD
+http://nomorecable.xyz:80/delano/delano/119176
+#EXTINF:-1,FM.LCAMPEON4
+http://nomorecable.xyz:80/delano/delano/119133
+#EXTINF:-1,FOX
+http://nomorecable.xyz:80/delano/delano/119208
+#EXTINF:-1,FOX FHD
+http://nomorecable.xyz:80/delano/delano/119209
+#EXTINF:-1,FOX HD
+http://nomorecable.xyz:80/delano/delano/119210
+#EXTINF:-1,FOX LIFE
+http://nomorecable.xyz:80/delano/delano/119211
+#EXTINF:-1,FOX LIFE FHD
+http://nomorecable.xyz:80/delano/delano/119213
+#EXTINF:-1,FOX LIFE HD
+http://nomorecable.xyz:80/delano/delano/119212
+#EXTINF:-1,FOX NEWS
+http://nomorecable.xyz:80/delano/delano/119314
+#EXTINF:-1,GARAGE TV 
+http://nomorecable.xyz:80/delano/delano/119342
+#EXTINF:-1,GOL
+http://nomorecable.xyz:80/delano/delano/119144
+#EXTINF:-1,HISTORIA
+http://nomorecable.xyz:80/delano/delano/119260
+#EXTINF:-1,HOLLYWOOD
+http://nomorecable.xyz:80/delano/delano/119172
+#EXTINF:-1,HOLLYWOOD FHD
+http://nomorecable.xyz:80/delano/delano/119174
+#EXTINF:-1,Hollywood FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119248
+#EXTINF:-1,Hollywood HD
+http://nomorecable.xyz:80/delano/delano/119173
+#EXTINF:-1,IBERALIA TV
+http://nomorecable.xyz:80/delano/delano/119269
+#EXTINF:-1,LA 1
+http://nomorecable.xyz:80/delano/delano/119055
+#EXTINF:-1,LA 1 FHD
+http://nomorecable.xyz:80/delano/delano/119057
+#EXTINF:-1,La 1 HD
+http://nomorecable.xyz:80/delano/delano/119056
+#EXTINF:-1,LA 2
+http://nomorecable.xyz:80/delano/delano/119058
+#EXTINF:-1,LA 2 FHD
+http://nomorecable.xyz:80/delano/delano/119060
+#EXTINF:-1,La 2 HD
+http://nomorecable.xyz:80/delano/delano/119059
+#EXTINF:-1,LA 7
+http://nomorecable.xyz:80/delano/delano/119348
+#EXTINF:-1,LA SEXTA
+http://nomorecable.xyz:80/delano/delano/119070
+#EXTINF:-1,LA SEXTA FHD
+http://nomorecable.xyz:80/delano/delano/119072
+#EXTINF:-1,LA SEXTA HD
+http://nomorecable.xyz:80/delano/delano/119071
+#EXTINF:-1,LaLiga TV Bar FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119167
+#EXTINF:-1,LALIGATV BAR
+http://nomorecable.xyz:80/delano/delano/119094
+#EXTINF:-1,LALIGATV BAR FHD
+http://nomorecable.xyz:80/delano/delano/119096
+#EXTINF:-1,LALIGATV BAR HD
+http://nomorecable.xyz:80/delano/delano/119095
+#EXTINF:-1,LALIGATVBAR1
+http://nomorecable.xyz:80/delano/delano/119098
+#EXTINF:-1,LALIGATVBAR2
+http://nomorecable.xyz:80/delano/delano/119099
+#EXTINF:-1,LALIGATVBAR3
+http://nomorecable.xyz:80/delano/delano/119100
+#EXTINF:-1,LALIGATVBAR4
+http://nomorecable.xyz:80/delano/delano/119101
+#EXTINF:-1,Lancelot TV
+http://nomorecable.xyz:80/delano/delano/119285
+#EXTINF:-1,Lancelot TV HD
+http://nomorecable.xyz:80/delano/delano/119335
+#EXTINF:-1,Lebrija TV
+http://nomorecable.xyz:80/delano/delano/119295
+#EXTINF:-1,Locomotion TV
+http://nomorecable.xyz:80/delano/delano/119340
+#EXTINF:-1,M Liga de Campeones FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119168
+#EXTINF:-1,M. ACCIÂ©N
+http://nomorecable.xyz:80/delano/delano/119214
+#EXTINF:-1,M. ACCIÂ©N FHD
+http://nomorecable.xyz:80/delano/delano/119215
+#EXTINF:-1,M. ACCIÂ©N HD
+http://nomorecable.xyz:80/delano/delano/119216
+#EXTINF:-1,M. Cine EspaÃ¦ol
+http://nomorecable.xyz:80/delano/delano/119220
+#EXTINF:-1,M. CineDoc&amp;Roll FHD
+http://nomorecable.xyz:80/delano/delano/119236
+#EXTINF:-1,M. CineDoc&amp;Roll HD
+http://nomorecable.xyz:80/delano/delano/119235
+#EXTINF:-1,M. COMEDIA
+http://nomorecable.xyz:80/delano/delano/119217
+#EXTINF:-1,M. COMEDIA HD
+http://nomorecable.xyz:80/delano/delano/119218
+#EXTINF:-1,M. DEPORTES
+http://nomorecable.xyz:80/delano/delano/119083
+#EXTINF:-1,M. DEPORTES FHD
+http://nomorecable.xyz:80/delano/delano/119085
+#EXTINF:-1,M. DEPORTES HD
+http://nomorecable.xyz:80/delano/delano/119084
+#EXTINF:-1,M. DEPORTES1
+http://nomorecable.xyz:80/delano/delano/119086
+#EXTINF:-1,M. DEPORTES1 FHD
+http://nomorecable.xyz:80/delano/delano/119087
+#EXTINF:-1,M. DEPORTES1 HD 
+http://nomorecable.xyz:80/delano/delano/119125
+#EXTINF:-1,M. DEPORTES2
+http://nomorecable.xyz:80/delano/delano/119088
+#EXTINF:-1,M. DEPORTES3
+http://nomorecable.xyz:80/delano/delano/119089
+#EXTINF:-1,M. DEPORTES4
+http://nomorecable.xyz:80/delano/delano/119090
+#EXTINF:-1,M. DEPORTES5
+http://nomorecable.xyz:80/delano/delano/119091
+#EXTINF:-1,M. DEPORTES6
+http://nomorecable.xyz:80/delano/delano/119092
+#EXTINF:-1,M. DEPORTES7
+http://nomorecable.xyz:80/delano/delano/119093
+#EXTINF:-1,M. DRAMA
+http://nomorecable.xyz:80/delano/delano/119177
+#EXTINF:-1,M. DRAMA FHD
+http://nomorecable.xyz:80/delano/delano/119179
+#EXTINF:-1,M. Drama HD
+http://nomorecable.xyz:80/delano/delano/119178
+#EXTINF:-1,M. ESTRENOS
+http://nomorecable.xyz:80/delano/delano/119183
+#EXTINF:-1,M. ESTRENOS HD
+http://nomorecable.xyz:80/delano/delano/119184
+#EXTINF:-1,M. GOLF
+http://nomorecable.xyz:80/delano/delano/119102
+#EXTINF:-1,M. GOLF FHD
+http://nomorecable.xyz:80/delano/delano/119150
+#EXTINF:-1,M. GOLF HD
+http://nomorecable.xyz:80/delano/delano/119106
+#EXTINF:-1,M. LaLiga 1
+http://nomorecable.xyz:80/delano/delano/119107
+#EXTINF:-1,M. LaLiga 1 4K
+http://nomorecable.xyz:80/delano/delano/119110
+#EXTINF:-1,M. LaLiga 1 FHD
+http://nomorecable.xyz:80/delano/delano/119108
+#EXTINF:-1,M. LaLiga 1 HD
+http://nomorecable.xyz:80/delano/delano/119109
+#EXTINF:-1,M. LaLiga 10
+http://nomorecable.xyz:80/delano/delano/119122
+#EXTINF:-1,M. LaLiga 2
+http://nomorecable.xyz:80/delano/delano/119112
+#EXTINF:-1,M. LaLiga 2 FHD
+http://nomorecable.xyz:80/delano/delano/119111
+#EXTINF:-1,M. LaLiga 3
+http://nomorecable.xyz:80/delano/delano/119113
+#EXTINF:-1,M. LaLiga 3 FHD
+http://nomorecable.xyz:80/delano/delano/119114
+#EXTINF:-1,M. LaLiga 4
+http://nomorecable.xyz:80/delano/delano/119115
+#EXTINF:-1,M. LaLiga 5
+http://nomorecable.xyz:80/delano/delano/119116
+#EXTINF:-1,M. LaLiga 6
+http://nomorecable.xyz:80/delano/delano/119117
+#EXTINF:-1,M. LaLiga 7
+http://nomorecable.xyz:80/delano/delano/119118
+#EXTINF:-1,M. LaLiga 8
+http://nomorecable.xyz:80/delano/delano/119119
+#EXTINF:-1,M. LaLiga 9
+http://nomorecable.xyz:80/delano/delano/119120
+#EXTINF:-1,M. LaLiga FHD
+http://nomorecable.xyz:80/delano/delano/119105
+#EXTINF:-1,M. LaLiga HD
+http://nomorecable.xyz:80/delano/delano/119104
+#EXTINF:-1,M. LALIGATV  FHD.cable
+http://nomorecable.xyz:80/delano/delano/119097
+#EXTINF:-1,M. SERIES
+http://nomorecable.xyz:80/delano/delano/119180
+#EXTINF:-1,M. SERIES FHD
+http://nomorecable.xyz:80/delano/delano/119182
+#EXTINF:-1,M. Series HD
+http://nomorecable.xyz:80/delano/delano/119181
+#EXTINF:-1,M. SERIESMANIA
+http://nomorecable.xyz:80/delano/delano/119221
+#EXTINF:-1,M. SERIESMANIA HD
+http://nomorecable.xyz:80/delano/delano/119223
+#EXTINF:-1,M. Vamos FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119169
+#EXTINF:-1,M.Accion FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119247
+#EXTINF:-1,M.CineDoc&amp;Roll
+http://nomorecable.xyz:80/delano/delano/119234
+#EXTINF:-1,M.CineDoc&amp;Roll FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119242
+#EXTINF:-1,M.COMEDIA FHD
+http://nomorecable.xyz:80/delano/delano/119219
+#EXTINF:-1,M.Comedia FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119246
+#EXTINF:-1,M.Drama FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119245
+#EXTINF:-1,M.ESTRENOS FHD
+http://nomorecable.xyz:80/delano/delano/119185
+#EXTINF:-1,M.Estrenos FHD (H.265)
+http://nomorecable.xyz:80/delano/delano/119244
+#EXTINF:-1,M.FORMULA1
+http://nomorecable.xyz:80/delano/delano/119140
+#EXTINF:-1,M.FORMULA1 4K
+http://nomorecable.xyz:80/delano/delano/119143
+#EXTINF:-1,M.FORMULA1 FHD
+http://nomorecable.xyz:80/delano/delano/119142
+#EXTINF:-1,M.FORMULA1 HD
+http://nomorecable.xyz:80/delano/delano/119141
+#EXTINF:-1,M.LCAMPEON1
+http://nomorecable.xyz:80/delano/delano/119126
+#EXTINF:-1,M.LCAMPEON1 FHD
+http://nomorecable.xyz:80/delano/delano/119127
+#EXTINF:-1,M.LCAMPEON2
+http://nomorecable.xyz:80/delano/delano/119128
+#EXTINF:-1,M.LCAMPEON2 FHD
+http://nomorecable.xyz:80/delano/delano/119130
+#EXTINF:-1,M.LCAMPEON3
+http://nomorecable.xyz:80/delano/delano/119129
+#EXTINF:-1,M.LCAMPEON4
+http://nomorecable.xyz:80/delano/delano/119139
+#EXTINF:-1,M.LCAMPEON5
+http://nomorecable.xyz:80/delano/delano/119134
+#EXTINF:-1,M.LCAMPEON6
+http://nomorecable.xyz:80/delano/delano/119135
+#EXTINF:-1,M.LCAMPEON7
+http://nomorecable.xyz:80/delano/delano/119136
+#EXTINF:-1,M.LCAMPEON8
+http://nomorecable.xyz:80/delano/delano/119137
+#EXTINF:-1,M.LCAMPEONES
+http://nomorecable.xyz:80/delano/delano/119121
+#EXTINF:-1,M.LCAMPEONES 3 HD
+http://nomorecable.xyz:80/delano/delano/119131
+#EXTINF:-1,M.LCAMPEONES 4 HD
+http://nomorecable.xyz:80/delano/delano/119132
+#EXTINF:-1,M.LCAMPEONES FHD
+http://nomorecable.xyz:80/delano/delano/119124
+#EXTINF:-1,M.LCAMPEONES HD
+http://nomorecable.xyz:80/delano/delano/119123
+#EXTINF:-1,M.Seriesmania FHD
+http://nomorecable.xyz:80/delano/delano/119222
+#EXTINF:-1,M95 Marbella
+http://nomorecable.xyz:80/delano/delano/119291
+#EXTINF:-1,Marbella TV
+http://nomorecable.xyz:80/delano/delano/119296
+#EXTINF:-1,Mega
+http://nomorecable.xyz:80/delano/delano/119303
+#EXTINF:-1,MEGA FHD
+http://nomorecable.xyz:80/delano/delano/119305
+#EXTINF:-1,Mega HD
+http://nomorecable.xyz:80/delano/delano/119304
+#EXTINF:-1,Melilla TV
+http://nomorecable.xyz:80/delano/delano/119079
+#EXTINF:-1,MEZZO
+http://nomorecable.xyz:80/delano/delano/119317
+#EXTINF:-1,MEZZO LIVE FHD
+http://nomorecable.xyz:80/delano/delano/119316
+#EXTINF:-1,MEZZO LIVE HD
+http://nomorecable.xyz:80/delano/delano/119315
+#EXTINF:-1,Mezzo TV (720P)
+http://nomorecable.xyz:80/delano/delano/119301
+#EXTINF:-1,Mijas 3.40 TV
+http://nomorecable.xyz:80/delano/delano/119292
+#EXTINF:-1,mtmad 24h HD
+http://nomorecable.xyz:80/delano/delano/119281
+#EXTINF:-1,MTV ESPAÃA
+http://nomorecable.xyz:80/delano/delano/119318
+#EXTINF:-1,MULTIDEPORTE
+http://nomorecable.xyz:80/delano/delano/119138
+#EXTINF:-1,MÃRAME TV FHD
+http://nomorecable.xyz:80/delano/delano/119352
+#EXTINF:-1,MÃ­rame TV  HD
+http://nomorecable.xyz:80/delano/delano/119336
+#EXTINF:-1,NAT GEO FHD
+http://nomorecable.xyz:80/delano/delano/119256
+#EXTINF:-1,NAT GEO HD
+http://nomorecable.xyz:80/delano/delano/119255
+#EXTINF:-1,NAT GEO WILD
+http://nomorecable.xyz:80/delano/delano/119257
+#EXTINF:-1,Nat Geo Wild HD
+http://nomorecable.xyz:80/delano/delano/119258
+#EXTINF:-1,NAT GEOGRAPH
+http://nomorecable.xyz:80/delano/delano/119254
+#EXTINF:-1,NEOX
+http://nomorecable.xyz:80/delano/delano/119074
+#EXTINF:-1,NEOX HD
+http://nomorecable.xyz:80/delano/delano/119075
+#EXTINF:-1,NG WILD FHD
+http://nomorecable.xyz:80/delano/delano/119259
+#EXTINF:-1,NICK JR
+http://nomorecable.xyz:80/delano/delano/119359
+#EXTINF:-1,NICKELODEON
+http://nomorecable.xyz:80/delano/delano/119360
+#EXTINF:-1,NICKELODEON FHD
+http://nomorecable.xyz:80/delano/delano/119361
+#EXTINF:-1,NICKELODEON HD
+http://nomorecable.xyz:80/delano/delano/119358
+#EXTINF:-1,NORTEvisiÃ³n
+http://nomorecable.xyz:80/delano/delano/119283
+#EXTINF:-1,NOVA
+http://nomorecable.xyz:80/delano/delano/119076
+#EXTINF:-1,NOVA FHD
+http://nomorecable.xyz:80/delano/delano/119078
+#EXTINF:-1,NOVA HD
+http://nomorecable.xyz:80/delano/delano/119077
+#EXTINF:-1,PARAMOUNT
+http://nomorecable.xyz:80/delano/delano/119230
+#EXTINF:-1,Pequeradio TV HD
+http://nomorecable.xyz:80/delano/delano/119368
+#EXTINF:-1,Popular TV Melilla
+http://nomorecable.xyz:80/delano/delano/119080
+#EXTINF:-1,R. MADRID TV
+http://nomorecable.xyz:80/delano/delano/119157
+#EXTINF:-1,RTV MogÃ¡n
+http://nomorecable.xyz:80/delano/delano/119284
+#EXTINF:-1,Sevilla FC TV
+http://nomorecable.xyz:80/delano/delano/119171
+#EXTINF:-1,Sol  (1080P)
+http://nomorecable.xyz:80/delano/delano/119299
+#EXTINF:-1,SOMOS FHD
+http://nomorecable.xyz:80/delano/delano/119229
+#EXTINF:-1,SUNDANCE TV
+http://nomorecable.xyz:80/delano/delano/119226
+#EXTINF:-1,SUNDANCE TV HD
+http://nomorecable.xyz:80/delano/delano/119227
+#EXTINF:-1,SYFY
+http://nomorecable.xyz:80/delano/delano/119186
+#EXTINF:-1,SYFY FHD
+http://nomorecable.xyz:80/delano/delano/119188
+#EXTINF:-1,SYFY HD
+http://nomorecable.xyz:80/delano/delano/119187
+#EXTINF:-1,TCM
+http://nomorecable.xyz:80/delano/delano/119231
+#EXTINF:-1,TCM FHD
+http://nomorecable.xyz:80/delano/delano/119233
+#EXTINF:-1,TCM HD
+http://nomorecable.xyz:80/delano/delano/119232
+#EXTINF:-1,TELECINCO
+http://nomorecable.xyz:80/delano/delano/119067
+#EXTINF:-1,TELECINCO FHD
+http://nomorecable.xyz:80/delano/delano/119069
+#EXTINF:-1,TELECINCO HD
+http://nomorecable.xyz:80/delano/delano/119068
+#EXTINF:-1,TELEDEPORTE
+http://nomorecable.xyz:80/delano/delano/119082
+#EXTINF:-1,TELEDEPORTE FHD
+http://nomorecable.xyz:80/delano/delano/119155
+#EXTINF:-1,TELEDEPORTE HD
+http://nomorecable.xyz:80/delano/delano/119156
+#EXTINF:-1,Telesur Madrid
+http://nomorecable.xyz:80/delano/delano/119319
+#EXTINF:-1,TeleSUR Venezuela
+http://nomorecable.xyz:80/delano/delano/119321
+#EXTINF:-1,Televen TV Venezuela
+http://nomorecable.xyz:80/delano/delano/119344
+#EXTINF:-1,TelevisiÃ³n Canaria FHD
+http://nomorecable.xyz:80/delano/delano/119349
+#EXTINF:-1,TelevisiÃ³n Canaria HD
+http://nomorecable.xyz:80/delano/delano/119332
+#EXTINF:-1,Ten HD
+http://nomorecable.xyz:80/delano/delano/119337
+#EXTINF:-1,TEVE4
+http://nomorecable.xyz:80/delano/delano/119351
+#EXTINF:-1,TNT
+http://nomorecable.xyz:80/delano/delano/119237
+#EXTINF:-1,TNT FHD
+http://nomorecable.xyz:80/delano/delano/119239
+#EXTINF:-1,TNT HD
+http://nomorecable.xyz:80/delano/delano/119238
+#EXTINF:-1,TOROS
+http://nomorecable.xyz:80/delano/delano/119166
+#EXTINF:-1,TOROS FHD
+http://nomorecable.xyz:80/delano/delano/119162
+#EXTINF:-1,TOROS HD
+http://nomorecable.xyz:80/delano/delano/119331
+#EXTINF:-1,TV Centro AndalucÃ­a
+http://nomorecable.xyz:80/delano/delano/119294
+#EXTINF:-1,TV HellÃ­n
+http://nomorecable.xyz:80/delano/delano/119286
+#EXTINF:-1,TV Vega Baja
+http://nomorecable.xyz:80/delano/delano/119339
+#EXTINF:-1,TV3 GEO CAT
+http://nomorecable.xyz:80/delano/delano/119343
+#EXTINF:-1,TVG Infantil HD
+http://nomorecable.xyz:80/delano/delano/119367
+#EXTINF:-1,TVG Infantil HD
+http://nomorecable.xyz:80/delano/delano/119369
+#EXTINF:-1,UD las palmas HD
+http://nomorecable.xyz:80/delano/delano/119165
+#EXTINF:-1,VAMOS BAR
+http://nomorecable.xyz:80/delano/delano/119158
+#EXTINF:-1,VAMOS FHD
+http://nomorecable.xyz:80/delano/delano/119161
+#EXTINF:-1,VIAJAR
+http://nomorecable.xyz:80/delano/delano/119250
+#EXTINF:-1,VIAJAR (720P)
+http://nomorecable.xyz:80/delano/delano/119251
+#EXTINF:-1,VIAJAR FHD
+http://nomorecable.xyz:80/delano/delano/119252
+#EXTINF:-1,VIAJAR HD
+http://nomorecable.xyz:80/delano/delano/119265
+#EXTINF:-1,VisiÃ³n 6 TV
+http://nomorecable.xyz:80/delano/delano/119288
+#EXTINF:-1,XTRM FHD
+http://nomorecable.xyz:80/delano/delano/119225
+#EXTINF:-1,Xtrm HD
+http://nomorecable.xyz:80/delano/delano/119224
+#EXTINF:-1,ESP |Moto Adv FHD
+http://nomorecable.xyz:80/delano/delano/119154
+#EXTINF:-1,ESP |Real Madrid TV FHD
+http://nomorecable.xyz:80/delano/delano/119153
+#EXTINF:-1,ESP |Telemadrid FHD
+http://nomorecable.xyz:80/delano/delano/119151
+#EXTINF:-1,ESP |Telemadrid HD
+http://nomorecable.xyz:80/delano/delano/119152
