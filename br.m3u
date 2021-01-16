@@ -1,833 +1,235 @@
 #EXTM3U
-#EXTINF:-1,CBN Rio
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1,CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1,CBS NEWS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/194099
-#EXTINF:-1,CHEF TV HD
-http://brtvcdn.xyz:8080/Rafael123/rafael123/222401
-#EXTINF:-1,CHEF TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/173428
-#EXTINF:-1,CINE+
-http://iptvtree.net:8080/766a3d10/7781c6505e/7335
-#EXTINF:-1,CINEMA 2020
-http://iptvtree.net:8080/766a3d10/7781c6505e/226110
-#EXTINF:-1,CINEMA INDIANO
-http://iptvtree.net:8080/766a3d10/7781c6505e/226109
-#EXTINF:-1,CINEMA TOM CRUISE
-http://iptvtree.net:8080/766a3d10/7781c6505e/226113
-#EXTINF:-1,CINEMAX FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8834
-#EXTINF:-1,CNN
-http://iptvtree.net:8080/766a3d10/7781c6505e/225576
-#EXTINF:-1,CNN BRASIL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148404
-#EXTINF:-1,COM Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1,COMBATE FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8778
+#EXTINF:-1,A&E HD
+http://nomorecable.xyz:80/delano/delano/102154
+#EXTINF:-1,AMC HD
+http://nomorecable.xyz:80/delano/delano/102156
+#EXTINF:-1,ANIMAL PLANET HD
+http://nomorecable.xyz:80/delano/delano/102157
+#EXTINF:-1,ARTE 1 HD
+http://nomorecable.xyz:80/delano/delano/102158
+#EXTINF:-1,AXN HD
+http://nomorecable.xyz:80/delano/delano/102159
+#EXTINF:-1,BABY TV HD
+http://nomorecable.xyz:80/delano/delano/102160
+#EXTINF:-1,BAND NEWS HD
+http://nomorecable.xyz:80/delano/delano/102161
+#EXTINF:-1,BAND RJ HD
+http://nomorecable.xyz:80/delano/delano/102162
+#EXTINF:-1,BAND SP HD
+http://nomorecable.xyz:80/delano/delano/102163
+#EXTINF:-1,BAND SPORTS HD
+http://nomorecable.xyz:80/delano/delano/102164
+#EXTINF:-1,BIS HD
+http://nomorecable.xyz:80/delano/delano/102165
+#EXTINF:-1,BOOMERANG HD
+http://nomorecable.xyz:80/delano/delano/102166
+#EXTINF:-1,CARTOON NETWORK HD
+http://nomorecable.xyz:80/delano/delano/102167
+#EXTINF:-1,CINEMAX HD
+http://nomorecable.xyz:80/delano/delano/102168
+#EXTINF:-1,COMBATE HD
+http://nomorecable.xyz:80/delano/delano/102169
 #EXTINF:-1,COMEDY CENTRAL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8779
-#EXTINF:-1,COMEDY PLUS
-http://iptvtree.net:8080/766a3d10/7781c6505e/196533
-#EXTINF:-1,CONMEBOL 2
-http://brtvcdn.xyz:8080/Rafael123/rafael123/221345
-#EXTINF:-1,CONMEBOL TV 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/245585
-#EXTINF:-1,CONMEBOL TV 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/245583
+http://nomorecable.xyz:80/delano/delano/102170
 #EXTINF:-1,CULTURA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14491
+http://nomorecable.xyz:80/delano/delano/102171
 #EXTINF:-1,CURTA! HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/166654
-#EXTINF:-1,CURTA! HD
-http://brtvcdn.xyz:8080/Rafael123/rafael123/222411
-#EXTINF:-1,Canal Brasil
-http://201.1.151.74:2083/play/a057/index.m3u8
-#EXTINF:-1,Canal Brasil HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14569
-#EXTINF:-1,Canal Ricos
-http://iptvtree.net:8080/766a3d10/7781c6505e/158485
-#EXTINF:-1,Canal Ricos
-https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1,Canal Ricos
-http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1,Canal Sony
-http://iptvtree.net:8080/766a3d10/7781c6505e/8882
-#EXTINF:-1,Canal Tv RIO
-http://iptvtree.net:8080/766a3d10/7781c6505e/158484
-#EXTINF:-1,Canal do Boi
-http://iptvtree.net:8080/766a3d10/7781c6505e/245587
-#EXTINF:-1,Canal do Boi
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
-#EXTINF:-1,CanĿªo Nova
-http://201.1.151.74:2083/play/a04t/index.m3u8
-#EXTINF:-1,Cartoon Network FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8913
-#EXTINF:-1,Ceak TV Esrita SP
-http://iptvtree.net:8080/766a3d10/7781c6505e/148408
-#EXTINF:-1,Cine 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/198503
-#EXTINF:-1,Cine 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/198504
-#EXTINF:-1,Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,Comedy Central HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2516
-#EXTINF:-1,DAZN 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/173430
-#EXTINF:-1,DAZN 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/173429
-#EXTINF:-1,DAZN BRASIL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/147276
-#EXTINF:-1,DIEAMA TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/194095
-#EXTINF:-1,DIEMA FAMILY
-http://iptvtree.net:8080/766a3d10/7781c6505e/197086
-#EXTINF:-1,DJing Live
-http://iptvtree.net:8080/766a3d10/7781c6505e/173282
-#EXTINF:-1,DJing Music HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/173284
-#EXTINF:-1,Discovery Channel
-http://201.1.151.74:2083/play/a05e/index.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8897
-#EXTINF:-1,Discovery Civilization HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8902
-#EXTINF:-1,Discovery H&H FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8904
-#EXTINF:-1,Discovery HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2514
-#EXTINF:-1,Discovery Kids
-http://201.1.151.74:2083/play/a03c/index.m3u8
-#EXTINF:-1,Discovery Kids FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8893
-#EXTINF:-1,Discovery Science HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8910
-#EXTINF:-1,Discovery THEATER FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8892
-#EXTINF:-1,Discovery TLC
-http://iptvtree.net:8080/766a3d10/7781c6505e/14496
-#EXTINF:-1,Discovery Turbo FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8891
-#EXTINF:-1,Discovery Turbo HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2508
-#EXTINF:-1,Discovery WORLD FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8894
-#EXTINF:-1,Disney
-http://201.1.151.74:2083/play/a04i/index.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8895
-#EXTINF:-1,Disney Junior FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8916
-#EXTINF:-1,Disney XD FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8917
-#EXTINF:-1,Disney XD HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2504
+http://nomorecable.xyz:80/delano/delano/102172
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://nomorecable.xyz:80/delano/delano/102174
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://nomorecable.xyz:80/delano/delano/102175
+#EXTINF:-1,DISCOVERY HOME &amp; HEALTH HD
+http://nomorecable.xyz:80/delano/delano/102176
+#EXTINF:-1,DISCOVERY KIDS HD
+http://nomorecable.xyz:80/delano/delano/102177
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://nomorecable.xyz:80/delano/delano/102178
+#EXTINF:-1,DISCOVERY THEATER HD
+http://nomorecable.xyz:80/delano/delano/102179
+#EXTINF:-1,DISCOVERY TLC HD
+http://nomorecable.xyz:80/delano/delano/102180
+#EXTINF:-1,DISCOVERY TURBO HD
+http://nomorecable.xyz:80/delano/delano/102181
+#EXTINF:-1,DISCOVERY WORLD HD
+http://nomorecable.xyz:80/delano/delano/102182
+#EXTINF:-1,DISNEY CHANNEL HD
+http://nomorecable.xyz:80/delano/delano/102183
+#EXTINF:-1,DISNEY JR HD
+http://nomorecable.xyz:80/delano/delano/102184
+#EXTINF:-1,DISNEY XD HD
+http://nomorecable.xyz:80/delano/delano/102185
 #EXTINF:-1,E! HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14501
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/43634
-#EXTINF:-1,EPTV Campinas
-http://201.1.151.74:2083/play/a039/index.m3u8
-#EXTINF:-1,EPTV Ribeirao Preto
-http://201.1.151.74:2083/play/a038/index.m3u8
-#EXTINF:-1,EPTV Sao Carlos
-http://201.1.151.74:2083/play/a03a/index.m3u8
+http://nomorecable.xyz:80/delano/delano/102186
+#EXTINF:-1,EI PLUS HD
+http://nomorecable.xyz:80/delano/delano/102187
 #EXTINF:-1,ESPN 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8801
-#EXTINF:-1,ESPN Brasil HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/10867
-#EXTINF:-1,ESPN Extra FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8789
-#EXTINF:-1,ESPN FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8793
-#EXTINF:-1,ESPN2
-http://201.1.151.74:2083/play/a03v/index.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/16434
-#EXTINF:-1,Ei PLUS
-http://iptvtree.net:8080/766a3d10/7781c6505e/194096
-#EXTINF:-1,FEN TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/16415
-#EXTINF:-1,FILMES WESTERN
-http://iptvtree.net:8080/766a3d10/7781c6505e/226111
-#EXTINF:-1,FISH TV FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8848
+http://nomorecable.xyz:80/delano/delano/102188
+#EXTINF:-1,ESPN BRASIL HD
+http://nomorecable.xyz:80/delano/delano/102189
+#EXTINF:-1,ESPN HD
+http://nomorecable.xyz:80/delano/delano/102190
 #EXTINF:-1,FISH TV HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2520
-#EXTINF:-1,FOLKOR
-http://iptvtree.net:8080/766a3d10/7781c6505e/16407
-#EXTINF:-1,FOOD Network FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8863
-#EXTINF:-1,FOX BRASIL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23821
-#EXTINF:-1,FOX Crime
-http://iptvtree.net:8080/766a3d10/7781c6505e/16366
-#EXTINF:-1,FOX FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8817
-#EXTINF:-1,FOX Life FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8818
+http://nomorecable.xyz:80/delano/delano/102192
+#EXTINF:-1,FOX HD
+http://nomorecable.xyz:80/delano/delano/102194
+#EXTINF:-1,FOX LIFE HD
+http://nomorecable.xyz:80/delano/delano/102195
 #EXTINF:-1,FOX PREMIUM 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8819
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/27215
+http://nomorecable.xyz:80/delano/delano/102196
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://nomorecable.xyz:80/delano/delano/102197
 #EXTINF:-1,FOX SPORTS 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8776
-#EXTINF:-1,FOX SPORTS FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8780
+http://nomorecable.xyz:80/delano/delano/102198
 #EXTINF:-1,FOX SPORTS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8945
-#EXTINF:-1,FUTURA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/7342
-#EXTINF:-1,FX FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8835
-#EXTINF:-1,Fate 24/7
-http://iptvtree.net:8080/766a3d10/7781c6505e/174525
-#EXTINF:-1,Film & Arts
-http://201.1.151.74:2083/play/a045/index.m3u8
-#EXTINF:-1,FilmBox EXTRA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/16377
-#EXTINF:-1,Fish TV
-http://201.1.151.74:2083/play/a04c/index.m3u8
-#EXTINF:-1,Fox HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2494
-#EXTINF:-1,Fox Life
-http://201.1.151.74:2083/play/a03u/index.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2490
-#EXTINF:-1,Futura
-http://201.1.151.74:2083/play/a03q/index.m3u8
-#EXTINF:-1,GLOBO AMAZONAS
-http://iptvtree.net:8080/766a3d10/7781c6505e/14593
-#EXTINF:-1,GLOBO Anhanguera Goiania HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/24557
-#EXTINF:-1,GLOBO BAHIA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14598
-#EXTINF:-1,GLOBO Brasilia HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/24556
-#EXTINF:-1,GLOBO CAXIAS DO SUL FHD
-http://brtvcdn.xyz:8080/Rafael123/rafael123/222884
-#EXTINF:-1,GLOBO CUIABA
-http://iptvtree.net:8080/766a3d10/7781c6505e/24555
+http://nomorecable.xyz:80/delano/delano/102199
+#EXTINF:-1,FX HD
+http://nomorecable.xyz:80/delano/delano/102200
+#EXTINF:-1,GINX eSPORTS HD
+http://nomorecable.xyz:80/delano/delano/102201
 #EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/24554
-#EXTINF:-1,GLOBO EPTV Sao Carlos HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14594
-#EXTINF:-1,GLOBO GAZETA SUL ES HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/245581
-#EXTINF:-1,GLOBO INTER TV Cabugi HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/147279
-#EXTINF:-1,GLOBO INTERNACIONAL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/24553
-#EXTINF:-1,GLOBO INTERTV CABUGI RN
-http://iptvtree.net:8080/766a3d10/7781c6505e/197989
-#EXTINF:-1,GLOBO Minas HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/24552
+http://nomorecable.xyz:80/delano/delano/102202
+#EXTINF:-1,GLOBO MINAS HD
+http://nomorecable.xyz:80/delano/delano/102203
 #EXTINF:-1,GLOBO NEWS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14513
-#EXTINF:-1,GLOBO NSC SANTA CATARINA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/245569
+http://nomorecable.xyz:80/delano/delano/102204
 #EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/197656
-#EXTINF:-1,GLOBO Nordeste HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/24551
+http://nomorecable.xyz:80/delano/delano/102205
 #EXTINF:-1,GLOBO RBS POA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/147282
-#EXTINF:-1,GLOBO RBS Porto Alegre HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148423
-#EXTINF:-1,GLOBO RBS TV PELOTAS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/245579
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
-http://a1.gokakka.club:8880/testzyx030/123456789/2486
-#EXTINF:-1,GLOBO RIO GRANDE DO NORTE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182175
+http://nomorecable.xyz:80/delano/delano/102206
 #EXTINF:-1,GLOBO RJ HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/30437
-#EXTINF:-1,GLOBO RPC Curitiba HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182185
-#EXTINF:-1,GLOBO Rede Amazonica HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182187
-#EXTINF:-1,GLOBO Ribeirao Preto HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182186
-#EXTINF:-1,GLOBO SERGIPE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148424
-#EXTINF:-1,GLOBO SP EPTV RIBEIRAO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148428
+http://nomorecable.xyz:80/delano/delano/102207
+#EXTINF:-1,GLOBO RPC TV HD
+http://nomorecable.xyz:80/delano/delano/102208
 #EXTINF:-1,GLOBO SP HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192626
-#EXTINF:-1,GLOBO SP TV TRIBUNA FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182170
-#EXTINF:-1,GLOBO TV BELEM
-http://iptvtree.net:8080/766a3d10/7781c6505e/14599
-#EXTINF:-1,GLOBO TV Liberal Belem HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182183
+http://nomorecable.xyz:80/delano/delano/102210
 #EXTINF:-1,GLOBO TV RIO SUL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/147277
-#EXTINF:-1,GLOBO TV VANGUARDA SJ CAMPOS
-http://iptvtree.net:8080/766a3d10/7781c6505e/245570
-#EXTINF:-1,GLOBO TV Verdes Mares Fortaleza HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148290
+http://nomorecable.xyz:80/delano/delano/102211
+#EXTINF:-1,GLOBOSAT HD
+http://nomorecable.xyz:80/delano/delano/102209
 #EXTINF:-1,GLOOB HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14605
+http://nomorecable.xyz:80/delano/delano/102212
 #EXTINF:-1,GNT HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2482
-#EXTINF:-1,GNT HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8856
-#EXTINF:-1,Globo BrasŦlia
-http://201.1.151.74:2083/play/a066/index.m3u8
-#EXTINF:-1,Globo EPTV Araraquara
-http://iptvtree.net:8080/766a3d10/7781c6505e/245582
-#EXTINF:-1,Globo Fortaleza
-http://iptvtree.net:8080/766a3d10/7781c6505e/36851
-#EXTINF:-1,Globo HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2484
-#EXTINF:-1,Globo Manaus HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148427
-#EXTINF:-1,Globo NSC TV FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/201034
-#EXTINF:-1,Globo Nordeste
-http://201.1.151.74:2083/play/a032/index.m3u8
-#EXTINF:-1,Globo RBS TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/201035
-#EXTINF:-1,Globo RJ
-http://201.1.151.74:2083/play/a061/index.m3u8
-#EXTINF:-1,Globo RPC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151886
-#EXTINF:-1,Globo RPC Maringa
-http://iptvtree.net:8080/766a3d10/7781c6505e/245578
-#EXTINF:-1,Globo TV Gazeta Vitória HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/245573
-#EXTINF:-1,Globo TV Tem Sorocaba HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14602
-#EXTINF:-1,Globo Tribuna Santos
-http://iptvtree.net:8080/766a3d10/7781c6505e/24546
-#EXTINF:-1,Globosat HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/90168
-#EXTINF:-1,Gloobinho HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148406
+http://nomorecable.xyz:80/delano/delano/102213
 #EXTINF:-1,H2 HD
-http://melhordomundo.in:8080/jonathan/jonathan123/369
-#EXTINF:-1,H2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192946
-#EXTINF:-1,HBO 2 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8821
+http://nomorecable.xyz:80/delano/delano/102214
 #EXTINF:-1,HBO 2 HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2480
-#EXTINF:-1,HBO 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/16379
-#EXTINF:-1,HBO FAMILY FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/379
-#EXTINF:-1,HBO FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8822
-#EXTINF:-1,HBO Family
-http://201.1.151.74:2083/play/a04d/index.m3u8
-#EXTINF:-1,HBO Family FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8839
+http://nomorecable.xyz:80/delano/delano/102215
+#EXTINF:-1,HBO FAMILY HD
+http://nomorecable.xyz:80/delano/delano/102216
 #EXTINF:-1,HBO HD
-http://melhordomundo.in:8080/jonathan/jonathan123/372
-#EXTINF:-1,HBO MUNDI HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8837
-#EXTINF:-1,HBO PLUS
-http://melhordomundo.in:8080/jonathan/jonathan123/380
-#EXTINF:-1,HBO PLUS FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8823
+http://nomorecable.xyz:80/delano/delano/102217
 #EXTINF:-1,HBO PLUS HD
-http://melhordomundo.in:8080/jonathan/jonathan123/381
-#EXTINF:-1,HBO POP HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/173434
-#EXTINF:-1,HBO Plus
-http://201.1.151.74:2083/play/a03w/index.m3u8
-#EXTINF:-1,HBO SIGNATURE FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/387
-#EXTINF:-1,HBO Signature FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8836
-#EXTINF:-1,HBO Signature HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2476
-#EXTINF:-1,HBO XTREME HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8824
-#EXTINF:-1,HGTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/147274
-#EXTINF:-1,History 2
-http://201.1.151.74:2083/play/a07l/index.m3u8
-#EXTINF:-1,History 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14516
-#EXTINF:-1,History Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8901
-#EXTINF:-1,Hora de Aventura 24/7
-http://iptvtree.net:8080/766a3d10/7781c6505e/174537
-#EXTINF:-1,ITV
-http://iptvtree.net:8080/766a3d10/7781c6505e/201931
-#EXTINF:-1,Itú TV, ITV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1,Inter TV Cabugi
-http://201.1.151.74:2083/play/a035/index.m3u8
-#EXTINF:-1,Investgation Discovery HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/264638
-#EXTINF:-1,Investigacao Discovery HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2474
-#EXTINF:-1,Investigation Discovery HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14529
-#EXTINF:-1,JimJam
-http://iptvtree.net:8080/766a3d10/7781c6505e/16389
-#EXTINF:-1,LIFE TIME FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8864
-#EXTINF:-1,Lifetime
-http://201.1.151.74:2083/play/a03y/index.m3u8
-#EXTINF:-1,MAGIC TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/197084
-#EXTINF:-1,MAIS Globosat HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/172474
+http://nomorecable.xyz:80/delano/delano/102218
+#EXTINF:-1,HBO SIGNATURE HD
+http://nomorecable.xyz:80/delano/delano/102219
+#EXTINF:-1,HISTORY CHANNEL HD
+http://nomorecable.xyz:80/delano/delano/102220
+#EXTINF:-1,ID-INVESTIGACAO DISCOVERY HD
+http://nomorecable.xyz:80/delano/delano/102221
+#EXTINF:-1,LIFETIME HD
+http://nomorecable.xyz:80/delano/delano/102222
 #EXTINF:-1,MAX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192947
-#EXTINF:-1,MAX SPORT 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/197083
-#EXTINF:-1,MAX SPORT 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/196529
-#EXTINF:-1,MEGAPIX FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8842
-#EXTINF:-1,MKK Web TV
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
-#EXTINF:-1,MKK Web TV
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
-#EXTINF:-1,MTV
-http://201.1.151.74:2083/play/a03s/index.m3u8
+http://nomorecable.xyz:80/delano/delano/102223
+#EXTINF:-1,MAX PRIME HD
+http://nomorecable.xyz:80/delano/delano/102224
+#EXTINF:-1,MAX UP HD
+http://nomorecable.xyz:80/delano/delano/102225
 #EXTINF:-1,MTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/147283
-#EXTINF:-1,MULTISHOW
-http://melhordomundo.in:8080/jonathan/jonathan123/413
-#EXTINF:-1,MULTISHOW FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14528
+http://nomorecable.xyz:80/delano/delano/102227
+#EXTINF:-1,MTV LIVE HD
+http://nomorecable.xyz:80/delano/delano/102228
 #EXTINF:-1,MULTISHOW HD
-http://melhordomundo.in:8080/jonathan/jonathan123/414
-#EXTINF:-1,MUSIC BOX
-http://iptvtree.net:8080/766a3d10/7781c6505e/147284
-#EXTINF:-1,Max Prime
-http://a1.gokakka.club:8880/testzyx030/123456789/2470
-#EXTINF:-1,Max Prime HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192948
-#EXTINF:-1,Max Up HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8841
-#EXTINF:-1,MegaPix HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2468
-#EXTINF:-1,Metrópole News TV
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14531
-#EXTINF:-1,NAT GEO HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2464
-#EXTINF:-1,NAT GEO Kids FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8914
-#EXTINF:-1,NAT GEO WILD FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8905
+http://nomorecable.xyz:80/delano/delano/102229
+#EXTINF:-1,NATGEO KIDS HD
+http://nomorecable.xyz:80/delano/delano/102230
+#EXTINF:-1,NATGEO WILD HD
+http://nomorecable.xyz:80/delano/delano/102231
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://melhordomundo.in:8080/jonathan/jonathan123/424
-#EXTINF:-1,NETFLIX KIDS
-http://iptvtree.net:8080/766a3d10/7781c6505e/226114
-#EXTINF:-1,NHK
-http://201.1.151.74:2083/play/a04q/index.m3u8
-#EXTINF:-1,NHK WORLD HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/245566
-#EXTINF:-1,NOVA TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/196528
-#EXTINF:-1,NOVO TEMPO HD
-http://brtvcdn.xyz:8080/Rafael123/rafael123/222762
-#EXTINF:-1,NatGeo Wild
-http://201.1.151.74:2083/play/a04m/index.m3u8
-#EXTINF:-1,Nick Brasil
-http://iptvtree.net:8080/766a3d10/7781c6505e/198543
-#EXTINF:-1,Nick Jr
-http://201.1.151.74:2083/play/a04j/index.m3u8
-#EXTINF:-1,Nick Junior HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8919
-#EXTINF:-1,Nickelodeon HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2460
-#EXTINF:-1,Nova Era TV
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1,Nova Era TV
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1,OFF
-http://brtvcdn.xyz:8080/Rafael123/rafael123/221280
-#EXTINF:-1,OFF FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14532
-#EXTINF:-1,PARAMOUNT Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8859
-#EXTINF:-1,PFC
-http://iptvtree.net:8080/766a3d10/7781c6505e/201178
-#EXTINF:-1,PFC HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2498
-#EXTINF:-1,PLAY KIDS
-http://brtvcdn.xyz:8080/Rafael123/rafael123/221339
-#EXTINF:-1,PLAY TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/245599
-#EXTINF:-1,PREMIERE 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/194530
+http://nomorecable.xyz:80/delano/delano/102232
+#EXTINF:-1,NICK JR HD
+http://nomorecable.xyz:80/delano/delano/102235
+#EXTINF:-1,NICKELODEON HD
+http://nomorecable.xyz:80/delano/delano/102234
+#EXTINF:-1,OFF HD
+http://nomorecable.xyz:80/delano/delano/102236
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://nomorecable.xyz:80/delano/delano/102237
+#EXTINF:-1,PREMIERE 2 HD
+http://nomorecable.xyz:80/delano/delano/102239
+#EXTINF:-1,PREMIERE 3 HD
+http://nomorecable.xyz:80/delano/delano/102240
 #EXTINF:-1,PREMIERE 4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8788
+http://nomorecable.xyz:80/delano/delano/102241
 #EXTINF:-1,PREMIERE 5 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8790
+http://nomorecable.xyz:80/delano/delano/102242
 #EXTINF:-1,PREMIERE CLUBES HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14640
-#EXTINF:-1,PREMIERE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8785
-#EXTINF:-1,Paramount Channel HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2458
-#EXTINF:-1,Play TV
-http://201.1.151.74:2083/play/a03e/index.m3u8
-#EXTINF:-1,Portal Cultura Pará
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1,Portal Cultura Pará
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1,Premiere 2
-http://201.1.151.74:2083/play/a078/index.m3u8
-#EXTINF:-1,Premiere 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8787
-#EXTINF:-1,Premiere 4
-http://201.1.151.74:2083/play/a04s/index.m3u8
-#EXTINF:-1,Premiere 6
-http://201.1.151.74:2083/play/a047/index.m3u8
-#EXTINF:-1,Premiere 6 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8791
-#EXTINF:-1,Premiere 7
-http://iptvtree.net:8080/766a3d10/7781c6505e/8798
-#EXTINF:-1,Premiere 8
-http://iptvtree.net:8080/766a3d10/7781c6505e/39869
-#EXTINF:-1,Prime Box Brasil
-http://iptvtree.net:8080/766a3d10/7781c6505e/198237
-#EXTINF:-1,Prime Box Brazil
-http://iptvtree.net:8080/766a3d10/7781c6505e/193333
-#EXTINF:-1,RBA TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/166057
-#EXTINF:-1,RBI
-http://201.1.151.74:2083/play/a04o/index.m3u8
-#EXTINF:-1,RBS TV Porto Alegre
-http://201.1.151.74:2083/play/a079/index.m3u8
-#EXTINF:-1,RCI, TV Pai Eterno (Backup)
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1,RCI
-http://201.1.151.74:2083/play/a040/index.m3u8
-#EXTINF:-1,RECORD Amazonas HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/39866
-#EXTINF:-1,RECORD Campinas HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14538
-#EXTINF:-1,RECORD DF HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/147285
-#EXTINF:-1,RECORD HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/10872
-#EXTINF:-1,RECORD MG HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/24545
+http://nomorecable.xyz:80/delano/delano/102243
+#EXTINF:-1,RECORD CAMPINAS HD
+http://nomorecable.xyz:80/delano/delano/102244
 #EXTINF:-1,RECORD NEWS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14540
-#EXTINF:-1,RECORD Nordeste HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14539
-#EXTINF:-1,RECORD Rio de Janeiro FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182201
+http://nomorecable.xyz:80/delano/delano/102245
+#EXTINF:-1,RECORD NORDESTE HD
+http://nomorecable.xyz:80/delano/delano/102246
+#EXTINF:-1,RECORD RJ HD
+http://nomorecable.xyz:80/delano/delano/102247
 #EXTINF:-1,RECORD SP HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14639
-#EXTINF:-1,RECORD São Paulo HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182200
-#EXTINF:-1,REDE SECULO 21
-http://iptvtree.net:8080/766a3d10/7781c6505e/245608
-#EXTINF:-1,REDE SUPER
-http://iptvtree.net:8080/766a3d10/7781c6505e/147291
+http://nomorecable.xyz:80/delano/delano/102248
 #EXTINF:-1,REDE TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/7359
-#EXTINF:-1,RIT
-http://201.1.151.74:2083/play/a04n/index.m3u8
-#EXTINF:-1,RPC TV Curitiba
-http://201.1.151.74:2083/play/a037/index.m3u8
-#EXTINF:-1,Record Ba HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148400
-#EXTINF:-1,Record RJ HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/27204
-#EXTINF:-1,RedBull TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8792
-#EXTINF:-1,Rede Amazonica Manaus
-http://201.1.151.74:2083/play/a034/index.m3u8
-#EXTINF:-1,Rede Mão Amiga
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1,Rede Mão Amiga
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1,Rede Vida
-http://iptvtree.net:8080/766a3d10/7781c6505e/147286
-#EXTINF:-1,Rádio Jornal
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:-1,SBT Goias
-http://iptvtree.net:8080/766a3d10/7781c6505e/193340
+http://nomorecable.xyz:80/delano/delano/102249
+#EXTINF:-1,REDE VIDA HD
+http://nomorecable.xyz:80/delano/delano/102250
+#EXTINF:-1,SBT GOIAS HD
+http://nomorecable.xyz:80/delano/delano/102251
 #EXTINF:-1,SBT HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/7367
-#EXTINF:-1,SBT NORDESTE FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/199630
-#EXTINF:-1,SBT RJ
-http://iptvtree.net:8080/766a3d10/7781c6505e/148295
-#EXTINF:-1,SBT Rio Grande HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/24541
-#EXTINF:-1,SBT SP
-http://iptvtree.net:8080/766a3d10/7781c6505e/148409
-#EXTINF:-1,SHOPTIME HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/245610
-#EXTINF:-1,SIC Internacional
-http://201.1.151.74:2083/play/a03j/index.m3u8
+http://nomorecable.xyz:80/delano/delano/102252
+#EXTINF:-1,SBT NORDESTE HD
+http://nomorecable.xyz:80/delano/delano/102254
+#EXTINF:-1,SBT RJ HD
+http://nomorecable.xyz:80/delano/delano/102253
 #EXTINF:-1,SONY HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14541
-#EXTINF:-1,SPORTV 3 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8784
+http://nomorecable.xyz:80/delano/delano/102255
+#EXTINF:-1,SPACE HD
+http://nomorecable.xyz:80/delano/delano/102256
+#EXTINF:-1,SPORTV 2 HD
+http://nomorecable.xyz:80/delano/delano/102257
+#EXTINF:-1,SPORTV 3 HD
+http://nomorecable.xyz:80/delano/delano/102258
 #EXTINF:-1,SPORTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8782
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8826
-#EXTINF:-1,SUMMER TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/201933
+http://nomorecable.xyz:80/delano/delano/102259
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://nomorecable.xyz:80/delano/delano/102260
 #EXTINF:-1,SYFY HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14485
-#EXTINF:-1,Santa Cecilia TV
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1,Space HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2446
-#EXTINF:-1,SporTV
-http://201.1.151.74:2083/play/a052/index.m3u8
-#EXTINF:-1,SporTV Alternativo
-http://201.1.151.74:2083/play/a03m/index.m3u8
-#EXTINF:-1,Sport TV 3 HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2444
-#EXTINF:-1,Studio Universal HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2442
-#EXTINF:-1,TBS
-http://201.1.151.74:2083/play/a04f/index.m3u8
-#EXTINF:-1,TBS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14649
-#EXTINF:-1,TCM HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8853
-#EXTINF:-1,TELECINE ACTION FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8832
-#EXTINF:-1,TELECINE CULT FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8843
-#EXTINF:-1,TELECINE FUN FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8831
-#EXTINF:-1,TELECINE PIPOCA FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8830
-#EXTINF:-1,TELECINE Premium FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8829
-#EXTINF:-1,TELECINE Touch FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8828
-#EXTINF:-1,THE VOICE
-http://iptvtree.net:8080/766a3d10/7781c6505e/196523
-#EXTINF:-1,TIANKOV FOLK
-http://iptvtree.net:8080/766a3d10/7781c6505e/199631
-#EXTINF:-1,TLC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/7370
+http://nomorecable.xyz:80/delano/delano/102261
+#EXTINF:-1,TELECINE ACTION HD
+http://nomorecable.xyz:80/delano/delano/102262
+#EXTINF:-1,TELECINE CULT HD
+http://nomorecable.xyz:80/delano/delano/102263
+#EXTINF:-1,TELECINE FUN HD
+http://nomorecable.xyz:80/delano/delano/102264
+#EXTINF:-1,TELECINE PIPOCA HD
+http://nomorecable.xyz:80/delano/delano/102265
+#EXTINF:-1,TELECINE PREMIUM HD
+http://nomorecable.xyz:80/delano/delano/102266
+#EXTINF:-1,TELECINE TOUCH HD
+http://nomorecable.xyz:80/delano/delano/102267
 #EXTINF:-1,TNT HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8840
-#EXTINF:-1,TNT Series FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8827
-#EXTINF:-1,TOM SAWYER
-http://iptvtree.net:8080/766a3d10/7781c6505e/226112
+http://nomorecable.xyz:80/delano/delano/102268
+#EXTINF:-1,TNT SERIES HD
+http://nomorecable.xyz:80/delano/delano/102269
 #EXTINF:-1,TOONCAST HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8927
-#EXTINF:-1,TRU TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/173443
-#EXTINF:-1,TV ALMG
-http://streaming.almg.gov.br:80/live/tvalmg.m3u8
-#EXTINF:-1,TV ALMG
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1,TV Ambiental
-http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1,TV Anhanguera GoiÐnia
-http://201.1.151.74:2083/play/a063/index.m3u8
-#EXTINF:-1,TV Assembl
-http://iptvtree.net:8080/766a3d10/7781c6505e/166063
-#EXTINF:-1,TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1,TV Bahia
-http://201.1.151.74:2083/play/a031/index.m3u8
-#EXTINF:-1,TV Brasil
-http://iptvtree.net:8080/766a3d10/7781c6505e/24284
-#EXTINF:-1,TV Brasil Df
-http://iptvtree.net:8080/766a3d10/7781c6505e/148422
-#EXTINF:-1,TV CULTURA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23827
-#EXTINF:-1,TV Capital Lucelia
-http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
-#EXTINF:-1,TV Caruaru Pe
-http://iptvtree.net:8080/766a3d10/7781c6505e/148415
-#EXTINF:-1,TV Centro America Cuiaba
-http://201.1.151.74:2083/play/a036/index.m3u8
-#EXTINF:-1,TV Cidade Canal 9
-http://iptvtree.net:8080/766a3d10/7781c6505e/201936
-#EXTINF:-1,TV Cidade Canal 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1,TV Cidade de Petrópolis
-https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:-1,TV Cinec
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1,TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1,TV Câmara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1,TV DIARIO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/22361
-#EXTINF:-1,TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1,TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1,TV Diário do Sertão, TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1,TV EVANGELIZAR
-http://iptvtree.net:8080/766a3d10/7781c6505e/245605
-#EXTINF:-1,TV Educativa de Porto Alegre
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,TV GIDEOES SD
-https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000.m3u8
-#EXTINF:-1,TV Galega Blumenau
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1,TV Guará
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1,TV Interlagos
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1,TV Liberal Belem
-http://201.1.151.74:2083/play/a033/index.m3u8
-#EXTINF:-1,TV Mackenzie
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1,TV Metropolitana Rio
-https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8
-#EXTINF:-1,TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1,TV Novo Tempo
-http://201.1.151.74:2083/play/a03r/index.m3u8
-#EXTINF:-1,TV Novo Tempo HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/7411
-#EXTINF:-1,TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1,TV Paraná, TV Paraná Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,TV Po
-http://iptvtree.net:8080/766a3d10/7781c6505e/152387
-#EXTINF:-1,TV Poços
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1,TV Ra Tim Bum HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/148405
-#EXTINF:-1,TV Record HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2496
-#EXTINF:-1,TV Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1,TV Sol
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-#EXTINF:-1,TV Tem Bauru
-http://201.1.151.74:2083/play/a065/index.m3u8
-#EXTINF:-1,TV Tem Sorocaba
-http://201.1.151.74:2083/play/a064/index.m3u8
-#EXTINF:-1,TV Tribuna Santos
-http://201.1.151.74:2083/play/a03o/index.m3u8
-#EXTINF:-1,TV UFG
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1,TV Universal
-http://iptvtree.net:8080/766a3d10/7781c6505e/166074
-#EXTINF:-1,TV União DF
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1,TV Vanguarda S. J. dos Campos
-http://201.1.151.74:2083/play/a03b/index.m3u8
-#EXTINF:-1,TV Verdes Mares Fortaleza
-http://201.1.151.74:2083/play/a030/index.m3u8
-#EXTINF:-1,TV das Artes
-http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
-#EXTINF:-1,TVCI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
-#EXTINF:-1,TVCI Paranaguá
-http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
-#EXTINF:-1,TVE BAHIA
-http://iptvtree.net:8080/766a3d10/7781c6505e/22364
-#EXTINF:-1,TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1,TVN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1,TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1,Telecine Fun
-http://201.1.151.74:2083/play/a04a/index.m3u8
-#EXTINF:-1,Telecine Pipoca HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2436
-#EXTINF:-1,Telecine Premium
-http://201.1.151.74:2083/play/a055/index.m3u8
-#EXTINF:-1,Telecine Touch
-http://201.1.151.74:2083/play/a07q/index.m3u8
-#EXTINF:-1,Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1,The History Channel
-http://201.1.151.74:2083/play/a03d/index.m3u8
-#EXTINF:-1,Tooncast
-http://201.1.151.74:2083/play/a05c/index.m3u8
-#EXTINF:-1,Travel Box HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/169585
-#EXTINF:-1,TruTV
-http://201.1.151.74:2083/play/a07r/index.m3u8
-#EXTINF:-1,TruTV
-http://201.1.151.74:2083/play/a059/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL TV
-http://brtvcdn.xyz:8080/Rafael123/rafael123/221332
-#EXTINF:-1,UNIVERSAL TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/7422
-#EXTINF:-1,Universp TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/174519
-#EXTINF:-1,VH1 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14658
-#EXTINF:-1,VIASAT EXPLORE
-http://iptvtree.net:8080/766a3d10/7781c6505e/196521
-#EXTINF:-1,Viva
-http://201.1.151.74:2083/play/a03t/index.m3u8
-#EXTINF:-1,Viva HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192945
-#EXTINF:-1,Viva Web TV
-https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1,WB KIDS
-http://iptvtree.net:8080/766a3d10/7781c6505e/226107
-#EXTINF:-1,WOHOO FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/197078
-#EXTINF:-1,WOOHO
-http://iptvtree.net:8080/766a3d10/7781c6505e/198502
+http://nomorecable.xyz:80/delano/delano/102270
+#EXTINF:-1,TV APARECIDA HD
+http://nomorecable.xyz:80/delano/delano/102271
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://nomorecable.xyz:80/delano/delano/102276
+#EXTINF:-1,VH1 HD
+http://nomorecable.xyz:80/delano/delano/102277
+#EXTINF:-1,VIVA HD
+http://nomorecable.xyz:80/delano/delano/102278
+#EXTINF:-1,WARNER CHANNEL HD
+http://nomorecable.xyz:80/delano/delano/102279
 #EXTINF:-1,WOOHOO HD
-http://a1.gokakka.club:8880/testzyx030/123456789/2500
-#EXTINF:-1,WOOHOO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14555
-#EXTINF:-1,Warner Bros FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8825
-#EXTINF:-1,Warner Bross HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/198467
-#EXTINF:-1,Warner Channel
-http://201.1.151.74:2083/play/a03z/index.m3u8
-#EXTINF:-1,Web TV Uai
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Yeeaah!
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1,Yeeaah!
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1,ZOOM
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
-#EXTINF:-1,ZOOMO FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/197077
-#EXTINF:-1,ZOOMOO FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/14661
-#EXTINF:-1,nickelodeon FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/16391
+http://nomorecable.xyz:80/delano/delano/102280
+#EXTINF:-1,ZOOMOO HD
+http://nomorecable.xyz:80/delano/delano/102281
