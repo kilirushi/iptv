@@ -1,95 +1,629 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV (720p)
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV (720p)
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/dNQUbok.png" group-title="",Assemblee Nationale du Quebec (360p)
-http://diffusionm3.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab (720p)
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One (720p)
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV (1080p)
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
-http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CBC News Network
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",CBC Toronto (720p)
-https://cdn006.teleuptv.net/ydcl2V1MVC/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",CityTV Toronto (720p)
-https://cdn006.teleuptv.net/iSykLSKMFr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="",CPAC (720p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",CTV Toronto (720p)
-https://cdn006.teleuptv.net/zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="" group-title="",Eawaz TV (720p)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/HRqcIcR.png" group-title="",EMCI TV (1080p)
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",EWTN Canada (720p)
-https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
-https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/1VlArCc.png" group-title="Music",GEM Arabia
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Local",Global British Columbia (720p)
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="Local",Global Calgary (720p)
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7R10c5i.png" group-title="Local",Global Edmonton (720p)
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="",Global News (720p)
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Local",Global Toronto (720p)
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV (480p)
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="",Legislative Assembly of Ontario (720p)
-https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV (480p)
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="English" tvg-language="" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Local",NTV (540p)
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ONE STUDIO
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Ovation (720p)
-https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",PRIME CANADA TV (720p)
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV (720p)
-https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV (1080p)
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="",TAG TV (1080p)
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV (1080p)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV (720p)
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="",Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="",The Shopping Channel (720p)
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="Local",Toronto 360 TV (720p)
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="Local",TV 16 Toronto (720p)
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",TVO (720p)
-https://cdn006.teleuptv.net/OMZsmYVUMp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/oRigj9q.jpg" group-title="",Télé Culturelle Médias (720p)
-https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="Local",Urdu TV Toronto (720p)
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="",VBS
-https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1,A&E
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21566
+#EXTINF:-1,ABC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21568
+#EXTINF:-1,ADULT SWIM
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21569
+#EXTINF:-1,AMC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21571
+#EXTINF:-1,Animal Planet
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21572
+#EXTINF:-1,APTN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21573
+#EXTINF:-1,BBC Canada
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21574
+#EXTINF:-1,BET
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21575
+#EXTINF:-1,BOOK TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21576
+#EXTINF:-1,CBS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21578
+#EXTINF:-1,CBC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21579
+#EXTINF:-1,CMT
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21580
+#EXTINF:-1,COOKING CHANNEL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21581
+#EXTINF:-1,COTTAGE LIFE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21582
+#EXTINF:-1,CP24
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21583
+#EXTINF:-1,CPAC EN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21584
+#EXTINF:-1,CPAC FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21585
+#EXTINF:-1,Crave 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21586
+#EXTINF:-1,Crave 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21587
+#EXTINF:-1,Crave 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21588
+#EXTINF:-1,Crave 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21589
+#EXTINF:-1,Crime & Investigation
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21590
+#EXTINF:-1,CRIME + INVESTIGATION
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21591
+#EXTINF:-1,CTV COMEDY EAST
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21592
+#EXTINF:-1,CTV Drama
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21593
+#EXTINF:-1,CTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21595
+#EXTINF:-1,DAYSTAR TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21596
+#EXTINF:-1,DEJAVIEW
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21597
+#EXTINF:-1,Discovery Channel
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21598
+#EXTINF:-1,DISCOVERY SCIENCE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21599
+#EXTINF:-1,DIY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21600
+#EXTINF:-1,DTOUR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21601
+#EXTINF:-1,E! Entertainment Television
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21602
+#EXTINF:-1,FAMILY East
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21603
+#EXTINF:-1,FAMILY CHARGED
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21604
+#EXTINF:-1,Food Network
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21605
+#EXTINF:-1,FOX
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21606
+#EXTINF:-1,FX
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21607
+#EXTINF:-1,FXX
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21608
+#EXTINF:-1,FYI
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21609
+#EXTINF:-1,Game TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21610
+#EXTINF:-1,Game+
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21611
+#EXTINF:-1,GSN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21613
+#EXTINF:-1,GUSTO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21614
+#EXTINF:-1,H2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21615
+#EXTINF:-1,HGTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21616
+#EXTINF:-1,History Channel
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21617
+#EXTINF:-1,ICI RDI
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21618
+#EXTINF:-1,ID
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21619
+#EXTINF:-1,LIFETIME
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21620
+#EXTINF:-1,Love Nature
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21621
+#EXTINF:-1,Makeful
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21622
+#EXTINF:-1,MAVTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21623
+#EXTINF:-1,MAX
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21624
+#EXTINF:-1,MEDIASET ITALIA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21625
+#EXTINF:-1,Meteo Media
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21626
+#EXTINF:-1,MIRACLE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21627
+#EXTINF:-1,MTV 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21628
+#EXTINF:-1,MTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21629
+#EXTINF:-1,MUCH MUSIC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21630
+#EXTINF:-1,Much
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21631
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21633
+#EXTINF:-1,CNBC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21634
+#EXTINF:-1,NTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21635
+#EXTINF:-1,OLN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21636
+#EXTINF:-1,OMNI 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21637
+#EXTINF:-1,OMNI 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21638
+#EXTINF:-1,ONE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21639
+#EXTINF:-1,OWN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21640
+#EXTINF:-1,PBS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21641
+#EXTINF:-1,PEACHTREE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21642
+#EXTINF:-1,PRISE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21643
+#EXTINF:-1,Rogers TV FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21644
+#EXTINF:-1,SERIES Plus
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21645
+#EXTINF:-1,SHOPPING
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21646
+#EXTINF:-1,Showcase
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21647
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21648
+#EXTINF:-1,SLICE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21649
+#EXTINF:-1,SPIKE TV / PARAMOUNT
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21650
+#EXTINF:-1,THE WEATHER NETWORK
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21653
+#EXTINF:-1,TLC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21654
+#EXTINF:-1,TRAVEL ESCAPE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21655
+#EXTINF:-1,TSC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21656
+#EXTINF:-1,TV Rogers
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21657
+#EXTINF:-1,TVO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21658
+#EXTINF:-1,VISION
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21659
+#EXTINF:-1,W NETWORK East
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21660
+#EXTINF:-1,WFN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21661
+#EXTINF:-1,WGN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21662
+#EXTINF:-1,Wild TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21663
+#EXTINF:-1,WNLO Buffalo CW23
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21664
+#EXTINF:-1,YES TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21665
+#EXTINF:-1,Addik TV FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21666
+#EXTINF:-1,AMI-tÃ©lÃ© FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21667
+#EXTINF:-1,Canal D FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21668
+#EXTINF:-1,CASA FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21669
+#EXTINF:-1,Evasion FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21670
+#EXTINF:-1,LCN FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21672
+#EXTINF:-1,MOI et CIE FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21673
+#EXTINF:-1,MUSIC PLUS FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21674
+#EXTINF:-1,Musique Plus FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21675
+#EXTINF:-1,Prise 2 FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21676
+#EXTINF:-1,RDS FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21677
+#EXTINF:-1,RDS 2 FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21678
+#EXTINF:-1,RDS INFO FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21679
+#EXTINF:-1,Series+ FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21680
+#EXTINF:-1,TELEMAGINO  FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21681
+#EXTINF:-1,TFO FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21682
+#EXTINF:-1,Unis TV FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21683
+#EXTINF:-1,Vie FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21684
+#EXTINF:-1,VRAK TV FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21685
+#EXTINF:-1,YOOPA FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21686
+#EXTINF:-1,Zeste FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21687
+#EXTINF:-1,SUPER ECRAN 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21688
+#EXTINF:-1,SUPER ECRAN 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21689
+#EXTINF:-1,SUPER ECRAN 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21690
+#EXTINF:-1,SLICE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21691
+#EXTINF:-1,SUPER ECRAN 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21692
+#EXTINF:-1,CANAL V
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/68120
+#EXTINF:-1,CA Coeur TV FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118224
+#EXTINF:-1,TRACE AFRICA FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118225
+#EXTINF:-1,Trace Mziki FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118226
+#EXTINF:-1,Trace Naija FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118227
+#EXTINF:-1,Trace Toca FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118228
+#EXTINF:-1,Trace Tropical FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118229
+#EXTINF:-1,Trace Urban FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118230
+#EXTINF:-1,GINX ESPORTS TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128188
+#EXTINF:-1,T+E
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128189
+#EXTINF:-1,CHRGD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128192
+#EXTINF:-1,CHRGD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128193
+#EXTINF:-1,Family Channel East
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128194
+#EXTINF:-1,Family Channel West
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128195
+#EXTINF:-1,HOLLYWOOD SUITE 2000s
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128199
+#EXTINF:-1,HOLLYWOOD SUITE 70s
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128200
+#EXTINF:-1,HOLLYWOOD SUITE 80s
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128201
+#EXTINF:-1,HOLLYWOOD SUITE 90s 
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128202
+#EXTINF:-1,HBO 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128203
+#EXTINF:-1,HBO 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128204
+#EXTINF:-1,TURNER CLASSIC MOVIES
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128205
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128209
+#EXTINF:-1,HISTORY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128210
+#EXTINF:-1,CBC CALGARY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21801
+#EXTINF:-1,CBC Montreal HD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21802
+#EXTINF:-1,CBC NOVA SCOTIA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21804
+#EXTINF:-1,CBC Oshawa CHEX2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21805
+#EXTINF:-1,CBC OTTAWA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21806
+#EXTINF:-1,CBC St. John's CBNT
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21807
+#EXTINF:-1,CBC Toronto CBLT
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21808
+#EXTINF:-1,CBC TORONTO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21809
+#EXTINF:-1,CBC VANCOUVER
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21810
+#EXTINF:-1,CBC3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21811
+#EXTINF:-1,CITY CALGARY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21812
+#EXTINF:-1,CITY MONTREAL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21813
+#EXTINF:-1,CITY TORONTO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21814
+#EXTINF:-1,CITY VANCOUVER
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21815
+#EXTINF:-1,Citytv Toronto
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21816
+#EXTINF:-1,CTV 2 VANCOUVER
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21817
+#EXTINF:-1,CTV CALGARY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21818
+#EXTINF:-1,CTV HALIFAX
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21819
+#EXTINF:-1,CTV MONTREAL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21820
+#EXTINF:-1,CTV OTTAWA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21821
+#EXTINF:-1,CTV TORONTO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21823
+#EXTINF:-1,CTV Two Atlantic
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21824
+#EXTINF:-1,CTV VANCOUVER
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21825
+#EXTINF:-1,CTV2 OTTAWA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21826
+#EXTINF:-1,GLOBAL HALIFAX
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21827
+#EXTINF:-1,GLOBAL NEWBRUNSWICK
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21828
+#EXTINF:-1,GLOBAL TORONTO CIII
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21829
+#EXTINF:-1,GLOBAL TORONTO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21830
+#EXTINF:-1,GLOBAL VANCOUVER
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21831
+#EXTINF:-1,ICI Radio-Canada TÃ©lÃ© TOR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21832
+#EXTINF:-1,TVA Montreal CFTM
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21833
+#EXTINF:-1,Tele-Quebec
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21834
+#EXTINF:-1,TV5 Quebec FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21835
+#EXTINF:-1,TV5 Quebec FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21836
+#EXTINF:-1,TVA Gatineau FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21837
+#EXTINF:-1,TVA Montreal FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21838
+#EXTINF:-1,Télé Québec FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21839
+#EXTINF:-1,Télémagino FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21840
+#EXTINF:-1,NBC 2 Buffalo
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/126053
+#EXTINF:-1,GLOBAL Peterborough
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128211
+#EXTINF:-1,GLOBAL Toronto
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128213
+#EXTINF:-1,CTV2 Toronto
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128214
+#EXTINF:-1,City TV Montreal
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128215
+#EXTINF:-1,City TV Toronto
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128216
+#EXTINF:-1,CBC Montreal
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128217
+#EXTINF:-1,CBC TORONTO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128218
+#EXTINF:-1,CBC Edmonton
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/132187
+#EXTINF:-1,Disney Channel
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21791
+#EXTINF:-1,Disney Junior
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21792
+#EXTINF:-1,FAMILY JR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21794
+#EXTINF:-1,KNOWLEDGE KIDS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21795
+#EXTINF:-1,Nickelodeon
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21796
+#EXTINF:-1,TREEHOUSE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21797
+#EXTINF:-1,YTV East
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21798
+#EXTINF:-1,Teletoon FR East
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21800
+#EXTINF:-1,YTV WEST
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128196
+#EXTINF:-1,Toon-A-Vision
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128197
+#EXTINF:-1,YTV EAST
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128198
+#EXTINF:-1,BBC WORLD NEWS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21693
+#EXTINF:-1,BNN Bloomberg
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21694
+#EXTINF:-1,CablePulse 24
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21695
+#EXTINF:-1,CBC News Network
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21696
+#EXTINF:-1,CHCH
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21697
+#EXTINF:-1,CNBC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21698
+#EXTINF:-1,CNN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21699
+#EXTINF:-1,CTV News Channel
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21700
+#EXTINF:-1,CTV NEWS NETWORK
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21701
+#EXTINF:-1,FOX NEWS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21702
+#EXTINF:-1,FOX NEWS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21703
+#EXTINF:-1,Headline News
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21704
+#EXTINF:-1,HLN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21705
+#EXTINF:-1,TV Ontario
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21706
+#EXTINF:-1,CA:NEWS: ICI Radio-Canada Tele TOR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21707
+#EXTINF:-1,CA:NEWS: ICI ARTV FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21708
+#EXTINF:-1,ICI Montreal FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21709
+#EXTINF:-1,ICI RDI FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21710
+#EXTINF:-1,ICI Vancouver FR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21711
+#EXTINF:-1,WEATHER NETWORK NATIONAL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128206
+#EXTINF:-1,WEATHER NETWORK TORONTO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128207
+#EXTINF:-1,MSNBC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128208
+#EXTINF:-1,BEIN SPORTS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21712
+#EXTINF:-1,FIGHT NETWORK
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21713
+#EXTINF:-1,Fox Sports Racing
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21714
+#EXTINF:-1,GOLF
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21715
+#EXTINF:-1,MLB Network
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21716
+#EXTINF:-1,NBA TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21717
+#EXTINF:-1,NFL Network
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21718
+#EXTINF:-1,SPORTSNET 360
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21719
+#EXTINF:-1,SPORTSNET EAST
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21720
+#EXTINF:-1,SPORTSNET ONE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21721
+#EXTINF:-1,SPORTSNET ONTARIO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21722
+#EXTINF:-1,SPORTSNET ONTARIO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21724
+#EXTINF:-1,SPORTSNET PACIFIC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21725
+#EXTINF:-1,SPORTSNET WEST
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21726
+#EXTINF:-1,Super Channel Heart & Home
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21727
+#EXTINF:-1,SUPER SPORTS CH 267*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21728
+#EXTINF:-1,SUPER SPORTS CH 368
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21729
+#EXTINF:-1,SUPER SPORTS CH 422*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21730
+#EXTINF:-1,SUPER SPORTS CH 432
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21731
+#EXTINF:-1,SUPER SPORTS CH 433*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21732
+#EXTINF:-1,SUPER SPORTS CH 434*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21733
+#EXTINF:-1,SUPER SPORTS CH 435*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21734
+#EXTINF:-1,SUPER SPORTS CH 436
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21735
+#EXTINF:-1,SUPER SPORTS CH 436
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21736
+#EXTINF:-1,SUPER SPORTS CH 436*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21737
+#EXTINF:-1,SUPER SPORTS CH 437
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21738
+#EXTINF:-1,SUPER SPORTS CH 437*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21739
+#EXTINF:-1,SUPER SPORTS CH 438
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21740
+#EXTINF:-1,SUPER SPORTS CH 438*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21741
+#EXTINF:-1,SUPER SPORTS CH 439
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21742
+#EXTINF:-1,SUPER SPORTS CH 439*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21743
+#EXTINF:-1,SUPER SPORTS CH 440
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21744
+#EXTINF:-1,SUPER SPORTS CH 440*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21745
+#EXTINF:-1,SUPER SPORTS CH 441
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21746
+#EXTINF:-1,SUPER SPORTS CH 441*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21747
+#EXTINF:-1,SUPER SPORTS CH 442
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21748
+#EXTINF:-1,SUPER SPORTS CH 443
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21749
+#EXTINF:-1,SUPER SPORTS CH 443*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21750
+#EXTINF:-1,SUPER SPORTS CH 444
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21751
+#EXTINF:-1,SUPER SPORTS CH 444*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21752
+#EXTINF:-1,SUPER SPORTS CH 450
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21753
+#EXTINF:-1,SUPER SPORTS CH 450*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21754
+#EXTINF:-1,SUPER SPORTS CH 461
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21755
+#EXTINF:-1,SUPER SPORTS CH 461*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21756
+#EXTINF:-1,SUPER SPORTS CH 462
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21757
+#EXTINF:-1,SUPER SPORTS CH 462*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21758
+#EXTINF:-1,SUPER SPORTS CH 464*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21759
+#EXTINF:-1,SUPER SPORTS CH 465*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21760
+#EXTINF:-1,SUPER SPORTS CH 472*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21761
+#EXTINF:-1,SUPER SPORTS CH 473
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21762
+#EXTINF:-1,SUPER SPORTS CH 474*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21763
+#EXTINF:-1,SUPER SPORTS CH 475
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21764
+#EXTINF:-1,SUPER SPORTS CH 476
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21765
+#EXTINF:-1,SUPER SPORTS CH 476*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21766
+#EXTINF:-1,SUPER SPORTS CH 477
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21767
+#EXTINF:-1,SUPER SPORTS CH 477*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21768
+#EXTINF:-1,SUPER SPORTS CH 478
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21769
+#EXTINF:-1,SUPER SPORTS CH 478*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21770
+#EXTINF:-1,SUPER SPORTS CH 479
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21771
+#EXTINF:-1,SUPER SPORTS CH 479*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21772
+#EXTINF:-1,SUPER SPORTS CH 480
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21773
+#EXTINF:-1,SUPER SPORTS CH 480*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21774
+#EXTINF:-1,SUPER SPORTS CH 481
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21775
+#EXTINF:-1,SUPER SPORTS CH 482
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21776
+#EXTINF:-1,SUPER SPORTS CH 482*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21777
+#EXTINF:-1,SUPER SPORTS CH 483
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21778
+#EXTINF:-1,SUPER SPORTS CH 483*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21779
+#EXTINF:-1,SUPER SPORTS CH 484
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21780
+#EXTINF:-1,SUPER SPORTS CH 484*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21781
+#EXTINF:-1,TSN 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21782
+#EXTINF:-1,TSN 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21783
+#EXTINF:-1,TSN 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21784
+#EXTINF:-1,TSN 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21785
+#EXTINF:-1,TSN 5
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21786
+#EXTINF:-1,TVA  Sports 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21787
+#EXTINF:-1,TVA Sports
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/21788
+#EXTINF:-1,Optus Sport 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52153
+#EXTINF:-1,Optus Sport 2 HD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52154
+#EXTINF:-1,Optus Sport 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52155
+#EXTINF:-1,Optus Sport 4 
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52156
+#EXTINF:-1,Optus Sport 6
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52158
+#EXTINF:-1,Optus Sport 7
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52159
+#EXTINF:-1,DAZN 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52160
+#EXTINF:-1,DAZN 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52161
+#EXTINF:-1,DAZN 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52162
+#EXTINF:-1,DAZN 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52163
+#EXTINF:-1,DAZN 5
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/52164
+#EXTINF:-1,SPORTNET WORLD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118231
+#EXTINF:-1,SPORTNET WORLD*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118232
+#EXTINF:-1,BEIN SPORTS*
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/118233
+#EXTINF:-1,SPORTSNET WEST
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128190
+#EXTINF:-1,SPORTSNET EAST
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/128191
+#EXTINF:-1,SPORTSNET PPPV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/316750
