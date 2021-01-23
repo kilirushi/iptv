@@ -1,451 +1,341 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23261
-#EXTINF:-1,RTP 1
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23260
-#EXTINF:-1,RTP 2 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79904
-#EXTINF:-1,RTP 2 HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23259
-#EXTINF:-1,RTP 2
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23258
-#EXTINF:-1,RTP 3 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79905
-#EXTINF:-1,RTP 3
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23257
-#EXTINF:-1,RTP MEMORIA
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23256
-#EXTINF:-1,RTP AFRICA
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23255
-#EXTINF:-1,TCV
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23254
-#EXTINF:-1,RTP ACORES
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23253
-#EXTINF:-1,RTP MADEIRA HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/62868
-#EXTINF:-1,SIC RADICAL
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23252
-#EXTINF:-1,SIC MULHER
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23251
-#EXTINF:-1,SIC CARAS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23250
-#EXTINF:-1,SIC NOTICIAS HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79982
-#EXTINF:-1,SIC NOTICIAS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23249
-#EXTINF:-1,SIC FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79906
-#EXTINF:-1,SIC HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23248
-#EXTINF:-1,SIC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23247
-#EXTINF:-1,TVI FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79907
-#EXTINF:-1,TVI HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23246
-#EXTINF:-1,TVI
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23245
-#EXTINF:-1,TVI FICCAO
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23244
-#EXTINF:-1,CANAL Q
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23243
-#EXTINF:-1,GLOBO PREM
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23242
-#EXTINF:-1,TV RECORD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23241
-#EXTINF:-1,TVI24 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/93771
-#EXTINF:-1,TVI24
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23240
-#EXTINF:-1,CM TV HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79980
-#EXTINF:-1,CM TV
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23239
-#EXTINF:-1,TV GLOBO
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23238
-#EXTINF:-1,RECORD NEWS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/1061
-#EXTINF:-1,EURONEWS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23237
-#EXTINF:-1,PORTO CANAL
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23236
-#EXTINF:-1,SPORT TV + FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14108
-#EXTINF:-1,SPORT TV +
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79941
-#EXTINF:-1,SPORT TV1 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/89710
-#EXTINF:-1,SPORT TV1
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14107
-#EXTINF:-1,SPORT TV2 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14101
-#EXTINF:-1,SPORT TV2 HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14106
-#EXTINF:-1,SPORT TV3 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14100
-#EXTINF:-1,SPORT TV3
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14105
-#EXTINF:-1,SPORT TV4 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14099
-#EXTINF:-1,SPORT TV4
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14104
-#EXTINF:-1,SPORT TV5 FHD
-http://163.172.31.126:2052/portugalSOURCEPRO2/2797998477/1577
-#EXTINF:-1,SPORT TV5 HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14103
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29988
-#EXTINF:-1,ELEVEN SPORTS 1 BKP
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/35371
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29987
-#EXTINF:-1,ELEVEN SPORTS 2 BKP
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/35372
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29986
-#EXTINF:-1,ELEVEN SPORTS 3 BKP
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/35373
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29985
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29984
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29983
-#EXTINF:-1,BENFICA TV FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14092
-#EXTINF:-1,BENFICA TV
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14093
-#EXTINF:-1,SPORTING TV FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/89996
-#EXTINF:-1,SPORTING TV HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/89997
-#EXTINF:-1,CANAL 11 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/46339
-#EXTINF:-1,CANAL 11 SD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/93781
 #EXTINF:-1,A BOLA TV
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14087
-#EXTINF:-1,PFC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14086
-#EXTINF:-1,KOMBATSPORT
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14090
-#EXTINF:-1,EUROSPORT NEWS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14096
-#EXTINF:-1,EUROSPORT 1HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14097
-#EXTINF:-1,EUROSPORT 1
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14095
-#EXTINF:-1,EUROSPORT 2
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14094
-#EXTINF:-1,FUEL TV
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23234
-#EXTINF:-1,MOTORSPORT TV
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14089
-#EXTINF:-1,MOTORVISION
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14088
-#EXTINF:-1,TOROS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23233
-#EXTINF:-1,JIM JAM
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23231
-#EXTINF:-1,BABY FIRST
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23230
-#EXTINF:-1,BABY TV
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23229
-#EXTINF:-1,CANAL PANDA
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23228
-#EXTINF:-1,BIGGS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23227
-#EXTINF:-1,NICKELODEON
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23226
-#EXTINF:-1,DISNEY JUNIOR
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23225
-#EXTINF:-1,DISNEY CHANNEL
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23224
-#EXTINF:-1,CARTOONNETWORK
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23223
-#EXTINF:-1,SIC K
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23222
-#EXTINF:-1,TVCINE1 HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23220
-#EXTINF:-1,TVCINE1
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23219
-#EXTINF:-1,TVCINE 2HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23218
-#EXTINF:-1,TVCINE2
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23217
-#EXTINF:-1,TVCINE  3HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23216
-#EXTINF:-1,TVCINE3
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23215
-#EXTINF:-1,TVCINE 4HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23214
-#EXTINF:-1,TVCINE4
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23213
-#EXTINF:-1,HOLLYWOOD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23212
-#EXTINF:-1,FOX MOVIES
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23210
-#EXTINF:-1,AMC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23209
-#EXTINF:-1,CINEMUNDO
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23208
-#EXTINF:-1,NOS STUDIOS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/57858
-#EXTINF:-1,ODISSEIA
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23206
-#EXTINF:-1,NATGEO HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23211
-#EXTINF:-1,NATGEO WILD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23205
-#EXTINF:-1,DISCOVERY
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23204
-#EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23203
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23202
-#EXTINF:-1,HISTORIA
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23201
-#EXTINF:-1,CAÇA E PESCA
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23200
-#EXTINF:-1,FOOD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23199
-#EXTINF:-1,NATGEO
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23198
-#EXTINF:-1,CASAVISION
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23197
-#EXTINF:-1,FOX HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23195
-#EXTINF:-1,FOX CRIME FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23194
-#EXTINF:-1,FOX CRIME
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23193
-#EXTINF:-1,FOX COMEDY
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23192
-#EXTINF:-1,FOX LIFE HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23191
-#EXTINF:-1,AXN WHITE HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23190
-#EXTINF:-1,AXN HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23189
-#EXTINF:-1,AXN BLACK FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23188
-#EXTINF:-1,AXN BLACK
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23187
-#EXTINF:-1,SYFY HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23186
-#EXTINF:-1,SYFY
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23185
-#EXTINF:-1,TLC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23184
-#EXTINF:-1,TVSERIE FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23183
-#EXTINF:-1,TVSERIES
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23182
-#EXTINF:-1,CBSREALITY
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23180
-#EXTINF:-1,TVI REALITY
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23179
-#EXTINF:-1,E!
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23178
-#EXTINF:-1,A&E
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23177
-#EXTINF:-1,24 KITCHEN HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23176
-#EXTINF:-1,MTV
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23363
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/195996
 #EXTINF:-1,AFRO MUSIC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23362
-#EXTINF:-1,RTP 1 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85677
-#EXTINF:-1,RTP 2 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85678
-#EXTINF:-1,RTP 3 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85679
-#EXTINF:-1,SIC HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85680
-#EXTINF:-1,SIC MULHER HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85681
-#EXTINF:-1,SIC RADICAL HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85682
-#EXTINF:-1,SIC CARAS HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85683
-#EXTINF:-1,CANAL Q HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85684
-#EXTINF:-1,PORTO CANAL HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85685
-#EXTINF:-1,RTP MEMORIA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85686
-#EXTINF:-1,RTP AFRICA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85687
-#EXTINF:-1,RTP MADEIRA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85688
-#EXTINF:-1,TV RECORD HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85689
-#EXTINF:-1,CANAL NOS HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85690
-#EXTINF:-1,CANAL PARLAMENTO HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85691
-#EXTINF:-1,TV CINE 1 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85693
-#EXTINF:-1,TV CINE 2 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85694
-#EXTINF:-1,TV CINE 3 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85695
-#EXTINF:-1,TV CINE 4 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85696
-#EXTINF:-1,HOLLYWOOD HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85697
-#EXTINF:-1,AMC HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85698
-#EXTINF:-1,AXN HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85700
-#EXTINF:-1,AXN WHITE HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85701
-#EXTINF:-1,AXN BLACK HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85702
-#EXTINF:-1,TV GLOBO TV PORTUGAL HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85703
-#EXTINF:-1,TV GLOBO PREMIUM HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85704
-#EXTINF:-1,FOX HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85705
-#EXTINF:-1,FOX MOVIES HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85706
-#EXTINF:-1,FOX LIFE HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85707
-#EXTINF:-1,FOX CRIME HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85708
-#EXTINF:-1,FOX COMEDY HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85709
-#EXTINF:-1,TVSERIES HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85710
-#EXTINF:-1,E! ENTERTAINMENT HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85711
-#EXTINF:-1,CANCAO NOVA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85712
-#EXTINF:-1,SYFY HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85713
-#EXTINF:-1,TVI REALITY HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85714
-#EXTINF:-1,ZAP VIVA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85715
-#EXTINF:-1,BLAZE HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85716
-#EXTINF:-1,NOS STUDIO HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85717
-#EXTINF:-1,CANAL 11 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85719
-#EXTINF:-1,SPORT TV 1 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85720
-#EXTINF:-1,SPORT TV 2 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85721
-#EXTINF:-1,SPORT TV 3 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85722
-#EXTINF:-1,SPORT TV 4 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85723
-#EXTINF:-1,SPORT TV 5 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85724
-#EXTINF:-1,SPORT TV+ HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85725
-#EXTINF:-1,SPORT TV NBA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85726
-#EXTINF:-1,ELEVEN SPORTS 1 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85727
-#EXTINF:-1,ELEVEN SPORTS 2 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85728
-#EXTINF:-1,ELEVEN SPORTS 3 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85729
-#EXTINF:-1,ELEVEN SPORTS 4 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85730
-#EXTINF:-1,ELEVEN SPORTS 5 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85731
-#EXTINF:-1,ELEVEN SPORTS 6 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85732
-#EXTINF:-1,EUROSPORT 1 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85733
-#EXTINF:-1,EUROSPORT 2 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85734
-#EXTINF:-1,BENFICA TV HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85735
-#EXTINF:-1,PFC INTERNACIONAL HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85736
-#EXTINF:-1,MOTORVISION HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85737
-#EXTINF:-1,KOMBAT SPORT HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85738
-#EXTINF:-1,SPORTING TV HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85739
-#EXTINF:-1,NATIONAL GEO HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85741
-#EXTINF:-1,NATIONAL GEO WILD HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85742
-#EXTINF:-1,DISCOVERY HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85743
-#EXTINF:-1,ID INVESTIGATION DISCOVERY HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85744
-#EXTINF:-1,TRAVEL CHANNEL HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85745
-#EXTINF:-1,ODISSEIA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85746
-#EXTINF:-1,HISTORIA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85747
-#EXTINF:-1,24 KITCHEN HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85748
-#EXTINF:-1,TLC HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85749
-#EXTINF:-1,FUEL TV HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85750
-#EXTINF:-1,MY CUISINE HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85751
-#EXTINF:-1,KURIAKOS TV HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85752
-#EXTINF:-1,FASHION TV HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85753
-#EXTINF:-1,MTV PORTUGAL HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85755
-#EXTINF:-1,TRACE TOCA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85756
-#EXTINF:-1,MCM POP HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85757
-#EXTINF:-1,VH1 CLASSIC HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85758
-#EXTINF:-1,MEZZO HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85759
-#EXTINF:-1,DISNEY CHANNEL HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85761
-#EXTINF:-1,DISNEY JUNIOR HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85762
-#EXTINF:-1,CARTOON NETWORK HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85763
-#EXTINF:-1,CANAL PANDA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85764
-#EXTINF:-1,BIGGS HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85765
-#EXTINF:-1,SIC KIDS HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85766
-#EXTINF:-1,BABY TV HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85767
-#EXTINF:-1,NICK JR HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85768
-#EXTINF:-1,NICKELODEON HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85769
-#EXTINF:-1,CMTV HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85771
-#EXTINF:-1,TVI 24 HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85772
-#EXTINF:-1,TVE EUROPE HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85773
-#EXTINF:-1,SIC NOTICIAS HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85774
-#EXTINF:-1,TV GALICIA HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85775
-#EXTINF:-1,EURONEWS HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85776
-#EXTINF:-1,BBC ENTERTAINEMENT HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85777
-#EXTINF:-1,BLOOMBREG EUROPE HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85778
-#EXTINF:-1,CNBC EUROPE HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85779
-#EXTINF:-1,NHK WORLD HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85780
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/195997
+#EXTINF:-1,AMC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/195998
+#EXTINF:-1,BABY TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/195999
+#EXTINF:-1,BIGGS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196000
+#EXTINF:-1,BLOOMBERG
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196001
+#EXTINF:-1,BTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196002
+#EXTINF:-1,CACAVISION
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196003
+#EXTINF:-1,CANAL 11
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196004
+#EXTINF:-1,CANAL 18-1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196005
+#EXTINF:-1,CANAL HISTORIA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196006
+#EXTINF:-1,CANAL Q
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196007
+#EXTINF:-1,CANCAO NOVA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196008
+#EXTINF:-1,CBS REALITY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196009
+#EXTINF:-1,CHELSEA TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196010
+#EXTINF:-1,CINEMUNDO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196011
+#EXTINF:-1,CRIME & INVESTIGATION
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196012
+#EXTINF:-1,DISCOVERY CHANNEL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196013
+#EXTINF:-1,DISNEY CHANNEL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196014
+#EXTINF:-1,DISNEY JUNIOR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196015
+#EXTINF:-1,E! ENTERTAINMENT
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196016
+#EXTINF:-1,ELEVEN SPORTS 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196017
+#EXTINF:-1,ELEVEN SPORTS 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196018
+#EXTINF:-1,ELEVEN SPORTS 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196019
+#EXTINF:-1,ELEVEN SPORTS 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196020
+#EXTINF:-1,ELEVEN SPORTS 5
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196021
+#EXTINF:-1,ELEVEN SPORTS 6
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196022
+#EXTINF:-1,EURO CHANEL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196023
+#EXTINF:-1,EUROSPORT 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196024
+#EXTINF:-1,FASHION TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196025
+#EXTINF:-1,FOX COMEDY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196026
+#EXTINF:-1,FOX MOVIES
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196027
+#EXTINF:-1,FOX News
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196028
+#EXTINF:-1,FUEL TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196029
+#EXTINF:-1,GALICIA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196030
+#EXTINF:-1,GLOBO NOW
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196031
+#EXTINF:-1,GLOBO PREMIUM
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196032
+#EXTINF:-1,GLOBO US
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196033
+#EXTINF:-1,GLOBO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196034
+#EXTINF:-1,HISTORIA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196035
+#EXTINF:-1,HOLLYWOOD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196036
+#EXTINF:-1,KOMBAT SPORT
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196037
+#EXTINF:-1,KOMBAT SPORT
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196038
+#EXTINF:-1,LOCALVISAO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196039
+#EXTINF:-1,MCM POP
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196040
+#EXTINF:-1,MCM
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196041
+#EXTINF:-1,MCS LIFESTYLE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196042
+#EXTINF:-1,MEZZO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196043
+#EXTINF:-1,MOTORVISION
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196044
+#EXTINF:-1,MTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196045
+#EXTINF:-1,MY CUSINE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196046
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196047
+#EXTINF:-1,NICK JR
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196048
+#EXTINF:-1,NICKELODEON
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196049
+#EXTINF:-1,ODISSEIA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196050
+#EXTINF:-1,PANDA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196051
+#EXTINF:-1,PFC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196052
+#EXTINF:-1,PORTO CANAL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196053
+#EXTINF:-1,REAL MADRID TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196054
+#EXTINF:-1,RECORD INTERNATIONAL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196055
+#EXTINF:-1,RTP 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196056
+#EXTINF:-1,RTP 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196057
+#EXTINF:-1,RTP ACORES
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196058
+#EXTINF:-1,RTP MADEIRA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196059
+#EXTINF:-1,RTP MEMORIA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196060
+#EXTINF:-1,RTVE 24H
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196061
+#EXTINF:-1,SIC CARAS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196062
+#EXTINF:-1,SIC KIDS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196063
+#EXTINF:-1,SIC MULHER
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196064
+#EXTINF:-1,SIC NOTICIAS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196065
+#EXTINF:-1,SIC RADICAL
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196066
+#EXTINF:-1,SPORT TV 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196067
+#EXTINF:-1,SPORT TV 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196068
+#EXTINF:-1,SPORT TV 5
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196069
+#EXTINF:-1,SPORTING TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196071
+#EXTINF:-1,TLC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196072
+#EXTINF:-1,TOROS TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196073
+#EXTINF:-1,TPA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196074
+#EXTINF:-1,TV GLOBO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196075
+#EXTINF:-1,TV RECORD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196076
+#EXTINF:-1,TVCINE 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196077
+#EXTINF:-1,TVCINE 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196078
+#EXTINF:-1,TVCINE 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196079
+#EXTINF:-1,TVE Internacional
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196080
+#EXTINF:-1,TVI 24
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196081
+#EXTINF:-1,TVI FICCAO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196082
+#EXTINF:-1,TVI Reality Camara Exclusiva 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196083
+#EXTINF:-1,TVI Reality Camara Exclusiva 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196084
+#EXTINF:-1,TVI Reality Camara Exclusiva 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196085
+#EXTINF:-1,TVI REALITY MOSAICO
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196086
+#EXTINF:-1,TVI REALITY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196087
+#EXTINF:-1,VH1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196088
+#EXTINF:-1,AXN WHITE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196089
+#EXTINF:-1,Benfica TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196090
+#EXTINF:-1,BLAZE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196091
+#EXTINF:-1,CMTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196092
+#EXTINF:-1,EURONEWS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196093
+#EXTINF:-1,FOOD NETWORK
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196094
+#EXTINF:-1,FOX
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196095
+#EXTINF:-1,FOX LIFE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196096
+#EXTINF:-1,FOX MOVIES
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196097
+#EXTINF:-1,FRANCE 24
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196098
+#EXTINF:-1,HOLLYWOOD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196099
+#EXTINF:-1,JIMJAM
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196100
+#EXTINF:-1,MCM TOP
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196101
+#EXTINF:-1,MVM
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196102
+#EXTINF:-1,MÁS CHIC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196103
+#EXTINF:-1,NAT GEO WILD
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196104
+#EXTINF:-1,NOW
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196105
+#EXTINF:-1,PANDA BIGGS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196106
+#EXTINF:-1,RTP 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196107
+#EXTINF:-1,RTP AFRICA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196108
+#EXTINF:-1,SIC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196109
+#EXTINF:-1,SIC K
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196110
+#EXTINF:-1,SPORT TV 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196111
+#EXTINF:-1,SYFY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196112
+#EXTINF:-1,TCV CABO VERDE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196113
+#EXTINF:-1,TOROS TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196114
+#EXTINF:-1,TV CINE 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196115
+#EXTINF:-1,TV CINE 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196116
+#EXTINF:-1,TV CINE 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196117
+#EXTINF:-1,TV CINE 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196118
+#EXTINF:-1,TVI
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196119
+#EXTINF:-1,Benfica TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196120
+#EXTINF:-1,TVI
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196122
+#EXTINF:-1,AXN BLACK
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196124
+#EXTINF:-1,AXN WHITE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196125
+#EXTINF:-1,AXN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196126
+#EXTINF:-1,BENFICA TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196127
+#EXTINF:-1,CANAL 11
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196128
+#EXTINF:-1,FOX CRIME
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196129
+#EXTINF:-1,INVESTIGATION DISCOVERY ID
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196130
+#EXTINF:-1,LUXE TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196131
+#EXTINF:-1,NOS STUDIOS
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196132
+#EXTINF:-1,RTP 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196133
+#EXTINF:-1,SIC
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196134
+#EXTINF:-1,SPORT TV 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196135
+#EXTINF:-1,SPORT TV 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196136
+#EXTINF:-1,SPORT TV NBA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196137
+#EXTINF:-1,SPORTING TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196138
+#EXTINF:-1,FATIMA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196139
+#EXTINF:-1,TVCINE 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196140
+#EXTINF:-1,TVI
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196141
+#EXTINF:-1,SPORT TV+
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196142
+#EXTINF:-1,TVCINE 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196143
+#EXTINF:-1,ZAP VIVA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196144
+#EXTINF:-1,RTP 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196145
+#EXTINF:-1,SIC MULHER
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196146
+#EXTINF:-1,CMTV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196147
+#EXTINF:-1,24 KITCHEN
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196148
+#EXTINF:-1,CACA E PESCA
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196149
+#EXTINF:-1,Discovery Channel
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196150
+#EXTINF:-1,DOG TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196151
+#EXTINF:-1,EUROSPORT 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196152
+#EXTINF:-1,FASHION TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196153
+#EXTINF:-1,FINE LIVING NETWORK
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196154
+#EXTINF:-1,FOX
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196155
+#EXTINF:-1,FOX LIFE
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196156
+#EXTINF:-1,FUEL TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196157
+#EXTINF:-1,NBA TV
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196158
+#EXTINF:-1,SPORT TV 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196159
+#EXTINF:-1,SPORT TV 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196160
+#EXTINF:-1,SPORT TV 5
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196161
+#EXTINF:-1,SYFY
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196162
+#EXTINF:-1,TV CINE 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196163
+#EXTINF:-1,TV Series
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/196164
+#EXTINF:-1,SPORT TV 4
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/28100
+#EXTINF:-1,SPORT TV 3
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/28101
+#EXTINF:-1,SPORT TV 2
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/28102
+#EXTINF:-1,SPORT TV 1
+http://chpflx.ddns.net:25461/4p8nz4IHbt/XiQav66Ya8/28103
