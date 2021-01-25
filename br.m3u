@@ -1,791 +1,233 @@
 #EXTM3U
 #EXTINF:-1,A&E HD
-http://mecanico.tech:8080/zoroastro/123456/91811
-#EXTINF:-1,A&E SD
-http://mecanico.tech:8080/zoroastro/123456/91812
-#EXTINF:-1,All Sports DF
-http://mecanico.tech:8080/zoroastro/123456/91873
-#EXTINF:-1,AMC HD#
-http://mecanico.tech:8080/zoroastro/123456/91813
-#EXTINF:-1,AMC SD
-http://mecanico.tech:8080/zoroastro/123456/91814
-#EXTINF:-1,Animal Planet HD
-http://mecanico.tech:8080/zoroastro/123456/92119
-#EXTINF:-1,Animal Planet SD#
-http://mecanico.tech:8080/zoroastro/123456/92120
-#EXTINF:-1,ARTE 1 HD
-http://mecanico.tech:8080/zoroastro/123456/91815
+http://stream.streamhubtv.xyz:8080/marina/marina/45886
+#EXTINF:-1,AGRO BRASIL SD
+http://stream.streamhubtv.xyz:8080/marina/marina/45888
+#EXTINF:-1,AMC HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45890
+#EXTINF:-1,ANIMAL PLANET HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45892
+#EXTINF:-1,ARTE1 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45894
 #EXTINF:-1,AXN HD
-http://mecanico.tech:8080/zoroastro/123456/91816
-#EXTINF:-1,AXN SD
-http://mecanico.tech:8080/zoroastro/123456/91817
-#EXTINF:-1,BabyTV HD
-http://mecanico.tech:8080/zoroastro/123456/92225
-#EXTINF:-1,BabyTV SD
-http://mecanico.tech:8080/zoroastro/123456/92226
-#EXTINF:-1,Band Campinas SD
-http://mecanico.tech:8080/zoroastro/123456/91949
-#EXTINF:-1,Band News HD
-http://mecanico.tech:8080/zoroastro/123456/92191
-#EXTINF:-1,Band News SD
-http://mecanico.tech:8080/zoroastro/123456/92192
-#EXTINF:-1,Band Nordeste SD
-http://mecanico.tech:8080/zoroastro/123456/91951
-#EXTINF:-1,BAND RJ HD
-http://mecanico.tech:8080/zoroastro/123456/91952
-#EXTINF:-1,BAND RJ SD
-http://mecanico.tech:8080/zoroastro/123456/91953
-#EXTINF:-1,Band SP SD#
-http://mecanico.tech:8080/zoroastro/123456/91955
-#EXTINF:-1,Band Sports HD
-http://mecanico.tech:8080/zoroastro/123456/91874
-#EXTINF:-1,BAND SPORTS SD#
-http://mecanico.tech:8080/zoroastro/123456/91875
-#EXTINF:-1,BIS HD
-http://mecanico.tech:8080/zoroastro/123456/92150
-#EXTINF:-1,BIS SD
-http://mecanico.tech:8080/zoroastro/123456/92151
-#EXTINF:-1,BLOOMBERG TV  HD
-http://mecanico.tech:8080/zoroastro/123456/92193
-#EXTINF:-1,BLOOMBERG TV  SD
-http://mecanico.tech:8080/zoroastro/123456/92194
-#EXTINF:-1,Boomerang HD
-http://mecanico.tech:8080/zoroastro/123456/92227
-#EXTINF:-1,BOOMERANG SD
-http://mecanico.tech:8080/zoroastro/123456/92228
-#EXTINF:-1,Canal 10 Foz do iguçu (Parana)
-http://mecanico.tech:8080/zoroastro/123456/92309
-#EXTINF:-1,Canal Brasil SD
-http://mecanico.tech:8080/zoroastro/123456/92310
-#EXTINF:-1,Canal Promessas (Goias)
-http://mecanico.tech:8080/zoroastro/123456/92311
-#EXTINF:-1,Canção Nova  HD
-http://mecanico.tech:8080/zoroastro/123456/92195
-#EXTINF:-1,Canção Nova SD
-http://mecanico.tech:8080/zoroastro/123456/92196
-#EXTINF:-1,Capital TV
-http://mecanico.tech:8080/zoroastro/123456/92152
-#EXTINF:-1,Cartoon Network HD
-http://mecanico.tech:8080/zoroastro/123456/92229
-#EXTINF:-1,CartoonNetwork  SD
-http://mecanico.tech:8080/zoroastro/123456/92230
-#EXTINF:-1,CBS News hd
-http://mecanico.tech:8080/zoroastro/123456/92197
-#EXTINF:-1,CBS News SD
-http://mecanico.tech:8080/zoroastro/123456/92198
-#EXTINF:-1,CBTV Now
-http://mecanico.tech:8080/zoroastro/123456/92312
-#EXTINF:-1,CCTV
-http://mecanico.tech:8080/zoroastro/123456/92199
-#EXTINF:-1,CCTV Notícias
-http://mecanico.tech:8080/zoroastro/123456/92200
-#EXTINF:-1,Central TV
-http://mecanico.tech:8080/zoroastro/123456/92313
-#EXTINF:-1,Chef TV
-http://mecanico.tech:8080/zoroastro/123456/92153
-#EXTINF:-1,Cinemax HD
-http://mecanico.tech:8080/zoroastro/123456/91818
-#EXTINF:-1,Cinemax SD
-http://mecanico.tech:8080/zoroastro/123456/91819
-#EXTINF:-1,CNN BRASIL FullHD²
-http://mecanico.tech:8080/zoroastro/123456/92201
-#EXTINF:-1,CNN BRASIL HD¹
-http://mecanico.tech:8080/zoroastro/123456/92202
-#EXTINF:-1,CNN Brasil SD
-http://mecanico.tech:8080/zoroastro/123456/92203
-#EXTINF:-1,Combate HD
-http://mecanico.tech:8080/zoroastro/123456/91877
-#EXTINF:-1,Combate SD
-http://mecanico.tech:8080/zoroastro/123456/91878
-#EXTINF:-1,Comedy Central HD
-http://mecanico.tech:8080/zoroastro/123456/92154
-#EXTINF:-1,Comedy Central SD
-http://mecanico.tech:8080/zoroastro/123456/92155
-#EXTINF:-1,CONMEBOL TV 1
-http://mecanico.tech:8080/zoroastro/123456/91879
-#EXTINF:-1,CONMEBOL TV 2
-http://mecanico.tech:8080/zoroastro/123456/91880
-#EXTINF:-1,CONMEBOL TV 3
-http://mecanico.tech:8080/zoroastro/123456/91881
-#EXTINF:-1,CONMEBOL TV 4
-http://mecanico.tech:8080/zoroastro/123456/91882
-#EXTINF:-1,Cultura HD
-http://mecanico.tech:8080/zoroastro/123456/91956
-#EXTINF:-1,Cultura Pará
-http://mecanico.tech:8080/zoroastro/123456/92314
-#EXTINF:-1,Cultura SD
-http://mecanico.tech:8080/zoroastro/123456/91957
-#EXTINF:-1,Curta HD
-http://mecanico.tech:8080/zoroastro/123456/92156
-#EXTINF:-1,Curta! SD
-http://mecanico.tech:8080/zoroastro/123456/92157
-#EXTINF:-1,DAZN 1
-http://mecanico.tech:8080/zoroastro/123456/91883
-#EXTINF:-1,DAZN 2#
-http://mecanico.tech:8080/zoroastro/123456/91884
-#EXTINF:-1,DAZN 3 HD
-http://mecanico.tech:8080/zoroastro/123456/91885
-#EXTINF:-1,DAZN 4
-http://mecanico.tech:8080/zoroastro/123456/91886
-#EXTINF:-1,DAZN BRASIL
-http://mecanico.tech:8080/zoroastro/123456/91887
-#EXTINF:-1,Discovery Channel HD
-http://mecanico.tech:8080/zoroastro/123456/92121
-#EXTINF:-1,Discovery Channel SD#
-http://mecanico.tech:8080/zoroastro/123456/92122
-#EXTINF:-1,Discovery Home & Health HD
-http://mecanico.tech:8080/zoroastro/123456/92123
-#EXTINF:-1,Discovery Home & Health SD
-http://mecanico.tech:8080/zoroastro/123456/92124
-#EXTINF:-1,Discovery ID HD
-http://mecanico.tech:8080/zoroastro/123456/92125
-#EXTINF:-1,Discovery ID SD
-http://mecanico.tech:8080/zoroastro/123456/92126
-#EXTINF:-1,Discovery Kids HD
-http://mecanico.tech:8080/zoroastro/123456/92231
-#EXTINF:-1,Discovery Kids SD
-http://mecanico.tech:8080/zoroastro/123456/92127
-#EXTINF:-1,Discovery Science HD#
-http://mecanico.tech:8080/zoroastro/123456/92128
-#EXTINF:-1,Discovery Science SD
-http://mecanico.tech:8080/zoroastro/123456/92129
-#EXTINF:-1,Discovery Theater HD
-http://mecanico.tech:8080/zoroastro/123456/92130
-#EXTINF:-1,Discovery Theater SD
-http://mecanico.tech:8080/zoroastro/123456/92131
-#EXTINF:-1,Discovery Turbo HD
-http://mecanico.tech:8080/zoroastro/123456/92132
-#EXTINF:-1,Discovery Turbo SD
-http://mecanico.tech:8080/zoroastro/123456/92133
-#EXTINF:-1,Discovery World HD
-http://mecanico.tech:8080/zoroastro/123456/92134
-#EXTINF:-1,Discovery World SD#
-http://mecanico.tech:8080/zoroastro/123456/92135
-#EXTINF:-1,Disney Channel HD
-http://mecanico.tech:8080/zoroastro/123456/92232
-#EXTINF:-1,DISNEY CHANNEL SD
-http://mecanico.tech:8080/zoroastro/123456/92233
-#EXTINF:-1,Disney Junior SD#
-http://mecanico.tech:8080/zoroastro/123456/92234
+http://stream.streamhubtv.xyz:8080/marina/marina/45896
+#EXTINF:-1,BABY TV HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45898
+#EXTINF:-1,BAND HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45900
+#EXTINF:-1,BAND NEWS HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45901
+#EXTINF:-1,BAND SPORTS HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45904
+#EXTINF:-1,CANCAO NOVA HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45916
+#EXTINF:-1,CARTOON NETWORK HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45918
+#EXTINF:-1,CINEMAX HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45922
+#EXTINF:-1,COMBATE FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/45924
+#EXTINF:-1,COMBATE HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45925
+#EXTINF:-1,COMEDY CENTRAL HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45927
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45933
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45935
+#EXTINF:-1,DISCOVERY H&H FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/45937
+#EXTINF:-1,DISCOVERY KIDS HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45940
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45942
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45944
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/45946
+#EXTINF:-1,DISCOVERY WORLD HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45949
+#EXTINF:-1,DISNEY JUNIOR HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45954
 #EXTINF:-1,DISNEY XD HD
-http://mecanico.tech:8080/zoroastro/123456/92235
-#EXTINF:-1,Disney XD SD#
-http://mecanico.tech:8080/zoroastro/123456/92236
-#EXTINF:-1,DisneyJunior HD
-http://mecanico.tech:8080/zoroastro/123456/92237
-#EXTINF:-1,DJing
-http://mecanico.tech:8080/zoroastro/123456/92158
-#EXTINF:-1,DJing Animation
-http://mecanico.tech:8080/zoroastro/123456/92159
+http://stream.streamhubtv.xyz:8080/marina/marina/45956
 #EXTINF:-1,E! HD
-http://mecanico.tech:8080/zoroastro/123456/92160
-#EXTINF:-1,E! SD
-http://mecanico.tech:8080/zoroastro/123456/92161
-#EXTINF:-1,Espn Brasil HD
-http://mecanico.tech:8080/zoroastro/123456/91891
-#EXTINF:-1,Espn Brasil SD
-http://mecanico.tech:8080/zoroastro/123456/91892
-#EXTINF:-1,ESPN EXTRA HD
-http://mecanico.tech:8080/zoroastro/123456/91893
-#EXTINF:-1,ESPN EXTRA SD#
-http://mecanico.tech:8080/zoroastro/123456/91894
+http://stream.streamhubtv.xyz:8080/marina/marina/45958
+#EXTINF:-1,ESPN 2 FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/45960
 #EXTINF:-1,ESPN HD
-http://mecanico.tech:8080/zoroastro/123456/91896
-#EXTINF:-1,ESPN SD
-http://mecanico.tech:8080/zoroastro/123456/91897
-#EXTINF:-1,Espn2  HD
-http://mecanico.tech:8080/zoroastro/123456/91898
-#EXTINF:-1,Espn2  SD
-http://mecanico.tech:8080/zoroastro/123456/91899
-#EXTINF:-1,FashionTV SD
-http://mecanico.tech:8080/zoroastro/123456/92162
-#EXTINF:-1,Film & Arts HD#
-http://mecanico.tech:8080/zoroastro/123456/91820
-#EXTINF:-1,Film & Arts SD#
-http://mecanico.tech:8080/zoroastro/123456/91821
+http://stream.streamhubtv.xyz:8080/marina/marina/45962
+#EXTINF:-1,ESPN EXTRA HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45964
 #EXTINF:-1,FISH TV HD
-http://mecanico.tech:8080/zoroastro/123456/91900
-#EXTINF:-1,FISH TV SD
-http://mecanico.tech:8080/zoroastro/123456/91901
-#EXTINF:-1,Food Network  SD
-http://mecanico.tech:8080/zoroastro/123456/92163
-#EXTINF:-1,Food Network HD
-http://mecanico.tech:8080/zoroastro/123456/92164
+http://stream.streamhubtv.xyz:8080/marina/marina/45969
+#EXTINF:-1,FOOD NETWORK HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45971
 #EXTINF:-1,FOX HD
-http://mecanico.tech:8080/zoroastro/123456/91822
-#EXTINF:-1,FOX HITS
-http://mecanico.tech:8080/zoroastro/123456/92165
-#EXTINF:-1,FOX Life HD
-http://mecanico.tech:8080/zoroastro/123456/91823
-#EXTINF:-1,FOX LIFE SD#
-http://mecanico.tech:8080/zoroastro/123456/91824
-#EXTINF:-1,Fox Premium 1 HD#
-http://mecanico.tech:8080/zoroastro/123456/91825
-#EXTINF:-1,FOX PREMIUM 1 SD#
-http://mecanico.tech:8080/zoroastro/123456/91826
-#EXTINF:-1,Fox Premium 2 HD
-http://mecanico.tech:8080/zoroastro/123456/91827
-#EXTINF:-1,FOX PREMIUM 2 SD
-http://mecanico.tech:8080/zoroastro/123456/91828
-#EXTINF:-1,FOX SD#
-http://mecanico.tech:8080/zoroastro/123456/91829
-#EXTINF:-1,Fox Sports 2 HD
-http://mecanico.tech:8080/zoroastro/123456/91903
-#EXTINF:-1,FOX SPORTS 2 SD
-http://mecanico.tech:8080/zoroastro/123456/91904
-#EXTINF:-1,Fox Sports HD
-http://mecanico.tech:8080/zoroastro/123456/91906
-#EXTINF:-1,FOX SPORTS SD
-http://mecanico.tech:8080/zoroastro/123456/91907
-#EXTINF:-1,Futura HD
-http://mecanico.tech:8080/zoroastro/123456/91958
-#EXTINF:-1,Futura SD
-http://mecanico.tech:8080/zoroastro/123456/91959
-#EXTINF:-1,FX HD#
-http://mecanico.tech:8080/zoroastro/123456/91830
-#EXTINF:-1,FX SD
-http://mecanico.tech:8080/zoroastro/123456/91831
-#EXTINF:-1,Globo Anhanguera Goiania SD
-http://mecanico.tech:8080/zoroastro/123456/92072
-#EXTINF:-1,Globo Centro America SD
-http://mecanico.tech:8080/zoroastro/123456/92073
-#EXTINF:-1,Globo DF SD
-http://mecanico.tech:8080/zoroastro/123456/92074
-#EXTINF:-1,Globo EPTV Campinas HD
-http://mecanico.tech:8080/zoroastro/123456/92075
-#EXTINF:-1,Globo EPTV Campinas SD
-http://mecanico.tech:8080/zoroastro/123456/92076
-#EXTINF:-1,Globo EPTV Ribeirão Preto SD
-http://mecanico.tech:8080/zoroastro/123456/92077
-#EXTINF:-1,Globo EPTV Sao Carlos SD
-http://mecanico.tech:8080/zoroastro/123456/92078
-#EXTINF:-1,Globo ES HD¹
-http://mecanico.tech:8080/zoroastro/123456/92079
-#EXTINF:-1,GLOBO ES SD
-http://mecanico.tech:8080/zoroastro/123456/92080
-#EXTINF:-1,Globo INTER TV Cabugi RN SD
-http://mecanico.tech:8080/zoroastro/123456/92081
-#EXTINF:-1,Globo Internacional SD
-http://mecanico.tech:8080/zoroastro/123456/92082
-#EXTINF:-1,Globo InterTV Alto Litoral HD
-http://mecanico.tech:8080/zoroastro/123456/92083
-#EXTINF:-1,Globo InterTV Serra Mar SD
-http://mecanico.tech:8080/zoroastro/123456/92084
-#EXTINF:-1,Globo Itapetininga SD#
-http://mecanico.tech:8080/zoroastro/123456/92085
-#EXTINF:-1,Globo Manaus HD
-http://mecanico.tech:8080/zoroastro/123456/92086
-#EXTINF:-1,GLOBO MG HD
-http://mecanico.tech:8080/zoroastro/123456/92087
-#EXTINF:-1,GLOBO MG SD
-http://mecanico.tech:8080/zoroastro/123456/92088
-#EXTINF:-1,GLOBO NEWS HD#
-http://mecanico.tech:8080/zoroastro/123456/92204
-#EXTINF:-1,Globo News SD
-http://mecanico.tech:8080/zoroastro/123456/92205
-#EXTINF:-1,Globo Nordeste HD
-http://mecanico.tech:8080/zoroastro/123456/92089
-#EXTINF:-1,Globo Nordeste SD
-http://mecanico.tech:8080/zoroastro/123456/92090
-#EXTINF:-1,Globo NSC Blumenau SD#
-http://mecanico.tech:8080/zoroastro/123456/92091
-#EXTINF:-1,Globo NSC Florianopolis HD
-http://mecanico.tech:8080/zoroastro/123456/92092
-#EXTINF:-1,Globo RBS Porto Alegre SD
-http://mecanico.tech:8080/zoroastro/123456/92093
-#EXTINF:-1,Globo RBS TV Pelotas HD
-http://mecanico.tech:8080/zoroastro/123456/92094
-#EXTINF:-1,GLOBO RJ HD
-http://mecanico.tech:8080/zoroastro/123456/92096
-#EXTINF:-1,GLOBO RJ SD
-http://mecanico.tech:8080/zoroastro/123456/92097
-#EXTINF:-1,Globo RPC TV HD¹
-http://mecanico.tech:8080/zoroastro/123456/92099
-#EXTINF:-1,Globo RPC TV SD¹
-http://mecanico.tech:8080/zoroastro/123456/92100
-#EXTINF:-1,Globo Sergipe
-http://mecanico.tech:8080/zoroastro/123456/92101
-#EXTINF:-1,GLOBO SP HD
-http://mecanico.tech:8080/zoroastro/123456/92102
-#EXTINF:-1,Globo SP SD
-http://mecanico.tech:8080/zoroastro/123456/92103
-#EXTINF:-1,Globo TV Bahia HD
-http://mecanico.tech:8080/zoroastro/123456/92105
-#EXTINF:-1,Globo TV Bahia SD
-http://mecanico.tech:8080/zoroastro/123456/92106
-#EXTINF:-1,Globo TV Belem
-http://mecanico.tech:8080/zoroastro/123456/92107
-#EXTINF:-1,Globo TV Diario SD
-http://mecanico.tech:8080/zoroastro/123456/92108
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-http://mecanico.tech:8080/zoroastro/123456/92109
-#EXTINF:-1,Globo TV Mirante SD
-http://mecanico.tech:8080/zoroastro/123456/92110
-#EXTINF:-1,Globo TV Morena SD
-http://mecanico.tech:8080/zoroastro/123456/92111
-#EXTINF:-1,Globo TV Tem Bauru SD#
-http://mecanico.tech:8080/zoroastro/123456/92112
-#EXTINF:-1,Globo TV Tem Sorocaba SD
-http://mecanico.tech:8080/zoroastro/123456/92113
-#EXTINF:-1,Globo TV Tribuna Santos SD
-http://mecanico.tech:8080/zoroastro/123456/92114
-#EXTINF:-1,Globo TV Vanguarda SD
-http://mecanico.tech:8080/zoroastro/123456/92115
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
-http://mecanico.tech:8080/zoroastro/123456/92116
-#EXTINF:-1,Gloob HD
-http://mecanico.tech:8080/zoroastro/123456/92238
-#EXTINF:-1,Gloob SD
-http://mecanico.tech:8080/zoroastro/123456/92239
-#EXTINF:-1,Gloobinho HD¹
-http://mecanico.tech:8080/zoroastro/123456/92240
-#EXTINF:-1,Gloobinho SD#
-http://mecanico.tech:8080/zoroastro/123456/92241
+http://stream.streamhubtv.xyz:8080/marina/marina/45973
+#EXTINF:-1,FOX LIFE HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45974
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45977
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45978
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/45980
+#EXTINF:-1,FOX SPORTS FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/45983
+#EXTINF:-1,FX HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45987
+#EXTINF:-1,GLOBO HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45989
+#EXTINF:-1,GLOBO MINAS
+http://stream.streamhubtv.xyz:8080/marina/marina/45990
+#EXTINF:-1,GLOBO NEWS HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45991
+#EXTINF:-1,GLOBO NOW HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45992
+#EXTINF:-1,GLOOB HD
+http://stream.streamhubtv.xyz:8080/marina/marina/45993
 #EXTINF:-1,GNT HD
-http://mecanico.tech:8080/zoroastro/123456/92166
-#EXTINF:-1,GNT SD
-http://mecanico.tech:8080/zoroastro/123456/92167
+http://stream.streamhubtv.xyz:8080/marina/marina/45995
 #EXTINF:-1,H2 HD
-http://mecanico.tech:8080/zoroastro/123456/92136
-#EXTINF:-1,H2 SD
-http://mecanico.tech:8080/zoroastro/123456/92137
-#EXTINF:-1,HBO 2 HD
-http://mecanico.tech:8080/zoroastro/123456/91857
-#EXTINF:-1,HBO 2 SD
-http://mecanico.tech:8080/zoroastro/123456/91858
-#EXTINF:-1,HBO EXTREME HD
-http://mecanico.tech:8080/zoroastro/123456/91859
-#EXTINF:-1,HBO Extreme SD
-http://mecanico.tech:8080/zoroastro/123456/91860
-#EXTINF:-1,HBO Family HD
-http://mecanico.tech:8080/zoroastro/123456/91861
-#EXTINF:-1,HBO FAMILY SD
-http://mecanico.tech:8080/zoroastro/123456/91862
+http://stream.streamhubtv.xyz:8080/marina/marina/45998
+#EXTINF:-1,HBO 2 FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/46000
+#EXTINF:-1,HBO FAMILY HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46003
 #EXTINF:-1,HBO HD
-http://mecanico.tech:8080/zoroastro/123456/91863
-#EXTINF:-1,HBO Mundi HD
-http://mecanico.tech:8080/zoroastro/123456/91864
-#EXTINF:-1,HBO Mundi SD
-http://mecanico.tech:8080/zoroastro/123456/91865
-#EXTINF:-1,HBO Plus HD
-http://mecanico.tech:8080/zoroastro/123456/91866
-#EXTINF:-1,HBO Plus SD#
-http://mecanico.tech:8080/zoroastro/123456/91867
-#EXTINF:-1,HBO POP  HD
-http://mecanico.tech:8080/zoroastro/123456/91868
-#EXTINF:-1,HBO POP SD
-http://mecanico.tech:8080/zoroastro/123456/91869
-#EXTINF:-1,HBO SD
-http://mecanico.tech:8080/zoroastro/123456/91870
-#EXTINF:-1,HBO SIGNATURE  HD
-http://mecanico.tech:8080/zoroastro/123456/91871
-#EXTINF:-1,HBO Signature SD
-http://mecanico.tech:8080/zoroastro/123456/91872
+http://stream.streamhubtv.xyz:8080/marina/marina/46006
+#EXTINF:-1,HBO MUNDI HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46007
+#EXTINF:-1,HBO PLUS HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46010
+#EXTINF:-1,HBO POP HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46012
+#EXTINF:-1,HBO SIGNATURE HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46015
+#EXTINF:-1,HBO XTREME HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46016
 #EXTINF:-1,HGTV HD
-http://mecanico.tech:8080/zoroastro/123456/92138
-#EXTINF:-1,HGTV SD
-http://mecanico.tech:8080/zoroastro/123456/92139
-#EXTINF:-1,History Channel HD
-http://mecanico.tech:8080/zoroastro/123456/92140
-#EXTINF:-1,History channel SD
-http://mecanico.tech:8080/zoroastro/123456/92141
-#EXTINF:-1,ITV - Canal Itu Tv SP SD
-http://mecanico.tech:8080/zoroastro/123456/92315
-#EXTINF:-1,Japi TV (Sao Paulo)
-http://mecanico.tech:8080/zoroastro/123456/92316
-#EXTINF:-1,Kuriakos Kids
-http://mecanico.tech:8080/zoroastro/123456/92242
-#EXTINF:-1,Lifetime HD
-http://mecanico.tech:8080/zoroastro/123456/92168
-#EXTINF:-1,Lifetime SD
-http://mecanico.tech:8080/zoroastro/123456/92169
-#EXTINF:-1,Mais Globosat HD
-http://mecanico.tech:8080/zoroastro/123456/92170
-#EXTINF:-1,Mais Globosat SD
-http://mecanico.tech:8080/zoroastro/123456/92171
+http://stream.streamhubtv.xyz:8080/marina/marina/46018
+#EXTINF:-1,HISTORY CHANNEL HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46019
+#EXTINF:-1,ID INVESTIGACAO FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/46021
+#EXTINF:-1,LIFETIME HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46023
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46025
 #EXTINF:-1,MEGAPIX HD
-http://mecanico.tech:8080/zoroastro/123456/91832
-#EXTINF:-1,Megapix SD
-http://mecanico.tech:8080/zoroastro/123456/91833
-#EXTINF:-1,MTV Clipes
-http://mecanico.tech:8080/zoroastro/123456/92172
+http://stream.streamhubtv.xyz:8080/marina/marina/46026
 #EXTINF:-1,MTV HD
-http://mecanico.tech:8080/zoroastro/123456/92173
-#EXTINF:-1,MTV SD
-http://mecanico.tech:8080/zoroastro/123456/92174
-#EXTINF:-1,Multishow HD
-http://mecanico.tech:8080/zoroastro/123456/92175
-#EXTINF:-1,MULTISHOW SD
-http://mecanico.tech:8080/zoroastro/123456/92176
-#EXTINF:-1,Music Top
-http://mecanico.tech:8080/zoroastro/123456/92177
-#EXTINF:-1,Nat Geo Kids HD
-http://mecanico.tech:8080/zoroastro/123456/92142
-#EXTINF:-1,NAT GEO KIDS SD#
-http://mecanico.tech:8080/zoroastro/123456/92243
-#EXTINF:-1,Nat Geo WILD SD
-http://mecanico.tech:8080/zoroastro/123456/92143
-#EXTINF:-1,NatGeo HD¹
-http://mecanico.tech:8080/zoroastro/123456/92144
-#EXTINF:-1,NatGeo SD
-http://mecanico.tech:8080/zoroastro/123456/92145
-#EXTINF:-1,NatGeo Wild HD
-http://mecanico.tech:8080/zoroastro/123456/92146
-#EXTINF:-1,NHK Japan
-http://mecanico.tech:8080/zoroastro/123456/92206
-#EXTINF:-1,Nick Jr HD
-http://mecanico.tech:8080/zoroastro/123456/92244
-#EXTINF:-1,NICK JR SD
-http://mecanico.tech:8080/zoroastro/123456/92245
-#EXTINF:-1,Nickelodeon HD
-http://mecanico.tech:8080/zoroastro/123456/92246
-#EXTINF:-1,Nickelodeon SD
-http://mecanico.tech:8080/zoroastro/123456/92247
+http://stream.streamhubtv.xyz:8080/marina/marina/46027
+#EXTINF:-1,MULTISHOW HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46028
+#EXTINF:-1,NATGEO WILD HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46032
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46033
+#EXTINF:-1,NICK JR. HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46034
+#EXTINF:-1,NICKELODEON HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46035
 #EXTINF:-1,OFF HD
-http://mecanico.tech:8080/zoroastro/123456/91910
-#EXTINF:-1,Pai Eterno SD
-http://mecanico.tech:8080/zoroastro/123456/92213
-#EXTINF:-1,Paramount Channel HD
-http://mecanico.tech:8080/zoroastro/123456/91834
-#EXTINF:-1,Paramount Channel SD
-http://mecanico.tech:8080/zoroastro/123456/91835
-#EXTINF:-1,Premiere 1 SD#
-http://mecanico.tech:8080/zoroastro/123456/91911
-#EXTINF:-1,Premiere 2 FullHD¹(H.265)
-http://mecanico.tech:8080/zoroastro/123456/91912
-#EXTINF:-1,Premiere 2 HD#
-http://mecanico.tech:8080/zoroastro/123456/91913
-#EXTINF:-1,Premiere 2 SD
-http://mecanico.tech:8080/zoroastro/123456/91914
-#EXTINF:-1,Premiere 3 FullHD¹(H.265)
-http://mecanico.tech:8080/zoroastro/123456/91915
-#EXTINF:-1,Premiere 3 HD#
-http://mecanico.tech:8080/zoroastro/123456/91916
-#EXTINF:-1,PREMIERE 3 SD
-http://mecanico.tech:8080/zoroastro/123456/91917
-#EXTINF:-1,Premiere 4 FullHD¹(H.265)
-http://mecanico.tech:8080/zoroastro/123456/91918
-#EXTINF:-1,Premiere 4 HD
-http://mecanico.tech:8080/zoroastro/123456/91919
-#EXTINF:-1,Premiere 4 SD
-http://mecanico.tech:8080/zoroastro/123456/91920
-#EXTINF:-1,Premiere 5 FullHD¹(H.265)
-http://mecanico.tech:8080/zoroastro/123456/91921
+http://stream.streamhubtv.xyz:8080/marina/marina/46036
+#EXTINF:-1,PARAMOUNT HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46037
+#EXTINF:-1,PREMIERE 2 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46038
+#EXTINF:-1,PREMIERE 3 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46040
+#EXTINF:-1,PREMIERE 4 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46042
 #EXTINF:-1,PREMIERE 5 HD
-http://mecanico.tech:8080/zoroastro/123456/91922
-#EXTINF:-1,Premiere 5 SD
-http://mecanico.tech:8080/zoroastro/123456/91923
-#EXTINF:-1,Premiere 6 FullHD¹(H.265)
-http://mecanico.tech:8080/zoroastro/123456/91924
-#EXTINF:-1,Premiere 6 HD
-http://mecanico.tech:8080/zoroastro/123456/91925
-#EXTINF:-1,Premiere 6 SD
-http://mecanico.tech:8080/zoroastro/123456/91926
-#EXTINF:-1,Premiere 7 HD#
-http://mecanico.tech:8080/zoroastro/123456/91927
-#EXTINF:-1,Premiere 7 SD
-http://mecanico.tech:8080/zoroastro/123456/91928
-#EXTINF:-1,PREMIERE 8 HD
-http://mecanico.tech:8080/zoroastro/123456/91929
-#EXTINF:-1,Premiere 8 SD
-http://mecanico.tech:8080/zoroastro/123456/91930
-#EXTINF:-1,PREMIERE 9 HD
-http://mecanico.tech:8080/zoroastro/123456/91931
-#EXTINF:-1,Premiere Clubes FullHD¹(H.265)
-http://mecanico.tech:8080/zoroastro/123456/91932
-#EXTINF:-1,Premiere Clubes HD
-http://mecanico.tech:8080/zoroastro/123456/91933
-#EXTINF:-1,Premiere Clubes SD
-http://mecanico.tech:8080/zoroastro/123456/91934
-#EXTINF:-1,Prime Box Brazil HD
-http://mecanico.tech:8080/zoroastro/123456/92178
-#EXTINF:-1,Radio U Music Clips
-http://mecanico.tech:8080/zoroastro/123456/92179
-#EXTINF:-1,Record  Itapoan HD#
-http://mecanico.tech:8080/zoroastro/123456/91960
-#EXTINF:-1,RECORD BA HD
-http://mecanico.tech:8080/zoroastro/123456/91961
-#EXTINF:-1,RECORD BA SD
-http://mecanico.tech:8080/zoroastro/123456/91962
-#EXTINF:-1,Record Campinas HD
-http://mecanico.tech:8080/zoroastro/123456/91963
-#EXTINF:-1,Record Campinas SD
-http://mecanico.tech:8080/zoroastro/123456/91964
-#EXTINF:-1,Record DF HD
-http://mecanico.tech:8080/zoroastro/123456/91965
-#EXTINF:-1,Record DF SD
-http://mecanico.tech:8080/zoroastro/123456/91966
-#EXTINF:-1,Record Goias (Goiania)
-http://mecanico.tech:8080/zoroastro/123456/91967
-#EXTINF:-1,Record Goias SD (TV Sucesso-Jatai-go)
-http://mecanico.tech:8080/zoroastro/123456/91968
-#EXTINF:-1,Record Itapoan SD
-http://mecanico.tech:8080/zoroastro/123456/91970
-#EXTINF:-1,Record Manaus HD#
-http://mecanico.tech:8080/zoroastro/123456/91971
-#EXTINF:-1,Record MG HD
-http://mecanico.tech:8080/zoroastro/123456/91972
-#EXTINF:-1,Record News HD
-http://mecanico.tech:8080/zoroastro/123456/92207
-#EXTINF:-1,Record News SD
-http://mecanico.tech:8080/zoroastro/123456/92208
-#EXTINF:-1,Record Nordeste HD
-http://mecanico.tech:8080/zoroastro/123456/91936
-#EXTINF:-1,Record PA HD
-http://mecanico.tech:8080/zoroastro/123456/91973
-#EXTINF:-1,Record RJ HD
-http://mecanico.tech:8080/zoroastro/123456/91974
-#EXTINF:-1,Record RJ SD
-http://mecanico.tech:8080/zoroastro/123456/91975
-#EXTINF:-1,RECORD RS HD#
-http://mecanico.tech:8080/zoroastro/123456/91976
-#EXTINF:-1,Record RS SD
-http://mecanico.tech:8080/zoroastro/123456/91977
-#EXTINF:-1,Record SP HD
-http://mecanico.tech:8080/zoroastro/123456/91978
-#EXTINF:-1,Record SP SD
-http://mecanico.tech:8080/zoroastro/123456/91979
-#EXTINF:-1,Record TV Vitoria SD#
-http://mecanico.tech:8080/zoroastro/123456/91980
-#EXTINF:-1,Red Bull TV OPÇÃO 1
-http://mecanico.tech:8080/zoroastro/123456/91937
-#EXTINF:-1,Red Bull TV OPÇÃO 2
-http://mecanico.tech:8080/zoroastro/123456/91938
-#EXTINF:-1,Rede Brasil SD
-http://mecanico.tech:8080/zoroastro/123456/92317
-#EXTINF:-1,Rede Caxias (Rio de Janeiro)
-http://mecanico.tech:8080/zoroastro/123456/92318
-#EXTINF:-1,Rede Metropolitana (Minas Gerais)
-http://mecanico.tech:8080/zoroastro/123456/92319
-#EXTINF:-1,REDE MINAS
-http://mecanico.tech:8080/zoroastro/123456/92320
-#EXTINF:-1,Rede Premium
-http://mecanico.tech:8080/zoroastro/123456/92321
-#EXTINF:-1,Rede Super HD
-http://mecanico.tech:8080/zoroastro/123456/92214
-#EXTINF:-1,Rede Super SD
-http://mecanico.tech:8080/zoroastro/123456/92215
-#EXTINF:-1,Rede TV Sul (Santa Catarina)
-http://mecanico.tech:8080/zoroastro/123456/92322
-#EXTINF:-1,Rede Vida HD
-http://mecanico.tech:8080/zoroastro/123456/92216
-#EXTINF:-1,Rede Vida SD
-http://mecanico.tech:8080/zoroastro/123456/92217
-#EXTINF:-1,RedeTV HD
-http://mecanico.tech:8080/zoroastro/123456/91981
-#EXTINF:-1,RedeTV SD
-http://mecanico.tech:8080/zoroastro/123456/91982
-#EXTINF:-1,Retro Cartoon 2
-http://mecanico.tech:8080/zoroastro/123456/92249
-#EXTINF:-1,RETRO MUSIC HD
-http://mecanico.tech:8080/zoroastro/123456/92180
-#EXTINF:-1,Retrô Cartoon
-http://mecanico.tech:8080/zoroastro/123456/92250
-#EXTINF:-1,Rock TV
-http://mecanico.tech:8080/zoroastro/123456/92181
-#EXTINF:-1,SBT Goias HD
-http://mecanico.tech:8080/zoroastro/123456/91983
-#EXTINF:-1,SBT Nordeste HD#
-http://mecanico.tech:8080/zoroastro/123456/91984
+http://stream.streamhubtv.xyz:8080/marina/marina/46044
+#EXTINF:-1,PREMIERE 6 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46046
+#EXTINF:-1,PREMIERE 7 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46048
+#EXTINF:-1,PREMIERE CLUBES HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46050
+#EXTINF:-1,RECORD HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46052
+#EXTINF:-1,RECORD NEWS HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46053
+#EXTINF:-1,REDBULL TV HD II
+http://stream.streamhubtv.xyz:8080/marina/marina/46054
+#EXTINF:-1,REDETV!
+http://stream.streamhubtv.xyz:8080/marina/marina/46056
+#EXTINF:-1,SBT HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46059
 #EXTINF:-1,SBT RJ HD
-http://mecanico.tech:8080/zoroastro/123456/91985
-#EXTINF:-1,SBT SD
-http://mecanico.tech:8080/zoroastro/123456/91987
-#EXTINF:-1,SBT SP HD#
-http://mecanico.tech:8080/zoroastro/123456/91988
-#EXTINF:-1,SBT SP SD#
-http://mecanico.tech:8080/zoroastro/123456/91989
-#EXTINF:-1,SBT TV Cidade Verde Piaui SD
-http://mecanico.tech:8080/zoroastro/123456/91990
-#EXTINF:-1,SBT TV Jornal Pernambuco SD
-http://mecanico.tech:8080/zoroastro/123456/91991
-#EXTINF:-1,Sexy KpopTV
-http://mecanico.tech:8080/zoroastro/123456/92182
-#EXTINF:-1,Sony HD
-http://mecanico.tech:8080/zoroastro/123456/91836
-#EXTINF:-1,Sony SD
-http://mecanico.tech:8080/zoroastro/123456/91837
-#EXTINF:-1,Space HD#
-http://mecanico.tech:8080/zoroastro/123456/91838
-#EXTINF:-1,Space SD
-http://mecanico.tech:8080/zoroastro/123456/91839
-#EXTINF:-1,SporTV 2 HD
-http://mecanico.tech:8080/zoroastro/123456/91940
-#EXTINF:-1,SporTV 2 SD
-http://mecanico.tech:8080/zoroastro/123456/91941
-#EXTINF:-1,SporTV 3 HD#
-http://mecanico.tech:8080/zoroastro/123456/91943
-#EXTINF:-1,SporTV 3 SD
-http://mecanico.tech:8080/zoroastro/123456/91944
-#EXTINF:-1,SPORTV HD
-http://mecanico.tech:8080/zoroastro/123456/91946
-#EXTINF:-1,SporTV SD
-http://mecanico.tech:8080/zoroastro/123456/91947
-#EXTINF:-1,Studio Universal HD#
-http://mecanico.tech:8080/zoroastro/123456/91840
-#EXTINF:-1,Studio Universal SD
-http://mecanico.tech:8080/zoroastro/123456/91841
-#EXTINF:-1,SUMMER TV SP
-http://mecanico.tech:8080/zoroastro/123456/92323
-#EXTINF:-1,Syfy HD#
-http://mecanico.tech:8080/zoroastro/123456/91842
-#EXTINF:-1,Syfy SD#
-http://mecanico.tech:8080/zoroastro/123456/91843
-#EXTINF:-1,TBS HD#
-http://mecanico.tech:8080/zoroastro/123456/91844
-#EXTINF:-1,TBS SD
-http://mecanico.tech:8080/zoroastro/123456/91845
-#EXTINF:-1,TCM HD
-http://mecanico.tech:8080/zoroastro/123456/91846
-#EXTINF:-1,TCM SD
-http://mecanico.tech:8080/zoroastro/123456/91847
-#EXTINF:-1,Telecine Action HD
-http://mecanico.tech:8080/zoroastro/123456/91799
-#EXTINF:-1,TELECINE ACTION SD
-http://mecanico.tech:8080/zoroastro/123456/91800
-#EXTINF:-1,Telecine Cult HD
-http://mecanico.tech:8080/zoroastro/123456/91801
-#EXTINF:-1,TELECINE CULT SD
-http://mecanico.tech:8080/zoroastro/123456/91802
-#EXTINF:-1,TELECINE FUN HD#
-http://mecanico.tech:8080/zoroastro/123456/91803
-#EXTINF:-1,Telecine Fun SD#
-http://mecanico.tech:8080/zoroastro/123456/91804
-#EXTINF:-1,Telecine Pipoca HD
-http://mecanico.tech:8080/zoroastro/123456/91805
-#EXTINF:-1,Telecine Pipoca SD
-http://mecanico.tech:8080/zoroastro/123456/91806
-#EXTINF:-1,Telecine Premium HD
-http://mecanico.tech:8080/zoroastro/123456/91807
-#EXTINF:-1,Telecine Premium SD
-http://mecanico.tech:8080/zoroastro/123456/91808
+http://stream.streamhubtv.xyz:8080/marina/marina/46061
+#EXTINF:-1,SBT SP HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46062
+#EXTINF:-1,SPORT TV 1
+http://stream.streamhubtv.xyz:8080/marina/marina/46066
+#EXTINF:-1,SPORTV 2 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46067
+#EXTINF:-1,SPORT TV 3 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46068
+#EXTINF:-1,SYFY HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46070
+#EXTINF:-1,TBS HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46071
+#EXTINF:-1,TCM
+http://stream.streamhubtv.xyz:8080/marina/marina/46072
+#EXTINF:-1,TELECINE ACTION HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46073
+#EXTINF:-1,TELECINE CULT HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46074
+#EXTINF:-1,TELECINE FUN HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46075
+#EXTINF:-1,TELECINE PIPOCA HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46076
+#EXTINF:-1,TELECINE PREMIUM HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46077
 #EXTINF:-1,TELECINE TOUCH HD
-http://mecanico.tech:8080/zoroastro/123456/91809
-#EXTINF:-1,Telecine Touch SD
-http://mecanico.tech:8080/zoroastro/123456/91810
-#EXTINF:-1,TLC HD#
-http://mecanico.tech:8080/zoroastro/123456/92147
-#EXTINF:-1,TLC SD
-http://mecanico.tech:8080/zoroastro/123456/92148
+http://stream.streamhubtv.xyz:8080/marina/marina/46078
+#EXTINF:-1,TLC HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46079
 #EXTINF:-1,TNT HD
-http://mecanico.tech:8080/zoroastro/123456/91848
-#EXTINF:-1,TNT SD
-http://mecanico.tech:8080/zoroastro/123456/91849
-#EXTINF:-1,TNT Series HD
-http://mecanico.tech:8080/zoroastro/123456/91850
-#EXTINF:-1,TNT SERIES SD
-http://mecanico.tech:8080/zoroastro/123456/91851
-#EXTINF:-1,Tooncast HD
-http://mecanico.tech:8080/zoroastro/123456/92251
-#EXTINF:-1,Tooncast SD
-http://mecanico.tech:8080/zoroastro/123456/92252
-#EXTINF:-1,Top Latino TV
-http://mecanico.tech:8080/zoroastro/123456/92183
-#EXTINF:-1,TRUTV
-http://mecanico.tech:8080/zoroastro/123456/92184
-#EXTINF:-1,TV Alternativa (TV Gazeta Maranhao)
-http://mecanico.tech:8080/zoroastro/123456/92324
-#EXTINF:-1,TV Aparecida SD
-http://mecanico.tech:8080/zoroastro/123456/92219
-#EXTINF:-1,TV Aracati (ceara)
-http://mecanico.tech:8080/zoroastro/123456/92325
-#EXTINF:-1,Tv Assembleia Ceara SD
-http://mecanico.tech:8080/zoroastro/123456/92326
-#EXTINF:-1,TV Birigui
-http://mecanico.tech:8080/zoroastro/123456/92327
-#EXTINF:-1,TV Brasil  (Distrito Federal)
-http://mecanico.tech:8080/zoroastro/123456/92328
-#EXTINF:-1,TV Brusque (SC)
-http://mecanico.tech:8080/zoroastro/123456/92329
-#EXTINF:-1,TV Camara (Distrito Federal)
-http://mecanico.tech:8080/zoroastro/123456/91992
-#EXTINF:-1,Tv Capital 777 SP SD
-http://mecanico.tech:8080/zoroastro/123456/92330
-#EXTINF:-1,TV Carioca
-http://mecanico.tech:8080/zoroastro/123456/92331
-#EXTINF:-1,TV Caruaru (Pernambuco)
-http://mecanico.tech:8080/zoroastro/123456/92332
-#EXTINF:-1,TV COM BRASIL
-http://mecanico.tech:8080/zoroastro/123456/92333
-#EXTINF:-1,TV CULTURA BA HD
-http://mecanico.tech:8080/zoroastro/123456/91993
-#EXTINF:-1,TV Destak
-http://mecanico.tech:8080/zoroastro/123456/92334
-#EXTINF:-1,Tv Destak SP SD
-http://mecanico.tech:8080/zoroastro/123456/92335
-#EXTINF:-1,TV Diário do Sertão
-http://mecanico.tech:8080/zoroastro/123456/92336
-#EXTINF:-1,TV El Shaday (Bahia)
-http://mecanico.tech:8080/zoroastro/123456/92337
-#EXTINF:-1,TV EParana (Cultura PR)
-http://mecanico.tech:8080/zoroastro/123456/91994
-#EXTINF:-1,TV EVANGELIZAR HD
-http://mecanico.tech:8080/zoroastro/123456/92220
-#EXTINF:-1,TV EVANGELIZAR SD
-http://mecanico.tech:8080/zoroastro/123456/92221
-#EXTINF:-1,TV Faap
-http://mecanico.tech:8080/zoroastro/123456/92338
-#EXTINF:-1,TV Gazeta HD
-http://mecanico.tech:8080/zoroastro/123456/91995
-#EXTINF:-1,TV Gazeta SD
-http://mecanico.tech:8080/zoroastro/123456/91996
-#EXTINF:-1,TV Jornal do Nordeste Paraiba)
-http://mecanico.tech:8080/zoroastro/123456/92339
-#EXTINF:-1,TV Liberdade
-http://mecanico.tech:8080/zoroastro/123456/92340
-#EXTINF:-1,TV Liberdade swap
-http://mecanico.tech:8080/zoroastro/123456/92341
-#EXTINF:-1,TV Maceio
-http://mecanico.tech:8080/zoroastro/123456/92342
-#EXTINF:-1,TV Manchete
-http://mecanico.tech:8080/zoroastro/123456/92343
-#EXTINF:-1,TV MAX
-http://mecanico.tech:8080/zoroastro/123456/92344
-#EXTINF:-1,TV Metrópole
-http://mecanico.tech:8080/zoroastro/123456/92345
-#EXTINF:-1,TV Mon
-http://mecanico.tech:8080/zoroastro/123456/92346
-#EXTINF:-1,TV Natal (Rio Grande do Norte)
-http://mecanico.tech:8080/zoroastro/123456/92347
-#EXTINF:-1,TV Novo Tempo SD
-http://mecanico.tech:8080/zoroastro/123456/92222
-#EXTINF:-1,TV Osasco (Sao Paulo)
-http://mecanico.tech:8080/zoroastro/123456/92348
-#EXTINF:-1,TV Ponta da Serra
-http://mecanico.tech:8080/zoroastro/123456/92185
-#EXTINF:-1,TV Ponta da Serra (Rio Grande do Sul)
-http://mecanico.tech:8080/zoroastro/123456/92349
-#EXTINF:-1,TV Poços (Minas Gerais)
-http://mecanico.tech:8080/zoroastro/123456/92350
-#EXTINF:-1,TV Santa Cecília (SP)
-http://mecanico.tech:8080/zoroastro/123456/92351
-#EXTINF:-1,TV Serra Verde
-http://mecanico.tech:8080/zoroastro/123456/92352
-#EXTINF:-1,TV Serra Verde (Ceara)
-http://mecanico.tech:8080/zoroastro/123456/92353
-#EXTINF:-1,TV Sol (Paraiba)
-http://mecanico.tech:8080/zoroastro/123456/92354
-#EXTINF:-1,TV Terceiro Anjo
-http://mecanico.tech:8080/zoroastro/123456/92223
-#EXTINF:-1,TV Universal HD
-http://mecanico.tech:8080/zoroastro/123456/91852
-#EXTINF:-1,TV Universal SD
-http://mecanico.tech:8080/zoroastro/123456/92224
-#EXTINF:-1,TV Urbana (Rio Grande do Sul)
-http://mecanico.tech:8080/zoroastro/123456/92355
-#EXTINF:-1,TV Verdes Campos SAT (Piaui)
-http://mecanico.tech:8080/zoroastro/123456/92356
-#EXTINF:-1,TV Vila Velha
-http://mecanico.tech:8080/zoroastro/123456/92357
-#EXTINF:-1,TV Vitoria (Pernambuco)
-http://mecanico.tech:8080/zoroastro/123456/92358
-#EXTINF:-1,TV Zoom
-http://mecanico.tech:8080/zoroastro/123456/92359
-#EXTINF:-1,TVC 16 (Rio de Janeiro)
-http://mecanico.tech:8080/zoroastro/123456/92360
-#EXTINF:-1,TVE (Bahia)
-http://mecanico.tech:8080/zoroastro/123456/92361
-#EXTINF:-1,TVE BA HD
-http://mecanico.tech:8080/zoroastro/123456/92362
-#EXTINF:-1,TVE RS
-http://mecanico.tech:8080/zoroastro/123456/92363
+http://stream.streamhubtv.xyz:8080/marina/marina/46081
+#EXTINF:-1,TNT SERIES FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/46083
+#EXTINF:-1,TNT SERIES HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46084
+#EXTINF:-1,TOONCAST FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/46086
+#EXTINF:-1,TOP TV SD
+http://stream.streamhubtv.xyz:8080/marina/marina/46088
+#EXTINF:-1,TV Ra Tim Bum HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46090
+#EXTINF:-1,UNIVERSAL TV FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/46092
+#EXTINF:-1,UNIVERSAL TV HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46093
+#EXTINF:-1,VH1 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46095
+#EXTINF:-1,VIVA HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46097
+#EXTINF:-1,WARNER TV FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/46099
+#EXTINF:-1,WOOHOO HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46102
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46105
+#EXTINF:-1,SPACE HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46107
+#EXTINF:-1,MULTISHOW FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/46113
+#EXTINF:-1,ID INVESTIGACAO HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46116
+#EXTINF:-1,GLOBO SP HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46117
+#EXTINF:-1,BAND SPORTS FHD
+http://stream.streamhubtv.xyz:8080/marina/marina/46120
+#EXTINF:-1,DAZN 1 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46122
+#EXTINF:-1,DAZN 2 HD
+http://stream.streamhubtv.xyz:8080/marina/marina/46123
+#EXTINF:-1,CNN BRASIL HD
+http://stream.streamhubtv.xyz:8080/marina/marina/699485
