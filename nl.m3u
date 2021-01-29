@@ -1,111 +1,349 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="",BNR Nieuwsradio (720p)
-https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="",BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="",Den Haag TV (1080p)
-http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/epKiEaX.png" group-title="",DNO Streek TV (720p)
-http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/epKiEaX.png" group-title="",DNO Streek TV (720p)
-https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="" group-title="",EDE TV (480p)
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="Music",GO-RTV (720p)
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-id="Insight TV HD" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="",Insight TV (1080p)
-https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="",Introuble TV (1080p)
-https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="",Inwonder TV (1080p)
-https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
-#EXTINF:-1 tvg-id="L1 TV NL" tvg-name="L1 TV NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/8bqkwkG.png" group-title="",L1mburg (720p)
-https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="",Meer TV (720p)
-https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://over.npo.nl/images/zenders/npo-1.png" group-title="",NPO 1 (342p)
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://over.npo.nl/images/zenders/npo-2.png" group-title="",NPO 2 (342p)
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://over.npo.nl/images/zenders/npo-3.png" group-title="",NPO 3 (342p)
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="" group-title="News",NPO Nieuws (576p)
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="" group-title="",NPO Politiek (24 uur Haagse politiek) (576p)
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="",Omroep Brabant (1080p)
-https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="",Omroep Brabant Radio (1080p)
-https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="",Omroep Ede (480p)
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/b6eHPxa.jpg" group-title="",Omroep Flevoland (720p)
-https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-id="TV Gelderland NL" tvg-name="TV Gelderland NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2LZJo7k.png" group-title="",Omroep Gelderland
-http://web.omroepgelderland.nl/live/livetv.m3u8
-#EXTINF:-1 tvg-id="TV Gelderland NL" tvg-name="TV Gelderland NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2LZJo7k.png" group-title="",Omroep Gelderland (1080p)
-https://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/1uxxeWX.png" group-title="",Omroep P&M (480p)
-https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="",Omroep Tilburg (480p)
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV West NL" tvg-name="TV West NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2YELwRl.jpg" group-title="",Omroep West (1080p)
-https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Omroep Zeeland NL" tvg-name="Omroep Zeeland NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="",Omroep Zeeland (1080p)
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch;Western Frisian" tvg-logo="https://www.omropfryslan.nl/data/omrop/favicon/favicon-96x96.png" group-title="",Omrop Fryslân (1080p)
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="",Podium.TV (1080p)
-http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&type=live&service=wowza&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="",Podium.TV 2 (1080p)
-http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&type=live&service=wowza&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="",Podium.TV 3 (1080p)
-http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowza&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="Music",Qmusic (720p)
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="",Radio 10
-https://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="",Radio 538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="",Radio Veronica
-https://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="",Regio TV Nieuws (1080p)
-http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="",Regio TV Nieuws (1080p)
-https://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="",RTV Arnhem (480p)
-https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="",RTV Dordrecht (480p)
-https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/DsD7Tsu.png" group-title="",RTV Drenthe (1080p)
-https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/5m3d7cP.jpg" group-title="",RTV Maastricht (720p)
-http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="",RTV Noord (1080p)
-https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="",RTV Noord Extra (1080p)
-https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="",RTV Noordoost Friesland (720p)
-http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="",RTV Noordoost Friesland (720p)
-https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="" group-title="",RTV Oost (720p)
-https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/TYsLlr0.png" group-title="",RTV Rijnmond (1080p)
-https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/5cVkPR3.png" group-title="",RTV Utrecht (1080p)
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/86oiZRV.jpg" group-title="",RTV Westerwolde (432p)
-https://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/cNgwmz3.jpg" group-title="",Tommy Teleshopping (480p)
-http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/4kURvuH.png" group-title="",TV Ellef (540p)
-https://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="",TV Valkenburg
-https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",Visit-X TV (720p)
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",Visit-X TV (360p)
-http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",Visit-X TV (720p)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1,NPO 1 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31524
+#EXTINF:-1,NPO 1
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31488
+#EXTINF:-1,NPO 2 FHD 1080
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31525
+#EXTINF:-1,NPO 2 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31392
+#EXTINF:-1,NPO 2
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31489
+#EXTINF:-1,NPO 3 FHD 1080
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31526
+#EXTINF:-1,FIBERBOX
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31490
+#EXTINF:-1,RTL 4 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31382
+#EXTINF:-1,RTL 4
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31491
+#EXTINF:-1,RTL 5 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31381
+#EXTINF:-1,RTL 5
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31492
+#EXTINF:-1,SBS 6 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31370
+#EXTINF:-1,SBS 6
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31496
+#EXTINF:-1,RTL 7 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31380
+#EXTINF:-1,RTL 7
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31493
+#EXTINF:-1,Veronica XD FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31529
+#EXTINF:-1,Veronica XD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31499
+#EXTINF:-1,RTL 8
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31494
+#EXTINF:-1,SBS 9 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31369
+#EXTINF:-1,SBS 9
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31527
+#EXTINF:-1,Net 5 FHD 1080
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31510
+#EXTINF:-1,NET 5 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31398
+#EXTINF:-1,NET 5
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31484
+#EXTINF:-1,Fox Channel HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31432
+#EXTINF:-1,FOX Channel
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31477
+#EXTINF:-1,TLC
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31498
+#EXTINF:-1,STINGRAY LITE TV
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31497
+#EXTINF:-1,SLAM! TV
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31487
+#EXTINF:-1,RTV 7
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31471
+#EXTINF:-1,Comedy Central
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31469
+#EXTINF:-1,NPO CULTURA
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31466
+#EXTINF:-1,100%NL
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31465
+#EXTINF:-1,E! Entertainment
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31464
+#EXTINF:-1,192 TV
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31463
+#EXTINF:-1,24 Kitchen HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31462
+#EXTINF:-1,RTV 538
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31461
+#EXTINF:-1,AT5
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31459
+#EXTINF:-1,TVOost
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31457
+#EXTINF:-1,BBC Entertainment
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31456
+#EXTINF:-1,Comedy Central Extra
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31453
+#EXTINF:-1,Comedy Central HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31452
+#EXTINF:-1,Djazz TV
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31444
+#EXTINF:-1,TVNoord
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31443
+#EXTINF:-1,NOOS
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31438
+#EXTINF:-1,Ziggo TV
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31437
+#EXTINF:-1,Omroep Flevoland
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31434
+#EXTINF:-1,Food Network FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31433
+#EXTINF:-1,GO-RTV
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31419
+#EXTINF:-1,MTV
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31414
+#EXTINF:-1,Omroep Ede
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31411
+#EXTINF:-1,L1mburg
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31408
+#EXTINF:-1,Mezzo
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31407
+#EXTINF:-1,BBC First HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31403
+#EXTINF:-1,Mtv Music
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31402
+#EXTINF:-1,MTV Music 24
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31401
+#EXTINF:-1,Nick Music HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31396
+#EXTINF:-1,NPO 1 Extra
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31393
+#EXTINF:-1,Npo Nieuws
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31391
+#EXTINF:-1,NPO Politiek
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31390
+#EXTINF:-1,NPO Zapp Xtra
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31389
+#EXTINF:-1,OMROEP BRABANT HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31388
+#EXTINF:-1,OMROEP Frysl鈔
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31387
+#EXTINF:-1,OMROEP West
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31386
+#EXTINF:-1,OMROEP ZeeLand HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31385
+#EXTINF:-1,ONS
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31384
+#EXTINF:-1,RTV Drenthe HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31375
+#EXTINF:-1,RTV Noord
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31374
+#EXTINF:-1,RTV OOST
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31373
+#EXTINF:-1,RTV Rijnmond
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31372
+#EXTINF:-1,RTV Utrecht
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31371
+#EXTINF:-1,Shorts TV FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31368
+#EXTINF:-1,Spike HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31367
+#EXTINF:-1,TLC HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31365
+#EXTINF:-1,TV Oranje
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31363
+#EXTINF:-1,VH1 CLASSIC
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31362
+#EXTINF:-1,XITE HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31360
+#EXTINF:-1,Een HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31359
+#EXTINF:-1,BVN HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31475
+#EXTINF:-1,Family 7 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31435
+#EXTINF:-1,Ziggo Sport Select FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31530
+#EXTINF:-1,Ziggo Sport Voetbal
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31528
+#EXTINF:-1,Fox Sports 6 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31523
+#EXTINF:-1,Fox Sports 5 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31522
+#EXTINF:-1,Fox Sports 4 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31521
+#EXTINF:-1,Fox Sports 3 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31520
+#EXTINF:-1,Fox Sports 2 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31519
+#EXTINF:-1,Fox Sports 1 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31518
+#EXTINF:-1,Eurosport 1 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31517
+#EXTINF:-1,Eurosport 2 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31516
+#EXTINF:-1,FOX Sports 1 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31514
+#EXTINF:-1,FOX Sports 2 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31513
+#EXTINF:-1,Fox Sports 4 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31508
+#EXTINF:-1,Fox Sports 5 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31507
+#EXTINF:-1,FOX Sports 3 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31506
+#EXTINF:-1,Ziggo Sport Voetbal SD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31505
+#EXTINF:-1,Ziggo Sport Select HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31504
+#EXTINF:-1,Ziggo Sport Racing HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31503
+#EXTINF:-1,Ziggo Sport Golf HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31502
+#EXTINF:-1,Ziggo Sport Extra2 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31501
+#EXTINF:-1,Ziggo Sport Extra1 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31500
+#EXTINF:-1,EUROSPORT 1 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31442
+#EXTINF:-1,EUROSPORT 2 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31441
+#EXTINF:-1,Extreme Sports Channel
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31440
+#EXTINF:-1,FOX SPORTS 1 EREDIVISIE HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31431
+#EXTINF:-1,FOX SPORTS 1 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31430
+#EXTINF:-1,FOX SPORTS 2 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31429
+#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31428
+#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31427
+#EXTINF:-1,FOX SPORTS 3 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31426
+#EXTINF:-1,FOX SPORTS 4 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31425
+#EXTINF:-1,FOX SPORTS 4 INTERNATIONAL
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31424
+#EXTINF:-1,FOX SPORTS 5 EREDIVISIE HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31423
+#EXTINF:-1,FOX SPORTS 5 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31422
+#EXTINF:-1,FOX SPORTS 6 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31421
+#EXTINF:-1,FOX SPORTS 6 INTERNATIONAL
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31420
+#EXTINF:-1,Golf
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31416
+#EXTINF:-1,TV 538
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31406
+#EXTINF:-1,Ziggo Sport Voetbal HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31405
+#EXTINF:-1,Ziggo Sport DOCU HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31404
+#EXTINF:-1,Ziggo Sport Racing FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31379
+#EXTINF:-1,Ziggo Sport GOLF FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31366
+#EXTINF:-1,ZiggoSPORT Extra 2 FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31358
+#EXTINF:-1,Ziggo Sport Select SD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31357
+#EXTINF:-1,National Geographic FHD 1080
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31511
+#EXTINF:-1,National Geographic
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31485
+#EXTINF:-1,History
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31481
+#EXTINF:-1,Discovery Channel
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31470
+#EXTINF:-1,Animal Planet
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31467
+#EXTINF:-1,ANIMAL PLANET HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31460
+#EXTINF:-1,Crime & Investigation HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31451
+#EXTINF:-1,Discovery Channel FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31450
+#EXTINF:-1,Discovery Science FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31449
+#EXTINF:-1,Discovery SHOWCASE FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31448
+#EXTINF:-1,Discovery World HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31447
+#EXTINF:-1,Investigation Discovery
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31439
+#EXTINF:-1,Love Nature
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31418
+#EXTINF:-1,History Chanel HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31412
+#EXTINF:-1,NAT GEO HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31400
+#EXTINF:-1,NAT GEO WILD HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31399
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31364
+#EXTINF:-1,Viceland FHD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31361
+#EXTINF:-1,Ketnet HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31512
+#EXTINF:-1,Nicktoons
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31509
+#EXTINF:-1,Nick Jr
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31486
+#EXTINF:-1,JimJam
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31483
+#EXTINF:-1,Nick Hits
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31482
+#EXTINF:-1,RTL Telekids
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31468
+#EXTINF:-1,BABY TV HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31458
+#EXTINF:-1,Boomerang HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31455
+#EXTINF:-1,Cartoon Network HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31454
+#EXTINF:-1,Disney Channel
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31446
+#EXTINF:-1,Disney XD HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31445
+#EXTINF:-1,Disney Junior
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31417
+#EXTINF:-1,JimJam
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31410
+#EXTINF:-1,Ketnet HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31409
+#EXTINF:-1,Nick Junior
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31397
+#EXTINF:-1,Nick toons HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31395
+#EXTINF:-1,Nickelodeon HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31394
+#EXTINF:-1,Pebble TV HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31383
+#EXTINF:-1,Film1 Premiere FHD 1080
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31515
+#EXTINF:-1,RTL lounge
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31495
+#EXTINF:-1,HBO2
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31480
+#EXTINF:-1,Film1 Family
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31479
+#EXTINF:-1,HBO+
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31478
+#EXTINF:-1,Film1 Europe
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31476
+#EXTINF:-1,Film1 Premiere
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31474
+#EXTINF:-1,FILM1 EUROPE
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31473
+#EXTINF:-1,Film1 Drama
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31472
+#EXTINF:-1,Film 1 Europe
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31436
+#EXTINF:-1,HBO 2 HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31415
+#EXTINF:-1,HBO+ HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31413
+#EXTINF:-1,RTL Crime HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31378
+#EXTINF:-1,RTL Lounge HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31377
+#EXTINF:-1,RTL Z HD
+http://f7.myfavor.club:8880/4tHENyUFkT/jJqXt8B4nb/31376
