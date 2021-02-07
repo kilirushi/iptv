@@ -1,433 +1,367 @@
 #EXTM3U
-#EXTINF:-1,COVID-19 Pandemic LIVE
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/213749.ts
-#EXTINF:-1,TVI HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11922.ts
-#EXTINF:-1,TVI HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30497.ts
-#EXTINF:-1,TVI SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30448.ts
-#EXTINF:-1,TVI SD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30501.ts
-#EXTINF:-1,TVI 24 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11924.ts
-#EXTINF:-1,TVI 24 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30848.ts
-#EXTINF:-1,TVI 24 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30850.ts
-#EXTINF:-1,TVI 24 SD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30845.ts
-#EXTINF:-1,SIC UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11921.ts
-#EXTINF:-1,SIC HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30847.ts
-#EXTINF:-1,SIC SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30449.ts
-#EXTINF:-1,SIC SD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30846.ts
-#EXTINF:-1,CM TV SD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30502.ts
-#EXTINF:-1,TVI FICCAO (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30496.ts
-#EXTINF:-1,TVI REALITY (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30498.ts
-#EXTINF:-1,RTP 1 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11919.ts
-#EXTINF:-1,RTP 2 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11920.ts
+#EXTINF:-1,PT|HEVC| RTP 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81832
+#EXTINF:-1,PT|HEVC| RTP 2 HD
+http://185.71.64.167:80/307245103371/307245103371/81831
+#EXTINF:-1,PT|HEVC| RTP 3 HD
+http://185.71.64.167:80/307245103371/307245103371/81830
+#EXTINF:-1,PT|HEVC| SIC HD
+http://185.71.64.167:80/307245103371/307245103371/81829
+#EXTINF:-1,PT|HEVC| SIC MULHER HD
+http://185.71.64.167:80/307245103371/307245103371/81828
+#EXTINF:-1,PT|HEVC| SIC NOTICIAS HD
+http://185.71.64.167:80/307245103371/307245103371/81827
+#EXTINF:-1,PT|HEVC| SIC RADICAL HD
+http://185.71.64.167:80/307245103371/307245103371/81826
+#EXTINF:-1,PT|HEVC| SIC CARAS HD
+http://185.71.64.167:80/307245103371/307245103371/81825
+#EXTINF:-1,PT|HEVC| TVI FICCAO HD
+http://185.71.64.167:80/307245103371/307245103371/81824
+#EXTINF:-1,PT|HEVC| TVI HD
+http://185.71.64.167:80/307245103371/307245103371/81823
+#EXTINF:-1,PT|HEVC| TVI24 HD
+http://185.71.64.167:80/307245103371/307245103371/81822
+#EXTINF:-1,PT|HEVC| GLOBO PORTUGAL HD
+http://185.71.64.167:80/307245103371/307245103371/81820
+#EXTINF:-1,PT|HEVC| ZAP VIVA HD
+http://185.71.64.167:80/307245103371/307245103371/81819
+#EXTINF:-1,PT|HEVC| E! ENTERTAINMENT HD
+http://185.71.64.167:80/307245103371/307245103371/81818
+#EXTINF:-1,PT|HEVC| AMC HD
+http://185.71.64.167:80/307245103371/307245103371/81816
+#EXTINF:-1,PT|HEVC| AXN HD
+http://185.71.64.167:80/307245103371/307245103371/81815
+#EXTINF:-1,PT|HEVC| AXN WHITE HD
+http://185.71.64.167:80/307245103371/307245103371/81814
+#EXTINF:-1,PT|HEVC| AXN MOVIES HD
+http://185.71.64.167:80/307245103371/307245103371/81813
+#EXTINF:-1,PT|HEVC| TV CINE TOP HD
+http://185.71.64.167:80/307245103371/307245103371/81812
+#EXTINF:-1,PT|HEVC| TV CINE EDITION HD
+http://185.71.64.167:80/307245103371/307245103371/81811
+#EXTINF:-1,PT|HEVC| TV CINE EMOTION HD
+http://185.71.64.167:80/307245103371/307245103371/81810
+#EXTINF:-1,PT|HEVC| TV CINE ACTION HD
+http://185.71.64.167:80/307245103371/307245103371/81809
+#EXTINF:-1,PT|HEVC| FOX HD
+http://185.71.64.167:80/307245103371/307245103371/81808
+#EXTINF:-1,PT|HEVC| FOX MOVIES HD
+http://185.71.64.167:80/307245103371/307245103371/81807
+#EXTINF:-1,PT|HEVC| FOX CRIME HD
+http://185.71.64.167:80/307245103371/307245103371/81806
+#EXTINF:-1,PT|HEVC| FOX LIFE HD
+http://185.71.64.167:80/307245103371/307245103371/81805
+#EXTINF:-1,PT|HEVC| SYFY HD
+http://185.71.64.167:80/307245103371/307245103371/81804
+#EXTINF:-1,PT|HEVC| BLAZE TV HD
+http://185.71.64.167:80/307245103371/307245103371/81803
+#EXTINF:-1,PT|HEVC| NOS STUDIO HD
+http://185.71.64.167:80/307245103371/307245103371/81802
+#EXTINF:-1,PT|HEVC| HOLLYWOOD HD
+http://185.71.64.167:80/307245103371/307245103371/81800
+#EXTINF:-1,PT|HEVC| CINEMUNDO HD
+http://185.71.64.167:80/307245103371/307245103371/81799
+#EXTINF:-1,PT|HEVC| NATIONAL GEOGRAPHIC HD
+http://185.71.64.167:80/307245103371/307245103371/81797
+#EXTINF:-1,PT|HEVC| NAT GEO WILD HD
+http://185.71.64.167:80/307245103371/307245103371/81796
+#EXTINF:-1,PT|HEVC| ID INVESTIGATION DISCOVERY HD
+http://185.71.64.167:80/307245103371/307245103371/81795
+#EXTINF:-1,PT|HEVC| TRAVEL CHANNEL HD
+http://185.71.64.167:80/307245103371/307245103371/81794
+#EXTINF:-1,PT|HEVC| HISTORIA HD
+http://185.71.64.167:80/307245103371/307245103371/81793
+#EXTINF:-1,PT|HEVC| FINE LIVING NETWORK HD
+http://185.71.64.167:80/307245103371/307245103371/81792
+#EXTINF:-1,PT|HEVC| DOG TV HD
+http://185.71.64.167:80/307245103371/307245103371/81791
+#EXTINF:-1,PT|HEVC| ODISSEIA HD
+http://185.71.64.167:80/307245103371/307245103371/81790
+#EXTINF:-1,PT|HEVC| 24 KITCHEN HD
+http://185.71.64.167:80/307245103371/307245103371/81789
+#EXTINF:-1,PT|HEVC| CASA E COZINHA HD
+http://185.71.64.167:80/307245103371/307245103371/81788
+#EXTINF:-1,PT|HEVC| BTV 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81786
+#EXTINF:-1,PT|HEVC| A BOLA TV HD
+http://185.71.64.167:80/307245103371/307245103371/81785
+#EXTINF:-1,PT|HEVC| SPORTING TV HD
+http://185.71.64.167:80/307245103371/307245103371/81784
+#EXTINF:-1,PT|HEVC| EUROSPORT 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81783
+#EXTINF:-1,PT|HEVC| SPORT TV + HD
+http://185.71.64.167:80/307245103371/307245103371/81782
+#EXTINF:-1,PT|HEVC| SPORT TV 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81781
+#EXTINF:-1,PT|HEVC| SPORT TV 2 HD
+http://185.71.64.167:80/307245103371/307245103371/81780
+#EXTINF:-1,PT|HEVC| SPORT TV 3 HD
+http://185.71.64.167:80/307245103371/307245103371/81779
+#EXTINF:-1,PT|HEVC| SPORT TV NBA HD
+http://185.71.64.167:80/307245103371/307245103371/81778
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81777
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 2 HD
+http://185.71.64.167:80/307245103371/307245103371/81776
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS  3 HD
+http://185.71.64.167:80/307245103371/307245103371/81775
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 4 HD
+http://185.71.64.167:80/307245103371/307245103371/81774
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 5 HD
+http://185.71.64.167:80/307245103371/307245103371/81773
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 6 HD
+http://185.71.64.167:80/307245103371/307245103371/81772
+#EXTINF:-1,PT|HEVC| FIGHT NETWORK HD
+http://185.71.64.167:80/307245103371/307245103371/81771
+#EXTINF:-1,PT|HEVC| CANAL 11 HD
+http://185.71.64.167:80/307245103371/307245103371/81770
+#EXTINF:-1,PT|HEVC| CMTV HD
+http://185.71.64.167:80/307245103371/307245103371/81769
+#EXTINF:-1,CORONA VIRUS INFO
+http://185.71.64.167:80/307245103371/307245103371/81767
+#EXTINF:-1,RTP 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81766
+#EXTINF:-1,RTP 2 HD
+http://185.71.64.167:80/307245103371/307245103371/81765
+#EXTINF:-1,RTP 1
+http://185.71.64.167:80/307245103371/307245103371/81764
+#EXTINF:-1,RTP 2
+http://185.71.64.167:80/307245103371/307245103371/81763
 #EXTINF:-1,RTP 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11926.ts
-#EXTINF:-1,SIC NOTICIAS UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11925.ts
-#EXTINF:-1,A BOLA TV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11927.ts
-#EXTINF:-1,PORTO CANAL UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11928.ts
-#EXTINF:-1,TVI FICCAO
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11929.ts
-#EXTINF:-1,TVI REALITY HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11930.ts
-#EXTINF:-1,SIC MULHER UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11931.ts
-#EXTINF:-1,SIC CARAS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11932.ts
-#EXTINF:-1,SIC RADICAL UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11933.ts
-#EXTINF:-1,CANAL Q
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11934.ts
-#EXTINF:-1,RTP MADEIRA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11935.ts
-#EXTINF:-1,RTP MEMORIA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11936.ts
+http://185.71.64.167:80/307245103371/307245103371/81762
+#EXTINF:-1,RTP INTERNATIONAL
+http://185.71.64.167:80/307245103371/307245103371/81761
+#EXTINF:-1,RTP ACORES
+http://185.71.64.167:80/307245103371/307245103371/81760
 #EXTINF:-1,RTP AFRICA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11937.ts
-#EXTINF:-1,GLOBO HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/258901.ts
-#EXTINF:-1,GLOBO NOW
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11938.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11939.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11940.ts
-#EXTINF:-1,NICKELODEON
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11941.ts
-#EXTINF:-1,NICK JUNIOR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11942.ts
-#EXTINF:-1,JIMJAM (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11947.ts
-#EXTINF:-1,JimJam
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/258409.ts
-#EXTINF:-1,KURIAKOS KIDS HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/258410.ts
-#EXTINF:-1,CANAL PANDA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11943.ts
-#EXTINF:-1,PANDA BIGGS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11944.ts
-#EXTINF:-1,SIC K
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11946.ts
-#EXTINF:-1,BABY TV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11948.ts
-#EXTINF:-1,SPORT TV + UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11949.ts
-#EXTINF:-1,SPORT TV + SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11950.ts
-#EXTINF:-1,SPORT TV 1 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11951.ts
-#EXTINF:-1,SPORT TV1 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11952.ts
-#EXTINF:-1,SPORT TV1 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11953.ts
-#EXTINF:-1,SPORT TV2 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11954.ts
-#EXTINF:-1,SPORT TV2 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11955.ts
-#EXTINF:-1,SPORT TV2 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11956.ts
-#EXTINF:-1,SPORT TV 3 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11957.ts
-#EXTINF:-1,SPORT TV3 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11958.ts
-#EXTINF:-1,SPORT TV3 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11959.ts
-#EXTINF:-1,SPORT TV 4 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11960.ts
-#EXTINF:-1,SPORT TV4 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11961.ts
-#EXTINF:-1,SPORT TV 5 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11962.ts
-#EXTINF:-1,SPORT TV5 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11964.ts
-#EXTINF:-1,BENFICA TV UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11965.ts
-#EXTINF:-1,ELEVEN SPORTS 1 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11966.ts
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11967.ts
-#EXTINF:-1,ELEVEN SPORTS 1 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11968.ts
-#EXTINF:-1,ELEVEN SPORTS 2 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11969.ts
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11970.ts
-#EXTINF:-1,ELEVEN SPORTS 2 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11971.ts
-#EXTINF:-1,ELEVEN SPORTS 3 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11972.ts
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11973.ts
-#EXTINF:-1,ELEVEN SPORTS 3 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11974.ts
-#EXTINF:-1,ELEVENS SPORTS 4 FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11975.ts
-#EXTINF:-1,ELEVENS SPORTS 4 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11976.ts
-#EXTINF:-1,ELEVEN SPORTS 4 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11977.ts
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11978.ts
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11979.ts
-#EXTINF:-1,ELEVEN SPORTS 5 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11980.ts
-#EXTINF:-1,ELEVEN SPORTS 6 FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11981.ts
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11982.ts
-#EXTINF:-1,ELEVEN SPORTS 6 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11983.ts
-#EXTINF:-1,SPORTING TV UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11984.ts
-#EXTINF:-1,EUROSPORT 1 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11985.ts
-#EXTINF:-1,EUROSPORT 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11986.ts
-#EXTINF:-1,FUEL TV HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11987.ts
-#EXTINF:-1,KOMBAT SPORT
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11988.ts
-#EXTINF:-1,MOTOR SPORT HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11989.ts
-#EXTINF:-1,MOTORVISION UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11990.ts
-#EXTINF:-1,ELEVEN SPORTS 1 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30450.ts
-#EXTINF:-1,ELEVEN SPORTS 1 FHD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30451.ts
-#EXTINF:-1,ELEVEN SPORTS 1 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30452.ts
-#EXTINF:-1,ELEVEN SPORTS 2 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30453.ts
-#EXTINF:-1,ELEVEN SPORTS 2 FHD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30454.ts
-#EXTINF:-1,ELEVEN SPORTS 2 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30455.ts
-#EXTINF:-1,ELEVEN SPORTS 3 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30456.ts
-#EXTINF:-1,ELEVEN SPORTS 3 FHD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30457.ts
-#EXTINF:-1,ELEVEN SPORTS 4 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30458.ts
-#EXTINF:-1,ELEVEN SPORTS 4 FHD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30459.ts
-#EXTINF:-1,ELEVEN SPORTS 5 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30460.ts
-#EXTINF:-1,ELEVEN SPORTS 6 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30461.ts
-#EXTINF:-1,EUROCHANNEL (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30462.ts
-#EXTINF:-1,EURONEWS (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30463.ts
-#EXTINF:-1,EUROSPORT HD 1 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30464.ts
-#EXTINF:-1,EUROSPORT HD 2 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30465.ts
-#EXTINF:-1,TVC SERIES HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11991.ts
-#EXTINF:-1,TVC SERIES
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11992.ts
-#EXTINF:-1,TV CINE 1 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11993.ts
-#EXTINF:-1,TV CINE 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11994.ts
-#EXTINF:-1,TV CINE 2 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11995.ts
-#EXTINF:-1,TV CINE 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11996.ts
-#EXTINF:-1,TV CINE 3 UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11997.ts
-#EXTINF:-1,TV CINE 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11998.ts
-#EXTINF:-1,TV CINE 4 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11999.ts
-#EXTINF:-1,TV CINE 4
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12000.ts
-#EXTINF:-1,TVCINE 1 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30492.ts
-#EXTINF:-1,TVCINE 2 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30493.ts
-#EXTINF:-1,TVCINE 3 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30494.ts
-#EXTINF:-1,TVCINE 4 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30495.ts
-#EXTINF:-1,TVSERIES FHD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30499.ts
-#EXTINF:-1,VH1  (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30500.ts
+http://185.71.64.167:80/307245103371/307245103371/81759
+#EXTINF:-1,RTP MADEIRA
+http://185.71.64.167:80/307245103371/307245103371/81758
+#EXTINF:-1,RTP MEMORIA
+http://185.71.64.167:80/307245103371/307245103371/81757
+#EXTINF:-1,SIC
+http://185.71.64.167:80/307245103371/307245103371/81756
+#EXTINF:-1,SIC MULHER
+http://185.71.64.167:80/307245103371/307245103371/81755
 #EXTINF:-1,SIC NOTICIAS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33171.ts
-#EXTINF:-1,NOS STUDIOS UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12001.ts
-#EXTINF:-1,HOLLYWOOD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12003.ts
-#EXTINF:-1,HOLLYWOOD HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12002.ts
-#EXTINF:-1,Hollywood HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/258406.ts
-#EXTINF:-1,FOX MOVIES UHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12004.ts
-#EXTINF:-1,FOX LIFE HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12005.ts
-#EXTINF:-1,FOX LIFE
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12006.ts
-#EXTINF:-1,FOX HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12007.ts
-#EXTINF:-1,FOX
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12008.ts
-#EXTINF:-1,FOX CRIME
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12010.ts
-#EXTINF:-1,FOX CRIME HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12009.ts
-#EXTINF:-1,FOX COMEDY HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12011.ts
-#EXTINF:-1,FOX COMEDY
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12012.ts
-#EXTINF:-1,AXN WHITE
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12014.ts
-#EXTINF:-1,AXN WHITE HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12013.ts
-#EXTINF:-1,AXN HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12015.ts
-#EXTINF:-1,AXN
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12016.ts
-#EXTINF:-1,AXN BLACK HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12017.ts
-#EXTINF:-1,AXN BLACK
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12018.ts
-#EXTINF:-1,AMC HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12019.ts
-#EXTINF:-1,AMC
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12020.ts
-#EXTINF:-1,SYFY
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12021.ts
-#EXTINF:-1,CINEMUNDO
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12023.ts
-#EXTINF:-1,CINEMUNDO HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12022.ts
-#EXTINF:-1,TLC
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12024.ts
-#EXTINF:-1,CAÇA PESCA HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12025.ts
-#EXTINF:-1,TOROS TV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12026.ts
-#EXTINF:-1,CACAVISION
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12027.ts
-#EXTINF:-1,HISTORIA HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12028.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12029.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12030.ts
-#EXTINF:-1,Investigation Discovery FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/258407.ts
-#EXTINF:-1,CBS REALITY
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12031.ts
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12032.ts
-#EXTINF:-1,NAT GEO
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12033.ts
-#EXTINF:-1,NAT GEO (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/212839.ts
-#EXTINF:-1,NAT GEO WILD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12034.ts
-#EXTINF:-1,NAT GEO WILD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/212840.ts
-#EXTINF:-1,ODISSEIA HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12035.ts
-#EXTINF:-1,VH1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12036.ts
-#EXTINF:-1,MCM POP
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12038.ts
-#EXTINF:-1,TRACE URBAN
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12040.ts
-#EXTINF:-1,MCM TOP
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12041.ts
-#EXTINF:-1,TRACE TOCA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12042.ts
-#EXTINF:-1,KITCHEN 24 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30466.ts
-#EXTINF:-1,KOMBAT SPORT (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30467.ts
-#EXTINF:-1, NETFLIX HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30468.ts
-#EXTINF:-1,RTP 1 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30469.ts
-#EXTINF:-1,RTP INTERNACIONAL (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30470.ts
-#EXTINF:-1,SANTUÁRIO DE FÁTIMA HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30471.ts
-#EXTINF:-1,SIC CARAS (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30472.ts
-#EXTINF:-1,SIC KIDS (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30473.ts
-#EXTINF:-1,SIC MULHER (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30474.ts
-#EXTINF:-1,SIC RADICAL (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30475.ts
-#EXTINF:-1,SPORT TV + (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30476.ts
-#EXTINF:-1,SPORT TV + HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30477.ts
-#EXTINF:-1,SPORT TV 1 FHD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30478.ts
-#EXTINF:-1,SPORT TV 1 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30479.ts
-#EXTINF:-1,SPORT TV 2 FHD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30480.ts
-#EXTINF:-1,SPORT TV 3 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30481.ts
-#EXTINF:-1,SPORT TV NBA HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30482.ts
-#EXTINF:-1,SPORT TV 1 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30483.ts
-#EXTINF:-1,SPORT TV2 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30484.ts
-#EXTINF:-1,SPORT TV2 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30485.ts
-#EXTINF:-1,SPORT TV3 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30486.ts
-#EXTINF:-1,SPORT TV4 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30487.ts
-#EXTINF:-1,SPORT TV4 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30488.ts
-#EXTINF:-1,SPORT TV5 (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30489.ts
-#EXTINF:-1,SPORT TV5 HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30490.ts
-#EXTINF:-1,SPORTING TV HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30491.ts
-#EXTINF:-1,CNN
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33172.ts
-#EXTINF:-1,SKY NEWS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33173.ts
-#EXTINF:-1,EURONEWS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33174.ts
-#EXTINF:-1,BBC WORLD NEWS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33176.ts
-#EXTINF:-1,CNBC
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33177.ts
-#EXTINF:-1,ARTV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33178.ts
-#EXTINF:-1,Motor Visao
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33179.ts
-#EXTINF:-1,FOOD NETWORK FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33181.ts
-#EXTINF:-1,CANAL 11
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33182.ts
-#EXTINF:-1,PFC
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33184.ts
+http://185.71.64.167:80/307245103371/307245103371/81754
+#EXTINF:-1,SIC RADICAL
+http://185.71.64.167:80/307245103371/307245103371/81753
+#EXTINF:-1,SIC CARAS
+http://185.71.64.167:80/307245103371/307245103371/81752
+#EXTINF:-1,SIC K
+http://185.71.64.167:80/307245103371/307245103371/81751
+#EXTINF:-1,CANAL Q
+http://185.71.64.167:80/307245103371/307245103371/81750
+#EXTINF:-1,PORTO CANAL
+http://185.71.64.167:80/307245103371/307245103371/81749
+#EXTINF:-1,TVE 24H
+http://185.71.64.167:80/307245103371/307245103371/81748
+#EXTINF:-1,TVI
+http://185.71.64.167:80/307245103371/307245103371/81747
+#EXTINF:-1,TVI 24
+http://185.71.64.167:80/307245103371/307245103371/81746
+#EXTINF:-1,TVI FICCAO
+http://185.71.64.167:80/307245103371/307245103371/81745
+#EXTINF:-1,MCS EXTREME
+http://185.71.64.167:80/307245103371/307245103371/81744
+#EXTINF:-1,TVI REALITY
+http://185.71.64.167:80/307245103371/307245103371/81743
+#EXTINF:-1,TV RECORD
+http://185.71.64.167:80/307245103371/307245103371/81742
+#EXTINF:-1,ZAP VIVA HD
+http://185.71.64.167:80/307245103371/307245103371/81741
+#EXTINF:-1,KURIAKOS TV
+http://185.71.64.167:80/307245103371/307245103371/81740
+#EXTINF:-1,TCV CABO
+http://185.71.64.167:80/307245103371/307245103371/81739
+#EXTINF:-1,BABY TV
+http://185.71.64.167:80/307245103371/307245103371/81737
+#EXTINF:-1,CANAL PANDA
+http://185.71.64.167:80/307245103371/307245103371/81736
+#EXTINF:-1,DISNEY CHANNEL
+http://185.71.64.167:80/307245103371/307245103371/81735
 #EXTINF:-1,DISNEY JUNIOR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33186.ts
-#EXTINF:-1,TIJI HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33187.ts
-#EXTINF:-1,MEZZO
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33189.ts
-#EXTINF:-1,Discovery CHANNEL
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33190.ts
-#EXTINF:-1,BLAZE
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33193.ts
-#EXTINF:-1,CRIME INVESTIGATION
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33199.ts
-#EXTINF:-1,BBC ENTERTAINEMENT
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33200.ts
-#EXTINF:-1,BLOOMBERG
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33201.ts
+http://185.71.64.167:80/307245103371/307245103371/81734
+#EXTINF:-1,JIM JAM
+http://185.71.64.167:80/307245103371/307245103371/81732
+#EXTINF:-1,BIGGS
+http://185.71.64.167:80/307245103371/307245103371/81731
+#EXTINF:-1,NICKELODEON
+http://185.71.64.167:80/307245103371/307245103371/81730
+#EXTINF:-1,NICK JR.
+http://185.71.64.167:80/307245103371/307245103371/81729
+#EXTINF:-1,E! ENTERTAINMENT
+http://185.71.64.167:80/307245103371/307245103371/81727
+#EXTINF:-1,AMC HD
+http://185.71.64.167:80/307245103371/307245103371/81725
+#EXTINF:-1,AMC
+http://185.71.64.167:80/307245103371/307245103371/81724
+#EXTINF:-1,AXN HD
+http://185.71.64.167:80/307245103371/307245103371/81723
+#EXTINF:-1,AXN WHITE HD
+http://185.71.64.167:80/307245103371/307245103371/81722
+#EXTINF:-1,AXN MOVIES HD
+http://185.71.64.167:80/307245103371/307245103371/81721
+#EXTINF:-1,TVCINE TOP HD
+http://185.71.64.167:80/307245103371/307245103371/81720
+#EXTINF:-1,TVCINE EDITION HD
+http://185.71.64.167:80/307245103371/307245103371/81719
+#EXTINF:-1,TVCINE EMOTION HD
+http://185.71.64.167:80/307245103371/307245103371/81718
+#EXTINF:-1,TVCINE ACTION HD
+http://185.71.64.167:80/307245103371/307245103371/81717
+#EXTINF:-1,TVCINE EDITION
+http://185.71.64.167:80/307245103371/307245103371/81716
+#EXTINF:-1,FOX HD
+http://185.71.64.167:80/307245103371/307245103371/81714
+#EXTINF:-1,FOX MOVIES
+http://185.71.64.167:80/307245103371/307245103371/81713
+#EXTINF:-1,FOX COMEDY
+http://185.71.64.167:80/307245103371/307245103371/81712
+#EXTINF:-1,FOX CRIME HD
+http://185.71.64.167:80/307245103371/307245103371/81711
+#EXTINF:-1,FOX LIFE HD
+http://185.71.64.167:80/307245103371/307245103371/81710
+#EXTINF:-1,SYFY
+http://185.71.64.167:80/307245103371/307245103371/81709
+#EXTINF:-1,NOS STUDIO HD
+http://185.71.64.167:80/307245103371/307245103371/81708
+#EXTINF:-1,NOS STUDIOS HD
+http://185.71.64.167:80/307245103371/307245103371/81707
+#EXTINF:-1,GLOBO HD
+http://185.71.64.167:80/307245103371/307245103371/81705
+#EXTINF:-1,GLOBO PREMIUM
+http://185.71.64.167:80/307245103371/307245103371/81704
 #EXTINF:-1,TV GALICIA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33203.ts
-#EXTINF:-1,RTP AÇORES
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33204.ts
-#EXTINF:-1,TV RECORD FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33205.ts
-#EXTINF:-1,DEUTSCHE WELLE
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33206.ts
-#EXTINF:-1,MTV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12037.ts
+http://185.71.64.167:80/307245103371/307245103371/81703
+#EXTINF:-1,CNN
+http://185.71.64.167:80/307245103371/307245103371/81702
+#EXTINF:-1,SKY NEWS
+http://185.71.64.167:80/307245103371/307245103371/81701
+#EXTINF:-1,CNBC
+http://185.71.64.167:80/307245103371/307245103371/81700
+#EXTINF:-1,EURONEWS
+http://185.71.64.167:80/307245103371/307245103371/81699
+#EXTINF:-1,TV5 MONDE
+http://185.71.64.167:80/307245103371/307245103371/81698
+#EXTINF:-1,BBC WORLD NEWS
+http://185.71.64.167:80/307245103371/307245103371/81697
+#EXTINF:-1,CBS REALITY
+http://185.71.64.167:80/307245103371/307245103371/81696
+#EXTINF:-1,BLOOMBERG
+http://185.71.64.167:80/307245103371/307245103371/81695
+#EXTINF:-1,FTV
+http://185.71.64.167:80/307245103371/307245103371/81694
+#EXTINF:-1,CANACAO NOVA
+http://185.71.64.167:80/307245103371/307245103371/81693
+#EXTINF:-1,FOX NEWS
+http://185.71.64.167:80/307245103371/307245103371/81692
+#EXTINF:-1,TRACE URBAN
+http://185.71.64.167:80/307245103371/307245103371/81690
+#EXTINF:-1,TRACE TOCA
+http://185.71.64.167:80/307245103371/307245103371/81689
+#EXTINF:-1,VH1
+http://185.71.64.167:80/307245103371/307245103371/81688
+#EXTINF:-1,VH1 CLASSIC
+http://185.71.64.167:80/307245103371/307245103371/81687
 #EXTINF:-1,AFRO MUSIC
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/12039.ts
-#EXTINF:-1,CMTV SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30447.ts
-#EXTINF:-1,CMTV HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11923.ts
-#EXTINF:-1,CMTV HD (Backup)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30849.ts
-#EXTINF:-1,ZAP VIVA FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/33211.ts
+http://185.71.64.167:80/307245103371/307245103371/81686
+#EXTINF:-1,MTV PORTUGAL
+http://185.71.64.167:80/307245103371/307245103371/81685
+#EXTINF:-1,MCM POP
+http://185.71.64.167:80/307245103371/307245103371/81684
+#EXTINF:-1,MEZZO
+http://185.71.64.167:80/307245103371/307245103371/81683
+#EXTINF:-1,HOLLYWOOD HD
+http://185.71.64.167:80/307245103371/307245103371/81681
+#EXTINF:-1,HOLLYWOOD
+http://185.71.64.167:80/307245103371/307245103371/81680
+#EXTINF:-1,CINEMUNDO
+http://185.71.64.167:80/307245103371/307245103371/81679
+#EXTINF:-1,TV SERIES HD
+http://185.71.64.167:80/307245103371/307245103371/81678
+#EXTINF:-1,TV SERIES
+http://185.71.64.167:80/307245103371/307245103371/81677
+#EXTINF:-1,DISCOVERY CHANNEL
+http://185.71.64.167:80/307245103371/307245103371/81675
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://185.71.64.167:80/307245103371/307245103371/81674
+#EXTINF:-1,NAT GEO GEOGRAPHIC HD
+http://185.71.64.167:80/307245103371/307245103371/81673
+#EXTINF:-1,NAT GEO WILD
+http://185.71.64.167:80/307245103371/307245103371/81672
+#EXTINF:-1,CRIME INVESTIGATION
+http://185.71.64.167:80/307245103371/307245103371/81671
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://185.71.64.167:80/307245103371/307245103371/81670
+#EXTINF:-1,ODISSEIA
+http://185.71.64.167:80/307245103371/307245103371/81669
+#EXTINF:-1,24 KITCHEN HD
+http://185.71.64.167:80/307245103371/307245103371/81668
+#EXTINF:-1,HISTORIA
+http://185.71.64.167:80/307245103371/307245103371/81667
+#EXTINF:-1,TLC
+http://185.71.64.167:80/307245103371/307245103371/81666
+#EXTINF:-1,BTV 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81664
+#EXTINF:-1,A BOLA TV
+http://185.71.64.167:80/307245103371/307245103371/81663
+#EXTINF:-1,KOMBAT SPORT
+http://185.71.64.167:80/307245103371/307245103371/81662
+#EXTINF:-1,SPORTING TV
+http://185.71.64.167:80/307245103371/307245103371/81661
+#EXTINF:-1,FUEL TV
+http://185.71.64.167:80/307245103371/307245103371/81660
+#EXTINF:-1,EUROSPORT 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81659
+#EXTINF:-1,EUROSPORT 1
+http://185.71.64.167:80/307245103371/307245103371/81658
+#EXTINF:-1,EUROSPORT 2
+http://185.71.64.167:80/307245103371/307245103371/81657
+#EXTINF:-1,PFC
+http://185.71.64.167:80/307245103371/307245103371/81656
+#EXTINF:-1,CMTV
+http://185.71.64.167:80/307245103371/307245103371/81655
+#EXTINF:-1,TOROS TV
+http://185.71.64.167:80/307245103371/307245103371/81654
+#EXTINF:-1,SPORT TV
+http://185.71.64.167:80/307245103371/307245103371/81653
+#EXTINF:-1,SPORT TV 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81652
+#EXTINF:-1,SPORT TV 1 HD NOS
+http://185.71.64.167:80/307245103371/307245103371/81651
+#EXTINF:-1,SPORT TV 1
+http://185.71.64.167:80/307245103371/307245103371/81650
+#EXTINF:-1,SPORT TV 2 HD
+http://185.71.64.167:80/307245103371/307245103371/81649
+#EXTINF:-1,SPORT TV 2
+http://185.71.64.167:80/307245103371/307245103371/81648
+#EXTINF:-1,SPORT TV 3 HD
+http://185.71.64.167:80/307245103371/307245103371/81647
+#EXTINF:-1,SPORT TV 3
+http://185.71.64.167:80/307245103371/307245103371/81646
+#EXTINF:-1,SPORT TV 4
+http://185.71.64.167:80/307245103371/307245103371/81645
+#EXTINF:-1,SPORT TV 5
+http://185.71.64.167:80/307245103371/307245103371/81644
+#EXTINF:-1,NBA TV
+http://185.71.64.167:80/307245103371/307245103371/81643
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://185.71.64.167:80/307245103371/307245103371/81642
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://185.71.64.167:80/307245103371/307245103371/81641
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://185.71.64.167:80/307245103371/307245103371/81640
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://185.71.64.167:80/307245103371/307245103371/81639
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://185.71.64.167:80/307245103371/307245103371/81638
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://185.71.64.167:80/307245103371/307245103371/81637
+#EXTINF:-1,MOTORVISION
+http://185.71.64.167:80/307245103371/307245103371/81636
+#EXTINF:-1,REAL MADRID TV
+http://185.71.64.167:80/307245103371/307245103371/81635
+#EXTINF:-1,CANAL 11
+http://185.71.64.167:80/307245103371/307245103371/81634
