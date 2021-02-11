@@ -1,797 +1,535 @@
 #EXTM3U
+#EXTINF:-1,TF1 HD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61030
 #EXTINF:-1,TF1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2288
-#EXTINF:-1,TF1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2289
-#EXTINF:-1,TF1 SERIES & FILMS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2290
-#EXTINF:-1,TF1 SERIES & FILMS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2291
-#EXTINF:-1,FRANCE 2 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2292
-#EXTINF:-1,FRANCE 2 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2293
-#EXTINF:-1,FRANCE 3 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2294
-#EXTINF:-1,FRANCE 3 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2295
-#EXTINF:-1,FRANCE 4 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2296
-#EXTINF:-1,FRANCE 4 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2297
-#EXTINF:-1,FRANCE 5 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2298
-#EXTINF:-1,FRANCE 5 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2299
-#EXTINF:-1,FRANCE O HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2300
-#EXTINF:-1,FRANCE O FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2301
-#EXTINF:-1,M6 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2302
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61032
+#EXTINF:-1,TF1 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61033
 #EXTINF:-1,M6 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2303
-#EXTINF:-1,W9 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2304
-#EXTINF:-1,W9 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2305
-#EXTINF:-1,TMC HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2306
-#EXTINF:-1,TMC FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2307
-#EXTINF:-1,TFX HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2308
-#EXTINF:-1,TFX FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2309
-#EXTINF:-1,RMC STORY HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2310
-#EXTINF:-1,RMC STORY FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2311
-#EXTINF:-1,FRANCE INFO
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2312
-#EXTINF:-1,BFM BUSINESS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2313
-#EXTINF:-1,BFM BUSINESS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2314
-#EXTINF:-1,BFM PARIS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2315
-#EXTINF:-1,BFM PARIS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2316
-#EXTINF:-1,BFM NEWS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2317
-#EXTINF:-1,BFM NEWS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2318
-#EXTINF:-1,ARTE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2319
-#EXTINF:-1,ARTE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2320
-#EXTINF:-1,CNEWS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2321
-#EXTINF:-1,CNEWS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2322
-#EXTINF:-1,EURONEWS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2323
-#EXTINF:-1,FRANCE 24 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2324
-#EXTINF:-1,LCP HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2325
-#EXTINF:-1,LCP FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2326
-#EXTINF:-1,I24 NEWS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2327
-#EXTINF:-1,I24 NEWS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2328
-#EXTINF:-1,LCI HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2329
-#EXTINF:-1,LCI FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2330
-#EXTINF:-1,TV5 MONDE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2331
-#EXTINF:-1,INFOSPORT+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2332
-#EXTINF:-1,INFOSPORT+ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2333
-#EXTINF:-1,FOOT+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2334
-#EXTINF:-1,GOLF CHANNEL FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2335
-#EXTINF:-1,L'EQUIPE 21 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2336
-#EXTINF:-1,L'EQUIPE 21 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2337
-#EXTINF:-1,FOOT 24/24 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2338
-#EXTINF:-1,EUROSPORT 1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2339
-#EXTINF:-1,EUROSPORT 2 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2340
-#EXTINF:-1,EUROSPORT 1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2341
-#EXTINF:-1,EUROSPORT 2 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2342
-#EXTINF:-1,AUTOMOTO HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2343
-#EXTINF:-1,AUTO MOTO FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2344
-#EXTINF:-1,GOLF+ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2345
-#EXTINF:-1,GOLF+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2346
-#EXTINF:-1,EQUIDIA LIVE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2347
-#EXTINF:-1,EQUIDIA LIFE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2348
-#EXTINF:-1,EQUIDIA TV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2349
-#EXTINF:-1,GOLF CHANNEL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2350
-#EXTINF:-1,MOTORSPORT HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2351
-#EXTINF:-1,OL TV FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2352
-#EXTINF:-1,TRACE SPORTS STARS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2353
-#EXTINF:-1,AB MOTEURS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2354
-#EXTINF:-1,EXTREME SPORT HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2355
-#EXTINF:-1,CANAL+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2356
-#EXTINF:-1,CANAL+ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2357
-#EXTINF:-1,CANAL+ DECALE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2358
-#EXTINF:-1,CANAL+ DECALE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2359
-#EXTINF:-1,CANAL+ CINEMA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2360
-#EXTINF:-1,CANAL+ CINEMA FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2361
-#EXTINF:-1,CANAL+ FAMILY HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2362
-#EXTINF:-1,CANAL+ FAMILY FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2363
-#EXTINF:-1,CANAL+ SERIES HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2364
-#EXTINF:-1,CANAL+ SERIE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2365
-#EXTINF:-1,CANAL+ SPORT HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2366
-#EXTINF:-1,CANAL+ SPORT FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2367
-#EXTINF:-1,CINE+ PREMIER HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2368
-#EXTINF:-1,CINE+ PREMIER FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2369
-#EXTINF:-1,CINE+ FRISSON HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2370
-#EXTINF:-1,CINE+ FRISSON FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2371
-#EXTINF:-1,CINE+ EMOTION HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2372
-#EXTINF:-1,CINE+ EMOTION FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2373
-#EXTINF:-1,CINE+ FAMIZ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2374
-#EXTINF:-1,CINE+ FAMIZ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2375
-#EXTINF:-1,CINE+ CLASSIC HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2376
-#EXTINF:-1,CINE+ CLASSIC FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2377
-#EXTINF:-1,CINE+ CLUB FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2378
-#EXTINF:-1,CINE+ CLUB HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2379
-#EXTINF:-1,CINE CLUB HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2380
-#EXTINF:-1,OCS GEANTS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2381
-#EXTINF:-1,OCS GEANTS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2382
-#EXTINF:-1,OCS CITY HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2383
-#EXTINF:-1,OCS CITY FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2384
-#EXTINF:-1,OCS CHOC FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2385
-#EXTINF:-1,OCS MAX FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2386
-#EXTINF:-1,OCS MAX HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2387
-#EXTINF:-1,ACTION HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2388
-#EXTINF:-1,Action FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2389
-#EXTINF:-1,PARAMOUNT DECALE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2390
-#EXTINF:-1,ALTICE STUDIO HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2391
-#EXTINF:-1,ALTICE STUDIO FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2392
-#EXTINF:-1,TCM CINEMA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2393
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2394
-#EXTINF:-1,TEVA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2395
-#EXTINF:-1,TEVA FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2396
-#EXTINF:-1,POLAR+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2397
-#EXTINF:-1,POLAR + FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2398
-#EXTINF:-1,WARNER HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2399
-#EXTINF:-1,WARNER TV FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2400
-#EXTINF:-1,NOVELAS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2401
-#EXTINF:-1,NOVELAS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2402
-#EXTINF:-1,AB1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2403
-#EXTINF:-1,AB1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2404
-#EXTINF:-1,AB3 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2405
-#EXTINF:-1,AB3 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2406
-#EXTINF:-1,6TER HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2407
-#EXTINF:-1,6TER FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2408
-#EXTINF:-1,C8 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2410
-#EXTINF:-1,RTL 9 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2411
-#EXTINF:-1,RTL9 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2412
-#EXTINF:-1,C STAR HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2413
-#EXTINF:-1,CSTAR FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2414
-#EXTINF:-1,13EME RUE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2415
-#EXTINF:-1,13EME RUE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2416
-#EXTINF:-1,SYFY HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2417
-#EXTINF:-1,SYFY FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2418
-#EXTINF:-1,MCM HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2419
-#EXTINF:-1,MCM  FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2420
-#EXTINF:-1,FASHION TV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2421
-#EXTINF:-1,FASHION FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2422
-#EXTINF:-1,BET HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2423
-#EXTINF:-1,SFR COMEDY
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2424
-#EXTINF:-1,SFR HORROR
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2425
-#EXTINF:-1,SFR SCI-FI
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2426
-#EXTINF:-1,ES1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2427
-#EXTINF:-1,ES1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2428
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2429
-#EXTINF:-1,E! ENTERTAINMENT FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2430
-#EXTINF:-1,TV BREIZH HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2431
-#EXTINF:-1,TV BREIZH  FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2432
-#EXTINF:-1,COMEDIE+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2433
-#EXTINF:-1,SERIE CLUB HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2434
-#EXTINF:-1,SERIE CLUB FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2435
-#EXTINF:-1,GAME ONE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2436
-#EXTINF:-1,J-ONE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2437
-#EXTINF:-1,PARIS PREMIERE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2438
-#EXTINF:-1,PARIS PREMIERE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2439
-#EXTINF:-1,CHERIE 25 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2440
-#EXTINF:-1,CHERIE 25 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2441
-#EXTINF:-1,NOLLYWOOD HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2442
-#EXTINF:-1,NOLLYWOOD FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2443
-#EXTINF:-1,COMEDIE+ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2444
-#EXTINF:-1,COMEDIE+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2445
-#EXTINF:-1,MTV FRANCE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2446
-#EXTINF:-1,GONG MAX  HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2447
-#EXTINF:-1,POLAR+ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2448
-#EXTINF:-1,NRJ HITS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2449
-#EXTINF:-1,NRJ 12 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2450
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61034
+#EXTINF:-1,M6 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61035
+#EXTINF:-1,M6 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61036
+#EXTINF:-1,France 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61037
+#EXTINF:-1,France 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61038
+#EXTINF:-1,France 3 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61040
+#EXTINF:-1,France 3 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61041
+#EXTINF:-1,France 3 NOA HD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61043
+#EXTINF:-1,France 4 HD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61044
+#EXTINF:-1,France 4 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61045
+#EXTINF:-1,France 5 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61047
+#EXTINF:-1,France 5 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61048
+#EXTINF:-1,France Ô HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61051
+#EXTINF:-1,TV5 Monde Europe FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61053
+#EXTINF:-1,TV5 Monde Europe HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61054
+#EXTINF:-1,Paris Premiere HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61056
+#EXTINF:-1,Paris Premiere SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61057
+#EXTINF:-1,6ter FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61058
+#EXTINF:-1,6ter HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61059
+#EXTINF:-1,Arte HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61062
 #EXTINF:-1,NRJ 12 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2451
-#EXTINF:-1,TRACE URBAN HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2452
-#EXTINF:-1,TRACE TROPICAL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2453
-#EXTINF:-1,TRACE AFRICA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2454
-#EXTINF:-1,TRACE TOCA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2455
-#EXTINF:-1,TRACE GOSPEL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2456
-#EXTINF:-1,TRACE NAIJA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2457
-#EXTINF:-1,TRACE KITOKO HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2458
-#EXTINF:-1,TRACE MZIKI HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2459
-#EXTINF:-1,TRACE AYITI HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2460
-#EXTINF:-1,TRACE LATINA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2461
-#EXTINF:-1,MCM TOP HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2462
-#EXTINF:-1,MTV LIVE
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2463
-#EXTINF:-1,MTV MUSIC
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2464
-#EXTINF:-1,MTV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2465
-#EXTINF:-1,MTV HITS
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2466
-#EXTINF:-1,MTV DANCE
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2467
-#EXTINF:-1,RFM TV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2468
-#EXTINF:-1,BRAVA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2469
-#EXTINF:-1,M6 MUSIC
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2470
-#EXTINF:-1,MELODY TV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2471
-#EXTINF:-1,MEZZO LIVE  FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2472
-#EXTINF:-1,VH1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2473
-#EXTINF:-1,VH1 Classic HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2474
-#EXTINF:-1,NUMERO 23 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2475
-#EXTINF:-1,KTO HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2476
-#EXTINF:-1,DJAZZ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2477
-#EXTINF:-1,CHASSE ET PECHE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2478
-#EXTINF:-1,CHASSE ET PECHE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2479
-#EXTINF:-1,ANIMAUX HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2480
-#EXTINF:-1,ANIMAUX FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2481
-#EXTINF:-1,USHUAIA TV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2482
-#EXTINF:-1,USHUAIA TV FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2483
-#EXTINF:-1,LA CHAINE METEO FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2484
-#EXTINF:-1,LA CHAINE METEO HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2485
-#EXTINF:-1,SEASONS FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2486
-#EXTINF:-1,SEASONS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2487
-#EXTINF:-1,TOUTE L'HISTOIRE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2488
-#EXTINF:-1,TOUTE L HISTOIRE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2489
-#EXTINF:-1,TREK FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2490
-#EXTINF:-1,TREK HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2491
-#EXTINF:-1,RMC DECOUVERTE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2492
-#EXTINF:-1,RMC DECOUVERTE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2493
-#EXTINF:-1,PLANETE+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2494
-#EXTINF:-1,PLANETE+ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2495
-#EXTINF:-1,PLANETE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2496
-#EXTINF:-1,PLANETE+ A&E HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2497
-#EXTINF:-1,PLANETE+ CI HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2498
-#EXTINF:-1,PLANETE+ CI FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2499
-#EXTINF:-1,PLANETE A&E HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2500
-#EXTINF:-1,PLANETE A&E FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2501
-#EXTINF:-1,NATIONAL GEOGRAPHIE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2502
-#EXTINF:-1,NATIONAL GEOGRAPHIE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2503
-#EXTINF:-1,NATIONAL GEOGRAPHIE WILD HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2504
-#EXTINF:-1,NATIONAL GEOGRAPHIE WILD FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2505
-#EXTINF:-1,VOYAGE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2506
-#EXTINF:-1,VOYAGE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2507
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2508
-#EXTINF:-1,DISCOVERY FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2509
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2510
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2511
-#EXTINF:-1,DISCOVERY FAMILY HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2512
-#EXTINF:-1,DISCOVERY FAMULY FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2513
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2514
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2515
-#EXTINF:-1,Sundance TV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2516
-#EXTINF:-1,VICELAND  FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2517
-#EXTINF:-1,VICELAND  HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2518
-#EXTINF:-1,MB LIVE TV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2519
-#EXTINF:-1,CRIME DISTRICT HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2520
-#EXTINF:-1,CRIME DISTRICT FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2521
-#EXTINF:-1,SCIENCES ET VIE FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2522
-#EXTINF:-1,HISTOIRE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2523
-#EXTINF:-1,SCIENCE ET VIE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2524
-#EXTINF:-1,NAUTICAL CHANNEL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2525
-#EXTINF:-1,CARTOON NETWORK HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2526
-#EXTINF:-1,CARTOON NETWORK FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2527
-#EXTINF:-1,CARTOON NETWORK FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2528
-#EXTINF:-1,DISNEY CHANNEL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2529
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2530
-#EXTINF:-1,DISNEY+ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2531
-#EXTINF:-1,DISNEY JUNIOR HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2532
-#EXTINF:-1,DISNEY JUNIOR FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2533
-#EXTINF:-1,DISNEY XD FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2534
-#EXTINF:-1,DISNEY XD HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2535
-#EXTINF:-1,DISNEY CINEMA HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2536
-#EXTINF:-1,DISNEY CINEMA FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2537
-#EXTINF:-1,MANGAS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2538
-#EXTINF:-1,Mangas FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2539
-#EXTINF:-1,BOING HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2540
-#EXTINF:-1,BOING FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2541
-#EXTINF:-1,GULLI HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2542
-#EXTINF:-1,GULLI FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2543
-#EXTINF:-1,CANAL J HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2544
-#EXTINF:-1,CANAL J FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2545
-#EXTINF:-1,CANAL J FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2546
-#EXTINF:-1,BOOMERANG HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2547
-#EXTINF:-1,BOOMERANG FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2548
-#EXTINF:-1,PIWI+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2549
-#EXTINF:-1,PIWI FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2550
-#EXTINF:-1,TIJI HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2551
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61063
+#EXTINF:-1,NRJ 12 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61064
+#EXTINF:-1,TFX HD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61065
+#EXTINF:-1,TFX HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61066
+#EXTINF:-1,KTO
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61068
+#EXTINF:-1,TV Breizh FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61070
+#EXTINF:-1,TV Breizh HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61071
+#EXTINF:-1,Canal Alpha JU HD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61073
+#EXTINF:-1,A+ HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61076
+#EXTINF:-1,Dici TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61077
+#EXTINF:-1,La Chaine Normande
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61078
+#EXTINF:-1,Mirabelle TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61079
+#EXTINF:-1,NoTele
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61080
+#EXTINF:-1,TVPI
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61081
+#EXTINF:-1,Francophonie 24
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61082
+#EXTINF:-1,Grand Lille TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61083
+#EXTINF:-1,ViaOccitanie
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61084
+#EXTINF:-1,Télé Grenoble
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61085
+#EXTINF:-1,Bip TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61086
+#EXTINF:-1,MATélé
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61087
+#EXTINF:-1,IL TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61088
+#EXTINF:-1,LMTV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61089
+#EXTINF:-1,TL7
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61090
+#EXTINF:-1,Tébéo
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61091
+#EXTINF:-1,Télé Nantes
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61092
+#EXTINF:-1,TV7
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61093
+#EXTINF:-1,Canal+ FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61162
+#EXTINF:-1,Canal+ SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61164
+#EXTINF:-1,Canal+ Cinema FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61165
+#EXTINF:-1,Canal+ Cinema HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61166
+#EXTINF:-1,Canal+ Decale FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61168
+#EXTINF:-1,Canal+ Decale SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61169
+#EXTINF:-1,Canal+ Family FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61170
+#EXTINF:-1,Canal+ Family HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61171
+#EXTINF:-1,Canal+ Series FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61173
+#EXTINF:-1,Canal+ Series HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61174
+#EXTINF:-1,Cine+ Premier FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61176
+#EXTINF:-1,Cine+ Premier HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61177
+#EXTINF:-1,Cine+ Classic FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61179
+#EXTINF:-1,Cine+ Classic HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61180
+#EXTINF:-1,Cine+ Emotion FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61182
+#EXTINF:-1,Cine+ Emotion HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61183
+#EXTINF:-1,Cine+ Famiz FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61185
+#EXTINF:-1,Cine+ Famiz HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61186
+#EXTINF:-1,Cine+ Famiz SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61187
+#EXTINF:-1,Cine+ Frisson FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61188
+#EXTINF:-1,Cine+ Frisson HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61189
+#EXTINF:-1,Cine+ Club FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61191
+#EXTINF:-1,Cine Polar FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61192
+#EXTINF:-1,Cine+ Club HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61193
+#EXTINF:-1,Cine FX FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61195
+#EXTINF:-1,OCS Choc FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61196
+#EXTINF:-1,OCS Choc HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61197
+#EXTINF:-1,OCS City FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61198
+#EXTINF:-1,OCS City HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61199
+#EXTINF:-1,OCS Geant SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61201
+#EXTINF:-1,OCS Geant FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61200
+#EXTINF:-1,OCS Max FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61202
+#EXTINF:-1,OCS Max HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61203
+#EXTINF:-1,Viceland FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61204
+#EXTINF:-1,TCM Cinema FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61205
+#EXTINF:-1,TCM Cinema HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61206
+#EXTINF:-1,Paramount Channel FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61209
+#EXTINF:-1,Paramount Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61210
+#EXTINF:-1,Polar+ FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61212
+#EXTINF:-1,Nollywood TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61213
+#EXTINF:-1,13ème Rue FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61267
+#EXTINF:-1,13ème RUE HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61268
+#EXTINF:-1,C8 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61270
+#EXTINF:-1,C8 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61272
+#EXTINF:-1,CStar HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61274
+#EXTINF:-1,Warner TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61276
+#EXTINF:-1,Comedy Central FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61277
+#EXTINF:-1,Comedie+ HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61278
+#EXTINF:-1,Comedie+ SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61279
+#EXTINF:-1,My Comedy TV HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61280
+#EXTINF:-1,Serie Club FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61281
+#EXTINF:-1,Serie Club HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61282
+#EXTINF:-1,Serie Club SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61283
+#EXTINF:-1,W9 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61284
+#EXTINF:-1,W9 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61285
+#EXTINF:-1,AB1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61287
+#EXTINF:-1,AB1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61288
+#EXTINF:-1,AB3 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/65846
+#EXTINF:-1,AB3 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61290
+#EXTINF:-1,Cherie 25 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61291
+#EXTINF:-1,Cherie 25 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61292
+#EXTINF:-1,Cherie 25 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61293
+#EXTINF:-1,TF1 Series Films FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61294
+#EXTINF:-1,TF1 Series Films HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61295
+#EXTINF:-1,TF1 Series Films SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61296
+#EXTINF:-1,RTL9 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61297
+#EXTINF:-1,RTL 9 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61298
+#EXTINF:-1,Syfy Universal FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61300
+#EXTINF:-1,Syfy Universal HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61301
+#EXTINF:-1,E!
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61303
+#EXTINF:-1,E! HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/66879
+#EXTINF:-1,Clique TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61304
+#EXTINF:-1,Teva FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61305
+#EXTINF:-1,Teva HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61306
+#EXTINF:-1,TMC FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61307
+#EXTINF:-1,TMC +1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61308
+#EXTINF:-1,TMC HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61309
+#EXTINF:-1,RMC Story HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61312
+#EXTINF:-1,RMC Story SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61313
+#EXTINF:-1,Game One FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61314
+#EXTINF:-1,Game One SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61315
+#EXTINF:-1,Action FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61316
+#EXTINF:-1,Action HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61317
+#EXTINF:-1,Bet FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61319
+#EXTINF:-1,Bet HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61320
+#EXTINF:-1,J-One FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61322
+#EXTINF:-1,Trace Latina FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61323
+#EXTINF:-1,Be Curious TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61324
+#EXTINF:-1,Non Stop People FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61325
+#EXTINF:-1,Altice Studio FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61326
+#EXTINF:-1,My Cuisine FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61327
+#EXTINF:-1,M6 Boutique HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61328
+#EXTINF:-1,Lèeekô TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61329
+#EXTINF:-1,Generations TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61330
+#EXTINF:-1,Novelas TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61331
+#EXTINF:-1,Novelas TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61332
+#EXTINF:-1,Crime District FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61333
+#EXTINF:-1,Crime District HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61334
+#EXTINF:-1,Provence Azur TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61335
+#EXTINF:-1,IDF 1 HD/SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61336
+#EXTINF:-1,Viàvosges TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61337
+#EXTINF:-1,Luxe TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61339
+#EXTINF:-1,Var Azur TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61340
+#EXTINF:-1,Azur TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61341
+#EXTINF:-1,MDL TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61342
+#EXTINF:-1,MOUV’ TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61343
+#EXTINF:-1,National Geographic FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61215
+#EXTINF:-1,National Geographic HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61216
+#EXTINF:-1,National Geo Wild FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61218
+#EXTINF:-1,National Geo Wild HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61219
+#EXTINF:-1,Discovery FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61221
+#EXTINF:-1,Discovery Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61222
+#EXTINF:-1,Discovery Science FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61224
+#EXTINF:-1,Discovery Science HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61225
+#EXTINF:-1,Discovery Family FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61227
+#EXTINF:-1,Discovery Family HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61228
+#EXTINF:-1,Discovery Investigation FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61230
+#EXTINF:-1,Planete+ FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61233
+#EXTINF:-1,Planete+ HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61234
+#EXTINF:-1,Planete+ A&E FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61236
+#EXTINF:-1,Planete+ AE HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61237
+#EXTINF:-1,Planete+ CI HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61239
+#EXTINF:-1,Ushuaia TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61240
+#EXTINF:-1,Ushuaia TV HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61241
+#EXTINF:-1,Seasons FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61243
+#EXTINF:-1,Seasons HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61244
+#EXTINF:-1,Trek FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61245
+#EXTINF:-1,Trek HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61246
+#EXTINF:-1,Histoire SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61249
+#EXTINF:-1,Histoire HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/66880
+#EXTINF:-1,Histoire FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61248
+#EXTINF:-1,Toute l'histoire FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61250
+#EXTINF:-1,Toute l'histoire
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61251
+#EXTINF:-1,Science et Vie FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61252
+#EXTINF:-1,Science et Vie HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61253
+#EXTINF:-1,Science et Vie SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61254
+#EXTINF:-1,Voyage FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61255
+#EXTINF:-1,Voyage HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61256
+#EXTINF:-1,RMC Decouverte FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61257
+#EXTINF:-1,RMC Decouverte HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61258
+#EXTINF:-1,RMC Decouverte SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61259
+#EXTINF:-1,Museum FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61260
+#EXTINF:-1,Animaux HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61261
+#EXTINF:-1,Animaux
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61262
+#EXTINF:-1,Chasse et Peche FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61263
+#EXTINF:-1,Chasse et Peche HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61264
+#EXTINF:-1,CNEWS HD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61345
+#EXTINF:-1,CNEWS HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61346
+#EXTINF:-1,BFM TV HD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61348
+#EXTINF:-1,BFM TV HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61349
+#EXTINF:-1,BFM Business FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61350
+#EXTINF:-1,BFM Business HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61351
+#EXTINF:-1,BFM Paris
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61352
+#EXTINF:-1,BFM Lyon HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61353
+#EXTINF:-1,LCI HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61355
+#EXTINF:-1,LCP HD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61356
+#EXTINF:-1,LCP HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61357
+#EXTINF:-1,Euronews HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61358
+#EXTINF:-1,TV5 Monde Info HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61359
+#EXTINF:-1,Monaco Info
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61360
+#EXTINF:-1,France 24
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61361
+#EXTINF:-1,France 24 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/66878
+#EXTINF:-1,RT France HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61362
+#EXTINF:-1,France Info
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61363
+#EXTINF:-1,I24 News HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61364
+#EXTINF:-1,Africanews
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61365
+#EXTINF:-1,CGTN
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61366
+#EXTINF:-1,Piwi+ FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61368
+#EXTINF:-1,Piwi+ HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61369
+#EXTINF:-1,Teletoon+ FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61371
+#EXTINF:-1,Teletoon+ HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61372
+#EXTINF:-1,Teletoon+ SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61373
+#EXTINF:-1,Cartoon Network HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61375
+#EXTINF:-1,Boomerang FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61377
+#EXTINF:-1,Boomerang HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61379
+#EXTINF:-1,Nickelodeon FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61380
+#EXTINF:-1,Nickelodeon HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61381
+#EXTINF:-1,Nickelodeon +1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61382
+#EXTINF:-1,Nickelodeon Junior SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61384
+#EXTINF:-1,Nickelodeon Junior HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/66881
+#EXTINF:-1,Nickelodeon Junior FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61383
+#EXTINF:-1,Nickelodeon 4teen FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61385
+#EXTINF:-1,Gulli FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61387
+#EXTINF:-1,Gulli SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61389
+#EXTINF:-1,Mangas HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61391
+#EXTINF:-1,Mangas SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61392
+#EXTINF:-1,Disney+ FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61393
+#EXTINF:-1,Disney Channel FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61394
+#EXTINF:-1,Disney Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61396
+#EXTINF:-1,Disney Channel +1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61397
+#EXTINF:-1,Disney Junior HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61399
+#EXTINF:-1,Canal J FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61402
+#EXTINF:-1,Canal J HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61403
+#EXTINF:-1,Toonami FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61405
+#EXTINF:-1,Toonami SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61406
 #EXTINF:-1,TIJI FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2552
-#EXTINF:-1,NICKELODEON HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2553
-#EXTINF:-1,NICKELODEON FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2554
-#EXTINF:-1,NICKLODEON FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2555
-#EXTINF:-1,NICKELODEON JUNIOR HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2556
-#EXTINF:-1,NICKELODEON JR FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2557
-#EXTINF:-1,NICKELODEON JUNIOR FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2558
-#EXTINF:-1,NICKELODEON 4TEEN HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2559
-#EXTINF:-1,Nickelodeon 4Teen FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2560
-#EXTINF:-1,TELETOON+ FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2561
-#EXTINF:-1,TELETOON+ HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2562
-#EXTINF:-1,TOONAMI HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2563
-#EXTINF:-1,TOONAMI FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2564
-#EXTINF:-1,TOONAMI FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2565
-#EXTINF:-1,BABY TV HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2566
-#EXTINF:-1,CINE PREMIER FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2567
-#EXTINF:-1,CINE FRISSON FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2568
-#EXTINF:-1,CANAL PLAY 1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2569
-#EXTINF:-1,CANAL PLAY 2 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2570
-#EXTINF:-1,CANAL PLAY 3 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2571
-#EXTINF:-1,CANAL PLAY 4 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2572
-#EXTINF:-1,CANAL PLAY 5 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2573
-#EXTINF:-1,CANAL PLAY 6 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2574
-#EXTINF:-1,CANAL PLAY 7 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2575
-#EXTINF:-1,CANAL PLAY 8 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2576
-#EXTINF:-1,CANAL PLAY 9 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2577
-#EXTINF:-1,CANAL PLAY 10 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2578
-#EXTINF:-1,CANAL PLAY 11 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2579
-#EXTINF:-1,CANAL PLAY 12 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2580
-#EXTINF:-1,CANAL PLAY 13 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2581
-#EXTINF:-1,CANAL PLAY 14 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2582
-#EXTINF:-1,CANAL PLAY 15 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2583
-#EXTINF:-1,CANAL PLAY 16 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2584
-#EXTINF:-1,CANAL PLAY 17 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2585
-#EXTINF:-1,CANAL PLAY 18 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2586
-#EXTINF:-1,OCS  GO  CINE 1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2587
-#EXTINF:-1,OCS  GO  CINE 2
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2588
-#EXTINF:-1,OCS  GO  CINE 3
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2589
-#EXTINF:-1,OCS  GO  CINE 4
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2590
-#EXTINF:-1,OCS  GO  CINE 5
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2591
-#EXTINF:-1,Orange  Cine 1
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2592
-#EXTINF:-1,Orange  Cine 2
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2593
-#EXTINF:-1,Orange  Cine 3
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2594
-#EXTINF:-1,Orange  Cine 4
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2595
-#EXTINF:-1,Orange  Cine 5
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2596
-#EXTINF:-1,CANAL PLAY MULTIVISION 1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2597
-#EXTINF:-1,CANAL PLAY MULTIVISION 2 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2598
-#EXTINF:-1,CANAL PLAY MULTIVISION 3 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2599
-#EXTINF:-1,RMC SPORT NEWS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2600
-#EXTINF:-1,RMC SPORT 1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2601
-#EXTINF:-1,RMC SPORT 1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2602
-#EXTINF:-1,RMC SPORT 2 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2603
-#EXTINF:-1,RMC SPORT 2 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2604
-#EXTINF:-1,RMC SPORT 3 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2605
-#EXTINF:-1,RMC SPORT 3 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2606
-#EXTINF:-1,RMC SPORT 4 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2607
-#EXTINF:-1,RMC SPORT 4 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2608
-#EXTINF:-1,RMC SPORT 5 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2609
-#EXTINF:-1,RMC SPORT LIVE 5 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2610
-#EXTINF:-1,RMC SPORT 6 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2611
-#EXTINF:-1,RMC SPORT LIVE 6 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2612
-#EXTINF:-1,RMC SPORT 7 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2613
-#EXTINF:-1,RMC SPORT LIVE 7 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2614
-#EXTINF:-1,RMC SPORT LIVE 8 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2615
-#EXTINF:-1,RMC SPORT LIVE 9 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2616
-#EXTINF:-1,RMC SPORT LIVE 10 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2617
-#EXTINF:-1,RMC SPORT LIVE 11 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2618
-#EXTINF:-1,RMC SPORT LIVE 12 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2619
-#EXTINF:-1,RMC SPORT LIVE 13 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2620
-#EXTINF:-1,RMC SPORT LIVE 14 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2621
-#EXTINF:-1,RMC SPORT LIVE 15 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2622
-#EXTINF:-1,RMC SPORT LIVE 16 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2623
-#EXTINF:-1,RMC ACCESS SPORT 1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2624
-#EXTINF:-1,RMC ACCESS SPORT 2 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2625
-#EXTINF:-1,RMC ACCESS SPORT 3 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2626
-#EXTINF:-1,RMC SPORT 5 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2627
-#EXTINF:-1,RMC NEWS SPORT FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2628
-#EXTINF:-1,TELE FOOT HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2629
-#EXTINF:-1,TELE FOOT 1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2630
-#EXTINF:-1,TELE FOOT 2 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2631
-#EXTINF:-1,TELE FOOT 3 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2632
-#EXTINF:-1,TELE FOOT 4 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2633
-#EXTINF:-1,TELE FOOT 5 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2634
-#EXTINF:-1,TELE FOOT 6 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2635
-#EXTINF:-1,TELE FOOT 7 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2636
-#EXTINF:-1,TELE FOOT 8 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2637
-#EXTINF:-1,TELEFOOT STADIUM 1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2638
-#EXTINF:-1,TELEFOOT STADIUM 1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2639
-#EXTINF:-1,TELEFOOT STADIUM 1 H265
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2640
-#EXTINF:-1,TELEFOOT STADIUM 2 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2641
-#EXTINF:-1,TELEFOOT STADIUM 2 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2642
-#EXTINF:-1,TELEFOOT STADIUM 2 H265
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2643
-#EXTINF:-1,TELEFOOT STADIUM 3 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2644
-#EXTINF:-1,TELEFOOT STADIUM 3 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2645
-#EXTINF:-1,TELEFOOT STADIUM 3 H265
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2646
-#EXTINF:-1,TELEFOOT STADIUM 4 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2647
-#EXTINF:-1,TELEFOOT STADIUM 4 H265
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2648
-#EXTINF:-1,TELEFOOT STADIUM 5 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2649
-#EXTINF:-1,TELEFOOT STADIUM 5 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2650
-#EXTINF:-1,TELEFOOT STADIUM 5 H265
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2651
-#EXTINF:-1,TELEFOOT STADIUM 6 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2652
-#EXTINF:-1,TELEFOOT STADIUM 6 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2653
-#EXTINF:-1,TELEFOOT STADIUM 6 H265
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2654
-#EXTINF:-1,TELEFOOT STADIUM 7 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2655
-#EXTINF:-1,TELEFOOT STADIUM 7 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2656
-#EXTINF:-1,TELEFOOT STADIUM 7 H265
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2657
-#EXTINF:-1,TELEFOOT STADIUM 8 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2658
-#EXTINF:-1,TELEFOOT STADIUM 8 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2659
-#EXTINF:-1,TELEFOOT STADIUM 8 H265
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2660
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2662
-#EXTINF:-1,BEIN SPORT 1 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2663
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2664
-#EXTINF:-1,BEIN SPORT 2 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2665
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2666
-#EXTINF:-1,BEIN SPORT 3 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2667
-#EXTINF:-1,BEIN SPORTS MAX 4 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2668
-#EXTINF:-1,BEIN MAX 4 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2669
-#EXTINF:-1,BEIN SPORTS MAX 5 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2670
-#EXTINF:-1,BEIN MAX 5 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2671
-#EXTINF:-1,BEIN SPORTS MAX 6 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2672
-#EXTINF:-1,BEIN MAX 6 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2673
-#EXTINF:-1,BEIN SPORTS MAX 7 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2674
-#EXTINF:-1,BEIN MAX 7 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2675
-#EXTINF:-1,BEIN SPORTS MAX 8 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2676
-#EXTINF:-1,BEIN MAX 8 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2677
-#EXTINF:-1,BEIN SPORTS MAX 9 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2678
-#EXTINF:-1,BEIN MAX 9 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2679
-#EXTINF:-1,BEIN SPORTS MAX 10 HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2680
-#EXTINF:-1,BEIN MAX 10 FHD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2681
-#EXTINF:-1,LA UNE HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2682
-#EXTINF:-1,LA DEUX HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2683
-#EXTINF:-1,LA TROIS HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2684
-#EXTINF:-1,RTL TVI HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2685
-#EXTINF:-1,CLUB RTL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2686
-#EXTINF:-1,PLUG RTL HD
-http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2687
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61407
+#EXTINF:-1,TIJI HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61408
+#EXTINF:-1,Boing HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61411
+#EXTINF:-1,MTV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61416
+#EXTINF:-1,MTV France
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61417
+#EXTINF:-1,OKLM TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61420
+#EXTINF:-1,MCM FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61421
+#EXTINF:-1,MCM HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61422
+#EXTINF:-1,MCM TOP HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61425
+#EXTINF:-1,One TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61427
+#EXTINF:-1,Djazz TV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61428
+#EXTINF:-1,Brava FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61429
+#EXTINF:-1,Mezzo
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61430
+#EXTINF:-1,Mezzo Live FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61431
+#EXTINF:-1,Trace Urban FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61432
+#EXTINF:-1,Trace Urban HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61433
+#EXTINF:-1,Trace Tropical HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61434
+#EXTINF:-1,Trace Africa HD (EN)
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61435
+#EXTINF:-1,NRJ Hits FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61437
+#EXTINF:-1,NRJ Hits
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61438
+#EXTINF:-1,M6 Music Hits FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61439
+#EXTINF:-1,TVM3
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61440
+#EXTINF:-1,D5TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61445
