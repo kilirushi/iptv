@@ -1,337 +1,241 @@
 #EXTM3U
-#EXTINF:-1,Canale 2 Altamura
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
-#EXTINF:-1,Canale 21 Campania
-http://live.sloode.com:1935/canale21/live/playlist.m3u8
-#EXTINF:-1,Canale 21 Lazio
-http://live.sloode.com:1935/canale21/live2/playlist.m3u8
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1,Canale 8
-http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:-1,Canale 85 Puglia
-http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
-#EXTINF:-1,Canale 85 Puglia
-https://59d7d6f47d7fc.streamlock.net/redirect/canale85/canale85?type=m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
-#EXTINF:-1,Company TV
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1,Company TV
-http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:-1,Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1,DMAX
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:-1,Elive TV Brescia
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1,Esperia TV
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1,Esperia TV
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1,ETV Marche
-http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
-#EXTINF:-1,ETV Marche
-http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:-1,ETV Marche
-http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
-#EXTINF:-1,Euro Indie Music Chart TV
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1,FM Italia TV
-http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
-#EXTINF:-1,Gold TV Roma
-http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
+#EXTINF:-1,RAI 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39903
+#EXTINF:-1,RAI 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39902
+#EXTINF:-1,RAI 3 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39901
+#EXTINF:-1,RAI 4 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39882
+#EXTINF:-1,RAI 5 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39883
+#EXTINF:-1,RAI Gulp HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39885
+#EXTINF:-1,RAI Movie HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39886
+#EXTINF:-1,RAI Premium HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39887
+#EXTINF:-1,DMAX HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39881
+#EXTINF:-1,Sport Italia FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39889
+#EXTINF:-1,Sport Italia Calcio
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39890
 #EXTINF:-1,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,Icaro TV
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1,Italia 2 TV
-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1,Julie Italia
-https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8
-#EXTINF:-1,La Tr3
-https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8
-#EXTINF:-1,La7
-http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
-#EXTINF:-1,LaC TV
-http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1,MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1,Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1,Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1,Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
-#EXTINF:-1,Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1,Padre Pio TV
-https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
-#EXTINF:-1,Paradise TV
-https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
-#EXTINF:-1,Partenope TV
-https://live.puglia.net:8080/live/partenopetv/index.m3u8
-#EXTINF:-1,Pescara TV
-http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
-#EXTINF:-1,Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8
-#EXTINF:-1,Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8
-#EXTINF:-1,Prima TV
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
-#EXTINF:-1,Primocanale Liguria
-http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:-1,QVC
-http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
-#EXTINF:-1,Radio 51
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1,Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Bruno
-http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Radio Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,Radio Freccia
-https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
-#EXTINF:-1,Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1,Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1,Radio Lombardia TV
-https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
-#EXTINF:-1,Radio Number One TV
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Piter Pan TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Siena TV
-http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8
-#EXTINF:-1,Radio Taormina
-http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:-1,Radio Zeta TV
-https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
-#EXTINF:-1,Radionorba TV
-http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1,Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1,Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1,Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
-#EXTINF:-1,Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1,Rai 5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Rai 5
-http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39892
+#EXTINF:-1,TV8
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39893
+#EXTINF:-1,Top Crime
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39894
+#EXTINF:-1,RETE 4
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39897
+#EXTINF:-1,RAI Storia HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39899
+#EXTINF:-1,RAI Sport HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39900
+#EXTINF:-1,Mediaset Extra
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39905
+#EXTINF:-1,LA 7
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39907
+#EXTINF:-1,LA 5
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39908
+#EXTINF:-1,Italia 1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39910
+#EXTINF:-1,Italia 1
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39911
+#EXTINF:-1,Iris
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39912
+#EXTINF:-1,Focus
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39913
+#EXTINF:-1,Cielo
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39915
+#EXTINF:-1,Canale 5 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39917
+#EXTINF:-1,Canale 5
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39918
+#EXTINF:-1,20 Mediaset
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39921
+#EXTINF:-1,Discovery Frisbee HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39922
+#EXTINF:-1,Boing
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39919
+#EXTINF:-1,Cartoonito
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39916
+#EXTINF:-1,Disney Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39925
+#EXTINF:-1,Disney Junior
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39926
+#EXTINF:-1,Nickelodeon
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39928
+#EXTINF:-1,Baby TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39930
+#EXTINF:-1,Super!
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39934
+#EXTINF:-1,Discovery K2
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39935
+#EXTINF:-1,Rai YoYo HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39937
 #EXTINF:-1,Rai News 24
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1,Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1,Rai Sport
-http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
-#EXTINF:-1,Rai YoYo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1,RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1,ReggioTV
-https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
-#EXTINF:-1,Retesole Lazio
-http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8
-#EXTINF:-1,Reteveneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
-#EXTINF:-1,RMK TV Sciacca
-http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
-#EXTINF:-1,RMM TV
-http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
-#EXTINF:-1,RTC Quarta Rete
-http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8
-#EXTINF:-1,RTC Telecalabria
-http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1,RTC Telecalabria
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
-#EXTINF:-1,RTL 102.5 TV
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
-#EXTINF:-1,RTP
-https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1,RTR 99 TV
-https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8
-#EXTINF:-1,RTTR
-http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1,RTV Sport (San Marino)
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
-#EXTINF:-1,Sardegna Uno
-https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
-#EXTINF:-1,Senato della Repubblica
-http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1,Skyline TV Radio &amp; Soul
-http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8
-#EXTINF:-1,Sophia TV
-https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8
-#EXTINF:-1,Super TV Brescia
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Tele Arena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1,TELE MONTE NEVE
-http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
-#EXTINF:-1,TELE MONTE NEVE 3
-http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
-#EXTINF:-1,Tele One
-http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8
-#EXTINF:-1,TeleBoario
-http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
-#EXTINF:-1,Telechiara
-http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1,Telecitta
-http://213.187.12.18/live/tv1.m3u8
-#EXTINF:-1,Telecitta
-http://213.187.12.18:80/live/tv1.m3u8
-#EXTINF:-1,Telecolor Lombardia
-https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1,Telefoggia
-https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
-#EXTINF:-1,Telefriuli
-http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
-#EXTINF:-1,Telegranda
-http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
-#EXTINF:-1,Telemantova
-https://58f0c4d9527e8.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1,TeleMia
-http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
-#EXTINF:-1,Telemolise
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
-#EXTINF:-1,TeleMonteve
-http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-#EXTINF:-1,TeleNordest
-http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8
-#EXTINF:-1,TeleNordest
-https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1,Teleonda
-https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8
-#EXTINF:-1,TeleQuattro
-http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8
-#EXTINF:-1,TeleRama
-https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
-#EXTINF:-1,Teleromagna
-http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:-1,Teleromagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1,Telesud Trapani
-https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
-#EXTINF:-1,TeleTerni
-https://diretta.teleterni.it/live/stream_src.m3u8
-#EXTINF:-1,TeleTicino
-https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
-#EXTINF:-1,Teletricolore
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1,Teleuniverso
-https://5bc744e9aac0b.streamlock.net/teleuniverso/teleuniverso/chunklist_w1494799728.m3u8
-#EXTINF:-1,TeleVideo Agrigento
-https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
-#EXTINF:-1,Tevere TV
-https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
-#EXTINF:-1,TLN Tele Lazio Nord
-http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
-#EXTINF:-1,TR Mia
-http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1,TR24
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1,TSN Livigno
-http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
-#EXTINF:-1,TSN Tele Sondrio News
-http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1,TV Campane 1 (Napoli)
-http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8
-#EXTINF:-1,Tv Luna
-http://live.sloode.com:1935/teleluna/live/playlist.m3u8
-#EXTINF:-1,TV Qui (Modena)
-https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1,TV2000
-http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1,TV2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1,TV2000
-http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-#EXTINF:-1,TV7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1,TV7 Triveneta
-http://217.61.26.46:8080/hls/triveneta.m3u8
-#EXTINF:-1,TVA (Vicenza)
-http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:-1,TVL Toscana
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8
-#EXTINF:-1,TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1,Vera TV (Marche)
-http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:-1,Vera TV Marche
-http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
-#EXTINF:-1,VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1,Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1,Video Mediterraneo
-http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
-#EXTINF:-1,Videolina (Sardegna)
-http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
-#EXTINF:-1,Videolina (Sardegna)
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:-1,Videostar TV (Lombardia)
-http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
-#EXTINF:-1,51 Radio TV
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1,AB Channel
-https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
-#EXTINF:-1,Alto Adige TV
-http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:-1,Antenna Sud
-http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8
-#EXTINF:-1,Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:-1,Azzurra TV
-https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
-#EXTINF:-1,CafèTV24
-http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39950
+#EXTINF:-1,Sky Cinema Uno+ 24 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39955
+#EXTINF:-1,Sky Cinema 2 +24 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39957
+#EXTINF:-1,Sky Cinema Action HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39958
+#EXTINF:-1,Sky Cinema Drama HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39959
+#EXTINF:-1,Sky Cinema Drama FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39960
+#EXTINF:-1,Sky Cinema Action FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39961
+#EXTINF:-1,Sky Cinema Family HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39964
+#EXTINF:-1,Sky Cinema Collection FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39965
+#EXTINF:-1,Sky Cinema Romance FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39968
+#EXTINF:-1,Sky Cinema Suspense HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39969
+#EXTINF:-1,FOX HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39970
+#EXTINF:-1,Sky Cinema Family FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39972
+#EXTINF:-1,Sky Cinema Due FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39973
+#EXTINF:-1,Premium Cinema FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39975
+#EXTINF:-1,Premium Comedy FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39977
+#EXTINF:-1,Premium Action HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39980
+#EXTINF:-1,Premium Crime HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39982
+#EXTINF:-1,Top Crime HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39983
+#EXTINF:-1,Premium Stories HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39985
+#EXTINF:-1,Premium Energy FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39986
+#EXTINF:-1,Premium Energy HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39987
+#EXTINF:-1,Premium Emotion HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39989
+#EXTINF:-1,Premium Cinema 24 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39990
+#EXTINF:-1,Paramount Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39991
+#EXTINF:-1,Sky Primafila 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39994
+#EXTINF:-1,Sky Primafila 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39995
+#EXTINF:-1,Sky Primafila 3 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39996
+#EXTINF:-1,Sky Primafila 4 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39997
+#EXTINF:-1,Sky Primafila 5 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39998
+#EXTINF:-1,Sky Primafila 6 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39999
+#EXTINF:-1,Sky Primafila 7 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40000
+#EXTINF:-1,Sky Primafila 8 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40001
+#EXTINF:-1,Sky Primafila 9 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40002
+#EXTINF:-1,Sky Primafila 10 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40003
+#EXTINF:-1,Sky Sport 24 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40023
+#EXTINF:-1,Sky Sport Uno FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40025
+#EXTINF:-1,Sky Sport Uno HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40026
+#EXTINF:-1,Sky Sport Arena FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40027
+#EXTINF:-1,Sky Sport Arena HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40028
+#EXTINF:-1,Sky Sport Collection HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40030
+#EXTINF:-1,Sky Sport Football FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40031
+#EXTINF:-1,Sky Sport Football HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40032
+#EXTINF:-1,Sky Sport Serie A FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40033
+#EXTINF:-1,Sky Sport Serie A HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40034
+#EXTINF:-1,Sky Sport Moto GP FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40035
+#EXTINF:-1,Sky Sport F1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40037
+#EXTINF:-1,Eurosport 1
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40041
+#EXTINF:-1,Eurosport 2
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40042
+#EXTINF:-1,Milan Channel
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40043
+#EXTINF:-1,Roma TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40044
+#EXTINF:-1,INTER TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40045
+#EXTINF:-1,Lazzio Style Channel
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40046
+#EXTINF:-1,Sport Italia
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40048
+#EXTINF:-1,Juventus Channel
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40050
+#EXTINF:-1,Torino Channel
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40051
+#EXTINF:-1,Sky Calcio 1 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40054
+#EXTINF:-1,Nat Geo HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40074
+#EXTINF:-1,Nat Geo Wild HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40075
+#EXTINF:-1,Discovery Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40076
+#EXTINF:-1,Discovery Science HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40077
+#EXTINF:-1,Sky Arte HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40079
+#EXTINF:-1,History HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40080
+#EXTINF:-1,Focus
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40081
+#EXTINF:-1,Pesca HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40082
+#EXTINF:-1,Sky Atlantic FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40086
+#EXTINF:-1,Sky Atlantic sd
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40088
+#EXTINF:-1,Sky Uno HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40089
+#EXTINF:-1,Dmax HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40092
+#EXTINF:-1,Blaze HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40093
+#EXTINF:-1,Real Time HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40094
+#EXTINF:-1,Giallo HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40095
+#EXTINF:-1,Fox Crime HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40098
+#EXTINF:-1,Fox Life HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40099
+#EXTINF:-1,Comedy Central
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40100
+#EXTINF:-1,TOP crime
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40101
+#EXTINF:-1,Gambero Rosso HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40102
+#EXTINF:-1,Pesca & Caccia
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40103
+#EXTINF:-1,Italian Fishing
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40104
+#EXTINF:-1,Food Network HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40105
+#EXTINF:-1,Alice
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40106
+#EXTINF:-1,Dazn 1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/93710
