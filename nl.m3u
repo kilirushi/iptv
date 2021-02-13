@@ -1,161 +1,183 @@
 #EXTM3U
-#EXTINF:-1,100% NL
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37361
-#EXTINF:-1,192 TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37364
-#EXTINF:-1,24 Kitchen
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37338
-#EXTINF:-1,Animal Planet
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37345
-#EXTINF:-1,AT 5
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37399
+#EXTINF:-1,100% NL TV
+http://mags.vip:2086/live/miriam/miriam123/92958.ts
+#EXTINF:-1,192TV
+http://mags.vip:2086/live/miriam/miriam123/92943.ts
+#EXTINF:-1,24 KITCHEN
+http://mags.vip:2086/live/miriam/miriam123/92942.ts
+#EXTINF:-1,ANIMAL PLANET
+http://mags.vip:2086/live/miriam/miriam123/92914.ts
 #EXTINF:-1,AT5
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37465
-#EXTINF:-1,Baby TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37356
-#EXTINF:-1,BBC First
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/65840
-#EXTINF:-1,Boomerang
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37455
-#EXTINF:-1,BVN
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37371
-#EXTINF:-1,Comedy Central
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37395
-#EXTINF:-1,Comedy Central Extra
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37393
-#EXTINF:-1,Crime & Investigation
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37353
-#EXTINF:-1,Dance Trippin
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/65836
-#EXTINF:-1,Den Haag TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/65841
-#EXTINF:-1,Discovery
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37343
-#EXTINF:-1,Discovery Science
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37355
-#EXTINF:-1,Discovery World
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37394
-#EXTINF:-1,Disney Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37354
-#EXTINF:-1,E! Entertainment
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37341
-#EXTINF:-1,Family 7
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37370
-#EXTINF:-1,Film 1 Action
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37451
-#EXTINF:-1,Film 1 Drama
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37453
-#EXTINF:-1,Film 1 Family
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37452
-#EXTINF:-1,Film 1 Premiere
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37450
-#EXTINF:-1,Film Europe HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37439
+http://mags.vip:2086/live/miriam/miriam123/92897.ts
+#EXTINF:-1,BBC FIRST
+http://mags.vip:2086/live/miriam/miriam123/92896.ts
+#EXTINF:-1,BOOMERANG
+http://mags.vip:2086/live/miriam/miriam123/92919.ts
+#EXTINF:-1,BRAVA
+http://mags.vip:2086/live/miriam/miriam123/92920.ts
+#EXTINF:-1,CI
+http://mags.vip:2086/live/miriam/miriam123/92940.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://mags.vip:2086/live/miriam/miriam123/92891.ts
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://mags.vip:2086/live/miriam/miriam123/92890.ts
+#EXTINF:-1,DANCE TRIPPIN
+http://mags.vip:2086/live/miriam/miriam123/92950.ts
+#EXTINF:-1,DEN HAAG TV
+http://mags.vip:2086/live/miriam/miriam123/92973.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92938.ts
+#EXTINF:-1,DISCOVERY WORLD
+http://mags.vip:2086/live/miriam/miriam123/92936.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92917.ts
+#EXTINF:-1,DJAZZ TV
+http://mags.vip:2086/live/miriam/miriam123/92949.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://mags.vip:2086/live/miriam/miriam123/92941.ts
+#EXTINF:-1,EEN
+http://mags.vip:2086/live/miriam/miriam123/92895.ts
+#EXTINF:-1,EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92912.ts
+#EXTINF:-1,EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92913.ts
+#EXTINF:-1,EXTREME SPORTS CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92911.ts
+#EXTINF:-1,FILM 1 ACTION
+http://mags.vip:2086/live/miriam/miriam123/92929.ts
+#EXTINF:-1,FILM 1 DRAMA
+http://mags.vip:2086/live/miriam/miriam123/92928.ts
+#EXTINF:-1,FILM 1 FAMILY
+http://mags.vip:2086/live/miriam/miriam123/92927.ts
+#EXTINF:-1,FILM 1 PREMIERE
+http://mags.vip:2086/live/miriam/miriam123/92926.ts
 #EXTINF:-1,FOX
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37342
-#EXTINF:-1,History
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37344
+http://mags.vip:2086/live/miriam/miriam123/92893.ts
+#EXTINF:-1,FOX SPORTS 1 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92905.ts
+#EXTINF:-1,FOX SPORTS 2 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92906.ts
+#EXTINF:-1,FOX SPORTS 4 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92908.ts
+#EXTINF:-1,FOX SPORTS 5 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92909.ts
+#EXTINF:-1,FOX SPORTS 6 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92910.ts
+#EXTINF:-1,HISTORY
+http://mags.vip:2086/live/miriam/miriam123/92935.ts
+#EXTINF:-1,HORSE & COUNTRY TV
+http://mags.vip:2086/live/miriam/miriam123/92939.ts
 #EXTINF:-1,ID
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37372
-#EXTINF:-1,Ketnet
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37456
-#EXTINF:-1,Love Nature
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37373
-#EXTINF:-1,Mezzo
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/65838
+http://mags.vip:2086/live/miriam/miriam123/92934.ts
+#EXTINF:-1,KETNET
+http://mags.vip:2086/live/miriam/miriam123/92972.ts
+#EXTINF:-1,MEZZO
+http://mags.vip:2086/live/miriam/miriam123/92948.ts
 #EXTINF:-1,MTV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37483
-#EXTINF:-1,MTV Brand New
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/65834
-#EXTINF:-1,MTV Music 24
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37482
-#EXTINF:-1,Nat Geo
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37346
-#EXTINF:-1,Nat Geo Wild
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37347
+http://mags.vip:2086/live/miriam/miriam123/92946.ts
+#EXTINF:-1,MTV MUSIC 24
+http://mags.vip:2086/live/miriam/miriam123/92945.ts
+#EXTINF:-1,NAT GEO WILD
+http://mags.vip:2086/live/miriam/miriam123/92933.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://mags.vip:2086/live/miriam/miriam123/92932.ts
 #EXTINF:-1,NET 5
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37333
-#EXTINF:-1,Nick JR.
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37457
-#EXTINF:-1,Nick Music
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37481
-#EXTINF:-1,Nickelodeon
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37463
-#EXTINF:-1,Nicktoons
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37357
+http://mags.vip:2086/live/miriam/miriam123/92885.ts
+#EXTINF:-1,NICK JR.
+http://mags.vip:2086/live/miriam/miriam123/92923.ts
+#EXTINF:-1,NICK MUSIC
+http://mags.vip:2086/live/miriam/miriam123/92944.ts
+#EXTINF:-1,NICK TOONS
+http://mags.vip:2086/live/miriam/miriam123/92922.ts
+#EXTINF:-1,NICKELODEON
+http://mags.vip:2086/live/miriam/miriam123/92921.ts
 #EXTINF:-1,NPO 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37326
+http://mags.vip:2086/live/miriam/miriam123/92876.ts
 #EXTINF:-1,NPO 2
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37327
+http://mags.vip:2086/live/miriam/miriam123/92877.ts
 #EXTINF:-1,NPO 3
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37328
-#EXTINF:-1,NPO Nieuws
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37369
-#EXTINF:-1,NPO Politiek
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37401
-#EXTINF:-1,NPO Zappelin Xtra
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37458
-#EXTINF:-1,Omroep Brabant
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37475
-#EXTINF:-1,Omroep Flevoland
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37476
-#EXTINF:-1,Omroep Friesland
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/65842
-#EXTINF:-1,Omroep Zeeland
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37478
-#EXTINF:-1,Omrop Fryslan
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37477
+http://mags.vip:2086/live/miriam/miriam123/92878.ts
+#EXTINF:-1,NPO NIEUWS
+http://mags.vip:2086/live/miriam/miriam123/92889.ts
+#EXTINF:-1,NPO POLITIEK
+http://mags.vip:2086/live/miriam/miriam123/92888.ts
+#EXTINF:-1,NPO ZAP EXTRA
+http://mags.vip:2086/live/miriam/miriam123/92887.ts
+#EXTINF:-1,OMROEP BRABANT
+http://mags.vip:2086/live/miriam/miriam123/92971.ts
+#EXTINF:-1,OMROEP FLEVOLAND
+http://mags.vip:2086/live/miriam/miriam123/92970.ts
+#EXTINF:-1,OMROEP FRIESLAND
+http://mags.vip:2086/live/miriam/miriam123/92969.ts
+#EXTINF:-1,OMROEP ZEELAND
+http://mags.vip:2086/live/miriam/miriam123/92968.ts
 #EXTINF:-1,ONS
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37467
+http://mags.vip:2086/live/miriam/miriam123/92967.ts
+#EXTINF:-1,PEBBLE
+http://mags.vip:2086/live/miriam/miriam123/92966.ts
 #EXTINF:-1,RTL 4
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37329
+http://mags.vip:2086/live/miriam/miriam123/92879.ts
 #EXTINF:-1,RTL 5
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37330
+http://mags.vip:2086/live/miriam/miriam123/92880.ts
 #EXTINF:-1,RTL 7
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37332
+http://mags.vip:2086/live/miriam/miriam123/92882.ts
 #EXTINF:-1,RTL 8
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37334
-#EXTINF:-1,RTL Crime
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37350
-#EXTINF:-1,RTL Lounge
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37349
-#EXTINF:-1,RTL Telekids
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37460
+http://mags.vip:2086/live/miriam/miriam123/92883.ts
+#EXTINF:-1,RTL CRIME
+http://mags.vip:2086/live/miriam/miriam123/92931.ts
+#EXTINF:-1,RTL LOUNGE
+http://mags.vip:2086/live/miriam/miriam123/92930.ts
+#EXTINF:-1,RTL TELEKIDS
+http://mags.vip:2086/live/miriam/miriam123/92924.ts
 #EXTINF:-1,RTL Z
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37340
+http://mags.vip:2086/live/miriam/miriam123/92886.ts
 #EXTINF:-1,RTV 7
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37405
-#EXTINF:-1,RTV Utrecht
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37469
+http://mags.vip:2086/live/miriam/miriam123/92965.ts
+#EXTINF:-1,RTV UTRECHT
+http://mags.vip:2086/live/miriam/miriam123/92964.ts
 #EXTINF:-1,SBS 6
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37331
+http://mags.vip:2086/live/miriam/miriam123/92881.ts
 #EXTINF:-1,SBS 9
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37337
-#EXTINF:-1,Slam!
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37363
-#EXTINF:-1,Spike
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37339
-#EXTINF:-1,Stingray Djazz
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37365
+http://mags.vip:2086/live/miriam/miriam123/92884.ts
+#EXTINF:-1,SLAM!
+http://mags.vip:2086/live/miriam/miriam123/92963.ts
+#EXTINF:-1,SPIKE
+http://mags.vip:2086/live/miriam/miriam123/92892.ts
 #EXTINF:-1,TLC
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37336
-#EXTINF:-1,TV Drenthe
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37474
-#EXTINF:-1,TV Gelderland
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37473
-#EXTINF:-1,TV Noord
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37402
-#EXTINF:-1,TV Oost
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37377
-#EXTINF:-1,TV Oranje
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37366
-#EXTINF:-1,TV Rijnmond
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37479
-#EXTINF:-1,TV West
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37470
-#EXTINF:-1,Veronica/Disney XD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37335
-#EXTINF:-1,Viceland
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/65830
-#EXTINF:-1,Xite
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/37376
+http://mags.vip:2086/live/miriam/miriam123/92894.ts
+#EXTINF:-1,TV DRENTHE
+http://mags.vip:2086/live/miriam/miriam123/92962.ts
+#EXTINF:-1,TV GELDERLAND
+http://mags.vip:2086/live/miriam/miriam123/92961.ts
+#EXTINF:-1,TV NOORD
+http://mags.vip:2086/live/miriam/miriam123/92960.ts
+#EXTINF:-1,TV OOST
+http://mags.vip:2086/live/miriam/miriam123/92957.ts
+#EXTINF:-1,TV ORANJE
+http://mags.vip:2086/live/miriam/miriam123/92956.ts
+#EXTINF:-1,TV RIJNMOND
+http://mags.vip:2086/live/miriam/miriam123/92955.ts
+#EXTINF:-1,TV WEST
+http://mags.vip:2086/live/miriam/miriam123/92954.ts
+#EXTINF:-1,VERONICA/DISNEYXD
+http://mags.vip:2086/live/miriam/miriam123/92918.ts
+#EXTINF:-1,VH1 CLASSIC
+http://mags.vip:2086/live/miriam/miriam123/92952.ts
+#EXTINF:-1,VICELAND
+http://mags.vip:2086/live/miriam/miriam123/92951.ts
+#EXTINF:-1,XITE
+http://mags.vip:2086/live/miriam/miriam123/92959.ts
+#EXTINF:-1,ZIGGO SPORT
+http://mags.vip:2086/live/miriam/miriam123/92898.ts
+#EXTINF:-1,ZIGGO SPORT DOCU
+http://mags.vip:2086/live/miriam/miriam123/92904.ts
+#EXTINF:-1,ZIGGO SPORT EXTRA
+http://mags.vip:2086/live/miriam/miriam123/92903.ts
+#EXTINF:-1,ZIGGO SPORT GOLF
+http://mags.vip:2086/live/miriam/miriam123/92902.ts
+#EXTINF:-1,ZIGGO SPORT RACING
+http://mags.vip:2086/live/miriam/miriam123/92900.ts
+#EXTINF:-1,ZIGGO SPORT SELECT
+http://mags.vip:2086/live/miriam/miriam123/92899.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL
+http://mags.vip:2086/live/miriam/miriam123/92901.ts

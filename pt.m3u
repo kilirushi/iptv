@@ -1,307 +1,87 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7452
-#EXTINF:-1,RTP 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7453
-#EXTINF:-1,RTP 2 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7700
-#EXTINF:-1,RTP 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7455
-#EXTINF:-1,RTP 3 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7701
-#EXTINF:-1,RTP 3 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7460
-#EXTINF:-1,RTP Madeira SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7463
-#EXTINF:-1,RTP Acores
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7702
-#EXTINF:-1,RTP Memoria SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7464
-#EXTINF:-1,RTP Africa SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7461
-#EXTINF:-1,SIC Mulher SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7467
-#EXTINF:-1,SIC Mulher FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7468
-#EXTINF:-1,SIC SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7456
-#EXTINF:-1,SIC FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7457
-#EXTINF:-1,SIC Caras SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7706
-#EXTINF:-1,SIC Caras FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7472
-#EXTINF:-1,SIC K SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7707
-#EXTINF:-1,SIC K FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7656
-#EXTINF:-1,SIC Noticias SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7708
-#EXTINF:-1,SIC Noticias FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7470
-#EXTINF:-1,SIC Radical SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7709
-#EXTINF:-1,SIC Radical FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7466
-#EXTINF:-1,TVI SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7721
-#EXTINF:-1,TVI FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7459
-#EXTINF:-1,TVI 24 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7722
-#EXTINF:-1,TVI 24 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7477
-#EXTINF:-1,TVI Ficçao SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7479
-#EXTINF:-1,TVI Ficçao FHD  
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/27296
-#EXTINF:-1,TVI Reality SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7480
-#EXTINF:-1,TVI Reality FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7481
-#EXTINF:-1,TVI Reality Mosaico
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/81234
-#EXTINF:-1,TVI Reality Camara 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/81235
-#EXTINF:-1,TVI Reality Camara 2
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/81236
-#EXTINF:-1,TVI Reality Camara 3
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/81237
-#EXTINF:-1,TVI Reality Camara 4
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/81238
-#EXTINF:-1,S+ SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/64716
-#EXTINF:-1,S+ FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7633
-#EXTINF:-1,Porto Canal SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7698
-#EXTINF:-1,Porto Canal FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7474
-#EXTINF:-1,CMTV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7475
-#EXTINF:-1,CMTV FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7476
-#EXTINF:-1,Regioes TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7488
-#EXTINF:-1,Localvisao TV SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/64717
-#EXTINF:-1,Localvisao TV HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7489
-#EXTINF:-1,Kuriakos TV SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7490
-#EXTINF:-1,Fatima TV FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7492
-#EXTINF:-1,Cancao Nova
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7491
-#EXTINF:-1,BTV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7670
-#EXTINF:-1,BTV FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7515
-#EXTINF:-1,BTV 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7513
-#EXTINF:-1,BTV 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7514
-#EXTINF:-1,A Bola TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7664
-#EXTINF:-1,A Bola TV HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7532
-#EXTINF:-1,Canal 11
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7671
-#EXTINF:-1,Canal 11 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7530
-#EXTINF:-1,TV Cine Top SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7555
-#EXTINF:-1,TV Cine Top FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/64698
-#EXTINF:-1,TV Cine Edition SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7557
-#EXTINF:-1,TV Cine Edition FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7558
-#EXTINF:-1,TV Cine Emotion SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7559
-#EXTINF:-1,TV Cine Emotion FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7560
-#EXTINF:-1,TV Cine Action SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7561
-#EXTINF:-1,TV Cine Action FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7562
-#EXTINF:-1,AMC
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7665
-#EXTINF:-1,AMC FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7572
-#EXTINF:-1,Cinemundo
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7673
-#EXTINF:-1,Cinemundo FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/27304
-#EXTINF:-1,SyFy
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7717
-#EXTINF:-1,SyFy FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7575
-#EXTINF:-1,Hollywood
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7567
-#EXTINF:-1,Hollywood FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7568
-#EXTINF:-1,FOX Movies
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7688
-#EXTINF:-1,FOX Movies FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7589
-#EXTINF:-1,FOX
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7684
-#EXTINF:-1,FOX FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7585
-#EXTINF:-1,FOX Cime
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7686
-#EXTINF:-1,FOX Crime FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7593
-#EXTINF:-1,FOX Comedy
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7685
-#EXTINF:-1,FOX Comedy FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7591
-#EXTINF:-1,FOX Life
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7687
-#EXTINF:-1,FOX Life FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7587
-#EXTINF:-1,ARTV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7487
-#EXTINF:-1,AXN
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7666
-#EXTINF:-1,AXN FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7579
-#EXTINF:-1,AXN White
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7668
-#EXTINF:-1,AXN White FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7583
-#EXTINF:-1,AXN Black
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7667
-#EXTINF:-1,AXN Black FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7581
-#EXTINF:-1,MTV Portugal
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7637
-#EXTINF:-1,MTV Portugal FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7638
-#EXTINF:-1,MTV Live HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7639
-#EXTINF:-1,Trace Urban
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7645
-#EXTINF:-1,Afro Music
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7635
-#EXTINF:-1,Kuriakos Music
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7646
-#EXTINF:-1,MCM Pop
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7641
-#EXTINF:-1,VH1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7643
-#EXTINF:-1,Mezzo
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7649
-#EXTINF:-1,Food Network HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7616
-#EXTINF:-1,24 Kitchen FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/27298
-#EXTINF:-1,24 Kitchen
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7628
-#EXTINF:-1,E! Entertainment
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7612
-#EXTINF:-1,E! Entertainment FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7617
-#EXTINF:-1,TLC
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7613
-#EXTINF:-1,Caca e Pesca
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7553
-#EXTINF:-1,Caca e Pesca FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/27303
-#EXTINF:-1,Canal Q
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7618
-#EXTINF:-1,Odisseia
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7597
-#EXTINF:-1,Odisseia FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7598
-#EXTINF:-1,Historia
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7691
-#EXTINF:-1,Historia FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7600
-#EXTINF:-1,National Geographic
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7693
-#EXTINF:-1,National Geographic FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7602
-#EXTINF:-1,National Geographic Wild
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7694
-#EXTINF:-1,National Geographic Wild FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7604
-#EXTINF:-1,Crime + Investigation
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7605
-#EXTINF:-1,Crime + Investigation FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7606
-#EXTINF:-1,ID Investigation Discovery
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7607
-#EXTINF:-1,Clubbing
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7648
-#EXTINF:-1,Discovery Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7595
-#EXTINF:-1,Discovery Channel FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7596
-#EXTINF:-1,Travel Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7619
-#EXTINF:-1,Travel Channel FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7549
-#EXTINF:-1,TV Record
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7720
-#EXTINF:-1,Globo
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7689
-#EXTINF:-1,Globo Now 
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/27273
-#EXTINF:-1,Globo Now FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/27272
-#EXTINF:-1,Canal Panda
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7652
-#EXTINF:-1,Disney Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7650
-#EXTINF:-1,Biggs
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7659
-#EXTINF:-1,Blaze
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7609
-#EXTINF:-1,Blaze FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7610
-#EXTINF:-1,Canal 180
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7634
-#EXTINF:-1,Caçavision
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7552
-#EXTINF:-1,Fuel TV FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7550
-#EXTINF:-1,Disney Junior
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7651
-#EXTINF:-1,Baby TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7669
-#EXTINF:-1,Kuriakos Kids
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7660
-#EXTINF:-1,Nick Jr.
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7657
-#EXTINF:-1,Nickelodeon
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7654
-#EXTINF:-1,Panda
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7696
-#EXTINF:-1,Eurochannel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7573
-#EXTINF:-1,FTV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7626
-#EXTINF:-1,FTV FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7627
-#EXTINF:-1,M6
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7577
-#EXTINF:-1,Motorvision FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7538
+#EXTINF:-1,RTP MADEIRA
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/69307
+#EXTINF:-1,TVI REALITY
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68192
+#EXTINF:-1,TVI 24
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68191
+#EXTINF:-1,TVI
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68190
+#EXTINF:-1,TV CINE 4
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68189
+#EXTINF:-1,TV CINE 3
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68188
+#EXTINF:-1,TV CINE 2
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68187
+#EXTINF:-1,TV CINE 1
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68186
+#EXTINF:-1,TOROS
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68185
+#EXTINF:-1,SPORT TV 5
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68193
+#EXTINF:-1,SPORT TV 1 HD
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68147
+#EXTINF:-1,SPORT TV  4
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68153
+#EXTINF:-1,SPORT TV  2
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68151
+#EXTINF:-1,SPORT  TV 3
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68152
+#EXTINF:-1,SIC RADICAL
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68183
+#EXTINF:-1,SIC NOTICIAS
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68182
+#EXTINF:-1,SIC K
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68181
+#EXTINF:-1,SIC
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68180
+#EXTINF:-1,RTP 3
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68179
+#EXTINF:-1,RTP 2
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68178
+#EXTINF:-1,RTP 1
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68177
 #EXTINF:-1,PFC
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7537
-#EXTINF:-1,CBS Reality
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7611
-#EXTINF:-1,Fine Living Network HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7615
-#EXTINF:-1,TCV INTERNACIONAL
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7718
-#EXTINF:-1,Tiji
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7658
-#EXTINF:-1,Fuel TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7551
-#EXTINF:-1,TV Cine 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7556
-#EXTINF:-1,Netflix 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/60713
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68175
+#EXTINF:-1,ODISEA
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68174
+#EXTINF:-1,NICKELODEON
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68154
+#EXTINF:-1,NATIONAL GEO
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68173
+#EXTINF:-1,HOLLYWOOD
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68170
+#EXTINF:-1,GLOBO TV
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68169
+#EXTINF:-1,FoxLife HD
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68168
+#EXTINF:-1,FoxCrime
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68167
+#EXTINF:-1,FoxComedy
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68166
+#EXTINF:-1,FOX MOVIES
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68165
+#EXTINF:-1,FOX
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68164
+#EXTINF:-1,EUROSPORT 1
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68162
+#EXTINF:-1,ELEVEN SPORT 5
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68155
+#EXTINF:-1,DISNEY JUNIOR
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68161
+#EXTINF:-1,DISCOVERY
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68160
+#EXTINF:-1,CANAL 11
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68163
+#EXTINF:-1,TV RECORD
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/69839
+#EXTINF:-1,BENFICA TV1
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68158
+#EXTINF:-1,AXN WHITE
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68157
+#EXTINF:-1,AXN
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68156
+#EXTINF:-1,AMC
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68184
+#EXTINF:-1,A BOLA TV
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68172
