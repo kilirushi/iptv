@@ -1,153 +1,167 @@
 #EXTM3U
-#EXTINF:-1,Das Erste HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33475
-#EXTINF:-1,One HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33478
-#EXTINF:-1,ZDF HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33481
-#EXTINF:-1,Sat.1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33484
-#EXTINF:-1,Sat.1 Gold FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33487
-#EXTINF:-1,RTL
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33489
-#EXTINF:-1,RTL FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33491
-#EXTINF:-1,RTLZWEI HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33496
-#EXTINF:-1,RTL Passion
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33501
-#EXTINF:-1,RTL Living
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33502
-#EXTINF:-1,RTL Crime
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33503
-#EXTINF:-1,ProSieben HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33506
-#EXTINF:-1,Pro7 Maxx FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33508
-#EXTINF:-1,Pro7 Fun HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33509
-#EXTINF:-1,VOX
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33514
-#EXTINF:-1,VOX HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33515
-#EXTINF:-1,VOX FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33516
-#EXTINF:-1,Tele 5 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33518
-#EXTINF:-1,Sixx HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33521
-#EXTINF:-1,ServusTV HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33523
-#EXTINF:-1,MDR
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33526
-#EXTINF:-1,WDR HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33527
-#EXTINF:-1,SWR
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33528
-#EXTINF:-1,ZDF neo HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33531
-#EXTINF:-1,Discovery FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33533
-#EXTINF:-1,NatGeo FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33534
-#EXTINF:-1,NatGeo Wild HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33535
-#EXTINF:-1,Animal Planet HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33536
-#EXTINF:-1,History HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33538
-#EXTINF:-1,Spiegel Geschichte
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33540
-#EXTINF:-1,Spiegel TV Wissen
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33541
-#EXTINF:-1,Kabel 1 Doku
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33542
-#EXTINF:-1,Phoenix
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33544
-#EXTINF:-1,ZDF info
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33545
-#EXTINF:-1,N24 DOKU
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33546
-#EXTINF:-1,WELT
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33547
-#EXTINF:-1,WELT FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33548
-#EXTINF:-1,n-tv
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33549
+#EXTINF:-1,13TH STREET
+http://mags.vip:2086/live/miriam/miriam123/92398.ts
+#EXTINF:-1,3SAT
+http://mags.vip:2086/live/miriam/miriam123/92313.ts
+#EXTINF:-1,A&E
+http://mags.vip:2086/live/miriam/miriam123/92405.ts
+#EXTINF:-1,ANIMAL PLANET
+http://mags.vip:2086/live/miriam/miriam123/92366.ts
+#EXTINF:-1,ARTE
+http://mags.vip:2086/live/miriam/miriam123/92312.ts
+#EXTINF:-1,ATV
+http://mags.vip:2086/live/miriam/miriam123/92416.ts
+#EXTINF:-1,AXN
+http://mags.vip:2086/live/miriam/miriam123/92412.ts
+#EXTINF:-1,BOOMERANG
+http://mags.vip:2086/live/miriam/miriam123/92378.ts
+#EXTINF:-1,CLASSICA
+http://mags.vip:2086/live/miriam/miriam123/92361.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://mags.vip:2086/live/miriam/miriam123/92415.ts
+#EXTINF:-1,CRIME INVESTIGATION
+http://mags.vip:2086/live/miriam/miriam123/92369.ts
+#EXTINF:-1,DAS ERSTE
+http://mags.vip:2086/live/miriam/miriam123/92311.ts
+#EXTINF:-1,DAZN 1
+http://mags.vip:2086/live/miriam/miriam123/92343.ts
+#EXTINF:-1,DAZN 2
+http://mags.vip:2086/live/miriam/miriam123/92344.ts
+#EXTINF:-1,DISCOVERY
+http://mags.vip:2086/live/miriam/miriam123/92362.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92374.ts
+#EXTINF:-1,DISNEY CINEMAGIC
+http://mags.vip:2086/live/miriam/miriam123/92373.ts
+#EXTINF:-1,DISNEY JR
+http://mags.vip:2086/live/miriam/miriam123/92372.ts
+#EXTINF:-1,DISNEY XD
+http://mags.vip:2086/live/miriam/miriam123/92371.ts
 #EXTINF:-1,DMAX
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33551
-#EXTINF:-1,DMAX FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33552
-#EXTINF:-1,TLC HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33554
-#EXTINF:-1,Arte FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33555
-#EXTINF:-1,Arte HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33556
-#EXTINF:-1,Nickelodeon (AT)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33560
-#EXTINF:-1,Comedy Central FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33563
-#EXTINF:-1,Disney Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33564
-#EXTINF:-1,Disney XD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33566
-#EXTINF:-1,Disney Junior FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33569
-#EXTINF:-1,Boomerang
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33571
-#EXTINF:-1,Junior
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33572
-#EXTINF:-1,Super RTL HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33574
-#EXTINF:-1,Toggo Plus
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33576
-#EXTINF:-1,KiKA HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33577
-#EXTINF:-1,Sky 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33580
-#EXTINF:-1,Sky Cinema Hits FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33582
-#EXTINF:-1,Sky Cinema FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33585
-#EXTINF:-1,Sky Cinema +24 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33590
-#EXTINF:-1,Sky Atlantic HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33596
-#EXTINF:-1,Sky Cinema Action FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33599
-#EXTINF:-1,Sky Cinema Family FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33601
-#EXTINF:-1,Sky Krimi FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33605
-#EXTINF:-1,Crime + Investigation
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33606
-#EXTINF:-1,Fox HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33608
-#EXTINF:-1,TNT Comedy HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33610
-#EXTINF:-1,TNT Film FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33613
-#EXTINF:-1,TNT Serie FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33615
-#EXTINF:-1,Kinowelt
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33616
-#EXTINF:-1,Silverline HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33617
-#EXTINF:-1,13th Street FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33620
-#EXTINF:-1,Syfy FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33623
-#EXTINF:-1,Universal TV FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33624
-#EXTINF:-1,Heimatkanal
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33627
-#EXTINF:-1,Romance TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33628
-#EXTINF:-1,Sky Select 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33629
-#EXTINF:-1,Sky Select 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33630
-#EXTINF:-1,Deluxe Music FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/33644
+http://mags.vip:2086/live/miriam/miriam123/92328.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://mags.vip:2086/live/miriam/miriam123/92363.ts
+#EXTINF:-1,EURONEWS
+http://mags.vip:2086/live/miriam/miriam123/92418.ts
+#EXTINF:-1,EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92355.ts
+#EXTINF:-1,EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92356.ts
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://mags.vip:2086/live/miriam/miriam123/92357.ts
+#EXTINF:-1,FOX
+http://mags.vip:2086/live/miriam/miriam123/92397.ts
+#EXTINF:-1,HISTORY
+http://mags.vip:2086/live/miriam/miriam123/92364.ts
+#EXTINF:-1,HR
+http://mags.vip:2086/live/miriam/miriam123/92413.ts
+#EXTINF:-1,JUNIOR
+http://mags.vip:2086/live/miriam/miriam123/92379.ts
+#EXTINF:-1,KABEL 1 CLASSICS
+http://mags.vip:2086/live/miriam/miriam123/92325.ts
+#EXTINF:-1,KABEL 1 DOKU
+http://mags.vip:2086/live/miriam/miriam123/92404.ts
+#EXTINF:-1,KABEL EINS
+http://mags.vip:2086/live/miriam/miriam123/92324.ts
+#EXTINF:-1,KIKA
+http://mags.vip:2086/live/miriam/miriam123/92370.ts
+#EXTINF:-1,KINOWELT TV
+http://mags.vip:2086/live/miriam/miriam123/92400.ts
+#EXTINF:-1,MOTORVISION TV
+http://mags.vip:2086/live/miriam/miriam123/92360.ts
+#EXTINF:-1,N-TV
+http://mags.vip:2086/live/miriam/miriam123/92417.ts
+#EXTINF:-1,N24 HD DE
+http://mags.vip:2086/live/miriam/miriam123/92419.ts
+#EXTINF:-1,NAT GEO WILD
+http://mags.vip:2086/live/miriam/miriam123/92367.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://mags.vip:2086/live/miriam/miriam123/92365.ts
+#EXTINF:-1,NDR
+http://mags.vip:2086/live/miriam/miriam123/92411.ts
+#EXTINF:-1,NICKELODEON
+http://mags.vip:2086/live/miriam/miriam123/92377.ts
+#EXTINF:-1,ONE
+http://mags.vip:2086/live/miriam/miriam123/92329.ts
+#EXTINF:-1,ORF 1
+http://mags.vip:2086/live/miriam/miriam123/92409.ts
+#EXTINF:-1,ORF 2
+http://mags.vip:2086/live/miriam/miriam123/92410.ts
+#EXTINF:-1,PHOENIX
+http://mags.vip:2086/live/miriam/miriam123/92323.ts
+#EXTINF:-1,PROSIEBEN
+http://mags.vip:2086/live/miriam/miriam123/92319.ts
+#EXTINF:-1,PROSIEBEN MAXX
+http://mags.vip:2086/live/miriam/miriam123/92320.ts
+#EXTINF:-1,ROMANCE TV
+http://mags.vip:2086/live/miriam/miriam123/92402.ts
+#EXTINF:-1,RTL
+http://mags.vip:2086/live/miriam/miriam123/92315.ts
+#EXTINF:-1,RTL 2
+http://mags.vip:2086/live/miriam/miriam123/92316.ts
+#EXTINF:-1,RTL CRIME
+http://mags.vip:2086/live/miriam/miriam123/92401.ts
+#EXTINF:-1,RTL NITRO
+http://mags.vip:2086/live/miriam/miriam123/92317.ts
+#EXTINF:-1,SAT 1
+http://mags.vip:2086/live/miriam/miriam123/92321.ts
+#EXTINF:-1,SAT 1
+http://mags.vip:2086/live/miriam/miriam123/92406.ts
+#EXTINF:-1,SAT 1 GOLD
+http://mags.vip:2086/live/miriam/miriam123/92322.ts
+#EXTINF:-1,SIXX
+http://mags.vip:2086/live/miriam/miriam123/92318.ts
+#EXTINF:-1,SKY 1
+http://mags.vip:2086/live/miriam/miriam123/92380.ts
+#EXTINF:-1,SKY ATLANTIC
+http://mags.vip:2086/live/miriam/miriam123/92391.ts
+#EXTINF:-1,SKY CINEMA 1
+http://mags.vip:2086/live/miriam/miriam123/92381.ts
+#EXTINF:-1,SKY CINEMA 24
+http://mags.vip:2086/live/miriam/miriam123/92382.ts
+#EXTINF:-1,SKY CINEMA ACTION
+http://mags.vip:2086/live/miriam/miriam123/92390.ts
+#EXTINF:-1,SKY CINEMA COMEDY
+http://mags.vip:2086/live/miriam/miriam123/92389.ts
+#EXTINF:-1,SKY CINEMA COMIC HELDEN
+http://mags.vip:2086/live/miriam/miriam123/92388.ts
+#EXTINF:-1,SKY CINEMA FAMILY
+http://mags.vip:2086/live/miriam/miriam123/92386.ts
+#EXTINF:-1,SKY CINEMA HITS
+http://mags.vip:2086/live/miriam/miriam123/92385.ts
+#EXTINF:-1,SKY CINEMA NOSTALGIE
+http://mags.vip:2086/live/miriam/miriam123/92383.ts
+#EXTINF:-1,SKY KRIMI
+http://mags.vip:2086/live/miriam/miriam123/92392.ts
+#EXTINF:-1,SKY SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92331.ts
+#EXTINF:-1,SKY SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92332.ts
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://mags.vip:2086/live/miriam/miriam123/92341.ts
+#EXTINF:-1,SKY SPORT AUSTRIA 2
+http://mags.vip:2086/live/miriam/miriam123/92342.ts
+#EXTINF:-1,SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92359.ts
+#EXTINF:-1,SPORTDIGITAL
+http://mags.vip:2086/live/miriam/miriam123/92358.ts
+#EXTINF:-1,SUPER RTL
+http://mags.vip:2086/live/miriam/miriam123/92375.ts
+#EXTINF:-1,SYFY
+http://mags.vip:2086/live/miriam/miriam123/92395.ts
+#EXTINF:-1,TELE 5
+http://mags.vip:2086/live/miriam/miriam123/92326.ts
+#EXTINF:-1,TNT COMEDY
+http://mags.vip:2086/live/miriam/miriam123/92394.ts
+#EXTINF:-1,TNT SERIE
+http://mags.vip:2086/live/miriam/miriam123/92396.ts
+#EXTINF:-1,UNIVERSAL TV
+http://mags.vip:2086/live/miriam/miriam123/92414.ts
+#EXTINF:-1,VIVA COMEDY
+http://mags.vip:2086/live/miriam/miriam123/92403.ts
+#EXTINF:-1,VOX
+http://mags.vip:2086/live/miriam/miriam123/92399.ts
+#EXTINF:-1,WELT HD DE
+http://mags.vip:2086/live/miriam/miriam123/92420.ts
+#EXTINF:-1,ZDF
+http://mags.vip:2086/live/miriam/miriam123/92314.ts

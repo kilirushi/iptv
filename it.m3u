@@ -1,241 +1,171 @@
 #EXTM3U
-#EXTINF:-1,RAI 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39903
-#EXTINF:-1,RAI 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39902
-#EXTINF:-1,RAI 3 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39901
+#EXTINF:-1,Sky Sport HD SERIE A
+http://starshare.live:8080/live/0987654321/1234567890/1157.ts
+#EXTINF:-1,Sky Sport HD ARENA
+http://starshare.live:8080/live/0987654321/1234567890/1158.ts
+#EXTINF:-1,Sky Sport 24
+http://starshare.live:8080/live/0987654321/1234567890/1159.ts
+#EXTINF:-1,SKY SPORT Collection HD
+http://starshare.live:8080/live/0987654321/1234567890/1160.ts
+#EXTINF:-1,Rai Movie HD
+http://starshare.live:8080/live/0987654321/1234567890/1209.ts
+#EXTINF:-1,TV 2000 HD
+http://starshare.live:8080/live/0987654321/1234567890/1210.ts
+#EXTINF:-1, SKY CALCIO 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/1211.ts
+#EXTINF:-1,Super TV HD
+http://starshare.live:8080/live/0987654321/1234567890/1213.ts
+#EXTINF:-1,TVRS HD
+http://starshare.live:8080/live/0987654321/1234567890/1214.ts
 #EXTINF:-1,RAI 4 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39882
-#EXTINF:-1,RAI 5 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39883
-#EXTINF:-1,RAI Gulp HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39885
-#EXTINF:-1,RAI Movie HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39886
-#EXTINF:-1,RAI Premium HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39887
-#EXTINF:-1,DMAX HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39881
-#EXTINF:-1,Sport Italia FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39889
-#EXTINF:-1,Sport Italia Calcio
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39890
-#EXTINF:-1,History Lab
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39892
-#EXTINF:-1,TV8
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39893
-#EXTINF:-1,Top Crime
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39894
-#EXTINF:-1,RETE 4
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39897
-#EXTINF:-1,RAI Storia HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39899
-#EXTINF:-1,RAI Sport HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39900
-#EXTINF:-1,Mediaset Extra
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39905
-#EXTINF:-1,LA 7
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39907
-#EXTINF:-1,LA 5
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39908
-#EXTINF:-1,Italia 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39910
-#EXTINF:-1,Italia 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39911
-#EXTINF:-1,Iris
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39912
-#EXTINF:-1,Focus
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39913
-#EXTINF:-1,Cielo
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39915
-#EXTINF:-1,Canale 5 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39917
-#EXTINF:-1,Canale 5
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39918
-#EXTINF:-1,20 Mediaset
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39921
-#EXTINF:-1,Discovery Frisbee HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39922
-#EXTINF:-1,Boing
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39919
-#EXTINF:-1,Cartoonito
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39916
-#EXTINF:-1,Disney Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39925
-#EXTINF:-1,Disney Junior
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39926
-#EXTINF:-1,Nickelodeon
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39928
-#EXTINF:-1,Baby TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39930
-#EXTINF:-1,Super!
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39934
-#EXTINF:-1,Discovery K2
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39935
-#EXTINF:-1,Rai YoYo HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39937
-#EXTINF:-1,Rai News 24
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39950
-#EXTINF:-1,Sky Cinema Uno+ 24 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39955
-#EXTINF:-1,Sky Cinema 2 +24 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39957
-#EXTINF:-1,Sky Cinema Action HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39958
-#EXTINF:-1,Sky Cinema Drama HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39959
-#EXTINF:-1,Sky Cinema Drama FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39960
-#EXTINF:-1,Sky Cinema Action FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39961
-#EXTINF:-1,Sky Cinema Family HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39964
-#EXTINF:-1,Sky Cinema Collection FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39965
-#EXTINF:-1,Sky Cinema Romance FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39968
-#EXTINF:-1,Sky Cinema Suspense HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39969
-#EXTINF:-1,FOX HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39970
-#EXTINF:-1,Sky Cinema Family FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39972
-#EXTINF:-1,Sky Cinema Due FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39973
-#EXTINF:-1,Premium Cinema FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39975
-#EXTINF:-1,Premium Comedy FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39977
-#EXTINF:-1,Premium Action HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39980
-#EXTINF:-1,Premium Crime HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39982
-#EXTINF:-1,Top Crime HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39983
-#EXTINF:-1,Premium Stories HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39985
-#EXTINF:-1,Premium Energy FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39986
-#EXTINF:-1,Premium Energy HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39987
-#EXTINF:-1,Premium Emotion HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39989
-#EXTINF:-1,Premium Cinema 24 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39990
-#EXTINF:-1,Paramount Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39991
-#EXTINF:-1,Sky Primafila 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39994
-#EXTINF:-1,Sky Primafila 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39995
-#EXTINF:-1,Sky Primafila 3 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39996
-#EXTINF:-1,Sky Primafila 4 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39997
-#EXTINF:-1,Sky Primafila 5 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39998
-#EXTINF:-1,Sky Primafila 6 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39999
-#EXTINF:-1,Sky Primafila 7 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40000
-#EXTINF:-1,Sky Primafila 8 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40001
-#EXTINF:-1,Sky Primafila 9 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40002
-#EXTINF:-1,Sky Primafila 10 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40003
-#EXTINF:-1,Sky Sport 24 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40023
-#EXTINF:-1,Sky Sport Uno FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40025
-#EXTINF:-1,Sky Sport Uno HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40026
-#EXTINF:-1,Sky Sport Arena FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40027
-#EXTINF:-1,Sky Sport Arena HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40028
-#EXTINF:-1,Sky Sport Collection HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40030
-#EXTINF:-1,Sky Sport Football FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40031
+http://starshare.live:8080/live/0987654321/1234567890/1215.ts
+#EXTINF:-1,RAI 5 FHD
+http://starshare.live:8080/live/0987654321/1234567890/1216.ts
+#EXTINF:-1,TV8 HD
+http://starshare.live:8080/live/0987654321/1234567890/1217.ts
 #EXTINF:-1,Sky Sport Football HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40032
-#EXTINF:-1,Sky Sport Serie A FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40033
-#EXTINF:-1,Sky Sport Serie A HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40034
-#EXTINF:-1,Sky Sport Moto GP FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40035
-#EXTINF:-1,Sky Sport F1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40037
-#EXTINF:-1,Eurosport 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40041
-#EXTINF:-1,Eurosport 2
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40042
-#EXTINF:-1,Milan Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40043
-#EXTINF:-1,Roma TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40044
-#EXTINF:-1,INTER TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40045
-#EXTINF:-1,Lazzio Style Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40046
-#EXTINF:-1,Sport Italia
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40048
-#EXTINF:-1,Juventus Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40050
-#EXTINF:-1,Torino Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40051
-#EXTINF:-1,Sky Calcio 1 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40054
-#EXTINF:-1,Nat Geo HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40074
-#EXTINF:-1,Nat Geo Wild HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40075
-#EXTINF:-1,Discovery Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40076
-#EXTINF:-1,Discovery Science HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40077
-#EXTINF:-1,Sky Arte HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40079
-#EXTINF:-1,History HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40080
-#EXTINF:-1,Focus
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40081
-#EXTINF:-1,Pesca HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40082
-#EXTINF:-1,Sky Atlantic FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40086
-#EXTINF:-1,Sky Atlantic sd
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40088
+http://starshare.live:8080/live/0987654321/1234567890/1218.ts
+#EXTINF:-1,FOX HD
+http://starshare.live:8080/live/0987654321/1234567890/1219.ts
+#EXTINF:-1,FOX Life HD
+http://starshare.live:8080/live/0987654321/1234567890/1220.ts
+#EXTINF:-1,Top Crime HD
+http://starshare.live:8080/live/0987654321/1234567890/1221.ts
+#EXTINF:-1,Rai Yoyo HD
+http://starshare.live:8080/live/0987654321/1234567890/1223.ts
+#EXTINF:-1,Premium Action  HD
+http://starshare.live:8080/live/0987654321/1234567890/1224.ts
+#EXTINF:-1,IRIS
+http://starshare.live:8080/live/0987654321/1234567890/1225.ts
+#EXTINF:-1,CANALE 5 HD
+http://starshare.live:8080/live/0987654321/1234567890/1226.ts
+#EXTINF:-1,ITALIA 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/1227.ts
+#EXTINF:-1,NAtIONAL GEOGRAPHIC HD
+http://starshare.live:8080/live/0987654321/1234567890/1228.ts
+#EXTINF:-1,PREMIUM CINEMA EMOTION
+http://starshare.live:8080/live/0987654321/1234567890/1229.ts
+#EXTINF:-1,PREMIUM CINEMA ENERGY
+http://starshare.live:8080/live/0987654321/1234567890/1230.ts
+#EXTINF:-1,RAI 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/1232.ts
+#EXTINF:-1,RAI 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/1233.ts
+#EXTINF:-1,Rai 3 HD
+http://starshare.live:8080/live/0987654321/1234567890/1234.ts
+#EXTINF:-1,RAI 4 HD
+http://starshare.live:8080/live/0987654321/1234567890/1235.ts
+#EXTINF:-1,RAI 5 HD
+http://starshare.live:8080/live/0987654321/1234567890/1236.ts
+#EXTINF:-1,RAI GULP HD
+http://starshare.live:8080/live/0987654321/1234567890/1237.ts
+#EXTINF:-1,SKY CINEMA UNO HD
+http://starshare.live:8080/live/0987654321/1234567890/1239.ts
+#EXTINF:-1,RAI SPORT 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/1240.ts
+#EXTINF:-1,SKY SPORT FORMULA 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/1241.ts
+#EXTINF:-1,Sky Supertennis HD
+http://starshare.live:8080/live/0987654321/1234567890/1242.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://starshare.live:8080/live/0987654321/1234567890/1243.ts
+#EXTINF:-1,Primafila 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/1244.ts
+#EXTINF:-1,Primafila 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/1245.ts
+#EXTINF:-1,Primafila 3 HD
+http://starshare.live:8080/live/0987654321/1234567890/1246.ts
+#EXTINF:-1,Primafila 4 HD
+http://starshare.live:8080/live/0987654321/1234567890/1247.ts
+#EXTINF:-1,Primafila 5 HD
+http://starshare.live:8080/live/0987654321/1234567890/1248.ts
+#EXTINF:-1,Primafila 6 HD
+http://starshare.live:8080/live/0987654321/1234567890/1249.ts
+#EXTINF:-1,Primafila 7 HD
+http://starshare.live:8080/live/0987654321/1234567890/1250.ts
+#EXTINF:-1,Primafila 8 HD
+http://starshare.live:8080/live/0987654321/1234567890/1251.ts
+#EXTINF:-1,Primafila 9 HD
+http://starshare.live:8080/live/0987654321/1234567890/1252.ts
+#EXTINF:-1,Cinema Family
+http://starshare.live:8080/live/0987654321/1234567890/1254.ts
+#EXTINF:-1,Premium_Crime HD
+http://starshare.live:8080/live/0987654321/1234567890/1255.ts
+#EXTINF:-1,Premium_Discovery_World
+http://starshare.live:8080/live/0987654321/1234567890/1256.ts
+#EXTINF:-1,RSI La1 HD
+http://starshare.live:8080/live/0987654321/1234567890/1257.ts
+#EXTINF:-1,Canale 7 Ita
+http://starshare.live:8080/live/0987654321/1234567890/1276.ts
+#EXTINF:-1,Rai Premium HD
+http://starshare.live:8080/live/0987654321/1234567890/1277.ts
+#EXTINF:-1,Carina TV (Basilicata)
+http://starshare.live:8080/live/0987654321/1234567890/1278.ts
+#EXTINF:-1,Mediaset Extra HD
+http://starshare.live:8080/live/0987654321/1234567890/1279.ts
 #EXTINF:-1,Sky Uno HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40089
+http://starshare.live:8080/live/0987654321/1234567890/1280.ts
+#EXTINF:-1,Boing
+http://starshare.live:8080/live/0987654321/1234567890/1281.ts
+#EXTINF:-1,Frisbee
+http://starshare.live:8080/live/0987654321/1234567890/1282.ts
+#EXTINF:-1,Giallo
+http://starshare.live:8080/live/0987654321/1234567890/1283.ts
+#EXTINF:-1,La 7 HD
+http://starshare.live:8080/live/0987654321/1234567890/1284.ts
+#EXTINF:-1,TV Qui Modena (EmiliaRomagna)
+http://starshare.live:8080/live/0987654321/1234567890/1286.ts
+#EXTINF:-1,Sky Sport Uno HD
+http://starshare.live:8080/live/0987654321/1234567890/1287.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://starshare.live:8080/live/0987654321/1234567890/1288.ts
+#EXTINF:-1,Telecolor
+http://starshare.live:8080/live/0987654321/1234567890/1289.ts
+#EXTINF:-1,Sport italia  Solo calcio HD
+http://starshare.live:8080/live/0987654321/1234567890/1290.ts
 #EXTINF:-1,Dmax HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40092
-#EXTINF:-1,Blaze HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40093
-#EXTINF:-1,Real Time HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40094
-#EXTINF:-1,Giallo HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40095
-#EXTINF:-1,Fox Crime HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40098
-#EXTINF:-1,Fox Life HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40099
-#EXTINF:-1,Comedy Central
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40100
-#EXTINF:-1,TOP crime
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40101
-#EXTINF:-1,Gambero Rosso HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40102
-#EXTINF:-1,Pesca & Caccia
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40103
-#EXTINF:-1,Italian Fishing
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40104
-#EXTINF:-1,Food Network HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40105
-#EXTINF:-1,Alice
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/40106
-#EXTINF:-1,Dazn 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/93710
+http://starshare.live:8080/live/0987654321/1234567890/1291.ts
+#EXTINF:-1,Real Time
+http://starshare.live:8080/live/0987654321/1234567890/1292.ts
+#EXTINF:-1,Rai Premium
+http://starshare.live:8080/live/0987654321/1234567890/1293.ts
+#EXTINF:-1,Premium Stories
+http://starshare.live:8080/live/0987654321/1234567890/1294.ts
+#EXTINF:-1,ReteBiella TV
+http://starshare.live:8080/live/0987654321/1234567890/1295.ts
+#EXTINF:-1,Sport Italia 24 live HD
+http://starshare.live:8080/live/0987654321/1234567890/1296.ts
+#EXTINF:-1,PREMIUM ENERGY
+http://starshare.live:8080/live/0987654321/1234567890/1332.ts
+#EXTINF:-1,PREMIUM EMOTION
+http://starshare.live:8080/live/0987654321/1234567890/1333.ts
+#EXTINF:-1,PREMIUM COMEDY
+http://starshare.live:8080/live/0987654321/1234567890/1334.ts
+#EXTINF:-1,Premium Crime HD
+http://starshare.live:8080/live/0987654321/1234567890/1336.ts
+#EXTINF:-1,RETE 4 HD
+http://starshare.live:8080/live/0987654321/1234567890/1337.ts
+#EXTINF:-1,CIELO
+http://starshare.live:8080/live/0987654321/1234567890/1338.ts
+#EXTINF:-1,LA 5 HD
+http://starshare.live:8080/live/0987654321/1234567890/1339.ts
+#EXTINF:-1,MEDIASET 20 HD
+http://starshare.live:8080/live/0987654321/1234567890/1340.ts
+#EXTINF:-1,RSI LA 1
+http://starshare.live:8080/live/0987654321/1234567890/1341.ts
+#EXTINF:-1,RSI LA 2
+http://starshare.live:8080/live/0987654321/1234567890/1342.ts
+#EXTINF:-1,TV 8
+http://starshare.live:8080/live/0987654321/1234567890/1343.ts
+#EXTINF:-1,SKY SPORT UNO
+http://starshare.live:8080/live/0987654321/1234567890/1344.ts
+#EXTINF:-1,Spike
+http://starshare.live:8080/live/0987654321/1234567890/1345.ts
+#EXTINF:-1,Top Crime
+http://starshare.live:8080/live/0987654321/1234567890/1346.ts
+#EXTINF:-1,CI Crime Inv.HD
+http://starshare.live:8080/live/0987654321/1234567890/1347.ts
+#EXTINF:-1,Rai Scuola HD
+http://starshare.live:8080/live/0987654321/1234567890/1348.ts
+#EXTINF:-1,Rai Gulp HD
+http://starshare.live:8080/live/0987654321/1234567890/1349.ts
