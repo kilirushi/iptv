@@ -1,371 +1,157 @@
 #EXTM3U
-#EXTINF:-1,CNN INTER
-http://attacktv.ddns.net:2052/12345/54321/26487
-#EXTINF:-1,CNBC HD
-http://attacktv.ddns.net:2052/12345/54321/26481
-#EXTINF:-1,Fox News
-http://attacktv.ddns.net:2052/12345/54321/26482
-#EXTINF:-1,BBC World News
-http://attacktv.ddns.net:2052/12345/54321/26484
-#EXTINF:-1,CBS News
-http://attacktv.ddns.net:2052/12345/54321/26480
-#EXTINF:-1,MSNBC HD
-http://attacktv.ddns.net:2052/12345/54321/26491
-#EXTINF:-1,A and E HD
-http://attacktv.ddns.net:2052/12345/54321/55020
-#EXTINF:-1,ABC Cleveland
-http://attacktv.ddns.net:2052/12345/54321/55019
-#EXTINF:-1,ABC FAMILY/SPARK
-http://attacktv.ddns.net:2052/12345/54321/55018
-#EXTINF:-1,ABC HD
-http://attacktv.ddns.net:2052/12345/54321/55017
-#EXTINF:-1,ABC houston
-http://attacktv.ddns.net:2052/12345/54321/55016
-#EXTINF:-1,ABC Kansas City
-http://attacktv.ddns.net:2052/12345/54321/55015
-#EXTINF:-1,ABC News HD
-http://attacktv.ddns.net:2052/12345/54321/55014
-#EXTINF:-1,ABC Sacramento HD
-http://attacktv.ddns.net:2052/12345/54321/55013
-#EXTINF:-1,ActionMax
-http://attacktv.ddns.net:2052/12345/54321/55012
-#EXTINF:-1,Adult Swim
-http://attacktv.ddns.net:2052/12345/54321/55011
-#EXTINF:-1,AFN Prime Pacific
-http://attacktv.ddns.net:2052/12345/54321/55009
-#EXTINF:-1,AFN Sports
-http://attacktv.ddns.net:2052/12345/54321/55008
-#EXTINF:-1,AFN Sports 2
-http://attacktv.ddns.net:2052/12345/54321/55007
+#EXTINF:-1,Fox_news
+http://mhiptv.com:8888/Shehata123/S8855865588/5011
+#EXTINF:-1,ANIMAL_PLANET_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5008
+#EXTINF:-1,HALLMARK
+http://mhiptv.com:8888/Shehata123/S8855865588/4946
+#EXTINF:-1,FX_TV
+http://mhiptv.com:8888/Shehata123/S8855865588/4429
+#EXTINF:-1,FX_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4942
+#EXTINF:-1,FXX_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4943
+#EXTINF:-1,Fox_Sports_West
+http://mhiptv.com:8888/Shehata123/S8855865588/12341
+#EXTINF:-1,Fox_Sports_Ohio_Plus
+http://mhiptv.com:8888/Shehata123/S8855865588/12343
+#EXTINF:-1,Fox_Sports_Ohio
+http://mhiptv.com:8888/Shehata123/S8855865588/12344
+#EXTINF:-1,Fox_Soccer_Plus
+http://mhiptv.com:8888/Shehata123/S8855865588/12345
+#EXTINF:-1,FOX_Seattle
+http://mhiptv.com:8888/Shehata123/S8855865588/12346
+#EXTINF:-1,FOX_San_Francisco
+http://mhiptv.com:8888/Shehata123/S8855865588/12347
+#EXTINF:-1,FOX_ KANSAS CITY
+http://mhiptv.com:8888/Shehata123/S8855865588/12350
+#EXTINF:-1,FOX_Philadelphia
+http://mhiptv.com:8888/Shehata123/S8855865588/12352
+#EXTINF:-1,Fox_News_Channel
+http://mhiptv.com:8888/Shehata123/S8855865588/12353
+#EXTINF:-1,FOX_Minneapolis
+http://mhiptv.com:8888/Shehata123/S8855865588/12355
+#EXTINF:-1,FOX_Los_Angeles
+http://mhiptv.com:8888/Shehata123/S8855865588/12356
+#EXTINF:-1,Fox_Life
+http://mhiptv.com:8888/Shehata123/S8855865588/12357
+#EXTINF:-1,Fox_Collage_Sports_Pacific
+http://mhiptv.com:8888/Shehata123/S8855865588/12358
+#EXTINF:-1,Fox_Collage_Sports_Central
+http://mhiptv.com:8888/Shehata123/S8855865588/12359
+#EXTINF:-1,Fox_Collage_Sports_Atlantic
+http://mhiptv.com:8888/Shehata123/S8855865588/12360
+#EXTINF:-1,NBC_Washington
+http://mhiptv.com:8888/Shehata123/S8855865588/12361
+#EXTINF:-1,NBC_Telemundo
+http://mhiptv.com:8888/Shehata123/S8855865588/12362
+#EXTINF:-1,NBC_St_Louis
+http://mhiptv.com:8888/Shehata123/S8855865588/12363
+#EXTINF:-1,NBC_Sports_Washington
+http://mhiptv.com:8888/Shehata123/S8855865588/12364
+#EXTINF:-1,NBC_Sports_NorthWest
+http://mhiptv.com:8888/Shehata123/S8855865588/12365
+#EXTINF:-1,NBC_Sports_Network
+http://mhiptv.com:8888/Shehata123/S8855865588/12366
+#EXTINF:-1,HBO
+http://mhiptv.com:8888/Shehata123/S8855865588/4947
+#EXTINF:-1,HBO_Comedy
+http://mhiptv.com:8888/Shehata123/S8855865588/4948
+#EXTINF:-1,HBO_Signature
+http://mhiptv.com:8888/Shehata123/S8855865588/4949
+#EXTINF:-1,HBO_Zone
+http://mhiptv.com:8888/Shehata123/S8855865588/4950
+#EXTINF:-1,Showtime_West_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5013
+#EXTINF:-1,Showtime_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5012
 #EXTINF:-1,AMC HD
-http://attacktv.ddns.net:2052/12345/54321/55006
-#EXTINF:-1,American Heroes
-http://attacktv.ddns.net:2052/12345/54321/55005
-#EXTINF:-1,Animal Planet HD
-http://attacktv.ddns.net:2052/12345/54321/55004
-#EXTINF:-1,Aspire FHD
-http://attacktv.ddns.net:2052/12345/54321/55003
-#EXTINF:-1,BBC America HD
-http://attacktv.ddns.net:2052/12345/54321/55002
-#EXTINF:-1,BEIN Sports HD
-http://attacktv.ddns.net:2052/12345/54321/55001
-#EXTINF:-1,BET HD
-http://attacktv.ddns.net:2052/12345/54321/55000
-#EXTINF:-1,BET Her HD
-http://attacktv.ddns.net:2052/12345/54321/54999
-#EXTINF:-1, BET Jams HD
-http://attacktv.ddns.net:2052/12345/54321/54998
-#EXTINF:-1, BET Soul HD
-http://attacktv.ddns.net:2052/12345/54321/54997
-#EXTINF:-1,Big Ten Network
-http://attacktv.ddns.net:2052/12345/54321/54996
-#EXTINF:-1,Bloomberg HD
-http://attacktv.ddns.net:2052/12345/54321/54995
-#EXTINF:-1,Boomerang HD
-http://attacktv.ddns.net:2052/12345/54321/54994
-#EXTINF:-1,Bravo
-http://attacktv.ddns.net:2052/12345/54321/54993
-#EXTINF:-1,BTN HD
-http://attacktv.ddns.net:2052/12345/54321/54992
-#EXTINF:-1,C-SPAN 1 HD
-http://attacktv.ddns.net:2052/12345/54321/54991
-#EXTINF:-1,C-SPAN 2 HD
-http://attacktv.ddns.net:2052/12345/54321/54990
-#EXTINF:-1,C-SPAN 3 HD
-http://attacktv.ddns.net:2052/12345/54321/54989
-#EXTINF:-1,CBN HD
-http://attacktv.ddns.net:2052/12345/54321/54987
-#EXTINF:-1,CBS
-http://attacktv.ddns.net:2052/12345/54321/54986
-#EXTINF:-1,CBS 2 HD
-http://attacktv.ddns.net:2052/12345/54321/54985
-#EXTINF:-1,CBS 2 WBM (Chicago) HD
-http://attacktv.ddns.net:2052/12345/54321/54984
-#EXTINF:-1,CBS Sports HQ
-http://attacktv.ddns.net:2052/12345/54321/54983
-#EXTINF:-1,Cinemax 5
-http://attacktv.ddns.net:2052/12345/54321/54982
-#EXTINF:-1,Cinemax MoreMax HD
-http://attacktv.ddns.net:2052/12345/54321/54981
-#EXTINF:-1,CMT HD
-http://attacktv.ddns.net:2052/12345/54321/54980
-#EXTINF:-1,CNN HD
-http://attacktv.ddns.net:2052/12345/54321/54979
-#EXTINF:-1,Comedy Central
-http://attacktv.ddns.net:2052/12345/54321/54978
-#EXTINF:-1,Comet
-http://attacktv.ddns.net:2052/12345/54321/54977
-#EXTINF:-1,Cooking Channel HD
-http://attacktv.ddns.net:2052/12345/54321/54976
-#EXTINF:-1,CP24
-http://attacktv.ddns.net:2052/12345/54321/54975
-#EXTINF:-1,Crime & Investigation HD
-http://attacktv.ddns.net:2052/12345/54321/54974
-#EXTINF:-1,CW HD
-http://attacktv.ddns.net:2052/12345/54321/54973
-#EXTINF:-1,Destination America
-http://attacktv.ddns.net:2052/12345/54321/54972
-#EXTINF:-1,Discovery Channel HD
-http://attacktv.ddns.net:2052/12345/54321/54971
-#EXTINF:-1,Discovery Family HD
-http://attacktv.ddns.net:2052/12345/54321/54970
-#EXTINF:-1,Discovery Life HD
-http://attacktv.ddns.net:2052/12345/54321/54969
-#EXTINF:-1,Discovery Science HD
-http://attacktv.ddns.net:2052/12345/54321/54968
-#EXTINF:-1,Discovery Velocity HD
-http://attacktv.ddns.net:2052/12345/54321/54967
-#EXTINF:-1,Disney Channel HD
-http://attacktv.ddns.net:2052/12345/54321/54966
-#EXTINF:-1,Disney Jr. HD
-http://attacktv.ddns.net:2052/12345/54321/54965
-#EXTINF:-1,DIY Network HD**
-http://attacktv.ddns.net:2052/12345/54321/54964
-#EXTINF:-1,DTX HD
-http://attacktv.ddns.net:2052/12345/54321/54963
-#EXTINF:-1,E! HD
-http://attacktv.ddns.net:2052/12345/54321/54962
-#EXTINF:-1,El Rey Network
-http://attacktv.ddns.net:2052/12345/54321/54961
-#EXTINF:-1,ESPN 4K
-http://attacktv.ddns.net:2052/12345/54321/54960
-#EXTINF:-1,ESPN
-http://attacktv.ddns.net:2052/12345/54321/54959
-#EXTINF:-1,ESPN 2 HD
-http://attacktv.ddns.net:2052/12345/54321/54958
-#EXTINF:-1,ESPN 3
-http://attacktv.ddns.net:2052/12345/54321/54957
-#EXTINF:-1,ESPN Deportes HD
-http://attacktv.ddns.net:2052/12345/54321/54956
-#EXTINF:-1,ESPN News US HD
-http://attacktv.ddns.net:2052/12345/54321/54955
-#EXTINF:-1,ESPN plus
-http://attacktv.ddns.net:2052/12345/54321/54954
-#EXTINF:-1,ESPN U HD
-http://attacktv.ddns.net:2052/12345/54321/54953
-#EXTINF:-1,Food Network HD
-http://attacktv.ddns.net:2052/12345/54321/54952
-#EXTINF:-1,FOX 25 HD
-http://attacktv.ddns.net:2052/12345/54321/54951
-#EXTINF:-1,FOX Business Network HD
-http://attacktv.ddns.net:2052/12345/54321/54950
-#EXTINF:-1,FOX HD
-http://attacktv.ddns.net:2052/12345/54321/54949
-#EXTINF:-1,Fox Soccer Plus
-http://attacktv.ddns.net:2052/12345/54321/54948
-#EXTINF:-1,FOX Sports 1 HD
-http://attacktv.ddns.net:2052/12345/54321/54947
-#EXTINF:-1,FOX Sports 2 HD
-http://attacktv.ddns.net:2052/12345/54321/54946
-#EXTINF:-1,Fox Sports Arizona HD
-http://attacktv.ddns.net:2052/12345/54321/54945
-#EXTINF:-1,FOX SPORTS Carolina HD
-http://attacktv.ddns.net:2052/12345/54321/54944
-#EXTINF:-1,FOX SPORTS DEPORTES HD
-http://attacktv.ddns.net:2052/12345/54321/54943
-#EXTINF:-1,Fox Sports Detroit HD
-http://attacktv.ddns.net:2052/12345/54321/54942
-#EXTINF:-1,Fox Sports Florida HD
-http://attacktv.ddns.net:2052/12345/54321/54941
-#EXTINF:-1,Fox Sports North HD
-http://attacktv.ddns.net:2052/12345/54321/54940
-#EXTINF:-1,FOX SPORTS PRIME TICKET HD
-http://attacktv.ddns.net:2052/12345/54321/54939
-#EXTINF:-1,Fox Sports Racing HD
-http://attacktv.ddns.net:2052/12345/54321/54938
-#EXTINF:-1,Fox Sports Sun HD
-http://attacktv.ddns.net:2052/12345/54321/54937
-#EXTINF:-1,Fox Sports Tennessee HD
-http://attacktv.ddns.net:2052/12345/54321/54936
-#EXTINF:-1,Fox Sports Wisconsin HD
-http://attacktv.ddns.net:2052/12345/54321/54935
-#EXTINF:-1,Freeform HD
-http://attacktv.ddns.net:2052/12345/54321/54934
-#EXTINF:-1,Fuse HD
-http://attacktv.ddns.net:2052/12345/54321/54933
-#EXTINF:-1,FX HD
-http://attacktv.ddns.net:2052/12345/54321/54932
-#EXTINF:-1,FXM
-http://attacktv.ddns.net:2052/12345/54321/54931
-#EXTINF:-1,FXX HD
-http://attacktv.ddns.net:2052/12345/54321/54930
-#EXTINF:-1,GOL TV HD
-http://attacktv.ddns.net:2052/12345/54321/54929
-#EXTINF:-1,Golf HD
-http://attacktv.ddns.net:2052/12345/54321/54928
-#EXTINF:-1,GSN HD
-http://attacktv.ddns.net:2052/12345/54321/54927
+http://mhiptv.com:8888/Shehata123/S8855865588/5009
+#EXTINF:-1,CBS_Atlanta
+http://mhiptv.com:8888/Shehata123/S8855865588/4998
+#EXTINF:-1,CBS_CHARLOTTE
+http://mhiptv.com:8888/Shehata123/S8855865588/4999
+#EXTINF:-1,CBS_POP
+http://mhiptv.com:8888/Shehata123/S8855865588/5000
+#EXTINF:-1,CBSN
+http://mhiptv.com:8888/Shehata123/S8855865588/5002
+#EXTINF:-1,CINEMAX_West
+http://mhiptv.com:8888/Shehata123/S8855865588/5004
+#EXTINF:-1,CINEMAX_East
+http://mhiptv.com:8888/Shehata123/S8855865588/5003
+#EXTINF:-1,Disney_XD_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4955
+#EXTINF:-1,Discovery_Velocity
+http://mhiptv.com:8888/Shehata123/S8855865588/12382
+#EXTINF:-1,Discovery_VELOCITY
+http://mhiptv.com:8888/Shehata123/S8855865588/12383
+#EXTINF:-1,Discovery_Science
+http://mhiptv.com:8888/Shehata123/S8855865588/12384
+#EXTINF:-1,Discovery_Pacific
+http://mhiptv.com:8888/Shehata123/S8855865588/12385
+#EXTINF:-1,Discovery_Life
+http://mhiptv.com:8888/Shehata123/S8855865588/12386
+#EXTINF:-1,Discovery_Family
+http://mhiptv.com:8888/Shehata123/S8855865588/12387
+#EXTINF:-1,Discovery_Familia
+http://mhiptv.com:8888/Shehata123/S8855865588/12388
+#EXTINF:-1,Discovery_Espaniol
+http://mhiptv.com:8888/Shehata123/S8855865588/12389
+#EXTINF:-1,Nickelodeon_HD-US
+http://mhiptv.com:8888/Shehata123/S8855865588/4951
+#EXTINF:-1,Boomerang_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5006
+#EXTINF:-1,Cartoon_Network
+http://mhiptv.com:8888/Shehata123/S8855865588/4997
+#EXTINF:-1,BET_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/4954
+#EXTINF:-1,BRAVO_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5005
+#EXTINF:-1,NBC_SPORT
+http://mhiptv.com:8888/Shehata123/S8855865588/6654
+#EXTINF:-1,ESPN_1HD
+http://mhiptv.com:8888/Shehata123/S8855865588/6655
+#EXTINF:-1,ESPN_2HD
+http://mhiptv.com:8888/Shehata123/S8855865588/6656
+#EXTINF:-1,ESPN_U
+http://mhiptv.com:8888/Shehata123/S8855865588/12375
+#EXTINF:-1,Espn_News
+http://mhiptv.com:8888/Shehata123/S8855865588/12376
+#EXTINF:-1,Diy
+http://mhiptv.com:8888/Shehata123/S8855865588/12380
+#EXTINF:-1,Golf_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4944
 #EXTINF:-1,H2
-http://attacktv.ddns.net:2052/12345/54321/54926
-#EXTINF:-1,HallMark HD
-http://attacktv.ddns.net:2052/12345/54321/54925
-#EXTINF:-1,HBO Comedy HD
-http://attacktv.ddns.net:2052/12345/54321/54924
-#EXTINF:-1,HBO Family HD
-http://attacktv.ddns.net:2052/12345/54321/54923
-#EXTINF:-1,HBO HD
-http://attacktv.ddns.net:2052/12345/54321/54922
-#EXTINF:-1,HBO Signature HD
-http://attacktv.ddns.net:2052/12345/54321/54921
-#EXTINF:-1,HBO Zone
-http://attacktv.ddns.net:2052/12345/54321/54920
-#EXTINF:-1,HGTV HD
-http://attacktv.ddns.net:2052/12345/54321/54919
-#EXTINF:-1,History
-http://attacktv.ddns.net:2052/12345/54321/54918
-#EXTINF:-1,HLN HD
-http://attacktv.ddns.net:2052/12345/54321/54917
-#EXTINF:-1,Home & Health
-http://attacktv.ddns.net:2052/12345/54321/54916
-#EXTINF:-1,IFC HD
-http://attacktv.ddns.net:2052/12345/54321/54915
-#EXTINF:-1,Investigation Discovery
-http://attacktv.ddns.net:2052/12345/54321/54914
-#EXTINF:-1,Law crime HD
-http://attacktv.ddns.net:2052/12345/54321/54913
-#EXTINF:-1,Lifetime HD
-http://attacktv.ddns.net:2052/12345/54321/54912
-#EXTINF:-1,Lifetime Movies
-http://attacktv.ddns.net:2052/12345/54321/54911
-#EXTINF:-1,LMN HD
-http://attacktv.ddns.net:2052/12345/54321/54910
-#EXTINF:-1,Logo TV HD
-http://attacktv.ddns.net:2052/12345/54321/54909
-#EXTINF:-1,Mav TV HD
-http://attacktv.ddns.net:2052/12345/54321/54908
-#EXTINF:-1,MLB Network
-http://attacktv.ddns.net:2052/12345/54321/54907
-#EXTINF:-1,MTV 2 HD
-http://attacktv.ddns.net:2052/12345/54321/54906
-#EXTINF:-1,MTV HD
-http://attacktv.ddns.net:2052/12345/54321/54905
-#EXTINF:-1,Nat Geo hd
-http://attacktv.ddns.net:2052/12345/54321/54904
-#EXTINF:-1,Nat Geo Wild HD
-http://attacktv.ddns.net:2052/12345/54321/54903
-#EXTINF:-1,NBA TV HD
-http://attacktv.ddns.net:2052/12345/54321/54902
-#EXTINF:-1,NBC ATLANTA GA WXIA
-http://attacktv.ddns.net:2052/12345/54321/54901
-#EXTINF:-1,NBC Golf
-http://attacktv.ddns.net:2052/12345/54321/54900
-#EXTINF:-1,NBC Sports Bay Area
-http://attacktv.ddns.net:2052/12345/54321/54899
-#EXTINF:-1,NBC Sports Boston
-http://attacktv.ddns.net:2052/12345/54321/54898
-#EXTINF:-1,NBC Sports California
-http://attacktv.ddns.net:2052/12345/54321/54897
-#EXTINF:-1,NBC Sports Chicago
-http://attacktv.ddns.net:2052/12345/54321/54896
-#EXTINF:-1,NBC Sports Northwest
-http://attacktv.ddns.net:2052/12345/54321/54895
-#EXTINF:-1,NBC Sports Philadelphia
-http://attacktv.ddns.net:2052/12345/54321/54894
-#EXTINF:-1,NBCSN HD
-http://attacktv.ddns.net:2052/12345/54321/54893
-#EXTINF:-1,NFL Network HD
-http://attacktv.ddns.net:2052/12345/54321/54892
-#EXTINF:-1,NFL NOW HD
-http://attacktv.ddns.net:2052/12345/54321/54891
-#EXTINF:-1,NFL Red Zone HD
-http://attacktv.ddns.net:2052/12345/54321/54890
-#EXTINF:-1,NHL Network HD
-http://attacktv.ddns.net:2052/12345/54321/54889
-#EXTINF:-1,Nick Jr. HD
-http://attacktv.ddns.net:2052/12345/54321/54888
-#EXTINF:-1,Nickolodean HD
-http://attacktv.ddns.net:2052/12345/54321/54887
-#EXTINF:-1,Nicktoons HD
-http://attacktv.ddns.net:2052/12345/54321/54886
-#EXTINF:-1,Outdoor Channel HD
-http://attacktv.ddns.net:2052/12345/54321/54885
-#EXTINF:-1,OWN HD
-http://attacktv.ddns.net:2052/12345/54321/54884
-#EXTINF:-1,Oxygen HD
-http://attacktv.ddns.net:2052/12345/54321/54883
-#EXTINF:-1,Paramount Network HD
-http://attacktv.ddns.net:2052/12345/54321/54882
-#EXTINF:-1,PBS HD
-http://attacktv.ddns.net:2052/12345/54321/54881
-#EXTINF:-1,PBS KIDS
-http://attacktv.ddns.net:2052/12345/54321/54880
-#EXTINF:-1,People TV HD
-http://attacktv.ddns.net:2052/12345/54321/54879
-#EXTINF:-1,POP
-http://attacktv.ddns.net:2052/12345/54321/54878
-#EXTINF:-1,Pursuit FHD
-http://attacktv.ddns.net:2052/12345/54321/54877
-#EXTINF:-1,Reelz HD
-http://attacktv.ddns.net:2052/12345/54321/54876
-#EXTINF:-1,SEC Network HD
-http://attacktv.ddns.net:2052/12345/54321/54875
-#EXTINF:-1,ShowTime HD
-http://attacktv.ddns.net:2052/12345/54321/54874
-#EXTINF:-1,ShowTime 2 HD
-http://attacktv.ddns.net:2052/12345/54321/54873
-#EXTINF:-1,Smithsonian HD
-http://attacktv.ddns.net:2052/12345/54321/54872
-#EXTINF:-1,Spike HD
-http://attacktv.ddns.net:2052/12345/54321/54871
-#EXTINF:-1,Starz Edge
-http://attacktv.ddns.net:2052/12345/54321/54870
-#EXTINF:-1,Sundance HD
-http://attacktv.ddns.net:2052/12345/54321/54869
-#EXTINF:-1,SYFY HD
-http://attacktv.ddns.net:2052/12345/54321/54868
-#EXTINF:-1,Taste Made HD
-http://attacktv.ddns.net:2052/12345/54321/54867
-#EXTINF:-1,TBS HD
-http://attacktv.ddns.net:2052/12345/54321/54866
-#EXTINF:-1,Tennis HD
-http://attacktv.ddns.net:2052/12345/54321/54865
-#EXTINF:-1,The Weather Channel HD
-http://attacktv.ddns.net:2052/12345/54321/54864
-#EXTINF:-1,TLC HD
-http://attacktv.ddns.net:2052/12345/54321/54863
-#EXTINF:-1,TNT HD
-http://attacktv.ddns.net:2052/12345/54321/54862
-#EXTINF:-1,Travel Channel HD
-http://attacktv.ddns.net:2052/12345/54321/54861
-#EXTINF:-1,TRU TV HD *
-http://attacktv.ddns.net:2052/12345/54321/54860
-#EXTINF:-1,TSN HD 1
-http://attacktv.ddns.net:2052/12345/54321/54859
-#EXTINF:-1,TSN HD 2
-http://attacktv.ddns.net:2052/12345/54321/54858
-#EXTINF:-1,TSN HD 3
-http://attacktv.ddns.net:2052/12345/54321/54857
-#EXTINF:-1,TSN HD 4
-http://attacktv.ddns.net:2052/12345/54321/54856
-#EXTINF:-1,TSN HD 5
-http://attacktv.ddns.net:2052/12345/54321/54855
-#EXTINF:-1,TV Land HD
-http://attacktv.ddns.net:2052/12345/54321/54854
-#EXTINF:-1,TyC Sports HD
-http://attacktv.ddns.net:2052/12345/54321/54853
-#EXTINF:-1,UFC FIGHT PASS
-http://attacktv.ddns.net:2052/12345/54321/54852
-#EXTINF:-1,Universal HD
-http://attacktv.ddns.net:2052/12345/54321/54851
-#EXTINF:-1,USA Network
-http://attacktv.ddns.net:2052/12345/54321/54850
-#EXTINF:-1,Velocity HD
-http://attacktv.ddns.net:2052/12345/54321/54849
-#EXTINF:-1,VH1 HD
-http://attacktv.ddns.net:2052/12345/54321/54848
-#EXTINF:-1,WGN America HD
-http://attacktv.ddns.net:2052/12345/54321/54847
-#EXTINF:-1,Willow Cricket HD
-http://attacktv.ddns.net:2052/12345/54321/54846
-#EXTINF:-1,WWE Network HD
-http://attacktv.ddns.net:2052/12345/54321/54845
-#EXTINF:-1,WWE Network HD NXT
-http://attacktv.ddns.net:2052/12345/54321/54844
-#EXTINF:-1,NBC Sports Washington
-http://attacktv.ddns.net:2052/12345/54321/54843
-#EXTINF:-1,NESN HD
-http://attacktv.ddns.net:2052/12345/54321/54842
-#EXTINF:-1,Yes Network
-http://attacktv.ddns.net:2052/12345/54321/54841
-#EXTINF:-1,ACC Network HD
-http://attacktv.ddns.net:2052/12345/54321/54840
+http://mhiptv.com:8888/Shehata123/S8855865588/4945
+#EXTINF:-1,FOX_SPORT_1
+http://mhiptv.com:8888/Shehata123/S8855865588/4092
+#EXTINF:-1,FOX_SPORT_2
+http://mhiptv.com:8888/Shehata123/S8855865588/4093
+#EXTINF:-1,Bein_Sports_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5007
+#EXTINF:-1,WWE_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4933
+#EXTINF:-1,ABC_NEWS_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5019
+#EXTINF:-1,TCM_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5015
+#EXTINF:-1,NFL Network_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5010
+#EXTINF:-1,Starz_Cinema_FHD
+http://mhiptv.com:8888/Shehata123/S8855865588/12914
+#EXTINF:-1,Starz_Encore_Family_FHD
+http://mhiptv.com:8888/Shehata123/S8855865588/12919
+#EXTINF:-1,Starz_Encore_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/12920
+#EXTINF:-1,Starz_Encore_Western
+http://mhiptv.com:8888/Shehata123/S8855865588/12922
+#EXTINF:-1,Starz_West_FHD
+http://mhiptv.com:8888/Shehata123/S8855865588/12925
+#EXTINF:-1,Sundance_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/12926
+#EXTINF:-1,SYFY_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/12927
+#EXTINF:-1,SYFY_Pacific
+http://mhiptv.com:8888/Shehata123/S8855865588/12928
+#EXTINF:-1,MSNBC
+http://mhiptv.com:8888/Shehata123/S8855865588/14116
