@@ -1,945 +1,167 @@
 #EXTM3U
-#EXTINF:-1,Das Erste
-http://live.darkside-iptv.com:8080/test/test/80416
-#EXTINF:-1,Das Erste HD
-http://live.darkside-iptv.com:8080/test/test/54552
-#EXTINF:-1,Das Erste FHD
-http://live.darkside-iptv.com:8080/test/test/68533
-#EXTINF:-1,One
-http://live.darkside-iptv.com:8080/test/test/86469
-#EXTINF:-1,One HD
-http://live.darkside-iptv.com:8080/test/test/44993
-#EXTINF:-1,One FHD
-http://live.darkside-iptv.com:8080/test/test/86628
-#EXTINF:-1,ZDF
-http://live.darkside-iptv.com:8080/test/test/54553
-#EXTINF:-1,ZDF HD
-http://live.darkside-iptv.com:8080/test/test/80442
-#EXTINF:-1,ZDF FHD
-http://live.darkside-iptv.com:8080/test/test/29451
-#EXTINF:-1,Sat.1
-http://live.darkside-iptv.com:8080/test/test/7897
-#EXTINF:-1,Sat.1 HD
-http://live.darkside-iptv.com:8080/test/test/61841
-#EXTINF:-1,Sat.1 FHD
-http://live.darkside-iptv.com:8080/test/test/20017
-#EXTINF:-1,Sat.1 Gold
-http://live.darkside-iptv.com:8080/test/test/7898
-#EXTINF:-1,Sat.1 Gold HD
-http://live.darkside-iptv.com:8080/test/test/61842
-#EXTINF:-1,Sat.1 Gold FHD
-http://live.darkside-iptv.com:8080/test/test/21560
-#EXTINF:-1,Sat.1 Emotions
-http://live.darkside-iptv.com:8080/test/test/44990
-#EXTINF:-1,RTL
-http://live.darkside-iptv.com:8080/test/test/7887
-#EXTINF:-1,RTL HD
-http://live.darkside-iptv.com:8080/test/test/61843
-#EXTINF:-1,RTL FHD
-http://live.darkside-iptv.com:8080/test/test/19844
-#EXTINF:-1,RTL UHD
-http://live.darkside-iptv.com:8080/test/test/29821
-#EXTINF:-1,UHD1 by ASTRA / HD+
-http://live.darkside-iptv.com:8080/test/test/39023
-#EXTINF:-1,SES UHD Demo Channel
-http://live.darkside-iptv.com:8080/test/test/40304
-#EXTINF:-1,RTLZWEI
-http://live.darkside-iptv.com:8080/test/test/7892
-#EXTINF:-1,RTLZWEI HD
-http://live.darkside-iptv.com:8080/test/test/21727
-#EXTINF:-1,RTLZWEI FHD
-http://live.darkside-iptv.com:8080/test/test/19817
-#EXTINF:-1,RTL Nitro
-http://live.darkside-iptv.com:8080/test/test/7890
-#EXTINF:-1,RTL Nitro HD
-http://live.darkside-iptv.com:8080/test/test/23580
-#EXTINF:-1,RTL Nitro FHD
-http://live.darkside-iptv.com:8080/test/test/23581
-#EXTINF:-1,RTL Passion
-http://live.darkside-iptv.com:8080/test/test/31731
-#EXTINF:-1,RTL Living
-http://live.darkside-iptv.com:8080/test/test/86990
-#EXTINF:-1,RTL Crime 
-http://live.darkside-iptv.com:8080/test/test/22932
-#EXTINF:-1,RTL PLUS
-http://live.darkside-iptv.com:8080/test/test/12324
-#EXTINF:-1,ProSieben
-http://live.darkside-iptv.com:8080/test/test/7894
-#EXTINF:-1,ProSieben HD
-http://live.darkside-iptv.com:8080/test/test/21724
-#EXTINF:-1,ProSieben FHD
-http://live.darkside-iptv.com:8080/test/test/19818
-#EXTINF:-1,Pro7 Maxx
-http://live.darkside-iptv.com:8080/test/test/7896
-#EXTINF:-1,Pro7 Maxx FHD
-http://live.darkside-iptv.com:8080/test/test/19819
-#EXTINF:-1,Pro7 Fun HD
-http://live.darkside-iptv.com:8080/test/test/44169
-#EXTINF:-1,Kabel 1
-http://live.darkside-iptv.com:8080/test/test/7899
-#EXTINF:-1,Kabel 1 HD
-http://live.darkside-iptv.com:8080/test/test/21594
-#EXTINF:-1,Kabel 1 FHD
-http://live.darkside-iptv.com:8080/test/test/21595
-#EXTINF:-1,Kabel 1 Classics
-http://live.darkside-iptv.com:8080/test/test/44168
-#EXTINF:-1,VOX
-http://live.darkside-iptv.com:8080/test/test/7901
-#EXTINF:-1,VOX HD
-http://live.darkside-iptv.com:8080/test/test/21726
-#EXTINF:-1,VOX FHD
-http://live.darkside-iptv.com:8080/test/test/19843
-#EXTINF:-1,VOXUp
-http://live.darkside-iptv.com:8080/test/test/59261
-#EXTINF:-1,Tele 5 SD
-http://live.darkside-iptv.com:8080/test/test/229831
-#EXTINF:-1,Tele 5 HD
-http://live.darkside-iptv.com:8080/test/test/37404
-#EXTINF:-1,Tele 5 FHD
-http://live.darkside-iptv.com:8080/test/test/37400
-#EXTINF:-1,Sixx
-http://live.darkside-iptv.com:8080/test/test/7936
-#EXTINF:-1,Sixx FHD
-http://live.darkside-iptv.com:8080/test/test/23108
-#EXTINF:-1,ServusTV SD
-http://live.darkside-iptv.com:8080/test/test/40233
-#EXTINF:-1,ServusTV HD
-http://live.darkside-iptv.com:8080/test/test/40232
-#EXTINF:-1,ServusTV FHD
-http://live.darkside-iptv.com:8080/test/test/37399
-#EXTINF:-1,Anixe Serie SD
-http://live.darkside-iptv.com:8080/test/test/7930
-#EXTINF:-1,Anixe Serie FHD
-http://live.darkside-iptv.com:8080/test/test/22915
-#EXTINF:-1,3sat
-http://live.darkside-iptv.com:8080/test/test/7877
-#EXTINF:-1,3Sat FHD
-http://live.darkside-iptv.com:8080/test/test/52210
-#EXTINF:-1,MDR Thüringen
-http://live.darkside-iptv.com:8080/test/test/18037
-#EXTINF:-1,WDR HD
-http://live.darkside-iptv.com:8080/test/test/7878
-#EXTINF:-1,SWR Rheinland-Pfalz
-http://live.darkside-iptv.com:8080/test/test/40234
-#EXTINF:-1,NDR Niedersachsen
-http://live.darkside-iptv.com:8080/test/test/7883
-#EXTINF:-1,ZDFneo
-http://live.darkside-iptv.com:8080/test/test/7873
-#EXTINF:-1,ZDFneo FHD
-http://live.darkside-iptv.com:8080/test/test/39024
-#EXTINF:-1,==== DOKU // NEWS // KULTUR =====
-http://live.darkside-iptv.com:8080/test/test/13007
-#EXTINF:-1,Euronews HD
-http://live.darkside-iptv.com:8080/test/test/47967
-#EXTINF:-1,Welt der Wunder HD
-http://live.darkside-iptv.com:8080/test/test/18852
-#EXTINF:-1,Discovery HD
-http://live.darkside-iptv.com:8080/test/test/102813
-#EXTINF:-1,Discovery FHD
-http://live.darkside-iptv.com:8080/test/test/19828
-#EXTINF:-1,National Geographic Channel FHD
-http://live.darkside-iptv.com:8080/test/test/22933
-#EXTINF:-1,Nat Geo Wild FHD
-http://live.darkside-iptv.com:8080/test/test/19820
-#EXTINF:-1,Animal Planet HD
-http://live.darkside-iptv.com:8080/test/test/7937
-#EXTINF:-1,History HD
-http://live.darkside-iptv.com:8080/test/test/19824
-#EXTINF:-1,History FHD
-http://live.darkside-iptv.com:8080/test/test/22935
-#EXTINF:-1,Planet HD
-http://live.darkside-iptv.com:8080/test/test/39811
-#EXTINF:-1,Spiegel Geschichte FHD
-http://live.darkside-iptv.com:8080/test/test/23072
-#EXTINF:-1,Spiegel TV Wissen
-http://live.darkside-iptv.com:8080/test/test/7884
-#EXTINF:-1,Kabel 1 Doku
-http://live.darkside-iptv.com:8080/test/test/18900
-#EXTINF:-1,Kabel 1 Doku FHD
-http://live.darkside-iptv.com:8080/test/test/80197
-#EXTINF:-1,Phoenix
-http://live.darkside-iptv.com:8080/test/test/87282
-#EXTINF:-1,Phoenix HD
-http://live.darkside-iptv.com:8080/test/test/30115
-#EXTINF:-1,Phoenix FHD
-http://live.darkside-iptv.com:8080/test/test/112957
-#EXTINF:-1,ZDF info
-http://live.darkside-iptv.com:8080/test/test/7875
-#EXTINF:-1,ZDF Info HD
-http://live.darkside-iptv.com:8080/test/test/52211
-#EXTINF:-1,N24 DOKU
-http://live.darkside-iptv.com:8080/test/test/18899
-#EXTINF:-1,WELT
-http://live.darkside-iptv.com:8080/test/test/7882
-#EXTINF:-1,WELT FHD
-http://live.darkside-iptv.com:8080/test/test/22914
-#EXTINF:-1,n-tv
-http://live.darkside-iptv.com:8080/test/test/7944
-#EXTINF:-1,n-tv FHD
-http://live.darkside-iptv.com:8080/test/test/19842
-#EXTINF:-1,tagesschau24 HD
-http://live.darkside-iptv.com:8080/test/test/13116
+#EXTINF:-1,13TH STREET
+http://mags.vip:2086/live/miriam/miriam123/92398.ts
+#EXTINF:-1,3SAT
+http://mags.vip:2086/live/miriam/miriam123/92313.ts
+#EXTINF:-1,A&E
+http://mags.vip:2086/live/miriam/miriam123/92405.ts
+#EXTINF:-1,ANIMAL PLANET
+http://mags.vip:2086/live/miriam/miriam123/92366.ts
+#EXTINF:-1,ARTE
+http://mags.vip:2086/live/miriam/miriam123/92312.ts
+#EXTINF:-1,ATV
+http://mags.vip:2086/live/miriam/miriam123/92416.ts
+#EXTINF:-1,AXN
+http://mags.vip:2086/live/miriam/miriam123/92412.ts
+#EXTINF:-1,BOOMERANG
+http://mags.vip:2086/live/miriam/miriam123/92378.ts
+#EXTINF:-1,CLASSICA
+http://mags.vip:2086/live/miriam/miriam123/92361.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://mags.vip:2086/live/miriam/miriam123/92415.ts
+#EXTINF:-1,CRIME INVESTIGATION
+http://mags.vip:2086/live/miriam/miriam123/92369.ts
+#EXTINF:-1,DAS ERSTE
+http://mags.vip:2086/live/miriam/miriam123/92311.ts
+#EXTINF:-1,DAZN 1
+http://mags.vip:2086/live/miriam/miriam123/92343.ts
+#EXTINF:-1,DAZN 2
+http://mags.vip:2086/live/miriam/miriam123/92344.ts
+#EXTINF:-1,DISCOVERY
+http://mags.vip:2086/live/miriam/miriam123/92362.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92374.ts
+#EXTINF:-1,DISNEY CINEMAGIC
+http://mags.vip:2086/live/miriam/miriam123/92373.ts
+#EXTINF:-1,DISNEY JR
+http://mags.vip:2086/live/miriam/miriam123/92372.ts
+#EXTINF:-1,DISNEY XD
+http://mags.vip:2086/live/miriam/miriam123/92371.ts
 #EXTINF:-1,DMAX
-http://live.darkside-iptv.com:8080/test/test/7905
-#EXTINF:-1,DMAX HD
-http://live.darkside-iptv.com:8080/test/test/37403
-#EXTINF:-1,DMAX FHD
-http://live.darkside-iptv.com:8080/test/test/37398
-#EXTINF:-1,TLC
-http://live.darkside-iptv.com:8080/test/test/19752
-#EXTINF:-1,TLC FHD
-http://live.darkside-iptv.com:8080/test/test/86464
-#EXTINF:-1,E! Entertainment HD
-http://live.darkside-iptv.com:8080/test/test/102814
-#EXTINF:-1,E! Entertainment FHD
-http://live.darkside-iptv.com:8080/test/test/19741
-#EXTINF:-1,arte HD
-http://live.darkside-iptv.com:8080/test/test/89308
-#EXTINF:-1,arte FHD
-http://live.darkside-iptv.com:8080/test/test/19829
-#EXTINF:-1,===== KINDER ======
-http://live.darkside-iptv.com:8080/test/test/13006
-#EXTINF:-1,Fix & Foxi
-http://live.darkside-iptv.com:8080/test/test/44991
-#EXTINF:-1,RIC
-http://live.darkside-iptv.com:8080/test/test/44762
-#EXTINF:-1,Nickelodeon (AT)
-http://live.darkside-iptv.com:8080/test/test/7954
-#EXTINF:-1,Nick HD
-http://live.darkside-iptv.com:8080/test/test/52288
-#EXTINF:-1,Nick Jr.
-http://live.darkside-iptv.com:8080/test/test/7906
-#EXTINF:-1,Nicktoons
-http://live.darkside-iptv.com:8080/test/test/110363
-#EXTINF:-1,Comedy Central
-http://live.darkside-iptv.com:8080/test/test/19800
-#EXTINF:-1,Comedy Central HD
-http://live.darkside-iptv.com:8080/test/test/22968
-#EXTINF:-1,Comedy Central FHD
-http://live.darkside-iptv.com:8080/test/test/22913
-#EXTINF:-1,Disney Channel
-http://live.darkside-iptv.com:8080/test/test/7946
-#EXTINF:-1,Disney Channel HD
-http://live.darkside-iptv.com:8080/test/test/23164
-#EXTINF:-1,Disney Channel FHD
-http://live.darkside-iptv.com:8080/test/test/22939
-#EXTINF:-1,Cartoon Network
-http://live.darkside-iptv.com:8080/test/test/7951
-#EXTINF:-1,Boomerang
-http://live.darkside-iptv.com:8080/test/test/7950
-#EXTINF:-1,Junior
-http://live.darkside-iptv.com:8080/test/test/7952
-#EXTINF:-1,Super RTL
-http://live.darkside-iptv.com:8080/test/test/7955
-#EXTINF:-1,Super RTL HD
-http://live.darkside-iptv.com:8080/test/test/23578
-#EXTINF:-1,Super RTL FHD
-http://live.darkside-iptv.com:8080/test/test/23579
-#EXTINF:-1,Toggo Plus
-http://live.darkside-iptv.com:8080/test/test/13996
-#EXTINF:-1,KiKA
-http://live.darkside-iptv.com:8080/test/test/7953
-#EXTINF:-1,KiKA HD
-http://live.darkside-iptv.com:8080/test/test/52212
-#EXTINF:-1,KiKA FHD
-http://live.darkside-iptv.com:8080/test/test/47964
-#EXTINF:-1,==== FILME / SERIEN =====
-http://live.darkside-iptv.com:8080/test/test/13004
-#EXTINF:-1,Sky One SD
-http://live.darkside-iptv.com:8080/test/test/61998
-#EXTINF:-1,Sky One HD
-http://live.darkside-iptv.com:8080/test/test/61997
-#EXTINF:-1,Sky One FHD
-http://live.darkside-iptv.com:8080/test/test/39810
-#EXTINF:-1,Sky Cinema Premieren
-http://live.darkside-iptv.com:8080/test/test/62022
-#EXTINF:-1,Sky Cinema Premieren HD
-http://live.darkside-iptv.com:8080/test/test/62009
-#EXTINF:-1,Sky Cinema Premieren FHD
-http://live.darkside-iptv.com:8080/test/test/7915
-#EXTINF:-1,Sky Cinema Thriller FHD
-http://live.darkside-iptv.com:8080/test/test/100917
-#EXTINF:-1,Sky Cinema Premieren +24
-http://live.darkside-iptv.com:8080/test/test/62026
-#EXTINF:-1,Sky Cinema Premieren +24 HD
-http://live.darkside-iptv.com:8080/test/test/62025
-#EXTINF:-1,Sky Cinema Premieren +24 FHD
-http://live.darkside-iptv.com:8080/test/test/7917
-#EXTINF:-1,Sky Cinema Action
-http://live.darkside-iptv.com:8080/test/test/99682
-#EXTINF:-1,Sky Cinema Action HD
-http://live.darkside-iptv.com:8080/test/test/23570
-#EXTINF:-1,Sky Cinema Action FHD
-http://live.darkside-iptv.com:8080/test/test/23571
-#EXTINF:-1,Sky Cinema Fun
-http://live.darkside-iptv.com:8080/test/test/7920
-#EXTINF:-1,Sky Cinema Family
-http://live.darkside-iptv.com:8080/test/test/79788
-#EXTINF:-1,Sky Cinema Family HD
-http://live.darkside-iptv.com:8080/test/test/99683
-#EXTINF:-1,Sky Cinema Family FHD
-http://live.darkside-iptv.com:8080/test/test/7918
-#EXTINF:-1,Sky Cinema Best Of
-http://live.darkside-iptv.com:8080/test/test/100916
-#EXTINF:-1,Sky Cinema Best Of HD
-http://live.darkside-iptv.com:8080/test/test/34120
-#EXTINF:-1,Sky Cinema Best Of FHD
-http://live.darkside-iptv.com:8080/test/test/34118
-#EXTINF:-1,Sky Cinema Classics
-http://live.darkside-iptv.com:8080/test/test/7923
-#EXTINF:-1,Sky Cinema Special SD
-http://live.darkside-iptv.com:8080/test/test/7947
-#EXTINF:-1,Sky Cinema Special HD
-http://live.darkside-iptv.com:8080/test/test/23162
-#EXTINF:-1,Sky Cinema Special FHD
-http://live.darkside-iptv.com:8080/test/test/22938
-#EXTINF:-1,Sky Atlantic SD
-http://live.darkside-iptv.com:8080/test/test/39816
-#EXTINF:-1,Sky Atlantic HD
-http://live.darkside-iptv.com:8080/test/test/39815
-#EXTINF:-1,Sky Atlantic FHD
-http://live.darkside-iptv.com:8080/test/test/22931
-#EXTINF:-1,Sky Krimi FHD
-http://live.darkside-iptv.com:8080/test/test/7921
-#EXTINF:-1,Crime + Investigation
-http://live.darkside-iptv.com:8080/test/test/44144
-#EXTINF:-1,Fox
-http://live.darkside-iptv.com:8080/test/test/7935
-#EXTINF:-1,Fox HD
-http://live.darkside-iptv.com:8080/test/test/23073
-#EXTINF:-1,Fox FHD
-http://live.darkside-iptv.com:8080/test/test/23074
-#EXTINF:-1,TNT Comedy HD
-http://live.darkside-iptv.com:8080/test/test/87288
-#EXTINF:-1,TNT Comedy FHD
-http://live.darkside-iptv.com:8080/test/test/23077
-#EXTINF:-1,TNT Film HD
-http://live.darkside-iptv.com:8080/test/test/87284
-#EXTINF:-1,TNT Film FHD
-http://live.darkside-iptv.com:8080/test/test/7931
-#EXTINF:-1,TNT Serie HD
-http://live.darkside-iptv.com:8080/test/test/87286
-#EXTINF:-1,TNT Serie FHD
-http://live.darkside-iptv.com:8080/test/test/23082
-#EXTINF:-1,Kinowelt
-http://live.darkside-iptv.com:8080/test/test/7925
-#EXTINF:-1,Silverline HD
-http://live.darkside-iptv.com:8080/test/test/47948
-#EXTINF:-1,13th Street
-http://live.darkside-iptv.com:8080/test/test/7911
-#EXTINF:-1,13th Street HD
-http://live.darkside-iptv.com:8080/test/test/22972
-#EXTINF:-1,13th Street FHD
-http://live.darkside-iptv.com:8080/test/test/22941
-#EXTINF:-1,Syfy SD
-http://live.darkside-iptv.com:8080/test/test/7927
-#EXTINF:-1,Syfy HD
-http://live.darkside-iptv.com:8080/test/test/22970
-#EXTINF:-1,Syfy FHD
-http://live.darkside-iptv.com:8080/test/test/22916
-#EXTINF:-1,Universal HD
-http://live.darkside-iptv.com:8080/test/test/102816
-#EXTINF:-1,Universal TV FHD
-http://live.darkside-iptv.com:8080/test/test/7924
-#EXTINF:-1,Heimatkanal
-http://live.darkside-iptv.com:8080/test/test/7909
-#EXTINF:-1,Romance TV
-http://live.darkside-iptv.com:8080/test/test/22466
-#EXTINF:-1,==== Event Sender ====
-http://live.darkside-iptv.com:8080/test/test/44989
-#EXTINF:-1,Event 1: Aktuell kein Live-Event
-http://live.darkside-iptv.com:8080/test/test/44914
-#EXTINF:-1,Event 2: Aktuell kein Live-Event
-http://live.darkside-iptv.com:8080/test/test/44915
-#EXTINF:-1,Event 3: Aktuell kein Live-Event
-http://live.darkside-iptv.com:8080/test/test/44916
-#EXTINF:-1,Event 4: Aktuell kein Live-Event
-http://live.darkside-iptv.com:8080/test/test/44918
-#EXTINF:-1,===== Select Sender Produced by Darkside =====
-http://live.darkside-iptv.com:8080/test/test/231940
-#EXTINF:-1,Scifi-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/test/test/191160
-#EXTINF:-1,Horror-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/test/test/191159
-#EXTINF:-1,Comedy-Eye ( Produced by Darkside)
-http://live.darkside-iptv.com:8080/test/test/191158
-#EXTINF:-1,Action-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/test/test/191157
-#EXTINF:-1,Drama-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/test/test/191156
-#EXTINF:-1,Abenteuer-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/test/test/191109
-#EXTINF:-1,Kids-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/test/test/191108
-#EXTINF:-1,Thriller-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/test/test/191106
-#EXTINF:-1,===== Sky Select =====
-http://live.darkside-iptv.com:8080/test/test/18016
-#EXTINF:-1,Sky Super Select Übersicht FHD
-http://live.darkside-iptv.com:8080/test/test/231902
-#EXTINF:-1,Sky Super Select 1 FHD
-http://live.darkside-iptv.com:8080/test/test/231903
-#EXTINF:-1,Sky Super Select 2 FHD
-http://live.darkside-iptv.com:8080/test/test/231904
-#EXTINF:-1,Sky Super Select 3 FHD
-http://live.darkside-iptv.com:8080/test/test/231905
-#EXTINF:-1,Sky Super Select 4 FHD
-http://live.darkside-iptv.com:8080/test/test/231906
-#EXTINF:-1,Sky Super Select 5 FHD
-http://live.darkside-iptv.com:8080/test/test/231907
-#EXTINF:-1,Sky Super Select 6 FHD
-http://live.darkside-iptv.com:8080/test/test/231908
-#EXTINF:-1,Sky Super Select 7 FHD
-http://live.darkside-iptv.com:8080/test/test/231909
-#EXTINF:-1,Sky Super Select 8 FHD
-http://live.darkside-iptv.com:8080/test/test/231910
-#EXTINF:-1,Sky Super Select 9 FHD
-http://live.darkside-iptv.com:8080/test/test/231911
-#EXTINF:-1,Sky Super Select 10 FHD
-http://live.darkside-iptv.com:8080/test/test/231912
-#EXTINF:-1,Sky Super Select 11 FHD
-http://live.darkside-iptv.com:8080/test/test/231913
-#EXTINF:-1,Sky Super Select 12 FHD
-http://live.darkside-iptv.com:8080/test/test/231914
-#EXTINF:-1,Sky Super Select 13 FHD
-http://live.darkside-iptv.com:8080/test/test/231915
-#EXTINF:-1,Sky Super Select 14 FHD
-http://live.darkside-iptv.com:8080/test/test/231916
-#EXTINF:-1,Sky Super Select 15 FHD
-http://live.darkside-iptv.com:8080/test/test/231917
-#EXTINF:-1,Sky Super Select 16 FHD
-http://live.darkside-iptv.com:8080/test/test/231918
-#EXTINF:-1,Sky Super Select 17 FHD
-http://live.darkside-iptv.com:8080/test/test/231919
-#EXTINF:-1,Sky Super Select 18 FHD
-http://live.darkside-iptv.com:8080/test/test/231920
-#EXTINF:-1,Sky Super Select 4K Übersicht
-http://live.darkside-iptv.com:8080/test/test/231921
-#EXTINF:-1,Sky Super Select 1 4K
-http://live.darkside-iptv.com:8080/test/test/231922
-#EXTINF:-1,Sky Super Select 2 4K
-http://live.darkside-iptv.com:8080/test/test/231923
-#EXTINF:-1,Sky Super Select 3 4K
-http://live.darkside-iptv.com:8080/test/test/231924
-#EXTINF:-1,Sky Super Select 4 4K
-http://live.darkside-iptv.com:8080/test/test/231925
-#EXTINF:-1,Sky Super Select 5 4K
-http://live.darkside-iptv.com:8080/test/test/231926
-#EXTINF:-1,Sky Super Select 6 4K
-http://live.darkside-iptv.com:8080/test/test/231927
-#EXTINF:-1,Sky Super Select 7 4K
-http://live.darkside-iptv.com:8080/test/test/231928
-#EXTINF:-1,Sky Super Select 8 4K
-http://live.darkside-iptv.com:8080/test/test/231929
-#EXTINF:-1,Sky Super Select 9 4K
-http://live.darkside-iptv.com:8080/test/test/231930
-#EXTINF:-1,Sky Super Select 10 4K
-http://live.darkside-iptv.com:8080/test/test/231931
-#EXTINF:-1,Sky Super Select 11 4K
-http://live.darkside-iptv.com:8080/test/test/231932
-#EXTINF:-1,Sky Super Select 12 4K
-http://live.darkside-iptv.com:8080/test/test/231933
-#EXTINF:-1,Sky Super Select 13 4K
-http://live.darkside-iptv.com:8080/test/test/231934
-#EXTINF:-1,Sky Super Select 14 4K
-http://live.darkside-iptv.com:8080/test/test/231935
-#EXTINF:-1,Sky Super Select 15 4K
-http://live.darkside-iptv.com:8080/test/test/231936
-#EXTINF:-1,Sky Super Select 16 4K
-http://live.darkside-iptv.com:8080/test/test/231937
-#EXTINF:-1,Sky Super Select 17 4K
-http://live.darkside-iptv.com:8080/test/test/231938
-#EXTINF:-1,Sky Super Select 18 4K
-http://live.darkside-iptv.com:8080/test/test/231939
-#EXTINF:-1,======= NFL Gamepass =======
-http://live.darkside-iptv.com:8080/test/test/34117
-#EXTINF:-1,===== DE SPORT =====
-http://live.darkside-iptv.com:8080/test/test/17812
-#EXTINF:-1,Dazn Bar 1 HD
-http://live.darkside-iptv.com:8080/test/test/96412
-#EXTINF:-1,DAZN Bar 1 FHD
-http://live.darkside-iptv.com:8080/test/test/34123
-#EXTINF:-1,Dazn Bar 2 HD
-http://live.darkside-iptv.com:8080/test/test/96413
-#EXTINF:-1,DAZN Bar 2 FHD
-http://live.darkside-iptv.com:8080/test/test/34124
-#EXTINF:-1,DAZN Event 1 FHD
-http://live.darkside-iptv.com:8080/test/test/118896
-#EXTINF:-1,Eurosport 1
-http://live.darkside-iptv.com:8080/test/test/23388
-#EXTINF:-1,Eurosport 1 HD
-http://live.darkside-iptv.com:8080/test/test/55095
-#EXTINF:-1,Eurosport 1 FHD
-http://live.darkside-iptv.com:8080/test/test/19827
-#EXTINF:-1,Eurosport 2 SD
-http://live.darkside-iptv.com:8080/test/test/23384
-#EXTINF:-1,Eurosport 2 HD
-http://live.darkside-iptv.com:8080/test/test/23385
-#EXTINF:-1,Eurosport 2 FHD
-http://live.darkside-iptv.com:8080/test/test/22936
-#EXTINF:-1,Eurosport 2 Xtra SD
-http://live.darkside-iptv.com:8080/test/test/21719
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://live.darkside-iptv.com:8080/test/test/21718
-#EXTINF:-1,Eurosport 2 Xtra FHD
-http://live.darkside-iptv.com:8080/test/test/21558
-#EXTINF:-1,Eurosport360 1 FHD
-http://live.darkside-iptv.com:8080/test/test/80154
-#EXTINF:-1,Eurosport360 2 FHD
-http://live.darkside-iptv.com:8080/test/test/80196
-#EXTINF:-1,Eurosport360 3 FHD
-http://live.darkside-iptv.com:8080/test/test/80920
-#EXTINF:-1,Eurosport360 4 FHD
-http://live.darkside-iptv.com:8080/test/test/80922
-#EXTINF:-1,Eurosport360 5 FHD
-http://live.darkside-iptv.com:8080/test/test/80924
-#EXTINF:-1,Eurosport360 6 FHD
-http://live.darkside-iptv.com:8080/test/test/80926
-#EXTINF:-1,Eurosport360 7 FHD
-http://live.darkside-iptv.com:8080/test/test/80928
-#EXTINF:-1,Eurosport360 8 FHD
-http://live.darkside-iptv.com:8080/test/test/80930
-#EXTINF:-1,Eurosport360 9 FHD
-http://live.darkside-iptv.com:8080/test/test/80932
-#EXTINF:-1,sport1
-http://live.darkside-iptv.com:8080/test/test/22917
-#EXTINF:-1,sport1 HD
-http://live.darkside-iptv.com:8080/test/test/19806
-#EXTINF:-1,sport1 FHD
-http://live.darkside-iptv.com:8080/test/test/30055
-#EXTINF:-1,sport1+ HD
-http://live.darkside-iptv.com:8080/test/test/19081
-#EXTINF:-1,eSports1 FHD
-http://live.darkside-iptv.com:8080/test/test/47962
-#EXTINF:-1,Sportdigital HD
-http://live.darkside-iptv.com:8080/test/test/7963
-#EXTINF:-1,Motorvision TV HD
-http://live.darkside-iptv.com:8080/test/test/7962
-#EXTINF:-1,Auto Motor Sport HD
-http://live.darkside-iptv.com:8080/test/test/26949
-#EXTINF:-1,PDCTV 1 HD
-http://live.darkside-iptv.com:8080/test/test/101936
-#EXTINF:-1,PDCTV 2 HD
-http://live.darkside-iptv.com:8080/test/test/101937
-#EXTINF:-1,PDCTV 3 HD
-http://live.darkside-iptv.com:8080/test/test/101938
-#EXTINF:-1,==== SKY SPORT =====
-http://live.darkside-iptv.com:8080/test/test/13005
-#EXTINF:-1,Sky Sport News
-http://live.darkside-iptv.com:8080/test/test/24584
-#EXTINF:-1,Sky Sport News HD
-http://live.darkside-iptv.com:8080/test/test/24583
-#EXTINF:-1,Sky Sport News FHD
-http://live.darkside-iptv.com:8080/test/test/7934
-#EXTINF:-1,Sky Sport Austria 1
-http://live.darkside-iptv.com:8080/test/test/40227
-#EXTINF:-1,Sky Sport Austria 1 HD
-http://live.darkside-iptv.com:8080/test/test/40228
-#EXTINF:-1,Sky Sport Austria 1 FHD
-http://live.darkside-iptv.com:8080/test/test/22923
-#EXTINF:-1,Sky Sport Austria 2
-http://live.darkside-iptv.com:8080/test/test/95021
-#EXTINF:-1,Sky Sport Austria 2 HD
-http://live.darkside-iptv.com:8080/test/test/46435
-#EXTINF:-1,Sky Sport Austria 2 FHD
-http://live.darkside-iptv.com:8080/test/test/46429
-#EXTINF:-1,Sky Sport Austria 3
-http://live.darkside-iptv.com:8080/test/test/95022
-#EXTINF:-1,Sky Sport Austria 3 HD
-http://live.darkside-iptv.com:8080/test/test/46433
-#EXTINF:-1,Sky Sport Austria 3 FHD
-http://live.darkside-iptv.com:8080/test/test/46430
-#EXTINF:-1,Sky Sport Austria 4
-http://live.darkside-iptv.com:8080/test/test/95023
-#EXTINF:-1,Sky Sport Austria 4 HD
-http://live.darkside-iptv.com:8080/test/test/46434
-#EXTINF:-1,Sky Sport Austria 4 FHD
-http://live.darkside-iptv.com:8080/test/test/46431
-#EXTINF:-1,Sky Sport 1
-http://live.darkside-iptv.com:8080/test/test/7966
-#EXTINF:-1,Sky Sport 2
-http://live.darkside-iptv.com:8080/test/test/7967
-#EXTINF:-1,Sky Sport 3
-http://live.darkside-iptv.com:8080/test/test/7968
-#EXTINF:-1,Sky Sport 4
-http://live.darkside-iptv.com:8080/test/test/7969
-#EXTINF:-1,Sky Sport 5
-http://live.darkside-iptv.com:8080/test/test/7970
-#EXTINF:-1,Sky Sport 6
-http://live.darkside-iptv.com:8080/test/test/7971
-#EXTINF:-1,Sky Sport 7
-http://live.darkside-iptv.com:8080/test/test/7972
-#EXTINF:-1,Sky Sport 8
-http://live.darkside-iptv.com:8080/test/test/7973
-#EXTINF:-1,Sky Sport 9
-http://live.darkside-iptv.com:8080/test/test/7974
-#EXTINF:-1,Sky Sport 10
-http://live.darkside-iptv.com:8080/test/test/7975
-#EXTINF:-1,Sky Sport 11
-http://live.darkside-iptv.com:8080/test/test/7976
-#EXTINF:-1,Sky Sport 1 HD
-http://live.darkside-iptv.com:8080/test/test/23614
-#EXTINF:-1,Sky Sport 2 HD
-http://live.darkside-iptv.com:8080/test/test/23611
-#EXTINF:-1,Sky Sport 3 HD
-http://live.darkside-iptv.com:8080/test/test/23610
-#EXTINF:-1,Sky Sport 4 HD
-http://live.darkside-iptv.com:8080/test/test/23609
-#EXTINF:-1,Sky Sport 5 HD
-http://live.darkside-iptv.com:8080/test/test/23608
-#EXTINF:-1,Sky Sport 6 HD
-http://live.darkside-iptv.com:8080/test/test/23607
-#EXTINF:-1,Sky Sport 7 HD
-http://live.darkside-iptv.com:8080/test/test/23606
-#EXTINF:-1,Sky Sport 8 HD
-http://live.darkside-iptv.com:8080/test/test/23605
-#EXTINF:-1,Sky Sport 9 HD
-http://live.darkside-iptv.com:8080/test/test/23604
-#EXTINF:-1,Sky Sport 10 HD
-http://live.darkside-iptv.com:8080/test/test/23613
-#EXTINF:-1,Sky Sport 11 HD
-http://live.darkside-iptv.com:8080/test/test/23612
-#EXTINF:-1,Sky Sport 12 HD
-http://live.darkside-iptv.com:8080/test/test/40605
-#EXTINF:-1,Sky Sport 13 HD
-http://live.darkside-iptv.com:8080/test/test/40606
-#EXTINF:-1,Sky Sport 14 HD
-http://live.darkside-iptv.com:8080/test/test/40608
-#EXTINF:-1,Sky Sport UHD (Außer Betrieb)
-http://live.darkside-iptv.com:8080/test/test/49422
-#EXTINF:-1,Sky Sport 1 FHD
-http://live.darkside-iptv.com:8080/test/test/23625
-#EXTINF:-1,Sky Sport 2 FHD
-http://live.darkside-iptv.com:8080/test/test/23624
-#EXTINF:-1,Sky Sport 3 FHD
-http://live.darkside-iptv.com:8080/test/test/23623
-#EXTINF:-1,Sky Sport 4 FHD
-http://live.darkside-iptv.com:8080/test/test/23622
-#EXTINF:-1,Sky Sport 5 FHD
-http://live.darkside-iptv.com:8080/test/test/22925
-#EXTINF:-1,Sky Sport 6 FHD
-http://live.darkside-iptv.com:8080/test/test/23620
-#EXTINF:-1,Sky Sport 7 FHD
-http://live.darkside-iptv.com:8080/test/test/23619
-#EXTINF:-1,Sky Sport 8 FHD
-http://live.darkside-iptv.com:8080/test/test/23618
-#EXTINF:-1,Sky Sport 9 FHD
-http://live.darkside-iptv.com:8080/test/test/23617
-#EXTINF:-1,Sky Sport 10 FHD
-http://live.darkside-iptv.com:8080/test/test/23616
-#EXTINF:-1,Sky Sport 11 FHD
-http://live.darkside-iptv.com:8080/test/test/23615
-#EXTINF:-1,Sky Sport 12 FHD
-http://live.darkside-iptv.com:8080/test/test/40603
-#EXTINF:-1,Sky Sport 13 FHD
-http://live.darkside-iptv.com:8080/test/test/40604
-#EXTINF:-1,Sky Sport 14 FHD
-http://live.darkside-iptv.com:8080/test/test/40607
-#EXTINF:-1,====== SKY BUNDESLIGA =======
-http://live.darkside-iptv.com:8080/test/test/12391
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://live.darkside-iptv.com:8080/test/test/7978
-#EXTINF:-1,Sky Sport Bundesliga 2
-http://live.darkside-iptv.com:8080/test/test/7979
-#EXTINF:-1,Sky Sport Bundesliga 3
-http://live.darkside-iptv.com:8080/test/test/7980
-#EXTINF:-1,Sky Sport Bundesliga 4
-http://live.darkside-iptv.com:8080/test/test/7981
-#EXTINF:-1,Sky Sport Bundesliga 5
-http://live.darkside-iptv.com:8080/test/test/7982
-#EXTINF:-1,Sky Sport Bundesliga 6
-http://live.darkside-iptv.com:8080/test/test/7983
-#EXTINF:-1,Sky Sport Bundesliga 7
-http://live.darkside-iptv.com:8080/test/test/7984
-#EXTINF:-1,Sky Sport Bundesliga 8
-http://live.darkside-iptv.com:8080/test/test/7985
-#EXTINF:-1,Sky Sport Bundesliga 9
-http://live.darkside-iptv.com:8080/test/test/7986
-#EXTINF:-1,Sky Sport Bundesliga 10
-http://live.darkside-iptv.com:8080/test/test/7987
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://live.darkside-iptv.com:8080/test/test/23452
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://live.darkside-iptv.com:8080/test/test/23451
-#EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://live.darkside-iptv.com:8080/test/test/23450
-#EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://live.darkside-iptv.com:8080/test/test/23449
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://live.darkside-iptv.com:8080/test/test/23448
-#EXTINF:-1,Sky Sport Bundesliga 6 HD
-http://live.darkside-iptv.com:8080/test/test/23447
-#EXTINF:-1,Sky Sport Bundesliga 9 HD
-http://live.darkside-iptv.com:8080/test/test/40620
-#EXTINF:-1,Sky Sport Bundesliga 7 HD
-http://live.darkside-iptv.com:8080/test/test/40622
-#EXTINF:-1,Sky Sport Bundesliga 8 HD
-http://live.darkside-iptv.com:8080/test/test/40619
-#EXTINF:-1,Sky Sport Bundesliga 10 HD
-http://live.darkside-iptv.com:8080/test/test/40621
-#EXTINF:-1,Sky Sport Bundesliga UHD (Außer Betrieb)
-http://live.darkside-iptv.com:8080/test/test/49420
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD
-http://live.darkside-iptv.com:8080/test/test/22922
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD
-http://live.darkside-iptv.com:8080/test/test/21616
-#EXTINF:-1,Sky Sport Bundesliga 3 FHD
-http://live.darkside-iptv.com:8080/test/test/21615
-#EXTINF:-1,Sky Sport Bundesliga 4 FHD
-http://live.darkside-iptv.com:8080/test/test/22920
-#EXTINF:-1,Sky Sport Bundesliga 5 FHD
-http://live.darkside-iptv.com:8080/test/test/21609
-#EXTINF:-1,Sky Sport Bundesliga 6 FHD
-http://live.darkside-iptv.com:8080/test/test/21614
-#EXTINF:-1,Sky Sport Bundesliga 7 FHD
-http://live.darkside-iptv.com:8080/test/test/30036
-#EXTINF:-1,Sky Sport Bundesliga 8 FHD
-http://live.darkside-iptv.com:8080/test/test/40618
-#EXTINF:-1,Sky Sport Bundesliga 9 FHD
-http://live.darkside-iptv.com:8080/test/test/30037
-#EXTINF:-1,Sky Sport Bundesliga 10 FHD
-http://live.darkside-iptv.com:8080/test/test/30038
-#EXTINF:-1,FC Bayern TV
-http://live.darkside-iptv.com:8080/test/test/26937
-#EXTINF:-1,Fc Barcelona TV
-http://live.darkside-iptv.com:8080/test/test/45479
-#EXTINF:-1,BVB TV
-http://live.darkside-iptv.com:8080/test/test/46203
-#EXTINF:-1,Liverpool FC TV
-http://live.darkside-iptv.com:8080/test/test/45478
-#EXTINF:-1,===== Telekom =====
-http://live.darkside-iptv.com:8080/test/test/29435
-#EXTINF:-1,Telekom Fußball 1 HD
-http://live.darkside-iptv.com:8080/test/test/29443
-#EXTINF:-1,Telekom Fußball 2 HD
-http://live.darkside-iptv.com:8080/test/test/29442
-#EXTINF:-1,Telekom Fußball 3 HD
-http://live.darkside-iptv.com:8080/test/test/29441
-#EXTINF:-1,Telekom Fußball 4 HD
-http://live.darkside-iptv.com:8080/test/test/29440
-#EXTINF:-1,Telekom Fußball 5 HD
-http://live.darkside-iptv.com:8080/test/test/29439
-#EXTINF:-1,Telekom Fußball 6 HD
-http://live.darkside-iptv.com:8080/test/test/29438
-#EXTINF:-1,Telekom Fußball 7 HD
-http://live.darkside-iptv.com:8080/test/test/29437
-#EXTINF:-1,Telekom Fußball 8 HD
-http://live.darkside-iptv.com:8080/test/test/128313
-#EXTINF:-1,Telekom Basketball 1 HD
-http://live.darkside-iptv.com:8080/test/test/29434
-#EXTINF:-1,Telekom Basketball 2 HD
-http://live.darkside-iptv.com:8080/test/test/29433
-#EXTINF:-1,Telekom Basketball 3 HD
-http://live.darkside-iptv.com:8080/test/test/29432
-#EXTINF:-1,Telekom Basketball 4 HD
-http://live.darkside-iptv.com:8080/test/test/29431
-#EXTINF:-1,Telekom Basketball 5 HD
-http://live.darkside-iptv.com:8080/test/test/29430
-#EXTINF:-1,Telekom Basketball 6 HD
-http://live.darkside-iptv.com:8080/test/test/29429
-#EXTINF:-1,Telekom Basketball 7 HD
-http://live.darkside-iptv.com:8080/test/test/29428
-#EXTINF:-1,Telekom Basketball 8 HD
-http://live.darkside-iptv.com:8080/test/test/29427
-#EXTINF:-1,Telekom Basketball 9 HD
-http://live.darkside-iptv.com:8080/test/test/29426
-#EXTINF:-1,Telekom Eishockey 1 HD
-http://live.darkside-iptv.com:8080/test/test/29425
-#EXTINF:-1,Telekom Eishockey 2 HD
-http://live.darkside-iptv.com:8080/test/test/29424
-#EXTINF:-1,Telekom Eishockey 3 HD
-http://live.darkside-iptv.com:8080/test/test/29423
-#EXTINF:-1,Telekom Eishockey 4 HD
-http://live.darkside-iptv.com:8080/test/test/29422
-#EXTINF:-1,Telekom Eishockey 5 HD
-http://live.darkside-iptv.com:8080/test/test/29421
-#EXTINF:-1,Telekom Eishockey 6 HD
-http://live.darkside-iptv.com:8080/test/test/29420
-#EXTINF:-1,Telekom Eishockey 7 HD
-http://live.darkside-iptv.com:8080/test/test/29419
-#EXTINF:-1,Telekom Eishockey 8 HD
-http://live.darkside-iptv.com:8080/test/test/52567
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 1 HD
-http://live.darkside-iptv.com:8080/test/test/94571
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 2 HD
-http://live.darkside-iptv.com:8080/test/test/94572
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 3 HD
-http://live.darkside-iptv.com:8080/test/test/94573
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 4 HD
-http://live.darkside-iptv.com:8080/test/test/94574
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 5 HD
-http://live.darkside-iptv.com:8080/test/test/94575
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 6 HD
-http://live.darkside-iptv.com:8080/test/test/94576
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 7 HD
-http://live.darkside-iptv.com:8080/test/test/94577
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 8 HD
-http://live.darkside-iptv.com:8080/test/test/94578
-#EXTINF:-1,===== MIX # DE ======
-http://live.darkside-iptv.com:8080/test/test/13010
-#EXTINF:-1,HGTV
-http://live.darkside-iptv.com:8080/test/test/86465
-#EXTINF:-1,Health tv HD
-http://live.darkside-iptv.com:8080/test/test/53447
-#EXTINF:-1,BibelTV HD
-http://live.darkside-iptv.com:8080/test/test/47965
-#EXTINF:-1,K-TV HD
-http://live.darkside-iptv.com:8080/test/test/47966
-#EXTINF:-1,rbb Brandenburg
-http://live.darkside-iptv.com:8080/test/test/39447
-#EXTINF:-1,BR Fernsehen Nord
-http://live.darkside-iptv.com:8080/test/test/39448
-#EXTINF:-1,hr-fernsehen
-http://live.darkside-iptv.com:8080/test/test/38716
-#EXTINF:-1,jukebox HD
-http://live.darkside-iptv.com:8080/test/test/22934
-#EXTINF:-1,Deutsches Musik Fernsehen HD
-http://live.darkside-iptv.com:8080/test/test/53449
-#EXTINF:-1,XITE HD
-http://live.darkside-iptv.com:8080/test/test/12909
-#EXTINF:-1,Stingray Classica
-http://live.darkside-iptv.com:8080/test/test/7900
-#EXTINF:-1,WMZ
-http://live.darkside-iptv.com:8080/test/test/18842
-#EXTINF:-1,erzTV Erzgebirge
-http://live.darkside-iptv.com:8080/test/test/18020
-#EXTINF:-1,OK Wernigerode
-http://live.darkside-iptv.com:8080/test/test/18022
-#EXTINF:-1,WMZ Senftenberg
-http://live.darkside-iptv.com:8080/test/test/18029
-#EXTINF:-1,SALZWEDEL
-http://live.darkside-iptv.com:8080/test/test/18024
-#EXTINF:-1,Punktum SüdHarz
-http://live.darkside-iptv.com:8080/test/test/18021
-#EXTINF:-1,Merseburg
-http://live.darkside-iptv.com:8080/test/test/18025
-#EXTINF:-1,Filstalwelle
-http://live.darkside-iptv.com:8080/test/test/11052
-#EXTINF:-1,ISAR TV
-http://live.darkside-iptv.com:8080/test/test/11051
-#EXTINF:-1,Rhein Neckar Fernsehen
-http://live.darkside-iptv.com:8080/test/test/11047
-#EXTINF:-1,TRP 1
-http://live.darkside-iptv.com:8080/test/test/11050
-#EXTINF:-1,Folx TV
-http://live.darkside-iptv.com:8080/test/test/18846
-#EXTINF:-1,RAN 1
-http://live.darkside-iptv.com:8080/test/test/18845
-#EXTINF:-1,RFH
-http://live.darkside-iptv.com:8080/test/test/18844
-#EXTINF:-1,Sonnenklar FHD
-http://live.darkside-iptv.com:8080/test/test/30082
-#EXTINF:-1,travelxp HD
-http://live.darkside-iptv.com:8080/test/test/108016
-#EXTINF:-1,Goldstar TV
-http://live.darkside-iptv.com:8080/test/test/47963
-#EXTINF:-1,Der Aktionär TV HD
-http://live.darkside-iptv.com:8080/test/test/53448
-#EXTINF:-1,Gute Laune TV HD
-http://live.darkside-iptv.com:8080/test/test/57897
-#EXTINF:-1,eoTV FHD
-http://live.darkside-iptv.com:8080/test/test/57895
-#EXTINF:-1,TVO FHD
-http://live.darkside-iptv.com:8080/test/test/49418
-#EXTINF:-1,QVC
-http://live.darkside-iptv.com:8080/test/test/49417
-#EXTINF:-1,QVC FHD
-http://live.darkside-iptv.com:8080/test/test/128316
-#EXTINF:-1,QVC STYLE
-http://live.darkside-iptv.com:8080/test/test/128317
-#EXTINF:-1,QVC STYLE FHD
-http://live.darkside-iptv.com:8080/test/test/128318
-#EXTINF:-1,pearl.tv Shop
-http://live.darkside-iptv.com:8080/test/test/128314
-#EXTINF:-1,pearl.tv Shop FHD
-http://live.darkside-iptv.com:8080/test/test/128315
-#EXTINF:-1,HandystarTV
-http://live.darkside-iptv.com:8080/test/test/128319
-#EXTINF:-1,HandystarTV FHD
-http://live.darkside-iptv.com:8080/test/test/128320
-#EXTINF:-1,1-2-3.tv
-http://live.darkside-iptv.com:8080/test/test/49421
-#EXTINF:-1,Marco Polo TV HD
-http://live.darkside-iptv.com:8080/test/test/53440
-#EXTINF:-1,==== AUSTRIA / SWISS =====
-http://live.darkside-iptv.com:8080/test/test/18017
-#EXTINF:-1,AT: ATV HD
-http://live.darkside-iptv.com:8080/test/test/23503
-#EXTINF:-1,AT: Puls 4 FHD
-http://live.darkside-iptv.com:8080/test/test/26932
-#EXTINF:-1,AT: Puls 24 FHD
-http://live.darkside-iptv.com:8080/test/test/100915
-#EXTINF:-1,AT: ORF 1 HD
-http://live.darkside-iptv.com:8080/test/test/26930
-#EXTINF:-1,AT: ORF 2 FHD
-http://live.darkside-iptv.com:8080/test/test/26929
-#EXTINF:-1,AT: ORF 3
-http://live.darkside-iptv.com:8080/test/test/10564
-#EXTINF:-1,AT: ORF Sport +
-http://live.darkside-iptv.com:8080/test/test/26928
-#EXTINF:-1,AT: Servus TV FHD
-http://live.darkside-iptv.com:8080/test/test/26927
-#EXTINF:-1,AT: OE24 FHD 
-http://live.darkside-iptv.com:8080/test/test/242282
-#EXTINF:-1,AT: ATV II HD
-http://live.darkside-iptv.com:8080/test/test/242283
-#EXTINF:-1,AT: R9 HD
-http://live.darkside-iptv.com:8080/test/test/242284
-#EXTINF:-1,AT: gotv HD
-http://live.darkside-iptv.com:8080/test/test/242285
-#EXTINF:-1,AT: Schau TV FHD
-http://live.darkside-iptv.com:8080/test/test/242286
-#EXTINF:-1,AT: Melodie TV HD
-http://live.darkside-iptv.com:8080/test/test/242287
-#EXTINF:-1,AT: Sport 1+ FHD
-http://live.darkside-iptv.com:8080/test/test/242288
-#EXTINF:-1,AT: Krone TV HD
-http://live.darkside-iptv.com:8080/test/test/242289
-#EXTINF:-1,AT: Starparadies HD
-http://live.darkside-iptv.com:8080/test/test/242290
-#EXTINF:-1,Swiss: SRF 1
-http://live.darkside-iptv.com:8080/test/test/26926
-#EXTINF:-1,Swiss: SRF 2
-http://live.darkside-iptv.com:8080/test/test/26925
-#EXTINF:-1,Swiss: 4+
-http://live.darkside-iptv.com:8080/test/test/26941
-#EXTINF:-1,Swiss: S1 HD
-http://live.darkside-iptv.com:8080/test/test/27054
-#EXTINF:-1,Swiss: SRF Info
-http://live.darkside-iptv.com:8080/test/test/10565
-#EXTINF:-1,Swiss: Blue Action
-http://live.darkside-iptv.com:8080/test/test/26924
-#EXTINF:-1,Swiss: Blue Stars 
-http://live.darkside-iptv.com:8080/test/test/26922
-#EXTINF:-1,Swiss: Blue Prime
-http://live.darkside-iptv.com:8080/test/test/26921
-#EXTINF:-1,Swiss: Blue Cinema
-http://live.darkside-iptv.com:8080/test/test/225371
-#EXTINF:-1,Swiss: Blue Zoom D
-http://live.darkside-iptv.com:8080/test/test/26923
-#EXTINF:-1,Swiss: Blue Sport 1
-http://live.darkside-iptv.com:8080/test/test/26920
-#EXTINF:-1,Swiss: Blue Sport 2
-http://live.darkside-iptv.com:8080/test/test/26918
-#EXTINF:-1,Kronehit
-http://live.darkside-iptv.com:8080/test/test/9433
-#EXTINF:-1,Music: Spirit TV
-http://live.darkside-iptv.com:8080/test/test/124547
-#EXTINF:-1,Music: Energy TV
-http://live.darkside-iptv.com:8080/test/test/124548
-#EXTINF:-1,Music: Dance TV
-http://live.darkside-iptv.com:8080/test/test/124551
-#EXTINF:-1,Music: ClubTools
-http://live.darkside-iptv.com:8080/test/test/124554
-#EXTINF:-1,Music: MTV
-http://live.darkside-iptv.com:8080/test/test/124556
-#EXTINF:-1,Music: Jukebox HD
-http://live.darkside-iptv.com:8080/test/test/124560
-#EXTINF:-1,Music: Classica
-http://live.darkside-iptv.com:8080/test/test/124561
-#EXTINF:-1,Deluxe Music FHD
-http://live.darkside-iptv.com:8080/test/test/22940
-#EXTINF:-1,Deluxe Music
-http://live.darkside-iptv.com:8080/test/test/19836
-#EXTINF:-1,Music: Schlager Deluxe
-http://live.darkside-iptv.com:8080/test/test/225367
+http://mags.vip:2086/live/miriam/miriam123/92328.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://mags.vip:2086/live/miriam/miriam123/92363.ts
+#EXTINF:-1,EURONEWS
+http://mags.vip:2086/live/miriam/miriam123/92418.ts
+#EXTINF:-1,EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92355.ts
+#EXTINF:-1,EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92356.ts
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://mags.vip:2086/live/miriam/miriam123/92357.ts
+#EXTINF:-1,FOX
+http://mags.vip:2086/live/miriam/miriam123/92397.ts
+#EXTINF:-1,HISTORY
+http://mags.vip:2086/live/miriam/miriam123/92364.ts
+#EXTINF:-1,HR
+http://mags.vip:2086/live/miriam/miriam123/92413.ts
+#EXTINF:-1,JUNIOR
+http://mags.vip:2086/live/miriam/miriam123/92379.ts
+#EXTINF:-1,KABEL 1 CLASSICS
+http://mags.vip:2086/live/miriam/miriam123/92325.ts
+#EXTINF:-1,KABEL 1 DOKU
+http://mags.vip:2086/live/miriam/miriam123/92404.ts
+#EXTINF:-1,KABEL EINS
+http://mags.vip:2086/live/miriam/miriam123/92324.ts
+#EXTINF:-1,KIKA
+http://mags.vip:2086/live/miriam/miriam123/92370.ts
+#EXTINF:-1,KINOWELT TV
+http://mags.vip:2086/live/miriam/miriam123/92400.ts
+#EXTINF:-1,MOTORVISION TV
+http://mags.vip:2086/live/miriam/miriam123/92360.ts
+#EXTINF:-1,N-TV
+http://mags.vip:2086/live/miriam/miriam123/92417.ts
+#EXTINF:-1,N24 HD DE
+http://mags.vip:2086/live/miriam/miriam123/92419.ts
+#EXTINF:-1,NAT GEO WILD
+http://mags.vip:2086/live/miriam/miriam123/92367.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://mags.vip:2086/live/miriam/miriam123/92365.ts
+#EXTINF:-1,NDR
+http://mags.vip:2086/live/miriam/miriam123/92411.ts
+#EXTINF:-1,NICKELODEON
+http://mags.vip:2086/live/miriam/miriam123/92377.ts
+#EXTINF:-1,ONE
+http://mags.vip:2086/live/miriam/miriam123/92329.ts
+#EXTINF:-1,ORF 1
+http://mags.vip:2086/live/miriam/miriam123/92409.ts
+#EXTINF:-1,ORF 2
+http://mags.vip:2086/live/miriam/miriam123/92410.ts
+#EXTINF:-1,PHOENIX
+http://mags.vip:2086/live/miriam/miriam123/92323.ts
+#EXTINF:-1,PROSIEBEN
+http://mags.vip:2086/live/miriam/miriam123/92319.ts
+#EXTINF:-1,PROSIEBEN MAXX
+http://mags.vip:2086/live/miriam/miriam123/92320.ts
+#EXTINF:-1,ROMANCE TV
+http://mags.vip:2086/live/miriam/miriam123/92402.ts
+#EXTINF:-1,RTL
+http://mags.vip:2086/live/miriam/miriam123/92315.ts
+#EXTINF:-1,RTL 2
+http://mags.vip:2086/live/miriam/miriam123/92316.ts
+#EXTINF:-1,RTL CRIME
+http://mags.vip:2086/live/miriam/miriam123/92401.ts
+#EXTINF:-1,RTL NITRO
+http://mags.vip:2086/live/miriam/miriam123/92317.ts
+#EXTINF:-1,SAT 1
+http://mags.vip:2086/live/miriam/miriam123/92321.ts
+#EXTINF:-1,SAT 1
+http://mags.vip:2086/live/miriam/miriam123/92406.ts
+#EXTINF:-1,SAT 1 GOLD
+http://mags.vip:2086/live/miriam/miriam123/92322.ts
+#EXTINF:-1,SIXX
+http://mags.vip:2086/live/miriam/miriam123/92318.ts
+#EXTINF:-1,SKY 1
+http://mags.vip:2086/live/miriam/miriam123/92380.ts
+#EXTINF:-1,SKY ATLANTIC
+http://mags.vip:2086/live/miriam/miriam123/92391.ts
+#EXTINF:-1,SKY CINEMA 1
+http://mags.vip:2086/live/miriam/miriam123/92381.ts
+#EXTINF:-1,SKY CINEMA 24
+http://mags.vip:2086/live/miriam/miriam123/92382.ts
+#EXTINF:-1,SKY CINEMA ACTION
+http://mags.vip:2086/live/miriam/miriam123/92390.ts
+#EXTINF:-1,SKY CINEMA COMEDY
+http://mags.vip:2086/live/miriam/miriam123/92389.ts
+#EXTINF:-1,SKY CINEMA COMIC HELDEN
+http://mags.vip:2086/live/miriam/miriam123/92388.ts
+#EXTINF:-1,SKY CINEMA FAMILY
+http://mags.vip:2086/live/miriam/miriam123/92386.ts
+#EXTINF:-1,SKY CINEMA HITS
+http://mags.vip:2086/live/miriam/miriam123/92385.ts
+#EXTINF:-1,SKY CINEMA NOSTALGIE
+http://mags.vip:2086/live/miriam/miriam123/92383.ts
+#EXTINF:-1,SKY KRIMI
+http://mags.vip:2086/live/miriam/miriam123/92392.ts
+#EXTINF:-1,SKY SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92331.ts
+#EXTINF:-1,SKY SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92332.ts
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://mags.vip:2086/live/miriam/miriam123/92341.ts
+#EXTINF:-1,SKY SPORT AUSTRIA 2
+http://mags.vip:2086/live/miriam/miriam123/92342.ts
+#EXTINF:-1,SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92359.ts
+#EXTINF:-1,SPORTDIGITAL
+http://mags.vip:2086/live/miriam/miriam123/92358.ts
+#EXTINF:-1,SUPER RTL
+http://mags.vip:2086/live/miriam/miriam123/92375.ts
+#EXTINF:-1,SYFY
+http://mags.vip:2086/live/miriam/miriam123/92395.ts
+#EXTINF:-1,TELE 5
+http://mags.vip:2086/live/miriam/miriam123/92326.ts
+#EXTINF:-1,TNT COMEDY
+http://mags.vip:2086/live/miriam/miriam123/92394.ts
+#EXTINF:-1,TNT SERIE
+http://mags.vip:2086/live/miriam/miriam123/92396.ts
+#EXTINF:-1,UNIVERSAL TV
+http://mags.vip:2086/live/miriam/miriam123/92414.ts
+#EXTINF:-1,VIVA COMEDY
+http://mags.vip:2086/live/miriam/miriam123/92403.ts
+#EXTINF:-1,VOX
+http://mags.vip:2086/live/miriam/miriam123/92399.ts
+#EXTINF:-1,WELT HD DE
+http://mags.vip:2086/live/miriam/miriam123/92420.ts
+#EXTINF:-1,ZDF
+http://mags.vip:2086/live/miriam/miriam123/92314.ts
