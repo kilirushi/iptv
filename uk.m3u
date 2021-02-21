@@ -1,347 +1,379 @@
 #EXTM3U
-#EXTINF:-1,4SEVEN
-http://mags.vip:2086/live/miriam/miriam123/66935.ts
-#EXTINF:-1,5 SELECT
-http://mags.vip:2086/live/miriam/miriam123/66937.ts
-#EXTINF:-1,5 STAR
-http://mags.vip:2086/live/miriam/miriam123/66938.ts
-#EXTINF:-1,5 STAR +1
-http://mags.vip:2086/live/miriam/miriam123/66939.ts
-#EXTINF:-1,5 USA
-http://mags.vip:2086/live/miriam/miriam123/66936.ts
-#EXTINF:-1,5 USA +1
-http://mags.vip:2086/live/miriam/miriam123/66942.ts
-#EXTINF:-1,AL JAZEERA ENG
-http://mags.vip:2086/live/miriam/miriam123/66946.ts
-#EXTINF:-1,ALIBI
-http://mags.vip:2086/live/miriam/miriam123/72565.ts
-#EXTINF:-1,ANIMAL PLANET
-http://mags.vip:2086/live/miriam/miriam123/72567.ts
-#EXTINF:-1,BABY TV
-http://mags.vip:2086/live/miriam/miriam123/100047.ts
+#EXTINF:-1,BBC One HD
+http://media-kings.xyz:8080/tek1/tek1/31136
+#EXTINF:-1,BBC One HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54408
 #EXTINF:-1,BBC 2 HD
-http://mags.vip:2086/live/miriam/miriam123/90876.ts
-#EXTINF:-1,BBC 4 HD
-http://mags.vip:2086/live/miriam/miriam123/90877.ts
-#EXTINF:-1,BBC NEWS HD
-http://mags.vip:2086/live/miriam/miriam123/90878.ts
-#EXTINF:-1,BBC ONE EAST
-http://mags.vip:2086/live/miriam/miriam123/31878.ts
-#EXTINF:-1,BBC ONE HD
-http://mags.vip:2086/live/miriam/miriam123/90864.ts
-#EXTINF:-1,BBC ONE SCOTLAND
-http://mags.vip:2086/live/miriam/miriam123/100035.ts
-#EXTINF:-1,BBC ONE WALES
-http://mags.vip:2086/live/miriam/miriam123/100036.ts
-#EXTINF:-1,BBC SCOTLAND
-http://mags.vip:2086/live/miriam/miriam123/98711.ts
-#EXTINF:-1,BLAZE
-http://mags.vip:2086/live/miriam/miriam123/66951.ts
-#EXTINF:-1,BOOMERANG
-http://mags.vip:2086/live/miriam/miriam123/100031.ts
-#EXTINF:-1,BOX HITS
-http://mags.vip:2086/live/miriam/miriam123/99202.ts
-#EXTINF:-1,BOXNATION
-http://mags.vip:2086/live/miriam/miriam123/67081.ts
-#EXTINF:-1,BT SPORTS 1
-http://mags.vip:2086/live/miriam/miriam123/67062.ts
-#EXTINF:-1,BT SPORTS 2
-http://mags.vip:2086/live/miriam/miriam123/67063.ts
-#EXTINF:-1,BT SPORTS 3
-http://mags.vip:2086/live/miriam/miriam123/67075.ts
-#EXTINF:-1,BT SPORTS ESPN
-http://mags.vip:2086/live/miriam/miriam123/67076.ts
-#EXTINF:-1,BT SPORTS EXTRA 1
-http://mags.vip:2086/live/miriam/miriam123/100001.ts
-#EXTINF:-1,BT SPORTS EXTRA 2
-http://mags.vip:2086/live/miriam/miriam123/100002.ts
-#EXTINF:-1,BT SPORTS EXTRA 3
-http://mags.vip:2086/live/miriam/miriam123/100003.ts
-#EXTINF:-1,BT SPORTS EXTRA 4
-http://mags.vip:2086/live/miriam/miriam123/100004.ts
-#EXTINF:-1,BT SPORTS EXTRA 5
-http://mags.vip:2086/live/miriam/miriam123/100005.ts
-#EXTINF:-1,BT SPORTS EXTRA 6
-http://mags.vip:2086/live/miriam/miriam123/100006.ts
-#EXTINF:-1,CARTOONITO
-http://mags.vip:2086/live/miriam/miriam123/98706.ts
-#EXTINF:-1,CBBC 
-http://mags.vip:2086/live/miriam/miriam123/90880.ts
-#EXTINF:-1,CBEEBIES
-http://mags.vip:2086/live/miriam/miriam123/90881.ts
-#EXTINF:-1,CBS DRAMA
-http://mags.vip:2086/live/miriam/miriam123/100030.ts
-#EXTINF:-1,CBS JUSTICE
-http://mags.vip:2086/live/miriam/miriam123/66956.ts
-#EXTINF:-1,CBS REALITY
-http://mags.vip:2086/live/miriam/miriam123/66957.ts
-#EXTINF:-1,CHALLENGE
-http://mags.vip:2086/live/miriam/miriam123/98705.ts
-#EXTINF:-1,CHANNEL 4
-http://mags.vip:2086/live/miriam/miriam123/66961.ts
-#EXTINF:-1,CHANNEL 5
-http://mags.vip:2086/live/miriam/miriam123/66962.ts
-#EXTINF:-1,CHANNEL 5 +1
-http://mags.vip:2086/live/miriam/miriam123/66963.ts
-#EXTINF:-1,COMEDY CENTRAL
-http://mags.vip:2086/live/miriam/miriam123/72570.ts
-#EXTINF:-1,CRAFT EXTRA
-http://mags.vip:2086/live/miriam/miriam123/66966.ts
-#EXTINF:-1,CRIME & INVESTIGATION
-http://mags.vip:2086/live/miriam/miriam123/98704.ts
-#EXTINF:-1,DAVE
-http://mags.vip:2086/live/miriam/miriam123/66969.ts
-#EXTINF:-1,DAVE JA VU
-http://mags.vip:2086/live/miriam/miriam123/100046.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/32042.ts
-#EXTINF:-1,DISCOVERY HISTORY
-http://mags.vip:2086/live/miriam/miriam123/32041.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://mags.vip:2086/live/miriam/miriam123/100029.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://mags.vip:2086/live/miriam/miriam123/32039.ts
-#EXTINF:-1,DISCOVERY SHED
-http://mags.vip:2086/live/miriam/miriam123/32038.ts
-#EXTINF:-1,DISCOVERY TURBO
-http://mags.vip:2086/live/miriam/miriam123/72573.ts
-#EXTINF:-1,DMAX
-http://mags.vip:2086/live/miriam/miriam123/66967.ts
-#EXTINF:-1,DMAX +1
-http://mags.vip:2086/live/miriam/miriam123/66968.ts
-#EXTINF:-1,DRAMA
-http://mags.vip:2086/live/miriam/miriam123/98700.ts
-#EXTINF:-1,E!
-http://mags.vip:2086/live/miriam/miriam123/67089.ts
-#EXTINF:-1,E4
-http://mags.vip:2086/live/miriam/miriam123/66972.ts
-#EXTINF:-1,EDEN
-http://mags.vip:2086/live/miriam/miriam123/72572.ts
-#EXTINF:-1,EIR SPORT 1
-http://mags.vip:2086/live/miriam/miriam123/91786.ts
-#EXTINF:-1,EIR SPORT 2
-http://mags.vip:2086/live/miriam/miriam123/91787.ts
-#EXTINF:-1,EIR SPORTS 1
-http://mags.vip:2086/live/miriam/miriam123/36252.ts
-#EXTINF:-1,EIR SPORTS 2
-http://mags.vip:2086/live/miriam/miriam123/36253.ts
-#EXTINF:-1,EUROSPORT 1
-http://mags.vip:2086/live/miriam/miriam123/72659.ts
-#EXTINF:-1,EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/72660.ts
-#EXTINF:-1,EUROSPORT ONE
-http://mags.vip:2086/live/miriam/miriam123/99200.ts
-#EXTINF:-1,EUROSPORT TWO
-http://mags.vip:2086/live/miriam/miriam123/99201.ts
-#EXTINF:-1,FILM4
-http://mags.vip:2086/live/miriam/miriam123/66975.ts
-#EXTINF:-1,FOOD NETWORK
-http://mags.vip:2086/live/miriam/miriam123/66977.ts
-#EXTINF:-1,FOOD NETWORK +1
-http://mags.vip:2086/live/miriam/miriam123/66978.ts
-#EXTINF:-1,FOX
-http://mags.vip:2086/live/miriam/miriam123/98699.ts
-#EXTINF:-1,FREESPORTS
-http://mags.vip:2086/live/miriam/miriam123/99228.ts
-#EXTINF:-1,GOLD
-http://mags.vip:2086/live/miriam/miriam123/67064.ts
-#EXTINF:-1,H2
-http://mags.vip:2086/live/miriam/miriam123/67070.ts
-#EXTINF:-1,HGTV
-http://mags.vip:2086/live/miriam/miriam123/100020.ts
-#EXTINF:-1,HOME
-http://mags.vip:2086/live/miriam/miriam123/100045.ts
-#EXTINF:-1,HORROR
-http://mags.vip:2086/live/miriam/miriam123/72577.ts
-#EXTINF:-1,HORROR+1
-http://mags.vip:2086/live/miriam/miriam123/72578.ts
-#EXTINF:-1,HORSE AND COUNTRY TV
-http://mags.vip:2086/live/miriam/miriam123/99203.ts
-#EXTINF:-1,ID
-http://mags.vip:2086/live/miriam/miriam123/67088.ts
-#EXTINF:-1,ITV
-http://mags.vip:2086/live/miriam/miriam123/66991.ts
-#EXTINF:-1,ITV +1
-http://mags.vip:2086/live/miriam/miriam123/66992.ts
-#EXTINF:-1,ITV2
-http://mags.vip:2086/live/miriam/miriam123/67003.ts
-#EXTINF:-1,ITV3
-http://mags.vip:2086/live/miriam/miriam123/72596.ts
-#EXTINF:-1,ITV4
-http://mags.vip:2086/live/miriam/miriam123/67004.ts
-#EXTINF:-1,ITVBe
-http://mags.vip:2086/live/miriam/miriam123/67006.ts
-#EXTINF:-1,KERRANG!
-http://mags.vip:2086/live/miriam/miriam123/67009.ts
-#EXTINF:-1,LA LIGA TV
-http://mags.vip:2086/live/miriam/miriam123/99199.ts
-#EXTINF:-1,LFC TV
-http://mags.vip:2086/live/miriam/miriam123/56180.ts
-#EXTINF:-1,LIFETIME
-http://mags.vip:2086/live/miriam/miriam123/67069.ts
-#EXTINF:-1,MAGIC
-http://mags.vip:2086/live/miriam/miriam123/67014.ts
-#EXTINF:-1,MORE4
-http://mags.vip:2086/live/miriam/miriam123/98696.ts
-#EXTINF:-1,MORE4 +1
-http://mags.vip:2086/live/miriam/miriam123/67015.ts
-#EXTINF:-1,MOVIES 24
-http://mags.vip:2086/live/miriam/miriam123/98695.ts
-#EXTINF:-1,MTV
-http://mags.vip:2086/live/miriam/miriam123/67073.ts
-#EXTINF:-1,MTV BASE
-http://mags.vip:2086/live/miriam/miriam123/100028.ts
-#EXTINF:-1,MTV CLASSIC
-http://mags.vip:2086/live/miriam/miriam123/100027.ts
-#EXTINF:-1,MTV HITS
-http://mags.vip:2086/live/miriam/miriam123/100026.ts
-#EXTINF:-1,MTV LIVE
-http://mags.vip:2086/live/miriam/miriam123/91785.ts
-#EXTINF:-1,MUTV
-http://mags.vip:2086/live/miriam/miriam123/42409.ts
-#EXTINF:-1,NAT GEO
-http://mags.vip:2086/live/miriam/miriam123/98691.ts
-#EXTINF:-1,NAT GEO WILD
-http://mags.vip:2086/live/miriam/miriam123/67074.ts
-#EXTINF:-1,NICK
-http://mags.vip:2086/live/miriam/miriam123/91784.ts
-#EXTINF:-1,NICK JR
-http://mags.vip:2086/live/miriam/miriam123/98690.ts
-#EXTINF:-1,NICK JR TOO
-http://mags.vip:2086/live/miriam/miriam123/67072.ts
-#EXTINF:-1,NICKTOONS
-http://mags.vip:2086/live/miriam/miriam123/98694.ts
-#EXTINF:-1,NOOR TV
-http://mags.vip:2086/live/miriam/miriam123/67021.ts
-#EXTINF:-1,NOW 70s
-http://mags.vip:2086/live/miriam/miriam123/100025.ts
-#EXTINF:-1,NOW 80s
-http://mags.vip:2086/live/miriam/miriam123/67022.ts
-#EXTINF:-1,NOW 90s
-http://mags.vip:2086/live/miriam/miriam123/67023.ts
-#EXTINF:-1,PARAMOUNT
-http://mags.vip:2086/live/miriam/miriam123/66940.ts
-#EXTINF:-1,PICK
-http://mags.vip:2086/live/miriam/miriam123/98693.ts
-#EXTINF:-1,POP
-http://mags.vip:2086/live/miriam/miriam123/100043.ts
-#EXTINF:-1,POP MAX
-http://mags.vip:2086/live/miriam/miriam123/100044.ts
-#EXTINF:-1,PREMIER SPORTS 1
-http://mags.vip:2086/live/miriam/miriam123/91782.ts
-#EXTINF:-1,PREMIER SPORTS 2
-http://mags.vip:2086/live/miriam/miriam123/91783.ts
-#EXTINF:-1,QUEST
-http://mags.vip:2086/live/miriam/miriam123/67029.ts
-#EXTINF:-1,QUEST RED
-http://mags.vip:2086/live/miriam/miriam123/100042.ts
-#EXTINF:-1,RACING TV
-http://mags.vip:2086/live/miriam/miriam123/67071.ts
-#EXTINF:-1,RANGERS TV (MATCH TIME ONLY)
-http://mags.vip:2086/live/miriam/miriam123/99592.ts
-#EXTINF:-1,REALLY
-http://mags.vip:2086/live/miriam/miriam123/100024.ts
-#EXTINF:-1,RTE JR
-http://mags.vip:2086/live/miriam/miriam123/91792.ts
-#EXTINF:-1,RTE NEWS
-http://mags.vip:2086/live/miriam/miriam123/91793.ts
-#EXTINF:-1,RTE ONE
-http://mags.vip:2086/live/miriam/miriam123/32065.ts
-#EXTINF:-1,RTE TWO
-http://mags.vip:2086/live/miriam/miriam123/32064.ts
-#EXTINF:-1,SHEFFIELD LIVE TV
-http://mags.vip:2086/live/miriam/miriam123/99204.ts
-#EXTINF:-1,SKY ARTS
-http://mags.vip:2086/live/miriam/miriam123/98689.ts
-#EXTINF:-1,SKY ATLANTIC
-http://mags.vip:2086/live/miriam/miriam123/91780.ts
-#EXTINF:-1,SKY CINEMA ACTION
-http://mags.vip:2086/live/miriam/miriam123/87571.ts
-#EXTINF:-1,SKY CINEMA ANIMATION
-http://mags.vip:2086/live/miriam/miriam123/100032.ts
-#EXTINF:-1,SKY CINEMA BLOCKBUSTERS
-http://mags.vip:2086/live/miriam/miriam123/87580.ts
-#EXTINF:-1,SKY CINEMA COMEDY
-http://mags.vip:2086/live/miriam/miriam123/87572.ts
-#EXTINF:-1,SKY CINEMA DISNEY
-http://mags.vip:2086/live/miriam/miriam123/87573.ts
-#EXTINF:-1,SKY CINEMA DRAMA
-http://mags.vip:2086/live/miriam/miriam123/87574.ts
-#EXTINF:-1,SKY CINEMA FAMILY
-http://mags.vip:2086/live/miriam/miriam123/87575.ts
-#EXTINF:-1,SKY CINEMA GREATS
-http://mags.vip:2086/live/miriam/miriam123/87576.ts
-#EXTINF:-1,SKY CINEMA HITS
-http://mags.vip:2086/live/miriam/miriam123/87577.ts
-#EXTINF:-1,SKY CINEMA PREMIERE
-http://mags.vip:2086/live/miriam/miriam123/87578.ts
-#EXTINF:-1,SKY CINEMA SCI-FI
-http://mags.vip:2086/live/miriam/miriam123/87579.ts
-#EXTINF:-1,SKY CINEMA THRILLER
-http://mags.vip:2086/live/miriam/miriam123/87581.ts
-#EXTINF:-1,SKY COMEDY
-http://mags.vip:2086/live/miriam/miriam123/98688.ts
-#EXTINF:-1,SKY CRIME
-http://mags.vip:2086/live/miriam/miriam123/91779.ts
-#EXTINF:-1,SKY DOCUMENTARIES
-http://mags.vip:2086/live/miriam/miriam123/99207.ts
-#EXTINF:-1,SKY HISTORY
-http://mags.vip:2086/live/miriam/miriam123/98698.ts
-#EXTINF:-1,SKY NATURE
-http://mags.vip:2086/live/miriam/miriam123/99206.ts
-#EXTINF:-1,SKY NEWS
-http://mags.vip:2086/live/miriam/miriam123/98692.ts
-#EXTINF:-1,SKY NEWS
-http://mags.vip:2086/live/miriam/miriam123/99466.ts
-#EXTINF:-1,SKY ONE
-http://mags.vip:2086/live/miriam/miriam123/98687.ts
-#EXTINF:-1,SKY REPLAY
-http://mags.vip:2086/live/miriam/miriam123/100023.ts
-#EXTINF:-1,SKY SPORTS ARENA
-http://mags.vip:2086/live/miriam/miriam123/85931.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-http://mags.vip:2086/live/miriam/miriam123/51106.ts
-#EXTINF:-1,SKY SPORTS F1
-http://mags.vip:2086/live/miriam/miriam123/67056.ts
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://mags.vip:2086/live/miriam/miriam123/67057.ts
-#EXTINF:-1,SKY SPORTS GOLF
-http://mags.vip:2086/live/miriam/miriam123/67059.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://mags.vip:2086/live/miriam/miriam123/67058.ts
-#EXTINF:-1,SKY SPORTS MIX
-http://mags.vip:2086/live/miriam/miriam123/67061.ts
-#EXTINF:-1,SKY SPORTS NEWS
-http://mags.vip:2086/live/miriam/miriam123/67091.ts
-#EXTINF:-1,SKY SPORTS NFL
-http://mags.vip:2086/live/miriam/miriam123/85930.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://mags.vip:2086/live/miriam/miriam123/67060.ts
-#EXTINF:-1,SKY SPORTS RACING
-http://mags.vip:2086/live/miriam/miriam123/47763.ts
-#EXTINF:-1,SKY WITNESS
-http://mags.vip:2086/live/miriam/miriam123/38338.ts
-#EXTINF:-1,SMITHSONIAN CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/100034.ts
-#EXTINF:-1,SPORTS TONIGHT
-http://mags.vip:2086/live/miriam/miriam123/99205.ts
-#EXTINF:-1,SYFY
-http://mags.vip:2086/live/miriam/miriam123/67068.ts
-#EXTINF:-1,TCM
-http://mags.vip:2086/live/miriam/miriam123/32055.ts
-#EXTINF:-1,TINY POP
-http://mags.vip:2086/live/miriam/miriam123/100022.ts
-#EXTINF:-1,TLC
-http://mags.vip:2086/live/miriam/miriam123/91781.ts
-#EXTINF:-1,TRAVELXP
-http://mags.vip:2086/live/miriam/miriam123/67049.ts
-#EXTINF:-1,VIRGIN ONE
-http://mags.vip:2086/live/miriam/miriam123/91788.ts
-#EXTINF:-1,VIRGIN THREE
-http://mags.vip:2086/live/miriam/miriam123/91790.ts
-#EXTINF:-1,VIRGIN TWO
-http://mags.vip:2086/live/miriam/miriam123/91789.ts
-#EXTINF:-1,W
-http://mags.vip:2086/live/miriam/miriam123/72574.ts
-#EXTINF:-1,YESTERDAY
-http://mags.vip:2086/live/miriam/miriam123/100021.ts
+http://media-kings.xyz:8080/tek1/tek1/31033
+#EXTINF:-1,BBC 2 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54409
+#EXTINF:-1,BBC Three HD
+http://media-kings.xyz:8080/tek1/tek1/31114
+#EXTINF:-1,BBC Parliament HD
+http://media-kings.xyz:8080/tek1/tek1/31112
+#EXTINF:-1,BBC Entertainment HD
+http://media-kings.xyz:8080/tek1/tek1/31111
+#EXTINF:-1,BBC Earth HD
+http://media-kings.xyz:8080/tek1/tek1/43234
+#EXTINF:-1, BBC Four HD
+http://media-kings.xyz:8080/tek1/tek1/57
+#EXTINF:-1,ITV 1 HD
+http://media-kings.xyz:8080/tek1/tek1/90
+#EXTINF:-1,ITV 1 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54410
+#EXTINF:-1,ITV 2 HD
+http://media-kings.xyz:8080/tek1/tek1/91
+#EXTINF:-1,ITV 2 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54411
+#EXTINF:-1,ITV 3 HD
+http://media-kings.xyz:8080/tek1/tek1/92
+#EXTINF:-1,ITV 3 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54412
+#EXTINF:-1,ITV 4 HD
+http://media-kings.xyz:8080/tek1/tek1/93
+#EXTINF:-1,ITV 4 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54413
+#EXTINF:-1,ITVBe HD
+http://media-kings.xyz:8080/tek1/tek1/94
+#EXTINF:-1,Channel 4 HD
+http://media-kings.xyz:8080/tek1/tek1/70
+#EXTINF:-1,Channel 4 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54414
+#EXTINF:-1,4 Seven HD
+http://media-kings.xyz:8080/tek1/tek1/46
+#EXTINF:-1,4 Seven HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54416
+#EXTINF:-1,More 4 HD
+http://media-kings.xyz:8080/tek1/tek1/97
+#EXTINF:-1,More 4 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54417
+#EXTINF:-1,E4 HD
+http://media-kings.xyz:8080/tek1/tek1/81
+#EXTINF:-1,E4 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54430
+#EXTINF:-1,Film 4 HD
+http://media-kings.xyz:8080/tek1/tek1/31048
+#EXTINF:-1,Film 4 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54418
+#EXTINF:-1,Channel 5 HD
+http://media-kings.xyz:8080/tek1/tek1/115
+#EXTINF:-1,Channel 5 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54419
+#EXTINF:-1,5 Star HD
+http://media-kings.xyz:8080/tek1/tek1/86
+#EXTINF:-1,5 Star HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54420
+#EXTINF:-1,5 USA HD
+http://media-kings.xyz:8080/tek1/tek1/31101
+#EXTINF:-1,5 USA HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54421
+#EXTINF:-1,Alibi HD
+http://media-kings.xyz:8080/tek1/tek1/109
+#EXTINF:-1,Alibi HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54422
+#EXTINF:-1,Bet HD
+http://media-kings.xyz:8080/tek1/tek1/110
+#EXTINF:-1,Bet HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54423
+#EXTINF:-1, Blaze HD
+http://media-kings.xyz:8080/tek1/tek1/107
+#EXTINF:-1,CBBC HD
+http://media-kings.xyz:8080/tek1/tek1/36914
+#EXTINF:-1, CBS Drama HD
+http://media-kings.xyz:8080/tek1/tek1/67
+#EXTINF:-1,CBS Justice HD
+http://media-kings.xyz:8080/tek1/tek1/111
+#EXTINF:-1,CBS Reality HD
+http://media-kings.xyz:8080/tek1/tek1/113
+#EXTINF:-1, Challenge HD
+http://media-kings.xyz:8080/tek1/tek1/105
+#EXTINF:-1,Challenge HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54424
+#EXTINF:-1,CNBC HD
+http://media-kings.xyz:8080/tek1/tek1/23269
+#EXTINF:-1,Comedy Central HD
+http://media-kings.xyz:8080/tek1/tek1/62
+#EXTINF:-1,Comedy Central HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54425
+#EXTINF:-1,Comedy Central Extra HD
+http://media-kings.xyz:8080/tek1/tek1/54426
+#EXTINF:-1,Crime & Investigation HD BACKUO
+http://media-kings.xyz:8080/tek1/tek1/54453
+#EXTINF:-1,Dave HD
+http://media-kings.xyz:8080/tek1/tek1/74
+#EXTINF:-1,Dave HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54427
+#EXTINF:-1,Disney Channel HD
+http://media-kings.xyz:8080/tek1/tek1/36916
+#EXTINF:-1,Disney Junior HD
+http://media-kings.xyz:8080/tek1/tek1/36917
+#EXTINF:-1,DMAX HD
+http://media-kings.xyz:8080/tek1/tek1/65
+#EXTINF:-1,Drama HD
+http://media-kings.xyz:8080/tek1/tek1/66
+#EXTINF:-1,Drama HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54428
+#EXTINF:-1,E! Entertainment HD
+http://media-kings.xyz:8080/tek1/tek1/119
+#EXTINF:-1,E! Entertainment HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54429
+#EXTINF:-1,Eden HD
+http://media-kings.xyz:8080/tek1/tek1/63
+#EXTINF:-1,Eden HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54431
+#EXTINF:-1,Food Network HD
+http://media-kings.xyz:8080/tek1/tek1/124
+#EXTINF:-1,Fox HD
+http://media-kings.xyz:8080/tek1/tek1/31052
+#EXTINF:-1,Gold HD
+http://media-kings.xyz:8080/tek1/tek1/125
+#EXTINF:-1,Gold HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54432
+#EXTINF:-1,HGTV HD
+http://media-kings.xyz:8080/tek1/tek1/170324
+#EXTINF:-1,Home HD
+http://media-kings.xyz:8080/tek1/tek1/31148
+#EXTINF:-1,Horror Channel HD
+http://media-kings.xyz:8080/tek1/tek1/127
+#EXTINF:-1,Insight TV HD
+http://media-kings.xyz:8080/tek1/tek1/128
+#EXTINF:-1,MTV HD
+http://media-kings.xyz:8080/tek1/tek1/31163
+#EXTINF:-1,MTV Base HD
+http://media-kings.xyz:8080/tek1/tek1/31165
+#EXTINF:-1,MTV Classic HD
+http://media-kings.xyz:8080/tek1/tek1/31167
+#EXTINF:-1,MTV Hits HD
+http://media-kings.xyz:8080/tek1/tek1/31169
+#EXTINF:-1,MTV Music HD
+http://media-kings.xyz:8080/tek1/tek1/31171
+#EXTINF:-1,MTV Rocks HD
+http://media-kings.xyz:8080/tek1/tek1/31172
+#EXTINF:-1,MTV One HD
+http://media-kings.xyz:8080/tek1/tek1/45292
+#EXTINF:-1,Keep It Country TV HD
+http://media-kings.xyz:8080/tek1/tek1/31040
+#EXTINF:-1,Clubland TV HD
+http://media-kings.xyz:8080/tek1/tek1/45306
+#EXTINF:-1,Kiss TV HD
+http://media-kings.xyz:8080/tek1/tek1/45280
+#EXTINF:-1,The Box HD
+http://media-kings.xyz:8080/tek1/tek1/45295
+#EXTINF:-1,Box Hits HD
+http://media-kings.xyz:8080/tek1/tek1/45297
+#EXTINF:-1,NOW 80's
+http://media-kings.xyz:8080/tek1/tek1/45299
+#EXTINF:-1,Now 90's HD
+http://media-kings.xyz:8080/tek1/tek1/45300
+#EXTINF:-1,Trace Vault HD
+http://media-kings.xyz:8080/tek1/tek1/45294
+#EXTINF:-1,Lifetime HD
+http://media-kings.xyz:8080/tek1/tek1/129
+#EXTINF:-1,Lifetime HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54433
+#EXTINF:-1,London Live HD
+http://media-kings.xyz:8080/tek1/tek1/31159
+#EXTINF:-1,Paramount HD
+http://media-kings.xyz:8080/tek1/tek1/100
+#EXTINF:-1,Pick TV HD
+http://media-kings.xyz:8080/tek1/tek1/98
+#EXTINF:-1,Magic TV HD
+http://media-kings.xyz:8080/tek1/tek1/31161
+#EXTINF:-1,Nickelodeon HD
+http://media-kings.xyz:8080/tek1/tek1/33913
+#EXTINF:-1,Pop HD
+http://media-kings.xyz:8080/tek1/tek1/37678
+#EXTINF:-1,POP Max HD
+http://media-kings.xyz:8080/tek1/tek1/103
+#EXTINF:-1,Quest HD
+http://media-kings.xyz:8080/tek1/tek1/101
+#EXTINF:-1,QUEST HD(BACKUP)
+http://media-kings.xyz:8080/tek1/tek1/140482
+#EXTINF:-1,Quest Red HD
+http://media-kings.xyz:8080/tek1/tek1/130
+#EXTINF:-1,QVC HD
+http://media-kings.xyz:8080/tek1/tek1/31184
+#EXTINF:-1,QVC Extra HD
+http://media-kings.xyz:8080/tek1/tek1/31186
+#EXTINF:-1,QVC Style HD
+http://media-kings.xyz:8080/tek1/tek1/31188
+#EXTINF:-1,QVC Beauty HD
+http://media-kings.xyz:8080/tek1/tek1/31185
+#EXTINF:-1,AMC HD
+http://media-kings.xyz:8080/tek1/tek1/31109
+#EXTINF:-1,Sky One HD 
+http://media-kings.xyz:8080/tek1/tek1/76
+#EXTINF:-1,Sky One HD Backup
+http://media-kings.xyz:8080/tek1/tek1/101039
+#EXTINF:-1,Sky Atlantic HD
+http://media-kings.xyz:8080/tek1/tek1/84
+#EXTINF:-1,Sky Atlantic HD Backup
+http://media-kings.xyz:8080/tek1/tek1/54441
+#EXTINF:-1,Sky Arts HD
+http://media-kings.xyz:8080/tek1/tek1/78
+#EXTINF:-1,Sky Arts HD Backup
+http://media-kings.xyz:8080/tek1/tek1/54436
+#EXTINF:-1,Sky Comedy FHD
+http://media-kings.xyz:8080/tek1/tek1/141445
+#EXTINF:-1,Sky Comedy HD
+http://media-kings.xyz:8080/tek1/tek1/141444
+#EXTINF:-1,Sky Replay HD
+http://media-kings.xyz:8080/tek1/tek1/77
+#EXTINF:-1,Sky Replay HD Backup (Coming Soon)
+http://media-kings.xyz:8080/tek1/tek1/54435
+#EXTINF:-1,Sky Witness HD 
+http://media-kings.xyz:8080/tek1/tek1/140481
+#EXTINF:-1,Virgin Media One HD
+http://media-kings.xyz:8080/tek1/tek1/30312
+#EXTINF:-1,Virgin Media Two HD
+http://media-kings.xyz:8080/tek1/tek1/37710
+#EXTINF:-1,Virgin Media Three HD
+http://media-kings.xyz:8080/tek1/tek1/30314
+#EXTINF:-1,Ginx Gaming Channel HD
+http://media-kings.xyz:8080/tek1/tek1/34291
+#EXTINF:-1,Sky Cinema Premiere HD
+http://media-kings.xyz:8080/tek1/tek1/33899
+#EXTINF:-1,Sky Cinema Premiere HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54449
+#EXTINF:-1,Sky Cinema Animation HD
+http://media-kings.xyz:8080/tek1/tek1/59547
+#EXTINF:-1,Sky Cinema Action HD
+http://media-kings.xyz:8080/tek1/tek1/31
+#EXTINF:-1,Sky Cinema Action HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54443
+#EXTINF:-1,Sky Cinema Comedy HD
+http://media-kings.xyz:8080/tek1/tek1/28
+#EXTINF:-1,Sky Cinema Comedy HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54444
+#EXTINF:-1,Sky Cinema Drama HD
+http://media-kings.xyz:8080/tek1/tek1/39
+#EXTINF:-1,Sky Cinema Drama HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54446
+#EXTINF:-1,Sky Cinema Family HD
+http://media-kings.xyz:8080/tek1/tek1/33
+#EXTINF:-1,Sky Cinema Family HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54447
+#EXTINF:-1,Sky Cinema Greats HD
+http://media-kings.xyz:8080/tek1/tek1/33897
+#EXTINF:-1,Sky Cinema Greats HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54448
+#EXTINF:-1,Sky Cinema Hits HD
+http://media-kings.xyz:8080/tek1/tek1/36901
+#EXTINF:-1,Sky Cinema Hits HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54442
+#EXTINF:-1,Sky Cinema Select HD
+http://media-kings.xyz:8080/tek1/tek1/33900
+#EXTINF:-1,Sky Cinema Select HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54451
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://media-kings.xyz:8080/tek1/tek1/33898
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54450
+#EXTINF:-1,Sky Cinema Thriller HD
+http://media-kings.xyz:8080/tek1/tek1/33901
+#EXTINF:-1,Sky Cinema Thriller HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54452
+#EXTINF:-1,Sky Crime HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/59546
+#EXTINF:-1,BOX OFFICE 1 HD
+http://media-kings.xyz:8080/tek1/tek1/30302
+#EXTINF:-1,BOX OFFICE 2 HD
+http://media-kings.xyz:8080/tek1/tek1/30304
+#EXTINF:-1,BOX OFFICE 3 HD 
+http://media-kings.xyz:8080/tek1/tek1/30306
+#EXTINF:-1,BOX OFFICE 4 HD
+http://media-kings.xyz:8080/tek1/tek1/30308
+#EXTINF:-1,BOX OFFICE 5 HD
+http://media-kings.xyz:8080/tek1/tek1/30310
+#EXTINF:-1,BOX OFFICE 6 HD
+http://media-kings.xyz:8080/tek1/tek1/30307
+#EXTINF:-1,BOX OFFICE 7 HD
+http://media-kings.xyz:8080/tek1/tek1/30309
+#EXTINF:-1,BOX OFFICE 8 HD 
+http://media-kings.xyz:8080/tek1/tek1/30311
+#EXTINF:-1,BOX OFFICE 10 HD
+http://media-kings.xyz:8080/tek1/tek1/30303
+#EXTINF:-1,Sony TV HD
+http://media-kings.xyz:8080/tek1/tek1/37682
+#EXTINF:-1,Sony TV HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54437
+#EXTINF:-1,SyFy HD
+http://media-kings.xyz:8080/tek1/tek1/31196
+#EXTINF:-1,SyFy HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54438
+#EXTINF:-1,TALKING PICTURES
+http://media-kings.xyz:8080/tek1/tek1/141552
+#EXTINF:-1,TCM HD
+http://media-kings.xyz:8080/tek1/tek1/23261
+#EXTINF:-1,TCM HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54439
+#EXTINF:-1,Travel Channel HD
+http://media-kings.xyz:8080/tek1/tek1/31204
+#EXTINF:-1,History 2 HD
+http://media-kings.xyz:8080/tek1/tek1/33890
+#EXTINF:-1,History HD
+http://media-kings.xyz:8080/tek1/tek1/33891
+#EXTINF:-1,Nat Geo Wild HD
+http://media-kings.xyz:8080/tek1/tek1/33893
+#EXTINF:-1,Animal Planet HD
+http://media-kings.xyz:8080/tek1/tek1/34293
+#EXTINF:-1,Sky Nature HD
+http://media-kings.xyz:8080/tek1/tek1/43249
+#EXTINF:-1,Sky Crime HD
+http://media-kings.xyz:8080/tek1/tek1/45232
+#EXTINF:-1,SKY Witness HD
+http://media-kings.xyz:8080/tek1/tek1/48665
+#EXTINF:-1,Sky Documentaries HD
+http://media-kings.xyz:8080/tek1/tek1/49699
+#EXTINF:-1,ID HD
+http://media-kings.xyz:8080/tek1/tek1/31153
+#EXTINF:-1,Travel Channel HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54440
+#EXTINF:-1,Animal Planet HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54454
+#EXTINF:-1,Discovery Channel HD
+http://media-kings.xyz:8080/tek1/tek1/33884
+#EXTINF:-1,Discovery Channel HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54455
+#EXTINF:-1,UK Discovery History HD
+http://media-kings.xyz:8080/tek1/tek1/33885
+#EXTINF:-1,Discovery History HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54456
+#EXTINF:-1,Discovery Science HD
+http://media-kings.xyz:8080/tek1/tek1/33887
+#EXTINF:-1,Discovery Science HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54457
+#EXTINF:-1,Discovery Turbo HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54459
+#EXTINF:-1,Nat Geo Wild HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/54460
+#EXTINF:-1,National Geographic HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/59548
+#EXTINF:-1,TLC HD
+http://media-kings.xyz:8080/tek1/tek1/31202
+#EXTINF:-1,TLC HD (BACKUP)
+http://media-kings.xyz:8080/tek1/tek1/140483
+#EXTINF:-1,Universal HD
+http://media-kings.xyz:8080/tek1/tek1/106
+#EXTINF:-1,W HD
+http://media-kings.xyz:8080/tek1/tek1/69
+#EXTINF:-1,Yesterday HD
+http://media-kings.xyz:8080/tek1/tek1/82
+#EXTINF:-1,RTE 1 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/31126
+#EXTINF:-1,RTE 2 HD 
+http://media-kings.xyz:8080/tek1/tek1/31127
+#EXTINF:-1,TG4 HD BACKUP
+http://media-kings.xyz:8080/tek1/tek1/37155
+#EXTINF:-1,RTE News Now HD
+http://media-kings.xyz:8080/tek1/tek1/54501
+#EXTINF:-1,RTE 1 HD
+http://media-kings.xyz:8080/tek1/tek1/54502
+#EXTINF:-1,RTE JR HD
+http://media-kings.xyz:8080/tek1/tek1/54503
+#EXTINF:-1,Virgin Media ONE HD (Ireland)
+http://media-kings.xyz:8080/tek1/tek1/55418
+#EXTINF:-1,Virgin Media TWO HD (Ireland)
+http://media-kings.xyz:8080/tek1/tek1/55419
+#EXTINF:-1,Virgin Media THREE HD (Ireland)
+http://media-kings.xyz:8080/tek1/tek1/55420
