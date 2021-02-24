@@ -1,1297 +1,225 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://media-kings.xyz:8080/tek1/tek1/34347
-#EXTINF:-1,A&E HD
-http://media-kings.xyz:8080/tek1/tek1/34544
-#EXTINF:-1,ABC Buffalo (WKBW) UHD
-http://media-kings.xyz:8080/tek1/tek1/34348
-#EXTINF:-1,ABC BUFFALO HD
-http://media-kings.xyz:8080/tek1/tek1/34721
-#EXTINF:-1,ABC SPARK FHD
-http://media-kings.xyz:8080/tek1/tek1/34648
-#EXTINF:-1,ABC SPARK UHD
-http://media-kings.xyz:8080/tek1/tek1/34549
-#EXTINF:-1,ABC Spark HD
-http://media-kings.xyz:8080/tek1/tek1/34349
-#EXTINF:-1,ABC West UHD
-http://media-kings.xyz:8080/tek1/tek1/34722
-#EXTINF:-1,Adult Swim FHD
-http://media-kings.xyz:8080/tek1/tek1/34545
-#EXTINF:-1,Adult Swim UHD
-http://media-kings.xyz:8080/tek1/tek1/34350
-#EXTINF:-1,AMC UHD
-http://media-kings.xyz:8080/tek1/tek1/34351
-#EXTINF:-1,AMC FHD
-http://media-kings.xyz:8080/tek1/tek1/34547
-#EXTINF:-1,AMC HD
-http://media-kings.xyz:8080/tek1/tek1/34723
-#EXTINF:-1,American Heroes UHD
-http://media-kings.xyz:8080/tek1/tek1/34352
-#EXTINF:-1,AMI TV UHD
-http://media-kings.xyz:8080/tek1/tek1/34353
-#EXTINF:-1,Animal Planet UHD
-http://media-kings.xyz:8080/tek1/tek1/34355
-#EXTINF:-1,Animal Planet FHD
-http://media-kings.xyz:8080/tek1/tek1/34548
-#EXTINF:-1,Animal Planet HD
-http://media-kings.xyz:8080/tek1/tek1/34354
-#EXTINF:-1,APTN UHD
-http://media-kings.xyz:8080/tek1/tek1/34357
-#EXTINF:-1,APTN FHD
-http://media-kings.xyz:8080/tek1/tek1/34356
-#EXTINF:-1,APTN HD
-http://media-kings.xyz:8080/tek1/tek1/34725
-#EXTINF:-1,BBC Canada UHD
-http://media-kings.xyz:8080/tek1/tek1/34358
-#EXTINF:-1,BBC CANADA FHD
-http://media-kings.xyz:8080/tek1/tek1/34649
-#EXTINF:-1,BBC CANADA HD
-http://media-kings.xyz:8080/tek1/tek1/34552
-#EXTINF:-1,BBC World News UHD
-http://media-kings.xyz:8080/tek1/tek1/34359
-#EXTINF:-1,BBC World News FHD
-http://media-kings.xyz:8080/tek1/tek1/34553
-#EXTINF:-1,BEIN LaLiga UHD
-http://media-kings.xyz:8080/tek1/tek1/34554
-#EXTINF:-1,BET UHD
-http://media-kings.xyz:8080/tek1/tek1/34360
-#EXTINF:-1,BET FHD
-http://media-kings.xyz:8080/tek1/tek1/34560
-#EXTINF:-1,BNN Bloomberg UHD
-http://media-kings.xyz:8080/tek1/tek1/34361
-#EXTINF:-1,BNN Bloomberg  FHD
-http://media-kings.xyz:8080/tek1/tek1/34559
-#EXTINF:-1,BNN BLoomberg HD
-http://media-kings.xyz:8080/tek1/tek1/34650
-#EXTINF:-1,Book UHD
-http://media-kings.xyz:8080/tek1/tek1/34362
-#EXTINF:-1,Bravo UHD
-http://media-kings.xyz:8080/tek1/tek1/34726
-#EXTINF:-1,Cable 14 UHD
-http://media-kings.xyz:8080/tek1/tek1/34363
-#EXTINF:-1,Cable Pulse 24 UHD
-http://media-kings.xyz:8080/tek1/tek1/34364
-#EXTINF:-1,Cable Pulse 24 FHD
-http://media-kings.xyz:8080/tek1/tek1/34727
-#EXTINF:-1,Cartoon Network HD
-http://media-kings.xyz:8080/tek1/tek1/34558
-#EXTINF:-1,Canal M UHD
-http://media-kings.xyz:8080/tek1/tek1/34365
-#EXTINF:-1,Canal Savoir UHD
-http://media-kings.xyz:8080/tek1/tek1/34366
-#EXTINF:-1,Canal Savoir FHD
-http://media-kings.xyz:8080/tek1/tek1/34563
-#EXTINF:-1,Cartoon Network FHD
-http://media-kings.xyz:8080/tek1/tek1/34367
-#EXTINF:-1,Cartoon Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34368
-#EXTINF:-1,CBC News Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34379
-#EXTINF:-1,CBC News Network FHD
-http://media-kings.xyz:8080/tek1/tek1/34601
-#EXTINF:-1,CBC News Network HD
-http://media-kings.xyz:8080/tek1/tek1/34371
-#EXTINF:-1,CBC News Network HD
-http://media-kings.xyz:8080/tek1/tek1/34652
+#EXTINF:-1,AMC
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3661
+#EXTINF:-1,AMC
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53982
+#EXTINF:-1,Animal Planet
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53987
+#EXTINF:-1,Bein Sports
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53986
+#EXTINF:-1,BNN
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3662
+#EXTINF:-1,Bravo TV
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3663
+#EXTINF:-1,Canadian Arab TV
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3664
+#EXTINF:-1,Cartoon Network
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53981
+#EXTINF:-1,Casa (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3708
+#EXTINF:-1,CBC
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3665
+#EXTINF:-1,CBC Charlottetown
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3666
+#EXTINF:-1,CBC Federicton
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3667
+#EXTINF:-1,CBC Halifax
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3668
 #EXTINF:-1,CBC News Network
-http://media-kings.xyz:8080/tek1/tek1/34651
-#EXTINF:-1,CBC UHD
-http://media-kings.xyz:8080/tek1/tek1/34369
-#EXTINF:-1,CBC Calgary UHD
-http://media-kings.xyz:8080/tek1/tek1/34395
-#EXTINF:-1,CBC Calgary FHD
-http://media-kings.xyz:8080/tek1/tek1/34370
-#EXTINF:-1,CBC Calgary HD
-http://media-kings.xyz:8080/tek1/tek1/34556
-#EXTINF:-1,CBC Central UHD
-http://media-kings.xyz:8080/tek1/tek1/34561
-#EXTINF:-1,CBC Charlottetown UHD
-http://media-kings.xyz:8080/tek1/tek1/34372
-#EXTINF:-1,CBC Charlottetown FHD
-http://media-kings.xyz:8080/tek1/tek1/34654
-#EXTINF:-1,CBS East UHD
-http://media-kings.xyz:8080/tek1/tek1/34732
-#EXTINF:-1,CBC Eastern UHD
-http://media-kings.xyz:8080/tek1/tek1/34557
-#EXTINF:-1,CBC Edmonton UHD
-http://media-kings.xyz:8080/tek1/tek1/34373
-#EXTINF:-1,CBC Edmonton FHD
-http://media-kings.xyz:8080/tek1/tek1/34655
-#EXTINF:-1,CBC Fredericton UHD
-http://media-kings.xyz:8080/tek1/tek1/34374
-#EXTINF:-1,CBC Fredericton FHD
-http://media-kings.xyz:8080/tek1/tek1/34728
-#EXTINF:-1,CBC Halifax UHD
-http://media-kings.xyz:8080/tek1/tek1/34375
-#EXTINF:-1,CBC Halifax FHD
-http://media-kings.xyz:8080/tek1/tek1/34656
-#EXTINF:-1,CBC Montreal UHD
-http://media-kings.xyz:8080/tek1/tek1/34376
-#EXTINF:-1,CBC Montreal FHD
-http://media-kings.xyz:8080/tek1/tek1/34377
-#EXTINF:-1,CBC Montreal HD
-http://media-kings.xyz:8080/tek1/tek1/34378
-#EXTINF:-1,CBC Nova Scotia UHD
-http://media-kings.xyz:8080/tek1/tek1/34602
-#EXTINF:-1,CBC Oshawa UHD
-http://media-kings.xyz:8080/tek1/tek1/34380
-#EXTINF:-1,CBC Oshawa FHD
-http://media-kings.xyz:8080/tek1/tek1/34600
-#EXTINF:-1,CBC Ottowa UHD
-http://media-kings.xyz:8080/tek1/tek1/34381
-#EXTINF:-1,CBC Ottawa FHD
-http://media-kings.xyz:8080/tek1/tek1/34382
-#EXTINF:-1,CBC Ottowa HD
-http://media-kings.xyz:8080/tek1/tek1/34599
-#EXTINF:-1,CBC Regina UHD
-http://media-kings.xyz:8080/tek1/tek1/34383
-#EXTINF:-1,CBC Regina FHD
-http://media-kings.xyz:8080/tek1/tek1/34659
-#EXTINF:-1,CBC St. Johns UHD
-http://media-kings.xyz:8080/tek1/tek1/34384
-#EXTINF:-1,CBC St. Johns HD
-http://media-kings.xyz:8080/tek1/tek1/34729
-#EXTINF:-1,CBC St. Johns FHD
-http://media-kings.xyz:8080/tek1/tek1/34385
-#EXTINF:-1,CBC Toronto UHD
-http://media-kings.xyz:8080/tek1/tek1/34386
-#EXTINF:-1,CBC Toronto FHD
-http://media-kings.xyz:8080/tek1/tek1/34387
-#EXTINF:-1,CBC Toronto HD
-http://media-kings.xyz:8080/tek1/tek1/34388
-#EXTINF:-1,CBC Vancouver UHD
-http://media-kings.xyz:8080/tek1/tek1/34389
-#EXTINF:-1,CBC Vancouver FHD
-http://media-kings.xyz:8080/tek1/tek1/34390
-#EXTINF:-1,CBC Vancouver HD
-http://media-kings.xyz:8080/tek1/tek1/34596
-#EXTINF:-1,CBS West UHD
-http://media-kings.xyz:8080/tek1/tek1/34733
-#EXTINF:-1,CBC WEST HD
-http://media-kings.xyz:8080/tek1/tek1/34595
-#EXTINF:-1,CBC Windsor UHD
-http://media-kings.xyz:8080/tek1/tek1/34662
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53980
+#EXTINF:-1,CBC Oshawa (CHEX2)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53960
+#EXTINF:-1,CBC Ottawa
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3669
+#EXTINF:-1,CBC St. John's (CBNT)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53959
+#EXTINF:-1,CBC Toronto
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3671
+#EXTINF:-1,CBC Toronto (CBLT)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53979
+#EXTINF:-1,CBC Vancouver
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3672
 #EXTINF:-1,CBC Windsor
-http://media-kings.xyz:8080/tek1/tek1/34391
-#EXTINF:-1,CBC Winnipeg UHD
-http://media-kings.xyz:8080/tek1/tek1/34392
-#EXTINF:-1,CBC Winninpeg FHD
-http://media-kings.xyz:8080/tek1/tek1/34664
-#EXTINF:-1,CBC Yellowknife UHD
-http://media-kings.xyz:8080/tek1/tek1/34393
-#EXTINF:-1,CBC Yellowknfe FHD
-http://media-kings.xyz:8080/tek1/tek1/34663
-#EXTINF:-1,CBC3 UHD
-http://media-kings.xyz:8080/tek1/tek1/34394
-#EXTINF:-1,CHCH UHD
-http://media-kings.xyz:8080/tek1/tek1/34396
-#EXTINF:-1,CHCH FHD
-http://media-kings.xyz:8080/tek1/tek1/34594
-#EXTINF:-1,CHCH HD
-http://media-kings.xyz:8080/tek1/tek1/34665
-#EXTINF:-1,Cinepop UHD
-http://media-kings.xyz:8080/tek1/tek1/34734
-#EXTINF:-1,City News HD
-http://media-kings.xyz:8080/tek1/tek1/34666
-#EXTINF:-1,City Calgary UHD
-http://media-kings.xyz:8080/tek1/tek1/34400
-#EXTINF:-1,City Calgary FHD
-http://media-kings.xyz:8080/tek1/tek1/34585
-#EXTINF:-1,City Calgary HD
-http://media-kings.xyz:8080/tek1/tek1/34667
-#EXTINF:-1,City Montreal UHD
-http://media-kings.xyz:8080/tek1/tek1/34397
-#EXTINF:-1,CS City Montreal FHD
-http://media-kings.xyz:8080/tek1/tek1/34586
-#EXTINF:-1,City toronto FHD
-http://media-kings.xyz:8080/tek1/tek1/34587
-#EXTINF:-1,City Montreal HD
-http://media-kings.xyz:8080/tek1/tek1/34668
-#EXTINF:-1,City tornoto UHD
-http://media-kings.xyz:8080/tek1/tek1/34398
-#EXTINF:-1,City Toronto HD
-http://media-kings.xyz:8080/tek1/tek1/34669
-#EXTINF:-1,City Vancouver UHD
-http://media-kings.xyz:8080/tek1/tek1/34399
-#EXTINF:-1,City Vancouver FHD
-http://media-kings.xyz:8080/tek1/tek1/34589
-#EXTINF:-1,City Vancouver HD
-http://media-kings.xyz:8080/tek1/tek1/34670
-#EXTINF:-1,CMT UHD
-http://media-kings.xyz:8080/tek1/tek1/34402
-#EXTINF:-1,CMT FHD
-http://media-kings.xyz:8080/tek1/tek1/34590
-#EXTINF:-1,CMT HD
-http://media-kings.xyz:8080/tek1/tek1/34735
-#EXTINF:-1,CNBC UHD
-http://media-kings.xyz:8080/tek1/tek1/34591
-#EXTINF:-1,CNBC FHD
-http://media-kings.xyz:8080/tek1/tek1/34403
-#EXTINF:-1,CNBC HD
-http://media-kings.xyz:8080/tek1/tek1/34736
-#EXTINF:-1,CNN UHD
-http://media-kings.xyz:8080/tek1/tek1/34404
-#EXTINF:-1,CNN FHD
-http://media-kings.xyz:8080/tek1/tek1/34592
-#EXTINF:-1,CNN International FHD
-http://media-kings.xyz:8080/tek1/tek1/34737
-#EXTINF:-1,CNN International HD
-http://media-kings.xyz:8080/tek1/tek1/34405
-#EXTINF:-1,Cooking Channel UHD
-http://media-kings.xyz:8080/tek1/tek1/34406
-#EXTINF:-1,Cooking Channel FHD
-http://media-kings.xyz:8080/tek1/tek1/34573
-#EXTINF:-1,Cooking Channel HD
-http://media-kings.xyz:8080/tek1/tek1/34738
-#EXTINF:-1,Cottage Life UHD
-http://media-kings.xyz:8080/tek1/tek1/34407
-#EXTINF:-1,Cottage Life FHD
-http://media-kings.xyz:8080/tek1/tek1/34671
-#EXTINF:-1,CPAC UHD
-http://media-kings.xyz:8080/tek1/tek1/34410
-#EXTINF:-1,CPAC FHD
-http://media-kings.xyz:8080/tek1/tek1/34739
-#EXTINF:-1,CPAC HD
-http://media-kings.xyz:8080/tek1/tek1/34575
-#EXTINF:-1,CPAC French UHD
-http://media-kings.xyz:8080/tek1/tek1/34740
-#EXTINF:-1,CP24 UHD
-http://media-kings.xyz:8080/tek1/tek1/34408
-#EXTINF:-1,CP24 FHD
-http://media-kings.xyz:8080/tek1/tek1/34409
-#EXTINF:-1,CP24 HD
-http://media-kings.xyz:8080/tek1/tek1/34574
-#EXTINF:-1,Crave 1 UHD
-http://media-kings.xyz:8080/tek1/tek1/34411
-#EXTINF:-1,Crave 1 FHD
-http://media-kings.xyz:8080/tek1/tek1/34673
-#EXTINF:-1,Crave 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34412
-#EXTINF:-1,Crave 2 FHD
-http://media-kings.xyz:8080/tek1/tek1/34674
-#EXTINF:-1,Crave 3 UHD
-http://media-kings.xyz:8080/tek1/tek1/34413
-#EXTINF:-1,Crave 3 FHD
-http://media-kings.xyz:8080/tek1/tek1/34675
-#EXTINF:-1,Crave 4 UHD
-http://media-kings.xyz:8080/tek1/tek1/34414
-#EXTINF:-1,Crave 4 FHD
-http://media-kings.xyz:8080/tek1/tek1/34676
-#EXTINF:-1,Crime & Investigation UHD
-http://media-kings.xyz:8080/tek1/tek1/34415
-#EXTINF:-1,Crime & Investigation FHD
-http://media-kings.xyz:8080/tek1/tek1/34416
-#EXTINF:-1,Crime & Investigation HD
-http://media-kings.xyz:8080/tek1/tek1/34576
-#EXTINF:-1,CTV Atlantic UHD
-http://media-kings.xyz:8080/tek1/tek1/34440
-#EXTINF:-1,CTV Atlantic FHD
-http://media-kings.xyz:8080/tek1/tek1/34741
-#EXTINF:-1,CTV Barrie UHD
-http://media-kings.xyz:8080/tek1/tek1/34720
-#EXTINF:-1,CTV 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34525
-#EXTINF:-1,CTV Calgary  UHD
-http://media-kings.xyz:8080/tek1/tek1/34439
-#EXTINF:-1,CTV Calgary FHD
-http://media-kings.xyz:8080/tek1/tek1/34682
-#EXTINF:-1,CTV Calgary HD
-http://media-kings.xyz:8080/tek1/tek1/34578
-#EXTINF:-1,CTV Halifax UHD
-http://media-kings.xyz:8080/tek1/tek1/34425
-#EXTINF:-1,CTV Halifax FHD
-http://media-kings.xyz:8080/tek1/tek1/34683
-#EXTINF:-1,CTV Kitchener UHD
-http://media-kings.xyz:8080/tek1/tek1/34418
-#EXTINF:-1,CTV 2 London UHD
-http://media-kings.xyz:8080/tek1/tek1/34420
-#EXTINF:-1,CTV Montreal UHD
-http://media-kings.xyz:8080/tek1/tek1/34426
-#EXTINF:-1,CTV Montreal FHD
-http://media-kings.xyz:8080/tek1/tek1/34582
-#EXTINF:-1,CTV Montreal HD
-http://media-kings.xyz:8080/tek1/tek1/34684
-#EXTINF:-1,CTV Ottawa UHD
-http://media-kings.xyz:8080/tek1/tek1/34419
-#EXTINF:-1,CTV Ottowa FHD
-http://media-kings.xyz:8080/tek1/tek1/34433
-#EXTINF:-1,CTV Ottowa HD
-http://media-kings.xyz:8080/tek1/tek1/34584
-#EXTINF:-1,CTV 2 Ottawa UHD
-http://media-kings.xyz:8080/tek1/tek1/34421
-#EXTINF:-1,CTV2 Ottawa UHD
-http://media-kings.xyz:8080/tek1/tek1/34438
-#EXTINF:-1,CTV2 Ottawa FHD
-http://media-kings.xyz:8080/tek1/tek1/34608
-#EXTINF:-1,CTV 2 Ottawa HD
-http://media-kings.xyz:8080/tek1/tek1/34687
-#EXTINF:-1,CTV Toronto UHD
-http://media-kings.xyz:8080/tek1/tek1/34435
-#EXTINF:-1,CTV Toronto FHD
-http://media-kings.xyz:8080/tek1/tek1/34436
-#EXTINF:-1,CTV Toronto HD
-http://media-kings.xyz:8080/tek1/tek1/34604
-#EXTINF:-1,CTV Vancouver UHD
-http://media-kings.xyz:8080/tek1/tek1/34437
-#EXTINF:-1,CTV Vancouver  FHD
-http://media-kings.xyz:8080/tek1/tek1/34606
-#EXTINF:-1,CTV Vancouver HD
-http://media-kings.xyz:8080/tek1/tek1/34742
-#EXTINF:-1,CTV 2 Vancouver UHD
-http://media-kings.xyz:8080/tek1/tek1/34422
-#EXTINF:-1,CTV 2 Vancouver FHD
-http://media-kings.xyz:8080/tek1/tek1/34577
-#EXTINF:-1,CTV 2 Vancouver HD
-http://media-kings.xyz:8080/tek1/tek1/34688
-#EXTINF:-1,CTV WESTERN UHD
-http://media-kings.xyz:8080/tek1/tek1/34607
-#EXTINF:-1,CTV Winnipeg
-http://media-kings.xyz:8080/tek1/tek1/164173
-#EXTINF:-1,CTV Comedy EAST UHD
-http://media-kings.xyz:8080/tek1/tek1/34579
-#EXTINF:-1,CTV Comedy West UHD
-http://media-kings.xyz:8080/tek1/tek1/34423
-#EXTINF:-1,CTV Comedy FHD
-http://media-kings.xyz:8080/tek1/tek1/34679
-#EXTINF:-1,CTV Drama FHD
-http://media-kings.xyz:8080/tek1/tek1/34580
-#EXTINF:-1,CTV Drama HD
-http://media-kings.xyz:8080/tek1/tek1/34680
-#EXTINF:-1,CTV Drama UHD
-http://media-kings.xyz:8080/tek1/tek1/34424
-#EXTINF:-1,CTV News Channel UHD
-http://media-kings.xyz:8080/tek1/tek1/34427
-#EXTINF:-1,CTV News Channel FHD
-http://media-kings.xyz:8080/tek1/tek1/34432
-#EXTINF:-1,CTV News Channel HD
-http://media-kings.xyz:8080/tek1/tek1/34678
-#EXTINF:-1,CTV News UHD
-http://media-kings.xyz:8080/tek1/tek1/34417
-#EXTINF:-1,CTV News Live Events 1 UHD
-http://media-kings.xyz:8080/tek1/tek1/34428
-#EXTINF:-1,CTV News Live Events 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34429
-#EXTINF:-1,CTV News Live Events 3 UHD
-http://media-kings.xyz:8080/tek1/tek1/34430
-#EXTINF:-1,CTV News Live Events 4 UHD
-http://media-kings.xyz:8080/tek1/tek1/34431
-#EXTINF:-1,CTV SCI-FI UHD
-http://media-kings.xyz:8080/tek1/tek1/34434
-#EXTINF:-1,CTV SCI-FI FHD
-http://media-kings.xyz:8080/tek1/tek1/34681
-#EXTINF:-1,CTV SCI-FI HD
-http://media-kings.xyz:8080/tek1/tek1/34603
-#EXTINF:-1,Daystar UHD
-http://media-kings.xyz:8080/tek1/tek1/34441
-#EXTINF:-1,DayStar FHD
-http://media-kings.xyz:8080/tek1/tek1/34689
-#EXTINF:-1,Dejaview UHD
-http://media-kings.xyz:8080/tek1/tek1/34743
-#EXTINF:-1,Dejaview FHD
-http://media-kings.xyz:8080/tek1/tek1/34442
-#EXTINF:-1,Discovery Channel UHD
-http://media-kings.xyz:8080/tek1/tek1/34443
-#EXTINF:-1,Discovery Channel HD
-http://media-kings.xyz:8080/tek1/tek1/34745
-#EXTINF:-1,Discovery Channel FHD
-http://media-kings.xyz:8080/tek1/tek1/34609
-#EXTINF:-1,Discovery Science UHD
-http://media-kings.xyz:8080/tek1/tek1/34444
-#EXTINF:-1,Discovery Science FHD
-http://media-kings.xyz:8080/tek1/tek1/34610
-#EXTINF:-1,Discovery Science HD
-http://media-kings.xyz:8080/tek1/tek1/34692
-#EXTINF:-1,Discovery Velocity UHD
-http://media-kings.xyz:8080/tek1/tek1/34445
-#EXTINF:-1,Disney Channel UHD
-http://media-kings.xyz:8080/tek1/tek1/34446
-#EXTINF:-1,Disney Channel FHD
-http://media-kings.xyz:8080/tek1/tek1/34611
-#EXTINF:-1,Disney Junior UHD
-http://media-kings.xyz:8080/tek1/tek1/34447
-#EXTINF:-1,Disney Junior FHD
-http://media-kings.xyz:8080/tek1/tek1/34612
-#EXTINF:-1,Disney XD UHD
-http://media-kings.xyz:8080/tek1/tek1/34448
-#EXTINF:-1,Disney XD FHD
-http://media-kings.xyz:8080/tek1/tek1/34613
-#EXTINF:-1,DIY Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34449
-#EXTINF:-1,DIY Network FHD
-http://media-kings.xyz:8080/tek1/tek1/34614
-#EXTINF:-1,DIY Network HD
-http://media-kings.xyz:8080/tek1/tek1/34615
-#EXTINF:-1,Documentary Channel UHD
-http://media-kings.xyz:8080/tek1/tek1/34616
-#EXTINF:-1,Dtour UHD
-http://media-kings.xyz:8080/tek1/tek1/34450
-#EXTINF:-1,E! Entertainment UHD
-http://media-kings.xyz:8080/tek1/tek1/34451
-#EXTINF:-1,E! Entertainment FHD
-http://media-kings.xyz:8080/tek1/tek1/34617
-#EXTINF:-1,E! Entertainment HD
-http://media-kings.xyz:8080/tek1/tek1/34748
-#EXTINF:-1,Encore 1 East UHD
-http://media-kings.xyz:8080/tek1/tek1/34749
-#EXTINF:-1,Encore 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34750
-#EXTINF:-1,Family UHD
-http://media-kings.xyz:8080/tek1/tek1/34452
-#EXTINF:-1,Family FHD
-http://media-kings.xyz:8080/tek1/tek1/34618
-#EXTINF:-1,Family Chrgd UHD
-http://media-kings.xyz:8080/tek1/tek1/34453
-#EXTINF:-1,Family East UHD
-http://media-kings.xyz:8080/tek1/tek1/34751
-#EXTINF:-1,Family Jr UHD
-http://media-kings.xyz:8080/tek1/tek1/34454
-#EXTINF:-1,Family Jr FHD
-http://media-kings.xyz:8080/tek1/tek1/34619
-#EXTINF:-1,Fight Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34622
-#EXTINF:-1,Food Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34455
-#EXTINF:-1,Food Netwrok FHD
-http://media-kings.xyz:8080/tek1/tek1/34620
-#EXTINF:-1,Food Network HD
-http://media-kings.xyz:8080/tek1/tek1/34693
-#EXTINF:-1,Fox News UHD
-http://media-kings.xyz:8080/tek1/tek1/34456
-#EXTINF:-1,Fox News FHD
-http://media-kings.xyz:8080/tek1/tek1/34623
-#EXTINF:-1,Fox News HD
-http://media-kings.xyz:8080/tek1/tek1/34752
-#EXTINF:-1,FTV UHD
-http://media-kings.xyz:8080/tek1/tek1/34753
-#EXTINF:-1,FXX UHD
-http://media-kings.xyz:8080/tek1/tek1/34458
-#EXTINF:-1,FXX FHD
-http://media-kings.xyz:8080/tek1/tek1/34624
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3673
+#EXTINF:-1,CBC Winnipeg
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3674
+#EXTINF:-1,CHCH
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3675
+#EXTINF:-1,City (1080)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3676
+#EXTINF:-1,Comedy
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3677
+#EXTINF:-1,CP24
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3678
+#EXTINF:-1,CP24 (Backup)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53998
+#EXTINF:-1,Crave 1
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53989
+#EXTINF:-1,Crime & Investigation
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53985
+#EXTINF:-1,CTV News Live Events 3
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3680
+#EXTINF:-1,CTV News Live Events 4
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3683
+#EXTINF:-1,CTV Ottawa
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53999
+#EXTINF:-1,CTV SCI-FI
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53958
+#EXTINF:-1,CTV Toronto
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/54000
+#EXTINF:-1,CTV Vancouver
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/54001
+#EXTINF:-1,CTV2 Ottawa
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/54002
+#EXTINF:-1,Daystar TV
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/54003
+#EXTINF:-1,Discovery Channel
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53978
+#EXTINF:-1,Discovery Science (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3681
+#EXTINF:-1,Disney
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3682
+#EXTINF:-1,Disney Channel
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53977
+#EXTINF:-1,Disney JR
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3684
+#EXTINF:-1,Disney Junior (FR)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53997
+#EXTINF:-1,Disney Junior
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53983
+#EXTINF:-1,Disney La Chaine (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3709
+#EXTINF:-1,Disney XD
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53976
+#EXTINF:-1,DIY Network
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53975
+#EXTINF:-1,E! Entertainment
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3685
+#EXTINF:-1,Fight Network
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3686
+#EXTINF:-1,FOX
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3687
+#EXTINF:-1,Fox Sports Racing
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53951
+#EXTINF:-1,Frissons TV (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3712
+#EXTINF:-1,FX (1080)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3688
 #EXTINF:-1,FX
-http://media-kings.xyz:8080/tek1/tek1/34457
-#EXTINF:-1,FYI UHD
-http://media-kings.xyz:8080/tek1/tek1/34754
-#EXTINF:-1,FYI FHD
-http://media-kings.xyz:8080/tek1/tek1/34459
-#EXTINF:-1,Game TV UHD
-http://media-kings.xyz:8080/tek1/tek1/34460
-#EXTINF:-1,Game TV FHD
-http://media-kings.xyz:8080/tek1/tek1/34755
-#EXTINF:-1,Global BC UHD
-http://media-kings.xyz:8080/tek1/tek1/34715
-#EXTINF:-1,Global Durham UHD
-http://media-kings.xyz:8080/tek1/tek1/34461
-#EXTINF:-1,Global Halifax UHD
-http://media-kings.xyz:8080/tek1/tek1/34462
-#EXTINF:-1,Global National UHD
-http://media-kings.xyz:8080/tek1/tek1/34463
-#EXTINF:-1,Global Calgary UHD
-http://media-kings.xyz:8080/tek1/tek1/34756
-#EXTINF:-1,Global Edmunton UHD
-http://media-kings.xyz:8080/tek1/tek1/34757
-#EXTINF:-1,Global toronto UHD
-http://media-kings.xyz:8080/tek1/tek1/34464
-#EXTINF:-1,Global Toronto HD
-http://media-kings.xyz:8080/tek1/tek1/34758
-#EXTINF:-1,Global Toronto FHD
-http://media-kings.xyz:8080/tek1/tek1/34465
-#EXTINF:-1,Global Vancoouver UHD
-http://media-kings.xyz:8080/tek1/tek1/34466
-#EXTINF:-1,Global Vancouver FHD
-http://media-kings.xyz:8080/tek1/tek1/34694
-#EXTINF:-1,GSN UHD
-http://media-kings.xyz:8080/tek1/tek1/34467
-#EXTINF:-1,Gusto UHD
-http://media-kings.xyz:8080/tek1/tek1/34468
-#EXTINF:-1,HBO 1 UHD
-http://media-kings.xyz:8080/tek1/tek1/34470
-#EXTINF:-1,HBO 1 FHD
-http://media-kings.xyz:8080/tek1/tek1/34625
-#EXTINF:-1,HBO 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34471
-#EXTINF:-1,HBO 2 FHD
-http://media-kings.xyz:8080/tek1/tek1/34571
-#EXTINF:-1,Headline News UHD
-http://media-kings.xyz:8080/tek1/tek1/34472
-#EXTINF:-1,HGTV UHD
-http://media-kings.xyz:8080/tek1/tek1/34473
-#EXTINF:-1,HGTV FHD
-http://media-kings.xyz:8080/tek1/tek1/34570
-#EXTINF:-1,HGTV HD
-http://media-kings.xyz:8080/tek1/tek1/34695
-#EXTINF:-1,Historia UHD
-http://media-kings.xyz:8080/tek1/tek1/34760
-#EXTINF:-1,History Channel UHD
-http://media-kings.xyz:8080/tek1/tek1/34474
-#EXTINF:-1,History Channel FHD
-http://media-kings.xyz:8080/tek1/tek1/34569
-#EXTINF:-1,History Channel HD
-http://media-kings.xyz:8080/tek1/tek1/34761
-#EXTINF:-1,H2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34469
-#EXTINF:-1,H2 FHD
-http://media-kings.xyz:8080/tek1/tek1/34572
-#EXTINF:-1,H2 HD
-http://media-kings.xyz:8080/tek1/tek1/34759
-#EXTINF:-1,HLN UHD
-http://media-kings.xyz:8080/tek1/tek1/34475
-#EXTINF:-1,HLN FHD
-http://media-kings.xyz:8080/tek1/tek1/34568
-#EXTINF:-1,Hollywood Suite 70's UHD
-http://media-kings.xyz:8080/tek1/tek1/34476
-#EXTINF:-1,Hollywood Suite 80's UHD
-http://media-kings.xyz:8080/tek1/tek1/34477
-#EXTINF:-1,Hollywood Suite 90's UHD
-http://media-kings.xyz:8080/tek1/tek1/34478
-#EXTINF:-1,Hollywood Suite 90's FHD
-http://media-kings.xyz:8080/tek1/tek1/34479
-#EXTINF:-1,Hollywood Suite 2000's
-http://media-kings.xyz:8080/tek1/tek1/161597
-#EXTINF:-1,ICE RDI UHD
-http://media-kings.xyz:8080/tek1/tek1/34762
-#EXTINF:-1,ICI RDI FHD
-http://media-kings.xyz:8080/tek1/tek1/34772
-#EXTINF:-1,ICI Toronto UHD
-http://media-kings.xyz:8080/tek1/tek1/34480
-#EXTINF:-1,ICI Television UHD
-http://media-kings.xyz:8080/tek1/tek1/34763
-#EXTINF:-1,ICI Vancouver UHD
-http://media-kings.xyz:8080/tek1/tek1/34764
-#EXTINF:-1,ID UHD
-http://media-kings.xyz:8080/tek1/tek1/34481
-#EXTINF:-1,IFC UHD
-http://media-kings.xyz:8080/tek1/tek1/34714
-#EXTINF:-1,Knowledge Kids FHD
-http://media-kings.xyz:8080/tek1/tek1/34696
-#EXTINF:-1,Knowledge Kids UHD
-http://media-kings.xyz:8080/tek1/tek1/34482
-#EXTINF:-1,KTLA UHD
-http://media-kings.xyz:8080/tek1/tek1/34806
-#EXTINF:-1,La Chaine Disney UHD
-http://media-kings.xyz:8080/tek1/tek1/34746
-#EXTINF:-1,Lifetime UHD
-http://media-kings.xyz:8080/tek1/tek1/34483
-#EXTINF:-1,Lifetime FHD
-http://media-kings.xyz:8080/tek1/tek1/34567
-#EXTINF:-1,Lifetime HD
-http://media-kings.xyz:8080/tek1/tek1/34765
-#EXTINF:-1,Lifetime Movies FHD
-http://media-kings.xyz:8080/tek1/tek1/34566
-#EXTINF:-1,Love Nature UHD
-http://media-kings.xyz:8080/tek1/tek1/34484
-#EXTINF:-1,Love Nature FHD
-http://media-kings.xyz:8080/tek1/tek1/34485
-#EXTINF:-1,Love Nature HD
-http://media-kings.xyz:8080/tek1/tek1/34697
-#EXTINF:-1,Makeful UHD
-http://media-kings.xyz:8080/tek1/tek1/34486
-#EXTINF:-1,MAVTV UHD
-http://media-kings.xyz:8080/tek1/tek1/34487
-#EXTINF:-1,MAX UHD
-http://media-kings.xyz:8080/tek1/tek1/34488
-#EXTINF:-1,MAX FHD
-http://media-kings.xyz:8080/tek1/tek1/34565
-#EXTINF:-1,Mediaset UHD
-http://media-kings.xyz:8080/tek1/tek1/34489
-#EXTINF:-1,Miracle UHD
-http://media-kings.xyz:8080/tek1/tek1/34490
-#EXTINF:-1,Miracle FHD
-http://media-kings.xyz:8080/tek1/tek1/34698
-#EXTINF:-1,MLB Network HD
-http://media-kings.xyz:8080/tek1/tek1/34564
-#EXTINF:-1,Montreal Greek TV UHD
-http://media-kings.xyz:8080/tek1/tek1/34807
-#EXTINF:-1,Motor Trend UHD
-http://media-kings.xyz:8080/tek1/tek1/34766
-#EXTINF:-1,Movie Time UHD
-http://media-kings.xyz:8080/tek1/tek1/34491
-#EXTINF:-1,Movie Time FHD
-http://media-kings.xyz:8080/tek1/tek1/34805
-#EXTINF:-1,MTV UHD
-http://media-kings.xyz:8080/tek1/tek1/34492
-#EXTINF:-1,MTV 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34493
-#EXTINF:-1,Much UHD
-http://media-kings.xyz:8080/tek1/tek1/34494
-#EXTINF:-1,Much Music UHD
-http://media-kings.xyz:8080/tek1/tek1/34495
-#EXTINF:-1,Musique Plus UHD
-http://media-kings.xyz:8080/tek1/tek1/34767
-#EXTINF:-1,Nat Geo Wild UHD
-http://media-kings.xyz:8080/tek1/tek1/34496
-#EXTINF:-1,Nat Geo Wild FHD
-http://media-kings.xyz:8080/tek1/tek1/34647
-#EXTINF:-1,Nat Geo Wild HD
-http://media-kings.xyz:8080/tek1/tek1/34700
-#EXTINF:-1,Nat Geo UHD
-http://media-kings.xyz:8080/tek1/tek1/34699
-#EXTINF:-1,Nat Geo FHD
-http://media-kings.xyz:8080/tek1/tek1/34646
-#EXTINF:-1,Nat Geo HD
-http://media-kings.xyz:8080/tek1/tek1/34497
-#EXTINF:-1,NBC East UHD
-http://media-kings.xyz:8080/tek1/tek1/34768
-#EXTINF:-1,NBC West UHD
-http://media-kings.xyz:8080/tek1/tek1/34769
-#EXTINF:-1,NBA Tv UHD
-http://media-kings.xyz:8080/tek1/tek1/34498
-#EXTINF:-1,NFL Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34499
-#EXTINF:-1,Nickelodeon UHD
-http://media-kings.xyz:8080/tek1/tek1/34500
-#EXTINF:-1,Nickelodeon FHD
-http://media-kings.xyz:8080/tek1/tek1/34644
-#EXTINF:-1,NTV UHD
-http://media-kings.xyz:8080/tek1/tek1/34501
-#EXTINF:-1,NTV Newfoundland UHD
-http://media-kings.xyz:8080/tek1/tek1/34701
-#EXTINF:-1,OLN UHD
-http://media-kings.xyz:8080/tek1/tek1/34502
-#EXTINF:-1,OLN FHD
-http://media-kings.xyz:8080/tek1/tek1/34770
-#EXTINF:-1,OLN HD
-http://media-kings.xyz:8080/tek1/tek1/34804
-#EXTINF:-1,OMNI East UHD
-http://media-kings.xyz:8080/tek1/tek1/34503
-#EXTINF:-1,OMNI 1 UHD
-http://media-kings.xyz:8080/tek1/tek1/34504
-#EXTINF:-1,OMNI 1 FHD
-http://media-kings.xyz:8080/tek1/tek1/34702
-#EXTINF:-1,OMNI 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34505
-#EXTINF:-1,OMNI 2 FHD
-http://media-kings.xyz:8080/tek1/tek1/34717
-#EXTINF:-1,ONE UHD
-http://media-kings.xyz:8080/tek1/tek1/34771
-#EXTINF:-1,One Get Fit UHD
-http://media-kings.xyz:8080/tek1/tek1/34703
-#EXTINF:-1,Own UHD
-http://media-kings.xyz:8080/tek1/tek1/34506
-#EXTINF:-1,Own FHD
-http://media-kings.xyz:8080/tek1/tek1/34643
-#EXTINF:-1,OUTTV UHD
-http://media-kings.xyz:8080/tek1/tek1/34803
-#EXTINF:-1,Paramount Network HD
-http://media-kings.xyz:8080/tek1/tek1/34704
-#EXTINF:-1,Paramount Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34507
-#EXTINF:-1,Paramount Network FHD
-http://media-kings.xyz:8080/tek1/tek1/34642
-#EXTINF:-1,PBS Buffalo UHD
-http://media-kings.xyz:8080/tek1/tek1/34508
-#EXTINF:-1,PBS Buffalo FHD
-http://media-kings.xyz:8080/tek1/tek1/34802
-#EXTINF:-1,PBS West UHD
-http://media-kings.xyz:8080/tek1/tek1/34801
-#EXTINF:-1,Peachtree UHD
-http://media-kings.xyz:8080/tek1/tek1/34509
-#EXTINF:-1,Peachtree FHD
-http://media-kings.xyz:8080/tek1/tek1/34705
-#EXTINF:-1,Prise 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34510
-#EXTINF:-1,RDS UHD
-http://media-kings.xyz:8080/tek1/tek1/34773
-#EXTINF:-1,Rogers Tv UHD
-http://media-kings.xyz:8080/tek1/tek1/34629
-#EXTINF:-1,Rogers TV
-http://media-kings.xyz:8080/tek1/tek1/34532
-#EXTINF:-1,Rogers TV Corner Brook UHD
-http://media-kings.xyz:8080/tek1/tek1/34511
-#EXTINF:-1,Rogers TV London UHD
-http://media-kings.xyz:8080/tek1/tek1/34512
-#EXTINF:-1,Rogers TV Ottawa UHD
-http://media-kings.xyz:8080/tek1/tek1/34513
-#EXTINF:-1,Rogers  TV Ottawa FHD
-http://media-kings.xyz:8080/tek1/tek1/34533
-#EXTINF:-1,Rogers TV St. John's UHD
-http://media-kings.xyz:8080/tek1/tek1/34514
-#EXTINF:-1,Series Plus
-http://media-kings.xyz:8080/tek1/tek1/34515
-#EXTINF:-1,Shopping Channel UHD
-http://media-kings.xyz:8080/tek1/tek1/34516
-#EXTINF:-1,Shopping Channel FHD
-http://media-kings.xyz:8080/tek1/tek1/34634
-#EXTINF:-1,Shopping Channel HD
-http://media-kings.xyz:8080/tek1/tek1/34641
-#EXTINF:-1,Showcase UHD
-http://media-kings.xyz:8080/tek1/tek1/34517
-#EXTINF:-1,Showcase FHD
-http://media-kings.xyz:8080/tek1/tek1/34640
-#EXTINF:-1,Silver Screen Classics UHD
-http://media-kings.xyz:8080/tek1/tek1/34518
-#EXTINF:-1,Silver Screen Classics FHD
-http://media-kings.xyz:8080/tek1/tek1/34774
-#EXTINF:-1,Slice UHD
-http://media-kings.xyz:8080/tek1/tek1/34519
-#EXTINF:-1,Slice FHD
-http://media-kings.xyz:8080/tek1/tek1/34639
-#EXTINF:-1,Slice HD
-http://media-kings.xyz:8080/tek1/tek1/34706
-#EXTINF:-1,smithsonian UHD
-http://media-kings.xyz:8080/tek1/tek1/34775
-#EXTINF:-1,Space UHD
-http://media-kings.xyz:8080/tek1/tek1/34638
-#EXTINF:-1,Spike Tv / Paramount UHD
-http://media-kings.xyz:8080/tek1/tek1/34520
-#EXTINF:-1,Spike Tv / Paramount FHD
-http://media-kings.xyz:8080/tek1/tek1/34637
-#EXTINF:-1,Starz 1 UHD
-http://media-kings.xyz:8080/tek1/tek1/34521
-#EXTINF:-1,Starz 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34522
-#EXTINF:-1,Super Channel UHD
-http://media-kings.xyz:8080/tek1/tek1/34800
-#EXTINF:-1,Super Channel Fuse UHD
-http://media-kings.xyz:8080/tek1/tek1/34523
-#EXTINF:-1,SUPER CHANNEL HEART & HOME HD 
-http://media-kings.xyz:8080/tek1/tek1/131664
-#EXTINF:-1,Super Channel Vault UHD
-http://media-kings.xyz:8080/tek1/tek1/34799
-#EXTINF:-1,SUPER ECRAN 1 UHD
-http://media-kings.xyz:8080/tek1/tek1/34776
-#EXTINF:-1,SUPER ECRAN 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34777
-#EXTINF:-1,SUPER ECRAN 4 UHD
-http://media-kings.xyz:8080/tek1/tek1/34778
-#EXTINF:-1,TCM UHD
-http://media-kings.xyz:8080/tek1/tek1/34524
-#EXTINF:-1,TCM FHD
-http://media-kings.xyz:8080/tek1/tek1/34636
-#EXTINF:-1,Telemgino UHD
-http://media-kings.xyz:8080/tek1/tek1/34781
-#EXTINF:-1,Tele Latino UHD
-http://media-kings.xyz:8080/tek1/tek1/34798
-#EXTINF:-1,Tele-Quebec UHD
-http://media-kings.xyz:8080/tek1/tek1/34536
-#EXTINF:-1,Tele-Quebec FHD
-http://media-kings.xyz:8080/tek1/tek1/34731
-#EXTINF:-1,Tele-Quebec HD
-http://media-kings.xyz:8080/tek1/tek1/34779
-#EXTINF:-1,Teletoon UHD
-http://media-kings.xyz:8080/tek1/tek1/34635
-#EXTINF:-1,Teletoon FHD
-http://media-kings.xyz:8080/tek1/tek1/34707
-#EXTINF:-1,Teletoon West UHD
-http://media-kings.xyz:8080/tek1/tek1/34797
-#EXTINF:-1,TELE V UHD
-http://media-kings.xyz:8080/tek1/tek1/34780
-#EXTINF:-1,TLC UHD
-http://media-kings.xyz:8080/tek1/tek1/34527
-#EXTINF:-1,TLC FHD
-http://media-kings.xyz:8080/tek1/tek1/34631
-#EXTINF:-1,TLC HD
-http://media-kings.xyz:8080/tek1/tek1/34782
-#EXTINF:-1,TMN 1 UHD
-http://media-kings.xyz:8080/tek1/tek1/34783
-#EXTINF:-1,TMN 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34784
-#EXTINF:-1,TMN 3 UHD
-http://media-kings.xyz:8080/tek1/tek1/34785
-#EXTINF:-1,Travel & Escape UHD
-http://media-kings.xyz:8080/tek1/tek1/34528
-#EXTINF:-1,Treehouse UHD
-http://media-kings.xyz:8080/tek1/tek1/34529
-#EXTINF:-1,treehouse FHD
-http://media-kings.xyz:8080/tek1/tek1/34633
-#EXTINF:-1,Treehouse HD
-http://media-kings.xyz:8080/tek1/tek1/34708
-#EXTINF:-1,TSC UHD
-http://media-kings.xyz:8080/tek1/tek1/34530
-#EXTINF:-1,TV5 Quebec UHD
-http://media-kings.xyz:8080/tek1/tek1/34786
-#EXTINF:-1,TVA UHD
-http://media-kings.xyz:8080/tek1/tek1/34787
-#EXTINF:-1,Tv Ontario UHD
-http://media-kings.xyz:8080/tek1/tek1/34531
-#EXTINF:-1,Tv Ontario FHD
-http://media-kings.xyz:8080/tek1/tek1/34630
-#EXTINF:-1,Tv Ontario HD
-http://media-kings.xyz:8080/tek1/tek1/34730
-#EXTINF:-1,UNIS TV UHD
-http://media-kings.xyz:8080/tek1/tek1/34788
-#EXTINF:-1,Vision UHD
-http://media-kings.xyz:8080/tek1/tek1/34537
-#EXTINF:-1,Vision FHD
-http://media-kings.xyz:8080/tek1/tek1/34710
-#EXTINF:-1,VRAK TV UHD
-http://media-kings.xyz:8080/tek1/tek1/34789
-#EXTINF:-1,Weather Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34526
-#EXTINF:-1,Weather Network FHD
-http://media-kings.xyz:8080/tek1/tek1/34632
-#EXTINF:-1,Weather Network HD
-http://media-kings.xyz:8080/tek1/tek1/34627
-#EXTINF:-1,WGN UHD
-http://media-kings.xyz:8080/tek1/tek1/34538
-#EXTINF:-1,WGN FHD
-http://media-kings.xyz:8080/tek1/tek1/34712
-#EXTINF:-1,Wild TV UHD
-http://media-kings.xyz:8080/tek1/tek1/34539
-#EXTINF:-1,Wild TV FHD
-http://media-kings.xyz:8080/tek1/tek1/34713
-#EXTINF:-1,WNLO Buffalo CW23 UHD
-http://media-kings.xyz:8080/tek1/tek1/34540
-#EXTINF:-1,WWE Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34541
-#EXTINF:-1,W Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34542
-#EXTINF:-1,W Network FHD
-http://media-kings.xyz:8080/tek1/tek1/34628
-#EXTINF:-1,W Network HD
-http://media-kings.xyz:8080/tek1/tek1/34790
-#EXTINF:-1,Yes Tv UHD
-http://media-kings.xyz:8080/tek1/tek1/34543
-#EXTINF:-1,Yes Tv FHD
-http://media-kings.xyz:8080/tek1/tek1/34626
-#EXTINF:-1,Yes Tv HD
-http://media-kings.xyz:8080/tek1/tek1/34791
-#EXTINF:-1,Yoopa UHD
-http://media-kings.xyz:8080/tek1/tek1/34792
-#EXTINF:-1,YTV UHD
-http://media-kings.xyz:8080/tek1/tek1/34793
-#EXTINF:-1,YTV West UHD
-http://media-kings.xyz:8080/tek1/tek1/34794
-#EXTINF:-1,Z Tele UHD
-http://media-kings.xyz:8080/tek1/tek1/34795
-#EXTINF:-1,Zeste UHD
-http://media-kings.xyz:8080/tek1/tek1/34796
-#EXTINF:-1,MLB Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34954
-#EXTINF:-1,NBA TV UHD
-http://media-kings.xyz:8080/tek1/tek1/34925
-#EXTINF:-1,NBA TV FHD
-http://media-kings.xyz:8080/tek1/tek1/34938
-#EXTINF:-1,NHL Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34923
-#EXTINF:-1,TSN 1 UHD
-http://media-kings.xyz:8080/tek1/tek1/34897
-#EXTINF:-1,TSN 1 FHD
-http://media-kings.xyz:8080/tek1/tek1/34906
-#EXTINF:-1,TSN 1 HD
-http://media-kings.xyz:8080/tek1/tek1/34933
-#EXTINF:-1,TSN 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34898
-#EXTINF:-1,TSN 2 FHD
-http://media-kings.xyz:8080/tek1/tek1/34905
-#EXTINF:-1,TSN 2 HD
-http://media-kings.xyz:8080/tek1/tek1/34934
-#EXTINF:-1,TSN 3 UHD
-http://media-kings.xyz:8080/tek1/tek1/34899
-#EXTINF:-1,TSN 3 FHD
-http://media-kings.xyz:8080/tek1/tek1/34904
-#EXTINF:-1,TSN 3 HD
-http://media-kings.xyz:8080/tek1/tek1/34935
-#EXTINF:-1,TSN 4 UHD
-http://media-kings.xyz:8080/tek1/tek1/34900
-#EXTINF:-1,TSN 4 FHD
-http://media-kings.xyz:8080/tek1/tek1/34903
-#EXTINF:-1,TSN 4 HD
-http://media-kings.xyz:8080/tek1/tek1/34936
-#EXTINF:-1,TSN 5 UHD
-http://media-kings.xyz:8080/tek1/tek1/34901
-#EXTINF:-1,TSN 5 FHD
-http://media-kings.xyz:8080/tek1/tek1/34902
-#EXTINF:-1,TSN 5 HD
-http://media-kings.xyz:8080/tek1/tek1/34937
-#EXTINF:-1,Sportsnet One UHD
-http://media-kings.xyz:8080/tek1/tek1/34919
-#EXTINF:-1,Sportsnet One FHD
-http://media-kings.xyz:8080/tek1/tek1/34910
-#EXTINF:-1,Sportsnet One HD
-http://media-kings.xyz:8080/tek1/tek1/34928
-#EXTINF:-1,SPORTSNET ONTARIO UHD
-http://media-kings.xyz:8080/tek1/tek1/34929
-#EXTINF:-1,Sportsnet Ontario HD
-http://media-kings.xyz:8080/tek1/tek1/34918
-#EXTINF:-1,Sportsnet Ontario HD
-http://media-kings.xyz:8080/tek1/tek1/34911
-#EXTINF:-1,SportsNet World UHD
-http://media-kings.xyz:8080/tek1/tek1/34907
-#EXTINF:-1,Sportsnet World FHD
-http://media-kings.xyz:8080/tek1/tek1/34932
-#EXTINF:-1,Sportsnet World HD
-http://media-kings.xyz:8080/tek1/tek1/42203
-#EXTINF:-1,Sportsnet World HD (Backup)
-http://media-kings.xyz:8080/tek1/tek1/42202
-#EXTINF:-1,Sportsnet 360 UHD
-http://media-kings.xyz:8080/tek1/tek1/34908
-#EXTINF:-1,Sportsnet 360 FHD
-http://media-kings.xyz:8080/tek1/tek1/34921
-#EXTINF:-1,Sportsnet 360 HD 
-http://media-kings.xyz:8080/tek1/tek1/34926
-#EXTINF:-1,Sportsnet East UHD
-http://media-kings.xyz:8080/tek1/tek1/34909
-#EXTINF:-1,Sportsnet East FHD
-http://media-kings.xyz:8080/tek1/tek1/34922
-#EXTINF:-1,Sportsnet East HD
-http://media-kings.xyz:8080/tek1/tek1/34927
-#EXTINF:-1,Sportsnet Pacific UHD
-http://media-kings.xyz:8080/tek1/tek1/34912
-#EXTINF:-1,Sportsnet Pacific FHD
-http://media-kings.xyz:8080/tek1/tek1/34930
-#EXTINF:-1,Sportsnet Pacific HD
-http://media-kings.xyz:8080/tek1/tek1/34917
-#EXTINF:-1,sportsnet West UHD
-http://media-kings.xyz:8080/tek1/tek1/34914
-#EXTINF:-1,Sportsnet West FHD
-http://media-kings.xyz:8080/tek1/tek1/34915
-#EXTINF:-1,Sportsnet West HD
-http://media-kings.xyz:8080/tek1/tek1/34931
-#EXTINF:-1,Sportsnet PPV UHD
-http://media-kings.xyz:8080/tek1/tek1/34913
-#EXTINF:-1,Sportsnet PPV FHD
-http://media-kings.xyz:8080/tek1/tek1/34916
-#EXTINF:-1,Bein Sports UHD
-http://media-kings.xyz:8080/tek1/tek1/34951
-#EXTINF:-1,beIN Sports FHD
-http://media-kings.xyz:8080/tek1/tek1/34939
-#EXTINF:-1,Bein Sports HD
-http://media-kings.xyz:8080/tek1/tek1/42204
-#EXTINF:-1,DAZN 1
-http://media-kings.xyz:8080/tek1/tek1/42158
-#EXTINF:-1,DAZN 2
-http://media-kings.xyz:8080/tek1/tek1/42159
-#EXTINF:-1,DAZN 3
-http://media-kings.xyz:8080/tek1/tek1/42160
-#EXTINF:-1,DAZN 4
-http://media-kings.xyz:8080/tek1/tek1/42161
-#EXTINF:-1,DAZN 5
-http://media-kings.xyz:8080/tek1/tek1/42162
-#EXTINF:-1,DAZN 6
-http://media-kings.xyz:8080/tek1/tek1/42163
-#EXTINF:-1,Golf UHD
-http://media-kings.xyz:8080/tek1/tek1/34953
-#EXTINF:-1,Golf FHD
-http://media-kings.xyz:8080/tek1/tek1/34950
-#EXTINF:-1,Golf HD
-http://media-kings.xyz:8080/tek1/tek1/34941
-#EXTINF:-1,Fox Sports Racing UHD
-http://media-kings.xyz:8080/tek1/tek1/34942
-#EXTINF:-1,Fox Sports Racing FHD
-http://media-kings.xyz:8080/tek1/tek1/34944
-#EXTINF:-1,Fight Network UHD
-http://media-kings.xyz:8080/tek1/tek1/34952
-#EXTINF:-1,The Fight Network HD
-http://media-kings.xyz:8080/tek1/tek1/42223
-#EXTINF:-1,ONE UHD
-http://media-kings.xyz:8080/tek1/tek1/34946
-#EXTINF:-1,Game+ UHD
-http://media-kings.xyz:8080/tek1/tek1/34945
-#EXTINF:-1,RDS UHD
-http://media-kings.xyz:8080/tek1/tek1/34948
-#EXTINF:-1,RDS FHD
-http://media-kings.xyz:8080/tek1/tek1/34947
-#EXTINF:-1,RDS HD
-http://media-kings.xyz:8080/tek1/tek1/34949
-#EXTINF:-1,SUPER SPORTS CH 461
-http://media-kings.xyz:8080/tek1/tek1/42167
-#EXTINF:-1,TVA Sports UHD
-http://media-kings.xyz:8080/tek1/tek1/34943
-#EXTINF:-1,WFN UHD
-http://media-kings.xyz:8080/tek1/tek1/34940
-#EXTINF:-1,
-http://media-kings.xyz:8080/tek1/tek1/34808
-#EXTINF:-1,FR ICI RDI UHD
-http://media-kings.xyz:8080/tek1/tek1/34809
-#EXTINF:-1,I FR CI  FHD
-http://media-kings.xyz:8080/tek1/tek1/34810
-#EXTINF:-1,FR ICI Vancouver UHD
-http://media-kings.xyz:8080/tek1/tek1/34811
-#EXTINF:-1,FR La chaaine Disney FHD
-http://media-kings.xyz:8080/tek1/tek1/34812
-#EXTINF:-1,FR LCN UHD
-http://media-kings.xyz:8080/tek1/tek1/34813
-#EXTINF:-1,FR Metro Media UHD
-http://media-kings.xyz:8080/tek1/tek1/34814
-#EXTINF:-1,FR Metro Media FHD
-http://media-kings.xyz:8080/tek1/tek1/34815
-#EXTINF:-1,FR MOI et CIE UHD
-http://media-kings.xyz:8080/tek1/tek1/34816
-#EXTINF:-1,FR Musique Plus UHD
-http://media-kings.xyz:8080/tek1/tek1/34817
-#EXTINF:-1,FR Musique Plus FHD
-http://media-kings.xyz:8080/tek1/tek1/34818
-#EXTINF:-1,FR Noovo V UHD
-http://media-kings.xyz:8080/tek1/tek1/34819
-#EXTINF:-1,FR Prise 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34820
-#EXTINF:-1,FR RDS UHD
-http://media-kings.xyz:8080/tek1/tek1/34821
-#EXTINF:-1,FR RDS 2 FHD
-http://media-kings.xyz:8080/tek1/tek1/34822
-#EXTINF:-1,FR RDS Info FHD
-http://media-kings.xyz:8080/tek1/tek1/34823
-#EXTINF:-1,FR Rogers TV UHD
-http://media-kings.xyz:8080/tek1/tek1/34824
-#EXTINF:-1,FR Series+ HD
-http://media-kings.xyz:8080/tek1/tek1/34825
-#EXTINF:-1,FR Super Ecran 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34826
-#EXTINF:-1,FR Super Ecran 3 UHD
-http://media-kings.xyz:8080/tek1/tek1/34827
-#EXTINF:-1,FR Super Ecran 4 UHD
-http://media-kings.xyz:8080/tek1/tek1/34828
-#EXTINF:-1,FR Telemagino UHD
-http://media-kings.xyz:8080/tek1/tek1/34829
-#EXTINF:-1,FR Teletoon UHD
-http://media-kings.xyz:8080/tek1/tek1/34830
-#EXTINF:-1,FR TFO UHD
-http://media-kings.xyz:8080/tek1/tek1/34831
-#EXTINF:-1,FR TV5 UHD
-http://media-kings.xyz:8080/tek1/tek1/34832
-#EXTINF:-1,FR TV5 Quebec UHD
-http://media-kings.xyz:8080/tek1/tek1/34833
-#EXTINF:-1,FR TVA  Sports UHD
-http://media-kings.xyz:8080/tek1/tek1/34834
-#EXTINF:-1,FR Télé Québec UHD
-http://media-kings.xyz:8080/tek1/tek1/34835
-#EXTINF:-1,FR Telemagino FHD
-http://media-kings.xyz:8080/tek1/tek1/34836
-#EXTINF:-1,FR Unis Tv UHD
-http://media-kings.xyz:8080/tek1/tek1/34837
-#EXTINF:-1,FR  Canal Vie FHD
-http://media-kings.xyz:8080/tek1/tek1/34838
-#EXTINF:-1,FR Vrak Tv UHD
-http://media-kings.xyz:8080/tek1/tek1/34839
-#EXTINF:-1,FR Yoopa UHD
-http://media-kings.xyz:8080/tek1/tek1/34840
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53952
+#EXTINF:-1,FXX (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3690
+#EXTINF:-1,FXX
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53953
+#EXTINF:-1,Global (1080)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3691
+#EXTINF:-1,Global Toronto (CIII)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53974
+#EXTINF:-1,Global Toronto
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/54004
+#EXTINF:-1,Golf
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53973
+#EXTINF:-1,HBO 1 (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3692
+#EXTINF:-1,HBO 1
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53991
+#EXTINF:-1,HBO 2
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3693
+#EXTINF:-1,HBO 2
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53990
+#EXTINF:-1,History Channel
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53972
+#EXTINF:-1,ICI Montreal (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3710
+#EXTINF:-1,Lifetime (1080)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3694
+#EXTINF:-1,MovieTime
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53954
+#EXTINF:-1,Nat Geo
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53971
+#EXTINF:-1,Nat Geo Wild
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53956
+#EXTINF:-1,National Geographic
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3695
+#EXTINF:-1,NBA TV HD
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53970
+#EXTINF:-1,NFL Network
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53963
+#EXTINF:-1,Nickelodeon
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53950
+#EXTINF:-1,NTV News
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3696
+#EXTINF:-1,Peachtree
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3697
+#EXTINF:-1,RDI (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3711
+#EXTINF:-1,RDS Info (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3713
+#EXTINF:-1,RED Carpet TV (1080)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3689
+#EXTINF:-1,Showcase
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53962
+#EXTINF:-1,Slice
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3698
+#EXTINF:-1,Sportsnet 360
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53969
+#EXTINF:-1,Sportsnet East
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53968
+#EXTINF:-1,Sportsnet One
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53967
+#EXTINF:-1,Sportsnet Ontario
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53966
+#EXTINF:-1,Sportsnet Pacific
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53965
+#EXTINF:-1,Sportsnet PPV
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53988
+#EXTINF:-1,Sportsnet West
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53964
+#EXTINF:-1,Super Channel Heart & Home
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53992
+#EXTINF:-1,Super Ecran 4 (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3718
+#EXTINF:-1,Super Sports CH 480 (Backup)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53995
+#EXTINF:-1,Super Sports CH 482 (Backup)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53996
+#EXTINF:-1,TCM
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53961
+#EXTINF:-1,Tele Quebec (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3717
+#EXTINF:-1,The Wather Network
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53957
+#EXTINF:-1,TLC
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3700
+#EXTINF:-1,Treehouse (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3699
+#EXTINF:-1,Treehouse
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53955
+#EXTINF:-1,TSN 1
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3701
+#EXTINF:-1,TSN 2 (1080)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3702
+#EXTINF:-1,TSN 2
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3703
+#EXTINF:-1,TSN 3 (1080)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3704
+#EXTINF:-1,TSN 4 (1080)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3705
+#EXTINF:-1,TVA  Sports
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53994
+#EXTINF:-1,TVA Sports 2
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53993
+#EXTINF:-1,Vision
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53949
+#EXTINF:-1,W Network
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53948
+#EXTINF:-1,Wnlo Buffalo (CW23)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53946
+#EXTINF:-1,YES TV
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53947
 #EXTINF:-1,YTV
-http://media-kings.xyz:8080/tek1/tek1/34841
-#EXTINF:-1,FR Z Tele UHD
-http://media-kings.xyz:8080/tek1/tek1/34842
-#EXTINF:-1,FR Zeste UHD
-http://media-kings.xyz:8080/tek1/tek1/34843
-#EXTINF:-1,FR  ICI Vancouver FHD
-http://media-kings.xyz:8080/tek1/tek1/34844
-#EXTINF:-1,FR Meteo UHD
-http://media-kings.xyz:8080/tek1/tek1/34845
-#EXTINF:-1,FR Casa HD
-http://media-kings.xyz:8080/tek1/tek1/34846
-#EXTINF:-1,FR Addik UHD
-http://media-kings.xyz:8080/tek1/tek1/34847
-#EXTINF:-1,FR ICI Montreal FHD
-http://media-kings.xyz:8080/tek1/tek1/34848
-#EXTINF:-1,FR RDS 2 HD
-http://media-kings.xyz:8080/tek1/tek1/34849
-#EXTINF:-1,FR RDS info HD
-http://media-kings.xyz:8080/tek1/tek1/34850
-#EXTINF:-1,FR Evasion FHD
-http://media-kings.xyz:8080/tek1/tek1/34851
-#EXTINF:-1,CA-R MOI et CIE FHD
-http://media-kings.xyz:8080/tek1/tek1/34852
-#EXTINF:-1,FR Max FHD
-http://media-kings.xyz:8080/tek1/tek1/34853
-#EXTINF:-1,FR Prise 2 HD
-http://media-kings.xyz:8080/tek1/tek1/34854
-#EXTINF:-1,FR Series+ UHD
-http://media-kings.xyz:8080/tek1/tek1/34855
-#EXTINF:-1,FR Vrak Tv FHD
-http://media-kings.xyz:8080/tek1/tek1/34856
-#EXTINF:-1,FR Canal VIE HD
-http://media-kings.xyz:8080/tek1/tek1/34857
-#EXTINF:-1,FR Z Tele FHD
-http://media-kings.xyz:8080/tek1/tek1/34858
-#EXTINF:-1,FR Canal D UHD
-http://media-kings.xyz:8080/tek1/tek1/34859
-#EXTINF:-1,FR Casa FHD
-http://media-kings.xyz:8080/tek1/tek1/34860
-#EXTINF:-1,FR ICI Montreal  HD
-http://media-kings.xyz:8080/tek1/tek1/34861
-#EXTINF:-1,FR Max UHD
-http://media-kings.xyz:8080/tek1/tek1/34862
-#EXTINF:-1,FR Prise 2 FHD
-http://media-kings.xyz:8080/tek1/tek1/34863
-#EXTINF:-1,FR SERIES+ FHD
-http://media-kings.xyz:8080/tek1/tek1/34864
-#EXTINF:-1,FR Super Ecran 3 UHD
-http://media-kings.xyz:8080/tek1/tek1/34865
-#EXTINF:-1,FR Meteo FHD
-http://media-kings.xyz:8080/tek1/tek1/34866
-#EXTINF:-1,FR Teletoon FHD
-http://media-kings.xyz:8080/tek1/tek1/34867
-#EXTINF:-1,FR Canal Vie UHD
-http://media-kings.xyz:8080/tek1/tek1/34868
-#EXTINF:-1,FR TVA SPorts UHD
-http://media-kings.xyz:8080/tek1/tek1/34869
-#EXTINF:-1,CA-FR MOI et CIE HD
-http://media-kings.xyz:8080/tek1/tek1/34870
-#EXTINF:-1,FR Canal D FHD
-http://media-kings.xyz:8080/tek1/tek1/34871
-#EXTINF:-1,FR Casa UHD
-http://media-kings.xyz:8080/tek1/tek1/34872
-#EXTINF:-1,FR Cinepop UHD
-http://media-kings.xyz:8080/tek1/tek1/34873
-#EXTINF:-1,FR Cpac UHD
-http://media-kings.xyz:8080/tek1/tek1/34874
-#EXTINF:-1,FR Disney Junior UHD
-http://media-kings.xyz:8080/tek1/tek1/34875
-#EXTINF:-1,FR Disney La Chaine UHD
-http://media-kings.xyz:8080/tek1/tek1/34876
-#EXTINF:-1,FR Evasion UHD
-http://media-kings.xyz:8080/tek1/tek1/34877
-#EXTINF:-1,FR Historia UHD
-http://media-kings.xyz:8080/tek1/tek1/34878
-#EXTINF:-1,FR ICI ARTV UHD
-http://media-kings.xyz:8080/tek1/tek1/34879
-#EXTINF:-1,FR ICI Momtreal UHD
-http://media-kings.xyz:8080/tek1/tek1/34880
-#EXTINF:-1,FR Addik FHD
-http://media-kings.xyz:8080/tek1/tek1/34882
-#EXTINF:-1,FR AMI UHD
-http://media-kings.xyz:8080/tek1/tek1/34883
-#EXTINF:-1,FR Addik HD
-http://media-kings.xyz:8080/tek1/tek1/34884
-#EXTINF:-1,FR RDS FHD
-http://media-kings.xyz:8080/tek1/tek1/34885
-#EXTINF:-1,FR RDS 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34886
-#EXTINF:-1,FR RDS Info UHD
-http://media-kings.xyz:8080/tek1/tek1/34887
-#EXTINF:-1,FR TVA Sports 2 UHD
-http://media-kings.xyz:8080/tek1/tek1/34888
-#EXTINF:-1,TVA Sports 2 FHD
-http://media-kings.xyz:8080/tek1/tek1/34889
-#EXTINF:-1,FR ICI Radio Tele (Ottawa)
-http://media-kings.xyz:8080/tek1/tek1/34890
-#EXTINF:-1,FR TVA Riviere-du-Loup (CIMT) UHD
-http://media-kings.xyz:8080/tek1/tek1/34891
-#EXTINF:-1,FR TVA Hull (CHOT) UHD
-http://media-kings.xyz:8080/tek1/tek1/34892
-#EXTINF:-1,TVA Montreal (CFTM) UHD
-http://media-kings.xyz:8080/tek1/tek1/34893
-#EXTINF:-1,FR TVA Montreal FHD
-http://media-kings.xyz:8080/tek1/tek1/34894
-#EXTINF:-1,FR TVA Sports FHD
-http://media-kings.xyz:8080/tek1/tek1/34895
-#EXTINF:-1,FR TVA Sports 2 HD
-http://media-kings.xyz:8080/tek1/tek1/34896
-#EXTINF:-1,(FR) Canal V
-http://media-kings.xyz:8080/tek1/tek1/42127
-#EXTINF:-1,(FR) Super Ecran 1 SD
-http://media-kings.xyz:8080/tek1/tek1/42128
-#EXTINF:-1,(FR)  EMCI TV
-http://media-kings.xyz:8080/tek1/tek1/42136
-#EXTINF:-1,(FR) NOOVO V-Tele HD
-http://media-kings.xyz:8080/tek1/tek1/42144
-#EXTINF:-1,(FR) EWTN
-http://media-kings.xyz:8080/tek1/tek1/42149
-#EXTINF:-1,(FR) Trace Africa
-http://media-kings.xyz:8080/tek1/tek1/42151
-#EXTINF:-1,(FR) Trace Mziki
-http://media-kings.xyz:8080/tek1/tek1/42152
-#EXTINF:-1,(FR) Trace Naija
-http://media-kings.xyz:8080/tek1/tek1/42153
-#EXTINF:-1,(FR) Trace Toca
-http://media-kings.xyz:8080/tek1/tek1/42154
-#EXTINF:-1,(FR) Trace Tropical
-http://media-kings.xyz:8080/tek1/tek1/42155
-#EXTINF:-1,(FR) Trace Urban
-http://media-kings.xyz:8080/tek1/tek1/42156
-#EXTINF:-1,(FR) L'Assemblee nationale du Quebec HD
-http://media-kings.xyz:8080/tek1/tek1/42188
-#EXTINF:-1,(FR) ICI Tele Acadie HD
-http://media-kings.xyz:8080/tek1/tek1/42189
-#EXTINF:-1,(FR) ICI Tele Alberta HD
-http://media-kings.xyz:8080/tek1/tek1/42190
-#EXTINF:-1,(FR) ICI Tele CB-Yukon HD
-http://media-kings.xyz:8080/tek1/tek1/42191
-#EXTINF:-1,(FR) ICI Tele Est-Quebec HD
-http://media-kings.xyz:8080/tek1/tek1/42192
-#EXTINF:-1,(FR) ICI Tele Estrie HD
-http://media-kings.xyz:8080/tek1/tek1/42193
-#EXTINF:-1,(FR) ICI Tele Manitoba HD
-http://media-kings.xyz:8080/tek1/tek1/42194
-#EXTINF:-1,(FR) ICI Tele Mauricie HD
-http://media-kings.xyz:8080/tek1/tek1/42195
-#EXTINF:-1,(FR) ICI Tele Montreal HD
-http://media-kings.xyz:8080/tek1/tek1/42196
-#EXTINF:-1,(FR) ICI Tele Ontario HD
-http://media-kings.xyz:8080/tek1/tek1/42197
-#EXTINF:-1,(FR) ICI Tele Ottawa-Gatineau HD
-http://media-kings.xyz:8080/tek1/tek1/42198
-#EXTINF:-1,(FR) ICI Tele Quebec HD
-http://media-kings.xyz:8080/tek1/tek1/42199
-#EXTINF:-1,(FR) ICI Tele Saguenay HD
-http://media-kings.xyz:8080/tek1/tek1/42200
-#EXTINF:-1,(FR) ICI Tele Saskatchewan HD
-http://media-kings.xyz:8080/tek1/tek1/42201
-#EXTINF:-1,SUPER SPORTS CH 267*
-http://media-kings.xyz:8080/tek1/tek1/34955
-#EXTINF:-1,SUPER SPORTS CH 422*
-http://media-kings.xyz:8080/tek1/tek1/34956
-#EXTINF:-1,SUPER SPORTS CH 433*
-http://media-kings.xyz:8080/tek1/tek1/34957
-#EXTINF:-1,SUPER SPORTS CH 434*
-http://media-kings.xyz:8080/tek1/tek1/34958
-#EXTINF:-1,SUPER SPORTS CH 435*
-http://media-kings.xyz:8080/tek1/tek1/34959
-#EXTINF:-1,SUPER SPORTS CH 436*
-http://media-kings.xyz:8080/tek1/tek1/34960
-#EXTINF:-1,SUPER SPORTS CH 437
-http://media-kings.xyz:8080/tek1/tek1/34961
-#EXTINF:-1,SUPER SPORTS CH 437*
-http://media-kings.xyz:8080/tek1/tek1/34962
-#EXTINF:-1,SUPER SPORTS CH 438
-http://media-kings.xyz:8080/tek1/tek1/34963
-#EXTINF:-1,SUPER SPORTS CH 438*
-http://media-kings.xyz:8080/tek1/tek1/34964
-#EXTINF:-1,SUPER SPORTS CH 439
-http://media-kings.xyz:8080/tek1/tek1/34965
-#EXTINF:-1,SUPER SPORTS CH 439*
-http://media-kings.xyz:8080/tek1/tek1/34966
-#EXTINF:-1,SUPER SPORTS CH 440
-http://media-kings.xyz:8080/tek1/tek1/34967
-#EXTINF:-1,SUPER SPORTS CH 440*
-http://media-kings.xyz:8080/tek1/tek1/34968
-#EXTINF:-1,SUPER SPORTS CH 441
-http://media-kings.xyz:8080/tek1/tek1/34969
-#EXTINF:-1,SUPER SPORTS CH 441*
-http://media-kings.xyz:8080/tek1/tek1/34970
-#EXTINF:-1,SUPER SPORTS CH 442
-http://media-kings.xyz:8080/tek1/tek1/34971
-#EXTINF:-1,SUPER SPORTS CH 443
-http://media-kings.xyz:8080/tek1/tek1/34972
-#EXTINF:-1,SUPER SPORTS CH 443*
-http://media-kings.xyz:8080/tek1/tek1/34973
-#EXTINF:-1,SUPER SPORTS CH 444
-http://media-kings.xyz:8080/tek1/tek1/34974
-#EXTINF:-1,SUPER SPORTS CH 444*
-http://media-kings.xyz:8080/tek1/tek1/34975
-#EXTINF:-1,SUPER SPORTS CH 450
-http://media-kings.xyz:8080/tek1/tek1/34976
-#EXTINF:-1,SUPER SPORTS CH 450*
-http://media-kings.xyz:8080/tek1/tek1/34977
-#EXTINF:-1,SUPER SPORTS CH 461
-http://media-kings.xyz:8080/tek1/tek1/34978
-#EXTINF:-1,SUPER SPORTS CH 461*
-http://media-kings.xyz:8080/tek1/tek1/34979
-#EXTINF:-1,SUPER SPORTS CH 462
-http://media-kings.xyz:8080/tek1/tek1/34980
-#EXTINF:-1,SUPER SPORTS CH 462*
-http://media-kings.xyz:8080/tek1/tek1/34981
-#EXTINF:-1,SUPER SPORTS CH 464*
-http://media-kings.xyz:8080/tek1/tek1/34982
-#EXTINF:-1,SUPER SPORTS CH 465*
-http://media-kings.xyz:8080/tek1/tek1/34983
-#EXTINF:-1,SUPER SPORTS CH 472*
-http://media-kings.xyz:8080/tek1/tek1/34984
-#EXTINF:-1,SUPER SPORTS CH 473
-http://media-kings.xyz:8080/tek1/tek1/34985
-#EXTINF:-1,SUPER SPORTS CH 474*
-http://media-kings.xyz:8080/tek1/tek1/34986
-#EXTINF:-1,SUPER SPORTS CH 476*
-http://media-kings.xyz:8080/tek1/tek1/34987
-#EXTINF:-1,SUPER SPORTS CH 477*
-http://media-kings.xyz:8080/tek1/tek1/34988
-#EXTINF:-1,SUPER SPORTS CH 478*
-http://media-kings.xyz:8080/tek1/tek1/34989
-#EXTINF:-1,SUPER SPORTS CH 479*
-http://media-kings.xyz:8080/tek1/tek1/34990
-#EXTINF:-1,SUPER SPORTS CH 480*
-http://media-kings.xyz:8080/tek1/tek1/34991
-#EXTINF:-1,SUPER SPORTS CH 482*
-http://media-kings.xyz:8080/tek1/tek1/34992
-#EXTINF:-1,SUPER SPORTS CH 483*
-http://media-kings.xyz:8080/tek1/tek1/34993
-#EXTINF:-1,SUPER SPORTS CH 484*
-http://media-kings.xyz:8080/tek1/tek1/34994
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53945
+#EXTINF:-1,Z-Tele (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3722
+#EXTINF:-1,Zeste (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3719
