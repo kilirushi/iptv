@@ -1,1245 +1,1329 @@
 #EXTM3U
 #EXTINF:-1,A&E FHD
-http://tbsrv.me:8880/alfredo/alfredo/643
+http://tbsrv.me:8880/cicero/cicero/643
 #EXTINF:-1,A&E FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103854
+http://tbsrv.me:8880/cicero/cicero/103854
 #EXTINF:-1,A&E [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77668
+http://tbsrv.me:8880/cicero/cicero/77668
+#EXTINF:-1,A&E HD
+http://tbsrv.me:8880/cicero/cicero/51
+#EXTINF:-1,A&E HD²
+http://tbsrv.me:8880/cicero/cicero/103855
+#EXTINF:-1,A&E SD
+http://tbsrv.me:8880/cicero/cicero/69585
+#EXTINF:-1,A&E SD²
+http://tbsrv.me:8880/cicero/cicero/103856
 #EXTINF:-1,AMC FHD
-http://tbsrv.me:8880/alfredo/alfredo/69710
+http://tbsrv.me:8880/cicero/cicero/69710
 #EXTINF:-1,AMC [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77669
+http://tbsrv.me:8880/cicero/cicero/77669
+#EXTINF:-1,AMC HD
+http://tbsrv.me:8880/cicero/cicero/70008
+#EXTINF:-1,AMC SD
+http://tbsrv.me:8880/cicero/cicero/69580
 #EXTINF:-1,Animal Planet FHD
-http://tbsrv.me:8880/alfredo/alfredo/69519
+http://tbsrv.me:8880/cicero/cicero/69519
 #EXTINF:-1,Animal Planet FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106620
+http://tbsrv.me:8880/cicero/cicero/106620
 #EXTINF:-1,Animal Planet [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77670
+http://tbsrv.me:8880/cicero/cicero/77670
+#EXTINF:-1,Animal Planet HD
+http://tbsrv.me:8880/cicero/cicero/69520
+#EXTINF:-1,Animal Planet HD²
+http://tbsrv.me:8880/cicero/cicero/106621
+#EXTINF:-1,Animal Planet SD
+http://tbsrv.me:8880/cicero/cicero/69521
+#EXTINF:-1,Animal Planet SD²
+http://tbsrv.me:8880/cicero/cicero/106622
 #EXTINF:-1,Arte 1 FHD
-http://tbsrv.me:8880/alfredo/alfredo/92197
+http://tbsrv.me:8880/cicero/cicero/92197
 #EXTINF:-1,Arte 1 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106623
+http://tbsrv.me:8880/cicero/cicero/106623
+#EXTINF:-1,Arte 1 HD
+http://tbsrv.me:8880/cicero/cicero/116
+#EXTINF:-1,Arte 1 HD²
+http://tbsrv.me:8880/cicero/cicero/106624
+#EXTINF:-1,Arte 1 SD
+http://tbsrv.me:8880/cicero/cicero/92198
+#EXTINF:-1,Arte 1 SD²
+http://tbsrv.me:8880/cicero/cicero/106625
 #EXTINF:-1,AXN FHD
-http://tbsrv.me:8880/alfredo/alfredo/69535
+http://tbsrv.me:8880/cicero/cicero/69535
 #EXTINF:-1,AXN FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103857
+http://tbsrv.me:8880/cicero/cicero/103857
 #EXTINF:-1,AXN [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77671
+http://tbsrv.me:8880/cicero/cicero/77671
+#EXTINF:-1,AXN HD
+http://tbsrv.me:8880/cicero/cicero/70009
+#EXTINF:-1,AXN HD²
+http://tbsrv.me:8880/cicero/cicero/103858
+#EXTINF:-1,AXN SD
+http://tbsrv.me:8880/cicero/cicero/69587
+#EXTINF:-1,AXN SD²
+http://tbsrv.me:8880/cicero/cicero/103859
 #EXTINF:-1,Baby TV FHD
-http://tbsrv.me:8880/alfredo/alfredo/92199
+http://tbsrv.me:8880/cicero/cicero/92199
+#EXTINF:-1,Baby TV HD
+http://tbsrv.me:8880/cicero/cicero/92200
+#EXTINF:-1,Baby TV SD
+http://tbsrv.me:8880/cicero/cicero/631
+#EXTINF:-1,BabyTV HD²
+http://tbsrv.me:8880/cicero/cicero/101910
+#EXTINF:-1,BabyTV SD²
+http://tbsrv.me:8880/cicero/cicero/101911
 #EXTINF:-1,Band News FHD
-http://tbsrv.me:8880/alfredo/alfredo/69463
+http://tbsrv.me:8880/cicero/cicero/69463
 #EXTINF:-1,Band News FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101743
+http://tbsrv.me:8880/cicero/cicero/101743
 #EXTINF:-1,Band News [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77672
+http://tbsrv.me:8880/cicero/cicero/77672
+#EXTINF:-1,Band News HD
+http://tbsrv.me:8880/cicero/cicero/69464
+#EXTINF:-1,Band News HD²
+http://tbsrv.me:8880/cicero/cicero/101744
+#EXTINF:-1,Band News SD
+http://tbsrv.me:8880/cicero/cicero/46
+#EXTINF:-1,Band News SD²
+http://tbsrv.me:8880/cicero/cicero/101745
 #EXTINF:-1,Band Sports FHD
-http://tbsrv.me:8880/alfredo/alfredo/70044
+http://tbsrv.me:8880/cicero/cicero/70044
 #EXTINF:-1,Band Sports FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103907
+http://tbsrv.me:8880/cicero/cicero/103907
 #EXTINF:-1,Band Sports [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77673
+http://tbsrv.me:8880/cicero/cicero/77673
+#EXTINF:-1,Band Sports HD
+http://tbsrv.me:8880/cicero/cicero/70045
+#EXTINF:-1,Band Sports HD²
+http://tbsrv.me:8880/cicero/cicero/103908
+#EXTINF:-1,Band Sports SD
+http://tbsrv.me:8880/cicero/cicero/69789
+#EXTINF:-1,Band Sports SD²
+http://tbsrv.me:8880/cicero/cicero/103909
 #EXTINF:-1,Band TV FHD
-http://tbsrv.me:8880/alfredo/alfredo/69591
+http://tbsrv.me:8880/cicero/cicero/69591
+#EXTINF:-1,Band TV HD
+http://tbsrv.me:8880/cicero/cicero/11
 #EXTINF:-1,Band TV RJ FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111022
+http://tbsrv.me:8880/cicero/cicero/111022
+#EXTINF:-1,Band TV RJ HD²
+http://tbsrv.me:8880/cicero/cicero/111023
+#EXTINF:-1,Band TV SD
+http://tbsrv.me:8880/cicero/cicero/69593
+#EXTINF:-1,Band TV SP HD²
+http://tbsrv.me:8880/cicero/cicero/99256
+#EXTINF:-1,Band TV SP SD²
+http://tbsrv.me:8880/cicero/cicero/99257
 #EXTINF:-1,BIS FHD
-http://tbsrv.me:8880/alfredo/alfredo/69760
+http://tbsrv.me:8880/cicero/cicero/69760
 #EXTINF:-1,BIS [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77674
+http://tbsrv.me:8880/cicero/cicero/77674
+#EXTINF:-1,BIS HD
+http://tbsrv.me:8880/cicero/cicero/69761
+#EXTINF:-1,Bis HD²
+http://tbsrv.me:8880/cicero/cicero/111061
+#EXTINF:-1,BIS SD
+http://tbsrv.me:8880/cicero/cicero/69762
+#EXTINF:-1,Bis SD²
+http://tbsrv.me:8880/cicero/cicero/111062
 #EXTINF:-1,Boomerang FHD
-http://tbsrv.me:8880/alfredo/alfredo/69484
+http://tbsrv.me:8880/cicero/cicero/69484
 #EXTINF:-1,Boomerang FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101912
+http://tbsrv.me:8880/cicero/cicero/101912
 #EXTINF:-1,Boomerang [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77675
+http://tbsrv.me:8880/cicero/cicero/77675
+#EXTINF:-1,Boomerang HD
+http://tbsrv.me:8880/cicero/cicero/69485
+#EXTINF:-1,Boomerang HD²
+http://tbsrv.me:8880/cicero/cicero/101913
+#EXTINF:-1,Boomerang SD
+http://tbsrv.me:8880/cicero/cicero/69486
+#EXTINF:-1,Boomerang SD²
+http://tbsrv.me:8880/cicero/cicero/101914
 #EXTINF:-1,Canal Brasil FHD
-http://tbsrv.me:8880/alfredo/alfredo/74608
+http://tbsrv.me:8880/cicero/cicero/74608
 #EXTINF:-1,Canal Brasil [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77676
+http://tbsrv.me:8880/cicero/cicero/77676
+#EXTINF:-1,Canal Brasil HD
+http://tbsrv.me:8880/cicero/cicero/70011
+#EXTINF:-1,Canal Brasil SD
+http://tbsrv.me:8880/cicero/cicero/70012
+#EXTINF:-1,Canal do Boi SD²
+http://tbsrv.me:8880/cicero/cicero/111025
+#EXTINF:-1,Canal Rural SD²
+http://tbsrv.me:8880/cicero/cicero/111081
 #EXTINF:-1,Canal Sony FHD
-http://tbsrv.me:8880/alfredo/alfredo/69556
+http://tbsrv.me:8880/cicero/cicero/69556
 #EXTINF:-1,Canal Sony FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103860
+http://tbsrv.me:8880/cicero/cicero/103860
 #EXTINF:-1,Canal Sony [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77677
+http://tbsrv.me:8880/cicero/cicero/77677
+#EXTINF:-1,Canal Sony HD
+http://tbsrv.me:8880/cicero/cicero/70014
+#EXTINF:-1,Canal Sony HD²
+http://tbsrv.me:8880/cicero/cicero/103861
+#EXTINF:-1,Canal Sony SD
+http://tbsrv.me:8880/cicero/cicero/69630
+#EXTINF:-1,Canal Sony SD²
+http://tbsrv.me:8880/cicero/cicero/103862
+#EXTINF:-1,Canção Nova HD
+http://tbsrv.me:8880/cicero/cicero/70082
 #EXTINF:-1,Cartoon Network FHD
-http://tbsrv.me:8880/alfredo/alfredo/69487
+http://tbsrv.me:8880/cicero/cicero/69487
 #EXTINF:-1,Cartoon Network FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101915
+http://tbsrv.me:8880/cicero/cicero/101915
 #EXTINF:-1,Cartoon Network [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77678
+http://tbsrv.me:8880/cicero/cicero/77678
+#EXTINF:-1,Cartoon Network HD
+http://tbsrv.me:8880/cicero/cicero/69488
+#EXTINF:-1,Cartoon Network HD²
+http://tbsrv.me:8880/cicero/cicero/101916
+#EXTINF:-1,Cartoon Network SD
+http://tbsrv.me:8880/cicero/cicero/69489
+#EXTINF:-1,Cartoon Network SD²
+http://tbsrv.me:8880/cicero/cicero/101917
 #EXTINF:-1,Chef TV FHD
-http://tbsrv.me:8880/alfredo/alfredo/92201
+http://tbsrv.me:8880/cicero/cicero/92201
+#EXTINF:-1,Chef TV HD
+http://tbsrv.me:8880/cicero/cicero/92202
+#EXTINF:-1,Chef TV HD²
+http://tbsrv.me:8880/cicero/cicero/111082
+#EXTINF:-1,Chef TV SD
+http://tbsrv.me:8880/cicero/cicero/92203
 #EXTINF:-1,Cinemax FHD
-http://tbsrv.me:8880/alfredo/alfredo/69552
+http://tbsrv.me:8880/cicero/cicero/69552
 #EXTINF:-1,Cinemax FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103863
+http://tbsrv.me:8880/cicero/cicero/103863
 #EXTINF:-1,Cinemax [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77679
+http://tbsrv.me:8880/cicero/cicero/77679
+#EXTINF:-1,Cinemax HD
+http://tbsrv.me:8880/cicero/cicero/70015
+#EXTINF:-1,Cinemax HD²
+http://tbsrv.me:8880/cicero/cicero/103864
+#EXTINF:-1,Cinemax SD
+http://tbsrv.me:8880/cicero/cicero/70016
+#EXTINF:-1,Cinemax SD²
+http://tbsrv.me:8880/cicero/cicero/103865
 #EXTINF:-1,CNN Brasil FHD
-http://tbsrv.me:8880/alfredo/alfredo/70089
+http://tbsrv.me:8880/cicero/cicero/70089
+#EXTINF:-1,CNN Brasil HD
+http://tbsrv.me:8880/cicero/cicero/70090
+#EXTINF:-1,CNN Brasil HD²
+http://tbsrv.me:8880/cicero/cicero/101746
+#EXTINF:-1,CNN Brasil SD
+http://tbsrv.me:8880/cicero/cicero/70146
+#EXTINF:-1,CNN Brasil SD²
+http://tbsrv.me:8880/cicero/cicero/101747
 #EXTINF:-1,CNN Espanhol FHD
-http://tbsrv.me:8880/alfredo/alfredo/85636
+http://tbsrv.me:8880/cicero/cicero/85636
+#EXTINF:-1,CNN Espanhol HD
+http://tbsrv.me:8880/cicero/cicero/85637
+#EXTINF:-1,CNN Espanhol SD
+http://tbsrv.me:8880/cicero/cicero/972
 #EXTINF:-1,CNN Internacional FHD
-http://tbsrv.me:8880/alfredo/alfredo/92204
+http://tbsrv.me:8880/cicero/cicero/92204
+#EXTINF:-1,CNN Internacional HD
+http://tbsrv.me:8880/cicero/cicero/92205
+#EXTINF:-1,CNN Internacional SD
+http://tbsrv.me:8880/cicero/cicero/69465
 #EXTINF:-1,Combate FHD
-http://tbsrv.me:8880/alfredo/alfredo/69788
+http://tbsrv.me:8880/cicero/cicero/69788
 #EXTINF:-1,Combate FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103910
+http://tbsrv.me:8880/cicero/cicero/103910
 #EXTINF:-1,Combate [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77680
+http://tbsrv.me:8880/cicero/cicero/77680
+#EXTINF:-1,Combate HD
+http://tbsrv.me:8880/cicero/cicero/69749
+#EXTINF:-1,Combate HD²
+http://tbsrv.me:8880/cicero/cicero/103911
+#EXTINF:-1,Combate SD
+http://tbsrv.me:8880/cicero/cicero/69725
+#EXTINF:-1,Combate SD²
+http://tbsrv.me:8880/cicero/cicero/103912
 #EXTINF:-1,Comedy Central FHD
-http://tbsrv.me:8880/alfredo/alfredo/841
+http://tbsrv.me:8880/cicero/cicero/841
 #EXTINF:-1,Comedy Central FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111106
+http://tbsrv.me:8880/cicero/cicero/111106
 #EXTINF:-1,Comedy Central [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77681
+http://tbsrv.me:8880/cicero/cicero/77681
+#EXTINF:-1,Comedy Central HD
+http://tbsrv.me:8880/cicero/cicero/74609
+#EXTINF:-1,Comedy Central HD²
+http://tbsrv.me:8880/cicero/cicero/111107
+#EXTINF:-1,Comedy Central SD
+http://tbsrv.me:8880/cicero/cicero/69765
+#EXTINF:-1,Comedy Central SD²
+http://tbsrv.me:8880/cicero/cicero/111108
 #EXTINF:-1,Conmebol - Copa Libertadores 1 FHD
-http://tbsrv.me:8880/alfredo/alfredo/70277
+http://tbsrv.me:8880/cicero/cicero/70277
 #EXTINF:-1,Conmebol TV FHD (JOGO 1)
-http://tbsrv.me:8880/alfredo/alfredo/101633
+http://tbsrv.me:8880/cicero/cicero/101633
+#EXTINF:-1,Conmebol TV HD (JOGO 1)
+http://tbsrv.me:8880/cicero/cicero/101636
 #EXTINF:-1,Conmebol - Copa Libertadores 2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/86728
+http://tbsrv.me:8880/cicero/cicero/86728
 #EXTINF:-1,Conmebol TV FHD (JOGO 2)
-http://tbsrv.me:8880/alfredo/alfredo/101634
+http://tbsrv.me:8880/cicero/cicero/101634
+#EXTINF:-1,Conmebol TV HD (JOGO 2)
+http://tbsrv.me:8880/cicero/cicero/101637
 #EXTINF:-1,Conmebol - Copa Libertadores 3 FHD
-http://tbsrv.me:8880/alfredo/alfredo/86729
+http://tbsrv.me:8880/cicero/cicero/86729
 #EXTINF:-1,Conmebol TV FHD (JOGO 3)
-http://tbsrv.me:8880/alfredo/alfredo/101635
+http://tbsrv.me:8880/cicero/cicero/101635
+#EXTINF:-1,Conmebol - Copa Libertadores 3 HD
+http://tbsrv.me:8880/cicero/cicero/92777
+#EXTINF:-1,Conmebol TV HD (JOGO 3)
+http://tbsrv.me:8880/cicero/cicero/101638
 #EXTINF:-1,Conmebol - Copa Libertadores 4 FHD
-http://tbsrv.me:8880/alfredo/alfredo/86730
+http://tbsrv.me:8880/cicero/cicero/86730
+#EXTINF:-1,Conmebol - Copa Libertadores 4 HD
+http://tbsrv.me:8880/cicero/cicero/92778
+#EXTINF:-1,Copa Catarinense 1 HD
+http://tbsrv.me:8880/cicero/cicero/820
+#EXTINF:-1,Copa Catarinense 1 SD
+http://tbsrv.me:8880/cicero/cicero/821
+#EXTINF:-1,Copa Catarinense 2 HD
+http://tbsrv.me:8880/cicero/cicero/822
+#EXTINF:-1,Copa do Nordeste 1 HD
+http://tbsrv.me:8880/cicero/cicero/818
+#EXTINF:-1,Copa do Nordeste 1 SD
+http://tbsrv.me:8880/cicero/cicero/76192
+#EXTINF:-1,Copa do Nordeste 2 HD
+http://tbsrv.me:8880/cicero/cicero/76193
+#EXTINF:-1,Copa do Nordeste 2 SD
+http://tbsrv.me:8880/cicero/cicero/76194
 #EXTINF:-1,Curta! FHD
-http://tbsrv.me:8880/alfredo/alfredo/92779
+http://tbsrv.me:8880/cicero/cicero/92779
+#EXTINF:-1,Curta! HD
+http://tbsrv.me:8880/cicero/cicero/611
+#EXTINF:-1,Curta! HD²
+http://tbsrv.me:8880/cicero/cicero/106590
+#EXTINF:-1,Curta! SD
+http://tbsrv.me:8880/cicero/cicero/127
+#EXTINF:-1,Curta! SD²
+http://tbsrv.me:8880/cicero/cicero/106591
+#EXTINF:-1,DAZN 01 HD
+http://tbsrv.me:8880/cicero/cicero/101643
+#EXTINF:-1,DAZN 02 HD
+http://tbsrv.me:8880/cicero/cicero/101644
+#EXTINF:-1,DAZN 03 HD
+http://tbsrv.me:8880/cicero/cicero/101645
+#EXTINF:-1,DAZN 04 HD
+http://tbsrv.me:8880/cicero/cicero/101646
+#EXTINF:-1,DAZN HDR
+http://tbsrv.me:8880/cicero/cicero/223
+#EXTINF:-1,DAZN SD
+http://tbsrv.me:8880/cicero/cicero/69754
 #EXTINF:-1,Discovery Channel FHD
-http://tbsrv.me:8880/alfredo/alfredo/69524
+http://tbsrv.me:8880/cicero/cicero/69524
 #EXTINF:-1,Discovery Channel FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106592
+http://tbsrv.me:8880/cicero/cicero/106592
 #EXTINF:-1,Discovery Channel [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77682
+http://tbsrv.me:8880/cicero/cicero/77682
+#EXTINF:-1,Discovery Channel HD
+http://tbsrv.me:8880/cicero/cicero/69525
+#EXTINF:-1,Discovery Channel SD
+http://tbsrv.me:8880/cicero/cicero/69526
 #EXTINF:-1,Discovery H&H FHD
-http://tbsrv.me:8880/alfredo/alfredo/69527
+http://tbsrv.me:8880/cicero/cicero/69527
 #EXTINF:-1,Discovery H&H [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77684
+http://tbsrv.me:8880/cicero/cicero/77684
+#EXTINF:-1,Discovery H&H HD
+http://tbsrv.me:8880/cicero/cicero/69528
+#EXTINF:-1,Discovery H&H SD
+http://tbsrv.me:8880/cicero/cicero/69529
 #EXTINF:-1,Discovery HGTV FHD
-http://tbsrv.me:8880/alfredo/alfredo/92780
+http://tbsrv.me:8880/cicero/cicero/92780
 #EXTINF:-1,Discovery HGTV FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106605
+http://tbsrv.me:8880/cicero/cicero/106605
 #EXTINF:-1,Discovery HGTV [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77683
+http://tbsrv.me:8880/cicero/cicero/77683
+#EXTINF:-1,Discovery HGTV HD
+http://tbsrv.me:8880/cicero/cicero/614
+#EXTINF:-1,Discovery HGTV HD²
+http://tbsrv.me:8880/cicero/cicero/106606
+#EXTINF:-1,Discovery HGTV SD
+http://tbsrv.me:8880/cicero/cicero/299
+#EXTINF:-1,Discovery HGTV SD²
+http://tbsrv.me:8880/cicero/cicero/106607
 #EXTINF:-1,Discovery Kids FHD
-http://tbsrv.me:8880/alfredo/alfredo/69490
+http://tbsrv.me:8880/cicero/cicero/69490
 #EXTINF:-1,Discovery Kids FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101918
+http://tbsrv.me:8880/cicero/cicero/101918
 #EXTINF:-1,Discovery Kids [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77685
+http://tbsrv.me:8880/cicero/cicero/77685
+#EXTINF:-1,Discovery Kids HD
+http://tbsrv.me:8880/cicero/cicero/69491
+#EXTINF:-1,Discovery Kids HD²
+http://tbsrv.me:8880/cicero/cicero/101919
+#EXTINF:-1,Discovery Kids SD
+http://tbsrv.me:8880/cicero/cicero/69492
+#EXTINF:-1,Discovery Kids SD²
+http://tbsrv.me:8880/cicero/cicero/101920
 #EXTINF:-1,Discovery Science FHD
-http://tbsrv.me:8880/alfredo/alfredo/69530
+http://tbsrv.me:8880/cicero/cicero/69530
 #EXTINF:-1,Discovery Science FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106593
+http://tbsrv.me:8880/cicero/cicero/106593
 #EXTINF:-1,Discovery Science [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77686
+http://tbsrv.me:8880/cicero/cicero/77686
+#EXTINF:-1,Discovery Science HD
+http://tbsrv.me:8880/cicero/cicero/69531
+#EXTINF:-1,Discovery Science HD²
+http://tbsrv.me:8880/cicero/cicero/106594
+#EXTINF:-1,Discovery Science SD
+http://tbsrv.me:8880/cicero/cicero/69532
+#EXTINF:-1,Discovery Science SD²
+http://tbsrv.me:8880/cicero/cicero/106595
 #EXTINF:-1,Discovery Theater FHD
-http://tbsrv.me:8880/alfredo/alfredo/69533
+http://tbsrv.me:8880/cicero/cicero/69533
 #EXTINF:-1,Discovery Theater FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106596
+http://tbsrv.me:8880/cicero/cicero/106596
 #EXTINF:-1,Discovery Theater [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77687
+http://tbsrv.me:8880/cicero/cicero/77687
+#EXTINF:-1,Discovery Theater HD
+http://tbsrv.me:8880/cicero/cicero/69537
+#EXTINF:-1,Discovery Theater HD²
+http://tbsrv.me:8880/cicero/cicero/106597
+#EXTINF:-1,Discovery Theater SD
+http://tbsrv.me:8880/cicero/cicero/69534
+#EXTINF:-1,Discovery Theater SD²
+http://tbsrv.me:8880/cicero/cicero/106598
 #EXTINF:-1,Discovery Turbo FHD
-http://tbsrv.me:8880/alfredo/alfredo/69566
+http://tbsrv.me:8880/cicero/cicero/69566
 #EXTINF:-1,Discovery Turbo FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106648
+http://tbsrv.me:8880/cicero/cicero/106648
 #EXTINF:-1,Discovery Turbo [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77688
+http://tbsrv.me:8880/cicero/cicero/77688
+#EXTINF:-1,Discovery Turbo HD
+http://tbsrv.me:8880/cicero/cicero/69567
+#EXTINF:-1,Discovery Turbo HD²
+http://tbsrv.me:8880/cicero/cicero/106649
+#EXTINF:-1,Discovery Turbo SD
+http://tbsrv.me:8880/cicero/cicero/621
+#EXTINF:-1,Discovery Turbo SD²
+http://tbsrv.me:8880/cicero/cicero/106650
 #EXTINF:-1,Discovery World FHD
-http://tbsrv.me:8880/alfredo/alfredo/69568
+http://tbsrv.me:8880/cicero/cicero/69568
 #EXTINF:-1,Discovery World FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106599
+http://tbsrv.me:8880/cicero/cicero/106599
 #EXTINF:-1,Discovery World [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77689
+http://tbsrv.me:8880/cicero/cicero/77689
+#EXTINF:-1,Discovery World HD
+http://tbsrv.me:8880/cicero/cicero/69569
+#EXTINF:-1,Discovery World HD²
+http://tbsrv.me:8880/cicero/cicero/106600
+#EXTINF:-1,Discovery World SD
+http://tbsrv.me:8880/cicero/cicero/69570
+#EXTINF:-1,Discovery World SD²
+http://tbsrv.me:8880/cicero/cicero/106601
 #EXTINF:-1,Disney Channel FHD
-http://tbsrv.me:8880/alfredo/alfredo/69493
+http://tbsrv.me:8880/cicero/cicero/69493
 #EXTINF:-1,Disney Channel FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101921
+http://tbsrv.me:8880/cicero/cicero/101921
 #EXTINF:-1,Disney Channel [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77690
+http://tbsrv.me:8880/cicero/cicero/77690
+#EXTINF:-1,Disney Channel HD
+http://tbsrv.me:8880/cicero/cicero/69494
+#EXTINF:-1,Disney Channel HD²
+http://tbsrv.me:8880/cicero/cicero/101922
+#EXTINF:-1,Disney Channel SD
+http://tbsrv.me:8880/cicero/cicero/69495
+#EXTINF:-1,Disney Channel SD²
+http://tbsrv.me:8880/cicero/cicero/101923
 #EXTINF:-1,Disney Jr FHD
-http://tbsrv.me:8880/alfredo/alfredo/69496
+http://tbsrv.me:8880/cicero/cicero/69496
 #EXTINF:-1,Disney Junior FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101924
+http://tbsrv.me:8880/cicero/cicero/101924
 #EXTINF:-1,Disney Jr [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77691
+http://tbsrv.me:8880/cicero/cicero/77691
+#EXTINF:-1,Disney Jr HD
+http://tbsrv.me:8880/cicero/cicero/69497
+#EXTINF:-1,Disney Junior HD²
+http://tbsrv.me:8880/cicero/cicero/101925
+#EXTINF:-1,Disney Jr SD
+http://tbsrv.me:8880/cicero/cicero/69498
+#EXTINF:-1,Disney Junior SD²
+http://tbsrv.me:8880/cicero/cicero/101926
 #EXTINF:-1,Disney XD FHD
-http://tbsrv.me:8880/alfredo/alfredo/69499
+http://tbsrv.me:8880/cicero/cicero/69499
 #EXTINF:-1,Disney XD FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101927
+http://tbsrv.me:8880/cicero/cicero/101927
+#EXTINF:-1,Disney XD HD
+http://tbsrv.me:8880/cicero/cicero/69500
+#EXTINF:-1,Disney XD HD²
+http://tbsrv.me:8880/cicero/cicero/101928
+#EXTINF:-1,Disney XD SD
+http://tbsrv.me:8880/cicero/cicero/69501
+#EXTINF:-1,Disney XD SD²
+http://tbsrv.me:8880/cicero/cicero/101929
+#EXTINF:-1,Dog TV HD²
+http://tbsrv.me:8880/cicero/cicero/111024
 #EXTINF:-1,E! FHD
-http://tbsrv.me:8880/alfredo/alfredo/74610
+http://tbsrv.me:8880/cicero/cicero/74610
 #EXTINF:-1,E! [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77692
+http://tbsrv.me:8880/cicero/cicero/77692
+#EXTINF:-1,E! HD
+http://tbsrv.me:8880/cicero/cicero/919
+#EXTINF:-1,E! HD²
+http://tbsrv.me:8880/cicero/cicero/111083
+#EXTINF:-1,E! SD
+http://tbsrv.me:8880/cicero/cicero/920
+#EXTINF:-1,E! SD²
+http://tbsrv.me:8880/cicero/cicero/111084
+#EXTINF:-1,EiPlus 2 HD
+http://tbsrv.me:8880/cicero/cicero/91237
+#EXTINF:-1,EiPlus 2 SD 
+http://tbsrv.me:8880/cicero/cicero/91236
+#EXTINF:-1,EiPlus 3 HD
+http://tbsrv.me:8880/cicero/cicero/91239
+#EXTINF:-1,EiPlus 3 SD
+http://tbsrv.me:8880/cicero/cicero/91238
+#EXTINF:-1,EiPlus 4 HD
+http://tbsrv.me:8880/cicero/cicero/91241
+#EXTINF:-1,EiPlus 4 SD
+http://tbsrv.me:8880/cicero/cicero/91240
+#EXTINF:-1,EiPlus 5 HD
+http://tbsrv.me:8880/cicero/cicero/91243
+#EXTINF:-1,EiPlus 5 SD
+http://tbsrv.me:8880/cicero/cicero/91242
+#EXTINF:-1,EiPlus 6 HD
+http://tbsrv.me:8880/cicero/cicero/91245
+#EXTINF:-1,EiPlus 6 SD
+http://tbsrv.me:8880/cicero/cicero/91244
 #EXTINF:-1,ESPN 2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/70046
+http://tbsrv.me:8880/cicero/cicero/70046
 #EXTINF:-1,ESPN 2 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77695
+http://tbsrv.me:8880/cicero/cicero/77695
 #EXTINF:-1,ESPN 2 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103913
+http://tbsrv.me:8880/cicero/cicero/103913
+#EXTINF:-1,ESPN 2 HD
+http://tbsrv.me:8880/cicero/cicero/70047
+#EXTINF:-1,ESPN 2 HD²
+http://tbsrv.me:8880/cicero/cicero/103914
+#EXTINF:-1,ESPN 2 SD
+http://tbsrv.me:8880/cicero/cicero/70048
+#EXTINF:-1,ESPN 2 SD²
+http://tbsrv.me:8880/cicero/cicero/103915
 #EXTINF:-1,ESPN Brasil FHD
-http://tbsrv.me:8880/alfredo/alfredo/846
+http://tbsrv.me:8880/cicero/cicero/846
 #EXTINF:-1,ESPN Brasil FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103916
+http://tbsrv.me:8880/cicero/cicero/103916
 #EXTINF:-1,ESPN Brasil [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77696
+http://tbsrv.me:8880/cicero/cicero/77696
+#EXTINF:-1,ESPN Brasil HD
+http://tbsrv.me:8880/cicero/cicero/239
+#EXTINF:-1,ESPN Brasil HD²
+http://tbsrv.me:8880/cicero/cicero/103917
+#EXTINF:-1,ESPN Brasil SD
+http://tbsrv.me:8880/cicero/cicero/70050
+#EXTINF:-1,ESPN Brasil SD²
+http://tbsrv.me:8880/cicero/cicero/103918
 #EXTINF:-1,ESPN Extra FHD
-http://tbsrv.me:8880/alfredo/alfredo/74606
+http://tbsrv.me:8880/cicero/cicero/74606
 #EXTINF:-1,ESPN Extra [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77693
+http://tbsrv.me:8880/cicero/cicero/77693
+#EXTINF:-1,ESPN Extra HD
+http://tbsrv.me:8880/cicero/cicero/70052
+#EXTINF:-1,ESPN Extra HD²
+http://tbsrv.me:8880/cicero/cicero/103919
+#EXTINF:-1,ESPN Extra SD
+http://tbsrv.me:8880/cicero/cicero/70053
+#EXTINF:-1,ESPN Extra SD²
+http://tbsrv.me:8880/cicero/cicero/103920
 #EXTINF:-1,ESPN FHD
-http://tbsrv.me:8880/alfredo/alfredo/70054
+http://tbsrv.me:8880/cicero/cicero/70054
 #EXTINF:-1,ESPN FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103921
+http://tbsrv.me:8880/cicero/cicero/103921
 #EXTINF:-1,ESPN [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77694
+http://tbsrv.me:8880/cicero/cicero/77694
+#EXTINF:-1,ESPN HD
+http://tbsrv.me:8880/cicero/cicero/70055
+#EXTINF:-1,ESPN HD²
+http://tbsrv.me:8880/cicero/cicero/103922
+#EXTINF:-1,ESPN SD
+http://tbsrv.me:8880/cicero/cicero/70056
+#EXTINF:-1,ESPN SD²
+http://tbsrv.me:8880/cicero/cicero/103923
+#EXTINF:-1,Esporte Interativo HD
+http://tbsrv.me:8880/cicero/cicero/83849
+#EXTINF:-1,Esporte Interativo SD
+http://tbsrv.me:8880/cicero/cicero/83845
+#EXTINF:-1,FashionTV HD²
+http://tbsrv.me:8880/cicero/cicero/111085
 #EXTINF:-1,Fish TV FHD
-http://tbsrv.me:8880/alfredo/alfredo/74611
+http://tbsrv.me:8880/cicero/cicero/74611
 #EXTINF:-1,Fish TV [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77697
+http://tbsrv.me:8880/cicero/cicero/77697
+#EXTINF:-1,Fish TV HD
+http://tbsrv.me:8880/cicero/cicero/69767
+#EXTINF:-1,Fish TV HD²
+http://tbsrv.me:8880/cicero/cicero/111086
+#EXTINF:-1,Fish TV SD
+http://tbsrv.me:8880/cicero/cicero/69768
+#EXTINF:-1,Fish TV SD²
+http://tbsrv.me:8880/cicero/cicero/111087
+#EXTINF:-1,Fla TV HDR
+http://tbsrv.me:8880/cicero/cicero/69957
+#EXTINF:-1,Flu TV HDR
+http://tbsrv.me:8880/cicero/cicero/76352
 #EXTINF:-1,Food Network FHD
-http://tbsrv.me:8880/alfredo/alfredo/848
+http://tbsrv.me:8880/cicero/cicero/848
 #EXTINF:-1,Food Network FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111088
+http://tbsrv.me:8880/cicero/cicero/111088
 #EXTINF:-1,Food Network [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77698
+http://tbsrv.me:8880/cicero/cicero/77698
+#EXTINF:-1,Food Network HD
+http://tbsrv.me:8880/cicero/cicero/69770
+#EXTINF:-1,Food Network HD²
+http://tbsrv.me:8880/cicero/cicero/111089
+#EXTINF:-1,Food Network SD
+http://tbsrv.me:8880/cicero/cicero/69771
+#EXTINF:-1,Food Network SD²
+http://tbsrv.me:8880/cicero/cicero/111090
 #EXTINF:-1,Fox Channel FHD
-http://tbsrv.me:8880/alfredo/alfredo/69536
+http://tbsrv.me:8880/cicero/cicero/69536
 #EXTINF:-1,Fox Channel [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77699
+http://tbsrv.me:8880/cicero/cicero/77699
+#EXTINF:-1,Fox Channel HD
+http://tbsrv.me:8880/cicero/cicero/69669
+#EXTINF:-1,Fox Channel SD
+http://tbsrv.me:8880/cicero/cicero/69626
 #EXTINF:-1,Fox FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103866
+http://tbsrv.me:8880/cicero/cicero/103866
+#EXTINF:-1,Fox HD²
+http://tbsrv.me:8880/cicero/cicero/103867
 #EXTINF:-1,Fox Life FHD
-http://tbsrv.me:8880/alfredo/alfredo/69538
+http://tbsrv.me:8880/cicero/cicero/69538
 #EXTINF:-1,Fox Life FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103868
+http://tbsrv.me:8880/cicero/cicero/103868
+#EXTINF:-1,Fox Life HD
+http://tbsrv.me:8880/cicero/cicero/69647
+#EXTINF:-1,Fox Life HD²
+http://tbsrv.me:8880/cicero/cicero/103869
+#EXTINF:-1,Fox Life SD
+http://tbsrv.me:8880/cicero/cicero/69772
+#EXTINF:-1,Fox Life SD²
+http://tbsrv.me:8880/cicero/cicero/103870
 #EXTINF:-1,Fox News FHD
-http://tbsrv.me:8880/alfredo/alfredo/92781
+http://tbsrv.me:8880/cicero/cicero/92781
+#EXTINF:-1,Fox News HD
+http://tbsrv.me:8880/cicero/cicero/92782
+#EXTINF:-1,Fox News SD
+http://tbsrv.me:8880/cicero/cicero/92783
 #EXTINF:-1,Fox Premium 1 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69539
+http://tbsrv.me:8880/cicero/cicero/69539
 #EXTINF:-1,Fox Premium 1 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103871
+http://tbsrv.me:8880/cicero/cicero/103871
 #EXTINF:-1,Fox Premium 1 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77700
+http://tbsrv.me:8880/cicero/cicero/77700
+#EXTINF:-1,Fox Premium 1 HD
+http://tbsrv.me:8880/cicero/cicero/69670
+#EXTINF:-1,Fox Premium 1 HD²
+http://tbsrv.me:8880/cicero/cicero/103872
+#EXTINF:-1,Fox Premium 1 SD
+http://tbsrv.me:8880/cicero/cicero/69645
+#EXTINF:-1,Fox Premium 1 SD²
+http://tbsrv.me:8880/cicero/cicero/103873
 #EXTINF:-1,Fox Premium 2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69540
+http://tbsrv.me:8880/cicero/cicero/69540
 #EXTINF:-1,Fox Premium 2 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103874
+http://tbsrv.me:8880/cicero/cicero/103874
 #EXTINF:-1,Fox Premium 2 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77701
+http://tbsrv.me:8880/cicero/cicero/77701
+#EXTINF:-1,Fox Premium 2 HD
+http://tbsrv.me:8880/cicero/cicero/69648
+#EXTINF:-1,Fox Premium 2 HD²
+http://tbsrv.me:8880/cicero/cicero/103875
+#EXTINF:-1,Fox Premium 2 SD
+http://tbsrv.me:8880/cicero/cicero/69644
+#EXTINF:-1,Fox Premium 2 SD²
+http://tbsrv.me:8880/cicero/cicero/103876
+#EXTINF:-1,Fox SD²
+http://tbsrv.me:8880/cicero/cicero/103877
 #EXTINF:-1,Fox Sports [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77702
+http://tbsrv.me:8880/cicero/cicero/77702
 #EXTINF:-1,Fox Sports 2 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77703
+http://tbsrv.me:8880/cicero/cicero/77703
+#EXTINF:-1,Futura HD²
+http://tbsrv.me:8880/cicero/cicero/70148
+#EXTINF:-1,Futura SD²
+http://tbsrv.me:8880/cicero/cicero/70159
 #EXTINF:-1,FX FHD
-http://tbsrv.me:8880/alfredo/alfredo/69553
+http://tbsrv.me:8880/cicero/cicero/69553
 #EXTINF:-1,FX FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103878
+http://tbsrv.me:8880/cicero/cicero/103878
+#EXTINF:-1,FX HD
+http://tbsrv.me:8880/cicero/cicero/69679
+#EXTINF:-1,FX HD²
+http://tbsrv.me:8880/cicero/cicero/103879
+#EXTINF:-1,FX SD
+http://tbsrv.me:8880/cicero/cicero/69583
+#EXTINF:-1,FX SD²
+http://tbsrv.me:8880/cicero/cicero/103880
 #EXTINF:-1,FX [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77704
+http://tbsrv.me:8880/cicero/cicero/77704
 #EXTINF:-1,Globo SP FHD
-http://tbsrv.me:8880/alfredo/alfredo/69634
+http://tbsrv.me:8880/cicero/cicero/69634
 #EXTINF:-1,Globo SP FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101879
+http://tbsrv.me:8880/cicero/cicero/101879
 #EXTINF:-1,Globo SP [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77666
+http://tbsrv.me:8880/cicero/cicero/77666
+#EXTINF:-1,Globo SP HD
+http://tbsrv.me:8880/cicero/cicero/69635
+#EXTINF:-1,Globo SP HD²
+http://tbsrv.me:8880/cicero/cicero/101880
+#EXTINF:-1,Globo SP SD
+http://tbsrv.me:8880/cicero/cicero/69636
+#EXTINF:-1,Globo SP SD²
+http://tbsrv.me:8880/cicero/cicero/101881
 #EXTINF:-1,Globo RJ FHD
-http://tbsrv.me:8880/alfredo/alfredo/69621
+http://tbsrv.me:8880/cicero/cicero/69621
 #EXTINF:-1,Globo RJ FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101871
+http://tbsrv.me:8880/cicero/cicero/101871
+#EXTINF:-1,Globo RJ HD
+http://tbsrv.me:8880/cicero/cicero/69631
+#EXTINF:-1,Globo RJ HD²
+http://tbsrv.me:8880/cicero/cicero/101872
+#EXTINF:-1,Globo RJ SD
+http://tbsrv.me:8880/cicero/cicero/69623
+#EXTINF:-1,Globo RJ SD²
+http://tbsrv.me:8880/cicero/cicero/101873
+#EXTINF:-1,Globo Anhanguera Goiania HD²
+http://tbsrv.me:8880/cicero/cicero/101846
 #EXTINF:-1,Globo Brasilia FHD
-http://tbsrv.me:8880/alfredo/alfredo/70636
+http://tbsrv.me:8880/cicero/cicero/70636
 #EXTINF:-1,Globo Brasilia [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77665
+http://tbsrv.me:8880/cicero/cicero/77665
+#EXTINF:-1,Globo Brasilia HD
+http://tbsrv.me:8880/cicero/cicero/69594
+#EXTINF:-1,Globo Brasilia SD
+http://tbsrv.me:8880/cicero/cicero/69595
+#EXTINF:-1,Globo Brasilia SD²
+http://tbsrv.me:8880/cicero/cicero/101847
+#EXTINF:-1,Globo Centro América Cuiaba SD²
+http://tbsrv.me:8880/cicero/cicero/101848
+#EXTINF:-1,Globo EPTV Araraquara SD²
+http://tbsrv.me:8880/cicero/cicero/101849
 #EXTINF:-1,Globo EPTV Campinas FHD
-http://tbsrv.me:8880/alfredo/alfredo/70637
+http://tbsrv.me:8880/cicero/cicero/70637
+#EXTINF:-1,Globo EPTV Campinas HD
+http://tbsrv.me:8880/cicero/cicero/547
+#EXTINF:-1,Globo EPTV Campinas HD²
+http://tbsrv.me:8880/cicero/cicero/101850
+#EXTINF:-1,Globo EPTV Campinas SD
+http://tbsrv.me:8880/cicero/cicero/69596
+#EXTINF:-1,Globo EPTV Campinas SD²
+http://tbsrv.me:8880/cicero/cicero/101851
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD²
+http://tbsrv.me:8880/cicero/cicero/111021
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD²
+http://tbsrv.me:8880/cicero/cicero/101852
+#EXTINF:-1,Globo EPTV Ribeirão Preto SD
+http://tbsrv.me:8880/cicero/cicero/69597
+#EXTINF:-1,Globo EPTV Sao Carlos SD²
+http://tbsrv.me:8880/cicero/cicero/101853
 #EXTINF:-1,Globo EPTV Sul de Minas FHD
-http://tbsrv.me:8880/alfredo/alfredo/550
+http://tbsrv.me:8880/cicero/cicero/550
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://tbsrv.me:8880/cicero/cicero/551
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+http://tbsrv.me:8880/cicero/cicero/84245
+#EXTINF:-1,Globo INTER TV Cabugi RN SD²
+http://tbsrv.me:8880/cicero/cicero/101854
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://tbsrv.me:8880/cicero/cicero/69599
 #EXTINF:-1,Globo Inter TV dos Vales FHD
-http://tbsrv.me:8880/alfredo/alfredo/92865
+http://tbsrv.me:8880/cicero/cicero/92865
 #EXTINF:-1,Globo Inter TV Grande Minas FHD
-http://tbsrv.me:8880/alfredo/alfredo/92863
+http://tbsrv.me:8880/cicero/cicero/92863
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://tbsrv.me:8880/cicero/cicero/92864
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://tbsrv.me:8880/cicero/cicero/92867
+#EXTINF:-1,Globo Internacional HD²
+http://tbsrv.me:8880/cicero/cicero/101855
+#EXTINF:-1,Globo InterTV Alto Litoral HD²
+http://tbsrv.me:8880/cicero/cicero/101856
+#EXTINF:-1,Globo InterTV Serra Mar HD²
+http://tbsrv.me:8880/cicero/cicero/101857
 #EXTINF:-1,Globo Minas FHD
-http://tbsrv.me:8880/alfredo/alfredo/69600
+http://tbsrv.me:8880/cicero/cicero/69600
+#EXTINF:-1,Globo Minas HD
+http://tbsrv.me:8880/cicero/cicero/69601
+#EXTINF:-1,Globo Minas HD²
+http://tbsrv.me:8880/cicero/cicero/101858
+#EXTINF:-1,Globo Minas SD
+http://tbsrv.me:8880/cicero/cicero/69603
+#EXTINF:-1,Globo Minas SD²
+http://tbsrv.me:8880/cicero/cicero/101859
 #EXTINF:-1,Globo News FHD
-http://tbsrv.me:8880/alfredo/alfredo/69466
+http://tbsrv.me:8880/cicero/cicero/69466
 #EXTINF:-1,Globo News FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101748
+http://tbsrv.me:8880/cicero/cicero/101748
+#EXTINF:-1,Globo News HD
+http://tbsrv.me:8880/cicero/cicero/69467
+#EXTINF:-1,Globo News HD²
+http://tbsrv.me:8880/cicero/cicero/101749
+#EXTINF:-1,Globo News SD
+http://tbsrv.me:8880/cicero/cicero/70147
+#EXTINF:-1,Globo News SD²
+http://tbsrv.me:8880/cicero/cicero/101750
 #EXTINF:-1,Globo News [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77705
+http://tbsrv.me:8880/cicero/cicero/77705
 #EXTINF:-1,Globo Nordeste FHD
-http://tbsrv.me:8880/alfredo/alfredo/69604
+http://tbsrv.me:8880/cicero/cicero/69604
 #EXTINF:-1,Globo Nordeste FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101860
+http://tbsrv.me:8880/cicero/cicero/101860
+#EXTINF:-1,Globo Nordeste HD
+http://tbsrv.me:8880/cicero/cicero/69606
+#EXTINF:-1,Globo Nordeste HD²
+http://tbsrv.me:8880/cicero/cicero/101861
+#EXTINF:-1,Globo Nordeste SD
+http://tbsrv.me:8880/cicero/cicero/69605
+#EXTINF:-1,Globo Nordeste SD²
+http://tbsrv.me:8880/cicero/cicero/101862
+#EXTINF:-1,Globo NSC Blumenau HD²
+http://tbsrv.me:8880/cicero/cicero/101863
+#EXTINF:-1,Globo NSC Chapeco HD²
+http://tbsrv.me:8880/cicero/cicero/113605
 #EXTINF:-1,Globo NSC Florianopolis FHD
-http://tbsrv.me:8880/alfredo/alfredo/69611
+http://tbsrv.me:8880/cicero/cicero/69611
+#EXTINF:-1,Globo NSC Florianopolis HD
+http://tbsrv.me:8880/cicero/cicero/69615
+#EXTINF:-1,Globo NSC Florianopolis SD
+http://tbsrv.me:8880/cicero/cicero/569
+#EXTINF:-1,Globo NSC Florianópolis HD²
+http://tbsrv.me:8880/cicero/cicero/101864
+#EXTINF:-1,Globo NSC Joinville SD²
+http://tbsrv.me:8880/cicero/cicero/101865
+#EXTINF:-1,Globo Petrolina HD²
+http://tbsrv.me:8880/cicero/cicero/101866
+#EXTINF:-1,Globo RBS Porto Alegre HD²
+http://tbsrv.me:8880/cicero/cicero/101867
+#EXTINF:-1,Globo RBS Porto Alegre SD²
+http://tbsrv.me:8880/cicero/cicero/101868
+#EXTINF:-1,Globo RBS Santa Maria HD²
+http://tbsrv.me:8880/cicero/cicero/113604
+#EXTINF:-1,Globo RBS TV Pelotas HD²
+http://tbsrv.me:8880/cicero/cicero/101869
 #EXTINF:-1,Globo RBS TV Porto Alegre FHD
-http://tbsrv.me:8880/alfredo/alfredo/69616
+http://tbsrv.me:8880/cicero/cicero/69616
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://tbsrv.me:8880/cicero/cicero/69617
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://tbsrv.me:8880/cicero/cicero/69618
+#EXTINF:-1,Globo Rede Amazonica Macapa HD²
+http://tbsrv.me:8880/cicero/cicero/113606
+#EXTINF:-1,Globo Rede Amazonica SD²
+http://tbsrv.me:8880/cicero/cicero/101870
+#EXTINF:-1,Globo Rede Amazônica Boa Vista HD²
+http://tbsrv.me:8880/cicero/cicero/111015
+#EXTINF:-1,Globo Rede Amazônica Boa Vista SD²
+http://tbsrv.me:8880/cicero/cicero/111016
+#EXTINF:-1,Globo Rede Amazônica Porto Velho HD²
+http://tbsrv.me:8880/cicero/cicero/111017
+#EXTINF:-1,Globo Rede Amazônica Porto Velho SD²
+http://tbsrv.me:8880/cicero/cicero/111018
+#EXTINF:-1,Globo Rede Amazônica Rio Branco HD²
+http://tbsrv.me:8880/cicero/cicero/111019
+#EXTINF:-1,Globo Rede Amazônica Rio Branco SD²
+http://tbsrv.me:8880/cicero/cicero/111020
+#EXTINF:-1,Globo RPC Cascavel HD²
+http://tbsrv.me:8880/cicero/cicero/101874
+#EXTINF:-1,Globo RPC Curitiba HD²
+http://tbsrv.me:8880/cicero/cicero/101875
+#EXTINF:-1,Globo RPC Curitiba SD²
+http://tbsrv.me:8880/cicero/cicero/101876
+#EXTINF:-1,Globo RPC Maringa SD²
+http://tbsrv.me:8880/cicero/cicero/101877
 #EXTINF:-1,Globo RPC Paranaense FHD
-http://tbsrv.me:8880/alfredo/alfredo/92888
+http://tbsrv.me:8880/cicero/cicero/92888
+#EXTINF:-1,Globo RPC Paranaense HD
+http://tbsrv.me:8880/cicero/cicero/575
+#EXTINF:-1,Globo RPC Paranaense SD
+http://tbsrv.me:8880/cicero/cicero/92889
+#EXTINF:-1,Globo RPC Paranavaí SD²
+http://tbsrv.me:8880/cicero/cicero/101878
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://tbsrv.me:8880/cicero/cicero/577
+#EXTINF:-1,Globo RPC TV Foz do Iguacu HD²
+http://tbsrv.me:8880/cicero/cicero/113609
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD²
+http://tbsrv.me:8880/cicero/cicero/113610
+#EXTINF:-1,Globo RPC TV Ponta Grossa SD²
+http://tbsrv.me:8880/cicero/cicero/113611
 #EXTINF:-1,Globo TV Anhanguera FHD
-http://tbsrv.me:8880/alfredo/alfredo/92900
+http://tbsrv.me:8880/cicero/cicero/92900
+#EXTINF:-1,Globo TV Anhanguera HD
+http://tbsrv.me:8880/cicero/cicero/92901
+#EXTINF:-1,Globo TV Anhanguera Luziânia HD²
+http://tbsrv.me:8880/cicero/cicero/101882
+#EXTINF:-1,Globo TV Anhanguera Rio Verde HD²
+http://tbsrv.me:8880/cicero/cicero/101883
+#EXTINF:-1,Globo TV Anhanguera SD
+http://tbsrv.me:8880/cicero/cicero/583
 #EXTINF:-1,Globo TV Bahia FHD
-http://tbsrv.me:8880/alfredo/alfredo/34
+http://tbsrv.me:8880/cicero/cicero/34
 #EXTINF:-1,Globo TV Bahia FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101884
+http://tbsrv.me:8880/cicero/cicero/101884
+#EXTINF:-1,Globo TV Bahia HD
+http://tbsrv.me:8880/cicero/cicero/70647
+#EXTINF:-1,Globo TV Bahia HD²
+http://tbsrv.me:8880/cicero/cicero/101885
+#EXTINF:-1,Globo TV Bahia SD
+http://tbsrv.me:8880/cicero/cicero/69641
+#EXTINF:-1,Globo TV Bahia SD²
+http://tbsrv.me:8880/cicero/cicero/101886
 #EXTINF:-1,Globo TV C. América FHD
-http://tbsrv.me:8880/alfredo/alfredo/92902
+http://tbsrv.me:8880/cicero/cicero/92902
+#EXTINF:-1,Globo TV C. América HD
+http://tbsrv.me:8880/cicero/cicero/92903
+#EXTINF:-1,Globo TV C. América SD
+http://tbsrv.me:8880/cicero/cicero/587
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://tbsrv.me:8880/cicero/cicero/75141
+#EXTINF:-1,Globo TV Cabo Branco SD²
+http://tbsrv.me:8880/cicero/cicero/101887
+#EXTINF:-1,Globo TV Caruaru (Asa Branca) HD²
+http://tbsrv.me:8880/cicero/cicero/101888
+#EXTINF:-1,Globo TV Clube Teresina HD²
+http://tbsrv.me:8880/cicero/cicero/113612
+#EXTINF:-1,Globo TV Clube Teresina SD²
+http://tbsrv.me:8880/cicero/cicero/113613
+#EXTINF:-1,Globo TV Diario HD²
+http://tbsrv.me:8880/cicero/cicero/101889
 #EXTINF:-1,Globo TV Diário FHD
-http://tbsrv.me:8880/alfredo/alfredo/92912
+http://tbsrv.me:8880/cicero/cicero/92912
+#EXTINF:-1,Globo TV Diário HD
+http://tbsrv.me:8880/cicero/cicero/92913
+#EXTINF:-1,Globo TV Diário SD
+http://tbsrv.me:8880/cicero/cicero/92914
+#EXTINF:-1,Globo TV Fronteira Paulista HD²
+http://tbsrv.me:8880/cicero/cicero/101890
 #EXTINF:-1,Globo TV Gazeta Alagoas FHD
-http://tbsrv.me:8880/alfredo/alfredo/590
+http://tbsrv.me:8880/cicero/cicero/590
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://tbsrv.me:8880/cicero/cicero/75143
+#EXTINF:-1,Globo TV Gazeta Norte HD²
+http://tbsrv.me:8880/cicero/cicero/101891
+#EXTINF:-1,Globo TV Gazeta Sul ES HD²
+http://tbsrv.me:8880/cicero/cicero/101892
+#EXTINF:-1,Globo TV Gazeta Sul ES SD
+http://tbsrv.me:8880/cicero/cicero/75146
 #EXTINF:-1,Globo TV Gazeta Vitória FHD
-http://tbsrv.me:8880/alfredo/alfredo/75144
+http://tbsrv.me:8880/cicero/cicero/75144
+#EXTINF:-1,Globo TV Gazeta Vitória HD²
+http://tbsrv.me:8880/cicero/cicero/101893
+#EXTINF:-1,Globo TV Gazeta Vitória SD
+http://tbsrv.me:8880/cicero/cicero/70645
+#EXTINF:-1,Globo TV Integracao Juiz de Fora SD²
+http://tbsrv.me:8880/cicero/cicero/113608
+#EXTINF:-1,Globo TV Integração Araxa SD²
+http://tbsrv.me:8880/cicero/cicero/101894
+#EXTINF:-1,Globo TV Integração Uberaba HD²
+http://tbsrv.me:8880/cicero/cicero/101895
+#EXTINF:-1,Globo TV Itapetininga SD²
+http://tbsrv.me:8880/cicero/cicero/101896
 #EXTINF:-1,Globo TV Liberal Belem FHD
-http://tbsrv.me:8880/alfredo/alfredo/92866
+http://tbsrv.me:8880/cicero/cicero/92866
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://tbsrv.me:8880/cicero/cicero/974
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://tbsrv.me:8880/cicero/cicero/69653
+#EXTINF:-1,Globo TV Liberal Belem SD²
+http://tbsrv.me:8880/cicero/cicero/101897
 #EXTINF:-1,Globo TV Mirante FHD
-http://tbsrv.me:8880/alfredo/alfredo/92915
+http://tbsrv.me:8880/cicero/cicero/92915
+#EXTINF:-1,Globo TV Mirante HD
+http://tbsrv.me:8880/cicero/cicero/69658
+#EXTINF:-1,Globo TV Mirante SD
+http://tbsrv.me:8880/cicero/cicero/92916
+#EXTINF:-1,Globo TV Mirante SD²
+http://tbsrv.me:8880/cicero/cicero/101898
 #EXTINF:-1,Globo TV Morena FHD
-http://tbsrv.me:8880/alfredo/alfredo/596
+http://tbsrv.me:8880/cicero/cicero/596
+#EXTINF:-1,Globo TV Morena HD
+http://tbsrv.me:8880/cicero/cicero/92917
+#EXTINF:-1,Globo TV Morena SD
+http://tbsrv.me:8880/cicero/cicero/92918
+#EXTINF:-1,Globo TV Morena SD²
+http://tbsrv.me:8880/cicero/cicero/101899
+#EXTINF:-1,Globo TV Rede Amazônica SD
+http://tbsrv.me:8880/cicero/cicero/75138
+#EXTINF:-1,Globo TV Rio Sul SD²
+http://tbsrv.me:8880/cicero/cicero/113607
 #EXTINF:-1,Globo TV Sergipe FHD
-http://tbsrv.me:8880/alfredo/alfredo/92919
+http://tbsrv.me:8880/cicero/cicero/92919
+#EXTINF:-1,Globo TV Sergipe HD
+http://tbsrv.me:8880/cicero/cicero/599
+#EXTINF:-1,Globo TV Sergipe HD²
+http://tbsrv.me:8880/cicero/cicero/101901
 #EXTINF:-1,Globo TV Tem Bauru FHD
-http://tbsrv.me:8880/alfredo/alfredo/92920
+http://tbsrv.me:8880/cicero/cicero/92920
+#EXTINF:-1,Globo TV Tem Bauru HD
+http://tbsrv.me:8880/cicero/cicero/92921
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://tbsrv.me:8880/cicero/cicero/69660
+#EXTINF:-1,Globo TV Tem Bauru SD²
+http://tbsrv.me:8880/cicero/cicero/101902
+#EXTINF:-1,Globo TV Tem Rio Preto SD²
+http://tbsrv.me:8880/cicero/cicero/101903
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://tbsrv.me:8880/cicero/cicero/74598
+#EXTINF:-1,Globo TV Tem Sorocaba SD²
+http://tbsrv.me:8880/cicero/cicero/101904
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://tbsrv.me:8880/cicero/cicero/70470
+#EXTINF:-1,Globo TV Tribuna Santos SD²
+http://tbsrv.me:8880/cicero/cicero/101905
+#EXTINF:-1,Globo TV Vanguarda Sâo José Dos Campos SD²
+http://tbsrv.me:8880/cicero/cicero/101906
+#EXTINF:-1,Globo TV Vanguarda Taubaté HD²
+http://tbsrv.me:8880/cicero/cicero/101907
 #EXTINF:-1,Globo TV Verdes Mares FHD
-http://tbsrv.me:8880/alfredo/alfredo/73743
+http://tbsrv.me:8880/cicero/cicero/73743
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD²
+http://tbsrv.me:8880/cicero/cicero/101908
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://tbsrv.me:8880/cicero/cicero/73744
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://tbsrv.me:8880/cicero/cicero/69668
 #EXTINF:-1,Gloob FHD
-http://tbsrv.me:8880/alfredo/alfredo/69502
+http://tbsrv.me:8880/cicero/cicero/69502
 #EXTINF:-1,Gloob FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101930
+http://tbsrv.me:8880/cicero/cicero/101930
 #EXTINF:-1,Gloob [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77706
+http://tbsrv.me:8880/cicero/cicero/77706
+#EXTINF:-1,Gloob HD
+http://tbsrv.me:8880/cicero/cicero/69503
+#EXTINF:-1,Gloob HD²
+http://tbsrv.me:8880/cicero/cicero/101931
+#EXTINF:-1,Gloob SD
+http://tbsrv.me:8880/cicero/cicero/69504
+#EXTINF:-1,Gloob SD²
+http://tbsrv.me:8880/cicero/cicero/101932
 #EXTINF:-1,Gloobinho FHD
-http://tbsrv.me:8880/alfredo/alfredo/92922
+http://tbsrv.me:8880/cicero/cicero/92922
+#EXTINF:-1,Gloobinho HD
+http://tbsrv.me:8880/cicero/cicero/92923
+#EXTINF:-1,Gloobinho SD
+http://tbsrv.me:8880/cicero/cicero/92924
+#EXTINF:-1,Gloobinho SD²
+http://tbsrv.me:8880/cicero/cicero/101933
 #EXTINF:-1,GNT FHD
-http://tbsrv.me:8880/alfredo/alfredo/74612
+http://tbsrv.me:8880/cicero/cicero/74612
 #EXTINF:-1,GNT [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77707
+http://tbsrv.me:8880/cicero/cicero/77707
+#EXTINF:-1,GNT HD
+http://tbsrv.me:8880/cicero/cicero/146
+#EXTINF:-1,GNT HD²
+http://tbsrv.me:8880/cicero/cicero/111091
+#EXTINF:-1,GNT SD
+http://tbsrv.me:8880/cicero/cicero/69774
+#EXTINF:-1,GNT SD²
+http://tbsrv.me:8880/cicero/cicero/111092
 #EXTINF:-1,H2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69571
+http://tbsrv.me:8880/cicero/cicero/69571
 #EXTINF:-1,H2 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106602
+http://tbsrv.me:8880/cicero/cicero/106602
 #EXTINF:-1,H2 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77714
+http://tbsrv.me:8880/cicero/cicero/77714
+#EXTINF:-1,H2 HD
+http://tbsrv.me:8880/cicero/cicero/69572
+#EXTINF:-1,H2 HD²
+http://tbsrv.me:8880/cicero/cicero/106603
+#EXTINF:-1,H2 SD
+http://tbsrv.me:8880/cicero/cicero/69573
+#EXTINF:-1,H2 SD²
+http://tbsrv.me:8880/cicero/cicero/106604
 #EXTINF:-1,HBO FHD
-http://tbsrv.me:8880/alfredo/alfredo/69542
+http://tbsrv.me:8880/cicero/cicero/69542
 #EXTINF:-1,HBO FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101821
+http://tbsrv.me:8880/cicero/cicero/101821
 #EXTINF:-1,HBO FHD [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77709
+http://tbsrv.me:8880/cicero/cicero/77709
+#EXTINF:-1,HBO HD
+http://tbsrv.me:8880/cicero/cicero/69650
+#EXTINF:-1,HBO HD²
+http://tbsrv.me:8880/cicero/cicero/101822
+#EXTINF:-1,HBO SD
+http://tbsrv.me:8880/cicero/cicero/69624
+#EXTINF:-1,HBO SD²
+http://tbsrv.me:8880/cicero/cicero/101832
 #EXTINF:-1,HBO 2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69541
+http://tbsrv.me:8880/cicero/cicero/69541
 #EXTINF:-1,HBO 2 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101815
+http://tbsrv.me:8880/cicero/cicero/101815
 #EXTINF:-1,HBO 2 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77712
+http://tbsrv.me:8880/cicero/cicero/77712
+#EXTINF:-1,HBO 2 HD
+http://tbsrv.me:8880/cicero/cicero/69651
+#EXTINF:-1,HBO 2 HD²
+http://tbsrv.me:8880/cicero/cicero/101816
+#EXTINF:-1,HBO 2 SD
+http://tbsrv.me:8880/cicero/cicero/69612
+#EXTINF:-1,HBO 2 SD²
+http://tbsrv.me:8880/cicero/cicero/101817
 #EXTINF:-1,HBO Family FHD
-http://tbsrv.me:8880/alfredo/alfredo/69559
+http://tbsrv.me:8880/cicero/cicero/69559
 #EXTINF:-1,Hbo Family FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101818
+http://tbsrv.me:8880/cicero/cicero/101818
 #EXTINF:-1,HBO Familly [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77708
+http://tbsrv.me:8880/cicero/cicero/77708
+#EXTINF:-1,HBO Family HD
+http://tbsrv.me:8880/cicero/cicero/69675
+#EXTINF:-1,HBO Family HD²
+http://tbsrv.me:8880/cicero/cicero/101819
+#EXTINF:-1,HBO Family SD
+http://tbsrv.me:8880/cicero/cicero/69633
+#EXTINF:-1,HBO Family SD²
+http://tbsrv.me:8880/cicero/cicero/101820
 #EXTINF:-1,HBO Mundi FHD
-http://tbsrv.me:8880/alfredo/alfredo/70017
+http://tbsrv.me:8880/cicero/cicero/70017
 #EXTINF:-1,HBO Mundi [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77718
+http://tbsrv.me:8880/cicero/cicero/77718
+#EXTINF:-1,HBO Mundi HD
+http://tbsrv.me:8880/cicero/cicero/220
+#EXTINF:-1,HBO Mundi HD²
+http://tbsrv.me:8880/cicero/cicero/101823
+#EXTINF:-1,HBO Mundi SD
+http://tbsrv.me:8880/cicero/cicero/70018
+#EXTINF:-1,HBO Mundi SD²
+http://tbsrv.me:8880/cicero/cicero/101824
 #EXTINF:-1,HBO Plus FHD
-http://tbsrv.me:8880/alfredo/alfredo/69543
+http://tbsrv.me:8880/cicero/cicero/69543
 #EXTINF:-1,HBO Plus FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101825
+http://tbsrv.me:8880/cicero/cicero/101825
 #EXTINF:-1,HBO Plus [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77710
+http://tbsrv.me:8880/cicero/cicero/77710
+#EXTINF:-1,HBO Plus HD
+http://tbsrv.me:8880/cicero/cicero/69652
+#EXTINF:-1,HBO Plus HD²
+http://tbsrv.me:8880/cicero/cicero/101826
+#EXTINF:-1,HBO Plus SD
+http://tbsrv.me:8880/cicero/cicero/69613
+#EXTINF:-1,HBO Plus SD²
+http://tbsrv.me:8880/cicero/cicero/101827
+#EXTINF:-1,HBO Plus*e HD²
+http://tbsrv.me:8880/cicero/cicero/101828
+#EXTINF:-1,HBO Plus*e SD²
+http://tbsrv.me:8880/cicero/cicero/101829
 #EXTINF:-1,HBO Pop FHD
-http://tbsrv.me:8880/alfredo/alfredo/70019
+http://tbsrv.me:8880/cicero/cicero/70019
+#EXTINF:-1,HBO Pop HD
+http://tbsrv.me:8880/cicero/cicero/225
+#EXTINF:-1,HBO Pop HD²
+http://tbsrv.me:8880/cicero/cicero/101830
+#EXTINF:-1,HBO Pop SD
+http://tbsrv.me:8880/cicero/cicero/70020
+#EXTINF:-1,HBO Pop SD²
+http://tbsrv.me:8880/cicero/cicero/101831
 #EXTINF:-1,HBO Signature FHD
-http://tbsrv.me:8880/alfredo/alfredo/69554
+http://tbsrv.me:8880/cicero/cicero/69554
 #EXTINF:-1,HBO Signature FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101833
+http://tbsrv.me:8880/cicero/cicero/101833
 #EXTINF:-1,HBO Signature [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77711
+http://tbsrv.me:8880/cicero/cicero/77711
+#EXTINF:-1,HBO Signature HD
+http://tbsrv.me:8880/cicero/cicero/69664
+#EXTINF:-1,HBO Signature HD²
+http://tbsrv.me:8880/cicero/cicero/101834
+#EXTINF:-1,HBO Signature SD
+http://tbsrv.me:8880/cicero/cicero/69632
+#EXTINF:-1,HBO Signature SD²
+http://tbsrv.me:8880/cicero/cicero/101835
 #EXTINF:-1,HBO Xtreme FHD
-http://tbsrv.me:8880/alfredo/alfredo/69544
+http://tbsrv.me:8880/cicero/cicero/69544
 #EXTINF:-1,HBO Xtreme FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101836
+http://tbsrv.me:8880/cicero/cicero/101836
 #EXTINF:-1,HBO Xtreme [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77719
+http://tbsrv.me:8880/cicero/cicero/77719
+#EXTINF:-1,HBO Xtreme HD
+http://tbsrv.me:8880/cicero/cicero/69657
+#EXTINF:-1,HBO Xtreme HD²
+http://tbsrv.me:8880/cicero/cicero/101837
+#EXTINF:-1,HBO Xtreme SD
+http://tbsrv.me:8880/cicero/cicero/69627
+#EXTINF:-1,HBO Xtreme SD²
+http://tbsrv.me:8880/cicero/cicero/101838
 #EXTINF:-1,History Channel FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106608
+http://tbsrv.me:8880/cicero/cicero/106608
+#EXTINF:-1,History Channel HD²
+http://tbsrv.me:8880/cicero/cicero/106609
+#EXTINF:-1,History Channel SD²
+http://tbsrv.me:8880/cicero/cicero/106610
 #EXTINF:-1,ID - Investigação Discovery FHD
-http://tbsrv.me:8880/alfredo/alfredo/69574
+http://tbsrv.me:8880/cicero/cicero/69574
 #EXTINF:-1,ID Investigação Discovery FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106611
+http://tbsrv.me:8880/cicero/cicero/106611
 #EXTINF:-1,ID - Investigação Discovery [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77715
+http://tbsrv.me:8880/cicero/cicero/77715
+#EXTINF:-1,ID - Investigação Discovery HD
+http://tbsrv.me:8880/cicero/cicero/69576
+#EXTINF:-1,ID Investigação Discovery HD²
+http://tbsrv.me:8880/cicero/cicero/106612
+#EXTINF:-1,ID - Investigação Discovery SD
+http://tbsrv.me:8880/cicero/cicero/69577
+#EXTINF:-1,ID Investigação Discovery SD²
+http://tbsrv.me:8880/cicero/cicero/106613
 #EXTINF:-1,Lifetime FHD
-http://tbsrv.me:8880/alfredo/alfredo/69775
+http://tbsrv.me:8880/cicero/cicero/69775
 #EXTINF:-1,Lifetime FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111093
+http://tbsrv.me:8880/cicero/cicero/111093
 #EXTINF:-1,Lifetime [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77716
+http://tbsrv.me:8880/cicero/cicero/77716
+#EXTINF:-1,Lifetime HD
+http://tbsrv.me:8880/cicero/cicero/151
+#EXTINF:-1,Lifetime HD²
+http://tbsrv.me:8880/cicero/cicero/111094
+#EXTINF:-1,Lifetime SD
+http://tbsrv.me:8880/cicero/cicero/69776
+#EXTINF:-1,Lifetime SD²
+http://tbsrv.me:8880/cicero/cicero/111095
 #EXTINF:-1,Loading TV FHD
-http://tbsrv.me:8880/alfredo/alfredo/121088
+http://tbsrv.me:8880/cicero/cicero/121088
 #EXTINF:-1,Mais Globosat FHD
-http://tbsrv.me:8880/alfredo/alfredo/74613
+http://tbsrv.me:8880/cicero/cicero/74613
 #EXTINF:-1,Mais Globosat FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111096
+http://tbsrv.me:8880/cicero/cicero/111096
 #EXTINF:-1,Mais Globosat [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77717
+http://tbsrv.me:8880/cicero/cicero/77717
+#EXTINF:-1,Mais Globosat HD
+http://tbsrv.me:8880/cicero/cicero/153
+#EXTINF:-1,Mais Globosat HD²
+http://tbsrv.me:8880/cicero/cicero/111097
+#EXTINF:-1,Mais Globosat SD
+http://tbsrv.me:8880/cicero/cicero/69778
+#EXTINF:-1,Mais Globosat SD²
+http://tbsrv.me:8880/cicero/cicero/111098
 #EXTINF:-1,Megapix FHD
-http://tbsrv.me:8880/alfredo/alfredo/69562
+http://tbsrv.me:8880/cicero/cicero/69562
 #EXTINF:-1,Megapix FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103881
+http://tbsrv.me:8880/cicero/cicero/103881
 #EXTINF:-1,Megapix [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77721
+http://tbsrv.me:8880/cicero/cicero/77721
+#EXTINF:-1,Megapix HD
+http://tbsrv.me:8880/cicero/cicero/69659
+#EXTINF:-1,Megapix HD²
+http://tbsrv.me:8880/cicero/cicero/103882
+#EXTINF:-1,Megapix SD
+http://tbsrv.me:8880/cicero/cicero/69610
+#EXTINF:-1,Megapix SD²
+http://tbsrv.me:8880/cicero/cicero/103883
 #EXTINF:-1,MTV FHD
-http://tbsrv.me:8880/alfredo/alfredo/69779
+http://tbsrv.me:8880/cicero/cicero/69779
 #EXTINF:-1,MTV FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111063
+http://tbsrv.me:8880/cicero/cicero/111063
 #EXTINF:-1,MTV [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77722
+http://tbsrv.me:8880/cicero/cicero/77722
+#EXTINF:-1,MTV HD
+http://tbsrv.me:8880/cicero/cicero/69780
+#EXTINF:-1,MTV HD²
+http://tbsrv.me:8880/cicero/cicero/111064
 #EXTINF:-1,MTV Live FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111065
+http://tbsrv.me:8880/cicero/cicero/111065
+#EXTINF:-1,MTV Live HD²
+http://tbsrv.me:8880/cicero/cicero/111066
+#EXTINF:-1,MTV SD
+http://tbsrv.me:8880/cicero/cicero/155
+#EXTINF:-1,MTV SD²
+http://tbsrv.me:8880/cicero/cicero/111067
 #EXTINF:-1,Multishow FHD
-http://tbsrv.me:8880/alfredo/alfredo/69782
+http://tbsrv.me:8880/cicero/cicero/69782
 #EXTINF:-1,Multishow FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111068
+http://tbsrv.me:8880/cicero/cicero/111068
 #EXTINF:-1,Multishow [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77723
+http://tbsrv.me:8880/cicero/cicero/77723
+#EXTINF:-1,Multishow HD
+http://tbsrv.me:8880/cicero/cicero/162
+#EXTINF:-1,Multishow HD²
+http://tbsrv.me:8880/cicero/cicero/111069
+#EXTINF:-1,Multishow SD
+http://tbsrv.me:8880/cicero/cicero/69783
+#EXTINF:-1,Multishow SD²
+http://tbsrv.me:8880/cicero/cicero/111070
 #EXTINF:-1,Music Box Brazil FHD
-http://tbsrv.me:8880/alfredo/alfredo/94344
+http://tbsrv.me:8880/cicero/cicero/94344
+#EXTINF:-1,Music Box Brazil HD
+http://tbsrv.me:8880/cicero/cicero/74614
+#EXTINF:-1,Music Box Brazil SD
+http://tbsrv.me:8880/cicero/cicero/69784
+#EXTINF:-1,Music Box Brazil SD²
+http://tbsrv.me:8880/cicero/cicero/111071
 #EXTINF:-1,Nat Geo Kids FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101934
+http://tbsrv.me:8880/cicero/cicero/101934
+#EXTINF:-1,Nat Geo Kids HD²
+http://tbsrv.me:8880/cicero/cicero/101935
+#EXTINF:-1,Nat Geo Kids SD²
+http://tbsrv.me:8880/cicero/cicero/101936
 #EXTINF:-1,Nat Geo Wild FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106614
+http://tbsrv.me:8880/cicero/cicero/106614
+#EXTINF:-1,Nat Geo Wild HD²
+http://tbsrv.me:8880/cicero/cicero/106615
+#EXTINF:-1,Nat Geo Wild SD²
+http://tbsrv.me:8880/cicero/cicero/106616
 #EXTINF:-1,NatGeo Kids FHD
-http://tbsrv.me:8880/alfredo/alfredo/69505
+http://tbsrv.me:8880/cicero/cicero/69505
 #EXTINF:-1,NatGeo Kids [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77726
+http://tbsrv.me:8880/cicero/cicero/77726
+#EXTINF:-1,NatGeo Kids HD
+http://tbsrv.me:8880/cicero/cicero/69506
+#EXTINF:-1,NatGeo Kids SD
+http://tbsrv.me:8880/cicero/cicero/69507
 #EXTINF:-1,NatGeo Wild FHD
-http://tbsrv.me:8880/alfredo/alfredo/69582
+http://tbsrv.me:8880/cicero/cicero/69582
 #EXTINF:-1,NatGeo Wild [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77725
+http://tbsrv.me:8880/cicero/cicero/77725
+#EXTINF:-1,NatGeo Wild HD
+http://tbsrv.me:8880/cicero/cicero/69584
+#EXTINF:-1,NatGeo Wild SD
+http://tbsrv.me:8880/cicero/cicero/69586
 #EXTINF:-1,National Geographic FHD
-http://tbsrv.me:8880/alfredo/alfredo/69578
+http://tbsrv.me:8880/cicero/cicero/69578
 #EXTINF:-1,National Geographic FHD²
-http://tbsrv.me:8880/alfredo/alfredo/106617
+http://tbsrv.me:8880/cicero/cicero/106617
 #EXTINF:-1,National Geographic [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77724
+http://tbsrv.me:8880/cicero/cicero/77724
+#EXTINF:-1,National Geographic HD
+http://tbsrv.me:8880/cicero/cicero/69579
+#EXTINF:-1,National Geographic HD²
+http://tbsrv.me:8880/cicero/cicero/106618
+#EXTINF:-1,National Geographic SD
+http://tbsrv.me:8880/cicero/cicero/69581
+#EXTINF:-1,National Geographic SD²
+http://tbsrv.me:8880/cicero/cicero/106619
+#EXTINF:-1,NHK HD²
+http://tbsrv.me:8880/cicero/cicero/111099
+#EXTINF:-1,NHK SD²
+http://tbsrv.me:8880/cicero/cicero/111100
 #EXTINF:-1,Nick Jr FHD
-http://tbsrv.me:8880/alfredo/alfredo/69508
+http://tbsrv.me:8880/cicero/cicero/69508
 #EXTINF:-1,Nick Jr FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101937
+http://tbsrv.me:8880/cicero/cicero/101937
 #EXTINF:-1,Nick Jr [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77728
+http://tbsrv.me:8880/cicero/cicero/77728
+#EXTINF:-1,Nick Jr HD
+http://tbsrv.me:8880/cicero/cicero/69509
+#EXTINF:-1,Nick Jr HD²
+http://tbsrv.me:8880/cicero/cicero/101938
+#EXTINF:-1,Nick Jr SD
+http://tbsrv.me:8880/cicero/cicero/69510
+#EXTINF:-1,Nick Jr SD²
+http://tbsrv.me:8880/cicero/cicero/101939
 #EXTINF:-1,Nickelodeon FHD
-http://tbsrv.me:8880/alfredo/alfredo/69511
+http://tbsrv.me:8880/cicero/cicero/69511
 #EXTINF:-1,Nickelodeon FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101940
+http://tbsrv.me:8880/cicero/cicero/101940
 #EXTINF:-1,Nickelodeon [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77727
-#EXTINF:-1,Off FHD
-http://tbsrv.me:8880/alfredo/alfredo/74615
-#EXTINF:-1,Off [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77729
-#EXTINF:-1,Paramount Channel FHD
-http://tbsrv.me:8880/alfredo/alfredo/69555
-#EXTINF:-1,Paramount Channel FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103884
-#EXTINF:-1,Paramount Channel [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77730
-#EXTINF:-1,Play TV FHD
-http://tbsrv.me:8880/alfredo/alfredo/94429
-#EXTINF:-1,Prime Box Brazil FHD
-http://tbsrv.me:8880/alfredo/alfredo/94453
-#EXTINF:-1,Record News FHD
-http://tbsrv.me:8880/alfredo/alfredo/94479
-#EXTINF:-1,Record News FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101751
-#EXTINF:-1,RecordTV SP FHD
-http://tbsrv.me:8880/alfredo/alfredo/69673
-#EXTINF:-1,RecordTV SP [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77663
-#EXTINF:-1,Rede CNT ES FHD
-http://tbsrv.me:8880/alfredo/alfredo/99205
-#EXTINF:-1,Rede TV FHD
-http://tbsrv.me:8880/alfredo/alfredo/69677
-#EXTINF:-1,Rede TV [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77739
-#EXTINF:-1,SBT SP FHD
-http://tbsrv.me:8880/alfredo/alfredo/94520
-#EXTINF:-1,SBT SP FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101722
-#EXTINF:-1,Space FHD
-http://tbsrv.me:8880/alfredo/alfredo/70021
-#EXTINF:-1,Space FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103887
-#EXTINF:-1,Space [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77740
-#EXTINF:-1,SporTV [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77741
-#EXTINF:-1,SporTV 2 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77742
-#EXTINF:-1,SporTV 3 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77743
-#EXTINF:-1,Studio Universal FHD
-http://tbsrv.me:8880/alfredo/alfredo/899
-#EXTINF:-1,Studio Universal [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77744
-#EXTINF:-1,SyFy FHD
-http://tbsrv.me:8880/alfredo/alfredo/69557
-#EXTINF:-1,SyFy FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103904
-#EXTINF:-1,SyFy [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77745
-#EXTINF:-1,TBS FHD
-http://tbsrv.me:8880/alfredo/alfredo/77746
-#EXTINF:-1,TCM FHD
-http://tbsrv.me:8880/alfredo/alfredo/94583
-#EXTINF:-1,Telecine Action FHD
-http://tbsrv.me:8880/alfredo/alfredo/69551
-#EXTINF:-1,Telecine Action FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101725
-#EXTINF:-1,Telecine Action [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77747
-#EXTINF:-1,Telecine Cult FHD
-http://tbsrv.me:8880/alfredo/alfredo/69563
-#EXTINF:-1,Telecine Cult FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101728
-#EXTINF:-1,Telecine Cult [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77748
-#EXTINF:-1,Telecine Fun FHD
-http://tbsrv.me:8880/alfredo/alfredo/69550
-#EXTINF:-1,Telecine Fun FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101731
-#EXTINF:-1,Telecine Fun [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77749
-#EXTINF:-1,Telecine Pipoca FHD
-http://tbsrv.me:8880/alfredo/alfredo/69549
-#EXTINF:-1,Telecine Pipoca FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101734
-#EXTINF:-1,Telecine Pipoca [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77750
-#EXTINF:-1,Telecine Premium FHD
-http://tbsrv.me:8880/alfredo/alfredo/69548
-#EXTINF:-1,Telecine Premium FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101737
-#EXTINF:-1,Telecine Premium [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77751
-#EXTINF:-1,Telecine Touch FHD
-http://tbsrv.me:8880/alfredo/alfredo/69547
-#EXTINF:-1,Telecine Touch FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101740
-#EXTINF:-1,Telecine Touch [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77752
-#EXTINF:-1,The History Channel FHD
-http://tbsrv.me:8880/alfredo/alfredo/907
-#EXTINF:-1,The History Channel [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77713
-#EXTINF:-1,TLC FHD
-http://tbsrv.me:8880/alfredo/alfredo/74616
-#EXTINF:-1,TLC FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111111
-#EXTINF:-1,TLC [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77753
-#EXTINF:-1,TNT FHD
-http://tbsrv.me:8880/alfredo/alfredo/69561
-#EXTINF:-1,TNT FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103892
-#EXTINF:-1,TNT [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77754
-#EXTINF:-1,TNT Séries FHD
-http://tbsrv.me:8880/alfredo/alfredo/69546
-#EXTINF:-1,TNT Series [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77755
-#EXTINF:-1,TNT Séries FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103895
-#EXTINF:-1,Tooncast FHD
-http://tbsrv.me:8880/alfredo/alfredo/94640
-#EXTINF:-1,Tooncast FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101943
-#EXTINF:-1,Tru TV FHD
-http://tbsrv.me:8880/alfredo/alfredo/94637
-#EXTINF:-1,TV Playkids HD²
-http://tbsrv.me:8880/alfredo/alfredo/101946
-#EXTINF:-1,TV Ra Tim Bum FHD
-http://tbsrv.me:8880/alfredo/alfredo/74527
-#EXTINF:-1,Universal Channel FHD
-http://tbsrv.me:8880/alfredo/alfredo/910
-#EXTINF:-1,Universal Channel FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103898
-#EXTINF:-1,VH1 MegaHits FHD
-http://tbsrv.me:8880/alfredo/alfredo/74617
-#EXTINF:-1,Viva FHD
-http://tbsrv.me:8880/alfredo/alfredo/94641
-#EXTINF:-1,Viva FHD²
-http://tbsrv.me:8880/alfredo/alfredo/111076
-#EXTINF:-1,Warner Channel FHD
-http://tbsrv.me:8880/alfredo/alfredo/69545
-#EXTINF:-1,Warner Channel FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103901
-#EXTINF:-1,Warner Channel [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77761
-#EXTINF:-1,TV Brasil FHD
-http://tbsrv.me:8880/alfredo/alfredo/121513
-#EXTINF:-1,TV Brasil 2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/121514
-#EXTINF:-1,Fox Sports FHD
-http://tbsrv.me:8880/alfredo/alfredo/69714
-#EXTINF:-1,Fox Sports FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103927
-#EXTINF:-1,Fox Sports HD
-http://tbsrv.me:8880/alfredo/alfredo/69746
-#EXTINF:-1,Fox Sports HD²
-http://tbsrv.me:8880/alfredo/alfredo/103928
-#EXTINF:-1,Fox Sports SD
-http://tbsrv.me:8880/alfredo/alfredo/70069
-#EXTINF:-1,Fox Sports SD²
-http://tbsrv.me:8880/alfredo/alfredo/103929
-#EXTINF:-1,Fox Sports 2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69715
-#EXTINF:-1,Fox Sports 2 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/103924
-#EXTINF:-1,Fox Sports 2 HD
-http://tbsrv.me:8880/alfredo/alfredo/69748
-#EXTINF:-1,Fox Sports 2 HD²
-http://tbsrv.me:8880/alfredo/alfredo/103925
-#EXTINF:-1,Fox Sports 2 SD
-http://tbsrv.me:8880/alfredo/alfredo/266
-#EXTINF:-1,Fox Sports 2 SD²
-http://tbsrv.me:8880/alfredo/alfredo/103926
-#EXTINF:-1,Mycujoo TV
-http://tbsrv.me:8880/alfredo/alfredo/120356
-#EXTINF:-1,Premiere Clubes FHD
-http://tbsrv.me:8880/alfredo/alfredo/69718
-#EXTINF:-1,Premiere Clubes FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101811
-#EXTINF:-1,Premiere Clubes HD
-http://tbsrv.me:8880/alfredo/alfredo/69737
-#EXTINF:-1,Premiere Clubes HD²
-http://tbsrv.me:8880/alfredo/alfredo/101812
-#EXTINF:-1,Premiere Clubes SD
-http://tbsrv.me:8880/alfredo/alfredo/397
-#EXTINF:-1,Premiere Clubes SD²
-http://tbsrv.me:8880/alfredo/alfredo/101813
-#EXTINF:-1,Premiere 2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69719
-#EXTINF:-1,Premiere 2 HD
-http://tbsrv.me:8880/alfredo/alfredo/69739
-#EXTINF:-1,Premiere 2 HD²
-http://tbsrv.me:8880/alfredo/alfredo/101799
-#EXTINF:-1,Premiere 2 SD
-http://tbsrv.me:8880/alfredo/alfredo/69734
-#EXTINF:-1,Premiere 2 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101800
-#EXTINF:-1,Premiere 3 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69720
-#EXTINF:-1,Premiere 3 HD
-http://tbsrv.me:8880/alfredo/alfredo/69740
-#EXTINF:-1,Premiere 3 HD²
-http://tbsrv.me:8880/alfredo/alfredo/101801
-#EXTINF:-1,Premiere 3 SD
-http://tbsrv.me:8880/alfredo/alfredo/69733
-#EXTINF:-1,Premiere 3 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101802
-#EXTINF:-1,Premiere 4 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69721
-#EXTINF:-1,Premiere 4 HD
-http://tbsrv.me:8880/alfredo/alfredo/69738
-#EXTINF:-1,Premiere 4 HD²
-http://tbsrv.me:8880/alfredo/alfredo/101803
-#EXTINF:-1,Premiere 4 SD
-http://tbsrv.me:8880/alfredo/alfredo/69728
-#EXTINF:-1,Premiere 4 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101804
-#EXTINF:-1,Premiere 5 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69722
-#EXTINF:-1,Premiere 5 HD
-http://tbsrv.me:8880/alfredo/alfredo/69741
-#EXTINF:-1,Premiere 5 HD²
-http://tbsrv.me:8880/alfredo/alfredo/101805
-#EXTINF:-1,Premiere 5 SD
-http://tbsrv.me:8880/alfredo/alfredo/69735
-#EXTINF:-1,Premiere 5 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101806
-#EXTINF:-1,Premiere 6 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69723
-#EXTINF:-1,Premiere 6 HD
-http://tbsrv.me:8880/alfredo/alfredo/69742
-#EXTINF:-1,Premiere 6 HD²
-http://tbsrv.me:8880/alfredo/alfredo/101807
-#EXTINF:-1,Premiere 6 SD
-http://tbsrv.me:8880/alfredo/alfredo/69736
-#EXTINF:-1,Premiere 6 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101808
-#EXTINF:-1,Premiere 7 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69724
-#EXTINF:-1,Premiere 7 HD
-http://tbsrv.me:8880/alfredo/alfredo/69729
-#EXTINF:-1,Premiere 7 SD
-http://tbsrv.me:8880/alfredo/alfredo/69730
-#EXTINF:-1,Premiere 7 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101809
-#EXTINF:-1,Premiere 8 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101810
-#EXTINF:-1,SporTV FHD
-http://tbsrv.me:8880/alfredo/alfredo/69716
-#EXTINF:-1,SporTV FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101760
-#EXTINF:-1,SporTV HD
-http://tbsrv.me:8880/alfredo/alfredo/69743
-#EXTINF:-1,SporTV HD²
-http://tbsrv.me:8880/alfredo/alfredo/101761
-#EXTINF:-1,SporTV SD
-http://tbsrv.me:8880/alfredo/alfredo/69790
-#EXTINF:-1,SporTV SD²
-http://tbsrv.me:8880/alfredo/alfredo/101762
-#EXTINF:-1,SporTV 2 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69717
-#EXTINF:-1,SporTV 2 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101754
-#EXTINF:-1,SporTV 2 HD
-http://tbsrv.me:8880/alfredo/alfredo/69744
-#EXTINF:-1,SporTV 2 HD²
-http://tbsrv.me:8880/alfredo/alfredo/101755
-#EXTINF:-1,SporTV 2 SD
-http://tbsrv.me:8880/alfredo/alfredo/69726
-#EXTINF:-1,SporTV 2 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101756
-#EXTINF:-1,SporTV 3 FHD
-http://tbsrv.me:8880/alfredo/alfredo/69758
-#EXTINF:-1,SporTV 3 FHD²
-http://tbsrv.me:8880/alfredo/alfredo/101757
-#EXTINF:-1,SporTV 3 HD
-http://tbsrv.me:8880/alfredo/alfredo/69745
-#EXTINF:-1,SporTV 3 HD²
-http://tbsrv.me:8880/alfredo/alfredo/101758
-#EXTINF:-1,SporTV 3 SD
-http://tbsrv.me:8880/alfredo/alfredo/69727
-#EXTINF:-1,SporTV 3 SD²
-http://tbsrv.me:8880/alfredo/alfredo/101759
-#EXTINF:-1,Vasco TV
-http://tbsrv.me:8880/alfredo/alfredo/76638
-#EXTINF:-1,Premiere Clubes [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77731
-#EXTINF:-1,Premiere 2 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77732
-#EXTINF:-1,Premiere 3 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77733
-#EXTINF:-1,Premiere 4 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77734
-#EXTINF:-1,Premiere 5 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77735
-#EXTINF:-1,Premiere 6 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77736
-#EXTINF:-1,Premiere 7 [H265]
-http://tbsrv.me:8880/alfredo/alfredo/77737
-#EXTINF:-1,TELECINE TOUCH HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99103
-#EXTINF:-1,TELECINE TOUCH FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99104
-#EXTINF:-1,TELECINE PREMIUM HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99105
-#EXTINF:-1,TELECINE PREMIUM FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99106
-#EXTINF:-1,TELECINE PIPOCA HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99107
-#EXTINF:-1,TELECINE PIPOCA FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99108
-#EXTINF:-1,TELECINE FUN HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99109
-#EXTINF:-1,TELECINE FUN FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99110
-#EXTINF:-1,TELECINE CULT HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99111
-#EXTINF:-1,TELECINE CULT FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99112
-#EXTINF:-1,TELECINE ACTION FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99114
-#EXTINF:-1,HBO XTREME HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99115
-#EXTINF:-1,HBO XTREME FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99116
-#EXTINF:-1,HBO SIGNATURE FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99117
-#EXTINF:-1,HBO SIGNATURE HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99118
-#EXTINF:-1,HBO POP FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99119
-#EXTINF:-1,HBO POP HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99120
-#EXTINF:-1,HBO PLUS FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99121
-#EXTINF:-1,HBO PLUS HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99122
-#EXTINF:-1,HBO MUNDI FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99123
-#EXTINF:-1,HBO MUNDI HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99124
-#EXTINF:-1,HBO FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99125
-#EXTINF:-1,HBO HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99126
-#EXTINF:-1,FOX PREMIUM 2 HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99127
-#EXTINF:-1,FOX PREMIUM 2 FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99128
-#EXTINF:-1,FOX PREMIUM 1 HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99129
-#EXTINF:-1,FOX HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99130
-#EXTINF:-1,FOX FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99131
-#EXTINF:-1,AXN HD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99132
-#EXTINF:-1,AXN FHD [L]
-http://tbsrv.me:8880/alfredo/alfredo/99133
-#EXTINF:-1,Cine Pipoca 1
-http://tbsrv.me:8880/alfredo/alfredo/84671
-#EXTINF:-1,Cine Pipoca 2
-http://tbsrv.me:8880/alfredo/alfredo/84672
-#EXTINF:-1,Cine Pipoca 3
-http://tbsrv.me:8880/alfredo/alfredo/84673
-#EXTINF:-1,Cine Pipoca 4
-http://tbsrv.me:8880/alfredo/alfredo/84674
-#EXTINF:-1,Cine Pipoca 5
-http://tbsrv.me:8880/alfredo/alfredo/84675
-#EXTINF:-1,Cine Pipoca 6
-http://tbsrv.me:8880/alfredo/alfredo/84676
-#EXTINF:-1,Cine Pipoca 7
-http://tbsrv.me:8880/alfredo/alfredo/84677
-#EXTINF:-1,Cine Pipoca 8
-http://tbsrv.me:8880/alfredo/alfredo/84678
-#EXTINF:-1,Cine Pipoca 9
-http://tbsrv.me:8880/alfredo/alfredo/84679
-#EXTINF:-1,Cine Pipoca 10
-http://tbsrv.me:8880/alfredo/alfredo/84680
-#EXTINF:-1,Cine Sky 1
-http://tbsrv.me:8880/alfredo/alfredo/73144
-#EXTINF:-1,Cine Sky 2
-http://tbsrv.me:8880/alfredo/alfredo/73145
-#EXTINF:-1,Cine Sky 3
-http://tbsrv.me:8880/alfredo/alfredo/73146
-#EXTINF:-1,Cine Sky 4
-http://tbsrv.me:8880/alfredo/alfredo/73147
-#EXTINF:-1,Cine Sky 5
-http://tbsrv.me:8880/alfredo/alfredo/73148
-#EXTINF:-1,Cine Sky 6
-http://tbsrv.me:8880/alfredo/alfredo/74525
-#EXTINF:-1,Cine Sky 7
-http://tbsrv.me:8880/alfredo/alfredo/74526
-#EXTINF:-1,Cine Sky 8
-http://tbsrv.me:8880/alfredo/alfredo/75378
-#EXTINF:-1,Cine Sky 9
-http://tbsrv.me:8880/alfredo/alfredo/75487
-#EXTINF:-1,Cine Sky 10
-http://tbsrv.me:8880/alfredo/alfredo/75488
-#EXTINF:-1,Cascavel - Centro
-http://tbsrv.me:8880/alfredo/alfredo/117753
-#EXTINF:-1,Foz Do Iguaçu - Panorâmica
-http://tbsrv.me:8880/alfredo/alfredo/117754
-#EXTINF:-1,Gramado
-http://tbsrv.me:8880/alfredo/alfredo/117751
-#EXTINF:-1,Key West - Duval Street
-http://tbsrv.me:8880/alfredo/alfredo/117752
-#EXTINF:-1,Times Square
-http://tbsrv.me:8880/alfredo/alfredo/117750
-#EXTINF:-1,Viaduto Goiania
-http://tbsrv.me:8880/alfredo/alfredo/117749
-#EXTINF:-1,[24h] - 101 Dalmatas
-http://tbsrv.me:8880/alfredo/alfredo/109595
-#EXTINF:-1,[24H] - 3 Palavrinhas
-http://tbsrv.me:8880/alfredo/alfredo/76184
-#EXTINF:-1,[24H] - 3 Palavrinhas
-http://tbsrv.me:8880/alfredo/alfredo/101677
-#EXTINF:-1,[24h] - 3 Palavrinhas - Volume 4
-http://tbsrv.me:8880/alfredo/alfredo/113313
-#EXTINF:-1,[24h] - 3 Palavrinhas - Volume 5
-http://tbsrv.me:8880/alfredo/alfredo/113314
-#EXTINF:-1,[24h] - 3 Palavrinhas - Volume 6
-http://tbsrv.me:8880/alfredo/alfredo/113315
-#EXTINF:-1,[24H] - A Feiticeira
-http://tbsrv.me:8880/alfredo/alfredo/76190
-#EXTINF:-1,[24H] - A Grande Familia
-http://tbsrv.me:8880/alfredo/alfredo/76185
-#EXTINF:-1,[24H] - A Pantera Cor De Rosa
-http://tbsrv.me:8880/alfredo/alfredo/101690
-#EXTINF:-1,[24H] - A Turma Da Monica 2
-http://tbsrv.me:8880/alfredo/alfredo/109593
-#EXTINF:-1,[24H] - A Vaca e o Frango
-http://tbsrv.me:8880/alfredo/alfredo/113625
-#EXTINF:-1,[24H] - Aladdin Desenho Animado
-http://tbsrv.me:8880/alfredo/alfredo/101683
-#EXTINF:-1,[24H] - Aladin
-http://tbsrv.me:8880/alfredo/alfredo/76107
-#EXTINF:-1,[24H] - As Aventuras De Jackie Chan
-http://tbsrv.me:8880/alfredo/alfredo/101684
-#EXTINF:-1,[24H] - As Meninas Superpoderosas
-http://tbsrv.me:8880/alfredo/alfredo/76108
-#EXTINF:-1,[24h] - As Meninas Superpoderosas
-http://tbsrv.me:8880/alfredo/alfredo/112279
-#EXTINF:-1,[24h] - As Visoes Da Raven
-http://tbsrv.me:8880/alfredo/alfredo/112280
-#EXTINF:-1,[24H] - Baby Looney Tunes
-http://tbsrv.me:8880/alfredo/alfredo/113628
-#EXTINF:-1,[24H] - Bananas de Pijamas
-http://tbsrv.me:8880/alfredo/alfredo/121350
-#EXTINF:-1,[24H] - Ben 10
-http://tbsrv.me:8880/alfredo/alfredo/76109
-#EXTINF:-1,[24H] - Ben 10
-http://tbsrv.me:8880/alfredo/alfredo/101674
-#EXTINF:-1,[24H] - Bob Esponja
-http://tbsrv.me:8880/alfredo/alfredo/76110
-#EXTINF:-1,[24H] - Bob Esponja
-http://tbsrv.me:8880/alfredo/alfredo/101676
-#EXTINF:-1,[24H] - Bob Esponja - 3 Temp
-http://tbsrv.me:8880/alfredo/alfredo/112722
-#EXTINF:-1,[24H] - Breaking Bad
-http://tbsrv.me:8880/alfredo/alfredo/76111
-#EXTINF:-1,[24H] - Caillou
-http://tbsrv.me:8880/alfredo/alfredo/121345
-#EXTINF:-1,[24H] - Castelo Ra-Tim-Bum
-http://tbsrv.me:8880/alfredo/alfredo/121171
-#EXTINF:-1,[24H] - Cavaleiros Do Zodiaco 1 - Santuario
-http://tbsrv.me:8880/alfredo/alfredo/101658
-#EXTINF:-1,[24H] - Caverna do Dragão
-http://tbsrv.me:8880/alfredo/alfredo/76113
-#EXTINF:-1,[24H] - Caverna Do Dragão
-http://tbsrv.me:8880/alfredo/alfredo/101666
-#EXTINF:-1,[24H] - Chapolin Colorado
-http://tbsrv.me:8880/alfredo/alfredo/76114
-#EXTINF:-1,[24H] - Chapolin Colorado
-http://tbsrv.me:8880/alfredo/alfredo/101698
-#EXTINF:-1,[24H] - Chaves
-http://tbsrv.me:8880/alfredo/alfredo/76115
-#EXTINF:-1,[24H] - Chaves
-http://tbsrv.me:8880/alfredo/alfredo/101675
-#EXTINF:-1,[24H] - Chaves Desenho
-http://tbsrv.me:8880/alfredo/alfredo/76116
-#EXTINF:-1,[24H] - Coragem o Cão Covarde
-http://tbsrv.me:8880/alfredo/alfredo/113630
-#EXTINF:-1,[24H] - Cão Coragem
-http://tbsrv.me:8880/alfredo/alfredo/76112
-#EXTINF:-1,[24H] - Daniel Tigre 2
-http://tbsrv.me:8880/alfredo/alfredo/121346
-#EXTINF:-1,[24H] - Denis o Pimentinha
-http://tbsrv.me:8880/alfredo/alfredo/76117
-#EXTINF:-1,[24H] - Desenhos Biblicos
-http://tbsrv.me:8880/alfredo/alfredo/76118
-#EXTINF:-1,[24h] - Desenhos Biblicos 2
-http://tbsrv.me:8880/alfredo/alfredo/109617
-#EXTINF:-1,[24H] - Desenhos Disney
-http://tbsrv.me:8880/alfredo/alfredo/76119
-#EXTINF:-1,[24H] - Digimon
-http://tbsrv.me:8880/alfredo/alfredo/76120
-#EXTINF:-1,[24H] - Dois Homens e Meio
-http://tbsrv.me:8880/alfredo/alfredo/76121
-#EXTINF:-1,[24h] - Dois Homens e Meio
-http://tbsrv.me:8880/alfredo/alfredo/112294
-#EXTINF:-1,[24H] - Doug
-http://tbsrv.me:8880/alfredo/alfredo/76122
-#EXTINF:-1,[24H] - Dragon Ball
-http://tbsrv.me:8880/alfredo/alfredo/76123
-#EXTINF:-1,[24H] - Dragon Ball Super
-http://tbsrv.me:8880/alfredo/alfredo/101691
-#EXTINF:-1,[24h] - Dragon Ball Z Saga de Freeza
-http://tbsrv.me:8880/alfredo/alfredo/112295
-#EXTINF:-1,[24H] - Drake & Josh
-http://tbsrv.me:8880/alfredo/alfredo/113669
-#EXTINF:-1,[24h] - Drake e Josh
-http://tbsrv.me:8880/alfredo/alfredo/112296
-#EXTINF:-1,[24H] - Eu a Patroa e as Crianças
-http://tbsrv.me:8880/alfredo/alfredo/76126
-#EXTINF:-1,[24H] - Eu A Patroa E As Crianças
-http://tbsrv.me:8880/alfredo/alfredo/101670
-#EXTINF:-1,[24h] - Friends
-http://tbsrv.me:8880/alfredo/alfredo/112298
-#EXTINF:-1,[24H] - Friends - Temp 01
-http://tbsrv.me:8880/alfredo/alfredo/76105
-#EXTINF:-1,[24H] - Friends - Temp 02
-http://tbsrv.me:8880/alfredo/alfredo/76106
-#EXTINF:-1,[24H] - Friends - Temp 03
-http://tbsrv.me:8880/alfredo/alfredo/76196
-#EXTINF:-1,[24H] - Galinha Pintadinha
-http://tbsrv.me:8880/alfredo/alfredo/76128
-#EXTINF:-1,[24H] - Galinha Pintadinha
-http://tbsrv.me:8880/alfredo/alfredo/101671
-#EXTINF:-1,[24H] - Guardiões da Galaxia
-http://tbsrv.me:8880/alfredo/alfredo/76129
-#EXTINF:-1,[24H] - He Man Desenho
-http://tbsrv.me:8880/alfredo/alfredo/101720
-#EXTINF:-1,[24H] - He Man Desenho 2
-http://tbsrv.me:8880/alfredo/alfredo/110167
-#EXTINF:-1,[24H] - He-Man
-http://tbsrv.me:8880/alfredo/alfredo/76130
-#EXTINF:-1,[24H] - Historias Disney
-http://tbsrv.me:8880/alfredo/alfredo/76132
-#EXTINF:-1,[24H] - Homem Aranha
-http://tbsrv.me:8880/alfredo/alfredo/101673
-#EXTINF:-1,[24h] - iCarly
-http://tbsrv.me:8880/alfredo/alfredo/112300
-#EXTINF:-1,[24h] - Jacarelvis e Amigos 1
-http://tbsrv.me:8880/alfredo/alfredo/121155
-#EXTINF:-1,[24h] - Jacarelvis e Amigos 2
-http://tbsrv.me:8880/alfredo/alfredo/121156
-#EXTINF:-1,[24h] - Jacarelvis e Amigos 3
-http://tbsrv.me:8880/alfredo/alfredo/121157
-#EXTINF:-1,[24H] - Jaspion
-http://tbsrv.me:8880/alfredo/alfredo/110217
-#EXTINF:-1,[24h] - Johnny Test
-http://tbsrv.me:8880/alfredo/alfredo/109618
-#EXTINF:-1,[24H] - Jonny Quest
-http://tbsrv.me:8880/alfredo/alfredo/101668
-#EXTINF:-1,[24h] - Krozz 1
-http://tbsrv.me:8880/alfredo/alfredo/113619
-#EXTINF:-1,[24h] - Krozz 2
-http://tbsrv.me:8880/alfredo/alfredo/113620
-#EXTINF:-1,[24h] - Looney Tunes
-http://tbsrv.me:8880/alfredo/alfredo/109619
-#EXTINF:-1,[24H] - Masha E O Urso
-http://tbsrv.me:8880/alfredo/alfredo/101705
-#EXTINF:-1,[24h] - Masha e o Urso 2
-http://tbsrv.me:8880/alfredo/alfredo/109620
-#EXTINF:-1,[24H] - Mickey Mouse
-http://tbsrv.me:8880/alfredo/alfredo/101695
-#EXTINF:-1,[24H] - Mr. Bean
-http://tbsrv.me:8880/alfredo/alfredo/76195
-#EXTINF:-1,[24H] - Mundo Bita
-http://tbsrv.me:8880/alfredo/alfredo/101706
-#EXTINF:-1,[24H] - Naruto Clássico
-http://tbsrv.me:8880/alfredo/alfredo/101663
-#EXTINF:-1,[24H] - O Fantastico Mundo De Bobby
-http://tbsrv.me:8880/alfredo/alfredo/101660
-#EXTINF:-1,[24H] - O Máskara
-http://tbsrv.me:8880/alfredo/alfredo/101661
-#EXTINF:-1,[24H] - o Pequeno Urso
-http://tbsrv.me:8880/alfredo/alfredo/113627
-#EXTINF:-1,[24h] - Os Backyardigans
-http://tbsrv.me:8880/alfredo/alfredo/109621
-#EXTINF:-1,[24h] - Os Flinstones
-http://tbsrv.me:8880/alfredo/alfredo/112302
-#EXTINF:-1,[24H] - Os Padrinhos Mágicos
-http://tbsrv.me:8880/alfredo/alfredo/101715
-#EXTINF:-1,[24H] - Os Padrinhos Mágicos -
-http://tbsrv.me:8880/alfredo/alfredo/109592
-#EXTINF:-1,[24h] - Os Trapalhões Clássico
-http://tbsrv.me:8880/alfredo/alfredo/112393
-#EXTINF:-1,[24H] - Pica Pau
-http://tbsrv.me:8880/alfredo/alfredo/76160
-#EXTINF:-1,[24H] - Pica Pau
-http://tbsrv.me:8880/alfredo/alfredo/101672
-#EXTINF:-1,[24H] - PJ Masks
-http://tbsrv.me:8880/alfredo/alfredo/109594
-#EXTINF:-1,[24h] - Pocoyo
-http://tbsrv.me:8880/alfredo/alfredo/121158
-#EXTINF:-1,[24h] - Pokemon
-http://tbsrv.me:8880/alfredo/alfredo/112303
-#EXTINF:-1,[24H] - Policia 24 Horas
-http://tbsrv.me:8880/alfredo/alfredo/113670
-#EXTINF:-1,[24H] - Popeye
-http://tbsrv.me:8880/alfredo/alfredo/101657
-#EXTINF:-1,[24H] - Punky a Levada da Breca
-http://tbsrv.me:8880/alfredo/alfredo/113657
-#EXTINF:-1,[24H] - Rick And Morty
-http://tbsrv.me:8880/alfredo/alfredo/101699
-#EXTINF:-1,[24H] - Samba
-http://tbsrv.me:8880/alfredo/alfredo/121343
-#EXTINF:-1,[24H] - Scooby Doo
-http://tbsrv.me:8880/alfredo/alfredo/101655
-#EXTINF:-1,[24H] - Sertanejo Universitário 
-http://tbsrv.me:8880/alfredo/alfredo/121319
-#EXTINF:-1,[24H] - South Park
-http://tbsrv.me:8880/alfredo/alfredo/101701
-#EXTINF:-1,[24H] - Super Choque
-http://tbsrv.me:8880/alfredo/alfredo/113629
-#EXTINF:-1,[24h] - Supernatural
-http://tbsrv.me:8880/alfredo/alfredo/112305
-#EXTINF:-1,[24h] - Teletubbies
-http://tbsrv.me:8880/alfredo/alfredo/109622
-#EXTINF:-1,[24h] - The Big Bang Theory
-http://tbsrv.me:8880/alfredo/alfredo/112306
-#EXTINF:-1,[24H] - The Big Bang Theory - Temp 1
-http://tbsrv.me:8880/alfredo/alfredo/109591
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 2
-http://tbsrv.me:8880/alfredo/alfredo/113316
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 3
-http://tbsrv.me:8880/alfredo/alfredo/113326
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 4
-http://tbsrv.me:8880/alfredo/alfredo/113341
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 5
-http://tbsrv.me:8880/alfredo/alfredo/113342
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 6
-http://tbsrv.me:8880/alfredo/alfredo/113343
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 7
-http://tbsrv.me:8880/alfredo/alfredo/121093
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 8
-http://tbsrv.me:8880/alfredo/alfredo/121094
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 9
-http://tbsrv.me:8880/alfredo/alfredo/121095
-#EXTINF:-1,[24h] - The Big Bang Theory - Temp 10
-http://tbsrv.me:8880/alfredo/alfredo/121112
-#EXTINF:-1,[24H] - Timão E Pumba
-http://tbsrv.me:8880/alfredo/alfredo/101692
-#EXTINF:-1,[24h] - Timão e Pumba 2
-http://tbsrv.me:8880/alfredo/alfredo/113325
-#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris
-http://tbsrv.me:8880/alfredo/alfredo/76174
-#EXTINF:-1,[24H] - Todo Mundo Odeia O Chris
-http://tbsrv.me:8880/alfredo/alfredo/101664
-#EXTINF:-1,[24H] - Tom E Jerry
-http://tbsrv.me:8880/alfredo/alfredo/101665
-#EXTINF:-1,[24H] - Um Maluco No Pedaço
-http://tbsrv.me:8880/alfredo/alfredo/113658
-#EXTINF:-1,[24H] - X-Men Antigo
-http://tbsrv.me:8880/alfredo/alfredo/101693
-#EXTINF:-1,[24H] - Música Eletrônica
-http://tbsrv.me:8880/alfredo/alfredo/121433
-#EXTINF:-1,[24H] American Dead
-http://tbsrv.me:8880/alfredo/alfredo/121736
-#EXTINF:-1,[24H] Jhony Bravo
-http://tbsrv.me:8880/alfredo/alfredo/121737
-#EXTINF:-1,[24H] Leo da Montanha
-http://tbsrv.me:8880/alfredo/alfredo/121738
-#EXTINF:-1,[24H] Ligeirinho
-http://tbsrv.me:8880/alfredo/alfredo/121739
-#EXTINF:-1,[24H] O Poderoso Chefinho
-http://tbsrv.me:8880/alfredo/alfredo/121740
-#EXTINF:-1,[24H] Pequena Sereia
-http://tbsrv.me:8880/alfredo/alfredo/121741
-#EXTINF:-1,[24H] To no AR
-http://tbsrv.me:8880/alfredo/alfredo/121742
-#EXTINF:-1,[24H] Detona Ralph
-http://tbsrv.me:8880/alfredo/alfredo/121743
-#EXTINF:-1,[24H] Kenan e Kel
-http://tbsrv.me:8880/alfredo/alfredo/121744
-#EXTINF:-1,[24H] Jiraya
-http://tbsrv.me:8880/alfredo/alfredo/121745
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco 3 - Asgard
-http://tbsrv.me:8880/alfredo/alfredo/121746
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco 4 - Poseidon
-http://tbsrv.me:8880/alfredo/alfredo/121747
-#EXTINF:-1,[24H] Cavaleiros Do Zodiaco 8 - Netflix
-http://tbsrv.me:8880/alfredo/alfredo/121748
-#EXTINF:-1,[24H] Samurai X
-http://tbsrv.me:8880/alfredo/alfredo/121749
-#EXTINF:-1,[24H] Fairy Tail Canal 1 Legendado
-http://tbsrv.me:8880/alfredo/alfredo/121750
-#EXTINF:-1,[24H] Ze Buscape
-http://tbsrv.me:8880/alfredo/alfredo/121751
-#EXTINF:-1,[24H] Pocoyo 2
-http://tbsrv.me:8880/alfredo/alfredo/121752
-#EXTINF:-1,[24H] D.P.A - Detetives Do Prédio Azul - Canal 1
-http://tbsrv.me:8880/alfredo/alfredo/121753
-#EXTINF:-1,[24H] Família Dinossauro
-http://tbsrv.me:8880/alfredo/alfredo/121754
-#EXTINF:-1,[24H] LooLoo Kids - Johny e Amigos
-http://tbsrv.me:8880/alfredo/alfredo/121755
-#EXTINF:-1,[24H] Mr. Bean 2
-http://tbsrv.me:8880/alfredo/alfredo/121756
-#EXTINF:-1,[24H] A Turma do Pernalonga
-http://tbsrv.me:8880/alfredo/alfredo/121757
-#EXTINF:-1,[24H] Dick Vigarista e Muttley
-http://tbsrv.me:8880/alfredo/alfredo/121758
-#EXTINF:-1,[24H] Doug Funnie
-http://tbsrv.me:8880/alfredo/alfredo/121759
-#EXTINF:-1,[24H] Futurama
-http://tbsrv.me:8880/alfredo/alfredo/121760
-#EXTINF:-1,[24H] O Pequeno Principe
-http://tbsrv.me:8880/alfredo/alfredo/121761
-#EXTINF:-1,[24H] Os Jetsons
-http://tbsrv.me:8880/alfredo/alfredo/121762
-#EXTINF:-1,[24H] Rugrats
-http://tbsrv.me:8880/alfredo/alfredo/121763
-#EXTINF:-1,[24H] She Ra
-http://tbsrv.me:8880/alfredo/alfredo/121764
-#EXTINF:-1,[24H] Street Fighter
-http://tbsrv.me:8880/alfredo/alfredo/121765
-#EXTINF:-1,[24H] Thundercats
-http://tbsrv.me:8880/alfredo/alfredo/121766
-#EXTINF:-1,[24H] Tico e Teco: e os Defensores da Lei
-http://tbsrv.me:8880/alfredo/alfredo/121767
-#EXTINF:-1,[24H] Três Espiãs Demais
-http://tbsrv.me:8880/alfredo/alfredo/121768
-#EXTINF:-1,[24H] O Poderoso Chefinho
-http://tbsrv.me:8880/alfredo/alfredo/121769
-#EXTINF:-1,[24H] Show Da Luna
-http://tbsrv.me:8880/alfredo/alfredo/121770
-#EXTINF:-1,[24H] Sonic Boom
-http://tbsrv.me:8880/alfredo/alfredo/121771
-#EXTINF:-1,[24H] Dr. House
-http://tbsrv.me:8880/alfredo/alfredo/121772
-#EXTINF:-1,[24H] Chica Vampiro Canal 1
-http://tbsrv.me:8880/alfredo/alfredo/121773
-#EXTINF:-1,[24H] Ursinhos Carinhosos
-http://tbsrv.me:8880/alfredo/alfredo/121774
-#EXTINF:-1,[24H]  A Grande Familia - O Album
-http://tbsrv.me:8880/alfredo/alfredo/121775
-#EXTINF:-1,[24h] Pegadinhas João Kleber e Silvio Santos
-http://tbsrv.me:8880/alfredo/alfredo/121776
-#EXTINF:-1,[24H] Toma La Da Ca
-http://tbsrv.me:8880/alfredo/alfredo/121777
-#EXTINF:-1,[24H] Young Sheldon
-http://tbsrv.me:8880/alfredo/alfredo/121778
-#EXTINF:-1,[24H] Insanity Deluxe
-http://tbsrv.me:8880/alfredo/alfredo/121779
-#EXTINF:-1,[24H] Ultraman
-http://tbsrv.me:8880/alfredo/alfredo/121780
-#EXTINF:-1,[24H] Beyblade
-http://tbsrv.me:8880/alfredo/alfredo/121781
-#EXTINF:-1,[24H] Johnny Bravo
-http://tbsrv.me:8880/alfredo/alfredo/121782
-#EXTINF:-1,[24H] A Pequena Sereia
-http://tbsrv.me:8880/alfredo/alfredo/121783
-#EXTINF:-1,[24H] Pinky e o Cérebro
-http://tbsrv.me:8880/alfredo/alfredo/121784
-#EXTINF:-1,[24H] Speed Racer
-http://tbsrv.me:8880/alfredo/alfredo/121785
-#EXTINF:-1,[24H] Mickey: Aventuras sobre Rodas
-http://tbsrv.me:8880/alfredo/alfredo/121786
-#EXTINF:-1,[24H] Zé Colmeia
-http://tbsrv.me:8880/alfredo/alfredo/121787
-#EXTINF:-1,[24H] Cavalo De Fogo
-http://tbsrv.me:8880/alfredo/alfredo/121788
-#EXTINF:-1,[24H] Dora, A Aventureira
-http://tbsrv.me:8880/alfredo/alfredo/121789
-#EXTINF:-1,[24H] Alf, O ETeimoso.
-http://tbsrv.me:8880/alfredo/alfredo/121790
-#EXTINF:-1,RD - Agua Fria FM
-http://tbsrv.me:8880/alfredo/alfredo/70540
-#EXTINF:-1,RD - Jovem Pan FM
-http://tbsrv.me:8880/alfredo/alfredo/70573
-#EXTINF:-1,RD - Liberdade FM
-http://tbsrv.me:8880/alfredo/alfredo/70569
-#EXTINF:-1,RD - Mania FM
-http://tbsrv.me:8880/alfredo/alfredo/70566
-#EXTINF:-1,RD - Mix FM
-http://tbsrv.me:8880/alfredo/alfredo/70565
-#EXTINF:-1,RD - Nova FM
-http://tbsrv.me:8880/alfredo/alfredo/70559
-#EXTINF:-1,RD - Novo Tempo FM
-http://tbsrv.me:8880/alfredo/alfredo/70558
-#EXTINF:-1,RD - Pampa FM
-http://tbsrv.me:8880/alfredo/alfredo/70556
-#EXTINF:-1,RD - Princesa FM
-http://tbsrv.me:8880/alfredo/alfredo/70554
-#EXTINF:-1,RD - Rock FM Brasil
-http://tbsrv.me:8880/alfredo/alfredo/70539
-#EXTINF:-1,RD - Tramandaí FM
-http://tbsrv.me:8880/alfredo/alfredo/70545
-#EXTINF:-1,RD - Transamérica FM
-http://tbsrv.me:8880/alfredo/alfredo/70544
-#EXTINF:-1,RD - Transamérica SP FM
-http://tbsrv.me:8880/alfredo/alfredo/70542
-#EXTINF:-1,RD - Trilha Sonora
-http://tbsrv.me:8880/alfredo/alfredo/70541
-#EXTINF:-1,RD - JB FM
-http://tbsrv.me:8880/alfredo/alfredo/112876
-#EXTINF:-1,RD - Radio Gaúcha
-http://tbsrv.me:8880/alfredo/alfredo/112877
-#EXTINF:-1,RD - Rádio Grenal
-http://tbsrv.me:8880/alfredo/alfredo/112878
+http://tbsrv.me:8880/cicero/cicero/77727
+#EXTINF:-1,Nickelodeon HD
+http://tbsrv.me:8880/cicero/cicero/69512
+#EXTINF:-1,Nickelodeon HD²
+http://tbsrv.me:8880/cicero/cicero/101941
+#EXTINF:-1,Nickelodeon SD
+http://tbsrv.me:8880/cicero/cicero/69513
+#EXTINF:-1,Nickelodeon SD²
+http://tbsrv.me:8880/cicero/cicero/101942
+#EXTINF:-1,Novo Tempo HD
+http://tbsrv.me:8880/cicero/cicero/112879
+#EXTINF:-1,Novo Tempo SD
+http://tbsrv.me:8880/cicero/cicero/99203

@@ -1,723 +1,633 @@
 #EXTM3U
-#EXTINF:-1,TF1
-http://hd.waldi2017.com:2082/110023041214988/81515121/4
-#EXTINF:-1,TF1 +1
-http://hd.waldi2017.com:2082/110023041214988/81515121/31077
-#EXTINF:-1,M6
-http://hd.waldi2017.com:2082/110023041214988/81515121/8319
-#EXTINF:-1,France 2
-http://hd.waldi2017.com:2082/110023041214988/81515121/5
-#EXTINF:-1,France 24
-http://hd.waldi2017.com:2082/110023041214988/81515121/15612
-#EXTINF:-1,France 3
-http://hd.waldi2017.com:2082/110023041214988/81515121/12477
-#EXTINF:-1,France 4
-http://hd.waldi2017.com:2082/110023041214988/81515121/7
-#EXTINF:-1,France 5
-http://hd.waldi2017.com:2082/110023041214988/81515121/8
-#EXTINF:-1,TFX
-http://hd.waldi2017.com:2082/110023041214988/81515121/163
-#EXTINF:-1,W9
-http://hd.waldi2017.com:2082/110023041214988/81515121/13
-#EXTINF:-1,BFM TV
-http://hd.waldi2017.com:2082/110023041214988/81515121/3406
-#EXTINF:-1,C8
-http://hd.waldi2017.com:2082/110023041214988/81515121/10
-#EXTINF:-1,euronews
-http://hd.waldi2017.com:2082/110023041214988/81515121/169
-#EXTINF:-1,France Info
-http://hd.waldi2017.com:2082/110023041214988/81515121/12473
-#EXTINF:-1,RFM
-http://hd.waldi2017.com:2082/110023041214988/81515121/12653
-#EXTINF:-1,RMC Decouverte
-http://hd.waldi2017.com:2082/110023041214988/81515121/671
-#EXTINF:-1,RMC Story
-http://hd.waldi2017.com:2082/110023041214988/81515121/6007
-#EXTINF:-1,RTL 9
-http://hd.waldi2017.com:2082/110023041214988/81515121/24
-#EXTINF:-1,13eme Rue
-http://hd.waldi2017.com:2082/110023041214988/81515121/318
-#EXTINF:-1,Netflix discovery
-http://hd.waldi2017.com:2082/110023041214988/81515121/15608
-#EXTINF:-1,Netflix spectacle
-http://hd.waldi2017.com:2082/110023041214988/81515121/23491
-#EXTINF:-1,Netflix Horror
-http://hd.waldi2017.com:2082/110023041214988/81515121/12777
-#EXTINF:-1,Netflix Drama
-http://hd.waldi2017.com:2082/110023041214988/81515121/12778
-#EXTINF:-1,netflix Action
-http://hd.waldi2017.com:2082/110023041214988/81515121/12768
-#EXTINF:-1,Netflix Comedy
-http://hd.waldi2017.com:2082/110023041214988/81515121/12779
-#EXTINF:-1,Skyflix Documentaire
-http://hd.waldi2017.com:2082/110023041214988/81515121/21659
-#EXTINF:-1,6ter
-http://hd.waldi2017.com:2082/110023041214988/81515121/30
-#EXTINF:-1,AB1
-http://hd.waldi2017.com:2082/110023041214988/81515121/153
+#EXTINF:-1,FRANCE_02_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3217
+#EXTINF:-1,France_03_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2500
+#EXTINF:-1,France_04_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3218
+#EXTINF:-1,FRANCE_5_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4005
+#EXTINF:-1,FRANCE_O_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2528
+#EXTINF:-1,FRANCE_INFO_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48877
+#EXTINF:-1,CANAL+_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3326
+#EXTINF:-1,CANAL+_sports_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50145
+#EXTINF:-1,CANAl+_CINEMA_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49749
+#EXTINF:-1,CANAL+_FAMILY_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2639
+#EXTINF:-1,CANAL+_DECALE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1994
+#EXTINF:-1,CANAL+_Series_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52962
+#EXTINF:-1,CANAL_J_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1460
+#EXTINF:-1,Cine_Premier_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3327
+#EXTINF:-1,Cine_Frisson_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3328
+#EXTINF:-1,Cine_Famiz_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3330
+#EXTINF:-1,Cine_Emotion_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/84
+#EXTINF:-1,Cine_Classic_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/82
+#EXTINF:-1,Cine_POLAR_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/128
+#EXTINF:-1,OCS_GEANT_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/90
+#EXTINF:-1,OCS_CHOC_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/89
+#EXTINF:-1,OCS_City_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/88
+#EXTINF:-1,OCS_Max_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/87
+#EXTINF:-1,TF1_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3316
+#EXTINF:-1,TF1_HD_+1
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51664
+#EXTINF:-1,TF1_SERIES_FILMS_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3224
+#EXTINF:-1,M6_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2664
+#EXTINF:-1,RTL9_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/375
+#EXTINF:-1,13eme_Rue_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3346
+#EXTINF:-1,W9_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3221
+#EXTINF:-1,ACTION_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/126
+#EXTINF:-1,Syfy_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3220
+#EXTINF:-1,MY_CUISINE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52702
+#EXTINF:-1,MY_COMEDY
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52489
+#EXTINF:-1,C_Star_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/103
+#EXTINF:-1,C8_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/102
+#EXTINF:-1,TREK_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3678
+#EXTINF:-1,TFX_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/376
+#EXTINF:-1,TCM_Cinema_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1696
+#EXTINF:-1,SERIE_CLUB_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3222
+#EXTINF:-1,6ter_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2499
+#EXTINF:-1,TEVA_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2501
+#EXTINF:-1,Crime_District_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51046
+#EXTINF:-1,Tvm3
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2660
+#EXTINF:-1,TMC_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3223
 #EXTINF:-1,AB3
-http://hd.waldi2017.com:2082/110023041214988/81515121/3637
-#EXTINF:-1,ABXPLORE
-http://hd.waldi2017.com:2082/110023041214988/81515121/12472
-#EXTINF:-1,Action
-http://hd.waldi2017.com:2082/110023041214988/81515121/307
-#EXTINF:-1,Alsac20
-http://hd.waldi2017.com:2082/110023041214988/81515121/12766
-#EXTINF:-1,I24 news
-http://hd.waldi2017.com:2082/110023041214988/81515121/20697
-#EXTINF:-1,Altice studio
-http://hd.waldi2017.com:2082/110023041214988/81515121/23007
-#EXTINF:-1,Animaux
-http://hd.waldi2017.com:2082/110023041214988/81515121/164
-#EXTINF:-1,Arte
-http://hd.waldi2017.com:2082/110023041214988/81515121/12
-#EXTINF:-1,Auto Moto
-http://hd.waldi2017.com:2082/110023041214988/81515121/3701
-#EXTINF:-1,BET France
-http://hd.waldi2017.com:2082/110023041214988/81515121/10408
-#EXTINF:-1,BFM Business
-http://hd.waldi2017.com:2082/110023041214988/81515121/12236
-#EXTINF:-1,BFM Littoral
-http://hd.waldi2017.com:2082/110023041214988/81515121/23189
-#EXTINF:-1,BFM LYON
-http://hd.waldi2017.com:2082/110023041214988/81515121/12659
-#EXTINF:-1,BFM PARIS
-http://hd.waldi2017.com:2082/110023041214988/81515121/12237
-#EXTINF:-1,Brava
-http://hd.waldi2017.com:2082/110023041214988/81515121/7611
-#EXTINF:-1,Canal+ Decale
-http://hd.waldi2017.com:2082/110023041214988/81515121/71
-#EXTINF:-1,Canal+family
-http://hd.waldi2017.com:2082/110023041214988/81515121/72
-#EXTINF:-1,Canal+Series
-http://hd.waldi2017.com:2082/110023041214988/81515121/74
-#EXTINF:-1,Cine+Classic
-http://hd.waldi2017.com:2082/110023041214988/81515121/162
-#EXTINF:-1,Cine+Club
-http://hd.waldi2017.com:2082/110023041214988/81515121/309
-#EXTINF:-1,Cine+Emotion
-http://hd.waldi2017.com:2082/110023041214988/81515121/161
-#EXTINF:-1,Cine+Famiz
-http://hd.waldi2017.com:2082/110023041214988/81515121/311
-#EXTINF:-1,Cine+Premier
-http://hd.waldi2017.com:2082/110023041214988/81515121/313
-#EXTINF:-1,Cine+frisson 
-http://hd.waldi2017.com:2082/110023041214988/81515121/30443
-#EXTINF:-1,Comedie+
-http://hd.waldi2017.com:2082/110023041214988/81515121/328
-#EXTINF:-1,Crime District
-http://hd.waldi2017.com:2082/110023041214988/81515121/3697
-#EXTINF:-1,Dici tv
-http://hd.waldi2017.com:2082/110023041214988/81515121/23190
-#EXTINF:-1,Discovery Channel
-http://hd.waldi2017.com:2082/110023041214988/81515121/304
-#EXTINF:-1,Discovery Family
-http://hd.waldi2017.com:2082/110023041214988/81515121/7828
-#EXTINF:-1,Discovery Investigation
-http://hd.waldi2017.com:2082/110023041214988/81515121/3200
-#EXTINF:-1,Discovery science
-http://hd.waldi2017.com:2082/110023041214988/81515121/22
-#EXTINF:-1,E!
-http://hd.waldi2017.com:2082/110023041214988/81515121/3636
-#EXTINF:-1,Francophonie-24
-http://hd.waldi2017.com:2082/110023041214988/81515121/7615
-#EXTINF:-1,Museum
-http://hd.waldi2017.com:2082/110023041214988/81515121/3306
-#EXTINF:-1,BFM lille
-http://hd.waldi2017.com:2082/110023041214988/81515121/10409
-#EXTINF:-1,Histoire
-http://hd.waldi2017.com:2082/110023041214988/81515121/310
-#EXTINF:-1,KTO
-http://hd.waldi2017.com:2082/110023041214988/81515121/15601
-#EXTINF:-1,LA TELE
-http://hd.waldi2017.com:2082/110023041214988/81515121/23187
-#EXTINF:-1,LFM TV
-http://hd.waldi2017.com:2082/110023041214988/81515121/12298
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1694
+#EXTINF:-1,Arte_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/373
+#EXTINF:-1,Chasse_et_Peche
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/116
+#EXTINF:-1,NATIONAL_GEO_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/113
+#EXTINF:-1,PARAMOUNT_CHANNEL_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2291
+#EXTINF:-1,PARAMOUNT_CHANNEL_DECALE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51173
+#EXTINF:-1,NATIONAL_GEO_WILD_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3397
+#EXTINF:-1,Science_et_Vie_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2662
+#EXTINF:-1,NRJ_12_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1456
+#EXTINF:-1,PARIS_PREMIERE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/119
+#EXTINF:-1,AB_MOTEURS_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1792
+#EXTINF:-1,AB1_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/123
+#EXTINF:-1,TVBREIZH_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1562
+#EXTINF:-1,COMEDIE+_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1458
+#EXTINF:-1,ELLE_GIRL_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3184
+#EXTINF:-1,Cherie_25_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1459
+#EXTINF:-1,ANIMAUX_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/114
+#EXTINF:-1,IL_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1685
+#EXTINF:-1,Alsace_20_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1683
+#EXTINF:-1,Toute_l'Histoire_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4496
+#EXTINF:-1,Ushuaia_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/112
+#EXTINF:-1,Discovery_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/109
+#EXTINF:-1,Discovery_Science_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/110
+#EXTINF:-1,I24_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1644
+#EXTINF:-1,Voyage_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/124
+#EXTINF:-1,PLANETE_A&E_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4495
+#EXTINF:-1,PLANETE+_CI_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2058
+#EXTINF:-1,PLANETE+_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4494
+#EXTINF:-1,BFM_Business_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/379
+#EXTINF:-1,BFM_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/378
+#EXTINF:-1,BFM_PARIS_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48846
+#EXTINF:-1,BFM_LYON
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52487
+#EXTINF:-1,BFM_LILLE
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52488
+#EXTINF:-1,SEASON_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2892
+#EXTINF:-1,M6_Music
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/97
+#EXTINF:-1,MTV_Base_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1667
+#EXTINF:-1,MTV_MUSIC
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1668
+#EXTINF:-1,NRJ_hit
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1455
+#EXTINF:-1,France_24
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/101
+#EXTINF:-1,LA_CHAINE_NORMANDIE
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1686
+#EXTINF:-1,TV5_MONDE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49608
+#EXTINF:-1,Gulli_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/117
+#EXTINF:-1,Nickelodeon_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3843
+#EXTINF:-1,Mangas_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/122
+#EXTINF:-1,Nickelodeon_4_Teens_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4727
+#EXTINF:-1,Piwi_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/374
+#EXTINF:-1,TELETOON+_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/94
+#EXTINF:-1,TIJI_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2102
+#EXTINF:-1,GINX_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52053
+#EXTINF:-1,DISNEY_JUNIOR_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48619
+#EXTINF:-1,DISNEY_CHANNEL_+1_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3174
+#EXTINF:-1,Disney_Channel_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/120
+#EXTINF:-1,BOING_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1457
+#EXTINF:-1,J-ONE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48781
+#EXTINF:-1,TOONAMI_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50800
+#EXTINF:-1,Cartoon_Network_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50953
+#EXTINF:-1,Disney_Cinema_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50936
+#EXTINF:-1,NICKELODEON_JR
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51662
+#EXTINF:-1,GAME_ONE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2105
+#EXTINF:-1,Boomerang_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1461
+#EXTINF:-1,Equidia_Live_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2897
+#EXTINF:-1,INFOSPORT
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/91
+#EXTINF:-1,GOLF+_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2452
+#EXTINF:-1,Golf_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49862
+#EXTINF:-1,Foot+ 24/24_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51646
+#EXTINF:-1,BeIN_SPORTS_1_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3682
+#EXTINF:-1,BeIN_SPORTS_2_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47302
+#EXTINF:-1,BeIN_SPORTS_3_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3680
+#EXTINF:-1,RMC_Sport_03_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/46712
+#EXTINF:-1,EUROSPORT_1_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51512
+#EXTINF:-1,EUROSPORT_2_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51513
+#EXTINF:-1,RMC_Sport_01_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3720
+#EXTINF:-1,L_EQUIPE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52719
+#EXTINF:-1,DISCOVERY_FAMILY_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52741
+#EXTINF:-1,RMC_Sport_02_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/46711
+#EXTINF:-1,Euronews_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52821
+#EXTINF:-1,RMC_Story_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47752
+#EXTINF:-1,HISTOIRE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53376
+#EXTINF:-1,RMC_Sport_01_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2252
+#EXTINF:-1,RMC_Sport_02_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2103
+#EXTINF:-1,RMC_Sport_03_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2279
+#EXTINF:-1,RMC_Sport_04_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50383
+#EXTINF:-1,RMC_SPORT_04_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50384
+#EXTINF:-1,RMC_ACCESS_SPORT_01_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51267
+#EXTINF:-1,RMC_ACCESS_SPORT_02_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51268
+#EXTINF:-1,RMC_SPORT_LIVE 5
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51276
+#EXTINF:-1,RMC_SPORT_LIVE 6
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51275
+#EXTINF:-1,RMC_SPORT_LIVE 7
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51274
+#EXTINF:-1,RMC_SPORT_LIVE 8
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51273
+#EXTINF:-1,RMC_SPORT_LIVE 9
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51272
+#EXTINF:-1,RMC_SPORT_LIVE 10
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51271
+#EXTINF:-1,RMC_SPORT_LIVE 11
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51270
+#EXTINF:-1,RMC_SPORT_LIVE 12
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51269
+#EXTINF:-1, TELEFOOT HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52916
+#EXTINF:-1, TELEFOOT FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52918
+#EXTINF:-1, TELEFOOT 4K
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53043
+#EXTINF:-1, TELEFOOT STADIUM 1 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53117
+#EXTINF:-1, TELEFOOT Stadium 1 FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53125
+#EXTINF:-1, TELEFOOT STADIUM 2 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53118
+#EXTINF:-1, TELEFOOT Stadium 2 FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53126
+#EXTINF:-1, TELEFOOT STADIUM 3 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53124
+#EXTINF:-1, TELEFOOT Stadium 3 FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53127
+#EXTINF:-1, TELEFOOT STADIUM 4 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53119
+#EXTINF:-1, TELEFOOT Stadium 4 FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53128
+#EXTINF:-1, TELEFOOT STADIUM 5 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53120
+#EXTINF:-1, TELEFOOT Stadium 5 FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53129
+#EXTINF:-1, TELEFOOT STADIUM 6 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53121
+#EXTINF:-1, TELEFOOT Stadium 6 FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53130
+#EXTINF:-1, TELEFOOT STADIUM 7 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53122
+#EXTINF:-1, TELEFOOT Stadium 7 FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53131
+#EXTINF:-1, TELEFOOT STADIUM 8 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53123
+#EXTINF:-1, TELEFOOT Stadium 8 FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53132
+#EXTINF:-1,RMC_Story_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52784
+#EXTINF:-1,RMC_Decouverte_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52783
+#EXTINF:-1,BEIN_SPORT_MAX_07
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49617
+#EXTINF:-1,BEIN_SPORT_MAX_08
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49616
+#EXTINF:-1,BEIN_SPORT_MAX_09
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49615
+#EXTINF:-1,BEIN_SPORT_MAX_05
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49619
+#EXTINF:-1,BEIN_SPORT_MAX_04
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49620
+#EXTINF:-1,BEIN_SPORT_MAX_06
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49618
+#EXTINF:-1,BEIN_SPORT_MAX_10
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49614
+#EXTINF:-1,MTV_HITS_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1665
+#EXTINF:-1,LFM_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3725
+#EXTINF:-1,TRACE_AFRICA
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48790
+#EXTINF:-1,TRACE_VANILLA
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48791
+#EXTINF:-1,TRACE_URBAN
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49120
+#EXTINF:-1,TRACE_TOCA
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/118
+#EXTINF:-1, TRACE Latina
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52093
+#EXTINF:-1, TRACE GOSPEL
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52094
+#EXTINF:-1,BeIN_SPORTS_1_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/73
+#EXTINF:-1,BeIN_SPORTS_2_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/74
+#EXTINF:-1,BeIN_SPORTS_3_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52172
+#EXTINF:-1,Luxe_TV_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48560
+#EXTINF:-1,POLAR+_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48558
+#EXTINF:-1,SOUVENIRS_FROM_EARTH_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48783
+#EXTINF:-1,Clubbing_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48786
+#EXTINF:-1,Djazz_TV_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4665
+#EXTINF:-1,ALTICE_STUDIO_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50067
+#EXTINF:-1,VICELAND_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4773
+#EXTINF:-1,WARNER_TV_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49198
+#EXTINF:-1,MY_CUISINE_TV_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49200
+#EXTINF:-1,DISCOVERY_FAMILY_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49202
+#EXTINF:-1,OL_TV_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4729
+#EXTINF:-1,AB_EXPLORE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50934
+#EXTINF:-1,MOTORSPORT_TV_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48785
+#EXTINF:-1,MOTORSPORT_TV_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51663
+#EXTINF:-1,NOVELAS_TV_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51168
+#EXTINF:-1,TF1_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/95
+#EXTINF:-1,TF1_SERIES_FILMS_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50139
+#EXTINF:-1,France_02_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/98
+#EXTINF:-1,France_03_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/99
+#EXTINF:-1,France_04_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/100
+#EXTINF:-1,FRANCE_5_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1695
+#EXTINF:-1,FRANCE_O_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51043
+#EXTINF:-1,M6_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/96
+#EXTINF:-1,W9_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/107
+#EXTINF:-1,13eme_Rue_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/104
+#EXTINF:-1,RTL9_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3676
+#EXTINF:-1,TEVA_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/108
+#EXTINF:-1,TREK_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49466
+#EXTINF:-1,Syfy_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/106
+#EXTINF:-1,Action_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4555
+#EXTINF:-1,6ter_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/372
+#EXTINF:-1,C8_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4501
+#EXTINF:-1,CSTAR_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4500
+#EXTINF:-1,CANAL+_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/76
+#EXTINF:-1,Canal+_Sports_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49208
+#EXTINF:-1,CANAL+_CINEMA_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/78
+#EXTINF:-1,CANAL+_DECALE_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/77
+#EXTINF:-1,Canal+_Family_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49209
+#EXTINF:-1,CANAL+_SERIES_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/79
+#EXTINF:-1,Cine_Premier_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/85
+#EXTINF:-1,Cine_POLAR_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4548
+#EXTINF:-1,Cine_Frisson_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/86
+#EXTINF:-1,Cine_Famiz_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/83
+#EXTINF:-1,Cine_Emotion_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3332
+#EXTINF:-1,Cine_Club_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2292
+#EXTINF:-1,Cine_Classic_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48671
+#EXTINF:-1,OCS_Max_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47774
+#EXTINF:-1,OCS_GEANT_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47776
+#EXTINF:-1,OCS_City_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47777
+#EXTINF:-1,OCS_CHOC_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47779
+#EXTINF:-1,AB1_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48676
+#EXTINF:-1,AB3_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48677
+#EXTINF:-1,Arte_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48669
+#EXTINF:-1,MTV_France_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48675
+#EXTINF:-1,Disney_XD_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2451
+#EXTINF:-1,CANAL_J_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47805
+#EXTINF:-1,Boing_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48626
+#EXTINF:-1,Comedie_+_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48674
+#EXTINF:-1,Bet_Etoile_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48678
+#EXTINF:-1,DISNEY_JUNIOR_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2298
+#EXTINF:-1,Ushuaia_TV_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48680
+#EXTINF:-1,Disney_Channel_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48622
+#EXTINF:-1,Crime_District_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48673
+#EXTINF:-1,Voyage_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47759
+#EXTINF:-1,TMC_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/371
+#EXTINF:-1,TCM_Cinema_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4547
+#EXTINF:-1,SERIE_CLUB_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/105
+#EXTINF:-1,TIJI_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47798
+#EXTINF:-1,Piwi_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47793
+#EXTINF:-1,Manga_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47803
+#EXTINF:-1,Nickelodeon_4Teen_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50485
+#EXTINF:-1,GAME_ONE_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47801
+#EXTINF:-1,TOONAMI_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48782
+#EXTINF:-1,Gulli_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47800
+#EXTINF:-1,Cartoon_Network_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50952
+#EXTINF:-1,Disney_Cinema_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50937
+#EXTINF:-1,Boomerang_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48565
+#EXTINF:-1,J-ONE_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49859
+#EXTINF:-1,ELLE_GIRL_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47753
+#EXTINF:-1,Cherie_25_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3314
+#EXTINF:-1,ANIMAUX_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47758
+#EXTINF:-1,NATIONAL_GEO_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4502
+#EXTINF:-1,NATIONAL_GEO_WILD_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48679
+#EXTINF:-1,PARAMOUNT_CHANNEL_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51174
+#EXTINF:-1,PARAMOUNT_CHANNEL_DECALE_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51164
+#EXTINF:-1,TVBREIZH_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4556
+#EXTINF:-1,Planete_+_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/111
+#EXTINF:-1,PLANETE+_CI_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50482
+#EXTINF:-1,PLANETE_+_A&E_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2059
+#EXTINF:-1,DISCOVERY_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49688
+#EXTINF:-1,DISCOVERY_INVESTIGATION_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49211
+#EXTINF:-1,Discovery_Science_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49860
+#EXTINF:-1,SEASON_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50915
+#EXTINF:-1,TV5_MONDE_INFO_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49607
+#EXTINF:-1,PARIS_PREMIERE_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50440
+#EXTINF:-1,BFM_Business_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47785
+#EXTINF:-1,Science_et_Vie_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50438
+#EXTINF:-1,GOLF+_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49122
+#EXTINF:-1,Golf_Channel_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2896
+#EXTINF:-1,EQUIDIA_LIVE_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49748
+#EXTINF:-1,C_NEWS_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50857
+#EXTINF:-1,TFX_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4546
+#EXTINF:-1,NRJ_12_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49609
+#EXTINF:-1,MEZZO_LIVE_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49684
+#EXTINF:-1,Foot+ 24/24_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51647
+#EXTINF:-1,RMC_Decouvert_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/4553
+#EXTINF:-1,INFOSPORT_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50296
+#EXTINF:-1,EUROSPORT_1_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51644
+#EXTINF:-1,EUROSPORT_2_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51645
+#EXTINF:-1,BFM_PARIS_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52223
+#EXTINF:-1,Weo_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49158
+#EXTINF:-1,E!_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52238
+#EXTINF:-1,CANAL_ALPHA_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52490
+#EXTINF:-1,ALTICE_STUDIO_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48559
+#EXTINF:-1,L_EQUIPE_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52720
+#EXTINF:-1,TOUTE_L'HISTOIRE_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52777
+#EXTINF:-1,CHASSE_ET_PECHE_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52778
+#EXTINF:-1,M6_MUSIC_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52779
+#EXTINF:-1,LCI_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52780
+#EXTINF:-1,NICKELODEON_JUNIOR_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52781
+#EXTINF:-1,NICKELODEON_H265
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52782
+#EXTINF:-1,BRAVA_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49271
+#EXTINF:-1,FASHION_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49265
+#EXTINF:-1,FASHION_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49707
+#EXTINF:-1,E!_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49266
+#EXTINF:-1,HIT:TV_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49258
+#EXTINF:-1,KTO_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49257
+#EXTINF:-1,LCP_ASSEMBLEE_NATIONALE
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49254
+#EXTINF:-1,LUCKY_JACK_TV_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49255
+#EXTINF:-1,AUTOMOTO_LA_CHAINE_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49262
+#EXTINF:-1,VOSGES_TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49261
+#EXTINF:-1,OUATCH_TV_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49705
+#EXTINF:-1,SUNDANCE_FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50059
 #EXTINF:-1,LCI
-http://hd.waldi2017.com:2082/110023041214988/81515121/15466
-#EXTINF:-1,Lcp
-http://hd.waldi2017.com:2082/110023041214988/81515121/30348
-#EXTINF:-1,La chaine meteo
-http://hd.waldi2017.com:2082/110023041214988/81515121/77912
-#EXTINF:-1,M6 Music
-http://hd.waldi2017.com:2082/110023041214988/81515121/3042
-#EXTINF:-1,Mezzo
-http://hd.waldi2017.com:2082/110023041214988/81515121/42381
-#EXTINF:-1,MTV
-http://hd.waldi2017.com:2082/110023041214988/81515121/7628
-#EXTINF:-1,MTV HITS
-http://hd.waldi2017.com:2082/110023041214988/81515121/12656
-#EXTINF:-1,MTV CLUB
-http://hd.waldi2017.com:2082/110023041214988/81515121/42382
-#EXTINF:-1,MCM
-http://hd.waldi2017.com:2082/110023041214988/81515121/42380
-#EXTINF:-1,MCM Top
-http://hd.waldi2017.com:2082/110023041214988/81515121/7614
-#EXTINF:-1,Mezzo Live
-http://hd.waldi2017.com:2082/110023041214988/81515121/7612
-#EXTINF:-1,My Comedy
-http://hd.waldi2017.com:2082/110023041214988/81515121/12767
-#EXTINF:-1,Melody 
-http://hd.waldi2017.com:2082/110023041214988/81515121/75039
-#EXTINF:-1,FASHION 
-http://hd.waldi2017.com:2082/110023041214988/81515121/75148
-#EXTINF:-1,NOVELAS
-http://hd.waldi2017.com:2082/110023041214988/81515121/74973
-#EXTINF:-1,One tv
-http://hd.waldi2017.com:2082/110023041214988/81515121/74119
-#EXTINF:-1,Nat Geo Wild
-http://hd.waldi2017.com:2082/110023041214988/81515121/157
-#EXTINF:-1,Nat Geo HD
-http://hd.waldi2017.com:2082/110023041214988/81515121/158
-#EXTINF:-1,NRJ 12
-http://hd.waldi2017.com:2082/110023041214988/81515121/27
-#EXTINF:-1,NRJ Hits
-http://hd.waldi2017.com:2082/110023041214988/81515121/306
-#EXTINF:-1,OCS Choc
-http://hd.waldi2017.com:2082/110023041214988/81515121/676
-#EXTINF:-1,OCS City
-http://hd.waldi2017.com:2082/110023041214988/81515121/160
-#EXTINF:-1,OCS Geants
-http://hd.waldi2017.com:2082/110023041214988/81515121/675
-#EXTINF:-1,OCS Max
-http://hd.waldi2017.com:2082/110023041214988/81515121/159
-#EXTINF:-1,Paramount Channel
-http://hd.waldi2017.com:2082/110023041214988/81515121/677
-#EXTINF:-1,Paramount Decale
-http://hd.waldi2017.com:2082/110023041214988/81515121/30301
-#EXTINF:-1,Paris Premiere
-http://hd.waldi2017.com:2082/110023041214988/81515121/28
-#EXTINF:-1,Planete+
-http://hd.waldi2017.com:2082/110023041214988/81515121/673
-#EXTINF:-1,Planete+ AE
-http://hd.waldi2017.com:2082/110023041214988/81515121/672
-#EXTINF:-1,Planete+ crime
-http://hd.waldi2017.com:2082/110023041214988/81515121/674
-#EXTINF:-1,Rouge tv
-http://hd.waldi2017.com:2082/110023041214988/81515121/23186
-#EXTINF:-1,RT france
-http://hd.waldi2017.com:2082/110023041214988/81515121/16212
-#EXTINF:-1,Science Vie
-http://hd.waldi2017.com:2082/110023041214988/81515121/330
-#EXTINF:-1,Seasons
-http://hd.waldi2017.com:2082/110023041214988/81515121/981
-#EXTINF:-1,Serie Club
-http://hd.waldi2017.com:2082/110023041214988/81515121/446
-#EXTINF:-1,Syfy
-http://hd.waldi2017.com:2082/110023041214988/81515121/798
-#EXTINF:-1,Teva
-http://hd.waldi2017.com:2082/110023041214988/81515121/31
-#EXTINF:-1,Trek
-http://hd.waldi2017.com:2082/110023041214988/81515121/42384
-#EXTINF:-1,Vosges tv
-http://hd.waldi2017.com:2082/110023041214988/81515121/74796
-#EXTINF:-1,A+
-http://hd.waldi2017.com:2082/110023041214988/81515121/74118
-#EXTINF:-1,Viceland
-http://hd.waldi2017.com:2082/110023041214988/81515121/71383
-#EXTINF:-1,TMC
-http://hd.waldi2017.com:2082/110023041214988/81515121/15
-#EXTINF:-1,Toute lhistoire
-http://hd.waldi2017.com:2082/110023041214988/81515121/154
-#EXTINF:-1,Trace Urban
-http://hd.waldi2017.com:2082/110023041214988/81515121/34
-#EXTINF:-1,TV 7
-http://hd.waldi2017.com:2082/110023041214988/81515121/15603
-#EXTINF:-1,LEquipe 21
-http://hd.waldi2017.com:2082/110023041214988/81515121/32
-#EXTINF:-1,TV5MONDE
-http://hd.waldi2017.com:2082/110023041214988/81515121/3401
-#EXTINF:-1,TvBreizh
-http://hd.waldi2017.com:2082/110023041214988/81515121/23
-#EXTINF:-1,Tvpi
-http://hd.waldi2017.com:2082/110023041214988/81515121/23185
-#EXTINF:-1,Ushuaia TV
-http://hd.waldi2017.com:2082/110023041214988/81515121/443
-#EXTINF:-1,Voyage
-http://hd.waldi2017.com:2082/110023041214988/81515121/329
-#EXTINF:-1,Warner TV
-http://hd.waldi2017.com:2082/110023041214988/81515121/12312
-#EXTINF:-1,Weo TV
-http://hd.waldi2017.com:2082/110023041214988/81515121/7625
-#EXTINF:-1,6TER FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/71288
-#EXTINF:-1,13eme Rue FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15524
-#EXTINF:-1,AB1 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15526
-#EXTINF:-1,Action FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15528
-#EXTINF:-1,Altice studio FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15490
-#EXTINF:-1,Animaux FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15529
-#EXTINF:-1,BET France FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15566
-#EXTINF:-1,BFM FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/71467
-#EXTINF:-1,C8 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15533
-#EXTINF:-1,Canal + FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15537
-#EXTINF:-1,Canal Cinema FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15534
-#EXTINF:-1,Canal Decale FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15535
-#EXTINF:-1,Canal Family FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15536
-#EXTINF:-1,Canal Series FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15538
-#EXTINF:-1,Canal Sport FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15539
-#EXTINF:-1,Chasse ET Peche FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15541
-#EXTINF:-1,Cherie 25 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15542
-#EXTINF:-1,Cine Classic FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15543
-#EXTINF:-1,Cine Club FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15544
-#EXTINF:-1,Cine Emotion FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15545
-#EXTINF:-1,Cine Famiz FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15546
-#EXTINF:-1,Cine Frisson FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15547
-#EXTINF:-1,Cine Premier FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15548
-#EXTINF:-1,Comedie + FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15549
-#EXTINF:-1,CNews FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/75032
-#EXTINF:-1, CSTAR FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/71468
-#EXTINF:-1,Crime District FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15550
-#EXTINF:-1,Discovery Channel FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15551
-#EXTINF:-1,Discovery Science FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15552
-#EXTINF:-1,DISCOVERY FAMILY FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/75145
-#EXTINF:-1,Discvery  INVES FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/75035
-#EXTINF:-1,E! Entertainment FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15553
-#EXTINF:-1,Eurosport 1 France FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15555
-#EXTINF:-1,Eurosport 2 France FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15556
-#EXTINF:-1,Equidia Live FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15554
-#EXTINF:-1,France 2 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15559
-#EXTINF:-1,France 3 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15561
-#EXTINF:-1,France 4 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15562
-#EXTINF:-1,France 5 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15563
-#EXTINF:-1,Golf+ FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/26135
-#EXTINF:-1,Histoire FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15564
-#EXTINF:-1,Infosport FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15565
-#EXTINF:-1,J-ONE FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74799
-#EXTINF:-1,LCI FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/75033
-#EXTINF:-1,L'equipe 21 TV FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15567
-#EXTINF:-1,M6 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/12756
-#EXTINF:-1,MELODY FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/75146
-#EXTINF:-1,MTV HITS FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/75028
-#EXTINF:-1,MCM FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/71471
-#EXTINF:-1,MTV FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/71349
-#EXTINF:-1,Nat Geo Wild FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15568
-#EXTINF:-1,National Geographic FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15569
-#EXTINF:-1,NOVELAS TV FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/75147
-#EXTINF:-1,NRJ 12 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/75030
-#EXTINF:-1,RMC Decouvert FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/71472
-#EXTINF:-1,RMC STORY FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/71350
-#EXTINF:-1,OCS CHOC FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15572
-#EXTINF:-1,OCS City FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15573
-#EXTINF:-1,OCS Geants FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15574
-#EXTINF:-1,OCS Max FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15575
-#EXTINF:-1,Paramount Channel FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15576
-#EXTINF:-1,Paris Premiere FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15577
-#EXTINF:-1,Planete AE FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15578
-#EXTINF:-1,Planete FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15580
-#EXTINF:-1,Planete CI FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15579
-#EXTINF:-1,POLAR+ FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31417
-#EXTINF:-1,RTL 9 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15581
-#EXTINF:-1,Science Vie FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15582
-#EXTINF:-1,Seasons FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15583
-#EXTINF:-1,SyFy Universal FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15584
-#EXTINF:-1,Teva FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15587
-#EXTINF:-1,TF1 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/12764
-#EXTINF:-1,TFX FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15570
-#EXTINF:-1,TMC FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15588
-#EXTINF:-1,TF1 Series Films FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15592
-#EXTINF:-1,TOUTE l'HISTOIRE FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15595
-#EXTINF:-1,TV Breizh FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15590
-#EXTINF:-1,TV5 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74823
-#EXTINF:-1,TCM Cinema FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15586
-#EXTINF:-1,Ushuaia TV FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15591
-#EXTINF:-1,Voyage FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15593
-#EXTINF:-1,W9 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15594
-#EXTINF:-1,Canal motor
-http://hd.waldi2017.com:2082/110023041214988/81515121/74826
-#EXTINF:-1,BeIN SPORTS 1
-http://hd.waldi2017.com:2082/110023041214988/81515121/37
-#EXTINF:-1,BEIN SPORT 1 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/14278
-#EXTINF:-1,BeIN SPORTS 2
-http://hd.waldi2017.com:2082/110023041214988/81515121/38
-#EXTINF:-1,BEINSPORT 2 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74876
-#EXTINF:-1,BEIN SPORT 2 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15531
-#EXTINF:-1,BeIN SPORTS 3
-http://hd.waldi2017.com:2082/110023041214988/81515121/39
-#EXTINF:-1,BEINSPORT 3 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/32904
-#EXTINF:-1,BEIN SPORT 3 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15532
-#EXTINF:-1,BeIN SPORTS MAX 4
-http://hd.waldi2017.com:2082/110023041214988/81515121/40
-#EXTINF:-1,BeIN SPORTS MAX 5
-http://hd.waldi2017.com:2082/110023041214988/81515121/41
-#EXTINF:-1,BeIN SPORTS MAX 6
-http://hd.waldi2017.com:2082/110023041214988/81515121/3189
-#EXTINF:-1,BeIN SPORTS MAX 7
-http://hd.waldi2017.com:2082/110023041214988/81515121/3188
-#EXTINF:-1,BeIN SPORTS MAX 8
-http://hd.waldi2017.com:2082/110023041214988/81515121/3187
-#EXTINF:-1,BEINSPORT MAX 9
-http://hd.waldi2017.com:2082/110023041214988/81515121/31826
-#EXTINF:-1,BEINSPORT MAX 10
-http://hd.waldi2017.com:2082/110023041214988/81515121/31825
-#EXTINF:-1,Canal+Sport
-http://hd.waldi2017.com:2082/110023041214988/81515121/33
-#EXTINF:-1,Eurosport 1
-http://hd.waldi2017.com:2082/110023041214988/81515121/165
-#EXTINF:-1,Eurosport 2
-http://hd.waldi2017.com:2082/110023041214988/81515121/166
-#EXTINF:-1,Foot+ 24/24
-http://hd.waldi2017.com:2082/110023041214988/81515121/448
-#EXTINF:-1,Golf channel
-http://hd.waldi2017.com:2082/110023041214988/81515121/10415
-#EXTINF:-1,Infosport Plus
-http://hd.waldi2017.com:2082/110023041214988/81515121/167
-#EXTINF:-1,Equidia Life
-http://hd.waldi2017.com:2082/110023041214988/81515121/3638
-#EXTINF:-1,Golf+
-http://hd.waldi2017.com:2082/110023041214988/81515121/690
-#EXTINF:-1,Extreme Sports
-http://hd.waldi2017.com:2082/110023041214988/81515121/12699
-#EXTINF:-1,Motor sport
-http://hd.waldi2017.com:2082/110023041214988/81515121/15465
-#EXTINF:-1,RMC talk sport
-http://hd.waldi2017.com:2082/110023041214988/81515121/42385
-#EXTINF:-1,RMC Sport 1
-http://hd.waldi2017.com:2082/110023041214988/81515121/434
-#EXTINF:-1,RMC SPORT 1 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15596
-#EXTINF:-1,RMC Sport 2
-http://hd.waldi2017.com:2082/110023041214988/81515121/451
-#EXTINF:-1,RMC SPORT 2 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15597
-#EXTINF:-1,RMC Sport 3
-http://hd.waldi2017.com:2082/110023041214988/81515121/435
-#EXTINF:-1,RMC SPORT 3 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15598
-#EXTINF:-1,RMC Sport 4
-http://hd.waldi2017.com:2082/110023041214988/81515121/450
-#EXTINF:-1,RMC SPORT 4 FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15599
-#EXTINF:-1,RMC SPORT LIVE 5
-http://hd.waldi2017.com:2082/110023041214988/81515121/33050
-#EXTINF:-1,RMC SPORT LIVE 6
-http://hd.waldi2017.com:2082/110023041214988/81515121/33051
-#EXTINF:-1,RMC SPORT LIVE 7
-http://hd.waldi2017.com:2082/110023041214988/81515121/33052
-#EXTINF:-1,RMC SPORT LIVE 8
-http://hd.waldi2017.com:2082/110023041214988/81515121/33053
-#EXTINF:-1,RMC SPORT LIVE 9
-http://hd.waldi2017.com:2082/110023041214988/81515121/33054
-#EXTINF:-1,RMC SPORT LIVE 12
-http://hd.waldi2017.com:2082/110023041214988/81515121/33057
-#EXTINF:-1,RMC SPORT LIVE 13
-http://hd.waldi2017.com:2082/110023041214988/81515121/33058
-#EXTINF:-1,MULTISPORT 1
-http://hd.waldi2017.com:2082/110023041214988/81515121/76013
-#EXTINF:-1,MULTISPORT 2
-http://hd.waldi2017.com:2082/110023041214988/81515121/76014
-#EXTINF:-1,MULTISPORT3
-http://hd.waldi2017.com:2082/110023041214988/81515121/71487
-#EXTINF:-1,MULTISPORT  4
-http://hd.waldi2017.com:2082/110023041214988/81515121/76017
-#EXTINF:-1,MULTISPORT 5
-http://hd.waldi2017.com:2082/110023041214988/81515121/76015
-#EXTINF:-1,MULTISPORT 6
-http://hd.waldi2017.com:2082/110023041214988/81515121/76016
-#EXTINF:-1,6TER SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31177
-#EXTINF:-1,ANIMAUX SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31202
-#EXTINF:-1,Action SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31422
-#EXTINF:-1,CANAL+ SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31182
-#EXTINF:-1,CANAL+ CINEMA SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31183
-#EXTINF:-1, Canal+Decale SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31954
-#EXTINF:-1,Canal+ Family sd
-http://hd.waldi2017.com:2082/110023041214988/81515121/31187
-#EXTINF:-1,CINE EMOTION SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31184
-#EXTINF:-1,CINE FAMIZ SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31185
-#EXTINF:-1,CINE FRISSON SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31186
-#EXTINF:-1,CHERIE 25 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31188
-#EXTINF:-1,C8 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31425
-#EXTINF:-1,FRANCE 2 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31413
-#EXTINF:-1,FRANCE 3 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31172
-#EXTINF:-1,FRANCE 4 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31173
-#EXTINF:-1,FRANCE 5 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31174
-#EXTINF:-1,FRANCE O SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31175
-#EXTINF:-1,BFM TV SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31181
-#EXTINF:-1,GULLI SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31203
-#EXTINF:-1,GAME ONE SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31205
-#EXTINF:-1,M6 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31176
-#EXTINF:-1,MANGAS SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31204
-#EXTINF:-1,NRJ 12 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31189
-#EXTINF:-1,Nat Geo WILD SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31200
-#EXTINF:-1,Nat Geo SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31201
-#EXTINF:-1,PARIS PREMIERE SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31180
-#EXTINF:-1,PLANETE+ SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31196
-#EXTINF:-1,PLANETE AE SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31197
-#EXTINF:-1,PLANETE CI SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31198
-#EXTINF:-1,RMC Story SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31178
-#EXTINF:-1,COMEDIE+ SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74972
-#EXTINF:-1,CINE-CLUB SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74869
-#EXTINF:-1,CINE-CLASSIC SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74868
-#EXTINF:-1,TV5 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74815
-#EXTINF:-1,SERIES CLUB SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74801
-#EXTINF:-1,CSTAR SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74722
-#EXTINF:-1,TV BREIZH SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/74721
-#EXTINF:-1,RTL9 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31952
-#EXTINF:-1,TIJI SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31206
-#EXTINF:-1,TF1 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31412
-#EXTINF:-1,TFX SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31414
-#EXTINF:-1,FR : TMC SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31423
-#EXTINF:-1,Teva Sd
-http://hd.waldi2017.com:2082/110023041214988/81515121/31953
-#EXTINF:-1,USHUAIA SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31199
-#EXTINF:-1,W9 SD
-http://hd.waldi2017.com:2082/110023041214988/81515121/31190
-#EXTINF:-1,Barbie movies
-http://hd.waldi2017.com:2082/110023041214988/81515121/21287
-#EXTINF:-1,Piwi+
-http://hd.waldi2017.com:2082/110023041214988/81515121/36
-#EXTINF:-1,TIJI
-http://hd.waldi2017.com:2082/110023041214988/81515121/35
-#EXTINF:-1,Gulli
-http://hd.waldi2017.com:2082/110023041214988/81515121/17
-#EXTINF:-1,Nickelodeon
-http://hd.waldi2017.com:2082/110023041214988/81515121/316
-#EXTINF:-1,Nickelodeon Junior
-http://hd.waldi2017.com:2082/110023041214988/81515121/4249
-#EXTINF:-1,Nickelodeon +1
-http://hd.waldi2017.com:2082/110023041214988/81515121/23920
-#EXTINF:-1,Boomerang
-http://hd.waldi2017.com:2082/110023041214988/81515121/3700
-#EXTINF:-1,J-one
-http://hd.waldi2017.com:2082/110023041214988/81515121/21832
-#EXTINF:-1,Mangas
-http://hd.waldi2017.com:2082/110023041214988/81515121/170
-#EXTINF:-1,Baby tv
-http://hd.waldi2017.com:2082/110023041214988/81515121/15600
-#EXTINF:-1,Disney Channel
-http://hd.waldi2017.com:2082/110023041214988/81515121/320
-#EXTINF:-1,Disney +
-http://hd.waldi2017.com:2082/110023041214988/81515121/321
-#EXTINF:-1,Disney Junior
-http://hd.waldi2017.com:2082/110023041214988/81515121/679
-#EXTINF:-1,Cartoon Network FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/15540
-#EXTINF:-1,Teletoon +
-http://hd.waldi2017.com:2082/110023041214988/81515121/15585
-#EXTINF:-1,Toonami
-http://hd.waldi2017.com:2082/110023041214988/81515121/7623
-#EXTINF:-1,Nickelodeon Teen
-http://hd.waldi2017.com:2082/110023041214988/81515121/3290
-#EXTINF:-1,Game One
-http://hd.waldi2017.com:2082/110023041214988/81515121/678
-#EXTINF:-1,Boeing
-http://hd.waldi2017.com:2082/110023041214988/81515121/152
-#EXTINF:-1,Canal play 1
-http://hd.waldi2017.com:2082/110023041214988/81515121/9819
-#EXTINF:-1,Canal play 2
-http://hd.waldi2017.com:2082/110023041214988/81515121/9818
-#EXTINF:-1,Canal play 3
-http://hd.waldi2017.com:2082/110023041214988/81515121/9817
-#EXTINF:-1,Canal play 4
-http://hd.waldi2017.com:2082/110023041214988/81515121/3646
-#EXTINF:-1,Canal play 5
-http://hd.waldi2017.com:2082/110023041214988/81515121/3404
-#EXTINF:-1,Canal play 6
-http://hd.waldi2017.com:2082/110023041214988/81515121/3389
-#EXTINF:-1,Canal play 7
-http://hd.waldi2017.com:2082/110023041214988/81515121/3643
-#EXTINF:-1,Canal play 8
-http://hd.waldi2017.com:2082/110023041214988/81515121/3642
-#EXTINF:-1,Canal play 9
-http://hd.waldi2017.com:2082/110023041214988/81515121/3641
-#EXTINF:-1,Canal play 10
-http://hd.waldi2017.com:2082/110023041214988/81515121/3640
-#EXTINF:-1,BOSS MOVIES 1
-http://hd.waldi2017.com:2082/110023041214988/81515121/25463
-#EXTINF:-1,BOSS MOVIES 2
-http://hd.waldi2017.com:2082/110023041214988/81515121/25464
-#EXTINF:-1,BOSS MOVIES 3
-http://hd.waldi2017.com:2082/110023041214988/81515121/25465
-#EXTINF:-1,BOSS MOVIES 4
-http://hd.waldi2017.com:2082/110023041214988/81515121/25466
-#EXTINF:-1,BOSS MOVIES 5
-http://hd.waldi2017.com:2082/110023041214988/81515121/25467
-#EXTINF:-1,BOSS MOVIES 6
-http://hd.waldi2017.com:2082/110023041214988/81515121/25468
-#EXTINF:-1,BOSS MOVIES 7
-http://hd.waldi2017.com:2082/110023041214988/81515121/25469
-#EXTINF:-1,BOSS MOVIES 8
-http://hd.waldi2017.com:2082/110023041214988/81515121/25470
-#EXTINF:-1,BOSS MOVIES 9
-http://hd.waldi2017.com:2082/110023041214988/81515121/25471
-#EXTINF:-1,A la carte 1
-http://hd.waldi2017.com:2082/110023041214988/81515121/42412
-#EXTINF:-1,A la carte 2
-http://hd.waldi2017.com:2082/110023041214988/81515121/42413
-#EXTINF:-1,A la carte 3
-http://hd.waldi2017.com:2082/110023041214988/81515121/42414
-#EXTINF:-1,A la carte 4
-http://hd.waldi2017.com:2082/110023041214988/81515121/42415
-#EXTINF:-1,A la carte 5
-http://hd.waldi2017.com:2082/110023041214988/81515121/42416
-#EXTINF:-1,A la carte 6
-http://hd.waldi2017.com:2082/110023041214988/81515121/42417
-#EXTINF:-1,A la carte 7
-http://hd.waldi2017.com:2082/110023041214988/81515121/42418
-#EXTINF:-1,A la carte 8
-http://hd.waldi2017.com:2082/110023041214988/81515121/42419
-#EXTINF:-1,A la carte 9
-http://hd.waldi2017.com:2082/110023041214988/81515121/42420
-#EXTINF:-1,A la carte 10
-http://hd.waldi2017.com:2082/110023041214988/81515121/42421
-#EXTINF:-1,A la carte 11
-http://hd.waldi2017.com:2082/110023041214988/81515121/42422
-#EXTINF:-1,A la carte 12
-http://hd.waldi2017.com:2082/110023041214988/81515121/42423
-#EXTINF:-1,A la carte 13
-http://hd.waldi2017.com:2082/110023041214988/81515121/42424
-#EXTINF:-1,A la carte 14
-http://hd.waldi2017.com:2082/110023041214988/81515121/42425
-#EXTINF:-1,A la carte 15
-http://hd.waldi2017.com:2082/110023041214988/81515121/42426
-#EXTINF:-1,A la carte 16
-http://hd.waldi2017.com:2082/110023041214988/81515121/42427
-#EXTINF:-1,A la carte 17
-http://hd.waldi2017.com:2082/110023041214988/81515121/42428
-#EXTINF:-1,A la carte 18
-http://hd.waldi2017.com:2082/110023041214988/81515121/42429
-#EXTINF:-1,A la carte 19
-http://hd.waldi2017.com:2082/110023041214988/81515121/42430
-#EXTINF:-1,A la carte 20
-http://hd.waldi2017.com:2082/110023041214988/81515121/42431
-#EXTINF:-1,A la carte 21
-http://hd.waldi2017.com:2082/110023041214988/81515121/42405
-#EXTINF:-1,A la carte 22
-http://hd.waldi2017.com:2082/110023041214988/81515121/42407
-#EXTINF:-1,A la carte 23
-http://hd.waldi2017.com:2082/110023041214988/81515121/42406
-#EXTINF:-1,A la carte 24
-http://hd.waldi2017.com:2082/110023041214988/81515121/42408
-#EXTINF:-1,A la carte 25
-http://hd.waldi2017.com:2082/110023041214988/81515121/42409
-#EXTINF:-1,A la carte 26
-http://hd.waldi2017.com:2082/110023041214988/81515121/42410
-#EXTINF:-1,A la carte 27
-http://hd.waldi2017.com:2082/110023041214988/81515121/42411
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50065
+#EXTINF:-1,C_NEWS_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50066
+#EXTINF:-1,ROUGE_TV_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50163
+#EXTINF:-1,TV7
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50165
+#EXTINF:-1,TV8_MONT_BLANC_HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51613
+#EXTINF:-1,LA_TELE_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51608
