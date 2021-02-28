@@ -1,379 +1,115 @@
 #EXTM3U
-#EXTINF:-1,BBC One HD
-http://media-kings.xyz:8080/tek1/tek1/31136
-#EXTINF:-1,BBC One HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54408
-#EXTINF:-1,BBC 2 HD
-http://media-kings.xyz:8080/tek1/tek1/31033
-#EXTINF:-1,BBC 2 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54409
-#EXTINF:-1,BBC Three HD
-http://media-kings.xyz:8080/tek1/tek1/31114
-#EXTINF:-1,BBC Parliament HD
-http://media-kings.xyz:8080/tek1/tek1/31112
-#EXTINF:-1,BBC Entertainment HD
-http://media-kings.xyz:8080/tek1/tek1/31111
-#EXTINF:-1,BBC Earth HD
-http://media-kings.xyz:8080/tek1/tek1/43234
-#EXTINF:-1, BBC Four HD
-http://media-kings.xyz:8080/tek1/tek1/57
-#EXTINF:-1,ITV 1 HD
-http://media-kings.xyz:8080/tek1/tek1/90
-#EXTINF:-1,ITV 1 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54410
-#EXTINF:-1,ITV 2 HD
-http://media-kings.xyz:8080/tek1/tek1/91
-#EXTINF:-1,ITV 2 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54411
-#EXTINF:-1,ITV 3 HD
-http://media-kings.xyz:8080/tek1/tek1/92
-#EXTINF:-1,ITV 3 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54412
-#EXTINF:-1,ITV 4 HD
-http://media-kings.xyz:8080/tek1/tek1/93
-#EXTINF:-1,ITV 4 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54413
-#EXTINF:-1,ITVBe HD
-http://media-kings.xyz:8080/tek1/tek1/94
-#EXTINF:-1,Channel 4 HD
-http://media-kings.xyz:8080/tek1/tek1/70
-#EXTINF:-1,Channel 4 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54414
-#EXTINF:-1,4 Seven HD
-http://media-kings.xyz:8080/tek1/tek1/46
-#EXTINF:-1,4 Seven HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54416
-#EXTINF:-1,More 4 HD
-http://media-kings.xyz:8080/tek1/tek1/97
-#EXTINF:-1,More 4 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54417
-#EXTINF:-1,E4 HD
-http://media-kings.xyz:8080/tek1/tek1/81
-#EXTINF:-1,E4 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54430
-#EXTINF:-1,Film 4 HD
-http://media-kings.xyz:8080/tek1/tek1/31048
-#EXTINF:-1,Film 4 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54418
-#EXTINF:-1,Channel 5 HD
-http://media-kings.xyz:8080/tek1/tek1/115
-#EXTINF:-1,Channel 5 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54419
-#EXTINF:-1,5 Star HD
-http://media-kings.xyz:8080/tek1/tek1/86
-#EXTINF:-1,5 Star HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54420
-#EXTINF:-1,5 USA HD
-http://media-kings.xyz:8080/tek1/tek1/31101
-#EXTINF:-1,5 USA HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54421
-#EXTINF:-1,Alibi HD
-http://media-kings.xyz:8080/tek1/tek1/109
-#EXTINF:-1,Alibi HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54422
-#EXTINF:-1,Bet HD
-http://media-kings.xyz:8080/tek1/tek1/110
-#EXTINF:-1,Bet HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54423
-#EXTINF:-1, Blaze HD
-http://media-kings.xyz:8080/tek1/tek1/107
-#EXTINF:-1,CBBC HD
-http://media-kings.xyz:8080/tek1/tek1/36914
-#EXTINF:-1, CBS Drama HD
-http://media-kings.xyz:8080/tek1/tek1/67
-#EXTINF:-1,CBS Justice HD
-http://media-kings.xyz:8080/tek1/tek1/111
-#EXTINF:-1,CBS Reality HD
-http://media-kings.xyz:8080/tek1/tek1/113
-#EXTINF:-1, Challenge HD
-http://media-kings.xyz:8080/tek1/tek1/105
-#EXTINF:-1,Challenge HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54424
-#EXTINF:-1,CNBC HD
-http://media-kings.xyz:8080/tek1/tek1/23269
-#EXTINF:-1,Comedy Central HD
-http://media-kings.xyz:8080/tek1/tek1/62
-#EXTINF:-1,Comedy Central HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54425
-#EXTINF:-1,Comedy Central Extra HD
-http://media-kings.xyz:8080/tek1/tek1/54426
-#EXTINF:-1,Crime & Investigation HD BACKUO
-http://media-kings.xyz:8080/tek1/tek1/54453
-#EXTINF:-1,Dave HD
-http://media-kings.xyz:8080/tek1/tek1/74
-#EXTINF:-1,Dave HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54427
-#EXTINF:-1,Disney Channel HD
-http://media-kings.xyz:8080/tek1/tek1/36916
-#EXTINF:-1,Disney Junior HD
-http://media-kings.xyz:8080/tek1/tek1/36917
-#EXTINF:-1,DMAX HD
-http://media-kings.xyz:8080/tek1/tek1/65
-#EXTINF:-1,Drama HD
-http://media-kings.xyz:8080/tek1/tek1/66
-#EXTINF:-1,Drama HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54428
-#EXTINF:-1,E! Entertainment HD
-http://media-kings.xyz:8080/tek1/tek1/119
-#EXTINF:-1,E! Entertainment HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54429
-#EXTINF:-1,Eden HD
-http://media-kings.xyz:8080/tek1/tek1/63
-#EXTINF:-1,Eden HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54431
-#EXTINF:-1,Food Network HD
-http://media-kings.xyz:8080/tek1/tek1/124
-#EXTINF:-1,Fox HD
-http://media-kings.xyz:8080/tek1/tek1/31052
-#EXTINF:-1,Gold HD
-http://media-kings.xyz:8080/tek1/tek1/125
-#EXTINF:-1,Gold HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54432
-#EXTINF:-1,HGTV HD
-http://media-kings.xyz:8080/tek1/tek1/170324
-#EXTINF:-1,Home HD
-http://media-kings.xyz:8080/tek1/tek1/31148
-#EXTINF:-1,Horror Channel HD
-http://media-kings.xyz:8080/tek1/tek1/127
-#EXTINF:-1,Insight TV HD
-http://media-kings.xyz:8080/tek1/tek1/128
-#EXTINF:-1,MTV HD
-http://media-kings.xyz:8080/tek1/tek1/31163
-#EXTINF:-1,MTV Base HD
-http://media-kings.xyz:8080/tek1/tek1/31165
-#EXTINF:-1,MTV Classic HD
-http://media-kings.xyz:8080/tek1/tek1/31167
-#EXTINF:-1,MTV Hits HD
-http://media-kings.xyz:8080/tek1/tek1/31169
-#EXTINF:-1,MTV Music HD
-http://media-kings.xyz:8080/tek1/tek1/31171
-#EXTINF:-1,MTV Rocks HD
-http://media-kings.xyz:8080/tek1/tek1/31172
-#EXTINF:-1,MTV One HD
-http://media-kings.xyz:8080/tek1/tek1/45292
-#EXTINF:-1,Keep It Country TV HD
-http://media-kings.xyz:8080/tek1/tek1/31040
-#EXTINF:-1,Clubland TV HD
-http://media-kings.xyz:8080/tek1/tek1/45306
-#EXTINF:-1,Kiss TV HD
-http://media-kings.xyz:8080/tek1/tek1/45280
-#EXTINF:-1,The Box HD
-http://media-kings.xyz:8080/tek1/tek1/45295
-#EXTINF:-1,Box Hits HD
-http://media-kings.xyz:8080/tek1/tek1/45297
-#EXTINF:-1,NOW 80's
-http://media-kings.xyz:8080/tek1/tek1/45299
-#EXTINF:-1,Now 90's HD
-http://media-kings.xyz:8080/tek1/tek1/45300
-#EXTINF:-1,Trace Vault HD
-http://media-kings.xyz:8080/tek1/tek1/45294
-#EXTINF:-1,Lifetime HD
-http://media-kings.xyz:8080/tek1/tek1/129
-#EXTINF:-1,Lifetime HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54433
-#EXTINF:-1,London Live HD
-http://media-kings.xyz:8080/tek1/tek1/31159
-#EXTINF:-1,Paramount HD
-http://media-kings.xyz:8080/tek1/tek1/100
-#EXTINF:-1,Pick TV HD
-http://media-kings.xyz:8080/tek1/tek1/98
-#EXTINF:-1,Magic TV HD
-http://media-kings.xyz:8080/tek1/tek1/31161
-#EXTINF:-1,Nickelodeon HD
-http://media-kings.xyz:8080/tek1/tek1/33913
-#EXTINF:-1,Pop HD
-http://media-kings.xyz:8080/tek1/tek1/37678
-#EXTINF:-1,POP Max HD
-http://media-kings.xyz:8080/tek1/tek1/103
-#EXTINF:-1,Quest HD
-http://media-kings.xyz:8080/tek1/tek1/101
-#EXTINF:-1,QUEST HD(BACKUP)
-http://media-kings.xyz:8080/tek1/tek1/140482
-#EXTINF:-1,Quest Red HD
-http://media-kings.xyz:8080/tek1/tek1/130
-#EXTINF:-1,QVC HD
-http://media-kings.xyz:8080/tek1/tek1/31184
-#EXTINF:-1,QVC Extra HD
-http://media-kings.xyz:8080/tek1/tek1/31186
-#EXTINF:-1,QVC Style HD
-http://media-kings.xyz:8080/tek1/tek1/31188
-#EXTINF:-1,QVC Beauty HD
-http://media-kings.xyz:8080/tek1/tek1/31185
-#EXTINF:-1,AMC HD
-http://media-kings.xyz:8080/tek1/tek1/31109
-#EXTINF:-1,Sky One HD 
-http://media-kings.xyz:8080/tek1/tek1/76
-#EXTINF:-1,Sky One HD Backup
-http://media-kings.xyz:8080/tek1/tek1/101039
-#EXTINF:-1,Sky Atlantic HD
-http://media-kings.xyz:8080/tek1/tek1/84
-#EXTINF:-1,Sky Atlantic HD Backup
-http://media-kings.xyz:8080/tek1/tek1/54441
-#EXTINF:-1,Sky Arts HD
-http://media-kings.xyz:8080/tek1/tek1/78
-#EXTINF:-1,Sky Arts HD Backup
-http://media-kings.xyz:8080/tek1/tek1/54436
-#EXTINF:-1,Sky Comedy FHD
-http://media-kings.xyz:8080/tek1/tek1/141445
-#EXTINF:-1,Sky Comedy HD
-http://media-kings.xyz:8080/tek1/tek1/141444
-#EXTINF:-1,Sky Replay HD
-http://media-kings.xyz:8080/tek1/tek1/77
-#EXTINF:-1,Sky Replay HD Backup (Coming Soon)
-http://media-kings.xyz:8080/tek1/tek1/54435
-#EXTINF:-1,Sky Witness HD 
-http://media-kings.xyz:8080/tek1/tek1/140481
-#EXTINF:-1,Virgin Media One HD
-http://media-kings.xyz:8080/tek1/tek1/30312
-#EXTINF:-1,Virgin Media Two HD
-http://media-kings.xyz:8080/tek1/tek1/37710
-#EXTINF:-1,Virgin Media Three HD
-http://media-kings.xyz:8080/tek1/tek1/30314
-#EXTINF:-1,Ginx Gaming Channel HD
-http://media-kings.xyz:8080/tek1/tek1/34291
-#EXTINF:-1,Sky Cinema Premiere HD
-http://media-kings.xyz:8080/tek1/tek1/33899
-#EXTINF:-1,Sky Cinema Premiere HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54449
-#EXTINF:-1,Sky Cinema Animation HD
-http://media-kings.xyz:8080/tek1/tek1/59547
-#EXTINF:-1,Sky Cinema Action HD
-http://media-kings.xyz:8080/tek1/tek1/31
-#EXTINF:-1,Sky Cinema Action HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54443
-#EXTINF:-1,Sky Cinema Comedy HD
-http://media-kings.xyz:8080/tek1/tek1/28
-#EXTINF:-1,Sky Cinema Comedy HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54444
-#EXTINF:-1,Sky Cinema Drama HD
-http://media-kings.xyz:8080/tek1/tek1/39
-#EXTINF:-1,Sky Cinema Drama HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54446
-#EXTINF:-1,Sky Cinema Family HD
-http://media-kings.xyz:8080/tek1/tek1/33
-#EXTINF:-1,Sky Cinema Family HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54447
-#EXTINF:-1,Sky Cinema Greats HD
-http://media-kings.xyz:8080/tek1/tek1/33897
-#EXTINF:-1,Sky Cinema Greats HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54448
-#EXTINF:-1,Sky Cinema Hits HD
-http://media-kings.xyz:8080/tek1/tek1/36901
-#EXTINF:-1,Sky Cinema Hits HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54442
-#EXTINF:-1,Sky Cinema Select HD
-http://media-kings.xyz:8080/tek1/tek1/33900
-#EXTINF:-1,Sky Cinema Select HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54451
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
-http://media-kings.xyz:8080/tek1/tek1/33898
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54450
-#EXTINF:-1,Sky Cinema Thriller HD
-http://media-kings.xyz:8080/tek1/tek1/33901
-#EXTINF:-1,Sky Cinema Thriller HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54452
-#EXTINF:-1,Sky Crime HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/59546
-#EXTINF:-1,BOX OFFICE 1 HD
-http://media-kings.xyz:8080/tek1/tek1/30302
-#EXTINF:-1,BOX OFFICE 2 HD
-http://media-kings.xyz:8080/tek1/tek1/30304
-#EXTINF:-1,BOX OFFICE 3 HD 
-http://media-kings.xyz:8080/tek1/tek1/30306
-#EXTINF:-1,BOX OFFICE 4 HD
-http://media-kings.xyz:8080/tek1/tek1/30308
-#EXTINF:-1,BOX OFFICE 5 HD
-http://media-kings.xyz:8080/tek1/tek1/30310
-#EXTINF:-1,BOX OFFICE 6 HD
-http://media-kings.xyz:8080/tek1/tek1/30307
-#EXTINF:-1,BOX OFFICE 7 HD
-http://media-kings.xyz:8080/tek1/tek1/30309
-#EXTINF:-1,BOX OFFICE 8 HD 
-http://media-kings.xyz:8080/tek1/tek1/30311
-#EXTINF:-1,BOX OFFICE 10 HD
-http://media-kings.xyz:8080/tek1/tek1/30303
-#EXTINF:-1,Sony TV HD
-http://media-kings.xyz:8080/tek1/tek1/37682
-#EXTINF:-1,Sony TV HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54437
-#EXTINF:-1,SyFy HD
-http://media-kings.xyz:8080/tek1/tek1/31196
-#EXTINF:-1,SyFy HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54438
-#EXTINF:-1,TALKING PICTURES
-http://media-kings.xyz:8080/tek1/tek1/141552
-#EXTINF:-1,TCM HD
-http://media-kings.xyz:8080/tek1/tek1/23261
-#EXTINF:-1,TCM HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54439
-#EXTINF:-1,Travel Channel HD
-http://media-kings.xyz:8080/tek1/tek1/31204
-#EXTINF:-1,History 2 HD
-http://media-kings.xyz:8080/tek1/tek1/33890
-#EXTINF:-1,History HD
-http://media-kings.xyz:8080/tek1/tek1/33891
-#EXTINF:-1,Nat Geo Wild HD
-http://media-kings.xyz:8080/tek1/tek1/33893
-#EXTINF:-1,Animal Planet HD
-http://media-kings.xyz:8080/tek1/tek1/34293
-#EXTINF:-1,Sky Nature HD
-http://media-kings.xyz:8080/tek1/tek1/43249
-#EXTINF:-1,Sky Crime HD
-http://media-kings.xyz:8080/tek1/tek1/45232
-#EXTINF:-1,SKY Witness HD
-http://media-kings.xyz:8080/tek1/tek1/48665
-#EXTINF:-1,Sky Documentaries HD
-http://media-kings.xyz:8080/tek1/tek1/49699
-#EXTINF:-1,ID HD
-http://media-kings.xyz:8080/tek1/tek1/31153
-#EXTINF:-1,Travel Channel HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54440
-#EXTINF:-1,Animal Planet HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54454
-#EXTINF:-1,Discovery Channel HD
-http://media-kings.xyz:8080/tek1/tek1/33884
-#EXTINF:-1,Discovery Channel HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54455
-#EXTINF:-1,UK Discovery History HD
-http://media-kings.xyz:8080/tek1/tek1/33885
-#EXTINF:-1,Discovery History HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54456
-#EXTINF:-1,Discovery Science HD
-http://media-kings.xyz:8080/tek1/tek1/33887
-#EXTINF:-1,Discovery Science HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54457
-#EXTINF:-1,Discovery Turbo HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54459
-#EXTINF:-1,Nat Geo Wild HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/54460
-#EXTINF:-1,National Geographic HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/59548
-#EXTINF:-1,TLC HD
-http://media-kings.xyz:8080/tek1/tek1/31202
-#EXTINF:-1,TLC HD (BACKUP)
-http://media-kings.xyz:8080/tek1/tek1/140483
-#EXTINF:-1,Universal HD
-http://media-kings.xyz:8080/tek1/tek1/106
-#EXTINF:-1,W HD
-http://media-kings.xyz:8080/tek1/tek1/69
-#EXTINF:-1,Yesterday HD
-http://media-kings.xyz:8080/tek1/tek1/82
-#EXTINF:-1,RTE 1 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/31126
-#EXTINF:-1,RTE 2 HD 
-http://media-kings.xyz:8080/tek1/tek1/31127
-#EXTINF:-1,TG4 HD BACKUP
-http://media-kings.xyz:8080/tek1/tek1/37155
-#EXTINF:-1,RTE News Now HD
-http://media-kings.xyz:8080/tek1/tek1/54501
-#EXTINF:-1,RTE 1 HD
-http://media-kings.xyz:8080/tek1/tek1/54502
-#EXTINF:-1,RTE JR HD
-http://media-kings.xyz:8080/tek1/tek1/54503
-#EXTINF:-1,Virgin Media ONE HD (Ireland)
-http://media-kings.xyz:8080/tek1/tek1/55418
-#EXTINF:-1,Virgin Media TWO HD (Ireland)
-http://media-kings.xyz:8080/tek1/tek1/55419
-#EXTINF:-1,Virgin Media THREE HD (Ireland)
-http://media-kings.xyz:8080/tek1/tek1/55420
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="News",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="",Afrobeats 247
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Religious",Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Punjabi;English" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="Religious",Akaal TV (396p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK;ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Al Araby (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK;ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Al Hiwar (1080p)
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-country="UK;ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Scotland
+http://51.52.156.22:8888/http/001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK;IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT;US;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT;US;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" group-title="Music",Box Hits (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/jKUX0C5.png" group-title="",Box Hits (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BritAsia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Buffalo TV (360p)
+https://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids",Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK;IE;BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="",Channel S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="Shop",Cruise 1st TV (396p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="",English Club TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Film 4
+http://51.52.156.22:8888/http/008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Sport",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Sport",Flow Sports 1 (720p)
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gems TV (360p)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Religious",GOD TV (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="",Hala London (1080p)
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Hindi" tvg-logo="https://i.imgur.com/jxf9gQd.jpg" group-title="",Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nn2VfkP.png" group-title="",Kerrang (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AqVdlpz.png" group-title="",Kiss (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="Music",Kool London Radio (720p)
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="",Magic (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-id="" tvg-name="Manoto TV" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto TV (1080p)
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 (720p)
+https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 English (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Original (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Urdu (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 (720p)
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 Urdu (720p)
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3 (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="",MTA Africa (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/m1xhwRa.png" group-title="Shop",QVC
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="",Sangat Television (720p)
+https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/kmHryT4.png" group-title="",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Local",Sheffield Live TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (720p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/axXipp8.png" group-title="",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",The Box (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-id="" tvg-name="V2Beat TV" tvg-country="UK" tvg-language="English" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="Music",V2Beat TV (720p)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" group-title="Music",V2Beat TV (720p)
+https://de1se01.v2beat.live/playlist.m3u8
