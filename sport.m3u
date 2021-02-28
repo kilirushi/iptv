@@ -1,157 +1,111 @@
 #EXTM3U
-#EXTINF:-1,Espn + (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1543
-#EXTINF:-1,Espn + (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/974
-#EXTINF:-1,Espn 1 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1540
-#EXTINF:-1,Espn 1 (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/965
-#EXTINF:-1,Espn 1 (e)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/966
-#EXTINF:-1,Espn 2 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1541
-#EXTINF:-1,Espn 2 (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/968
-#EXTINF:-1,Espn 2 (e)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/969
-#EXTINF:-1,Espn 3 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63209
-#EXTINF:-1,Espn 3 (tr)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1542
-#EXTINF:-1,Fox Sports 1 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1525
-#EXTINF:-1,Fox Sports  1 (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/976
-#EXTINF:-1,Fox Sports  1 (e)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/977
-#EXTINF:-1,Fox Sports 2 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1526
-#EXTINF:-1,Fox Sports 2 (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/979
-#EXTINF:-1,Fox Sports 2 (e)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/980
-#EXTINF:-1,Fox Sports 3 (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/982
-#EXTINF:-1,Fox Sports 3 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1527
-#EXTINF:-1,Fox Sports 3 (e)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63210
-#EXTINF:-1,Fox Sports Premium (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1528
-#EXTINF:-1,Fox Sports Premium (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1529
-#EXTINF:-1,TyC Sports (M)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/2076
-#EXTINF:-1,Bein Sport U (M)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/2876
-#EXTINF:-1,beIN Sports U (TV)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/59426
-#EXTINF:-1,Bein Sports Ñ (M)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/2872
-#EXTINF:-1,Bein Sports Ñ (tr)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/59788
-#EXTINF:-1,Directv Sports + (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/963
-#EXTINF:-1,Directv Sports + (e)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/20143
-#EXTINF:-1,Directv Sports + (M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/4673
-#EXTINF:-1,Directv Sports + (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/4674
-#EXTINF:-1,Directv Sports 1 (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/956
-#EXTINF:-1,Directv Sports 1 (e)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/957
-#EXTINF:-1,Directv Sports 1 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/4668
-#EXTINF:-1,Directv Sports 1 (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/4670
-#EXTINF:-1,Directv Sports 2 (e)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/960
-#EXTINF:-1,Directv Sports 2 (e)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/961
-#EXTINF:-1,Directv Sports 2 (M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/4672
-#EXTINF:-1,Directv Sports 2 (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/4671
-#EXTINF:-1,Espn Caribbean (tr)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/66112
-#EXTINF:-1,Espn 2 Caribbean (tr)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/66113
-#EXTINF:-1,Espn Deportes (tr)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63682
-#EXTINF:-1,Espn Deportes (tr)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1544
-#EXTINF:-1,Fight BOX U (tr)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/60375
-#EXTINF:-1,Fox Deportes (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1524
-#EXTINF:-1,Golf Latin America (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26767
-#EXTINF:-1,MEX Afizzionados (TV)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/54813
-#EXTINF:-1,MEX Espn + (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26810
-#EXTINF:-1,MEX Espn + (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1539
-#EXTINF:-1,MEX Espn (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26817
-#EXTINF:-1,MEX Espn 1 (tr)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1533
-#EXTINF:-1,MEX Espn 2 (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26770
-#EXTINF:-1,MEX Espn 2 (tr)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1534
-#EXTINF:-1,MEX Espn 3 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1536
-#EXTINF:-1,MEX Espn 3 (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26771
-#EXTINF:-1,MEX Espn 3 (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1537
-#EXTINF:-1,MEX Espn Network (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26775
-#EXTINF:-1,MEX Espn U (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26816
-#EXTINF:-1,MEX Espn U (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26774
-#EXTINF:-1,MEX Fox Sports 1 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26814
-#EXTINF:-1,MEX Fox Sports 2 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26815
-#EXTINF:-1,MEX Fox Sports 2 (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1521
-#EXTINF:-1,MEX Fox Sports 2 (tr)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1518
-#EXTINF:-1,MEX Fox Sports 3 (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26812
-#EXTINF:-1,MEX Fox Sports 3 (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1523
-#EXTINF:-1,MEX Golf Latin (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26813
-#EXTINF:-1,NBA U (M)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/2873
-#EXTINF:-1,Sky Sports 16 (M)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/60372
-#EXTINF:-1,Sky Sports 21 (M)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/60373
-#EXTINF:-1,Sky Sports PL (TV)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/59427
-#EXTINF:-1,Tennis Channel (M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/23132
-#EXTINF:-1,TUDN (MEX) (M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1549
-#EXTINF:-1,TUDN (MEX)(TV)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/66005
-#EXTINF:-1,TUDN (USA) (TV)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/66004
-#EXTINF:-1,TUDN (USA)(M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1548
-#EXTINF:-1,TVC Deportes (M)(SD)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1547
-#EXTINF:-1,TyC Sports Int (M)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/27530
-#EXTINF:-1,UFC (720) 
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/8918
-#EXTINF:-1,UFC Fight PASS (M)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/5699
+#EXTINF:-1,SPORTS 1 FHD
+http://almultakatv.com:25461/kamal/kamal/1118
+#EXTINF:-1,SPORTS 2 FHD
+http://almultakatv.com:25461/kamal/kamal/1119
+#EXTINF:-1,SPORTS 3 FHD
+http://almultakatv.com:25461/kamal/kamal/1120
+#EXTINF:-1,SPORTS 4 FHD
+http://almultakatv.com:25461/kamal/kamal/1121
+#EXTINF:-1,SPORTS 5 FHD
+http://almultakatv.com:25461/kamal/kamal/1122
+#EXTINF:-1,SPORTS 6 FHD
+http://almultakatv.com:25461/kamal/kamal/1123
+#EXTINF:-1,SPORTS 7 FHD
+http://almultakatv.com:25461/kamal/kamal/1124
+#EXTINF:-1,SPORTS 8 FHD
+http://almultakatv.com:25461/kamal/kamal/1125
+#EXTINF:-1,SPORTS 9 FHD
+http://almultakatv.com:25461/kamal/kamal/1126
+#EXTINF:-1,SPORTS 10 FHD
+http://almultakatv.com:25461/kamal/kamal/1127
+#EXTINF:-1,SPORT 1 HD
+http://almultakatv.com:25461/kamal/kamal/1037
+#EXTINF:-1,SPORT 2 HD
+http://almultakatv.com:25461/kamal/kamal/1038
+#EXTINF:-1,SPORT 3 HD
+http://almultakatv.com:25461/kamal/kamal/1039
+#EXTINF:-1,SPORT 4 HD
+http://almultakatv.com:25461/kamal/kamal/1040
+#EXTINF:-1,SPORT 5 HD
+http://almultakatv.com:25461/kamal/kamal/1041
+#EXTINF:-1,SPORT 6 HD
+http://almultakatv.com:25461/kamal/kamal/1042
+#EXTINF:-1,SPORT 7 HD
+http://almultakatv.com:25461/kamal/kamal/1043
+#EXTINF:-1,SPORT 8 HD
+http://almultakatv.com:25461/kamal/kamal/1044
+#EXTINF:-1,SPORT 9 HD
+http://almultakatv.com:25461/kamal/kamal/1045
+#EXTINF:-1,SPORT 10 HD
+http://almultakatv.com:25461/kamal/kamal/1046
+#EXTINF:-1,SPORT 11 HD
+http://almultakatv.com:25461/kamal/kamal/1047
+#EXTINF:-1,SPORT 12 HD
+http://almultakatv.com:25461/kamal/kamal/1048
+#EXTINF:-1,SPORTS SD1
+http://almultakatv.com:25461/kamal/kamal/984
+#EXTINF:-1,SPORTS SD2
+http://almultakatv.com:25461/kamal/kamal/985
+#EXTINF:-1,SPORTS SD3
+http://almultakatv.com:25461/kamal/kamal/986
+#EXTINF:-1,SPORTS SD4
+http://almultakatv.com:25461/kamal/kamal/987
+#EXTINF:-1,SPORTS SD5
+http://almultakatv.com:25461/kamal/kamal/988
+#EXTINF:-1,SPORTS SD6
+http://almultakatv.com:25461/kamal/kamal/989
+#EXTINF:-1,SPORTS SD7
+http://almultakatv.com:25461/kamal/kamal/990
+#EXTINF:-1,SPORTS SD8
+http://almultakatv.com:25461/kamal/kamal/991
+#EXTINF:-1,SPORTS SD9
+http://almultakatv.com:25461/kamal/kamal/992
+#EXTINF:-1,SPORTS SD10
+http://almultakatv.com:25461/kamal/kamal/993
+#EXTINF:-1,SPORTS 1 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1189
+#EXTINF:-1,SPORTS 2 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1190
+#EXTINF:-1,SPORTS 3 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1191
+#EXTINF:-1,SPORTS 4 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1192
+#EXTINF:-1,SPORTS 5 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1193
+#EXTINF:-1,SPORTS 6 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1194
+#EXTINF:-1,SPORTS 7 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1195
+#EXTINF:-1,SPORTS 8 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1196
+#EXTINF:-1,SPORTS 9 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1197
+#EXTINF:-1,SPORTS 10 SD HQ
+http://almultakatv.com:25461/kamal/kamal/1198
+#EXTINF:-1,SPORTS LOW1
+http://almultakatv.com:25461/kamal/kamal/994
+#EXTINF:-1,SPORTS LOW2
+http://almultakatv.com:25461/kamal/kamal/995
+#EXTINF:-1,SPORTS LOW3
+http://almultakatv.com:25461/kamal/kamal/996
+#EXTINF:-1,SPORTS LOW4
+http://almultakatv.com:25461/kamal/kamal/997
+#EXTINF:-1,SPORTS LOW5
+http://almultakatv.com:25461/kamal/kamal/998
+#EXTINF:-1,SPORTS LOW6
+http://almultakatv.com:25461/kamal/kamal/999
+#EXTINF:-1,SPORTS LOW7
+http://almultakatv.com:25461/kamal/kamal/1000
+#EXTINF:-1,SPORTS LOW8
+http://almultakatv.com:25461/kamal/kamal/1001
+#EXTINF:-1,SPORTS LOW9
+http://almultakatv.com:25461/kamal/kamal/1002
+#EXTINF:-1,SPORTS LOW10
+http://almultakatv.com:25461/kamal/kamal/1003
+#EXTINF:-1,BeinSport-1 LOW
+http://almultakatv.com:25461/kamal/kamal/1149
+#EXTINF:-1,BeinSport-2 LOW
+http://almultakatv.com:25461/kamal/kamal/1150
+#EXTINF:-1,SPORTS_3 low
+http://almultakatv.com:25461/kamal/kamal/1171
