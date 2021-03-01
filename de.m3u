@@ -1,212 +1,445 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" group-title="",a.tv (1080p)
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-country="DE" tvg-language="German" tvg-logo="https://bit.ly/36NAZA1" group-title="",Anixe HD (720p)
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Baden TV (720p)
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Baden TV (720p)
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="",BLK TV (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="",BR Fernsehen Nord (720p)
-http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",BR Fernsehen Nord (720p)
-https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="",BR Fernsehen Süd (720p)
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",BR Fernsehen Süd (720p)
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",BR Fernsehen Süd (720p)
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Campus TV Magdeburg (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",Campus TV Magdeburg (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Chemnitz Fernsehen (1080p)
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CIS" tvg-language="Russian" tvg-logo="" group-title="Kids",Da Vinci
-http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CIS" tvg-language="Russian" tvg-logo="" group-title="Kids",Da Vinci
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste HD (720p)
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" group-title="",Das Erste HD (720p)
-https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="News",Deutsche Welle
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="News",Deutsche Welle (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",Deutsche Welle (400p)
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="News",Deutsche Welle (400p)
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="News",Deutsche Welle (400p)
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",Deutsche Welle Arabic (400p)
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="" group-title="News",Deutsche Welle English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="" group-title="News",Deutsche Welle English (400p)
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",Deutsche Welle English (400p)
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="" group-title="News",Deutsche Welle English (720p)
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",Deutsche Welle Español (400p)
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="",Deutsches Musik Fernsehen (720p)
-https://tv.artcom-venture.de/dmf/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",dorf tv
-https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Dresden Fernsehen (1080p)
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" group-title="",ELBEKANAL (576p)
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE;AT;CH" tvg-language="German" tvg-logo="https://i.imgur.com/oitJsZU.png" group-title="",eo TV
-https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",ERF 1
-http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/MAnSA7W.jpg" group-title="",ERF 1 (720p)
-https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",EWTN katholisches TV (720p)
-https://d3j0n5al39mfyd.cloudfront.net/p/GERG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/b6tcf2i.jpg" group-title="Sport",FC Bayern München TV (1080p)
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="",Filstalwelle (576p)
-http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Ecrl44R.png" group-title="",Halle (720p)
-http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",health.tv (720p)
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Event 2 (720p)
-https://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE;AT;CH;LI;LU;NL;BE" tvg-language="German" tvg-logo="" group-title="",HR Fernsehen (1080p)
-http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen (1080p)
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-country="DE;AT;CH;LI;LU;NL;BE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen (1080p)
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-country="DE;AT;CH;LI;LU;NL;BE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen (1080p)
-https://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",HSE (1080p)
-https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Movies",ID HD (JKT)
-http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Isar TV (1080p)
-https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",K-TV (Fernsehen)
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Leipzig Fernsehen (1080p)
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="",Light Channel (576p)
-http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",M4TV (1080p)
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="",MDF 1 (1080p)
-http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="",MDF 1 (1080p)
-http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="",MDF 1 (1080p)
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="",München TV (1080p)
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Fernsehen (720p)
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",NDR Hamburg (720p)
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",NDR Mecklenburg-Vorpommern (720p)
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",NDR Schleswig-Holstein (720p)
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Noa 4 Hamburg
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="",Noa 4 Norderstedt
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="",NRWision (360p)
-https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Oberpfalz TV (1080p)
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",oe24 TV (360p)
-https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Offener Kanal Dessau (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="",Offener Kanal Dessau (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/BHTsPMP.png" group-title="",Offener Kanal Magdeburg (1080p)
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Offener Kanal Magdeburg (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title="",Offener Kanal Magdeburg (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/B5obZtE.png" group-title="",Offener Kanal Salzwedel (1080p)
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Offener Kanal Salzwedel (1080p)
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",OK Weinstraße (360p)
-https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",OK-Stendal (1080p)
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",OK-Stendal (1080p)
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Okto (720p)
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="",Parlamentsfernsehen 1 (1080p)
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Parlamentsfernsehen 1 (1080p)
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="",Parlamentsfernsehen 2 (1080p)
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Parlamentsfernsehen 2 (1080p)
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",pearl.tv (360p)
-http://enstyle.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Music",Radio 21 TV (720p)
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Music",Radio Weser TV Bremen (576p)
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NUP8ZBb.png" group-title="",RAN1 Regionalfernsehen (1080p)
-http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="",Rheinmain TV
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="",RNF (1080p)
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="",Saarland Fernsehen 1 (1080p)
-https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="",Saarland Fernsehen 2 (720p)
-https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/kn1DHZq.gif" group-title="",Santhora TV (720p)
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sonnenklar.de" tvg-name="Sonnenklar.TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" group-title="",Sonnenklar.TV (1080p)
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="Music",Sonus FM (720p)
-http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Music",Sonus FM
-http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Religious",Sophia TV
-https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",SR Fernsehen (720p)
-http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",tagesschau24 (720p)
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Tele M1
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/GUBVccx.png" group-title="",TV Halle (720p)
-http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",TV Würzburg (1080p)
-https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",TVA (1080p)
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",TVO (1080p)
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="",Unserding (544p)
-https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" group-title="",WDR Fernsehen (720p)
-https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1,13th Street HD
+http://ott-iptv.info:2016/Daniel/Daniel/63979
+#EXTINF:-1,3sat HD
+http://ott-iptv.info:2016/Daniel/Daniel/63980
+#EXTINF:-1,Crime Investigation+
+http://ott-iptv.info:2016/Daniel/Daniel/63981
+#EXTINF:-1,ARD Alpha
+http://ott-iptv.info:2016/Daniel/Daniel/63982
+#EXTINF:-1,AXN HD
+http://ott-iptv.info:2016/Daniel/Daniel/63983
+#EXTINF:-1,ANIXE FHD
+http://ott-iptv.info:2016/Daniel/Daniel/63984
+#EXTINF:-1,Animal Planet HD
+http://ott-iptv.info:2016/Daniel/Daniel/63985
+#EXTINF:-1,arte
+http://ott-iptv.info:2016/Daniel/Daniel/63986
+#EXTINF:-1,Astro TV
+http://ott-iptv.info:2016/Daniel/Daniel/63987
+#EXTINF:-1,Augsburg TV
+http://ott-iptv.info:2016/Daniel/Daniel/63988
+#EXTINF:-1,BR
+http://ott-iptv.info:2016/Daniel/Daniel/63989
+#EXTINF:-1,Baby TV
+http://ott-iptv.info:2016/Daniel/Daniel/63990
+#EXTINF:-1,Boomerang
+http://ott-iptv.info:2016/Daniel/Daniel/63991
+#EXTINF:-1,Boomerang SD+
+http://ott-iptv.info:2016/Daniel/Daniel/63992
+#EXTINF:-1,CINE FILM CLUB 5 HD
+http://ott-iptv.info:2016/Daniel/Daniel/63993
+#EXTINF:-1,DMAX HD
+http://ott-iptv.info:2016/Daniel/Daniel/63994
+#EXTINF:-1,Das Erste
+http://ott-iptv.info:2016/Daniel/Daniel/63995
+#EXTINF:-1,Deluxe Music
+http://ott-iptv.info:2016/Daniel/Daniel/63996
+#EXTINF:-1,Deutsches Musik Fernsehen
+http://ott-iptv.info:2016/Daniel/Daniel/63997
+#EXTINF:-1,Discovery Channel HD
+http://ott-iptv.info:2016/Daniel/Daniel/63998
+#EXTINF:-1,Cartoon Network
+http://ott-iptv.info:2016/Daniel/Daniel/63999
+#EXTINF:-1,Disney Channel
+http://ott-iptv.info:2016/Daniel/Daniel/64000
+#EXTINF:-1,Sky Cinema Special HD
+http://ott-iptv.info:2016/Daniel/Daniel/64001
+#EXTINF:-1,Disney Junior FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64002
+#EXTINF:-1,Nick Jr. HD
+http://ott-iptv.info:2016/Daniel/Daniel/64003
+#EXTINF:-1,TOGGO plus
+http://ott-iptv.info:2016/Daniel/Daniel/64004
+#EXTINF:-1,TOGGO plus von Super RTL
+http://ott-iptv.info:2016/Daniel/Daniel/64005
+#EXTINF:-1,E!
+http://ott-iptv.info:2016/Daniel/Daniel/64006
+#EXTINF:-1,Eurosport 1 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64007
+#EXTINF:-1,Eurosport 2
+http://ott-iptv.info:2016/Daniel/Daniel/64008
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://ott-iptv.info:2016/Daniel/Daniel/64009
+#EXTINF:-1,FC Bayern TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64010
+#EXTINF:-1,FOX HD
+http://ott-iptv.info:2016/Daniel/Daniel/64011
+#EXTINF:-1,MediaShop
+http://ott-iptv.info:2016/Daniel/Daniel/64012
+#EXTINF:-1,FOX
+http://ott-iptv.info:2016/Daniel/Daniel/64013
+#EXTINF:-1,HR
+http://ott-iptv.info:2016/Daniel/Daniel/64014
+#EXTINF:-1,Heimatikanal
+http://ott-iptv.info:2016/Daniel/Daniel/64015
+#EXTINF:-1,History HD
+http://ott-iptv.info:2016/Daniel/Daniel/64016
+#EXTINF:-1,Jukebox
+http://ott-iptv.info:2016/Daniel/Daniel/64017
+#EXTINF:-1,Junior
+http://ott-iptv.info:2016/Daniel/Daniel/64018
+#EXTINF:-1,kabel eins HD
+http://ott-iptv.info:2016/Daniel/Daniel/64019
+#EXTINF:-1,kabel eins CLASSICS FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64020
+#EXTINF:-1,kabel eins Doku
+http://ott-iptv.info:2016/Daniel/Daniel/64021
+#EXTINF:-1,KiKa
+http://ott-iptv.info:2016/Daniel/Daniel/64022
+#EXTINF:-1,KinoweltTV
+http://ott-iptv.info:2016/Daniel/Daniel/64023
+#EXTINF:-1,MDR HD
+http://ott-iptv.info:2016/Daniel/Daniel/64024
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64025
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64026
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64027
+#EXTINF:-1,MOVIESINEMA GERMAN 4 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64028
+#EXTINF:-1,MOVIESINEMA GERMAN 5 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64029
+#EXTINF:-1,MTV Dance
+http://ott-iptv.info:2016/Daniel/Daniel/64030
+#EXTINF:-1,Motorvision TV
+http://ott-iptv.info:2016/Daniel/Daniel/64031
+#EXTINF:-1,Welt HD
+http://ott-iptv.info:2016/Daniel/Daniel/64032
+#EXTINF:-1,N24 Doku
+http://ott-iptv.info:2016/Daniel/Daniel/64033
+#EXTINF:-1,NDR HD
+http://ott-iptv.info:2016/Daniel/Daniel/64034
+#EXTINF:-1,National Geographic
+http://ott-iptv.info:2016/Daniel/Daniel/64035
+#EXTINF:-1,National Geographic HD
+http://ott-iptv.info:2016/Daniel/Daniel/64036
+#EXTINF:-1,Nat Geo Wild
+http://ott-iptv.info:2016/Daniel/Daniel/64037
+#EXTINF:-1,Nickelodeon HD
+http://ott-iptv.info:2016/Daniel/Daniel/64038
+#EXTINF:-1,n-tv HD
+http://ott-iptv.info:2016/Daniel/Daniel/64039
+#EXTINF:-1,ORF eins HD
+http://ott-iptv.info:2016/Daniel/Daniel/64040
+#EXTINF:-1,ORF 2 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64041
+#EXTINF:-1,Phoenix HD
+http://ott-iptv.info:2016/Daniel/Daniel/64042
+#EXTINF:-1,ProSieben
+http://ott-iptv.info:2016/Daniel/Daniel/64043
+#EXTINF:-1,ProSieben HD
+http://ott-iptv.info:2016/Daniel/Daniel/64044
+#EXTINF:-1,ProSieben MAXX HD
+http://ott-iptv.info:2016/Daniel/Daniel/64045
+#EXTINF:-1,QVC
+http://ott-iptv.info:2016/Daniel/Daniel/64046
+#EXTINF:-1,QVC Beauty & Style
+http://ott-iptv.info:2016/Daniel/Daniel/64047
+#EXTINF:-1,rbb
+http://ott-iptv.info:2016/Daniel/Daniel/64048
+#EXTINF:-1,rbb HD
+http://ott-iptv.info:2016/Daniel/Daniel/64049
+#EXTINF:-1,RTL
+http://ott-iptv.info:2016/Daniel/Daniel/64050
+#EXTINF:-1,RTL II
+http://ott-iptv.info:2016/Daniel/Daniel/64051
+#EXTINF:-1,RTL II HD
+http://ott-iptv.info:2016/Daniel/Daniel/64052
+#EXTINF:-1,RTL Crime
+http://ott-iptv.info:2016/Daniel/Daniel/64053
+#EXTINF:-1,RTL Living HD
+http://ott-iptv.info:2016/Daniel/Daniel/64054
+#EXTINF:-1,RTL Nitro HD
+http://ott-iptv.info:2016/Daniel/Daniel/64055
+#EXTINF:-1,RTL Passion HD
+http://ott-iptv.info:2016/Daniel/Daniel/64056
+#EXTINF:-1,RTL plus
+http://ott-iptv.info:2016/Daniel/Daniel/64057
+#EXTINF:-1,Romance TV
+http://ott-iptv.info:2016/Daniel/Daniel/64058
+#EXTINF:-1,SAT.1 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64059
+#EXTINF:-1,SAT.1 GOLD HD
+http://ott-iptv.info:2016/Daniel/Daniel/64060
+#EXTINF:-1,SAT.1 emotions
+http://ott-iptv.info:2016/Daniel/Daniel/64061
+#EXTINF:-1,Servus TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64062
+#EXTINF:-1,Silverline Movie Channel HD
+http://ott-iptv.info:2016/Daniel/Daniel/64063
+#EXTINF:-1,SIXX HD
+http://ott-iptv.info:2016/Daniel/Daniel/64064
+#EXTINF:-1,Sky Atlantic HD
+http://ott-iptv.info:2016/Daniel/Daniel/64065
+#EXTINF:-1,Sky Cinema Premieren HD
+http://ott-iptv.info:2016/Daniel/Daniel/64066
+#EXTINF:-1,Sky Cinema Thriller HD
+http://ott-iptv.info:2016/Daniel/Daniel/64067
+#EXTINF:-1,Sky Cinema Premieren +24 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64068
+#EXTINF:-1,Sky Cinema Action HD
+http://ott-iptv.info:2016/Daniel/Daniel/64069
+#EXTINF:-1,Sky Cinema Fun HD
+http://ott-iptv.info:2016/Daniel/Daniel/64070
+#EXTINF:-1,Sky Cinema Family HD
+http://ott-iptv.info:2016/Daniel/Daniel/64071
+#EXTINF:-1,Sky Cinema Best Of HD
+http://ott-iptv.info:2016/Daniel/Daniel/64072
+#EXTINF:-1,Sky Cinema Classics
+http://ott-iptv.info:2016/Daniel/Daniel/64073
+#EXTINF:-1,Sky Krimi
+http://ott-iptv.info:2016/Daniel/Daniel/64074
+#EXTINF:-1,Sky Popcorn Select 1 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64075
+#EXTINF:-1,Sky Popcorn Select 2 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64076
+#EXTINF:-1,Sky Popcorn Select 3 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64077
+#EXTINF:-1,Sky Popcorn Select 4 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64078
+#EXTINF:-1,Sky Popcorn Select 5 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64079
+#EXTINF:-1,Sky Popcorn Select 6 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64080
+#EXTINF:-1,SKY SELECT 1
+http://ott-iptv.info:2016/Daniel/Daniel/64081
+#EXTINF:-1,Sky Select 1 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64082
+#EXTINF:-1,SKY SELECT 1 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64083
+#EXTINF:-1,SKY SELECT 2
+http://ott-iptv.info:2016/Daniel/Daniel/64084
+#EXTINF:-1,Sky Select 2 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64085
+#EXTINF:-1,SKY SELECT 2 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64086
+#EXTINF:-1,SKY SELECT 3
+http://ott-iptv.info:2016/Daniel/Daniel/64087
+#EXTINF:-1,Sky Select 3 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64088
+#EXTINF:-1,SKY SELECT 3 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64089
+#EXTINF:-1,SKY SELECT 4
+http://ott-iptv.info:2016/Daniel/Daniel/64090
+#EXTINF:-1,Sky Select 4 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64091
+#EXTINF:-1,SKY SELECT 4 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64092
+#EXTINF:-1,SKY SELECT 5
+http://ott-iptv.info:2016/Daniel/Daniel/64093
+#EXTINF:-1,Sky Select 5 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64094
+#EXTINF:-1,SKY SELECT 5 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64095
+#EXTINF:-1,SKY SELECT 6
+http://ott-iptv.info:2016/Daniel/Daniel/64096
+#EXTINF:-1,Sky Select 6 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64097
+#EXTINF:-1,Sky Select 7 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64098
+#EXTINF:-1,Sky Select 8 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64099
+#EXTINF:-1,Sky Sport 1 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64100
+#EXTINF:-1,Sky Sport 2 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64101
+#EXTINF:-1,Sky Sport 3 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64102
+#EXTINF:-1,Sky Sport 4 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64103
+#EXTINF:-1,Sky Sport 5 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64104
+#EXTINF:-1,Sky Sport 6 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64105
+#EXTINF:-1,Sky Sport 7 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64106
+#EXTINF:-1,Sky Sport 8 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64107
+#EXTINF:-1,Sky Sport 9 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64108
+#EXTINF:-1,Sky Sport Austria HD
+http://ott-iptv.info:2016/Daniel/Daniel/64109
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64110
+#EXTINF:-1,Sky Sport Bundesliga 2 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64111
+#EXTINF:-1,Sky Sport Bundesliga 3 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64112
+#EXTINF:-1,Sky Sport Bundesliga 4 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64113
+#EXTINF:-1,Sky Sport Bundesliga 5 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64114
+#EXTINF:-1,Sky Sport Bundesliga 6 HD (Live Event)
+http://ott-iptv.info:2016/Daniel/Daniel/64115
+#EXTINF:-1,Sky Sport News
+http://ott-iptv.info:2016/Daniel/Daniel/64116
+#EXTINF:-1,Sky Sport News HD
+http://ott-iptv.info:2016/Daniel/Daniel/64117
+#EXTINF:-1,Sony TV FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64118
+#EXTINF:-1,SPIEGEL Geschichte
+http://ott-iptv.info:2016/Daniel/Daniel/64119
+#EXTINF:-1,Spiegel TV Wissen HD
+http://ott-iptv.info:2016/Daniel/Daniel/64120
+#EXTINF:-1,Sport1 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64121
+#EXTINF:-1,SportDigital HD
+http://ott-iptv.info:2016/Daniel/Daniel/64122
+#EXTINF:-1,SWR
+http://ott-iptv.info:2016/Daniel/Daniel/64123
+#EXTINF:-1,SWR HD
+http://ott-iptv.info:2016/Daniel/Daniel/64124
+#EXTINF:-1,Syfy
+http://ott-iptv.info:2016/Daniel/Daniel/64125
+#EXTINF:-1,Tele 5 HD
+http://ott-iptv.info:2016/Daniel/Daniel/64126
+#EXTINF:-1,TLC
+http://ott-iptv.info:2016/Daniel/Daniel/64127
+#EXTINF:-1,TNT Comedy HD
+http://ott-iptv.info:2016/Daniel/Daniel/64128
+#EXTINF:-1,TNT Film HD
+http://ott-iptv.info:2016/Daniel/Daniel/64129
+#EXTINF:-1,TNT Serie HD
+http://ott-iptv.info:2016/Daniel/Daniel/64130
+#EXTINF:-1,Tom and Jerry HD
+http://ott-iptv.info:2016/Daniel/Daniel/64131
+#EXTINF:-1,Tagesschau 24
+http://ott-iptv.info:2016/Daniel/Daniel/64132
+#EXTINF:-1,Universal Channel HD
+http://ott-iptv.info:2016/Daniel/Daniel/64133
+#EXTINF:-1,Comedy Central
+http://ott-iptv.info:2016/Daniel/Daniel/64134
+#EXTINF:-1,VOX
+http://ott-iptv.info:2016/Daniel/Daniel/64135
+#EXTINF:-1,WDR HD
+http://ott-iptv.info:2016/Daniel/Daniel/64136
+#EXTINF:-1,WWE
+http://ott-iptv.info:2016/Daniel/Daniel/64137
+#EXTINF:-1,Weltr Wunder
+http://ott-iptv.info:2016/Daniel/Daniel/64138
+#EXTINF:-1,ZDF FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64139
+#EXTINF:-1,ZDFinfo
+http://ott-iptv.info:2016/Daniel/Daniel/64140
+#EXTINF:-1,ZDFneo
+http://ott-iptv.info:2016/Daniel/Daniel/64141
+#EXTINF:-1,RTL Zwei HD
+http://ott-iptv.info:2016/Daniel/Daniel/64142
+#EXTINF:-1,RTL Zwei FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64143
+#EXTINF:-1,VoxUp
+http://ott-iptv.info:2016/Daniel/Daniel/64144
+#EXTINF:-1,Bibel TV Impuls
+http://ott-iptv.info:2016/Daniel/Daniel/64145
+#EXTINF:-1,Bibel TV Musik
+http://ott-iptv.info:2016/Daniel/Daniel/64146
+#EXTINF:-1,Kingdom HD 24/7 VIP
+http://ott-iptv.info:2016/Daniel/Daniel/64147
+#EXTINF:-1,RTL HD
+http://ott-iptv.info:2016/Daniel/Daniel/64148
+#EXTINF:-1,Planet FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64149
+#EXTINF:-1,Planet HD
+http://ott-iptv.info:2016/Daniel/Daniel/64150
+#EXTINF:-1,Super RTL HD
+http://ott-iptv.info:2016/Daniel/Daniel/64151
+#EXTINF:-1,Comedy Central HD
+http://ott-iptv.info:2016/Daniel/Daniel/64152
+#EXTINF:-1,Tele 5
+http://ott-iptv.info:2016/Daniel/Daniel/64153
+#EXTINF:-1,Tele 5 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64154
+#EXTINF:-1,Bon Gusto HD
+http://ott-iptv.info:2016/Daniel/Daniel/64155
+#EXTINF:-1,Geo TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64156
+#EXTINF:-1,Die Neue Zeit TV
+http://ott-iptv.info:2016/Daniel/Daniel/64157
+#EXTINF:-1,Mainfranken Würzburg TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64158
+#EXTINF:-1,Franken HD
+http://ott-iptv.info:2016/Daniel/Daniel/64159
+#EXTINF:-1,Oberpfalz TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64160
+#EXTINF:-1,Allgäu TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64161
+#EXTINF:-1,EWTN
+http://ott-iptv.info:2016/Daniel/Daniel/64162
+#EXTINF:-1,QVC 2 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64163
+#EXTINF:-1,1-2-3 TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64164
+#EXTINF:-1,Folx TV
+http://ott-iptv.info:2016/Daniel/Daniel/64165
+#EXTINF:-1,Melodie TV
+http://ott-iptv.info:2016/Daniel/Daniel/64166
+#EXTINF:-1,Channel 21
+http://ott-iptv.info:2016/Daniel/Daniel/64167
+#EXTINF:-1,Schau TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64168
+#EXTINF:-1,RFO HD
+http://ott-iptv.info:2016/Daniel/Daniel/64169
+#EXTINF:-1,HSE24
+http://ott-iptv.info:2016/Daniel/Daniel/64170
+#EXTINF:-1,HSE24 EXTRA
+http://ott-iptv.info:2016/Daniel/Daniel/64171
+#EXTINF:-1,DMAX
+http://ott-iptv.info:2016/Daniel/Daniel/64172
+#EXTINF:-1,DMAX FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64173
+#EXTINF:-1,ProSieben FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64174
+#EXTINF:-1,Health TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64175
+#EXTINF:-1,Munchen TV FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64176
+#EXTINF:-1,Genius Plus TV
+http://ott-iptv.info:2016/Daniel/Daniel/64178
+#EXTINF:-1,Kinowelt TV HD VIP
+http://ott-iptv.info:2016/Daniel/Daniel/64179
+#EXTINF:-1,MAX SELECT 1 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64180
+#EXTINF:-1,MAX SELECT 2 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64181
+#EXTINF:-1,MAX SELECT 3 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64182
+#EXTINF:-1,MAX SELECT 4 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64183
+#EXTINF:-1,MAX SELECT 6 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64184
+#EXTINF:-1,MAX SELECT 7 FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64185
+#EXTINF:-1,Baden TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64186
+#EXTINF:-1,Eagle Entdeckernatur 4K UHD
+http://ott-iptv.info:2016/Daniel/Daniel/64187
+#EXTINF:-1,HGTV
+http://ott-iptv.info:2016/Daniel/Daniel/64188
+#EXTINF:-1,Sky Comedy FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64189
+#EXTINF:-1,Sky Comedy HD
+http://ott-iptv.info:2016/Daniel/Daniel/64190
+#EXTINF:-1,TV OBERFRANKEN HD
+http://ott-iptv.info:2016/Daniel/Daniel/64191
+#EXTINF:-1,Radio Bremen TV
+http://ott-iptv.info:2016/Daniel/Daniel/64192
+#EXTINF:-1,Romance TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64193
+#EXTINF:-1,Sky Serien & Shows FHD
+http://ott-iptv.info:2016/Daniel/Daniel/64194
+#EXTINF:-1,Sky Serien & Shows HD
+http://ott-iptv.info:2016/Daniel/Daniel/64195
+#EXTINF:-1,SESmo 4K
+http://ott-iptv.info:2016/Daniel/Daniel/64196
+#EXTINF:-1,QVC Eins 4K
+http://ott-iptv.info:2016/Daniel/Daniel/64197
+#EXTINF:-1,QVC Zwei 4K
+http://ott-iptv.info:2016/Daniel/Daniel/64198
+#EXTINF:-1,Disney Plus Film HD
+http://ott-iptv.info:2016/Daniel/Daniel/64199
+#EXTINF:-1,Radio Bremen TV HD
+http://ott-iptv.info:2016/Daniel/Daniel/64200
+#EXTINF:-1,Virgin two HD
+http://ott-iptv.info:2016/Daniel/Daniel/63334

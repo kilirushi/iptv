@@ -1,205 +1,423 @@
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="News",24 Horas (576p)
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24h Catalunya" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://graph.facebook.com/24htve/picture?width=320&height=320" group-title="",24h Catalunya (576p)
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="28 Kanala" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/28kanala/picture?width=320&height=320" group-title="",28 Kanala (720p)
-https://5940924978228.streamlock.net/8157/8157/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES;AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="News",3/24 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Local",7 Televisión Región de Murcia (360p)
-https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="",Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="Aragón TV Int" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="",Aragón TV (720p)
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/pY8zxN3.png" group-title="",Bon Dia TV (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
-#EXTINF:-1 tvg-id="BonDiaTV_CAT.TDTChannelsEPG" tvg-name="Bon Dia TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="",Bon Dia TV (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AFT43kx.png" group-title="",Cadena Elite (1080p)
-https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="",Canal 25 (Barbastro)
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="",Canal 33 (Madrid) (1080p)
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=320&height=320" group-title="",Canal 4 (1080p)
-http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="",Canal 4 Mancha Centro (720p)
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 45 TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="",Canal 45 TV
-https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="Local",Canal d
-https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
-#EXTINF:-1 tvg-id="Extremadura.TDTChannelsEPG" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local",Canal Málaga (720p)
-https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U842Z2c.png" group-title="",Canal Parlamento (360p)
-https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:-1 tvg-id="CanalsurA.TDTChannelsEPG" tvg-name="Canal Sur Andalucía" tvg-country="EUR" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 1" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_400x400.jpg" group-title="",CCMA Exclusiu 1 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 2" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_400x400.jpg" group-title="",CCMA Exclusiu 2 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Btnzf1m.png" group-title="",Condavision (720p)
-http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" group-title="Local",Distrito TV
-https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Local",EITB (360p)
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Canal33/picture?width=320&height=320" group-title="",El 33 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VbxfLY5.png" group-title="Religious",El Sembrador TV (1080p)
-https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EsAsturiasTV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320" group-title="",EsAsturiasTV (720p)
-https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Sport",Esport Club (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 tvg-id="E3.TDTChannelsEPG" tvg-name="Esport 3" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="Sport",Esport3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estepona TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=320&height=320" group-title="",Estepona TV (720p)
-https://5b38ce71f1f00.streamlock.net/8122/8122/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="",Estepona TV (720p)
-https://5b38ce71f1f00.streamlock.net/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KeBXBJE.png" group-title="Local",ETB 1 (720p)
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYkOBKP.png" group-title="Local",ETB 2 (720p)
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EuroLatina TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" group-title="Music",EuroLatina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EuropaPress TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/europapress.es/picture?width=320&height=320" group-title="",EuropaPress TV
-https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="",Hamaika Telebista (1080p)
-https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="",Huesca TV
-https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u0lyhFX.png" group-title="",Interalmeria TV
-https://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Intercomarcal TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320" group-title="",Intercomarcal TV
-http://78.41.83.88:8880/hls/tvixa.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="LA 1 ES" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="",La 1 (720p)
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Documentary",La 2 (720p)
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La 7" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/rtvcyl/picture?width=320&height=320" group-title="",La 7 CYL
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.rtvcyl.es/entorno/rtvcyl.png" group-title="",La 7 CYL
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="Entertainment",La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.lancelot.tv/images/logo.svg" group-title="",Lancelot TV (360p)
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lancelot TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" group-title="",Lancelot TV (360p)
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oe66woA.png" group-title="",Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lebrija TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/lebrijatelevision/picture?width=320&height=320" group-title="",Lebrija TV (360p)
-https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Levante TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="",Levante TV
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="",Logos TV (720p)
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M95 Marbella" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=320&height=320" group-title="",M95 Marbella
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 tvg-id="RTVMarbella.TDTChannelsEPG" tvg-name="Marbella TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=320&height=320" group-title="",Marbella TV
-https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
-#EXTINF:-1 tvg-id="MelillaTV.TDTChannelsEPG" tvg-name="Melilla TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320" group-title="",Melilla TV (720p)
-https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mijas Comunicación" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Mijas340/picture?width=320&height=320" group-title="",Mijas Comunicación (1080p)
-https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png" group-title="Music",molaTV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nius" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=320&height=320" group-title="",NIUS
-https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oizmendi Telebista" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/oizmenditelebista/picture?width=320&height=320" group-title="",Oizmendi Telebista (404p)
-https://5940924978228.streamlock.net/8161/8161/master.m3u8
-#EXTINF:-1 tvg-id="OndaAlgeciras.TDTChannelsEPG" tvg-name="Onda Algeciras TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320" group-title="",Onda Algeciras TV
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UWxPjxV.jpg" group-title="",Onda Cádiz (480p)
-https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BA6HVt3.png" group-title="",Onda Madrid (360p)
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OndaMadrid" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=320&height=320" group-title="",OndaMadrid (360p)
-http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="",Pequeradio
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="Local",Popular TV Melilla (720p)
-https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gh5VQtG.jpg" group-title="",Radio Onda Madrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Sport",Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Sport",Real Madrid (404p)
-https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/solidaria-tv.png" group-title="",Solidaria TV
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV (720p)
-https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" group-title="Religious",Taroteame TV (576p)
-http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="telesafor" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=320&height=320" group-title="",Tele Safor (720p)
-http://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="Local",Telearanda
-https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleRibera" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="",TeleRibera
-http://37.187.7.106/teleribera/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/UJrapXK.jpg" group-title="Local",TeleSafor (720p)
-https://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Local",Televisio Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:-1 tvg-id="Canarias.TDTChannelsEPG" tvg-name="Televisión Canaria" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/225265760833908/picture?width=320&height=320" group-title="",Televisión Canaria (576p)
-https://rtvc-live1-rm.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",Televisión de Galicia América (720p)
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Galicia ES" tvg-name="TV Galicia ES" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="General",Televisión de Galicia Europa (720p)
-https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televisión Mogán" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=320&height=320" group-title="",Televisión Mogán (1080p)
-https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="http://tentv.es/wp-content/uploads/2016/05/ten.png" group-title="",Ten (720p)
-http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trebujena TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="",Trebujena TV
-http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="Local",Trebujena TV (360p)
-https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
-#EXTINF:-1 tvg-id="13 TV" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" group-title="",Trece
-https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="8 La Janda" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/8lajanda/picture?width=320&height=320" group-title="",Tuya TV La Janda
-http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="",TV Municipal Cordoba (414p)
-http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
-#EXTINF:-1 tvg-id="TV3.TDTChannelsEPG" tvg-name="TV3" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/tv3/picture?width=320&height=320" group-title="",TV3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="",TV3 Catalunya (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="",TVG América (720p)
-https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Cultural (720p)
-https://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="",TVG Evento 1 (720p)
-https://events1-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVG Evento 5" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="",TVG Evento 5 (720p)
-https://amodino-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Infantil (720p)
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="Local",TVG Momento (720p)
-https://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Musigal (360p)
-https://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="Local",tvG2 (720p)
-https://events2-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVG 2" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png" group-title="",tvG2 (720p)
-https://events3-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVM Córdoba" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=320&height=320" group-title="",TVM Córdoba (414p)
-http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Une Vinalopó" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/UneVinalopo/picture?width=320&height=320" group-title="",Une Vinalopó
-http://78.41.83.88:8880/hls/unesd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imgur.com/eEoRNnt.png" group-title="",Urban Revolution TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="",Urola Telebista
-https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
-#EXTINF:-1 tvg-id="APUNT.TV" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="General",À Punt (720p)
-https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTM3U
+#EXTINF:-1,TVE INTERNACIONAL HD
+http://bazarhd.online:80/307210117666/307210117666/79362
+#EXTINF:-1,LA 1 HD
+http://bazarhd.online:80/307210117666/307210117666/79361
+#EXTINF:-1,LA 2  HD
+http://bazarhd.online:80/307210117666/307210117666/79360
+#EXTINF:-1,ANTENA 3 HD
+http://bazarhd.online:80/307210117666/307210117666/79359
+#EXTINF:-1,CUATRO HD
+http://bazarhd.online:80/307210117666/307210117666/79358
+#EXTINF:-1,TELECINCO HD
+http://bazarhd.online:80/307210117666/307210117666/79357
+#EXTINF:-1,LA SEXTA HD
+http://bazarhd.online:80/307210117666/307210117666/79356
+#EXTINF:-1,CANAL SUR A.
+http://bazarhd.online:80/307210117666/307210117666/79355
+#EXTINF:-1,FDF
+http://bazarhd.online:80/307210117666/307210117666/79354
+#EXTINF:-1,ENERGY
+http://bazarhd.online:80/307210117666/307210117666/79353
+#EXTINF:-1,DIVINITY
+http://bazarhd.online:80/307210117666/307210117666/79352
+#EXTINF:-1,MEGA HD
+http://bazarhd.online:80/307210117666/307210117666/79351
+#EXTINF:-1,BE MAD
+http://bazarhd.online:80/307210117666/307210117666/79350
+#EXTINF:-1,CANAL 24 HORAS
+http://bazarhd.online:80/307210117666/307210117666/79349
+#EXTINF:-1,0 HD
+http://bazarhd.online:80/307210117666/307210117666/79348
+#EXTINF:-1,ARAGON TV INT
+http://bazarhd.online:80/307210117666/307210117666/79347
+#EXTINF:-1,NOVA
+http://bazarhd.online:80/307210117666/307210117666/79346
+#EXTINF:-1,CANAL ORBE21
+http://bazarhd.online:80/307210117666/307210117666/79345
+#EXTINF:-1,24 HORAS
+http://bazarhd.online:80/307210117666/307210117666/79344
+#EXTINF:-1,TVGA HD
+http://bazarhd.online:80/307210117666/307210117666/79343
+#EXTINF:-1,#VAMOS HD
+http://bazarhd.online:80/307210117666/307210117666/79342
+#EXTINF:-1,XTRM HD
+http://bazarhd.online:80/307210117666/307210117666/79341
+#EXTINF:-1,ATRE SERIES HD
+http://bazarhd.online:80/307210117666/307210117666/79340
+#EXTINF:-1,NEOX
+http://bazarhd.online:80/307210117666/307210117666/79339
+#EXTINF:-1,BABY TV
+http://bazarhd.online:80/307210117666/307210117666/79337
+#EXTINF:-1,BOING
+http://bazarhd.online:80/307210117666/307210117666/79336
+#EXTINF:-1,CLAN TVE
+http://bazarhd.online:80/307210117666/307210117666/79335
+#EXTINF:-1,DISNEY CH HD
+http://bazarhd.online:80/307210117666/307210117666/79334
+#EXTINF:-1,DISNEY JR
+http://bazarhd.online:80/307210117666/307210117666/79333
+#EXTINF:-1,DISNEY+
+http://bazarhd.online:80/307210117666/307210117666/79332
+#EXTINF:-1,NICK JR
+http://bazarhd.online:80/307210117666/307210117666/79331
+#EXTINF:-1,NICKELODEON  HD
+http://bazarhd.online:80/307210117666/307210117666/79330
+#EXTINF:-1,CANAL PANDA
+http://bazarhd.online:80/307210117666/307210117666/79329
+#EXTINF:-1,NICK/MTV
+http://bazarhd.online:80/307210117666/307210117666/79328
+#EXTINF:-1,AMC HD
+http://bazarhd.online:80/307210117666/307210117666/79326
+#EXTINF:-1,AXN
+http://bazarhd.online:80/307210117666/307210117666/79325
+#EXTINF:-1,AXN HD
+http://bazarhd.online:80/307210117666/307210117666/79324
+#EXTINF:-1,AXN WHITE HD
+http://bazarhd.online:80/307210117666/307210117666/79323
+#EXTINF:-1,CALLE 13 HD
+http://bazarhd.online:80/307210117666/307210117666/79322
+#EXTINF:-1,COMEDY CENTRAL HD
+http://bazarhd.online:80/307210117666/307210117666/79321
+#EXTINF:-1,COSMO HD
+http://bazarhd.online:80/307210117666/307210117666/79320
+#EXTINF:-1,FOX HD
+http://bazarhd.online:80/307210117666/307210117666/79319
+#EXTINF:-1,FOX LIFE HD
+http://bazarhd.online:80/307210117666/307210117666/79318
+#EXTINF:-1,HOLLYWOOD HD
+http://bazarhd.online:80/307210117666/307210117666/79317
+#EXTINF:-1,PARAMOUNT
+http://bazarhd.online:80/307210117666/307210117666/79316
+#EXTINF:-1,SUNDANCE TV
+http://bazarhd.online:80/307210117666/307210117666/79315
+#EXTINF:-1,SYFY HD
+http://bazarhd.online:80/307210117666/307210117666/79314
+#EXTINF:-1,TCM HD
+http://bazarhd.online:80/307210117666/307210117666/79313
+#EXTINF:-1,TNT HD
+http://bazarhd.online:80/307210117666/307210117666/79312
+#EXTINF:-1,CLASSICA
+http://bazarhd.online:80/307210117666/307210117666/79311
+#EXTINF:-1,M.LCAMPEONES
+http://bazarhd.online:80/307210117666/307210117666/79309
+#EXTINF:-1,LALIGA TV BAR
+http://bazarhd.online:80/307210117666/307210117666/79308
+#EXTINF:-1,LALIGA TV BAR 1
+http://bazarhd.online:80/307210117666/307210117666/79307
+#EXTINF:-1,BEIN LALIGA HD
+http://bazarhd.online:80/307210117666/307210117666/79306
+#EXTINF:-1,BEIN LALIGA1 HD
+http://bazarhd.online:80/307210117666/307210117666/79305
+#EXTINF:-1,EUROSPORT1 HD
+http://bazarhd.online:80/307210117666/307210117666/79304
+#EXTINF:-1,EUROSPORT 1
+http://bazarhd.online:80/307210117666/307210117666/79303
+#EXTINF:-1,EUROSPORT 2
+http://bazarhd.online:80/307210117666/307210117666/79302
+#EXTINF:-1,GOL
+http://bazarhd.online:80/307210117666/307210117666/79301
+#EXTINF:-1,BAR TV
+http://bazarhd.online:80/307210117666/307210117666/79300
+#EXTINF:-1,R. MADRID TV
+http://bazarhd.online:80/307210117666/307210117666/79299
+#EXTINF:-1,TOROS HD
+http://bazarhd.online:80/307210117666/307210117666/79298
+#EXTINF:-1,M.FORMULA1 HD
+http://bazarhd.online:80/307210117666/307210117666/79297
+#EXTINF:-1,M. FORMULA1 HD
+http://bazarhd.online:80/307210117666/307210117666/79296
+#EXTINF:-1,M.GOLF HD
+http://bazarhd.online:80/307210117666/307210117666/79295
+#EXTINF:-1,M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://bazarhd.online:80/307210117666/307210117666/79294
+#EXTINF:-1,DAZN 1 HD
+http://bazarhd.online:80/307210117666/307210117666/79293
+#EXTINF:-1,DAZN 2 HD
+http://bazarhd.online:80/307210117666/307210117666/79292
+#EXTINF:-1,M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://bazarhd.online:80/307210117666/307210117666/79291
+#EXTINF:-1,M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://bazarhd.online:80/307210117666/307210117666/79290
+#EXTINF:-1,M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://bazarhd.online:80/307210117666/307210117666/79289
+#EXTINF:-1,M.ACCION HD
+http://bazarhd.online:80/307210117666/307210117666/79287
+#EXTINF:-1,M. CINE ESPANOL
+http://bazarhd.online:80/307210117666/307210117666/79286
+#EXTINF:-1,M. COMEDIA HD
+http://bazarhd.online:80/307210117666/307210117666/79285
+#EXTINF:-1,M.DRAMA HD
+http://bazarhd.online:80/307210117666/307210117666/79284
+#EXTINF:-1,M.ESTRENOS HD
+http://bazarhd.online:80/307210117666/307210117666/79283
+#EXTINF:-1,M.CINEDOC&ROLL
+http://bazarhd.online:80/307210117666/307210117666/79282
+#EXTINF:-1,M.CINEDOC&ROLL HD
+http://bazarhd.online:80/307210117666/307210117666/79281
+#EXTINF:-1,M.SERIES HD
+http://bazarhd.online:80/307210117666/307210117666/79280
+#EXTINF:-1,M.SERIESMANIA HD
+http://bazarhd.online:80/307210117666/307210117666/79279
+#EXTINF:-1,M.DEPORTES1 HD
+http://bazarhd.online:80/307210117666/307210117666/79277
+#EXTINF:-1,M. DEPORTES HD
+http://bazarhd.online:80/307210117666/307210117666/79276
+#EXTINF:-1,TELEDEPORTE
+http://bazarhd.online:80/307210117666/307210117666/79275
+#EXTINF:-1,MEZZO
+http://bazarhd.online:80/307210117666/307210117666/79274
+#EXTINF:-1,MEZZO LIVE HD
+http://bazarhd.online:80/307210117666/307210117666/79273
+#EXTINF:-1,M.WIMBLEDONHD
+http://bazarhd.online:80/307210117666/307210117666/79272
+#EXTINF:-1,MTV
+http://bazarhd.online:80/307210117666/307210117666/79270
+#EXTINF:-1,MTV ESPA¹A
+http://bazarhd.online:80/307210117666/307210117666/79269
+#EXTINF:-1,MTV HITS
+http://bazarhd.online:80/307210117666/307210117666/79268
+#EXTINF:-1,MTV DANCE
+http://bazarhd.online:80/307210117666/307210117666/79267
+#EXTINF:-1,BLAZE
+http://bazarhd.online:80/307210117666/307210117666/79265
+#EXTINF:-1,CANAL COCINA
+http://bazarhd.online:80/307210117666/307210117666/79264
+#EXTINF:-1,CANAL DECASA
+http://bazarhd.online:80/307210117666/307210117666/79263
+#EXTINF:-1,CAZAYPESCA HD
+http://bazarhd.online:80/307210117666/307210117666/79262
+#EXTINF:-1,CRIMEN+INVES
+http://bazarhd.online:80/307210117666/307210117666/79261
+#EXTINF:-1,DISCOVERY
+http://bazarhd.online:80/307210117666/307210117666/79260
+#EXTINF:-1,HISTORIA
+http://bazarhd.online:80/307210117666/307210117666/79259
+#EXTINF:-1,IBERALIA TV
+http://bazarhd.online:80/307210117666/307210117666/79258
+#EXTINF:-1,NAT GEO HD
+http://bazarhd.online:80/307210117666/307210117666/79257
+#EXTINF:-1,NAT GEO WILD
+http://bazarhd.online:80/307210117666/307210117666/79256
+#EXTINF:-1,NAT GEO WILD HD
+http://bazarhd.online:80/307210117666/307210117666/79255
+#EXTINF:-1,CANAL ODISEA
+http://bazarhd.online:80/307210117666/307210117666/79254
+#EXTINF:-1,VIAJAR HD
+http://bazarhd.online:80/307210117666/307210117666/79253
+#EXTINF:-1,VH1
+http://bazarhd.online:80/307210117666/307210117666/79252
+#EXTINF:-1,FOX NEWS
+http://bazarhd.online:80/307210117666/307210117666/79250
+#EXTINF:-1,CORONA VIRUS INFO
+http://bazarhd.online:80/307210117666/307210117666/79248
+#EXTINF:-1,TVE INTERNACIONAL HD
+http://bazarhd.online:80/307210117666/307210117666/79247
+#EXTINF:-1,LA 1 HD
+http://bazarhd.online:80/307210117666/307210117666/79246
+#EXTINF:-1,LA 2 HD
+http://bazarhd.online:80/307210117666/307210117666/79245
+#EXTINF:-1,ANTENA 3 HD
+http://bazarhd.online:80/307210117666/307210117666/79244
+#EXTINF:-1,CUATRO HD
+http://bazarhd.online:80/307210117666/307210117666/79243
+#EXTINF:-1,TELECINCO HD
+http://bazarhd.online:80/307210117666/307210117666/79242
+#EXTINF:-1,LA SEXTA HD
+http://bazarhd.online:80/307210117666/307210117666/79241
+#EXTINF:-1,CANAL SUR A.
+http://bazarhd.online:80/307210117666/307210117666/79240
+#EXTINF:-1,NOVA
+http://bazarhd.online:80/307210117666/307210117666/79239
+#EXTINF:-1,CANAL 24 HORAS
+http://bazarhd.online:80/307210117666/307210117666/79238
+#EXTINF:-1,CANAL ORBE21
+http://bazarhd.online:80/307210117666/307210117666/79237
+#EXTINF:-1,24 HORAS
+http://bazarhd.online:80/307210117666/307210117666/79236
+#EXTINF:-1,TVGA HD
+http://bazarhd.online:80/307210117666/307210117666/79235
+#EXTINF:-1,FDF
+http://bazarhd.online:80/307210117666/307210117666/79234
+#EXTINF:-1,CLAN TVE
+http://bazarhd.online:80/307210117666/307210117666/79233
+#EXTINF:-1,HOLLYWOOD HD
+http://bazarhd.online:80/307210117666/307210117666/79232
+#EXTINF:-1,IBERALIA TV
+http://bazarhd.online:80/307210117666/307210117666/79231
+#EXTINF:-1,MEGA HD [HEVC]
+http://bazarhd.online:80/307210117666/307210117666/79230
+#EXTINF:-1,#VAMOS HD
+http://bazarhd.online:80/307210117666/307210117666/79229
+#EXTINF:-1,XTRM HD
+http://bazarhd.online:80/307210117666/307210117666/79228
+#EXTINF:-1,ATRE SERIES HD
+http://bazarhd.online:80/307210117666/307210117666/79227
+#EXTINF:-1,NEOX
+http://bazarhd.online:80/307210117666/307210117666/79226
+#EXTINF:-1,BABY TV
+http://bazarhd.online:80/307210117666/307210117666/79224
+#EXTINF:-1,BOING
+http://bazarhd.online:80/307210117666/307210117666/79223
+#EXTINF:-1,CANAL PANDA
+http://bazarhd.online:80/307210117666/307210117666/79222
+#EXTINF:-1,COMEDYCENTRAL HD
+http://bazarhd.online:80/307210117666/307210117666/79221
+#EXTINF:-1,DISNEY CH HD
+http://bazarhd.online:80/307210117666/307210117666/79220
+#EXTINF:-1,DISNEY JR
+http://bazarhd.online:80/307210117666/307210117666/79219
+#EXTINF:-1,DISNEY+
+http://bazarhd.online:80/307210117666/307210117666/79218
+#EXTINF:-1,NICK JR
+http://bazarhd.online:80/307210117666/307210117666/79217
+#EXTINF:-1,NICK/MTV
+http://bazarhd.online:80/307210117666/307210117666/79216
+#EXTINF:-1,NICKELODEON HD
+http://bazarhd.online:80/307210117666/307210117666/79215
+#EXTINF:-1,FOX HD
+http://bazarhd.online:80/307210117666/307210117666/79213
+#EXTINF:-1,FOX LIFE HD
+http://bazarhd.online:80/307210117666/307210117666/79212
+#EXTINF:-1,0 HD
+http://bazarhd.online:80/307210117666/307210117666/79211
+#EXTINF:-1,AMC HD
+http://bazarhd.online:80/307210117666/307210117666/79210
+#EXTINF:-1,ARAGON TV INT
+http://bazarhd.online:80/307210117666/307210117666/79209
+#EXTINF:-1,AXN
+http://bazarhd.online:80/307210117666/307210117666/79208
+#EXTINF:-1,AXN HD
+http://bazarhd.online:80/307210117666/307210117666/79207
+#EXTINF:-1,AXN WHITE HD
+http://bazarhd.online:80/307210117666/307210117666/79206
+#EXTINF:-1,SYFY HD
+http://bazarhd.online:80/307210117666/307210117666/79205
+#EXTINF:-1,TCM HD
+http://bazarhd.online:80/307210117666/307210117666/79204
+#EXTINF:-1,TNT HD
+http://bazarhd.online:80/307210117666/307210117666/79203
+#EXTINF:-1,BE MAD
+http://bazarhd.online:80/307210117666/307210117666/79202
+#EXTINF:-1,BLAZE
+http://bazarhd.online:80/307210117666/307210117666/79201
+#EXTINF:-1,CALLE 13 HD
+http://bazarhd.online:80/307210117666/307210117666/79200
+#EXTINF:-1,CANAL COCINA
+http://bazarhd.online:80/307210117666/307210117666/79199
+#EXTINF:-1,CANAL DECASA
+http://bazarhd.online:80/307210117666/307210117666/79198
+#EXTINF:-1,CANAL ODISEA
+http://bazarhd.online:80/307210117666/307210117666/79197
+#EXTINF:-1,CAZAYPESCA HD
+http://bazarhd.online:80/307210117666/307210117666/79196
+#EXTINF:-1,CLASSICA
+http://bazarhd.online:80/307210117666/307210117666/79195
+#EXTINF:-1,COSMO HD
+http://bazarhd.online:80/307210117666/307210117666/79194
+#EXTINF:-1,CRIMEN INVES
+http://bazarhd.online:80/307210117666/307210117666/79193
+#EXTINF:-1,DIVINITY
+http://bazarhd.online:80/307210117666/307210117666/79192
+#EXTINF:-1,ENERGY
+http://bazarhd.online:80/307210117666/307210117666/79191
+#EXTINF:-1,M.LCAMPEONES
+http://bazarhd.online:80/307210117666/307210117666/79189
+#EXTINF:-1,LALIGA TV BAR
+http://bazarhd.online:80/307210117666/307210117666/79188
+#EXTINF:-1,LALIGA TV BAR 1
+http://bazarhd.online:80/307210117666/307210117666/79187
+#EXTINF:-1,BEIN LALIGA HD
+http://bazarhd.online:80/307210117666/307210117666/79186
+#EXTINF:-1,BEIN LALIGA1 HD
+http://bazarhd.online:80/307210117666/307210117666/79185
+#EXTINF:-1,EUROSPORT1 HD
+http://bazarhd.online:80/307210117666/307210117666/79184
+#EXTINF:-1,EUROSPORT 1
+http://bazarhd.online:80/307210117666/307210117666/79183
+#EXTINF:-1,EUROSPORT 2
+http://bazarhd.online:80/307210117666/307210117666/79182
+#EXTINF:-1,GOL
+http://bazarhd.online:80/307210117666/307210117666/79181
+#EXTINF:-1,BAR TV
+http://bazarhd.online:80/307210117666/307210117666/79180
+#EXTINF:-1,R.MADRID TV
+http://bazarhd.online:80/307210117666/307210117666/79179
+#EXTINF:-1,TOROS HD
+http://bazarhd.online:80/307210117666/307210117666/79178
+#EXTINF:-1,M.FORMULA1 HD
+http://bazarhd.online:80/307210117666/307210117666/79177
+#EXTINF:-1,M.FORMULA1
+http://bazarhd.online:80/307210117666/307210117666/79176
+#EXTINF:-1,M.GOLF HD
+http://bazarhd.online:80/307210117666/307210117666/79175
+#EXTINF:-1,M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://bazarhd.online:80/307210117666/307210117666/79174
+#EXTINF:-1,DAZN 1 HD
+http://bazarhd.online:80/307210117666/307210117666/79173
+#EXTINF:-1,DAZN 2 HD
+http://bazarhd.online:80/307210117666/307210117666/79172
+#EXTINF:-1,M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://bazarhd.online:80/307210117666/307210117666/79171
+#EXTINF:-1,M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://bazarhd.online:80/307210117666/307210117666/79170
+#EXTINF:-1,M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://bazarhd.online:80/307210117666/307210117666/79169
+#EXTINF:-1,M.ACCION HD
+http://bazarhd.online:80/307210117666/307210117666/79167
+#EXTINF:-1,M.CINE ESPANOL
+http://bazarhd.online:80/307210117666/307210117666/79166
+#EXTINF:-1,M.COMEDIA HD
+http://bazarhd.online:80/307210117666/307210117666/79165
+#EXTINF:-1,M.DRAMA HD
+http://bazarhd.online:80/307210117666/307210117666/79164
+#EXTINF:-1,M.ESTRENOS HD
+http://bazarhd.online:80/307210117666/307210117666/79163
+#EXTINF:-1,M.CINEDOC&ROLL
+http://bazarhd.online:80/307210117666/307210117666/79162
+#EXTINF:-1,M.CINEDOC&ROLL HD
+http://bazarhd.online:80/307210117666/307210117666/79161
+#EXTINF:-1,M.SERIES HD
+http://bazarhd.online:80/307210117666/307210117666/79160
+#EXTINF:-1,M.SERIESMANIA HD
+http://bazarhd.online:80/307210117666/307210117666/79159
+#EXTINF:-1,M. DEPORTES HD
+http://bazarhd.online:80/307210117666/307210117666/79157
+#EXTINF:-1,M.DEPORTES1 HD
+http://bazarhd.online:80/307210117666/307210117666/79156
+#EXTINF:-1,TELEDEPORTE
+http://bazarhd.online:80/307210117666/307210117666/79155
+#EXTINF:-1,MEZZO
+http://bazarhd.online:80/307210117666/307210117666/79154
+#EXTINF:-1,MEZZO LIVE HD
+http://bazarhd.online:80/307210117666/307210117666/79153
+#EXTINF:-1,M.WIMBLEDON HD
+http://bazarhd.online:80/307210117666/307210117666/79152
+#EXTINF:-1,MTV
+http://bazarhd.online:80/307210117666/307210117666/79150
+#EXTINF:-1,MTV DANCE
+http://bazarhd.online:80/307210117666/307210117666/79149
+#EXTINF:-1,MTV ESPA¹A
+http://bazarhd.online:80/307210117666/307210117666/79148
+#EXTINF:-1,MTV HITS
+http://bazarhd.online:80/307210117666/307210117666/79147
+#EXTINF:-1,SUNDANCE TV
+http://bazarhd.online:80/307210117666/307210117666/79146
+#EXTINF:-1,DISCOVERY
+http://bazarhd.online:80/307210117666/307210117666/79144
+#EXTINF:-1,NAT GEO HD
+http://bazarhd.online:80/307210117666/307210117666/79143
+#EXTINF:-1,NAT GEO WILD
+http://bazarhd.online:80/307210117666/307210117666/79142
+#EXTINF:-1,NAT GEO WILD HD
+http://bazarhd.online:80/307210117666/307210117666/79141
+#EXTINF:-1,PARAMOUNT
+http://bazarhd.online:80/307210117666/307210117666/79140
+#EXTINF:-1,VH1
+http://bazarhd.online:80/307210117666/307210117666/79139
+#EXTINF:-1,VIAJAR HD
+http://bazarhd.online:80/307210117666/307210117666/79138
+#EXTINF:-1,HISTORIA
+http://bazarhd.online:80/307210117666/307210117666/79137
+#EXTINF:-1,FOX NEWS
+http://bazarhd.online:80/307210117666/307210117666/79135
