@@ -1,283 +1,115 @@
 #EXTM3U
-#EXTINF:-1,BBC One
-http://infinite.dnsabr.com:8080/kim/kim/1134
-#EXTINF:-1,BBC Two
-http://infinite.dnsabr.com:8080/kim/kim/1133
-#EXTINF:-1,ITV
-http://infinite.dnsabr.com:8080/kim/kim/1132
-#EXTINF:-1,Channel 4
-http://infinite.dnsabr.com:8080/kim/kim/1131
-#EXTINF:-1,Channel 5
-http://infinite.dnsabr.com:8080/kim/kim/1130
-#EXTINF:-1,Sky 1
-http://infinite.dnsabr.com:8080/kim/kim/1129
-#EXTINF:-1,Sky Witness
-http://infinite.dnsabr.com:8080/kim/kim/1126
-#EXTINF:-1,Sky Atlantic
-http://infinite.dnsabr.com:8080/kim/kim/1127
-#EXTINF:-1,Sky Crime
-http://infinite.dnsabr.com:8080/kim/kim/9625
-#EXTINF:-1,W
-http://infinite.dnsabr.com:8080/kim/kim/1107
-#EXTINF:-1,Gold
-http://infinite.dnsabr.com:8080/kim/kim/1109
-#EXTINF:-1,Dave
-http://infinite.dnsabr.com:8080/kim/kim/1113
-#EXTINF:-1,Comedy Central
-http://infinite.dnsabr.com:8080/kim/kim/1116
-#EXTINF:-1,Sky Comedy
-http://infinite.dnsabr.com:8080/kim/kim/50926
-#EXTINF:-1,Eden
-http://infinite.dnsabr.com:8080/kim/kim/5610
-#EXTINF:-1,SyFy
-http://infinite.dnsabr.com:8080/kim/kim/1108
-#EXTINF:-1,ITV 2
-http://infinite.dnsabr.com:8080/kim/kim/1125
-#EXTINF:-1,ITV 3
-http://infinite.dnsabr.com:8080/kim/kim/3831
-#EXTINF:-1,ITV 4
-http://infinite.dnsabr.com:8080/kim/kim/1124
-#EXTINF:-1,Fox
-http://infinite.dnsabr.com:8080/kim/kim/1110
-#EXTINF:-1,Comedy Central Extra
-http://infinite.dnsabr.com:8080/kim/kim/1115
-#EXTINF:-1,5 Star
-http://infinite.dnsabr.com:8080/kim/kim/1118
-#EXTINF:-1,Home & Health
-http://infinite.dnsabr.com:8080/kim/kim/5611
-#EXTINF:-1,ITV BE
-http://infinite.dnsabr.com:8080/kim/kim/1123
-#EXTINF:-1,E4
-http://infinite.dnsabr.com:8080/kim/kim/1121
-#EXTINF:-1,More 4
-http://infinite.dnsabr.com:8080/kim/kim/1122
-#EXTINF:-1,4Seven
-http://infinite.dnsabr.com:8080/kim/kim/1120
-#EXTINF:-1,5 USA
-http://infinite.dnsabr.com:8080/kim/kim/1117
-#EXTINF:-1,Really
-http://infinite.dnsabr.com:8080/kim/kim/1105
-#EXTINF:-1,Drama
-http://infinite.dnsabr.com:8080/kim/kim/1112
-#EXTINF:-1,Challenge
-http://infinite.dnsabr.com:8080/kim/kim/1114
-#EXTINF:-1,Sky 2
-http://infinite.dnsabr.com:8080/kim/kim/1128
-#EXTINF:-1,AMC
-http://infinite.dnsabr.com:8080/kim/kim/1111
-#EXTINF:-1,Alibi
-http://infinite.dnsabr.com:8080/kim/kim/4695
-#EXTINF:-1,TLC
-http://infinite.dnsabr.com:8080/kim/kim/4709
-#EXTINF:-1,Quest
-http://infinite.dnsabr.com:8080/kim/kim/4710
-#EXTINF:-1,Universal
-http://infinite.dnsabr.com:8080/kim/kim/7392
-#EXTINF:-1,Discovery Channel
-http://infinite.dnsabr.com:8080/kim/kim/1101
-#EXTINF:-1,Nat Geo
-http://infinite.dnsabr.com:8080/kim/kim/1104
-#EXTINF:-1,History
-http://infinite.dnsabr.com:8080/kim/kim/1095
-#EXTINF:-1,Investigation Discovery
-http://infinite.dnsabr.com:8080/kim/kim/1097
-#EXTINF:-1,Yesterday
-http://infinite.dnsabr.com:8080/kim/kim/1106
-#EXTINF:-1,Crime & Investigation
-http://infinite.dnsabr.com:8080/kim/kim/1096
-#EXTINF:-1,Discovery Turbo
-http://infinite.dnsabr.com:8080/kim/kim/1098
-#EXTINF:-1,Animal Planet
-http://infinite.dnsabr.com:8080/kim/kim/1102
-#EXTINF:-1,H2
-http://infinite.dnsabr.com:8080/kim/kim/1094
-#EXTINF:-1,Nat Geo Wild
-http://infinite.dnsabr.com:8080/kim/kim/1103
-#EXTINF:-1,Discovery History
-http://infinite.dnsabr.com:8080/kim/kim/1100
-#EXTINF:-1,Discovery Science
-http://infinite.dnsabr.com:8080/kim/kim/1099
-#EXTINF:-1,Discovery Shed
-http://infinite.dnsabr.com:8080/kim/kim/1093
-#EXTINF:-1,Sky Cinema Premier
-http://infinite.dnsabr.com:8080/kim/kim/1092
-#EXTINF:-1,Sky Cinema Hits
-http://infinite.dnsabr.com:8080/kim/kim/1085
-#EXTINF:-1,Sky Cinema Animation
-http://infinite.dnsabr.com:8080/kim/kim/1087
-#EXTINF:-1,Sky Cinema Action
-http://infinite.dnsabr.com:8080/kim/kim/1091
-#EXTINF:-1,Sky Cinema Comedy
-http://infinite.dnsabr.com:8080/kim/kim/1089
-#EXTINF:-1,Sky Cinema Crime & Thriller
-http://infinite.dnsabr.com:8080/kim/kim/1088
-#EXTINF:-1,Sky Cinema Greats
-http://infinite.dnsabr.com:8080/kim/kim/1084
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror
-http://infinite.dnsabr.com:8080/kim/kim/1083
-#EXTINF:-1,Sky Cinema Family
-http://infinite.dnsabr.com:8080/kim/kim/1086
-#EXTINF:-1,Sky Cinema Drama
-http://infinite.dnsabr.com:8080/kim/kim/1090
-#EXTINF:-1, Sky Cinema Harry Potter
-http://infinite.dnsabr.com:8080/kim/kim/5630
-#EXTINF:-1,Film 4
-http://infinite.dnsabr.com:8080/kim/kim/4696
-#EXTINF:-1,TCM
-http://infinite.dnsabr.com:8080/kim/kim/4705
-#EXTINF:-1,Sky Sports Main Event
-http://infinite.dnsabr.com:8080/kim/kim/1072
-#EXTINF:-1,Sky Sports Premier League
-http://infinite.dnsabr.com:8080/kim/kim/1069
-#EXTINF:-1,Sky Sports Football
-http://infinite.dnsabr.com:8080/kim/kim/1074
-#EXTINF:-1,Sky Sports Cricket
-http://infinite.dnsabr.com:8080/kim/kim/1076
-#EXTINF:-1,Sky Sports Golf
-http://infinite.dnsabr.com:8080/kim/kim/1073
-#EXTINF:-1,Sky Sports F1
-http://infinite.dnsabr.com:8080/kim/kim/1075
-#EXTINF:-1,Sky Sports Action
-http://infinite.dnsabr.com:8080/kim/kim/1078
-#EXTINF:-1,Sky Sports News
-http://infinite.dnsabr.com:8080/kim/kim/1070
-#EXTINF:-1,Sky Sports Mix
-http://infinite.dnsabr.com:8080/kim/kim/1071
-#EXTINF:-1,Sky Sports Arena
-http://infinite.dnsabr.com:8080/kim/kim/1077
-#EXTINF:-1,Sky Sports Racing
-http://infinite.dnsabr.com:8080/kim/kim/1068
-#EXTINF:-1,BT Sport 1 
-http://infinite.dnsabr.com:8080/kim/kim/2143
-#EXTINF:-1,BT Sport 2
-http://infinite.dnsabr.com:8080/kim/kim/2144
-#EXTINF:-1,BT Sport 3
-http://infinite.dnsabr.com:8080/kim/kim/1080
-#EXTINF:-1,BT Sport ESPN
-http://infinite.dnsabr.com:8080/kim/kim/2146
-#EXTINF:-1, Chelsea TV
-http://infinite.dnsabr.com:8080/kim/kim/5766
-#EXTINF:-1,Premier Sports 1
-http://infinite.dnsabr.com:8080/kim/kim/5614
-#EXTINF:-1,Premier Sports 2
-http://infinite.dnsabr.com:8080/kim/kim/5615
-#EXTINF:-1,Eurosport 1
-http://infinite.dnsabr.com:8080/kim/kim/1066
-#EXTINF:-1,Eurosport 2
-http://infinite.dnsabr.com:8080/kim/kim/1065
-#EXTINF:-1,Freesports
-http://infinite.dnsabr.com:8080/kim/kim/5765
-#EXTINF:-1,Box Nation
-http://infinite.dnsabr.com:8080/kim/kim/1067
-#EXTINF:-1,MUTV
-http://infinite.dnsabr.com:8080/kim/kim/4704
-#EXTINF:-1,Boomerang
-http://infinite.dnsabr.com:8080/kim/kim/1063
-#EXTINF:-1,Cartoon Network
-http://infinite.dnsabr.com:8080/kim/kim/1062
-#EXTINF:-1,CBBC
-http://infinite.dnsabr.com:8080/kim/kim/1061
-#EXTINF:-1,CBeebies
-http://infinite.dnsabr.com:8080/kim/kim/1060
-#EXTINF:-1,CITV
-http://infinite.dnsabr.com:8080/kim/kim/1059
-#EXTINF:-1,Disney Channel
-http://infinite.dnsabr.com:8080/kim/kim/1058
-#EXTINF:-1,Disney Junior
-http://infinite.dnsabr.com:8080/kim/kim/1057
-#EXTINF:-1,Disney XD
-http://infinite.dnsabr.com:8080/kim/kim/1056
-#EXTINF:-1,Nick Jr
-http://infinite.dnsabr.com:8080/kim/kim/1053
-#EXTINF:-1,Nick Jnr Too
-http://infinite.dnsabr.com:8080/kim/kim/1055
-#EXTINF:-1,Nickelodeon
-http://infinite.dnsabr.com:8080/kim/kim/1054
-#EXTINF:-1,Nicktoons
-http://infinite.dnsabr.com:8080/kim/kim/1052
-#EXTINF:-1,Tiny Pop
-http://infinite.dnsabr.com:8080/kim/kim/1051
-#EXTINF:-1,4Music
-http://infinite.dnsabr.com:8080/kim/kim/1050
-#EXTINF:-1,Clubland TV
-http://infinite.dnsabr.com:8080/kim/kim/1049
-#EXTINF:-1,MTV Base
-http://infinite.dnsabr.com:8080/kim/kim/1048
-#EXTINF:-1,MTV Classic
-http://infinite.dnsabr.com:8080/kim/kim/1047
-#EXTINF:-1,MTV Hits
-http://infinite.dnsabr.com:8080/kim/kim/1046
-#EXTINF:-1,MTV Rocks
-http://infinite.dnsabr.com:8080/kim/kim/1045
-#EXTINF:-1,MTV UK
-http://infinite.dnsabr.com:8080/kim/kim/1044
-#EXTINF:-1, Sky News
-http://infinite.dnsabr.com:8080/kim/kim/5634
-#EXTINF:-1,Eleven Sports 1
-http://infinite.dnsabr.com:8080/kim/kim/2169
-#EXTINF:-1,Eleven Sports 2
-http://infinite.dnsabr.com:8080/kim/kim/2170
-#EXTINF:-1,Racing TV
-http://infinite.dnsabr.com:8080/kim/kim/4694
-#EXTINF:-1,Irish-RTE 1
-http://infinite.dnsabr.com:8080/kim/kim/1642
-#EXTINF:-1,Irish-RTE 2
-http://infinite.dnsabr.com:8080/kim/kim/1641
-#EXTINF:-1,Irish-RTE News
-http://infinite.dnsabr.com:8080/kim/kim/1643
-#EXTINF:-1,Irish-TG4
-http://infinite.dnsabr.com:8080/kim/kim/1640
-#EXTINF:-1,Irish- Eir Sport 1
-http://infinite.dnsabr.com:8080/kim/kim/5080
-#EXTINF:-1,Irish- Eir Sport 2
-http://infinite.dnsabr.com:8080/kim/kim/5081
-#EXTINF:-1,Irish- UTV
-http://infinite.dnsabr.com:8080/kim/kim/5082
-#EXTINF:-1,Irish- Virgin Media 1
-http://infinite.dnsabr.com:8080/kim/kim/5077
-#EXTINF:-1,Irish- Virgin Media 2
-http://infinite.dnsabr.com:8080/kim/kim/5078
-#EXTINF:-1,Irish- Virgin Media 3
-http://infinite.dnsabr.com:8080/kim/kim/5079
-#EXTINF:-1,CBS Reality
-http://infinite.dnsabr.com:8080/kim/kim/10951
-#EXTINF:-1,Pick
-http://infinite.dnsabr.com:8080/kim/kim/37256
-#EXTINF:-1,Blaze
-http://infinite.dnsabr.com:8080/kim/kim/38207
-#EXTINF:-1,BBC One Scotland
-http://infinite.dnsabr.com:8080/kim/kim/46653
-#EXTINF:-1,BBC Four
-http://infinite.dnsabr.com:8080/kim/kim/46658
-#EXTINF:-1,BBC News
-http://infinite.dnsabr.com:8080/kim/kim/46659
-#EXTINF:-1,Sky Documentaries
-http://infinite.dnsabr.com:8080/kim/kim/50922
-#EXTINF:-1,Sky Nature
-http://infinite.dnsabr.com:8080/kim/kim/50923
-#EXTINF:-1,Sky Store 1
-http://infinite.dnsabr.com:8080/kim/kim/75667
-#EXTINF:-1,Sky Store 2
-http://infinite.dnsabr.com:8080/kim/kim/75668
-#EXTINF:-1,Sky Store 3
-http://infinite.dnsabr.com:8080/kim/kim/75669
-#EXTINF:-1,Sky Store 4
-http://infinite.dnsabr.com:8080/kim/kim/75670
-#EXTINF:-1,Lifetime
-http://infinite.dnsabr.com:8080/kim/kim/75820
-#EXTINF:-1,Sky Store 5
-http://infinite.dnsabr.com:8080/kim/kim/76661
-#EXTINF:-1, Sky Store Pre Order 
-http://infinite.dnsabr.com:8080/kim/kim/76662
-#EXTINF:-1,Sky Store Pre Order Kids
-http://infinite.dnsabr.com:8080/kim/kim/76663
-#EXTINF:-1,Kiss
-http://infinite.dnsabr.com:8080/kim/kim/100402
-#EXTINF:-1,Now 90's
-http://infinite.dnsabr.com:8080/kim/kim/100403
-#EXTINF:-1,Kerrang
-http://infinite.dnsabr.com:8080/kim/kim/100404
-#EXTINF:-1,Magic TV
-http://infinite.dnsabr.com:8080/kim/kim/101244
-#EXTINF:-1,Rangers TV (Live Events)
-http://infinite.dnsabr.com:8080/kim/kim/105451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="News",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="",Afrobeats 247
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Religious",Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Punjabi;English" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="Religious",Akaal TV (396p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK;ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Al Araby (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK;ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Al Hiwar (1080p)
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-country="UK;ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Scotland
+http://51.52.156.22:8888/http/001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK;IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT;US;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT;US;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" group-title="Music",Box Hits (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/jKUX0C5.png" group-title="",Box Hits (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BritAsia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Buffalo TV (360p)
+https://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids",Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK;IE;BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="",Channel S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="Shop",Cruise 1st TV (396p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="",English Club TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Film 4
+http://51.52.156.22:8888/http/008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Sport",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Sport",Flow Sports 1 (720p)
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gems TV (360p)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Religious",GOD TV (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="",Hala London (1080p)
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Hindi" tvg-logo="https://i.imgur.com/jxf9gQd.jpg" group-title="",Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nn2VfkP.png" group-title="",Kerrang (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AqVdlpz.png" group-title="",Kiss (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="Music",Kool London Radio (720p)
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="",Magic (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-id="" tvg-name="Manoto TV" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto TV (1080p)
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 (720p)
+https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 English (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Original (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Urdu (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 (720p)
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 Urdu (720p)
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3 (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="",MTA Africa (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/m1xhwRa.png" group-title="Shop",QVC
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="",Sangat Television (720p)
+https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/kmHryT4.png" group-title="",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Local",Sheffield Live TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (720p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/axXipp8.png" group-title="",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",The Box (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-id="" tvg-name="V2Beat TV" tvg-country="UK" tvg-language="English" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="Music",V2Beat TV (720p)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" group-title="Music",V2Beat TV (720p)
+https://de1se01.v2beat.live/playlist.m3u8
