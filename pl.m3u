@@ -1,69 +1,371 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/c59VWgF.jpg" group-title="Music",4FUN TV
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/N318K6a.jpg" group-title="",dlaCiebieTV (720p)
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/a5DX4nh.jpg" group-title="",Echo24 (720p)
-https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/hJAoLIq.png" group-title="",Ezo TV (576p)
-http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/kgE2maL.jpg" group-title="",Sfera TV (480p)
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/tgLWe9o.jpg" group-title="",Telewizja Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ilGvIug.jpeg" group-title="",Telewizja Pogranicze (Głubczyce) (720p)
-http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/VaiHvZ3.jpg" group-title="",Telewizja Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ImFmWk5.png" group-title="",Telewizja Republika (1080p)
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/GdbkqCM.png" group-title="",Telewizja Toruń (1080p)
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Ic07Biz.jpg" group-title="",TRUSO.TV (Elbląg) (576p)
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/l8tRJVW.jpg" group-title="",TV Regionalna
-https://tvreg.klemit.net/regionalna/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/k6zdLLu.jpg" group-title="",TV Trwam
-https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zPSpvss.jpg" group-title="",TVP 3 Białystok
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" group-title="",TVP 3 Bydgoszcz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" group-title="",TVP 3 Gdańsk
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" group-title="",TVP 3 Gorzów Wielkopolski
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="",TVP 3 Katowice
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/YcQxM94.jpg" group-title="",TVP 3 Kielce
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" group-title="",TVP 3 Kraków
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" group-title="",TVP 3 Lublin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" group-title="",TVP 3 Olsztyn
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" group-title="",TVP 3 Opole
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" group-title="",TVP 3 Poznań
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" group-title="",TVP 3 Rzeszów
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" group-title="",TVP 3 Szczecin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="",TVP 3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/0em2QIh.jpg" group-title="",TVP 3 Wrocław
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" group-title="",TVP 3 Łódź
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/idt6Zz3.jpg" group-title="",TVP Info
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" group-title="",TVP Parlament
-http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/pJKndl0.jpg" group-title="",TVT Telewizja regionalna (Rybnik)
-http://176.107.129.219/media/tvt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ec8DxWx.jpg" group-title="",Twoja TV
-http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1,13 Ulica HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68604
+#EXTINF:-1,4 Fun Hits
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68605
+#EXTINF:-1,4 Fun TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68606
+#EXTINF:-1,4Fun Dance
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68607
+#EXTINF:-1,4Fun Gold Hits
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68608
+#EXTINF:-1,Active Family
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68609
+#EXTINF:-1,ADVENTURE HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68610
+#EXTINF:-1,ALE KINO HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68611
+#EXTINF:-1,Ale Kino+  HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68612
+#EXTINF:-1,AMC
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68613
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68614
+#EXTINF:-1,ANIMAL PLANET HD 1080
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68615
+#EXTINF:-1,ATM Rozrywka
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68616
+#EXTINF:-1,AXN Black
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68617
+#EXTINF:-1,AXN HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68618
+#EXTINF:-1,AXN SPIN HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68619
+#EXTINF:-1,AXN White
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68620
+#EXTINF:-1,Baby TV HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68621
+#EXTINF:-1,BBC EARTH
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68622
+#EXTINF:-1,BBC HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68623
+#EXTINF:-1,BOOMERANG
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68624
+#EXTINF:-1,CAFE HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68625
+#EXTINF:-1,Canal  1 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68626
+#EXTINF:-1,Canal  1 HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68627
+#EXTINF:-1,CANAL  FAMILY HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68628
+#EXTINF:-1,CANAL  FILM HD 1080
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68629
+#EXTINF:-1,Canal  HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68630
+#EXTINF:-1,Canal Discovery HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68631
+#EXTINF:-1,Canal Family HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68632
+#EXTINF:-1,Canal Film HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68633
+#EXTINF:-1,Canal HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68634
+#EXTINF:-1,CANAL SERIALE
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68635
+#EXTINF:-1,CANAL SERIALE HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68636
+#EXTINF:-1,Canal Seriale HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68637
+#EXTINF:-1,Canal Sport 2 HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68638
+#EXTINF:-1,CANAL SPORT HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68639
+#EXTINF:-1,CANAL SPORTS 2
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68640
+#EXTINF:-1,CANAL+ DISCOVERY HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68641
+#EXTINF:-1,Cartoon Network HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68642
+#EXTINF:-1,CBS Action
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68643
+#EXTINF:-1,CBS Europa HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68644
+#EXTINF:-1,CBS Reality
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68645
+#EXTINF:-1,Cinemax 2 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68646
+#EXTINF:-1,CINEMAX HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68647
+#EXTINF:-1,COMEDY CENTERAL
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68648
+#EXTINF:-1,Comedy Central Family
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68649
+#EXTINF:-1,Da Vinci Learning
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68650
+#EXTINF:-1,Disco Polo Music
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68651
+#EXTINF:-1,Discovery Channel
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68652
+#EXTINF:-1,Discovery HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68653
+#EXTINF:-1,Discovery Historia
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68654
+#EXTINF:-1,Discovery Life HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68655
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68656
+#EXTINF:-1,DISCOVERY TURBO XTRA
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68657
+#EXTINF:-1,DISNEY
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68658
+#EXTINF:-1,Disney Channel
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68659
+#EXTINF:-1,DISNEY J
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68660
+#EXTINF:-1,Disney Junior
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68661
+#EXTINF:-1,Disney XD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68662
+#EXTINF:-1,Domo  HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68663
+#EXTINF:-1,DTX
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68664
+#EXTINF:-1,E! Entertainment
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68665
+#EXTINF:-1,Eleven Extra HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68666
+#EXTINF:-1,Eleven FHD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68667
+#EXTINF:-1,ELEVEN HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68668
+#EXTINF:-1,Eleven Sports 3 FHD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68669
+#EXTINF:-1,Eleven Sports 4 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68670
+#EXTINF:-1,ELEVEN SPORTS HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68671
+#EXTINF:-1,ESKA TV Extra
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68672
+#EXTINF:-1,Eurosport 1 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68673
+#EXTINF:-1,EUROSPORT 1HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68674
+#EXTINF:-1,Eurosport 2
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68675
+#EXTINF:-1,Extreme Sports 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68676
+#EXTINF:-1,Extreme Sports HD 1080
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68677
+#EXTINF:-1,Fightbox FHD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68678
+#EXTINF:-1,Filmbox Action
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68680
+#EXTINF:-1,Filmbox Arthouse
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68681
+#EXTINF:-1,FILMBOX EXTRA
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68682
+#EXTINF:-1,Filmbox Family
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68683
+#EXTINF:-1,Filmbox Premium
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68684
+#EXTINF:-1,FOKUS TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68685
+#EXTINF:-1,FOX COMEDY
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68686
+#EXTINF:-1,FOX HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68687
+#EXTINF:-1,Golf Channel HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68688
+#EXTINF:-1,H2 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68689
+#EXTINF:-1,HBO 2 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68690
+#EXTINF:-1,HBO 2 HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68691
+#EXTINF:-1,HBO 3 HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68692
+#EXTINF:-1,HBO HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68693
+#EXTINF:-1,HBO HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68694
+#EXTINF:-1,HGTV HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68695
+#EXTINF:-1,HIP HOP TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68696
+#EXTINF:-1,History
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68697
+#EXTINF:-1,History HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68698
+#EXTINF:-1,KINO POLSKA
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68699
+#EXTINF:-1,Kino Polska Muzyka
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68700
+#EXTINF:-1,Kino Tv
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68701
+#EXTINF:-1,Kuchnia  HD HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68702
+#EXTINF:-1,Lifetime HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68703
+#EXTINF:-1,Mango 24
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68704
+#EXTINF:-1,Metro
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68705
+#EXTINF:-1,MiniMini  HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68706
+#EXTINF:-1,MTV Dance HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68707
+#EXTINF:-1,MTV Polska HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68708
+#EXTINF:-1,Nat Geo HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68709
+#EXTINF:-1,Nat Geo People HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68710
+#EXTINF:-1,NAT GEO WILD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68711
+#EXTINF:-1,Nat Geographic
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68712
+#EXTINF:-1,Nick Jr
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68713
+#EXTINF:-1,NOWA TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68714
+#EXTINF:-1,Nsport
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68715
+#EXTINF:-1,Nsport HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68716
+#EXTINF:-1,Paramount Channel HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68717
+#EXTINF:-1,Planete+ HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68718
+#EXTINF:-1,PLAY HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68719
+#EXTINF:-1,Polo TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68720
+#EXTINF:-1,Polsat
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68721
+#EXTINF:-1,POLSAT 2
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68722
+#EXTINF:-1,Polsat 2 HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68723
+#EXTINF:-1,Polsat Cafe
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68724
+#EXTINF:-1,Polsat Cafe HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68725
+#EXTINF:-1,Polsat Doku FHD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68726
+#EXTINF:-1,Polsat Film HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68728
+#EXTINF:-1,Polsat HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68729
+#EXTINF:-1,Polsat Jim Jam
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68730
+#EXTINF:-1,Polsat Music FHD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68731
+#EXTINF:-1,Polsat News
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68732
+#EXTINF:-1,POLSAT PLAY
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68733
+#EXTINF:-1,Polsat Play HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68734
+#EXTINF:-1,POLSAT ROMANS HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68735
+#EXTINF:-1,Polsat Sport Extra
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68736
+#EXTINF:-1,Polsat Sport Extra HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68737
+#EXTINF:-1,Polsat Sport Fight HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68738
+#EXTINF:-1,Polsat Sport News HD 1080
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68739
+#EXTINF:-1,POLSAT SPORTS
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68740
+#EXTINF:-1,Polsat Viasat Explore HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68741
+#EXTINF:-1,Polsat Viasat History HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68742
+#EXTINF:-1,Polsat Viasat Nature
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68743
+#EXTINF:-1,Power TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68744
+#EXTINF:-1,Puls 2
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68745
+#EXTINF:-1,SciFi Universal
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68746
+#EXTINF:-1,Sport Klub Polska
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68747
+#EXTINF:-1,Stars TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68748
+#EXTINF:-1,Stopklatka TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68749
+#EXTINF:-1,Super Polsat
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68750
+#EXTINF:-1,TeleToon+ HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68751
+#EXTINF:-1,TLC HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68752
+#EXTINF:-1,TNT HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68753
+#EXTINF:-1,TTV HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68754
+#EXTINF:-1,TV Puls
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68755
+#EXTINF:-1,TV Republika
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68756
+#EXTINF:-1,TV Trwam
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68757
+#EXTINF:-1,TV4
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68758
+#EXTINF:-1,TV4 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68759
+#EXTINF:-1,TVN 24
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68760
+#EXTINF:-1,TVN 7
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68761
+#EXTINF:-1,TVN 7 FHD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68762
+#EXTINF:-1,Tvn Fabula HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68763
+#EXTINF:-1,TVN Fabula HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68764
+#EXTINF:-1,TVN HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68765
+#EXTINF:-1,Tvn Style
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68766
+#EXTINF:-1,TVN Style HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68767
+#EXTINF:-1,TVN Turbo
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68768
+#EXTINF:-1,TVP 1 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68769
+#EXTINF:-1,TVP 1 HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68770
+#EXTINF:-1,TVP 2 HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68771
+#EXTINF:-1,TVP 2 HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68772
+#EXTINF:-1,TVP ABC
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68773
+#EXTINF:-1,TVP HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68774
+#EXTINF:-1,TVP Historia
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68775
+#EXTINF:-1,TVP INFO
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68776
+#EXTINF:-1,TVP KULTURA
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68777
+#EXTINF:-1,TVP Rozrywka
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68778
+#EXTINF:-1,TVP SERIALE
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68779
+#EXTINF:-1,TVP SPORT HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68780
+#EXTINF:-1,TVP Sport HD 1080P
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68781
+#EXTINF:-1,TVP3
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68782
+#EXTINF:-1,TVS
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68783
+#EXTINF:-1,UNIVERSAL HD
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68784
+#EXTINF:-1,VH1
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68785
+#EXTINF:-1,VIVA POLSKA
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68786
+#EXTINF:-1,Wellbeing
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68787
+#EXTINF:-1,WP
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68788
+#EXTINF:-1,Zest TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68789
+#EXTINF:-1,Zoom TV
+http://iptvturkisch.xyz:7777/mustafakaplan/mustafakaplan/68790
