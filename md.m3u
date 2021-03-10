@@ -23,7 +23,11 @@ http://livebeta.publika.md/LIVE/P/6810.m3u8
 https://livebeta.publika.md/LIVE/P/1000.m3u8
 #EXTINF:-1 tvg-id="publika-tv" tvg-name="Publika TV" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hquii9k.jpg" group-title="News",Publika TV
 https://livebeta.publika.md/LIVE/P/1500.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="TeleM.md" tvg-name="Tele M" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/FVldFIy.jpg" group-title="",Tele M
+=======
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/FVldFIy.jpg" group-title="",Tele M
+>>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTEXCLUSIV.md" tvg-name="TNT_EXCLUSIV" tvg-country="MD" tvg-language="Romanian" tvg-logo="" group-title="",TNT_EXCLUSIV
 http://89.28.25.122/hls/tnt_md.m3u8

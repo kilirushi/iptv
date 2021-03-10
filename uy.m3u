@@ -1,3 +1,7 @@
 #EXTM3U
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="Ovacion.uy" tvg-name="Ovacion" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="",Ovacion
+=======
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="",Ovacion
+>>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8

@@ -55,7 +55,11 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-id="Anjan.in" tvg-name="Anjan" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Anjan (720p)
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ArasanTV.in" tvg-name="Arasan TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="" group-title="Entertainment",Arasan TV (1080p)
+=======
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil" tvg-logo="" group-title="Entertainment",Arasan TV (1080p)
+>>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (576p)
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8

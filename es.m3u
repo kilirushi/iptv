@@ -147,7 +147,11 @@ http://video.telesafor.com/hls/video.m3u8
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 #EXTINF:-1 tvg-id="TeleRibera.es" tvg-name="TeleRibera" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="",TeleRibera
 http://37.187.7.106/teleribera/live.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="TelevisioGirona.es" tvg-name="Televisio Girona" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Local",Televisio Girona
+=======
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Local",Televisio Girona
+>>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-id="Canarias.TDTChannelsEPG" tvg-name="Televisión Canaria" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/225265760833908/picture?width=320&height=320" group-title="",Televisión Canaria (576p)
 https://rtvc-live1-rm.flumotion.com/playlist.m3u8
