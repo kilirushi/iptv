@@ -1,7 +1,3 @@
 #EXTM3U
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews" tvg-country="AFR" tvg-language="English,French" tvg-logo="" group-title="News",Africanews
-=======
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AFR" tvg-language="English,French" tvg-logo="" group-title="News",Africanews
->>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 https://stream-01.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irYx_0FF6U9rTG6jQRaN7dmM)/dm/3/x6i37o5/s/live-3.m3u8

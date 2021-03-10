@@ -105,11 +105,7 @@ https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 http://95.67.12.149:9005
 #EXTINF:-1 tvg-id="z-zapor" tvg-name="Z (Запорожье)" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/f0nOjL8.png" group-title="",Z (Запорожье)
 https://stream.ztv.zp.ua/hls/live.m3u8
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="A1Odessa.ua" tvg-name="А1 (Одесса)" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/0DUi5fO.jpg" group-title="",А1 (Одесса) (480p)
-=======
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/0DUi5fO.jpg" group-title="",А1 (Одесса) (480p)
->>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="A1Odessa.ua" tvg-name="А1 (Одесса)" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/0DUi5fO.jpg" group-title="",А1 (Одесса) (720p)
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8

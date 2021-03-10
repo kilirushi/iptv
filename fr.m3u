@@ -127,7 +127,6 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DBM.fr" tvg-name="DBM" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Music",DBM (1080p)
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="DBMDigitalBlackMusic.fr" tvg-name="DBM (Digital Black Music)" tvg-country="INT" tvg-language="French" tvg-logo="" group-title="Music",DBM (Digital Black Music)
 https://stream-06.ix7.dailymotion.com/sec(SVqA1Jy8rds-vM482iNMuBX_TuHI8a-hYJWnLNhR8HY)/dm/3/x5qokx5/s/live-4.m3u8
 #EXTINF:-1 tvg-id="EuronewsItaliano.fr" tvg-name="Euronews Italiano" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Euronews_2016_logo.svg" group-title="News",Euronews Italiano
@@ -137,17 +136,6 @@ https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronewsnarusskom.fr" tvg-name="Euronews на русском" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4oOscgt.jpg" group-title="News",Euronews на русском (720p)
 https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
 #EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech&Slovak" tvg-country="CZ;SK" tvg-language="English" tvg-logo="" group-title="Fashion",FashionTV Czech&Slovak (450p)
-=======
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="French" tvg-logo="" group-title="Music",DBM (Digital Black Music)
-https://stream-06.ix7.dailymotion.com/sec(SVqA1Jy8rds-vM482iNMuBX_TuHI8a-hYJWnLNhR8HY)/dm/3/x5qokx5/s/live-4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Euronews_2016_logo.svg" group-title="News",Euronews Italiano
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4oOscgt.jpg" group-title="News",Euronews на русском (540p)
-https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4oOscgt.jpg" group-title="News",Euronews на русском (720p)
-https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ;SK" tvg-language="English" tvg-logo="" group-title="Fashion",FashionTV Czech&Slovak (450p)
->>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech&Slovak" tvg-country="CZ" tvg-language="English" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion",FashionTV Czech&Slovak (450p)
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -203,15 +191,9 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Music",Mezzo (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/index.m3u8
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="MyComedy.fr" tvg-name="MyComedy" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Comedy",MyComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaBillboard.fr" tvg-name="Persiana Billboard" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="",Persiana Billboard
-=======
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Comedy",MyComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="",Persiana Billboard
->>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 http://51.210.199.10/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-name="Persiana Cinema" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="",Persiana Cinema
 http://51.210.199.15/hls/stream.m3u8

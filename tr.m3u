@@ -61,11 +61,7 @@ https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" group-title="",Kral TV
 https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="MedMuzik.tr" tvg-name="Med Muzîk" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" group-title="Music",Med Muzîk
-=======
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" group-title="Music",Med Muzîk
->>>>>>> accaebc9764f3eaa2506375b3ecf8c38234279f6
 http://137.74.205.201/live3/mm-3mbps.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr" tvg-name="Natural TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" group-title="",Natural TV (1080p)
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
