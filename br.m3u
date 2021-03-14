@@ -1,151 +1,717 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="98LiveBeloHorizonte.br" tvg-name="98 Live (Belo Horizonte)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="",98 Live (Belo Horizonte) (720p)
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",AgroBrasil TV (486p)
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiaí" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9SjoGWj.png" group-title="Local",Canal 25 Jundiaí
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal do Boi
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
-#EXTINF:-1 tvg-id="CanalRicos.br" tvg-name="Canal Ricos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="General",Canal Ricos (1080p)
-https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Religious",Canção Nova (360p)
-https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN Rio
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-id="COMBrasil.br" tvg-name="COM Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="General",COM Brasil (720p)
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br" tvg-name="Fonte TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="Religious",Fonte TV (1080p)
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-id="IMPDTV.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="Religious",IMPD TV (1080p)
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV.br" tvg-name="ITV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV (720p)
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="MetropoleNewsTV.br" tvg-name="Metrópole News TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" group-title="News",Metrópole News TV (480p)
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MKKWebTV.br" tvg-name="MKK Web TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV (360p)
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",Nova Era TV (1080p)
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo (480p)
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo (480p)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-id="PortalCulturaPara.br" tvg-name="Portal Cultura Pará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Education",Portal Cultura Pará (360p)
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 tvg-id="PUCTVGoias.br" tvg-name="PUC TV Goiás" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.puctvgoias.com.br/img/logo.png" group-title="Religious",PUC TV Goiás (180p)
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="General",Rede Brasil (720p)
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-name="Rede Brasil de Comunicação" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Religious",Rede Brasil de Comunicação (540p)
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Sport",Rede Globo
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeMaoAmiga.br" tvg-name="Rede Mão Amiga" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="Religious",Rede Mão Amiga (720p)
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-id="RedeRC.br" tvg-name="Rede RC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Rede RC (360p)
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-id="RedeSuper.br" tvg-name="Rede Super" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="Religious",Rede Super (432p)
-https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Século 21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="Religious",Rede Século 21 (240p)
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Religious",Rede Vida (720p)
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV (288p)
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="SummerTV.br" tvg-name="Summer TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="Local",Summer TV (720p)
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Hobby",Terra Viva (720p)
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Legislative",TV ALMG
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-id="TVALRN.br" tvg-name="TV ALRN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" group-title="Legislative",TV ALRN (480p)
-http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
-#EXTINF:-1 tvg-id="TVAmbiental.br" tvg-name="TV Ambiental" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" group-title="Local",TV Ambiental (480p)
-http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-name="TV Arapuan" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" group-title="General",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="TVBNO.br" tvg-name="TV BNO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Movies",TV BNO (270p)
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-name="TV Cidade Canal 9" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Local",TV Cidade Canal 9 (720p)
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-name="TV Cidade de Petrópolis" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Local",TV Cidade de Petrópolis (720p)
-https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCinec.br" tvg-name="TV Cinec" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="Movies",TV Cinec (720p)
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCamara2.br" tvg-name="TV Câmara 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-id="TVdasArtes.br" tvg-name="TV das Artes" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MnIvaNC.png" group-title="Lifestyle",TV das Artes (720p)
-http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
-#EXTINF:-1 tvg-id="TVDestak.br" tvg-name="TV Destak" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://pa.srvsite.com/arquivos/3807/cabecalho-3807-20180828105442.jpg" group-title="General",TV Destak (360p)
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="Local",TV Digital Birigui (320p)
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1 tvg-id="TVDiariodoSertao.br" tvg-name="TV Diário do Sertão" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="General",TV Diário do Sertão (720p)
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEducativadePortoAlegre.br" tvg-name="TV Educativa de Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre (1080p)
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="Local",TV Galega Blumenau (720p)
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="General",TV Gazeta (720p)
-https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1 tvg-id="TVGuara.br" tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="News",TV Guará (720p)
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-id="TVImaculadaConceicao.br" tvg-name="TV Imaculada Conceição" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.caikron.com.br/player/mi/caikron_fundo_tvmi_original.jpg" group-title="Religious",TV Imaculada Conceição (1080p)
-https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
-#EXTINF:-1 tvg-id="TVInterlagos.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="Local",TV Interlagos (576p)
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" group-title="Education",TV Mackenzie (480p)
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMetropole.br" tvg-name="TV Metrópole" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Local",TV Metrópole (720p)
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious",TV Pai Eterno
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious",TV Pai Eterno (480p)
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-name="TV Paraná Turismo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Travel",TV Paraná Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="TVRedeGospel.br" tvg-name="TV Rede Gospel" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/NVs5RhF.png" group-title="Religious",TV Rede Gospel (720p)
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSol.br" tvg-name="TV Sol" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="General",TV Sol (720p)
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-#EXTINF:-1 tvg-id="TVSolComunidade.br" tvg-name="TV Sol Comunidade" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Local",TV Sol Comunidade (480p)
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" group-title="Religious",TV Terceiro Anjo (360p)
-https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 tvg-id="TVUFG.br" tvg-name="TV UFG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="Education",TV UFG (720p)
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUFSC.br" tvg-name="TV UFSC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LuJkxc6.png" group-title="Education",TV UFSC
-http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1 tvg-id="TVUNISC.br" tvg-name="TV UNISC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YgLLCq6.png" group-title="Education",TV UNISC
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-id="TVUniversal.br" tvg-name="TV Universal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniaoDF.br" tvg-name="TV União DF" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/67DQ3bk.png" group-title="General",TV União DF (720p)
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-name="TV Verdes Campos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1mK39TC.png" group-title="General",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="TV8.br" tvg-name="TV8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.imgur.com/pnbqx6r.png" group-title="General",TV8 (1080p)
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCIParanagua.br" tvg-name="TVCI Paranaguá" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4GKZbXD.png" group-title="General",TVCI Paranaguá (360p)
-http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Local",TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="TVNBrasil.br" tvg-name="TVN Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="Local",TVN Brasil (720p)
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-name="UniTV Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Education",UniTV Porto Alegre
-http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1 tvg-id="VivaWebTV.br" tvg-name="Viva Web TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/msQ76Hk.jpg" group-title="General",Viva Web TV (480p)
-https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-id="WebTVUai.br" tvg-name="Web TV Uai" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Web TV Uai
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",Yeeaah! (720p)
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-id="ZOOM.br" tvg-name="ZOOM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Local",ZOOM (720p)
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF:-1,A&E HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108222
+#EXTINF:-1,AMC FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108413
+#EXTINF:-1,AMC HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108308
+#EXTINF:-1, Arte 1 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108417
+#EXTINF:-1,Arte 1 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108289
+#EXTINF:-1,ARTE 1 HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108351
+#EXTINF:-1,AXN HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108286
+#EXTINF:-1,Band FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108422
+#EXTINF:-1,Band News HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108198
+#EXTINF:-1,BAND SP HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108352
+#EXTINF:-1,Band Sports HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108193
+#EXTINF:-1,BBB Brasil HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108345
+#EXTINF:-1,BIS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108353
+#EXTINF:-1,BIS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108322
+#EXTINF:-1,Boa Vontade TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108283
+#EXTINF:-1,Canal Brasil HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108299
+#EXTINF:-1,CANAL BRASIL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108354
+#EXTINF:-1,Canal Comunitário HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108331
+#EXTINF:-1,Canal do Boi HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108332
+#EXTINF:-1,Canal Rural HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108225
+#EXTINF:-1,Canção Nova HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108238
+#EXTINF:-1,CGTN HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108320
+#EXTINF:-1,CGTN HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108347
+#EXTINF:-1,CNN Brasil HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108337
+#EXTINF:-1,CNN BRASIL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108355
+#EXTINF:-1,CNN Español HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108288
+#EXTINF:-1,CNN Internacional HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108249
+#EXTINF:-1,CNN Series HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108333
+#EXTINF:-1,CNT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108306
+#EXTINF:-1,Curta! HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108215
+#EXTINF:-1,CURTA! HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108356
+#EXTINF:-1,DW (Deutsch+) HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108252
+#EXTINF:-1, E! FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108441
+#EXTINF:-1,E! HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108358
+#EXTINF:-1,EPTV Campinas HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108273
+#EXTINF:-1,EPTV Ribeirão Preto HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108272
+#EXTINF:-1,EPTV São Carlos HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108274
+#EXTINF:-1, ESPN FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108443
+#EXTINF:-1,Film & Arts HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108323
+#EXTINF:-1,FILM & ARTS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108363
+#EXTINF:-1,Food Network HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108295
+#EXTINF:-1,FOX HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108366
+#EXTINF:-1,FOX LIFE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108367
+#EXTINF:-1,Fox Premium 1 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108419
+#EXTINF:-1,Fox Premium 2 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108420
+#EXTINF:-1, FOX Sports FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108414
+#EXTINF:-1,Futura HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108257
+#EXTINF:-1,FUTURA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108369
+#EXTINF:-1,FX HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108188
+#EXTINF:-1,GLOBO BRASILIA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108404
+#EXTINF:-1,Globo Brasília HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108263
+#EXTINF:-1,Globo Minas HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108259
+#EXTINF:-1,GloboNews FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108424
+#EXTINF:-1,GloboNews HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108279
+#EXTINF:-1,Globo Nordeste HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108266
+#EXTINF:-1,GLOBO RJ HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108349
+#EXTINF:-1,Globo RJ HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108258
+#EXTINF:-1,Globo SP HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108190
+#EXTINF:-1,Gloob HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108302
+#EXTINF:-1,GLOOB HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108370
+#EXTINF:-1,Gloobinho HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108324
+#EXTINF:-1,GLOOBINHO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108371
+#EXTINF:-1,GNT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108219
+#EXTINF:-1,I-SAT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108233
+#EXTINF:-1,Ideal TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108328
+#EXTINF:-1,Inter TV Cabugi HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108269
+#EXTINF:-1,I SAT HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108378
+#EXTINF:-1, Lifetime HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108314
+#EXTINF:-1,LIFETIME HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108380
+#EXTINF:-1,Loading HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108344
+#EXTINF:-1,Mais Globosat HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108321
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108381
+#EXTINF:-1,MegaPix HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108241
+#EXTINF:-1,MTV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108382
+#EXTINF:-1,Multishow HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108204
+#EXTINF:-1,Music Box Brazil HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108329
+#EXTINF:-1,NHK HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108383
+#EXTINF:-1,NHK HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108234
+#EXTINF:-1,NOVO TEMPO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108384
+#EXTINF:-1,OFF HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108385
+#EXTINF:-1,Pai Eterno FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108423
+#EXTINF:-1,Pai Eterno HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108319
+#EXTINF:-1,PLAY TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108386
+#EXTINF:-1,Play TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108246
+#EXTINF:-1,Polishop TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108235
+#EXTINF:-1,PPV 4 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108277
+#EXTINF:-1,PPV 5 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108278
+#EXTINF:-1,Prime Box Brazil HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108284
+#EXTINF:-1,PRIME BOX BRAZIL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108387
+#EXTINF:-1,RAI HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108250
+#EXTINF:-1,RBI HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108232
+#EXTINF:-1,RBS TV Porto Alegre HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108202
+#EXTINF:-1,RECORD BAHIA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108388
+#EXTINF:-1,Record News HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108304
+#EXTINF:-1,RECORD RJ HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108350
+#EXTINF:-1,RECORD SP HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108348
+#EXTINF:-1,RECORDTV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108290
+#EXTINF:-1,Rede Amazônica Manaus HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108268
+#EXTINF:-1,Rede Brasil HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108316
+#EXTINF:-1,Rede TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108248
+#EXTINF:-1,Rede Vida HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108287
+#EXTINF:-1,RIT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108231
+#EXTINF:-1,RPC TV Curitiba HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108271
+#EXTINF:-1,SBT FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108421
+#EXTINF:-1,SBT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108203
+#EXTINF:-1,SIC Internacional HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108251
+#EXTINF:-1,Smithsonian FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108411
+#EXTINF:-1,Space HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108205
+#EXTINF:-1,Syfy HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108243
+#EXTINF:-1,TBS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108223
+#EXTINF:-1,TBS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108392
+#EXTINF:-1,TCM HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108207
+#EXTINF:-1,TCM HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108393
+#EXTINF:-1,Terra Viva HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108229
+#EXTINF:-1,TLC FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108438
+#EXTINF:-1,TruTV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108336
+#EXTINF:-1,TV5 Monde HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108292
+#EXTINF:-1,TV Anhanguera Goiânia HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108260
+#EXTINF:-1,TV Aparecida HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108247
+#EXTINF:-1,TV APARECIDA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108397
+#EXTINF:-1,TV Bahia HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108265
+#EXTINF:-1,TV Brasil 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108334
+#EXTINF:-1,TV Brasil FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108410
+#EXTINF:-1,TV Brasil HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108346
+#EXTINF:-1,TV Centro América Cuiabá HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108270
+#EXTINF:-1,TV CULTURA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108398
+#EXTINF:-1,TV Câmara HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108199
+#EXTINF:-1,TV DIARIO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108405
+#EXTINF:-1,TV DIARIO HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108399
+#EXTINF:-1,TV EDUCAÇÃO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108191
+#EXTINF:-1,TVE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108330
+#EXTINF:-1,TV Escola HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108236
+#EXTINF:-1,TV GUARULHOS HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108400
+#EXTINF:-1,TV Justiça HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108216
+#EXTINF:-1,TV Liberal Belém HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108267
+#EXTINF:-1,TV MORENA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108276
+#EXTINF:-1,TV Novo Tempo HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108253
+#EXTINF:-1,TV RA TIM BUM HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108401
+#EXTINF:-1,TV Rá Tim Bum FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108434
+#EXTINF:-1,TV Rá tim bum HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108228
+#EXTINF:-1,TV Senado HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108309
+#EXTINF:-1,TV Tem Bauru HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108262
+#EXTINF:-1,TV Tem Sorocaba HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108261
+#EXTINF:-1,TV Tem São José do Rio Preto HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108293
+#EXTINF:-1,TV Tribuna Santos HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108256
+#EXTINF:-1,TV Vanguarda S. J. dos Campos HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108275
+#EXTINF:-1,TV Verdes Mares Fortaleza HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108264
+#EXTINF:-1, Universal TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108291
+#EXTINF:-1,VH1 HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108402
+#EXTINF:-1,Viva HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108311
+#EXTINF:-1,Warner Channel HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108315
+#EXTINF:-1,Woohoo HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108210
+#EXTINF:-1,ZooMoo HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108307
+#EXTINF:-1,ZOOMOO HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108403
+#EXTINF:-1,A E HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28888
+#EXTINF:-1,AMC HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28887
+#EXTINF:-1,AXN HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28900
+#EXTINF:-1,BAND HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28932
+#EXTINF:-1,BAND NEWS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28876
+#EXTINF:-1,BAND SPORTS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28868
+#EXTINF:-1,TLC HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28827
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28841
+#EXTINF:-1,E! HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28821
+#EXTINF:-1,GLOBO NORDESTE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28867
+#EXTINF:-1,Rede New
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28835
+#EXTINF:-1,FOOD NETWORK HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28814
+#EXTINF:-1,FOX HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28904
+#EXTINF:-1,FOX LIFE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28903
+#EXTINF:-1,FOX PREMIUM HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28901
+#EXTINF:-1,FX HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28897
+#EXTINF:-1,GLOBO NEWS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28877
+#EXTINF:-1,GLOBO MINAS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28880
+#EXTINF:-1,GLOBO PT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28879
+#EXTINF:-1,GLOBO SP HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28878
+#EXTINF:-1,GNT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28895
+#EXTINF:-1,SYFY HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28820
+#EXTINF:-1,LIFETIME HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28819
+#EXTINF:-1,WOOHOO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28834
+#EXTINF:-1, GLOBO EPTV CAMPINAS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28896
+#EXTINF:-1,MEGAPIX HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28894
+#EXTINF:-1,MTV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28832
+#EXTINF:-1,MTV LIVE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28831
+#EXTINF:-1,MULTISHOW HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28893
+#EXTINF:-1,Canal Sony
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28830
+#EXTINF:-1,OFF HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28861
+#EXTINF:-1,RECORD HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28934
+#EXTINF:-1,RECORD NEWS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28875
+#EXTINF:-1,REDE TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28931
+#EXTINF:-1,REDE VIDA
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28816
+#EXTINF:-1,SBT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28933
+#EXTINF:-1,SPACE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28884
+#EXTINF:-1,BAND SPORTS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28872
+#EXTINF:-1,SYFY HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28890
+#EXTINF:-1,TLC HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28881
+#EXTINF:-1,VIVA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28823
+#EXTINF:-1,WOOHOO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28862
+#EXTINF:-1,Animal Planet FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108418
+#EXTINF:-1,Animal Planet HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108213
+#EXTINF:-1,ANIMAL PLANET HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28846
+#EXTINF:-1,Nat Geo Kids FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108416
+#EXTINF:-1,NatGeo Kids HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108195
+#EXTINF:-1,NatGeo Wild HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108230
+#EXTINF:-1,National Geographic HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108196
+#EXTINF:-1,NATGEO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28837
+#EXTINF:-1,NATGEO KIDS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28850
+#EXTINF:-1,NATGEO WILD HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28836
+#EXTINF:-1,Discovery Channel FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108439
+#EXTINF:-1,Discovery Channel HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108305
+#EXTINF:-1,Discovery H&H HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108192
+#EXTINF:-1,Discovery Kids FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108440
+#EXTINF:-1,Discovery Kids HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108244
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108357
+#EXTINF:-1,Discovery Turbo HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108194
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28844
+#EXTINF:-1,DISCOVERY H&H HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28843
+#EXTINF:-1,DISCOVERY HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28842
+#EXTINF:-1,DISCOVERY KIDS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28855
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28840
+#EXTINF:-1,DISCOVERY TURBO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28839
+#EXTINF:-1,DISCOVERY WORLD HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28845
+#EXTINF:-1,HISTORY HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28838
+#EXTINF:-1,History 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108187
+#EXTINF:-1,The History Channel HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108245
+#EXTINF:-1,H2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28898
+#EXTINF:-1,ID - Investigação Discovery HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108197
+#EXTINF:-1,ID DISCOVERY HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108379
+#EXTINF:-1,FISH TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108364
+#EXTINF:-1,FISH TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108365
+#EXTINF:-1,Fish TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108220
+#EXTINF:-1,Baby TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108301
+#EXTINF:-1,BABY TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28817
+#EXTINF:-1,Boomerang HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108224
+#EXTINF:-1,BOOMERANG HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28858
+#EXTINF:-1,Cartoon Network HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108318
+#EXTINF:-1,CARTOON HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28857
+#EXTINF:-1,Disney HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108226
+#EXTINF:-1,DISNEY CHANNEL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28856
+#EXTINF:-1,Disney Junior FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108412
+#EXTINF:-1,Disney Junior HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108211
+#EXTINF:-1,DISNEY JUNIOR HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28854
+#EXTINF:-1,Disney XD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108212
+#EXTINF:-1,DISNEY XD HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28853
+#EXTINF:-1,NICK HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28851
+#EXTINF:-1,Nick Jr HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108227
+#EXTINF:-1,NICK JR HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28852
+#EXTINF:-1,Nickelodeon HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108186
+#EXTINF:-1,Tooncast HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108303
+#EXTINF:-1,TOONCAST HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108396
+#EXTINF:-1,Fox Sports HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108317
+#EXTINF:-1,FOX SPORTS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28870
+#EXTINF:-1,FOX Sports 2 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108415
+#EXTINF:-1,Fox Sports 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108280
+#EXTINF:-1,FOX SPORTS 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28869
+#EXTINF:-1,SporTV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108335
+#EXTINF:-1,SPORTV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28873
+#EXTINF:-1,SporTV 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108281
+#EXTINF:-1,SPORTV 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108390
+#EXTINF:-1,SporTV 3 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108239
+#EXTINF:-1,SPORTV 3 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108391
+#EXTINF:-1,SPORT TV 3 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28871
+#EXTINF:-1,SporTV Alternativo HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108254
+#EXTINF:-1,SporTV 2 Alternativo HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108310
+#EXTINF:-1,ESPN HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108362
+#EXTINF:-1,ESPN   HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28866
+#EXTINF:-1,ESPN2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108312
+#EXTINF:-1,ESPN 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108359
+#EXTINF:-1,ESPN EXTRA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108361
+#EXTINF:-1,ESPN Brasil FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108442
+#EXTINF:-1,ESPN BRASIL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108360
+#EXTINF:-1,ESPN BR HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28865
+#EXTINF:-1,ESPN INTERNACIONAL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28864
+#EXTINF:-1,CONMEBOL 01 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108406
+#EXTINF:-1,CONMEBOL 02 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108407
+#EXTINF:-1,CONMEBOL 03 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108408
+#EXTINF:-1,CONMEBOL 04 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108409
+#EXTINF:-1,CONMEBOL TV 1 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108340
+#EXTINF:-1,CONMEBOL TV 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108339
+#EXTINF:-1,Combate HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108217
+#EXTINF:-1,COMBATE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28860
+#EXTINF:-1,BR|DAZN 1 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/107030
+#EXTINF:-1,BR|DAZN 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/107031
+#EXTINF:-1,BR|DAZN 3 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/107032
+#EXTINF:-1,BR|DAZN 4 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/107033
+#EXTINF:-1,HBO CHANNEL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108372
+#EXTINF:-1,HBO FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108429
+#EXTINF:-1,HBO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108300
+#EXTINF:-1,HBO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28916
+#EXTINF:-1,HBO+ FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108430
+#EXTINF:-1,HBO + HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108313
+#EXTINF:-1,HBO PLUS HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28913
+#EXTINF:-1,HBO2 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108428
+#EXTINF:-1,HBO 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108189
+#EXTINF:-1,HBO2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28915
+#EXTINF:-1,HBO Family FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108431
+#EXTINF:-1,HBO Family HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108221
+#EXTINF:-1,HBO FAMILY HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28914
+#EXTINF:-1,HBO MUNDI
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108373
+#EXTINF:-1,HBO MUNDI FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108436
+#EXTINF:-1,HBO MUNDI HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108374
+#EXTINF:-1,HBO POP FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108433
+#EXTINF:-1,HBO POP HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108375
+#EXTINF:-1,HBO Signature FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108432
+#EXTINF:-1,HBO Signature HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108285
+#EXTINF:-1,HBO SIGNATURE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28912
+#EXTINF:-1,HBO XTREME FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108437
+#EXTINF:-1,HBO XTREME HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108242
+#EXTINF:-1,HBO XTREME HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108376
+#EXTINF:-1,PREMIERE 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28928
+#EXTINF:-1,Premiere 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108200
+#EXTINF:-1,PREMIERE 3 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28927
+#EXTINF:-1,Premiere 3 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108218
+#EXTINF:-1,PREMIERE 4 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28926
+#EXTINF:-1,Premiere 4 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108237
+#EXTINF:-1,PREMIERE 5 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28925
+#EXTINF:-1,Premiere 5 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108294
+#EXTINF:-1,PREMIERE 6 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28924
+#EXTINF:-1,Premiere 6 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108325
+#EXTINF:-1,PREMIERE 7 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28923
+#EXTINF:-1,Premiere 7 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108255
+#EXTINF:-1,Premiere 8 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108338
+#EXTINF:-1,PREMIERE CLUBES HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28863
+#EXTINF:-1,Premiere Clubes HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108201
+#EXTINF:-1,TELECINE ACTION HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28922
+#EXTINF:-1,Telecine Action HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108327
+#EXTINF:-1,TELECINE CULT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28921
+#EXTINF:-1,Telecine Cult HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108282
+#EXTINF:-1,TELECINE FUN HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28920
+#EXTINF:-1,Telecine Fun HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108326
+#EXTINF:-1,Telecine Pipoca FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108427
+#EXTINF:-1,TELECINE PIPOCA HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28919
+#EXTINF:-1,Telecine Pipoca HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108206
+#EXTINF:-1,Telecine Premium FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108425
+#EXTINF:-1,TELECINE PREMIUM HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28918
+#EXTINF:-1,Telecine Premium HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108297
+#EXTINF:-1,Telecine Touch FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108426
+#EXTINF:-1,TELECINE TOUCH HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28917
+#EXTINF:-1,Telecine Touch HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108298
+#EXTINF:-1,TNT HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108394
+#EXTINF:-1,TNT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28889
+#EXTINF:-1,TNT SERIES HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108395
+#EXTINF:-1,TNT Séries HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108214
+#EXTINF:-1,Cinemax FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108435
+#EXTINF:-1,Cinemax HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108240
+#EXTINF:-1,CINEMAX HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28906
+#EXTINF:-1,SONY CHANNEL HD 
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108389
+#EXTINF:-1,SONY  HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28885
+#EXTINF:-1,MAX HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28911
+#EXTINF:-1,MAX PRIME HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28910
+#EXTINF:-1,MAX PRIME HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28891
+#EXTINF:-1,MAX UP HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28909
+#EXTINF:-1,Paramount HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108296
+#EXTINF:-1,PARAMOUNT HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28892
+#EXTINF:-1,Studio Universal HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108208
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28908
+#EXTINF:-1,Comedy Central HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/108209
+#EXTINF:-1,COMEDY CENTRAL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28905
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28899
+#EXTINF:-1,WARNER CHANNEL HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/28907
