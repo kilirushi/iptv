@@ -1,53 +1,235 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Legislative",ARTV | Canal Parlamento (432p)
-https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (HQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (LQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (MQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine (1080p)
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",Kuriakos Cine (1080p)
-http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-name="Kuriakos Kids" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids (1080p)
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-name="Kuriakos Kids" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Kids",Kuriakos Kids (1080p)
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-name="Kuriakos Music" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music (1080p)
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-name="Kuriakos Music" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Music",Kuriakos Music (1080p)
-http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV (1080p)
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV (1080p)
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General",Porto Canal (360p)
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="General",RTP Açores
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional (480p)
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="General",RTP Madeira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="General",RTP África [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-name="Sobrenatural TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV (1080p)
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-name="Sobrenatural TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Religious",Sobrenatural TV (720p)
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="TV Fatima PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima (1080p)
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1,RTP 1
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9093
+#EXTINF:-1,RTP 2 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9092
+#EXTINF:-1,RTP 3
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9091
+#EXTINF:-1,RTP Africa
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9089
+#EXTINF:-1,RTP Memoria
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9086
+#EXTINF:-1,TVI
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9052
+#EXTINF:-1,Tvi 24
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9051
+#EXTINF:-1,TVI Reality
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9049
+#EXTINF:-1,TVI FICCAO
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/58414
+#EXTINF:-1,Sic HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9085
+#EXTINF:-1,SIC Radical
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9082
+#EXTINF:-1,SIC NOTICIAS
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9083
+#EXTINF:-1,SIC Mulher
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9084
+#EXTINF:-1,CMTV
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9136
+#EXTINF:-1,SYFY
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9070
+#EXTINF:-1,AXN HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9149
+#EXTINF:-1,AXN WHITE HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9148
+#EXTINF:-1,AXN BLACK
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9150
+#EXTINF:-1,E ENTERTAINMENT
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9130
+#EXTINF:-1,TCV CABO
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/116510
+#EXTINF:-1,FOX HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9116
+#EXTINF:-1,FOX COMEDY
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9118
+#EXTINF:-1,FOX CRIME
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9117
+#EXTINF:-1,Fox Life HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9115
+#EXTINF:-1,FOX MOVIES
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9114
+#EXTINF:-1,TV Cine Emotion FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9060
+#EXTINF:-1,TV Cine Emotion FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9058
+#EXTINF:-1,TV Cine Top FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9057
+#EXTINF:-1,TV Cine Action FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9056
+#EXTINF:-1,CINE MUNDO
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9137
+#EXTINF:-1,Hollywood FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9112
+#EXTINF:-1,TV Series FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9061
+#EXTINF:-1,A Bola TV
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9153
+#EXTINF:-1,Canal NOS
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9141
+#EXTINF:-1,Canal Q
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9139
+#EXTINF:-1,Cano Nova
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9142
+#EXTINF:-1,RTP Acores
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9090
+#EXTINF:-1,RTP Madeira
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9087
+#EXTINF:-1,TVI FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9050
+#EXTINF:-1,SPORT TV +   HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9081
+#EXTINF:-1,Sport TV 1 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9079
+#EXTINF:-1,Sport TV 1
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9080
+#EXTINF:-1,Sport TV 2 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9077
+#EXTINF:-1,Sport TV 2
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9078
+#EXTINF:-1,Sport TV 3 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9075
+#EXTINF:-1,Sport TV 3
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9076
+#EXTINF:-1,Sport TV 4
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9074
+#EXTINF:-1,Sport TV 5
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9072
+#EXTINF:-1,Eleven Sports 1
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9129
+#EXTINF:-1,Eleven Sports 2
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9128
+#EXTINF:-1,Eleven Sports 3
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9127
+#EXTINF:-1,Eleven Sports 4
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9126
+#EXTINF:-1,Eleven Sports 5
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9125
+#EXTINF:-1,Eleven Sports 6
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9124
+#EXTINF:-1,Eurosport
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9122
+#EXTINF:-1,Eurosport 1 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9120
+#EXTINF:-1,EUROSPORT 1
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9121
+#EXTINF:-1,EUROSPORT 2
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9119
+#EXTINF:-1,BENFICA TV 1 HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9147
+#EXTINF:-1,Porto Canal
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9095
+#EXTINF:-1,Real Madrid TV
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9094
+#EXTINF:-1,Sporting TV HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9071
+#EXTINF:-1,canal 11
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/89875
+#EXTINF:-1,Kombat Sport
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9110
+#EXTINF:-1,Motorvision
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9106
+#EXTINF:-1,MOTORS TV
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9107
+#EXTINF:-1,NBA TV
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9099
+#EXTINF:-1,Toros TV
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9068
+#EXTINF:-1,PFC HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9096
+#EXTINF:-1,MTV Dance
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9105
+#EXTINF:-1,MTV Hits
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9104
+#EXTINF:-1,MTV Portugal
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9103
+#EXTINF:-1,MTV Rocks
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9102
+#EXTINF:-1,VH1
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9048
+#EXTINF:-1,VH1 Classic
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9047
+#EXTINF:-1,MCM Pop
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9109
+#EXTINF:-1,Afro Music
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9151
+#EXTINF:-1,Trace Urban
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9067
+#EXTINF:-1,24 Kitchen FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9154
+#EXTINF:-1,TLC
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9069
+#EXTINF:-1,Cacavision
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9143
+#EXTINF:-1,Historia
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9113
+#EXTINF:-1,Caca e Pesca
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9144
+#EXTINF:-1,Discovery Channel
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9135
+#EXTINF:-1,Travel Channel FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9066
+#EXTINF:-1,NAT GEO HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9101
+#EXTINF:-1,Nat Geo Wild
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9100
+#EXTINF:-1,Mezzo
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9108
+#EXTINF:-1,Discovery FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9134
+#EXTINF:-1,ODISSEIA
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9097
+#EXTINF:-1,TV Fatima
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9065
+#EXTINF:-1,NICKELODEON
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9098
+#EXTINF:-1,Canal Panda HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9140
+#EXTINF:-1,Disney Channel
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9133
+#EXTINF:-1,Disney Junior
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9132
+#EXTINF:-1,DISNEY JUNIOR (test)
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9131
+#EXTINF:-1,Biggs
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9146
+#EXTINF:-1,Bloomberg
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9145
+#EXTINF:-1,Jim Jam
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9111
+#EXTINF:-1,TV Globo HD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9063
+#EXTINF:-1,TV Globo
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9064
+#EXTINF:-1,TV Globo Premium
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9046
+#EXTINF:-1,TV RECORD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9062
+#EXTINF:-1,Euronews
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9123
+#EXTINF:-1,TVE Internacional
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9053
+#EXTINF:-1,TVE 24h
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9054
+#EXTINF:-1,RTP INFORMACAO
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/9088
+#EXTINF:-1,DMTV Boxoffice 1
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115477
+#EXTINF:-1,DMTV Boxoffice 2
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115478
+#EXTINF:-1,DMTV Boxoffice 3
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115479
+#EXTINF:-1,DMTV Boxoffice 4
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115480
+#EXTINF:-1,DMTV Boxoffice 5
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115481
+#EXTINF:-1,DMTV Boxoffice 6
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115482
+#EXTINF:-1,DMTV Boxoffice 7
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115483
+#EXTINF:-1,DMTV Boxoffice 8
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115484
+#EXTINF:-1,DMTV Boxoffice 9
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115485
+#EXTINF:-1,DMTV Boxoffice 10
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/115486
