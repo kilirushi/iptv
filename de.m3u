@@ -1,861 +1,133 @@
 #EXTM3U
-#EXTINF:-1,ANIXE
-http://starshare.live:8080/live/99887766/99887766/562.ts
-#EXTINF:-1,DAZN Sport 1 HD
-http://starshare.live:8080/live/99887766/99887766/563.ts
-#EXTINF:-1,DAZN Sport 2 HD
-http://starshare.live:8080/live/99887766/99887766/564.ts
-#EXTINF:-1,DW
-http://starshare.live:8080/live/99887766/99887766/566.ts
-#EXTINF:-1,WDR
-http://starshare.live:8080/live/99887766/99887766/567.ts
-#EXTINF:-1,RTL 2 HD
-http://starshare.live:8080/live/99887766/99887766/568.ts
-#EXTINF:-1,ORF 2
-http://starshare.live:8080/live/99887766/99887766/570.ts
-#EXTINF:-1,SUPER RTL
-http://starshare.live:8080/live/99887766/99887766/571.ts
-#EXTINF:-1,SFR 1
-http://starshare.live:8080/live/99887766/99887766/584.ts
-#EXTINF:-1,ROMANCE
-http://starshare.live:8080/live/99887766/99887766/917.ts
-#EXTINF:-1,RTL NITRO HD
-http://starshare.live:8080/live/99887766/99887766/918.ts
-#EXTINF:-1,EUROSPORT XTRA2 mobil
-http://starshare.live:8080/live/99887766/99887766/919.ts
-#EXTINF:-1,PHOENIX
-http://starshare.live:8080/live/99887766/99887766/920.ts
-#EXTINF:-1,VOX
-http://starshare.live:8080/live/99887766/99887766/921.ts
-#EXTINF:-1,Zee one
-http://starshare.live:8080/live/99887766/99887766/922.ts
-#EXTINF:-1,ZDF
-http://starshare.live:8080/live/99887766/99887766/923.ts
-#EXTINF:-1,TNT Comedy
-http://starshare.live:8080/live/99887766/99887766/924.ts
-#EXTINF:-1,Syfy
-http://starshare.live:8080/live/99887766/99887766/925.ts
-#EXTINF:-1,Pro7 Maxx
-http://starshare.live:8080/live/99887766/99887766/937.ts
-#EXTINF:-1,National Geographic
-http://starshare.live:8080/live/99887766/99887766/938.ts
-#EXTINF:-1,Motorvision HD
-http://starshare.live:8080/live/99887766/99887766/939.ts
-#EXTINF:-1,KINOWELT.TV
-http://starshare.live:8080/live/99887766/99887766/940.ts
-#EXTINF:-1,KiKa
-http://starshare.live:8080/live/99887766/99887766/941.ts
-#EXTINF:-1,History Channel
-http://starshare.live:8080/live/99887766/99887766/942.ts
-#EXTINF:-1,FOX
-http://starshare.live:8080/live/99887766/99887766/943.ts
-#EXTINF:-1,DMAX
-http://starshare.live:8080/live/99887766/99887766/944.ts
-#EXTINF:-1,Disney Jr.
-http://starshare.live:8080/live/99887766/99887766/945.ts
-#EXTINF:-1,Discovery Channel
-http://starshare.live:8080/live/99887766/99887766/946.ts
-#EXTINF:-1,Animal Planet
-http://starshare.live:8080/live/99887766/99887766/947.ts
 #EXTINF:-1,13th Street
-http://starshare.live:8080/live/99887766/99887766/948.ts
-#EXTINF:-1,3 Sat
-http://starshare.live:8080/live/99887766/99887766/949.ts
-#EXTINF:-1,Das Erste HD
-http://starshare.live:8080/live/99887766/99887766/952.ts
-#EXTINF:-1,ZDF Info
-http://starshare.live:8080/live/99887766/99887766/953.ts
-#EXTINF:-1,ZDF Neo HD
-http://starshare.live:8080/live/99887766/99887766/954.ts
-#EXTINF:-1,Pro7 HD
-http://starshare.live:8080/live/99887766/99887766/955.ts
-#EXTINF:-1,Sat 1 HD
-http://starshare.live:8080/live/99887766/99887766/956.ts
-#EXTINF:-1,Sat 1 Gold
-http://starshare.live:8080/live/99887766/99887766/957.ts
-#EXTINF:-1,Kabel 1 HD
-http://starshare.live:8080/live/99887766/99887766/958.ts
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/344
+#EXTINF:-1,3Sat
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/345
+#EXTINF:-1,DMAX
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/334
+#EXTINF:-1,Kabel Eins
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/330
 #EXTINF:-1,Kabel 1 Doku
-http://starshare.live:8080/live/99887766/99887766/959.ts
-#EXTINF:-1,RTL HD
-http://starshare.live:8080/live/99887766/99887766/960.ts
-#EXTINF:-1,TELECOM SPORT 1 HD
-http://starshare.live:8080/live/99887766/99887766/1952.ts
-#EXTINF:-1,TELECOM SPORT 2 HD
-http://starshare.live:8080/live/99887766/99887766/1953.ts
-#EXTINF:-1,TELECOM SPORT 3 HD
-http://starshare.live:8080/live/99887766/99887766/1954.ts
-#EXTINF:-1,TELECOM SPORT 4 HD
-http://starshare.live:8080/live/99887766/99887766/1955.ts
-#EXTINF:-1,TELECOM SPORT 5 HD
-http://starshare.live:8080/live/99887766/99887766/1956.ts
-#EXTINF:-1,TELECOM SPORT 6 HD
-http://starshare.live:8080/live/99887766/99887766/1957.ts
-#EXTINF:-1,TELECOM SPORT 7 HD
-http://starshare.live:8080/live/99887766/99887766/1958.ts
-#EXTINF:-1,TELECOM SPORT 8 HD
-http://starshare.live:8080/live/99887766/99887766/1959.ts
-#EXTINF:-1,SKY SELECT HD 4
-http://starshare.live:8080/live/99887766/99887766/581.ts
-#EXTINF:-1,SKY CINEMA ACTION
-http://starshare.live:8080/live/99887766/99887766/578.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://starshare.live:8080/live/99887766/99887766/577.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://starshare.live:8080/live/99887766/99887766/576.ts
-#EXTINF:-1,Sky Select 6 HD
-http://starshare.live:8080/live/99887766/99887766/963.ts
-#EXTINF:-1,Sky Select 1 HD
-http://starshare.live:8080/live/99887766/99887766/961.ts
-#EXTINF:-1,Sky Cinema 24
-http://starshare.live:8080/live/99887766/99887766/934.ts
-#EXTINF:-1,Sky Nostalgie
-http://starshare.live:8080/live/99887766/99887766/933.ts
-#EXTINF:-1,Sky Emotion
-http://starshare.live:8080/live/99887766/99887766/932.ts
-#EXTINF:-1,Sky Hits
-http://starshare.live:8080/live/99887766/99887766/931.ts
-#EXTINF:-1,Sky Select 2 HD
-http://starshare.live:8080/live/99887766/99887766/930.ts
-#EXTINF:-1,Sky Sport 3 HD (ONLY ON MATCHDAY)
-http://starshare.live:8080/live/99887766/99887766/929.ts
-#EXTINF:-1,Sky Sport Austria
-http://starshare.live:8080/live/99887766/99887766/928.ts
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/331
+#EXTINF:-1,N24
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/326
+#EXTINF:-1,ARTE HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/6106
+#EXTINF:-1,ORF 1
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/323
+#EXTINF:-1,ORF 2
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/322
+#EXTINF:-1,RTL
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7521
+#EXTINF:-1,RTL 2
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7522
+#EXTINF:-1,Pro7
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/321
+#EXTINF:-1,TOGGO Plus
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7527
+#EXTINF:-1,Pro7 Maxx
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/320
+#EXTINF:-1,Romance TV
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/6701
+#EXTINF:-1,Sat 1
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/311
+#EXTINF:-1,Sat 1 Gold
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/310
+#EXTINF:-1,Sixx
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/309
+#EXTINF:-1,ZDF
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/267
+#EXTINF:-1,VOX
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7525
+#EXTINF:-1,RTL Nitro
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7523
+#EXTINF:-1,RTL Passion
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7530
+#EXTINF:-1,RTL Nitro
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7529
+#EXTINF:-1,RTL Crime
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7528
+#EXTINF:-1,RTL LIVING
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7524
+#EXTINF:-1,RT Sup
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/7526
+#EXTINF:-1,ARD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/341
+#EXTINF:-1,Zee one
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/266
+#EXTINF:-1,SRF 1 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/269
+#EXTINF:-1,N-TV
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/10434
+#EXTINF:-1,History Channel
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/332
+#EXTINF:-1,National Geographic
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/325
+#EXTINF:-1,Nat Geo Wild
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/324
+#EXTINF:-1,Boomerang
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/339
+#EXTINF:-1,Cartoon Network
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/335
+#EXTINF:-1,Nickelodeon
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/6047
+#EXTINF:-1,Discovery Channel
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/338
+#EXTINF:-1,Animal Planet
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/343
+#EXTINF:-1,Disney Cinemagic
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/337
+#EXTINF:-1,Disney Jr.
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/336
+#EXTINF:-1,KiKa
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/329
+#EXTINF:-1,FOX
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/333
+#EXTINF:-1,AXN
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/342
 #EXTINF:-1,Sky Universal
-http://starshare.live:8080/live/99887766/99887766/926.ts
-#EXTINF:-1,Eurosport 1 FHD
-http://starshare.live:8080/live/99887766/99887766/6788.ts
-#EXTINF:-1,Eurosport 1 HD
-http://starshare.live:8080/live/99887766/99887766/6789.ts
-#EXTINF:-1,Eurosport 2 FHD
-http://starshare.live:8080/live/99887766/99887766/6791.ts
-#EXTINF:-1,Eurosport 2 HD
-http://starshare.live:8080/live/99887766/99887766/6792.ts
-#EXTINF:-1,Eurosport 2 SD
-http://starshare.live:8080/live/99887766/99887766/6793.ts
-#EXTINF:-1,Eurosport 2 Xtra FHD
-http://starshare.live:8080/live/99887766/99887766/6794.ts
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://starshare.live:8080/live/99887766/99887766/6795.ts
-#EXTINF:-1,Eurosport 2 Xtra SD
-http://starshare.live:8080/live/99887766/99887766/6796.ts
-#EXTINF:-1,Sky Sport News FHD
-http://starshare.live:8080/live/99887766/99887766/6818.ts
-#EXTINF:-1,Sky Sport News HD
-http://starshare.live:8080/live/99887766/99887766/6819.ts
-#EXTINF:-1,Sky Sport News SD
-http://starshare.live:8080/live/99887766/99887766/6820.ts
-#EXTINF:-1,Sky Sport 1 FHD
-http://starshare.live:8080/live/99887766/99887766/6822.ts
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD
-http://starshare.live:8080/live/99887766/99887766/6865.ts
-#EXTINF:-1,Junior HD
-http://starshare.live:8080/live/99887766/99887766/6968.ts
-#EXTINF:-1,Toggo Plus SD
-http://starshare.live:8080/live/99887766/99887766/6969.ts
-#EXTINF:-1,Sky Cinema Premieren HD
-http://starshare.live:8080/live/99887766/99887766/6980.ts
-#EXTINF:-1,Sky Cinema Premieren 24 HD
-http://starshare.live:8080/live/99887766/99887766/6983.ts
-#EXTINF:-1,Sky Cinema Thriller FHD
-http://starshare.live:8080/live/99887766/99887766/6984.ts
-#EXTINF:-1,SKY CINEMA FUN HD
-http://starshare.live:8080/live/99887766/99887766/6998.ts
-#EXTINF:-1,13th Street HD
-http://starshare.live:8080/live/99887766/99887766/7014.ts
-#EXTINF:-1,SKY KRIMI HD
-http://starshare.live:8080/live/99887766/99887766/7031.ts
-#EXTINF:-1,Heimatkanal SD
-http://starshare.live:8080/live/99887766/99887766/7036.ts
-#EXTINF:-1,Phoenix HD
-http://starshare.live:8080/live/99887766/99887766/7045.ts
-#EXTINF:-1,tagesschau24 HD
-http://starshare.live:8080/live/99887766/99887766/7048.ts
-#EXTINF:-1,Deutsches Musik Fernsehen HD
-http://starshare.live:8080/live/99887766/99887766/7055.ts
-#EXTINF:-1,Das Erste FHD
-http://starshare.live:8080/live/99887766/99887766/10627.ts
-#EXTINF:-1,Das Erste HD
-http://starshare.live:8080/live/99887766/99887766/10628.ts
-#EXTINF:-1,Das Erste SD
-http://starshare.live:8080/live/99887766/99887766/10629.ts
-#EXTINF:-1,ZDF HD
-http://starshare.live:8080/live/99887766/99887766/10630.ts
-#EXTINF:-1,ZDF SD
-http://starshare.live:8080/live/99887766/99887766/10631.ts
-#EXTINF:-1,One FHD
-http://starshare.live:8080/live/99887766/99887766/10632.ts
-#EXTINF:-1,One HD
-http://starshare.live:8080/live/99887766/99887766/10633.ts
-#EXTINF:-1,One SD
-http://starshare.live:8080/live/99887766/99887766/10634.ts
-#EXTINF:-1,Sat 1 FHD
-http://starshare.live:8080/live/99887766/99887766/10635.ts
-#EXTINF:-1,Sat 1 HD
-http://starshare.live:8080/live/99887766/99887766/10636.ts
-#EXTINF:-1,Sat 1 SD
-http://starshare.live:8080/live/99887766/99887766/10637.ts
-#EXTINF:-1,Sat 1 Gold FHD
-http://starshare.live:8080/live/99887766/99887766/10638.ts
-#EXTINF:-1,Sat 1 Gold HD
-http://starshare.live:8080/live/99887766/99887766/10639.ts
-#EXTINF:-1,Sat 1 Gold SD
-http://starshare.live:8080/live/99887766/99887766/10640.ts
-#EXTINF:-1,Sat 1 Emotions HD
-http://starshare.live:8080/live/99887766/99887766/10641.ts
-#EXTINF:-1,RTL UHD
-http://starshare.live:8080/live/99887766/99887766/10642.ts
-#EXTINF:-1,RTL FHD
-http://starshare.live:8080/live/99887766/99887766/10643.ts
-#EXTINF:-1,RTL HD
-http://starshare.live:8080/live/99887766/99887766/10644.ts
-#EXTINF:-1,RTL SD
-http://starshare.live:8080/live/99887766/99887766/10645.ts
-#EXTINF:-1,UHD1 by ASTRA / FHD
-http://starshare.live:8080/live/99887766/99887766/10646.ts
-#EXTINF:-1,SES UHD Demo Channel
-http://starshare.live:8080/live/99887766/99887766/10647.ts
-#EXTINF:-1,RTL ZWEI FHD
-http://starshare.live:8080/live/99887766/99887766/10648.ts
-#EXTINF:-1,RTL ZWEI HD
-http://starshare.live:8080/live/99887766/99887766/10649.ts
-#EXTINF:-1,RTL ZWEI SD
-http://starshare.live:8080/live/99887766/99887766/10650.ts
-#EXTINF:-1,RTL Nitro FHD
-http://starshare.live:8080/live/99887766/99887766/10651.ts
-#EXTINF:-1,RTL Nitro HD
-http://starshare.live:8080/live/99887766/99887766/10652.ts
-#EXTINF:-1,RTL Nitro SD
-http://starshare.live:8080/live/99887766/99887766/10653.ts
-#EXTINF:-1,RTL Passion FHD
-http://starshare.live:8080/live/99887766/99887766/10654.ts
-#EXTINF:-1,RTL Passion HD
-http://starshare.live:8080/live/99887766/99887766/10655.ts
-#EXTINF:-1,RTL PLUS FHD
-http://starshare.live:8080/live/99887766/99887766/10656.ts
-#EXTINF:-1,RTL Living SD
-http://starshare.live:8080/live/99887766/99887766/10657.ts
-#EXTINF:-1,Pro 7 FHD
-http://starshare.live:8080/live/99887766/99887766/10658.ts
-#EXTINF:-1,Pro 7 HD
-http://starshare.live:8080/live/99887766/99887766/10659.ts
-#EXTINF:-1,Pro 7 SD
-http://starshare.live:8080/live/99887766/99887766/10660.ts
-#EXTINF:-1,Pro7 Maxx FHD
-http://starshare.live:8080/live/99887766/99887766/10661.ts
-#EXTINF:-1,Pro7 Maxx HD
-http://starshare.live:8080/live/99887766/99887766/10662.ts
-#EXTINF:-1,Pro7 Maxx SD
-http://starshare.live:8080/live/99887766/99887766/10663.ts
-#EXTINF:-1,Pro7 Fun FHD
-http://starshare.live:8080/live/99887766/99887766/10664.ts
-#EXTINF:-1,Pro7 Fun HD
-http://starshare.live:8080/live/99887766/99887766/10665.ts
-#EXTINF:-1,Kabel 1 FHD
-http://starshare.live:8080/live/99887766/99887766/10666.ts
-#EXTINF:-1,Kabel 1 HD
-http://starshare.live:8080/live/99887766/99887766/10667.ts
-#EXTINF:-1,Kabel 1 SD
-http://starshare.live:8080/live/99887766/99887766/10668.ts
-#EXTINF:-1,Kabel 1 Classics FHD
-http://starshare.live:8080/live/99887766/99887766/10669.ts
-#EXTINF:-1,Kabel 1 Classics HD
-http://starshare.live:8080/live/99887766/99887766/10670.ts
-#EXTINF:-1,VOX HD
-http://starshare.live:8080/live/99887766/99887766/10671.ts
-#EXTINF:-1,VOX SD
-http://starshare.live:8080/live/99887766/99887766/10672.ts
-#EXTINF:-1,VOXUp HD
-http://starshare.live:8080/live/99887766/99887766/10673.ts
-#EXTINF:-1,Tele 5 FHD
-http://starshare.live:8080/live/99887766/99887766/10674.ts
-#EXTINF:-1,Tele 5 HD
-http://starshare.live:8080/live/99887766/99887766/10675.ts
-#EXTINF:-1,Sixx FHD
-http://starshare.live:8080/live/99887766/99887766/10676.ts
-#EXTINF:-1,Sixx HD
-http://starshare.live:8080/live/99887766/99887766/10677.ts
-#EXTINF:-1,Sixx SD
-http://starshare.live:8080/live/99887766/99887766/10678.ts
-#EXTINF:-1,ServusTV FHD
-http://starshare.live:8080/live/99887766/99887766/10679.ts
-#EXTINF:-1,ServusTV HD
-http://starshare.live:8080/live/99887766/99887766/10680.ts
-#EXTINF:-1,ServusTV SD
-http://starshare.live:8080/live/99887766/99887766/10681.ts
-#EXTINF:-1,Anixe Serie FHD
-http://starshare.live:8080/live/99887766/99887766/10682.ts
-#EXTINF:-1,3sat SD
-http://starshare.live:8080/live/99887766/99887766/10683.ts
-#EXTINF:-1,MDR Thüringen HD
-http://starshare.live:8080/live/99887766/99887766/10684.ts
-#EXTINF:-1,SWR HD
-http://starshare.live:8080/live/99887766/99887766/10685.ts
-#EXTINF:-1,NDR HD
-http://starshare.live:8080/live/99887766/99887766/10686.ts
-#EXTINF:-1,ZDF neo FHD
-http://starshare.live:8080/live/99887766/99887766/10687.ts
-#EXTINF:-1,ZDF Neo HD
-http://starshare.live:8080/live/99887766/99887766/10688.ts
-#EXTINF:-1,ZDF neo SD
-http://starshare.live:8080/live/99887766/99887766/10689.ts
-#EXTINF:-1,ZDF Info HD
-http://starshare.live:8080/live/99887766/99887766/10690.ts
-#EXTINF:-1,ZDF info SD
-http://starshare.live:8080/live/99887766/99887766/10691.ts
-#EXTINF:-1,TLC FHD
-http://starshare.live:8080/live/99887766/99887766/10692.ts
-#EXTINF:-1,TLC HD
-http://starshare.live:8080/live/99887766/99887766/10693.ts
-#EXTINF:-1,TLC SD
-http://starshare.live:8080/live/99887766/99887766/10694.ts
-#EXTINF:-1,E! Entertainment FHD
-http://starshare.live:8080/live/99887766/99887766/10695.ts
-#EXTINF:-1,E! Entertainment HD
-http://starshare.live:8080/live/99887766/99887766/10696.ts
-#EXTINF:-1,Comedy Central FHD
-http://starshare.live:8080/live/99887766/99887766/10697.ts
-#EXTINF:-1,Comedy Central HD
-http://starshare.live:8080/live/99887766/99887766/10698.ts
-#EXTINF:-1,HGTV
-http://starshare.live:8080/live/99887766/99887766/10699.ts
-#EXTINF:-1,Health tv HD
-http://starshare.live:8080/live/99887766/99887766/10700.ts
-#EXTINF:-1,Bibel TV HD
-http://starshare.live:8080/live/99887766/99887766/10701.ts
-#EXTINF:-1,K-TV HD
-http://starshare.live:8080/live/99887766/99887766/10702.ts
-#EXTINF:-1,rbb Brandenburg
-http://starshare.live:8080/live/99887766/99887766/10703.ts
-#EXTINF:-1,BR Fernsehen Nord
-http://starshare.live:8080/live/99887766/99887766/10704.ts
-#EXTINF:-1,hr-fernsehen
-http://starshare.live:8080/live/99887766/99887766/10705.ts
-#EXTINF:-1,QVC
-http://starshare.live:8080/live/99887766/99887766/10706.ts
-#EXTINF:-1,QVC Beauty & Style
-http://starshare.live:8080/live/99887766/99887766/10707.ts
-#EXTINF:-1,123 TV
-http://starshare.live:8080/live/99887766/99887766/10708.ts
-#EXTINF:-1,OK Wernigerode
-http://starshare.live:8080/live/99887766/99887766/10709.ts
-#EXTINF:-1,ISAR TV
-http://starshare.live:8080/live/99887766/99887766/10710.ts
-#EXTINF:-1,Rhein Neckar Fernsehen
-http://starshare.live:8080/live/99887766/99887766/10711.ts
-#EXTINF:-1,TRP 1
-http://starshare.live:8080/live/99887766/99887766/10712.ts
-#EXTINF:-1,NOA 4 HAMBURG FHD
-http://starshare.live:8080/live/99887766/99887766/10713.ts
-#EXTINF:-1,Sonnenklar FHD
-http://starshare.live:8080/live/99887766/99887766/10714.ts
-#EXTINF:-1,Goldstar TV
-http://starshare.live:8080/live/99887766/99887766/10715.ts
-#EXTINF:-1,Munchen TV FHD
-http://starshare.live:8080/live/99887766/99887766/10716.ts
-#EXTINF:-1,MUENCHEN TV
-http://starshare.live:8080/live/99887766/99887766/10717.ts
-#EXTINF:-1,SWR FHD
-http://starshare.live:8080/live/99887766/99887766/10718.ts
-#EXTINF:-1,SWR SD
-http://starshare.live:8080/live/99887766/99887766/10719.ts
-#EXTINF:-1,NDR SD
-http://starshare.live:8080/live/99887766/99887766/10720.ts
-#EXTINF:-1,RTL PLUS HD
-http://starshare.live:8080/live/99887766/99887766/10721.ts
-#EXTINF:-1,Heimatkanal SD
-http://starshare.live:8080/live/99887766/99887766/10722.ts
-#EXTINF:-1,Sony Channel HD
-http://starshare.live:8080/live/99887766/99887766/10723.ts
-#EXTINF:-1,SONY AXN FHD
-http://starshare.live:8080/live/99887766/99887766/10724.ts
-#EXTINF:-1,ARD Alpha HD
-http://starshare.live:8080/live/99887766/99887766/10726.ts
-#EXTINF:-1,Coronavirus Pandemic FHD
-http://starshare.live:8080/live/99887766/99887766/10727.ts
-#EXTINF:-1,A&E FHD
-http://starshare.live:8080/live/99887766/99887766/10728.ts
-#EXTINF:-1,RTL Living FHD
-http://starshare.live:8080/live/99887766/99887766/10729.ts
-#EXTINF:-1,RTL Living HD
-http://starshare.live:8080/live/99887766/99887766/10730.ts
-#EXTINF:-1,ROMANCE TV HD
-http://starshare.live:8080/live/99887766/99887766/10731.ts
-#EXTINF:-1,DAZN Event 1 FHD
-http://starshare.live:8080/live/99887766/99887766/10732.ts
-#EXTINF:-1,DAZN Bar 1 FHD
-http://starshare.live:8080/live/99887766/99887766/10733.ts
-#EXTINF:-1,Dazn Bar 1 HD
-http://starshare.live:8080/live/99887766/99887766/10734.ts
-#EXTINF:-1,DAZN Bar 2 FHD
-http://starshare.live:8080/live/99887766/99887766/10735.ts
-#EXTINF:-1,Dazn Bar 2 HD
-http://starshare.live:8080/live/99887766/99887766/10736.ts
-#EXTINF:-1,Eurosport 1 HD
-http://starshare.live:8080/live/99887766/99887766/10737.ts
-#EXTINF:-1,Eurosport 1 SD
-http://starshare.live:8080/live/99887766/99887766/10738.ts
-#EXTINF:-1,eSports 1 HD
-http://starshare.live:8080/live/99887766/99887766/10748.ts
-#EXTINF:-1,sport1+ FHD
-http://starshare.live:8080/live/99887766/99887766/10749.ts
-#EXTINF:-1,sport1 FHD
-http://starshare.live:8080/live/99887766/99887766/10750.ts
-#EXTINF:-1,sport1 HD
-http://starshare.live:8080/live/99887766/99887766/10751.ts
-#EXTINF:-1,sport1 SD
-http://starshare.live:8080/live/99887766/99887766/10752.ts
-#EXTINF:-1,Sport Digital HD
-http://starshare.live:8080/live/99887766/99887766/10753.ts
-#EXTINF:-1,Auto Motor Sport HD
-http://starshare.live:8080/live/99887766/99887766/10754.ts
-#EXTINF:-1,PDCTV 1 HD
-http://starshare.live:8080/live/99887766/99887766/10755.ts
-#EXTINF:-1,PDCTV 2 HD
-http://starshare.live:8080/live/99887766/99887766/10756.ts
-#EXTINF:-1,PDCTV 3 HD
-http://starshare.live:8080/live/99887766/99887766/10757.ts
-#EXTINF:-1,Sky Sport News FHD
-http://starshare.live:8080/live/99887766/99887766/10758.ts
-#EXTINF:-1,Sky Sport 1 FHD
-http://starshare.live:8080/live/99887766/99887766/10760.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://starshare.live:8080/live/99887766/99887766/10761.ts
-#EXTINF:-1,Sky Sport 1 SD
-http://starshare.live:8080/live/99887766/99887766/10762.ts
-#EXTINF:-1,Sky Sport 2 FHD
-http://starshare.live:8080/live/99887766/99887766/10763.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://starshare.live:8080/live/99887766/99887766/10764.ts
-#EXTINF:-1,Sky Sport 2 SD
-http://starshare.live:8080/live/99887766/99887766/10765.ts
-#EXTINF:-1,Sky Sport 4 HD
-http://starshare.live:8080/live/99887766/99887766/10769.ts
-#EXTINF:-1,Sky Sport 5 FHD
-http://starshare.live:8080/live/99887766/99887766/10771.ts
-#EXTINF:-1,Sky Sport 6 HD
-http://starshare.live:8080/live/99887766/99887766/10775.ts
-#EXTINF:-1,Sky Sport 7 HD
-http://starshare.live:8080/live/99887766/99887766/10778.ts
-#EXTINF:-1,Sky Sport 8 FHD
-http://starshare.live:8080/live/99887766/99887766/10780.ts
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD
-http://starshare.live:8080/live/99887766/99887766/10799.ts
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://starshare.live:8080/live/99887766/99887766/10800.ts
-#EXTINF:-1,Sky Sport Bundesliga 1 SD
-http://starshare.live:8080/live/99887766/99887766/10801.ts
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://starshare.live:8080/live/99887766/99887766/10803.ts
-#EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://starshare.live:8080/live/99887766/99887766/10806.ts
-#EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://starshare.live:8080/live/99887766/99887766/10809.ts
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://starshare.live:8080/live/99887766/99887766/10812.ts
-#EXTINF:-1,Sky Sport Bundesliga 6 HD
-http://starshare.live:8080/live/99887766/99887766/10815.ts
-#EXTINF:-1,Sky Sport Bundesliga 7 FHD
-http://starshare.live:8080/live/99887766/99887766/10817.ts
-#EXTINF:-1,Sky Sport Bundesliga 7 HD
-http://starshare.live:8080/live/99887766/99887766/10818.ts
-#EXTINF:-1,Sky Sport Bundesliga 8 HD
-http://starshare.live:8080/live/99887766/99887766/10821.ts
-#EXTINF:-1,Sky Sport Bundesliga 9 HD
-http://starshare.live:8080/live/99887766/99887766/10824.ts
-#EXTINF:-1,Sky Sport Bundesliga 10 HD
-http://starshare.live:8080/live/99887766/99887766/10827.ts
-#EXTINF:-1,FC Bayern TV HD
-http://starshare.live:8080/live/99887766/99887766/10829.ts
-#EXTINF:-1,Telekom Basketball 1 HD
-http://starshare.live:8080/live/99887766/99887766/10830.ts
-#EXTINF:-1,Telekom Basketball 2 HD
-http://starshare.live:8080/live/99887766/99887766/10831.ts
-#EXTINF:-1,Telekom Basketball 3 HD
-http://starshare.live:8080/live/99887766/99887766/10832.ts
-#EXTINF:-1,Telekom Basketball 4 HD
-http://starshare.live:8080/live/99887766/99887766/10833.ts
-#EXTINF:-1,Telekom Basketball 5 HD
-http://starshare.live:8080/live/99887766/99887766/10834.ts
-#EXTINF:-1,Telekom Basketball 6 HD
-http://starshare.live:8080/live/99887766/99887766/10835.ts
-#EXTINF:-1,Telekom Basketball 7 HD
-http://starshare.live:8080/live/99887766/99887766/10836.ts
-#EXTINF:-1,Telekom Basketball 9 HD
-http://starshare.live:8080/live/99887766/99887766/10837.ts
-#EXTINF:-1,Telekom Eishockey 1 HD
-http://starshare.live:8080/live/99887766/99887766/10838.ts
-#EXTINF:-1,Telekom Eishockey 2 HD
-http://starshare.live:8080/live/99887766/99887766/10839.ts
-#EXTINF:-1,Telekom Eishockey 3 HD
-http://starshare.live:8080/live/99887766/99887766/10840.ts
-#EXTINF:-1,Telekom Eishockey 4 HD
-http://starshare.live:8080/live/99887766/99887766/10841.ts
-#EXTINF:-1,Telekom Eishockey 5 HD
-http://starshare.live:8080/live/99887766/99887766/10842.ts
-#EXTINF:-1,Telekom Eishockey 6 HD
-http://starshare.live:8080/live/99887766/99887766/10843.ts
-#EXTINF:-1,Telekom Eishockey 7 HD
-http://starshare.live:8080/live/99887766/99887766/10844.ts
-#EXTINF:-1,Telekom Eishockey 8 HD
-http://starshare.live:8080/live/99887766/99887766/10845.ts
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 1 HD
-http://starshare.live:8080/live/99887766/99887766/10846.ts
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 2 HD
-http://starshare.live:8080/live/99887766/99887766/10847.ts
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 3 HD
-http://starshare.live:8080/live/99887766/99887766/10848.ts
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 4 HD
-http://starshare.live:8080/live/99887766/99887766/10849.ts
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 5 HD
-http://starshare.live:8080/live/99887766/99887766/10850.ts
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 6 HD
-http://starshare.live:8080/live/99887766/99887766/10851.ts
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 7 HD
-http://starshare.live:8080/live/99887766/99887766/10852.ts
-#EXTINF:-1,FLYERALARM Frauen-Bundesliga 8 HD
-http://starshare.live:8080/live/99887766/99887766/10853.ts
-#EXTINF:-1,Discovery HD
-http://starshare.live:8080/live/99887766/99887766/10854.ts
-#EXTINF:-1,National Geographic Channel HD
-http://starshare.live:8080/live/99887766/99887766/10855.ts
-#EXTINF:-1,Nat Geo Wild FHD
-http://starshare.live:8080/live/99887766/99887766/10856.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://starshare.live:8080/live/99887766/99887766/10857.ts
-#EXTINF:-1,Animal Planet FHD
-http://starshare.live:8080/live/99887766/99887766/10858.ts
-#EXTINF:-1,History HD
-http://starshare.live:8080/live/99887766/99887766/10859.ts
-#EXTINF:-1,Planet HD
-http://starshare.live:8080/live/99887766/99887766/10860.ts
-#EXTINF:-1,Welt der Wunder HD
-http://starshare.live:8080/live/99887766/99887766/10861.ts
-#EXTINF:-1,Spiegel Geschichte FHD
-http://starshare.live:8080/live/99887766/99887766/10862.ts
-#EXTINF:-1,Spiegel TV Wissen HD
-http://starshare.live:8080/live/99887766/99887766/10863.ts
-#EXTINF:-1,Spiegel TV Wissen SD
-http://starshare.live:8080/live/99887766/99887766/10864.ts
-#EXTINF:-1,Kabel 1 Doku SD
-http://starshare.live:8080/live/99887766/99887766/10865.ts
-#EXTINF:-1,Kabel 1 Doku FHD
-http://starshare.live:8080/live/99887766/99887766/10866.ts
-#EXTINF:-1,Kabel 1 Doku HD
-http://starshare.live:8080/live/99887766/99887766/10867.ts
-#EXTINF:-1,DMAX HD
-http://starshare.live:8080/live/99887766/99887766/10868.ts
-#EXTINF:-1,DMAX SD
-http://starshare.live:8080/live/99887766/99887766/10869.ts
-#EXTINF:-1,arte FHD
-http://starshare.live:8080/live/99887766/99887766/10870.ts
-#EXTINF:-1,arte HD
-http://starshare.live:8080/live/99887766/99887766/10871.ts
-#EXTINF:-1,arte SD
-http://starshare.live:8080/live/99887766/99887766/10872.ts
-#EXTINF:-1,N24 DOKU FHD
-http://starshare.live:8080/live/99887766/99887766/10873.ts
-#EXTINF:-1,N24 DOKU HD
-http://starshare.live:8080/live/99887766/99887766/10874.ts
-#EXTINF:-1,N24 DOKU SD
-http://starshare.live:8080/live/99887766/99887766/10875.ts
-#EXTINF:-1,Bon Gusto HD
-http://starshare.live:8080/live/99887766/99887766/10876.ts
-#EXTINF:-1,Super RTL FHD
-http://starshare.live:8080/live/99887766/99887766/10877.ts
-#EXTINF:-1,Super RTL HD
-http://starshare.live:8080/live/99887766/99887766/10878.ts
-#EXTINF:-1,Super RTL SD
-http://starshare.live:8080/live/99887766/99887766/10879.ts
-#EXTINF:-1,KiKA FHD
-http://starshare.live:8080/live/99887766/99887766/10880.ts
-#EXTINF:-1,KiKA HD
-http://starshare.live:8080/live/99887766/99887766/10881.ts
-#EXTINF:-1,KiKA SD
-http://starshare.live:8080/live/99887766/99887766/10882.ts
-#EXTINF:-1,Disney Channel FHD
-http://starshare.live:8080/live/99887766/99887766/10883.ts
-#EXTINF:-1,Disney Channel HD
-http://starshare.live:8080/live/99887766/99887766/10884.ts
-#EXTINF:-1,Disney Channel SD
-http://starshare.live:8080/live/99887766/99887766/10885.ts
-#EXTINF:-1,Disney XD HD
-http://starshare.live:8080/live/99887766/99887766/10886.ts
-#EXTINF:-1,Disney XD SD
-http://starshare.live:8080/live/99887766/99887766/10887.ts
-#EXTINF:-1,Nick Jr HD
-http://starshare.live:8080/live/99887766/99887766/10888.ts
-#EXTINF:-1,Nick HD
-http://starshare.live:8080/live/99887766/99887766/10889.ts
-#EXTINF:-1,Nick SD
-http://starshare.live:8080/live/99887766/99887766/10890.ts
-#EXTINF:-1,Toggo Plus SD
-http://starshare.live:8080/live/99887766/99887766/10891.ts
-#EXTINF:-1,Cartoon Network FHD
-http://starshare.live:8080/live/99887766/99887766/10892.ts
-#EXTINF:-1,Fix & Foxi HD
-http://starshare.live:8080/live/99887766/99887766/10893.ts
-#EXTINF:-1,Nicktoons SD
-http://starshare.live:8080/live/99887766/99887766/10894.ts
-#EXTINF:-1,Nickelodeon HD
-http://starshare.live:8080/live/99887766/99887766/10895.ts
-#EXTINF:-1,Boomerang SD
-http://starshare.live:8080/live/99887766/99887766/10896.ts
-#EXTINF:-1,Baby TV
-http://starshare.live:8080/live/99887766/99887766/10897.ts
-#EXTINF:-1,DISNEY JR FHD
-http://starshare.live:8080/live/99887766/99887766/10898.ts
-#EXTINF:-1,DISNEY JR HD
-http://starshare.live:8080/live/99887766/99887766/10899.ts
-#EXTINF:-1,DISNEY JR SD
-http://starshare.live:8080/live/99887766/99887766/10900.ts
-#EXTINF:-1,HyperKids
-http://starshare.live:8080/live/99887766/99887766/10901.ts
-#EXTINF:-1,HyperKids  Prinzessin
-http://starshare.live:8080/live/99887766/99887766/10902.ts
-#EXTINF:-1,HyperKids Pappa Wutz
-http://starshare.live:8080/live/99887766/99887766/10903.ts
-#EXTINF:-1,HyperKids Caillou
-http://starshare.live:8080/live/99887766/99887766/10904.ts
-#EXTINF:-1,Sky Cinema Premieren FHD
-http://starshare.live:8080/live/99887766/99887766/10912.ts
-#EXTINF:-1,Sky Cinema Premieren SD
-http://starshare.live:8080/live/99887766/99887766/10913.ts
-#EXTINF:-1,Sky Cinema Premieren 24 HD
-http://starshare.live:8080/live/99887766/99887766/10914.ts
-#EXTINF:-1,Sky Cinema Thriller FHD
-http://starshare.live:8080/live/99887766/99887766/10915.ts
-#EXTINF:-1,Sky Cinema Action HD
-http://starshare.live:8080/live/99887766/99887766/10916.ts
-#EXTINF:-1,Sky Cinema Action SD
-http://starshare.live:8080/live/99887766/99887766/10917.ts
-#EXTINF:-1,Sky Cinema Family FHD
-http://starshare.live:8080/live/99887766/99887766/10918.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://starshare.live:8080/live/99887766/99887766/10919.ts
-#EXTINF:-1,Sky Cinema Family SD
-http://starshare.live:8080/live/99887766/99887766/10920.ts
-#EXTINF:-1,Sky Cinema Best Of FHD
-http://starshare.live:8080/live/99887766/99887766/10921.ts
-#EXTINF:-1,Sky Cinema Best Of HD
-http://starshare.live:8080/live/99887766/99887766/10922.ts
-#EXTINF:-1,Sky Cinema Best Of SD
-http://starshare.live:8080/live/99887766/99887766/10923.ts
-#EXTINF:-1,Sky Cinema Classics FHD
-http://starshare.live:8080/live/99887766/99887766/10924.ts
-#EXTINF:-1,Sky Cinema Special FHD
-http://starshare.live:8080/live/99887766/99887766/10925.ts
-#EXTINF:-1,Sky Cinema Special HD
-http://starshare.live:8080/live/99887766/99887766/10926.ts
-#EXTINF:-1,Sky Cinema Special SD
-http://starshare.live:8080/live/99887766/99887766/10927.ts
-#EXTINF:-1,SKY CINEMA FUN FHD
-http://starshare.live:8080/live/99887766/99887766/10928.ts
-#EXTINF:-1,SKY CINEMA FUN HD
-http://starshare.live:8080/live/99887766/99887766/10929.ts
-#EXTINF:-1,Sky Cinema Fun SD
-http://starshare.live:8080/live/99887766/99887766/10930.ts
-#EXTINF:-1,Sky Atlantic FHD
-http://starshare.live:8080/live/99887766/99887766/10931.ts
-#EXTINF:-1,Sky Atlantic HD
-http://starshare.live:8080/live/99887766/99887766/10932.ts
-#EXTINF:-1,Sky Atlantic SD
-http://starshare.live:8080/live/99887766/99887766/10933.ts
-#EXTINF:-1,Sky One FHD
-http://starshare.live:8080/live/99887766/99887766/10934.ts
-#EXTINF:-1,Sky One HD
-http://starshare.live:8080/live/99887766/99887766/10935.ts
-#EXTINF:-1,Sky One SD
-http://starshare.live:8080/live/99887766/99887766/10936.ts
-#EXTINF:-1,Fox FHD
-http://starshare.live:8080/live/99887766/99887766/10937.ts
-#EXTINF:-1,Fox HD
-http://starshare.live:8080/live/99887766/99887766/10938.ts
-#EXTINF:-1,Fox SD
-http://starshare.live:8080/live/99887766/99887766/10939.ts
-#EXTINF:-1,TNT Comedy FHD
-http://starshare.live:8080/live/99887766/99887766/10940.ts
-#EXTINF:-1,TNT Comedy HD
-http://starshare.live:8080/live/99887766/99887766/10941.ts
-#EXTINF:-1,TNT Film FHD
-http://starshare.live:8080/live/99887766/99887766/10942.ts
-#EXTINF:-1,TNT Film HD
-http://starshare.live:8080/live/99887766/99887766/10943.ts
-#EXTINF:-1,TNT Serie FHD
-http://starshare.live:8080/live/99887766/99887766/10944.ts
-#EXTINF:-1,TNT Serie HD
-http://starshare.live:8080/live/99887766/99887766/10945.ts
-#EXTINF:-1,TNT Serie SD
-http://starshare.live:8080/live/99887766/99887766/10946.ts
-#EXTINF:-1,Silverline HD
-http://starshare.live:8080/live/99887766/99887766/10947.ts
-#EXTINF:-1,13th Street FHD
-http://starshare.live:8080/live/99887766/99887766/10948.ts
-#EXTINF:-1,13th Street HD
-http://starshare.live:8080/live/99887766/99887766/10949.ts
-#EXTINF:-1,13th Street SD
-http://starshare.live:8080/live/99887766/99887766/10950.ts
-#EXTINF:-1,Syfy FHD
-http://starshare.live:8080/live/99887766/99887766/10951.ts
-#EXTINF:-1,Syfy HD
-http://starshare.live:8080/live/99887766/99887766/10952.ts
-#EXTINF:-1,Syfy SD
-http://starshare.live:8080/live/99887766/99887766/10953.ts
-#EXTINF:-1,Universal TV FHD
-http://starshare.live:8080/live/99887766/99887766/10954.ts
-#EXTINF:-1,Universal TV HD
-http://starshare.live:8080/live/99887766/99887766/10955.ts
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/271
+#EXTINF:-1,Syfy
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/270
+#EXTINF:-1,Tele 5
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/268
+#EXTINF:-1,TNT Comedy
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/306
+#EXTINF:-1,TNT Film
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/307
+#EXTINF:-1,TNT Serie
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/308
+#EXTINF:-1,KINOWELT.TV
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/328
+#EXTINF:-1,Sky Action
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/305
+#EXTINF:-1,Sky Atlantic
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/304
+#EXTINF:-1,Sky Cinema  24
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/302
+#EXTINF:-1,Sky Cinema
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/303
+#EXTINF:-1,Sky Comedy
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/301
+#EXTINF:-1,Sky Emotion
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/299
+#EXTINF:-1,Sky Hits
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/298
+#EXTINF:-1,Sky Krimi
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/297
+#EXTINF:-1,Sky Nostalgie
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/300
 #EXTINF:-1,Sky Select 1 HD
-http://starshare.live:8080/live/99887766/99887766/10956.ts
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/295
+#EXTINF:-1,Sky Select 2 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/294
 #EXTINF:-1,Sky Select 3 HD
-http://starshare.live:8080/live/99887766/99887766/10957.ts
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/293
 #EXTINF:-1,Sky Select 4 HD
-http://starshare.live:8080/live/99887766/99887766/10958.ts
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/3689
 #EXTINF:-1,Sky Select 5 HD
-http://starshare.live:8080/live/99887766/99887766/10959.ts
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/292
 #EXTINF:-1,Sky Select 6 HD
-http://starshare.live:8080/live/99887766/99887766/10960.ts
-#EXTINF:-1,Sky Select 7 HD
-http://starshare.live:8080/live/99887766/99887766/10961.ts
-#EXTINF:-1,Sky Select 8 HD
-http://starshare.live:8080/live/99887766/99887766/10962.ts
-#EXTINF:-1,RTL Crime FHD
-http://starshare.live:8080/live/99887766/99887766/10963.ts
-#EXTINF:-1,RTL Crime HD
-http://starshare.live:8080/live/99887766/99887766/10964.ts
-#EXTINF:-1,RTL Crime SD
-http://starshare.live:8080/live/99887766/99887766/10965.ts
-#EXTINF:-1,Sky Krimi FHD
-http://starshare.live:8080/live/99887766/99887766/10966.ts
-#EXTINF:-1,SKY KRIMI HD
-http://starshare.live:8080/live/99887766/99887766/10967.ts
-#EXTINF:-1,SKY KRIMI SD
-http://starshare.live:8080/live/99887766/99887766/10968.ts
-#EXTINF:-1,Kinowelt SD
-http://starshare.live:8080/live/99887766/99887766/10969.ts
-#EXTINF:-1,Crime + Investigation SD
-http://starshare.live:8080/live/99887766/99887766/10970.ts
-#EXTINF:-1,Romance TV SD
-http://starshare.live:8080/live/99887766/99887766/10971.ts
-#EXTINF:-1,KinoWelt FHD
-http://starshare.live:8080/live/99887766/99887766/10972.ts
-#EXTINF:-1,n-tv FHD
-http://starshare.live:8080/live/99887766/99887766/10973.ts
-#EXTINF:-1,n-tv HD
-http://starshare.live:8080/live/99887766/99887766/10974.ts
-#EXTINF:-1,n-tv SD
-http://starshare.live:8080/live/99887766/99887766/10975.ts
-#EXTINF:-1,WELT FHD
-http://starshare.live:8080/live/99887766/99887766/10976.ts
-#EXTINF:-1,WELT HD
-http://starshare.live:8080/live/99887766/99887766/10977.ts
-#EXTINF:-1,WELT SD
-http://starshare.live:8080/live/99887766/99887766/10978.ts
-#EXTINF:-1,Phoenix FHD
-http://starshare.live:8080/live/99887766/99887766/10979.ts
-#EXTINF:-1,Phoenix HD
-http://starshare.live:8080/live/99887766/99887766/10980.ts
-#EXTINF:-1,Phoenix SD
-http://starshare.live:8080/live/99887766/99887766/10981.ts
-#EXTINF:-1,Euronews HD
-http://starshare.live:8080/live/99887766/99887766/10982.ts
-#EXTINF:-1,Der Aktionär TV HD
-http://starshare.live:8080/live/99887766/99887766/10983.ts
-#EXTINF:-1,tagesschau24 HD
-http://starshare.live:8080/live/99887766/99887766/10984.ts
-#EXTINF:-1,Deluxe Music
-http://starshare.live:8080/live/99887766/99887766/10985.ts
-#EXTINF:-1,Deluxe Music FHD
-http://starshare.live:8080/live/99887766/99887766/10986.ts
-#EXTINF:-1,jukebox HD
-http://starshare.live:8080/live/99887766/99887766/10987.ts
-#EXTINF:-1,XITE
-http://starshare.live:8080/live/99887766/99887766/10988.ts
-#EXTINF:-1,Stingray Classica
-http://starshare.live:8080/live/99887766/99887766/10989.ts
-#EXTINF:-1,MTV Music 24
-http://starshare.live:8080/live/99887766/99887766/10990.ts
-#EXTINF:-1,MTV HD
-http://starshare.live:8080/live/99887766/99887766/10991.ts
-#EXTINF:-1,MTV FHD
-http://starshare.live:8080/live/99887766/99887766/10993.ts
-#EXTINF:-1,Krone Hit TV FHD
-http://starshare.live:8080/live/99887766/99887766/10994.ts
-#EXTINF:-1,VH1 EUROPE
-http://starshare.live:8080/live/99887766/99887766/10995.ts
-#EXTINF:-1,VH1 CLASSIC
-http://starshare.live:8080/live/99887766/99887766/10996.ts
-#EXTINF:-1,Sky Select super 1 4K
-http://starshare.live:8080/live/99887766/99887766/10997.ts
-#EXTINF:-1,Sky Select super 2 4K
-http://starshare.live:8080/live/99887766/99887766/10998.ts
-#EXTINF:-1,Sky Select super 3 4K
-http://starshare.live:8080/live/99887766/99887766/10999.ts
-#EXTINF:-1,SKY SELECT SUPER 4 4K
-http://starshare.live:8080/live/99887766/99887766/11000.ts
-#EXTINF:-1,SKY SELECT SUPER 5 4K
-http://starshare.live:8080/live/99887766/99887766/11001.ts
-#EXTINF:-1,Sky Select SUPER  6 4K
-http://starshare.live:8080/live/99887766/99887766/11002.ts
-#EXTINF:-1,Sky Select SUPER  7 4K
-http://starshare.live:8080/live/99887766/99887766/11003.ts
-#EXTINF:-1,Sky Select SUPER  8 4K
-http://starshare.live:8080/live/99887766/99887766/11004.ts
-#EXTINF:-1,Sky Select SUPER  9 4K
-http://starshare.live:8080/live/99887766/99887766/11005.ts
-#EXTINF:-1,Eagle Cinema Fantasie FHD
-http://starshare.live:8080/live/99887766/99887766/11006.ts
-#EXTINF:-1,Eagle Bollywood HD
-http://starshare.live:8080/live/99887766/99887766/11007.ts
-#EXTINF:-1,Eagle Cinema KINOSAAL (GERINGE QUALITÄT)
-http://starshare.live:8080/live/99887766/99887766/11008.ts
-#EXTINF:-1,Eagle Cinema Premiere HD
-http://starshare.live:8080/live/99887766/99887766/11009.ts
-#EXTINF:-1,Eagle Cinema Aktion HD
-http://starshare.live:8080/live/99887766/99887766/11010.ts
-#EXTINF:-1,Eagle Cinema Komodie HD
-http://starshare.live:8080/live/99887766/99887766/11011.ts
-#EXTINF:-1,Eagle Cinema Abenteuer HD
-http://starshare.live:8080/live/99887766/99887766/11012.ts
-#EXTINF:-1,Eagle Cinema Animation HD
-http://starshare.live:8080/live/99887766/99887766/11013.ts
-#EXTINF:-1,Eagle Cinema Thriller HD
-http://starshare.live:8080/live/99887766/99887766/11014.ts
-#EXTINF:-1,Eagle Entdeckernatur 4K UHD (multilanguage)
-http://starshare.live:8080/live/99887766/99887766/11015.ts
-#EXTINF:-1,Eagle Cinema 007 HD
-http://starshare.live:8080/live/99887766/99887766/11016.ts
-#EXTINF:-1,Eagle Entdeckernatur FHD
-http://starshare.live:8080/live/99887766/99887766/11017.ts
-#EXTINF:-1,Eagle Masha und der Bär HD
-http://starshare.live:8080/live/99887766/99887766/11018.ts
-#EXTINF:-1,Eagle Cinema Biografie FHD
-http://starshare.live:8080/live/99887766/99887766/11019.ts
-#EXTINF:-1,Eagle Cinema Familie FHD
-http://starshare.live:8080/live/99887766/99887766/11020.ts
-#EXTINF:-1,Eagle Cinema Fantasie FHD
-http://starshare.live:8080/live/99887766/99887766/11021.ts
-#EXTINF:-1,Eagle Cinema Romantisch HD
-http://starshare.live:8080/live/99887766/99887766/11022.ts
-#EXTINF:-1,Eagle Cinema Horror HD
-http://starshare.live:8080/live/99887766/99887766/11023.ts
-#EXTINF:-1,Eagle Cinema Geschichte HD
-http://starshare.live:8080/live/99887766/99887766/11024.ts
-#EXTINF:-1,Eagle Cinema Drama HD
-http://starshare.live:8080/live/99887766/99887766/11025.ts
-#EXTINF:-1,Eagle Cinema Sci-Fi HD
-http://starshare.live:8080/live/99887766/99887766/11026.ts
-#EXTINF:-1,Eagle Cinema Lächeln HD
-http://starshare.live:8080/live/99887766/99887766/11027.ts
-#EXTINF:-1,Eagle Cinema Mythologie HD
-http://starshare.live:8080/live/99887766/99887766/11028.ts
-#EXTINF:-1,Eagle PJ MASKS FHD
-http://starshare.live:8080/live/99887766/99887766/11029.ts
-#EXTINF:-1,Eagle Peppa Wutz FHD
-http://starshare.live:8080/live/99887766/99887766/11030.ts
-#EXTINF:-1,Eagle Cinema Religion HD
-http://starshare.live:8080/live/99887766/99887766/11031.ts
-#EXTINF:-1,MAX SELECT 4 HD
-http://starshare.live:8080/live/99887766/99887766/11032.ts
-#EXTINF:-1,ORF1
-http://starshare.live:8080/live/99887766/99887766/20308.ts
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/3690
+#EXTINF:-1,ORF Sport+ HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/6740
