@@ -1,229 +1,101 @@
 #EXTM3U
-#EXTINF:-1,RSI LA 1 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2904
-#EXTINF:-1,RSI LA 2 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2905
-#EXTINF:-1,PREMIUM EMOTION HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2774
-#EXTINF:-1,PREMIUM ACTION 24
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2793
-#EXTINF:-1,PREMIUM CALCIO 1
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2794
-#EXTINF:-1,PREMIUM CALCIO 5
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2795
-#EXTINF:-1,PREMIUM CINEMA HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2796
-#EXTINF:-1,PREMIUM CINEMA +24 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2809
-#EXTINF:-1,PREMIUM JOI HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2797
-#EXTINF:-1,PREMIUM PARAMOUNT
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2791
-#EXTINF:-1,PREMIUM STUDIO UNIVERSAL
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2798
-#EXTINF:-1,SPORT 1 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2786
-#EXTINF:-1,UNO HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2812
-#EXTINF:-1,SUPERTENNIS HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2813
-#EXTINF:-1,ANIMAL PLANET HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2814
-#EXTINF:-1,AXN HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2775
-#EXTINF:-1,BOING HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2777
-#EXTINF:-1,CANALE 5 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2779
-#EXTINF:-1,CARTOONITO
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2780
-#EXTINF:-1,CIELO HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2805
-#EXTINF:-1,DISCOVERY HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2810
-#EXTINF:-1,DISCOVERY SCI HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2783
-#EXTINF:-1,DISNEY JUNIOR HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2781
-#EXTINF:-1,DMAX HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2782
+#EXTINF:-1,Rai 1
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9988
+#EXTINF:-1,Rai 2
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9989
+#EXTINF:-1,Rai 3
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9990
+#EXTINF:-1,Rai 4
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9991
+#EXTINF:-1,Rai 5
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9992
+#EXTINF:-1,Rai 1 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9993
+#EXTINF:-1,LA7
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9994
+#EXTINF:-1,Italia 1 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9995
+#EXTINF:-1,Mediaset EXTRA HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/10000
 #EXTINF:-1,FOX HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2784
-#EXTINF:-1,FOX SPORTS HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2785
-#EXTINF:-1,MEDIASET LA 5 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2787
-#EXTINF:-1,LA 7 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2788
-#EXTINF:-1,MEDIASET EXTRA HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2790
-#EXTINF:-1,NAT GEO HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2792
-#EXTINF:-1,RAI 1 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2802
-#EXTINF:-1,RAI 3 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2803
-#EXTINF:-1,CALCIO 1 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2804
-#EXTINF:-1,CINEMA UNO HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2806
-#EXTINF:-1,CINEMA COLLECTION HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2807
-#EXTINF:-1,CINEMA SUSPENSE HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2808
-#EXTINF:-1,SPORT MOTO GP HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2811
-#EXTINF:-1,RAI 2 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2816
-#EXTINF:-1,RAI 4 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2817
-#EXTINF:-1,RAI 5 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2818
-#EXTINF:-1,RAI GULP HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2829
-#EXTINF:-1,RAI MOVIE HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2831
-#EXTINF:-1,RAI PREMIUM
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2832
-#EXTINF:-1,RAI SCUOLA
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2826
-#EXTINF:-1,RAI SPORT 1
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2828
-#EXTINF:-1,RAI SPORT 2
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2827
-#EXTINF:-1,RAI YOYO
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2830
-#EXTINF:-1,ALICE HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2892
-#EXTINF:-1,DISNEY XD HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2845
-#EXTINF:-1,FOCUS HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2889
-#EXTINF:-1,FOX ANIMATION HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2869
-#EXTINF:-1, INTER CHANNEL
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2886
-#EXTINF:-1,MEDIASET IRIS HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2894
-#EXTINF:-1, JUVENTUS CHANNEL
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2882
-#EXTINF:-1, LAZIO CHANNEL
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2885
-#EXTINF:-1,MARCOPOLO HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2896
-#EXTINF:-1,MEDIASET TOP CRIME HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2879
-#EXTINF:-1, MILAN CHANNEL
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2884
-#EXTINF:-1,NATIONAL GEO HD 
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2868
-#EXTINF:-1,NATIONAL GEO WILD HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2878
-#EXTINF:-1,NUVOLARI HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2893
-#EXTINF:-1,PREMIUM CALCIO 1 
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2891
-#EXTINF:-1,PREMIUM CALCIO 3
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2855
-#EXTINF:-1,PREMIUM CINEMA 2 +24 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2871
-#EXTINF:-1,PREMIUM STORIES +24 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2872
-#EXTINF:-1,REAL TIME HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2901
-#EXTINF:-1,RETE 4 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2900
-#EXTINF:-1, ROMA CHANNEL
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2883
-#EXTINF:-1,DISNEY CHANNEL
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2899
-#EXTINF:-1,FOX CRIME
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2875
-#EXTINF:-1,FOX LIFE HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2877
-#EXTINF:-1,SPORT 3 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2890
-#EXTINF:-1,SPORT F1 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2876
-#EXTINF:-1,SUPERCALCIO
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2898
-#EXTINF:-1,TELE TICINO
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2897
-#EXTINF:-1,TV2000
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2895
-#EXTINF:-1,DISCOVERY TRAVEL & LIVING HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2842
-#EXTINF:-1,MEDIASET ITALIA 1 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2903
-#EXTINF:-1,MEDIASET ITALIA 2 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2857
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2843
-#EXTINF:-1,PREMIUM ACTION HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2847
-#EXTINF:-1,PREMIUM COMEDY HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2849
-#EXTINF:-1,PREMIUM CRIME 24 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2850
-#EXTINF:-1,PREMIUM CRIME HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2851
-#EXTINF:-1,PREMIUM ENERGY HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2856
-#EXTINF:-1,EUROSPORT 1 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2852
-#EXTINF:-1,EUROSPORT 2 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2853
-#EXTINF:-1,PREMIUM SPORT HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2854
-#EXTINF:-1,PREMIUM SPORT 2 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2887
-#EXTINF:-1,PREMIUM STORIES HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2846
-#EXTINF:-1,PREMIUM CINEMA 2 HD.
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2848
-#EXTINF:-1,ATLANTIC HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2861
-#EXTINF:-1,CINEMA UNO +24 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2862
-#EXTINF:-1,CINEMA COMEDY
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2863
-#EXTINF:-1,CINEMA FAMILY HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2864
-#EXTINF:-1,CINEMA ACTION
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2866
-#EXTINF:-1,CINEMA DRAMA HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2865
-#EXTINF:-1,CINEMA ROMANCE HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2860
-#EXTINF:-1,PRIMAFILA 4
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2839
-#EXTINF:-1,PRIMAFILA 11
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2834
-#EXTINF:-1,PRIMAFILA 12
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2833
-#EXTINF:-1,PRIMAFILA 2
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2841
-#EXTINF:-1,PRIMAFILA 3
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2840
-#EXTINF:-1,PRIMAFILA 5
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2838
-#EXTINF:-1,PRIMAFILA 7
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2837
-#EXTINF:-1,PRIMAFILA 8
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2836
-#EXTINF:-1,PRIMAFILA 9
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2835
-#EXTINF:-1,SPORT SERIE A HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2881
-#EXTINF:-1,GIALLO HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2880
-#EXTINF:-1,PREMIUM CINEMA 2 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2870
-#EXTINF:-1,PREMIUM ENERGY +24
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2873
-#EXTINF:-1,FOX COMEDY HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/2874
-#EXTINF:-1,SPORT 24 HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/3110
-#EXTINF:-1,CINEMA DUE HD
-http://localhd.tv:8081/wassime802/O77ZxKkSxU/265011353
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9947
+#EXTINF:-1,TV 8
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9948
+#EXTINF:-1,Super!
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9950
+#EXTINF:-1,Rete4 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9953
+#EXTINF:-1,Canale Italia
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9954
+#EXTINF:-1,Real Time
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9955
+#EXTINF:-1,Rai Yoyo
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9956
+#EXTINF:-1,Rai Storia
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9957
+#EXTINF:-1,Rai Sport 2
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9958
+#EXTINF:-1,Rai Scuola
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9959
+#EXTINF:-1,Rai Premium
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9960
+#EXTINF:-1,Media Set Extra
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9961
+#EXTINF:-1,La5
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9962
+#EXTINF:-1,Primafila 4
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9963
+#EXTINF:-1,Primafila 3
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9964
+#EXTINF:-1,Primafila 2
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9965
+#EXTINF:-1,Primafila 1
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9966
+#EXTINF:-1,Mediaset Italia 2
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9967
+#EXTINF:-1,Iris
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9968
+#EXTINF:-1,Giallo
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9969
+#EXTINF:-1,CSTAR HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9970
+#EXTINF:-1,Focus
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9971
+#EXTINF:-1,DMAX Italia
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9972
+#EXTINF:-1,History Lab
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9973
+#EXTINF:-1,Cartoonito
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9974
+#EXTINF:-1,Boing
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9975
+#EXTINF:-1,Premium Cinema 24
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9976
+#EXTINF:-1,Disney XD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9977
+#EXTINF:-1,DMAX HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9978
+#EXTINF:-1,GIALLO
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9979
+#EXTINF:-1,Cielo HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9980
+#EXTINF:-1,RSI LA 2 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9981
+#EXTINF:-1,RSI LA 1 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9982
+#EXTINF:-1,Rete 4 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9983
+#EXTINF:-1,Rai Sport 1
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9984
+#EXTINF:-1,Rai News 24
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9985
+#EXTINF:-1,Rai Movie Hd
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9986
+#EXTINF:-1,Rai Gulp
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9987
+#EXTINF:-1,History
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9996
+#EXTINF:-1,cielo
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9997
+#EXTINF:-1,Canale 5 HD
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/9999
