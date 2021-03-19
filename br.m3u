@@ -1,103 +1,229 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/48390
-#EXTINF:-1,BAND
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54120
-#EXTINF:-1,BAND CAMPINAS
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54131
-#EXTINF:-1,CANAL BRASIL
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54121
-#EXTINF:-1,COMBATE
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7789
-#EXTINF:-1,CULTURA TV
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54130
-#EXTINF:-1,DISCOVERY CHANNEL
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54132
-#EXTINF:-1,DISCOVERY H&H
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54129
-#EXTINF:-1,FOX
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54127
-#EXTINF:-1,GLOBO MINAS
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7782
-#EXTINF:-1,GLOBO NEWS
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7783
-#EXTINF:-1,HBO
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7799
-#EXTINF:-1,HBO 2
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7802
-#EXTINF:-1,HBO FAMILY
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7800
-#EXTINF:-1,HBO MUNDI 
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54128
-#EXTINF:-1,HBO SIGNATURE
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7798
-#EXTINF:-1,HYSOTRY 2
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54134
-#EXTINF:-1,HYSTORY
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54135
-#EXTINF:-1,MAIS GLOBO SAT
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54119
-#EXTINF:-1,MULTISHOW
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54133
-#EXTINF:-1,NATGEO WILD
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/48409
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/48410
-#EXTINF:-1,PARAMOUNT
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54123
-#EXTINF:-1,PREMIERE
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7793
-#EXTINF:-1,RECORD
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54116
-#EXTINF:-1,RECORD NEWS
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54117
-#EXTINF:-1,SONY
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/48012
-#EXTINF:-1,SPACE
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7803
-#EXTINF:-1,STB
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7785
-#EXTINF:-1,STB GOIAS
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54142
-#EXTINF:-1,STB NORESTE
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54143
-#EXTINF:-1,STB RJ
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54144
-#EXTINF:-1,SYFY
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54124
-#EXTINF:-1,TELECINE ACTION
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7787
-#EXTINF:-1,TELECINE PIPOCA
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7788
-#EXTINF:-1,TELECINE PREMIUN
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7790
-#EXTINF:-1,TNT
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54125
-#EXTINF:-1,TNT SERIES
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54126
-#EXTINF:-1,TV GLOBO INTERNACIONAL
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54118
-#EXTINF:-1,VIVA
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54136
-#EXTINF:-1,BABY TV
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54138
-#EXTINF:-1,BOOMERAN
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54137
-#EXTINF:-1,DISCOVERY KIDS
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/48393
-#EXTINF:-1,DISNEY CHANNEL
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54139
-#EXTINF:-1,NATGEO KIDS
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54141
-#EXTINF:-1,NICK JR
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/48411
-#EXTINF:-1,TOONCAST
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54140
-#EXTINF:-1,ESPN
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/54122
-#EXTINF:-1,ESPN 2
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7797
-#EXTINF:-1,FOX SPORTS
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7794
-#EXTINF:-1,FOX SPORTS 2
-http://globalentertainmentec.xyz:8000/Moshe/Moshe/7795
+#EXTINF:-1, AXN  HD
+http://37723998.to:2052/dale1/1234/24676
+#EXTINF:-1,AMC  HD
+http://37723998.to:2052/dale1/1234/24677
+#EXTINF:-1,ANIMAL PLANET  HD
+http://37723998.to:2052/dale1/1234/24678
+#EXTINF:-1,ARTE 1  HD
+http://37723998.to:2052/dale1/1234/24679
+#EXTINF:-1,BABY TV  HD
+http://37723998.to:2052/dale1/1234/24680
+#EXTINF:-1,BAND CAMPINAS  HD
+http://37723998.to:2052/dale1/1234/24681
+#EXTINF:-1,BAND NEWS  HD
+http://37723998.to:2052/dale1/1234/24682
+#EXTINF:-1,BAND SPORTS  HD
+http://37723998.to:2052/dale1/1234/24683
+#EXTINF:-1,BIS  HD
+http://37723998.to:2052/dale1/1234/24684
+#EXTINF:-1,BOOMERANG  HD
+http://37723998.to:2052/dale1/1234/24685
+#EXTINF:-1,CANAL BRASIL  HD
+http://37723998.to:2052/dale1/1234/24686
+#EXTINF:-1,CANC  HD
+http://37723998.to:2052/dale1/1234/24687
+#EXTINF:-1,CARTOON NETWORK  HD
+http://37723998.to:2052/dale1/1234/24688
+#EXTINF:-1,CINEMAX  HD
+http://37723998.to:2052/dale1/1234/24689
+#EXTINF:-1,CNT  HD
+http://37723998.to:2052/dale1/1234/24690
+#EXTINF:-1,COMBATE  HD
+http://37723998.to:2052/dale1/1234/24691
+#EXTINF:-1,COMEDY CENTRAL  HD
+http://37723998.to:2052/dale1/1234/24692
+#EXTINF:-1,CULTURA  HD
+http://37723998.to:2052/dale1/1234/24693
+#EXTINF:-1,CURTA!  HD
+http://37723998.to:2052/dale1/1234/24694
+#EXTINF:-1,DISCOVERY CHANNEL  HD
+http://37723998.to:2052/dale1/1234/24695
+#EXTINF:-1,DISCOVERY CIVILIZATION  HD
+http://37723998.to:2052/dale1/1234/24696
+#EXTINF:-1,DISCOVERY HOME & HEALTH  HD
+http://37723998.to:2052/dale1/1234/24697
+#EXTINF:-1,DISCOVERY KIDS  HD
+http://37723998.to:2052/dale1/1234/24698
+#EXTINF:-1,DISCOVERY SCIENCE  HD
+http://37723998.to:2052/dale1/1234/24699
+#EXTINF:-1,DISCOVERY THEATER  HD
+http://37723998.to:2052/dale1/1234/24700
+#EXTINF:-1,DISCOVERY TLC  HD
+http://37723998.to:2052/dale1/1234/24701
+#EXTINF:-1,DISCOVERY TURBO  HD
+http://37723998.to:2052/dale1/1234/24702
+#EXTINF:-1,DISCOVERY WORLD  HD
+http://37723998.to:2052/dale1/1234/24703
+#EXTINF:-1,DISNEY CHANNEL  HD
+http://37723998.to:2052/dale1/1234/24704
+#EXTINF:-1,DISNEY JR  HD
+http://37723998.to:2052/dale1/1234/24705
+#EXTINF:-1,DISNEY XD  HD
+http://37723998.to:2052/dale1/1234/24706
+#EXTINF:-1,E!  HD
+http://37723998.to:2052/dale1/1234/24707
+#EXTINF:-1,ESPN  HD
+http://37723998.to:2052/dale1/1234/24708
+#EXTINF:-1,ESPN 2  HD
+http://37723998.to:2052/dale1/1234/24709
+#EXTINF:-1,ESPN BRASIL  HD
+http://37723998.to:2052/dale1/1234/24710
+#EXTINF:-1,FISH TV  HD
+http://37723998.to:2052/dale1/1234/24711
+#EXTINF:-1,FOOD NETWORK  HD
+http://37723998.to:2052/dale1/1234/24712
+#EXTINF:-1,FOX  HD
+http://37723998.to:2052/dale1/1234/24713
+#EXTINF:-1,FOX LIFE  HD
+http://37723998.to:2052/dale1/1234/24714
+#EXTINF:-1,FOX PREMIUM 1  HD
+http://37723998.to:2052/dale1/1234/24715
+#EXTINF:-1,FOX SPORTS  HD
+http://37723998.to:2052/dale1/1234/24716
+#EXTINF:-1,FOX SPORTS 2  HD
+http://37723998.to:2052/dale1/1234/24717
+#EXTINF:-1,FUTURA  HD
+http://37723998.to:2052/dale1/1234/24718
+#EXTINF:-1,FX  HD
+http://37723998.to:2052/dale1/1234/24719
+#EXTINF:-1,GLOBO BRASILIA  HD
+http://37723998.to:2052/dale1/1234/24720
+#EXTINF:-1,GLOBO CUIABA  HD
+http://37723998.to:2052/dale1/1234/24721
+#EXTINF:-1,GLOBO EPTV RIBEIR  HD
+http://37723998.to:2052/dale1/1234/24722
+#EXTINF:-1,GLOBO EPTV RIBEIRÃƒO PRETO  HD
+http://37723998.to:2052/dale1/1234/24723
+#EXTINF:-1,GLOBO EPTV SAO CARLOS  HD
+http://37723998.to:2052/dale1/1234/24724
+#EXTINF:-1,GLOBO INTERNACIONAL  HD
+http://37723998.to:2052/dale1/1234/24725
+#EXTINF:-1,GLOBO NEWS  HD
+http://37723998.to:2052/dale1/1234/24726
+#EXTINF:-1,GLOBO NORDESTE  HD
+http://37723998.to:2052/dale1/1234/24727
+#EXTINF:-1,GLOBO RIBEIR  HD
+http://37723998.to:2052/dale1/1234/24728
+#EXTINF:-1,GLOBO RJ  HD
+http://37723998.to:2052/dale1/1234/24729
+#EXTINF:-1,GLOBO RPC TV  HD
+http://37723998.to:2052/dale1/1234/24730
+#EXTINF:-1,GLOBO SP  HD
+http://37723998.to:2052/dale1/1234/24731
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS  HD
+http://37723998.to:2052/dale1/1234/24732
+#EXTINF:-1,GLOBOSAT  HD
+http://37723998.to:2052/dale1/1234/24733
+#EXTINF:-1,GLOOB  HD
+http://37723998.to:2052/dale1/1234/24734
+#EXTINF:-1,GNT  HD
+http://37723998.to:2052/dale1/1234/24735
+#EXTINF:-1,H2  HD
+http://37723998.to:2052/dale1/1234/24736
+#EXTINF:-1,HBO  HD
+http://37723998.to:2052/dale1/1234/24737
+#EXTINF:-1,HBO 2  HD
+http://37723998.to:2052/dale1/1234/24738
+#EXTINF:-1,HISTORY CHANNEL  HD
+http://37723998.to:2052/dale1/1234/24739
+#EXTINF:-1,INVESTIGA  HD
+http://37723998.to:2052/dale1/1234/24740
+#EXTINF:-1,LIFETIME  HD
+http://37723998.to:2052/dale1/1234/24741
+#EXTINF:-1,MAX PRIME  HD
+http://37723998.to:2052/dale1/1234/24742
+#EXTINF:-1,MAX UP  HD
+http://37723998.to:2052/dale1/1234/24743
+#EXTINF:-1,MEGAPIX  HD
+http://37723998.to:2052/dale1/1234/24744
+#EXTINF:-1,MUSIC BOX BRAZIL  HD
+http://37723998.to:2052/dale1/1234/24745
+#EXTINF:-1,NATGEO WILD  HD
+http://37723998.to:2052/dale1/1234/24746
+#EXTINF:-1,NATIONAL GEOGRAPHIC  HD
+http://37723998.to:2052/dale1/1234/24747
+#EXTINF:-1,NICK JR  HD
+http://37723998.to:2052/dale1/1234/24748
+#EXTINF:-1,NICKELODEON  HD
+http://37723998.to:2052/dale1/1234/24749
+#EXTINF:-1,OFF  HD
+http://37723998.to:2052/dale1/1234/24750
+#EXTINF:-1,PARAMOUNT CHANNEL   HD
+http://37723998.to:2052/dale1/1234/24751
+#EXTINF:-1,PREMIERE 1  HD
+http://37723998.to:2052/dale1/1234/24752
+#EXTINF:-1,PREMIERE 1  HD
+http://37723998.to:2052/dale1/1234/24753
+#EXTINF:-1,PREMIERE 2  HD
+http://37723998.to:2052/dale1/1234/24754
+#EXTINF:-1,PREMIERE 3  HD
+http://37723998.to:2052/dale1/1234/24755
+#EXTINF:-1,PREMIERE 4  HD
+http://37723998.to:2052/dale1/1234/24756
+#EXTINF:-1,PREMIERE CLUBES  HD
+http://37723998.to:2052/dale1/1234/24757
+#EXTINF:-1,RECORD  HD
+http://37723998.to:2052/dale1/1234/24758
+#EXTINF:-1,RECORD AMAZONAS  HD
+http://37723998.to:2052/dale1/1234/24759
+#EXTINF:-1,RECORD CAMPINAS  HD
+http://37723998.to:2052/dale1/1234/24760
+#EXTINF:-1,RECORD MG  HD
+http://37723998.to:2052/dale1/1234/24761
+#EXTINF:-1,RECORD NORDESTE  HD
+http://37723998.to:2052/dale1/1234/24762
+#EXTINF:-1,RECORD SP  HD
+http://37723998.to:2052/dale1/1234/24763
+#EXTINF:-1,REDE FAMILIA  HD
+http://37723998.to:2052/dale1/1234/24764
+#EXTINF:-1,REDE TV  HD
+http://37723998.to:2052/dale1/1234/24765
+#EXTINF:-1,REDE VIDA  HD
+http://37723998.to:2052/dale1/1234/24766
+#EXTINF:-1,SONY  HD
+http://37723998.to:2052/dale1/1234/24767
+#EXTINF:-1,SPACE  HD
+http://37723998.to:2052/dale1/1234/24768
+#EXTINF:-1,SPORTV  HD
+http://37723998.to:2052/dale1/1234/24769
+#EXTINF:-1,SPORTV 2  HD
+http://37723998.to:2052/dale1/1234/24770
+#EXTINF:-1,SPORTV 3  HD
+http://37723998.to:2052/dale1/1234/24771
+#EXTINF:-1,STUDIO UNIVERSAL  HD
+http://37723998.to:2052/dale1/1234/24772
+#EXTINF:-1,SYFY  HD
+http://37723998.to:2052/dale1/1234/24773
+#EXTINF:-1,TBS  HD
+http://37723998.to:2052/dale1/1234/24774
+#EXTINF:-1,TCM  HD
+http://37723998.to:2052/dale1/1234/24775
+#EXTINF:-1,TELECINE ACTION  HD
+http://37723998.to:2052/dale1/1234/24776
+#EXTINF:-1,TELECINE CULT  HD
+http://37723998.to:2052/dale1/1234/24777
+#EXTINF:-1,TELECINE FUN  HD
+http://37723998.to:2052/dale1/1234/24778
+#EXTINF:-1,TELECINE PREMIUM  HD
+http://37723998.to:2052/dale1/1234/24779
+#EXTINF:-1,TELECINE TOUCH  HD
+http://37723998.to:2052/dale1/1234/24780
+#EXTINF:-1,TNT  HD
+http://37723998.to:2052/dale1/1234/24781
+#EXTINF:-1,TNT SERIES  HD
+http://37723998.to:2052/dale1/1234/24782
+#EXTINF:-1,Tooncast  HD
+http://37723998.to:2052/dale1/1234/24783
+#EXTINF:-1,TV GAZETA  HD
+http://37723998.to:2052/dale1/1234/24784
+#EXTINF:-1,VH1  HD
+http://37723998.to:2052/dale1/1234/24785
+#EXTINF:-1,VIVA  HD
+http://37723998.to:2052/dale1/1234/24786
+#EXTINF:-1,WARNER CHANNEL  HD
+http://37723998.to:2052/dale1/1234/24787
+#EXTINF:-1,WOOHOO  HD
+http://37723998.to:2052/dale1/1234/24788
+#EXTINF:-1,BRASIL:DAZN BRASIL HD
+http://37723998.to:2052/dale1/1234/58099
