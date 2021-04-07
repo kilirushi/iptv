@@ -1,293 +1,179 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://nomorecable.xyz:80/vmp343streams/850256/18202
-#EXTINF:-1,RTP 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/35886
-#EXTINF:-1,RTP 1 FHD
-http://nomorecable.xyz:80/vmp343streams/850256/18165
-#EXTINF:-1,RTP 2
-http://nomorecable.xyz:80/vmp343streams/850256/18201
-#EXTINF:-1,RTP 2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18185
-#EXTINF:-1,RTP 2 FHD
-http://nomorecable.xyz:80/vmp343streams/850256/78362
-#EXTINF:-1,RTP 3
-http://nomorecable.xyz:80/vmp343streams/850256/78364
-#EXTINF:-1,RTP 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18186
-#EXTINF:-1,RTP ACORES
-http://nomorecable.xyz:80/vmp343streams/850256/18150
-#EXTINF:-1,RTP MADEIRA
-http://nomorecable.xyz:80/vmp343streams/850256/18151
-#EXTINF:-1,RTP MEMORIA
-http://nomorecable.xyz:80/vmp343streams/850256/18152
-#EXTINF:-1,RTP Africa
-http://nomorecable.xyz:80/vmp343streams/850256/78365
-#EXTINF:-1,AMC
-http://nomorecable.xyz:80/vmp343streams/850256/35887
-#EXTINF:-1,Nat Geo
-http://nomorecable.xyz:80/vmp343streams/850256/35888
-#EXTINF:-1,AXN Movies HD
-http://nomorecable.xyz:80/vmp343streams/850256/35897
-#EXTINF:-1,AXN White
-http://nomorecable.xyz:80/vmp343streams/850256/35898
-#EXTINF:-1,Fox Comedy
-http://nomorecable.xyz:80/vmp343streams/850256/35899
-#EXTINF:-1,Fox Crime
-http://nomorecable.xyz:80/vmp343streams/850256/35900
-#EXTINF:-1,Fox Life
-http://nomorecable.xyz:80/vmp343streams/850256/35901
-#EXTINF:-1,Fox Movies
-http://nomorecable.xyz:80/vmp343streams/850256/35902
-#EXTINF:-1,Sic Noticias
-http://nomorecable.xyz:80/vmp343streams/850256/35903
-#EXTINF:-1,CMTV
-http://nomorecable.xyz:80/vmp343streams/850256/35904
-#EXTINF:-1,Sic Mulher
-http://nomorecable.xyz:80/vmp343streams/850256/35905
-#EXTINF:-1,SIC Caras
-http://nomorecable.xyz:80/vmp343streams/850256/35906
-#EXTINF:-1,SIC Radical
-http://nomorecable.xyz:80/vmp343streams/850256/35907
-#EXTINF:-1,TVCINE TOP
-http://nomorecable.xyz:80/vmp343streams/850256/35912
-#EXTINF:-1,TVCINE EDITION
-http://nomorecable.xyz:80/vmp343streams/850256/35913
-#EXTINF:-1,TVCINE 3 EMOTION
-http://nomorecable.xyz:80/vmp343streams/850256/35914
-#EXTINF:-1,TV SERIES
-http://nomorecable.xyz:80/vmp343streams/850256/35916
-#EXTINF:-1,HOLLYWOOD
-http://nomorecable.xyz:80/vmp343streams/850256/35917
-#EXTINF:-1,ARTV
-http://nomorecable.xyz:80/vmp343streams/850256/35920
-#EXTINF:-1,BIGGS
-http://nomorecable.xyz:80/vmp343streams/850256/35921
-#EXTINF:-1,SYFY
-http://nomorecable.xyz:80/vmp343streams/850256/35924
-#EXTINF:-1,11 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18206
-#EXTINF:-1,24 KITCHEN HD
-http://nomorecable.xyz:80/vmp343streams/850256/18188
+#EXTINF:-1,CRIME + INVESTIGACAO FullHD
+http://tvmedia2.com:8080/trevor/trevor/165187.ts
+#EXTINF:-1,24 Kitchen FullHD
+http://tvmedia2.com:8080/trevor/trevor/165188.ts
 #EXTINF:-1,A BOLA TV
-http://nomorecable.xyz:80/vmp343streams/850256/18159
-#EXTINF:-1,AFRO MUSIC
-http://nomorecable.xyz:80/vmp343streams/850256/18094
-#EXTINF:-1,AMC HD
-http://nomorecable.xyz:80/vmp343streams/850256/18187
-#EXTINF:-1,AXN Movies FHD
-http://nomorecable.xyz:80/vmp343streams/850256/18171
-#EXTINF:-1,AXN HD
-http://nomorecable.xyz:80/vmp343streams/850256/18123
-#EXTINF:-1,AXN WHITE HD
-http://nomorecable.xyz:80/vmp343streams/850256/18170
-#EXTINF:-1,BABY TV
-http://nomorecable.xyz:80/vmp343streams/850256/18096
-#EXTINF:-1,BLAZE
-http://nomorecable.xyz:80/vmp343streams/850256/18112
-#EXTINF:-1,BTV
-http://nomorecable.xyz:80/vmp343streams/850256/18198
-#EXTINF:-1,BTV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18138
-#EXTINF:-1,CA�A E PESCA
-http://nomorecable.xyz:80/vmp343streams/850256/18108
-#EXTINF:-1,CA�AVISION
-http://nomorecable.xyz:80/vmp343streams/850256/18106
-#EXTINF:-1,CANAL HISTORIA
-http://nomorecable.xyz:80/vmp343streams/850256/18115
-#EXTINF:-1,CANAL PANDA
-http://nomorecable.xyz:80/vmp343streams/850256/18102
-#EXTINF:-1,CANAL Q
-http://nomorecable.xyz:80/vmp343streams/850256/18149
-#EXTINF:-1,CBS REALITY
-http://nomorecable.xyz:80/vmp343streams/850256/18110
-#EXTINF:-1,CINEMUNDO HD
-http://nomorecable.xyz:80/vmp343streams/850256/18173
-#EXTINF:-1,CMTV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18160
-#EXTINF:-1,DISCOVERY
-http://nomorecable.xyz:80/vmp343streams/850256/18117
-#EXTINF:-1,DISNEY CHANNEL
-http://nomorecable.xyz:80/vmp343streams/850256/18104
-#EXTINF:-1,DISNEY JUNIOR
-http://nomorecable.xyz:80/vmp343streams/850256/18103
-#EXTINF:-1,E! ENTERTAINMENT
-http://nomorecable.xyz:80/vmp343streams/850256/18174
-#EXTINF:-1,ELEVEN  2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18179
-#EXTINF:-1,ELEVEN 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18178
-#EXTINF:-1,ELEVEN 5 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18175
-#EXTINF:-1,ELEVEN 6 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18176
-#EXTINF:-1,ELEVEN 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18180
-#EXTINF:-1,ELEVEN 4 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18177
-#EXTINF:-1,EUROSPORT  1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18135
-#EXTINF:-1,FOOD NETWORK HD
-http://nomorecable.xyz:80/vmp343streams/850256/18107
-#EXTINF:-1,FOX COMEDY HD
-http://nomorecable.xyz:80/vmp343streams/850256/18167
-#EXTINF:-1,FOX CRIME HD
-http://nomorecable.xyz:80/vmp343streams/850256/18190
-#EXTINF:-1,FOX HD
-http://nomorecable.xyz:80/vmp343streams/850256/18122
-#EXTINF:-1,FOX LIFE HD
-http://nomorecable.xyz:80/vmp343streams/850256/18121
-#EXTINF:-1,FOX MOVIES HD
-http://nomorecable.xyz:80/vmp343streams/850256/18192
-#EXTINF:-1,FUEL TV
-http://nomorecable.xyz:80/vmp343streams/850256/18193
-#EXTINF:-1,GLOBO PORTUGAL
-http://nomorecable.xyz:80/vmp343streams/850256/18090
-#EXTINF:-1,GLOBO PORTUGAL HD
-http://nomorecable.xyz:80/vmp343streams/850256/18181
-#EXTINF:-1,HOLLYWOOD HD
-http://nomorecable.xyz:80/vmp343streams/850256/18124
-#EXTINF:-1,JIM JAM
-http://nomorecable.xyz:80/vmp343streams/850256/18097
-#EXTINF:-1,KOMBAT SPORT
-http://nomorecable.xyz:80/vmp343streams/850256/18132
-#EXTINF:-1,MCM POP
-http://nomorecable.xyz:80/vmp343streams/850256/18093
-#EXTINF:-1,MCM TOP
-http://nomorecable.xyz:80/vmp343streams/850256/18182
-#EXTINF:-1,MEZZO-LIVE HD
-http://nomorecable.xyz:80/vmp343streams/850256/18168
-#EXTINF:-1,MOTORVISION HD
-http://nomorecable.xyz:80/vmp343streams/850256/18133
-#EXTINF:-1,MTV PORTUGAL HD
-http://nomorecable.xyz:80/vmp343streams/850256/18172
-#EXTINF:-1,NAT GEO HD
-http://nomorecable.xyz:80/vmp343streams/850256/18119
-#EXTINF:-1,NAT GEO WILD
-http://nomorecable.xyz:80/vmp343streams/850256/18118
-#EXTINF:-1,NAT GEO WILD HD
-http://nomorecable.xyz:80/vmp343streams/850256/18184
-#EXTINF:-1,NICK JR.
-http://nomorecable.xyz:80/vmp343streams/850256/18099
-#EXTINF:-1,NICKELODEON
-http://nomorecable.xyz:80/vmp343streams/850256/18100
-#EXTINF:-1,NOS STUDIOS HD
-http://nomorecable.xyz:80/vmp343streams/850256/18195
-#EXTINF:-1,ODISSEIA HD
-http://nomorecable.xyz:80/vmp343streams/850256/18116
-#EXTINF:-1,PANDA BIGSS
-http://nomorecable.xyz:80/vmp343streams/850256/18101
-#EXTINF:-1,PFC
-http://nomorecable.xyz:80/vmp343streams/850256/18130
-#EXTINF:-1,SIC
-http://nomorecable.xyz:80/vmp343streams/850256/18200
-#EXTINF:-1,SIC CARAS HD
-http://nomorecable.xyz:80/vmp343streams/850256/18155
-#EXTINF:-1,SIC HD
-http://nomorecable.xyz:80/vmp343streams/850256/18164
-#EXTINF:-1,SIC Kids
-http://nomorecable.xyz:80/vmp343streams/850256/18153
-#EXTINF:-1,Sic Kids HD
-http://nomorecable.xyz:80/vmp343streams/850256/79718
-#EXTINF:-1,SIC MULHER HD
-http://nomorecable.xyz:80/vmp343streams/850256/18156
-#EXTINF:-1,SIC NOTICIAS HD
-http://nomorecable.xyz:80/vmp343streams/850256/18162
-#EXTINF:-1,SIC RADICAL HD
-http://nomorecable.xyz:80/vmp343streams/850256/18154
-#EXTINF:-1,SPORTING TV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18137
-#EXTINF:-1,SYFY-HD
-http://nomorecable.xyz:80/vmp343streams/850256/18120
-#EXTINF:-1,TLC
-http://nomorecable.xyz:80/vmp343streams/850256/18111
-#EXTINF:-1,TOROS TV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18105
-#EXTINF:-1,TPA
-http://nomorecable.xyz:80/vmp343streams/850256/18203
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://nomorecable.xyz:80/vmp343streams/850256/18113
-#EXTINF:-1,TV RECORD HD
-http://nomorecable.xyz:80/vmp343streams/850256/18166
-#EXTINF:-1,TV SERIES HD
-http://nomorecable.xyz:80/vmp343streams/850256/18125
-#EXTINF:-1,TVCINE TOP HD
-http://nomorecable.xyz:80/vmp343streams/850256/18129
-#EXTINF:-1,TVCINE EDITION HD
-http://nomorecable.xyz:80/vmp343streams/850256/18128
-#EXTINF:-1,TVCINE EMOTION HD
-http://nomorecable.xyz:80/vmp343streams/850256/18127
-#EXTINF:-1,TVCINE ACTION HD
-http://nomorecable.xyz:80/vmp343streams/850256/18126
-#EXTINF:-1,TVI
-http://nomorecable.xyz:80/vmp343streams/850256/18199
-#EXTINF:-1,TVI 24
-http://nomorecable.xyz:80/vmp343streams/850256/18161
-#EXTINF:-1,TVI FICCAO
-http://nomorecable.xyz:80/vmp343streams/850256/18158
-#EXTINF:-1,TVI HD
-http://nomorecable.xyz:80/vmp343streams/850256/18163
-#EXTINF:-1,TVI REALITY
-http://nomorecable.xyz:80/vmp343streams/850256/18157
-#EXTINF:-1,VH1
-http://nomorecable.xyz:80/vmp343streams/850256/18095
-#EXTINF:-1,DISCOVERY HD
-http://nomorecable.xyz:80/vmp343streams/850256/35925
-#EXTINF:-1,ODISSEIA
-http://nomorecable.xyz:80/vmp343streams/850256/35926
+http://tvmedia2.com:8080/trevor/trevor/165189.ts
+#EXTINF:-1,AMC
+http://tvmedia2.com:8080/trevor/trevor/165190.ts
 #EXTINF:-1,AXN
-http://nomorecable.xyz:80/vmp343streams/850256/35918
-#EXTINF:-1,Cinemundo
-http://nomorecable.xyz:80/vmp343streams/850256/35895
-#EXTINF:-1,MTV Portugal
-http://nomorecable.xyz:80/vmp343streams/850256/35896
-#EXTINF:-1,ZAP VIVA HD
-http://nomorecable.xyz:80/vmp343streams/850256/18197
-#EXTINF:-1,GLOBO NOW HD
-http://nomorecable.xyz:80/vmp343streams/850256/18196
-#EXTINF:-1,TV RECORD
-http://nomorecable.xyz:80/vmp343streams/850256/18092
-#EXTINF:-1,Porto Canal
-http://nomorecable.xyz:80/vmp343streams/850256/35909
-#EXTINF:-1,Sporting TV
-http://nomorecable.xyz:80/vmp343streams/850256/35908
-#EXTINF:-1,SPORT TV + HD
-http://nomorecable.xyz:80/vmp343streams/850256/18183
-#EXTINF:-1,SPORT TV 1
-http://nomorecable.xyz:80/vmp343streams/850256/18147
-#EXTINF:-1,SPORT TV 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18148
-#EXTINF:-1,SPORT TV 2
-http://nomorecable.xyz:80/vmp343streams/850256/18146
-#EXTINF:-1,SPORT TV 2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18145
-#EXTINF:-1,SPORT TV 3
-http://nomorecable.xyz:80/vmp343streams/850256/18144
-#EXTINF:-1,SPORT TV 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18143
-#EXTINF:-1,SPORT TV 4
-http://nomorecable.xyz:80/vmp343streams/850256/18142
-#EXTINF:-1,SPORT TV 4 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18141
-#EXTINF:-1,SPORT TV 5
-http://nomorecable.xyz:80/vmp343streams/850256/18140
-#EXTINF:-1,SPORT TV 5 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18139
-#EXTINF:-1,SPORT TV NBA  HD
-http://nomorecable.xyz:80/vmp343streams/850256/18131
-#EXTINF:-1,Eurosport 1
-http://nomorecable.xyz:80/vmp343streams/850256/35910
+http://tvmedia2.com:8080/trevor/trevor/165191.ts
+#EXTINF:-1,AXN Black
+http://tvmedia2.com:8080/trevor/trevor/165192.ts
+#EXTINF:-1,AXN WHITE
+http://tvmedia2.com:8080/trevor/trevor/165193.ts
+#EXTINF:-1,BABY TV
+http://tvmedia2.com:8080/trevor/trevor/165194.ts
+#EXTINF:-1,BENFICA TV HD
+http://tvmedia2.com:8080/trevor/trevor/165195.ts
+#EXTINF:-1,Benfica TV FullHD
+http://tvmedia2.com:8080/trevor/trevor/165196.ts
+#EXTINF:-1,CM TV
+http://tvmedia2.com:8080/trevor/trevor/165197.ts
+#EXTINF:-1,CAÇA & PESCA
+http://tvmedia2.com:8080/trevor/trevor/165198.ts
+#EXTINF:-1,CANAL Q
+http://tvmedia2.com:8080/trevor/trevor/165199.ts
+#EXTINF:-1,CANAL PANDA
+http://tvmedia2.com:8080/trevor/trevor/165200.ts
+#EXTINF:-1,Casa e Cozinha FHD
+http://tvmedia2.com:8080/trevor/trevor/165201.ts
+#EXTINF:-1,Cartoon Network
+http://tvmedia2.com:8080/trevor/trevor/165202.ts
+#EXTINF:-1,CANAL HISTORIA
+http://tvmedia2.com:8080/trevor/trevor/165203.ts
+#EXTINF:-1,CINEMUNDO
+http://tvmedia2.com:8080/trevor/trevor/165204.ts
+#EXTINF:-1,CBS Reality
+http://tvmedia2.com:8080/trevor/trevor/165205.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://tvmedia2.com:8080/trevor/trevor/165206.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://tvmedia2.com:8080/trevor/trevor/165207.ts
+#EXTINF:-1,Discovery HD Showcase
+http://tvmedia2.com:8080/trevor/trevor/165208.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://tvmedia2.com:8080/trevor/trevor/165209.ts
+#EXTINF:-1,EUROSPORT
+http://tvmedia2.com:8080/trevor/trevor/165210.ts
 #EXTINF:-1,Eurosport 2
-http://nomorecable.xyz:80/vmp343streams/850256/35911
-#EXTINF:-1,Eleven Sports 3
-http://nomorecable.xyz:80/vmp343streams/850256/35891
-#EXTINF:-1,Eleven Sports 6
-http://nomorecable.xyz:80/vmp343streams/850256/35894
-#EXTINF:-1,Eleven Sports 5
-http://nomorecable.xyz:80/vmp343streams/850256/35893
-#EXTINF:-1,Eleven Sports 4
-http://nomorecable.xyz:80/vmp343streams/850256/35892
-#EXTINF:-1,Eleven Sports 2
-http://nomorecable.xyz:80/vmp343streams/850256/35890
-#EXTINF:-1,Eleven Sports 1
-http://nomorecable.xyz:80/vmp343streams/850256/35889
+http://tvmedia2.com:8080/trevor/trevor/165211.ts
+#EXTINF:-1,E! Entertainment
+http://tvmedia2.com:8080/trevor/trevor/165212.ts
+#EXTINF:-1,FOX TV
+http://tvmedia2.com:8080/trevor/trevor/165213.ts
+#EXTINF:-1,FOX MOVIES HD
+http://tvmedia2.com:8080/trevor/trevor/165214.ts
+#EXTINF:-1,FOX CRIME
+http://tvmedia2.com:8080/trevor/trevor/165215.ts
+#EXTINF:-1,FOX LIFE
+http://tvmedia2.com:8080/trevor/trevor/165216.ts
+#EXTINF:-1,Fox Comedy
+http://tvmedia2.com:8080/trevor/trevor/165217.ts
+#EXTINF:-1,Food Network
+http://tvmedia2.com:8080/trevor/trevor/165218.ts
+#EXTINF:-1,Fuel TV
+http://tvmedia2.com:8080/trevor/trevor/165219.ts
+#EXTINF:-1,ODISSEIA
+http://tvmedia2.com:8080/trevor/trevor/165220.ts
+#EXTINF:-1,MOV HD
+http://tvmedia2.com:8080/trevor/trevor/165221.ts
+#EXTINF:-1,JimJam
+http://tvmedia2.com:8080/trevor/trevor/165222.ts
+#EXTINF:-1,Kombat Sports
+http://tvmedia2.com:8080/trevor/trevor/165223.ts
+#EXTINF:-1,Mtv Portuga
+http://tvmedia2.com:8080/trevor/trevor/165224.ts
+#EXTINF:-1,Nat Geo Wild
+http://tvmedia2.com:8080/trevor/trevor/165225.ts
+#EXTINF:-1,MOTORVISION TV
+http://tvmedia2.com:8080/trevor/trevor/165226.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://tvmedia2.com:8080/trevor/trevor/165227.ts
+#EXTINF:-1,NBA HD
+http://tvmedia2.com:8080/trevor/trevor/165228.ts
+#EXTINF:-1,NICKELODEON
+http://tvmedia2.com:8080/trevor/trevor/165229.ts
+#EXTINF:-1,RTP 1
+http://tvmedia2.com:8080/trevor/trevor/165230.ts
+#EXTINF:-1,RTP 2
+http://tvmedia2.com:8080/trevor/trevor/165231.ts
+#EXTINF:-1,RTP 3 FullHD
+http://tvmedia2.com:8080/trevor/trevor/165232.ts
+#EXTINF:-1,Real Madrid TV
+http://tvmedia2.com:8080/trevor/trevor/165233.ts
+#EXTINF:-1,RTP AÇORES
+http://tvmedia2.com:8080/trevor/trevor/165234.ts
+#EXTINF:-1,RTP MEMÓRIA
+http://tvmedia2.com:8080/trevor/trevor/165235.ts
+#EXTINF:-1,RTP ÁFRICA
+http://tvmedia2.com:8080/trevor/trevor/165236.ts
+#EXTINF:-1,Panda
+http://tvmedia2.com:8080/trevor/trevor/165237.ts
+#EXTINF:-1,PORTO CANAL
+http://tvmedia2.com:8080/trevor/trevor/165238.ts
+#EXTINF:-1,Panda Biggs
+http://tvmedia2.com:8080/trevor/trevor/165239.ts
+#EXTINF:-1,MOTORVISION
+http://tvmedia2.com:8080/trevor/trevor/165240.ts
+#EXTINF:-1,PFC
+http://tvmedia2.com:8080/trevor/trevor/165241.ts
+#EXTINF:-1,SPORTING TV
+http://tvmedia2.com:8080/trevor/trevor/165242.ts
+#EXTINF:-1,SPORT TV 1 FullHD
+http://tvmedia2.com:8080/trevor/trevor/165243.ts
+#EXTINF:-1,SPORT TV 2 FullHD
+http://tvmedia2.com:8080/trevor/trevor/165244.ts
+#EXTINF:-1,SPORT TV 3 FullHD
+http://tvmedia2.com:8080/trevor/trevor/165245.ts
+#EXTINF:-1,SPORT TV 4 FullHD
+http://tvmedia2.com:8080/trevor/trevor/165246.ts
+#EXTINF:-1,SPORT TV 5 FullHD
+http://tvmedia2.com:8080/trevor/trevor/165247.ts
+#EXTINF:-1,EuroNews
+http://tvmedia2.com:8080/trevor/trevor/165248.ts
+#EXTINF:-1,SYFY FullHD
+http://tvmedia2.com:8080/trevor/trevor/165249.ts
+#EXTINF:-1,SIC RADICAL FullHD
+http://tvmedia2.com:8080/trevor/trevor/165250.ts
+#EXTINF:-1,SIC MULHER
+http://tvmedia2.com:8080/trevor/trevor/165251.ts
+#EXTINF:-1,SIC NOTICIAS
+http://tvmedia2.com:8080/trevor/trevor/165252.ts
+#EXTINF:-1,Sic
+http://tvmedia2.com:8080/trevor/trevor/165253.ts
+#EXTINF:-1,SIC Caras HD
+http://tvmedia2.com:8080/trevor/trevor/165254.ts
+#EXTINF:-1,SIC Kids FHD
+http://tvmedia2.com:8080/trevor/trevor/165255.ts
+#EXTINF:-1,TLC
+http://tvmedia2.com:8080/trevor/trevor/165256.ts
+#EXTINF:-1,TVI REALITY
+http://tvmedia2.com:8080/trevor/trevor/165257.ts
+#EXTINF:-1,TOROS TV
+http://tvmedia2.com:8080/trevor/trevor/165258.ts
+#EXTINF:-1,TV Globo NOW
+http://tvmedia2.com:8080/trevor/trevor/165259.ts
+#EXTINF:-1,TV GLOBO
+http://tvmedia2.com:8080/trevor/trevor/165260.ts
+#EXTINF:-1,TV RECORD
+http://tvmedia2.com:8080/trevor/trevor/165261.ts
+#EXTINF:-1,TV CINE ACTION FullHD
+http://tvmedia2.com:8080/trevor/trevor/165262.ts
+#EXTINF:-1,TV CINE EDITION FullHD
+http://tvmedia2.com:8080/trevor/trevor/165263.ts
+#EXTINF:-1,TV CINE Emotion  FullHD
+http://tvmedia2.com:8080/trevor/trevor/165264.ts
+#EXTINF:-1,TV CINE TOP  FullHD
+http://tvmedia2.com:8080/trevor/trevor/165265.ts
+#EXTINF:-1,TVI
+http://tvmedia2.com:8080/trevor/trevor/165266.ts
+#EXTINF:-1,TVI 24
+http://tvmedia2.com:8080/trevor/trevor/165267.ts
+#EXTINF:-1,TVCseries FullHD
+http://tvmedia2.com:8080/trevor/trevor/165268.ts
+#EXTINF:-1,Travel Channel
+http://tvmedia2.com:8080/trevor/trevor/165269.ts
+#EXTINF:-1,VH1
+http://tvmedia2.com:8080/trevor/trevor/165270.ts
+#EXTINF:-1,ZAP VIVA FHD
+http://tvmedia2.com:8080/trevor/trevor/165271.ts
+#EXTINF:-1,NOS STUDIOS HD
+http://tvmedia2.com:8080/trevor/trevor/165272.ts
+#EXTINF:-1,HOLLYWOOD FHD
+http://tvmedia2.com:8080/trevor/trevor/165273.ts
+#EXTINF:-1,TVI FICCAO
+http://tvmedia2.com:8080/trevor/trevor/165274.ts
+#EXTINF:-1,CANAL 11 HD
+http://tvmedia2.com:8080/trevor/trevor/165275.ts
