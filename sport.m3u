@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:-1,Sport HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
+#EXTINF:-1,sport 1HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/1
+#EXTINF:-1,sport 2HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/2
+#EXTINF:-1,sport 3HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/3
+#EXTINF:-1,sport 4HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/4
+#EXTINF:-1,sport 5HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/5
+#EXTINF:-1,sport 6HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/6
+#EXTINF:-1,sport 7HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/7
+#EXTINF:-1,sport 8HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/8
+#EXTINF:-1,sport 9HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/9
+#EXTINF:-1,sport 10HD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/10
+#EXTINF:-1,⚽ sport 1 SD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/11
+#EXTINF:-1,⚽ sport 2 SD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/12
+#EXTINF:-1,⚽ sport 3 SD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/13
+#EXTINF:-1,⚽ sport 4 SD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/14
+#EXTINF:-1,⚽ sport 5 SD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/15
+#EXTINF:-1,⚽ sport 6 SD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/16
+#EXTINF:-1,⚽ sport 7 SD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/17
+#EXTINF:-1,⚽ sport 8 SD
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/18
+#EXTINF:-1,sport low1
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/19
+#EXTINF:-1,sport low2
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/20
+#EXTINF:-1,sport low3
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/21
+#EXTINF:-1,sport low4
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/22
+#EXTINF:-1,sport low5
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/23
+#EXTINF:-1,sport low6
+http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/24
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 2 (1080p)
