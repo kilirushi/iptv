@@ -1,853 +1,193 @@
 #EXTM3U
-#EXTINF:-1,ITV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1189
+#EXTINF:-1,BBC 1 FHD
+https://fullenglish.xyz:443/monte/monte123/4437
+#EXTINF:-1,BBC 1 HD *
+https://fullenglish.xyz:443/monte/monte123/4438
+#EXTINF:-1,BBC 2 FHD
+https://fullenglish.xyz:443/monte/monte123/4440
+#EXTINF:-1,BBC 2HD
+https://fullenglish.xyz:443/monte/monte123/4441
+#EXTINF:-1,ITV FHD
+https://fullenglish.xyz:443/monte/monte123/4443
 #EXTINF:-1,ITV HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2227
-#EXTINF:-1,ITV +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2228
-#EXTINF:-1,ITV 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1190
-#EXTINF:-1,ITV2 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2229
-#EXTINF:-1,ITV 2 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1483
-#EXTINF:-1,ITV2 +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2230
-#EXTINF:-1,ITV 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1195
-#EXTINF:-1,ITV3 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2231
-#EXTINF:-1,ITV 3 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1467
-#EXTINF:-1,ITV 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1191
-#EXTINF:-1,ITV4 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2232
-#EXTINF:-1,ITV4 +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2233
-#EXTINF:-1,ITVBe
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1192
-#EXTINF:-1,ITVBe +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2241
-#EXTINF:-1,4Seven
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2063
-#EXTINF:-1,ITV Tyne Tees FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1618
-#EXTINF:-1,Ulster TV FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1560
-#EXTINF:-1,ITV Granada FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1559
-#EXTINF:-1,CreateCraft FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1574
-#EXTINF:-1,ITV Wales FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1558
-#EXTINF:-1,S4C FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1572
-#EXTINF:-1,ITV Anglia East FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1620
-#EXTINF:-1,UTV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1194
-#EXTINF:-1,STV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1193
-#EXTINF:-1,STV FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1619
-#EXTINF:-1,BBC One London
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1200
-#EXTINF:-1,BBC One FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1517
-#EXTINF:-1,BBC One South West
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1838
-#EXTINF:-1,BBC One South East
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1684
-#EXTINF:-1,BBC One Wales FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1553
-#EXTINF:-1,BBC Two
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1201
-#EXTINF:-1,BBC Two FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1465
-#EXTINF:-1,BBC Two Wales FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1550
-#EXTINF:-1,BBC Four
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1196
-#EXTINF:-1,BBC Four FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1565
-#EXTINF:-1,BBC One Northern Ireland
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1647
-#EXTINF:-1,BBC One Northern Ireland FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1551
-#EXTINF:-1,BBC Two Northern Ireland
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1648
-#EXTINF:-1,BBC One West Midlands
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1474
-#EXTINF:-1,BBC Scotland
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1514
-#EXTINF:-1,BBC Scotland FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1557
-#EXTINF:-1,BBC One Scot
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1580
-#EXTINF:-1,BBC One Scotland FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1552
-#EXTINF:-1,VM One HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2127
-#EXTINF:-1,VM Two HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2128
-#EXTINF:-1,VM Three HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2051
-#EXTINF:-1,E4 UK
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1403
-#EXTINF:-1,Rte One HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2028
-#EXTINF:-1,Rte Two HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2027
-#EXTINF:-1,Channels 24
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1485
-#EXTINF:-1,CGTN FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1569
-#EXTINF:-1,Arirang TV FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1568
-#EXTINF:-1,NHK World Japan HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1167
-#EXTINF:-1,NHK World Japan FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1566
-#EXTINF:-1,Channel 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1399
+https://fullenglish.xyz:443/monte/monte123/4444
 #EXTINF:-1,Channel 4 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1564
-#EXTINF:-1,Channel 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1326
-#EXTINF:-1,Channel 5 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1165
-#EXTINF:-1,5 USA
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1327
-#EXTINF:-1,5 Star
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1198
-#EXTINF:-1,EWTN UK Ireland
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1650
-#EXTINF:-1,Life Time HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2015
-#EXTINF:-1,Challenge
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1413
-#EXTINF:-1,Challenge Ireland
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1652
-#EXTINF:-1,QVC Christmas
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1582
-#EXTINF:-1,True Ent
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1155
-#EXTINF:-1,True Christmas
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1581
-#EXTINF:-1,London Live
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1854
-#EXTINF:-1,High Street TV 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1407
-#EXTINF:-1,CBS Reality
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1328
-#EXTINF:-1,SKY One HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2060
-#EXTINF:-1,Sky Replay
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1981
-#EXTINF:-1,Sky Arts HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2024
-#EXTINF:-1,Sky Arts FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2161
-#EXTINF:-1,Drama
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1492
-#EXTINF:-1,E! Entertainment HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1881
-#EXTINF:-1,Drama Ireland
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1653
-#EXTINF:-1,BET BlackEntTv
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1149
-#EXTINF:-1,Dave
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1486
-#EXTINF:-1,Dave HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2177
-#EXTINF:-1,British Muslim
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1332
-#EXTINF:-1,Eman Channel
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1512
-#EXTINF:-1,ATN Bangla UK
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1176
-#EXTINF:-1,Islam Channel
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1412
-#EXTINF:-1,Ahlubayt
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1484
-#EXTINF:-1,IQRA BANGLA
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1157
-#EXTINF:-1,Ideal World HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1487
-#EXTINF:-1,Ideal World FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1573
-#EXTINF:-1,LoveWorld HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1409
-#EXTINF:-1,LoveWorld FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1576
-#EXTINF:-1,GOLD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1852
-#EXTINF:-1,Fashion TV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1175
-#EXTINF:-1,Yesterday
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1154
-#EXTINF:-1,5 Select
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1615
-#EXTINF:-1,Forces TV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1995
-#EXTINF:-1,5Star +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2234
-#EXTINF:-1,5USA +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2235
+https://fullenglish.xyz:443/monte/monte123/4446
 #EXTINF:-1,Channel 4 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2236
-#EXTINF:-1,Channel 4 +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2237
+https://fullenglish.xyz:443/monte/monte123/4451
+#EXTINF:-1,Channel 5 FHD
+https://fullenglish.xyz:443/monte/monte123/4452
 #EXTINF:-1,Channel 5 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2238
-#EXTINF:-1,Channel 5 +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2239
-#EXTINF:-1,Peace TV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/50
-#EXTINF:-1,Virgin Media One FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2165
-#EXTINF:-1,Virgin Media Two RISH ie FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2166
-#EXTINF:-1,Virgin Media Three FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2167
-#EXTINF:-1,UTV IRISH ie
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2168
-#EXTINF:-1,Watch HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2169
-#EXTINF:-1,Watch FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2170
-#EXTINF:-1,Watch HD +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2171
-#EXTINF:-1,More 4 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2172
-#EXTINF:-1,Smithsonian FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2175
-#EXTINF:-1,Sony Movies
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1464
-#EXTINF:-1,Horror Channel
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1482
-#EXTINF:-1,TCM HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2079
-#EXTINF:-1,CBS Drama
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1481
-#EXTINF:-1,CBS Action
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1480
-#EXTINF:-1,I Film English
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1249
-#EXTINF:-1,Film 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1400
-#EXTINF:-1,Paramount Network
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1489
-#EXTINF:-1,Movies4Men
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1463
-#EXTINF:-1,Sky Movies Hits HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2080
-#EXTINF:-1,Sky Movies Action SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1989
-#EXTINF:-1,Sky Movies Action HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2035
-#EXTINF:-1,Sky Movies Premiere SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1994
-#EXTINF:-1,Sky Movies Premiere HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2041
-#EXTINF:-1,Sky Movies Family SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1993
-#EXTINF:-1,Sky Movies Family HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2040
-#EXTINF:-1,Sky Movies Comedy SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2026
-#EXTINF:-1,Sky Movies Comedy HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2037
-#EXTINF:-1,Sky Movies Comedy FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2157
-#EXTINF:-1,Sky Movies Drama Romance HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1988
-#EXTINF:-1,Sky Movies Thriller SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1991
-#EXTINF:-1,Sky Movies Thriller HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2038
-#EXTINF:-1,Sky Movies Select HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1870
-#EXTINF:-1,Sky Movies Sci-Fi Horror SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1996
-#EXTINF:-1,Sky Movies Sci-Fi Horror HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2042
-#EXTINF:-1,Sky Movies Atlantic FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2155
-#EXTINF:-1,Sky Movies Greats Superheroes SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2025
-#EXTINF:-1,Sky Movies Greats Superheroes HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2036
-#EXTINF:-1,Sky Movies Disney SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1992
-#EXTINF:-1,Sky Movies Disney HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2039
-#EXTINF:-1,Sky Atlantic SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1990
+https://fullenglish.xyz:443/monte/monte123/509636
+#EXTINF:-1,Sky One FHD
+https://fullenglish.xyz:443/monte/monte123/11833
+#EXTINF:-1,Sky Witness FHD
+https://fullenglish.xyz:443/monte/monte123/11834
+#EXTINF:-1,Sky Atlantic  FHD
+https://fullenglish.xyz:443/monte/monte123/11835
+#EXTINF:-1, W FHD
+https://fullenglish.xyz:443/monte/monte123/4442
+#EXTINF:-1,Gold FHD
+https://fullenglish.xyz:443/monte/monte123/11842
+#EXTINF:-1,Dave FHD
+https://fullenglish.xyz:443/monte/monte123/11843
+#EXTINF:-1,Comedy Central FHD
+https://fullenglish.xyz:443/monte/monte123/11844
 #EXTINF:-1,Comedy Central HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2050
-#EXTINF:-1,Showcase
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1491
-#EXTINF:-1,Comedy Central Plus 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2302
-#EXTINF:-1,SKY Witness
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2053
-#EXTINF:-1,Sky Cinema Action FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2298
-#EXTINF:-1,Sky Cinema Hits FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2300
-#EXTINF:-1,Sky Cinema Premiere FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2301
-#EXTINF:-1,Sky Cinema Drama FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2303
-#EXTINF:-1,Sky Cinema Select FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2304
-#EXTINF:-1,Sky Cinema Greats FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2305
-#EXTINF:-1,Sky Cinema Disney FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2307
-#EXTINF:-1,Sky Cinema SciFi FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2309
-#EXTINF:-1,Sky Movies One FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2154
-#EXTINF:-1,Sky Movies Crime FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2156
-#EXTINF:-1,Sky Movies Witness FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2160
-#EXTINF:-1,Comedy Central Xtra +1 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2159
-#EXTINF:-1,Sky Witness Plus 1 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2163
-#EXTINF:-1,SyFy FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2158
-#EXTINF:-1,Sony Channel
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2180
+https://fullenglish.xyz:443/monte/monte123/9359
+#EXTINF:-1,Comedy Central Extra HD
+https://fullenglish.xyz:443/monte/monte123/9358
+#EXTINF:-1,COMEDY XTRA SD
+https://fullenglish.xyz:443/monte/monte123/11291
+#EXTINF:-1,Syfy
+https://fullenglish.xyz:443/monte/monte123/9461
+#EXTINF:-1,BBC4 HD
+https://fullenglish.xyz:443/monte/monte123/9374
+#EXTINF:-1,ITV2 FHD
+https://fullenglish.xyz:443/monte/monte123/11838
+#EXTINF:-1,ITV3 FHD
+https://fullenglish.xyz:443/monte/monte123/11839
+#EXTINF:-1,ITV4 FHD
+https://fullenglish.xyz:443/monte/monte123/11840
 #EXTINF:-1,E4 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2162
-#EXTINF:-1,E4 +1 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2164
-#EXTINF:-1,Alibi
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1853
-#EXTINF:-1,Alibi FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2176
-#EXTINF:-1,Alibi +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2191
-#EXTINF:-1,Film4 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2178
-#EXTINF:-1,Film4 +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2179
-#EXTINF:-1,Sony Action
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2182
-#EXTINF:-1,Sony Action +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2183
-#EXTINF:-1,Sony Movies +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2184
-#EXTINF:-1,TalkingPictures
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2186
-#EXTINF:-1,Action 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4264
-#EXTINF:-1,Action 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4277
-#EXTINF:-1,Action 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4278
-#EXTINF:-1,Action 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4279
-#EXTINF:-1,Action 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4280
-#EXTINF:-1,Action 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4314
-#EXTINF:-1,Action 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4315
-#EXTINF:-1,Action 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4316
-#EXTINF:-1,Action 9
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4317
-#EXTINF:-1,Action 10
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4318
-#EXTINF:-1,Action 11
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4319
-#EXTINF:-1,Action 12
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4320
-#EXTINF:-1,Action 13
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4321
-#EXTINF:-1,Action 14
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4322
-#EXTINF:-1,Action 15
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4323
-#EXTINF:-1,Crime 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4332
-#EXTINF:-1,Crime 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4333
-#EXTINF:-1,Crime 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4335
-#EXTINF:-1,Crime 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4336
-#EXTINF:-1,Crime 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4337
-#EXTINF:-1,Crime 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4338
-#EXTINF:-1,Crime 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4339
-#EXTINF:-1,Crime 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4340
-#EXTINF:-1,Crime 9
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4341
-#EXTINF:-1,Crime 10
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4342
-#EXTINF:-1,Comedy 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4265
-#EXTINF:-1,Comedy 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4281
-#EXTINF:-1,Comedy 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4282
-#EXTINF:-1,Comedy 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4283
-#EXTINF:-1,Comedy 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4284
-#EXTINF:-1,Comedy 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4324
-#EXTINF:-1,Comedy 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4325
-#EXTINF:-1,Comedy 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4326
-#EXTINF:-1,Comedy 9
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4327
-#EXTINF:-1,Comedy 10
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4328
-#EXTINF:-1,Drama 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4329
-#EXTINF:-1,Drama 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4330
-#EXTINF:-1,Drama 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4440
-#EXTINF:-1,Drama 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4441
-#EXTINF:-1,Drama 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4442
-#EXTINF:-1,Drama 9
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4443
-#EXTINF:-1,Drama 10
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4444
-#EXTINF:-1,Horror-Thriller 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4400
-#EXTINF:-1,Horror-Thriller 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4401
-#EXTINF:-1,Horror-Thriller 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4402
-#EXTINF:-1,Horror-Thriller 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4403
-#EXTINF:-1,Horror-Thriller 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4404
-#EXTINF:-1,Horror-Thriller 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4405
-#EXTINF:-1,Horror-Thriller 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4406
-#EXTINF:-1,Horror-Thriller 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4407
-#EXTINF:-1,Horror-Thriller 9
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4408
-#EXTINF:-1,Horror-Thriller 10
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4409
-#EXTINF:-1,Sci-Fi 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4410
-#EXTINF:-1,Sci-Fi 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4411
-#EXTINF:-1,Sci-Fi 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4412
-#EXTINF:-1,Sci-Fi 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4413
-#EXTINF:-1,Sci-Fi 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4414
-#EXTINF:-1,Sci-Fi 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4415
-#EXTINF:-1,Sci-Fi 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4416
-#EXTINF:-1,Sci-Fi 9
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4417
-#EXTINF:-1,Sci-Fi 10
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4418
-#EXTINF:-1,Adventure 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4419
-#EXTINF:-1,Adventure 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4420
-#EXTINF:-1,Adventure 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4421
-#EXTINF:-1,Adventure 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4422
-#EXTINF:-1,Adventure 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4423
-#EXTINF:-1,Adventure 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4424
-#EXTINF:-1,Adventure 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4425
-#EXTINF:-1,Adventure 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4426
-#EXTINF:-1,Adventure 9
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4427
-#EXTINF:-1,Adventure 10
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4428
-#EXTINF:-1,BBC World News
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1171
-#EXTINF:-1,BBC World News ME
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1101
-#EXTINF:-1,BBC News
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1199
-#EXTINF:-1,BBC NEWS FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1554
-#EXTINF:-1,BBC Parliament
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1197
-#EXTINF:-1,Al Jazeera English
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1451
-#EXTINF:-1,CNN
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1115
-#EXTINF:-1,CNN International Middle East
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1102
-#EXTINF:-1,CNN FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1575
-#EXTINF:-1,CNBC
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1450
-#EXTINF:-1,CNBC FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1579
-#EXTINF:-1,TRT WORLD FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/527
-#EXTINF:-1,Sky News
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/171
-#EXTINF:-1,Sky News Ireland
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1649
-#EXTINF:-1,RTE News HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2129
-#EXTINF:-1,A News HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/505
-#EXTINF:-1,A NEWS FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/570
-#EXTINF:-1,Press TV HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/841
-#EXTINF:-1,FOX News HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2126
-#EXTINF:-1,DW English
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1126
-#EXTINF:-1,DW English FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1805
-#EXTINF:-1,CCTV News
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1187
-#EXTINF:-1,RT HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1238
-#EXTINF:-1,RT FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1567
-#EXTINF:-1,Bloomberg HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1490
-#EXTINF:-1,Bloomberg FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1577
-#EXTINF:-1,Coronavirus Pandemic
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2133
-#EXTINF:-1,Travel XP
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1660
-#EXTINF:-1,Pick Ireland
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1651
-#EXTINF:-1,TLC HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1857
-#EXTINF:-1,Crime Invastigation HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2067
-#EXTINF:-1,Sky History HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1979
-#EXTINF:-1,Nat Geo Wild FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2306
-#EXTINF:-1,Discovery HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2308
-#EXTINF:-1,Sky Nature HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2181
-#EXTINF:-1,Sky Nature FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2310
-#EXTINF:-1,Sky Documentaries HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2174
-#EXTINF:-1,Sky Documentaries FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2311
-#EXTINF:-1,Investigation Discovery
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1863
-#EXTINF:-1,Discovery Science
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1697
-#EXTINF:-1,History HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2061
-#EXTINF:-1,Discovery Turbo
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1983
-#EXTINF:-1,Discovery History
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1856
-#EXTINF:-1,CGTN Documentary
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1186
+https://fullenglish.xyz:443/monte/monte123/9324
+#EXTINF:-1,Sky Crime FHD
+https://fullenglish.xyz:443/monte/monte123/11837
+#EXTINF:-1,Sky Art's FHD
+https://fullenglish.xyz:443/monte/monte123/11836
+#EXTINF:-1,E! FHD
+https://fullenglish.xyz:443/monte/monte123/11846
+#EXTINF:-1,Fox HD
+https://fullenglish.xyz:443/monte/monte123/9344
+#EXTINF:-1,5 STAR
+https://fullenglish.xyz:443/monte/monte123/26634
+#EXTINF:-1,ITVBe FHD
+https://fullenglish.xyz:443/monte/monte123/11841
+#EXTINF:-1,Alibi HD
+https://fullenglish.xyz:443/monte/monte123/27161
+#EXTINF:-1,TLC FHD
+https://fullenglish.xyz:443/monte/monte123/11855
+#EXTINF:-1,S4C
+https://fullenglish.xyz:443/monte/monte123/9404
+#EXTINF:-1,More4 FHD
+https://fullenglish.xyz:443/monte/monte123/11857
+#EXTINF:-1,4Seven FHD
+https://fullenglish.xyz:443/monte/monte123/11858
+#EXTINF:-1,5 USA
+https://fullenglish.xyz:443/monte/monte123/26633
+#EXTINF:-1,Really 
+https://fullenglish.xyz:443/monte/monte123/9437
+#EXTINF:-1,Drama HD
+https://fullenglish.xyz:443/monte/monte123/9348
 #EXTINF:-1,Quest
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1535
-#EXTINF:-1,Discovery Shed
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1871
-#EXTINF:-1,Quest Red
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1147
-#EXTINF:-1,QUEST FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1571
-#EXTINF:-1,Discovery Home Health
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1906
-#EXTINF:-1,Food Network
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1329
-#EXTINF:-1,RT Documentary FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1493
-#EXTINF:-1,Eden
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1844
-#EXTINF:-1,Really
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1496
-#EXTINF:-1,Nat Geo FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2216
-#EXTINF:-1,Box Hits
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1116
-#EXTINF:-1,MTV HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1858
+https://fullenglish.xyz:443/monte/monte123/9406
+#EXTINF:-1,CBS Reality HD
+https://fullenglish.xyz:443/monte/monte123/9362
+#EXTINF:-1,CBS Justice
+https://fullenglish.xyz:443/monte/monte123/509618
+#EXTINF:-1,CBS Drama HD
+https://fullenglish.xyz:443/monte/monte123/9355
+#EXTINF:-1,Challenge HD
+https://fullenglish.xyz:443/monte/monte123/9365
+#EXTINF:-1, EDEN FHD
+https://fullenglish.xyz:443/monte/monte123/4457
+#EXTINF:-1,Lifetime FHD
+https://fullenglish.xyz:443/monte/monte123/4459
+#EXTINF:-1,QVC
+https://fullenglish.xyz:443/monte/monte123/460484
+#EXTINF:-1,QVC Beauty
+https://fullenglish.xyz:443/monte/monte123/460485
+#EXTINF:-1,QVC Extra
+https://fullenglish.xyz:443/monte/monte123/460486
+#EXTINF:-1,QVC Style
+https://fullenglish.xyz:443/monte/monte123/460487
+#EXTINF:-1,Vice
+https://fullenglish.xyz:443/monte/monte123/460488
+#EXTINF:-1,Forces TV
+https://fullenglish.xyz:443/monte/monte123/479100
+#EXTINF:-1,DMAX HD
+https://fullenglish.xyz:443/monte/monte123/9347
+#EXTINF:-1,GOLD
+https://fullenglish.xyz:443/monte/monte123/9418
+#EXTINF:-1, EDEN
+https://fullenglish.xyz:443/monte/monte123/9426
+#EXTINF:-1,SKY 2
+https://fullenglish.xyz:443/monte/monte123/9458
+#EXTINF:-1,AL JAZEERA
+https://fullenglish.xyz:443/monte/monte123/9487
+#EXTINF:-1,Sony Sab
+https://fullenglish.xyz:443/monte/monte123/9491
+#EXTINF:-1,Zee cinema
+https://fullenglish.xyz:443/monte/monte123/9493
+#EXTINF:-1,Sony TV
+https://fullenglish.xyz:443/monte/monte123/9494
+#EXTINF:-1,SONY MAX 2
+https://fullenglish.xyz:443/monte/monte123/9495
+#EXTINF:-1,Sony Max
+https://fullenglish.xyz:443/monte/monte123/9496
+#EXTINF:-1,Geo Tv
+https://fullenglish.xyz:443/monte/monte123/9506
+#EXTINF:-1,Hum News
+https://fullenglish.xyz:443/monte/monte123/9508
+#EXTINF:-1,Hum Masala
+https://fullenglish.xyz:443/monte/monte123/9509
+#EXTINF:-1,Ptv Global
+https://fullenglish.xyz:443/monte/monte123/9510
+#EXTINF:-1,Channel 44
+https://fullenglish.xyz:443/monte/monte123/9514
+#EXTINF:-1,92 News
+https://fullenglish.xyz:443/monte/monte123/9516
+#EXTINF:-1,Abp News
+https://fullenglish.xyz:443/monte/monte123/9518
+#EXTINF:-1,AajTak News
+https://fullenglish.xyz:443/monte/monte123/9519
+#EXTINF:-1,Takbeer TV
+https://fullenglish.xyz:443/monte/monte123/9521
+#EXTINF:-1,Madni Channel
+https://fullenglish.xyz:443/monte/monte123/9522
+#EXTINF:-1,Noor Tv
+https://fullenglish.xyz:443/monte/monte123/9524
+#EXTINF:-1,Hidayat Tv
+https://fullenglish.xyz:443/monte/monte123/9525
+#EXTINF:-1,Ahlulbayt Tv
+https://fullenglish.xyz:443/monte/monte123/9526
+#EXTINF:-1,BLAZE HD
+https://fullenglish.xyz:443/monte/monte123/11019
+#EXTINF:-1,MTV Music
+https://fullenglish.xyz:443/monte/monte123/11145
 #EXTINF:-1,MTV Base
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2022
-#EXTINF:-1,Spotlight TV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1202
-#EXTINF:-1,Channel Aka
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1401
-#EXTINF:-1,Chart Show TV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1500
-#EXTINF:-1,Now 80s
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1987
-#EXTINF:-1,Summer Hits
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1501
+https://fullenglish.xyz:443/monte/monte123/11146
 #EXTINF:-1,Clubland TV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1502
-#EXTINF:-1,4Music
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1851
-#EXTINF:-1,NOW 90s
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1504
+https://fullenglish.xyz:443/monte/monte123/11150
 #EXTINF:-1,The Box
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1505
-#EXTINF:-1,Kerrang!
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1507
-#EXTINF:-1,KISS
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1508
-#EXTINF:-1,Magic UK
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1534
+https://fullenglish.xyz:443/monte/monte123/11151
+#EXTINF:-1,Box Hits
+https://fullenglish.xyz:443/monte/monte123/11152
+#EXTINF:-1,Kiss
+https://fullenglish.xyz:443/monte/monte123/11153
+#EXTINF:-1,NOW 90S
+https://fullenglish.xyz:443/monte/monte123/11154
+#EXTINF:-1,Magic
+https://fullenglish.xyz:443/monte/monte123/11167
 #EXTINF:-1,MTV Classic
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2187
-#EXTINF:-1,MTV Music +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2188
-#EXTINF:-1,Sky Cinema Animation HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/3091
-#EXTINF:-1,Cartoon Network HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1874
-#EXTINF:-1,Pop Max
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1515
-#EXTINF:-1,Cartoonito
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1908
-#EXTINF:-1,Disney Channel +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2017
-#EXTINF:-1,Disney Junior HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2018
-#EXTINF:-1,Tiny Pop
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1516
-#EXTINF:-1,Nick Jt Too
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2021
-#EXTINF:-1,Baby TV HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2014
-#EXTINF:-1,CBeebies
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1408
-#EXTINF:-1,CBeebies HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2019
-#EXTINF:-1,CBeebies FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1617
-#EXTINF:-1,Cartoon Network +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2206
-#EXTINF:-1,Cartoon Network FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2205
-#EXTINF:-1,Boomerang +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2208
-#EXTINF:-1,Boomerang FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2207
-#EXTINF:-1,Nick FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2209
-#EXTINF:-1,Nick Jr. +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2211
-#EXTINF:-1,Nick Jr FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2210
-#EXTINF:-1,Nicktoons HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2212
-#EXTINF:-1,Nickelodeon +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2223
-#EXTINF:-1,Pop +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2215
-#EXTINF:-1,Tiny Pop +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2214
-#EXTINF:-1,POP Max +1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2213
-#EXTINF:-1,Kids 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4292
-#EXTINF:-1,Kids 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4291
-#EXTINF:-1,Kids 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4290
-#EXTINF:-1,Kids 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4289
-#EXTINF:-1,Kids 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4288
-#EXTINF:-1,Kids 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4287
-#EXTINF:-1,Kids 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4286
-#EXTINF:-1,Kids 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4285
-#EXTINF:-1,Kids 9
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4263
-#EXTINF:-1,Kids 10
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4331
-#EXTINF:-1,Sky Sports News HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2125
-#EXTINF:-1,Sky Sports Premier League HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1850
-#EXTINF:-1,Sky Sports Main Event HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1875
-#EXTINF:-1,Sky Sports Cricket SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2031
-#EXTINF:-1,Sky Sports Cricket HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1869
-#EXTINF:-1,Sky Sports Golf SD⇥
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2033
-#EXTINF:-1,Sky Sports Golf HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1868
-#EXTINF:-1,Sky Sports Mix SD⇥
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2034
-#EXTINF:-1,Sky Sports Mix HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1860
-#EXTINF:-1,Sky Sports NFL SD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2296
-#EXTINF:-1,Sky Sports NFL HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2253
-#EXTINF:-1,Sky Sports NFL FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2295
-#EXTINF:-1,Sky Sports F1 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1861
-#EXTINF:-1,Sky Sports Arena UK HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2055
-#EXTINF:-1,SKY SPORT BOX OFFICE
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2048
-#EXTINF:-1,Sky Sports Racing
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1985
-#EXTINF:-1,SKY Sport Boxing HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1882
-#EXTINF:-1,Sky Sports Football HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2059
-#EXTINF:-1,Sky Sports Football FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2140
-#EXTINF:-1,Sky Sports News FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1864
-#EXTINF:-1,Sky Sports Main Event FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2030
-#EXTINF:-1,Sky Sports Premier League FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2139
-#EXTINF:-1,Sky Sports Cricket FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2141
-#EXTINF:-1,Sky Sports Golf FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2142
-#EXTINF:-1,Sky Sports RACING FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2143
-#EXTINF:-1,Sky Sports F1 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2144
-#EXTINF:-1,Sky Sports Arena FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2146
-#EXTINF:-1,Sky Sports Mix FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2147
-#EXTINF:-1,Dazn Sports 2 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2331
-#EXTINF:-1,Dazn Sports 4 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2332
-#EXTINF:-1,Dazn Sports 5 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2333
-#EXTINF:-1,Dazn Sports 7 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2334
-#EXTINF:-1,Dazn Sports 8 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2335
-#EXTINF:-1,Dazn Sports 13 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2336
-#EXTINF:-1,Optus Sports 1 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2323
-#EXTINF:-1,Optus Sports 2 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2324
-#EXTINF:-1,Optus Sports 3 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2325
-#EXTINF:-1,Optus Sports 5 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2326
-#EXTINF:-1,Optus Sports 8 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2327
-#EXTINF:-1,Optus Sports 9 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2328
-#EXTINF:-1,Optus Sports 10 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2329
-#EXTINF:-1,Optus Sports 11 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2330
-#EXTINF:-1,Spark Sports Event 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2315
-#EXTINF:-1,Spark Sports Event 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2316
-#EXTINF:-1,Spark Sports Event 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2317
-#EXTINF:-1,Spark Sports Event 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2318
-#EXTINF:-1,Spark Sports Event 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2319
-#EXTINF:-1,Spark Sports Event 6
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2320
-#EXTINF:-1,Spark Sports Event 7
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2321
-#EXTINF:-1,Spark Sports Event 8
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2322
-#EXTINF:-1,LaLigaTV HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2032
-#EXTINF:-1,BT Sport 1 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1865
-#EXTINF:-1,BT Sport 2 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1866
-#EXTINF:-1,BT Sport 3 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1887
-#EXTINF:-1,BT Sport 1 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2052
-#EXTINF:-1,BT Sport 2 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1873
-#EXTINF:-1,BT Sport 3 FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2118
-#EXTINF:-1,BT Sport Extra 1
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2149
-#EXTINF:-1,BT Sport Extra 2
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2150
-#EXTINF:-1,BT Sport Extra 3
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2151
-#EXTINF:-1,BT Sport Extra 4
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2152
-#EXTINF:-1,BT Sport Extra 5
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2153
-#EXTINF:-1,BT Sport ESPN HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1867
-#EXTINF:-1,BT Sport ESPN FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2148
-#EXTINF:-1,eir Sport 1 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1862
-#EXTINF:-1,eir Sport 2 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2056
-#EXTINF:-1,WWE HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2124
-#EXTINF:-1,BOX Nation
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2065
-#EXTINF:-1,Eurosport HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2023
-#EXTINF:-1,Racing TV UK
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1907
-#EXTINF:-1,Premier Sports 1 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1984
-#EXTINF:-1,Premier Sports 2 HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1986
-#EXTINF:-1,LFCTV HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2057
-#EXTINF:-1,MANCHESTER UNITED TV
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2029
-#EXTINF:-1,MUTV FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2185
-#EXTINF:-1,Free Sports HD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1886
-#EXTINF:-1,FreeSports FHD
-http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1570
+https://fullenglish.xyz:443/monte/monte123/11170
+#EXTINF:-1,NOW 80S
+https://fullenglish.xyz:443/monte/monte123/11171
+#EXTINF:-1,DISCOVERY FHD
+https://fullenglish.xyz:443/monte/monte123/11848
+#EXTINF:-1,NAT GEO FHD
+https://fullenglish.xyz:443/monte/monte123/11850
+#EXTINF:-1,NAT GEO WILD FHD
+https://fullenglish.xyz:443/monte/monte123/11851
+#EXTINF:-1,HISTORY FHD
+https://fullenglish.xyz:443/monte/monte123/11852
+#EXTINF:-1,Sky History 2 HD
+https://fullenglish.xyz:443/monte/monte123/510298
+#EXTINF:-1,CRIME+INV FHD
+https://fullenglish.xyz:443/monte/monte123/11860
+#EXTINF:-1,VCARTOON NETWORK FHD
+https://fullenglish.xyz:443/monte/monte123/11870
+#EXTINF:-1,VCBBC FHD
+https://fullenglish.xyz:443/monte/monte123/11872
+#EXTINF:-1,VCBEEBIES FHD
+https://fullenglish.xyz:443/monte/monte123/11873

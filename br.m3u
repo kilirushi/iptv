@@ -1,151 +1,1429 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="98LiveBeloHorizonte.br" tvg-name="98 Live (Belo Horizonte)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="",98 Live (Belo Horizonte) (720p)
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",AgroBrasil TV (486p)
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiaí" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9SjoGWj.png" group-title="Local",Canal 25 Jundiaí
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal do Boi
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
-#EXTINF:-1 tvg-id="CanalRicos.br" tvg-name="Canal Ricos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="General",Canal Ricos (1080p)
-https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Religious",Canção Nova (360p)
-https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN Rio
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-id="COMBrasil.br" tvg-name="COM Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="General",COM Brasil (720p)
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br" tvg-name="Fonte TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="Religious",Fonte TV (1080p)
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-id="IMPDTV.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="Religious",IMPD TV (1080p)
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV.br" tvg-name="ITV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV (720p)
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="MetropoleNewsTV.br" tvg-name="Metrópole News TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" group-title="News",Metrópole News TV (480p)
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MKKWebTV.br" tvg-name="MKK Web TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV (360p)
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",Nova Era TV (1080p)
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo (480p)
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo (480p)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-id="PortalCulturaPara.br" tvg-name="Portal Cultura Pará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Education",Portal Cultura Pará (360p)
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 tvg-id="PUCTVGoias.br" tvg-name="PUC TV Goiás" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.puctvgoias.com.br/img/logo.png" group-title="Religious",PUC TV Goiás (180p)
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="General",Rede Brasil (720p)
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-name="Rede Brasil de Comunicação" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Religious",Rede Brasil de Comunicação (540p)
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Sport",Rede Globo
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeMaoAmiga.br" tvg-name="Rede Mão Amiga" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="Religious",Rede Mão Amiga (720p)
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-id="RedeRC.br" tvg-name="Rede RC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Rede RC (360p)
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-id="RedeSuper.br" tvg-name="Rede Super" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="Religious",Rede Super (432p)
-https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Século 21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="Religious",Rede Século 21 (240p)
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Religious",Rede Vida (720p)
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV (288p)
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="SummerTV.br" tvg-name="Summer TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="Local",Summer TV (720p)
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Hobby",Terra Viva (720p)
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Legislative",TV ALMG
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-id="TVALRN.br" tvg-name="TV ALRN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" group-title="Legislative",TV ALRN (480p)
-http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
-#EXTINF:-1 tvg-id="TVAmbiental.br" tvg-name="TV Ambiental" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" group-title="Local",TV Ambiental (480p)
-http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-name="TV Arapuan" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" group-title="General",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="TVBNO.br" tvg-name="TV BNO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Movies",TV BNO (270p)
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-name="TV Cidade Canal 9" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Local",TV Cidade Canal 9 (720p)
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-name="TV Cidade de Petrópolis" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Local",TV Cidade de Petrópolis (720p)
-https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCinec.br" tvg-name="TV Cinec" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="Movies",TV Cinec (720p)
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCamara2.br" tvg-name="TV Câmara 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-id="TVdasArtes.br" tvg-name="TV das Artes" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MnIvaNC.png" group-title="Lifestyle",TV das Artes (720p)
-http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
-#EXTINF:-1 tvg-id="TVDestak.br" tvg-name="TV Destak" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://pa.srvsite.com/arquivos/3807/cabecalho-3807-20180828105442.jpg" group-title="General",TV Destak (360p)
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="Local",TV Digital Birigui (320p)
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1 tvg-id="TVDiariodoSertao.br" tvg-name="TV Diário do Sertão" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="General",TV Diário do Sertão (720p)
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEducativadePortoAlegre.br" tvg-name="TV Educativa de Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre (1080p)
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="Local",TV Galega Blumenau (720p)
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="General",TV Gazeta (720p)
-https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1 tvg-id="TVGuara.br" tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="News",TV Guará (720p)
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-id="TVImaculadaConceicao.br" tvg-name="TV Imaculada Conceição" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.caikron.com.br/player/mi/caikron_fundo_tvmi_original.jpg" group-title="Religious",TV Imaculada Conceição (1080p)
-https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
-#EXTINF:-1 tvg-id="TVInterlagos.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="Local",TV Interlagos (576p)
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" group-title="Education",TV Mackenzie (480p)
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMetropole.br" tvg-name="TV Metrópole" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Local",TV Metrópole (720p)
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious",TV Pai Eterno
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious",TV Pai Eterno (480p)
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-name="TV Paraná Turismo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Travel",TV Paraná Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="TVRedeGospel.br" tvg-name="TV Rede Gospel" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/NVs5RhF.png" group-title="Religious",TV Rede Gospel (720p)
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSol.br" tvg-name="TV Sol" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="General",TV Sol (720p)
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-#EXTINF:-1 tvg-id="TVSolComunidade.br" tvg-name="TV Sol Comunidade" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Local",TV Sol Comunidade (480p)
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" group-title="Religious",TV Terceiro Anjo (360p)
-https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 tvg-id="TVUFG.br" tvg-name="TV UFG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="Education",TV UFG (720p)
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUFSC.br" tvg-name="TV UFSC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LuJkxc6.png" group-title="Education",TV UFSC
-http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1 tvg-id="TVUNISC.br" tvg-name="TV UNISC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YgLLCq6.png" group-title="Education",TV UNISC
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-id="TVUniversal.br" tvg-name="TV Universal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniaoDF.br" tvg-name="TV União DF" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/67DQ3bk.png" group-title="General",TV União DF (720p)
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-name="TV Verdes Campos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1mK39TC.png" group-title="General",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="TV8.br" tvg-name="TV8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.imgur.com/pnbqx6r.png" group-title="General",TV8 (1080p)
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCIParanagua.br" tvg-name="TVCI Paranaguá" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4GKZbXD.png" group-title="General",TVCI Paranaguá (360p)
-http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Local",TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="TVNBrasil.br" tvg-name="TVN Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="Local",TVN Brasil (720p)
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-name="UniTV Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Education",UniTV Porto Alegre
-http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1 tvg-id="VivaWebTV.br" tvg-name="Viva Web TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/msQ76Hk.jpg" group-title="General",Viva Web TV (480p)
-https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-id="WebTVUai.br" tvg-name="Web TV Uai" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Web TV Uai
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",Yeeaah! (720p)
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-id="ZOOM.br" tvg-name="ZOOM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Local",ZOOM (720p)
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF:-1,CINE  | A&E FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/4
+#EXTINF:-1,CINE  | A&E HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/5
+#EXTINF:-1,CINE  | A&E SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/6
+#EXTINF:-1,CINE  | CINEMAX  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/7
+#EXTINF:-1,CINE  | CINEMAX HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/8
+#EXTINF:-1,CINE  | CINEMAX  MX SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/9
+#EXTINF:-1,CINE  | FOX   FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/10
+#EXTINF:-1,CINE  | FOX  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/11
+#EXTINF:-1,CINE  | FOX  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/12
+#EXTINF:-1,CINE  | FOX  CLASSICS  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/13
+#EXTINF:-1,CINE  | FOX  CLASSICS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/14
+#EXTINF:-1,CINE  | FOX  CLASSICS  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/15
+#EXTINF:-1,CINE  | FOX  MOVIES  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/16
+#EXTINF:-1,CINE  | FOX MOVIES  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/17
+#EXTINF:-1,CINE  | FOX MOVIES  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/18
+#EXTINF:-1,CINE  | FOX FAMILY  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/19
+#EXTINF:-1,CINE  | FOX FAMILY  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/20
+#EXTINF:-1,CINE  |  FOX FAMILY  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/21
+#EXTINF:-1,CINE  | FOX COMEDY  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/22
+#EXTINF:-1,CINE  |  FOX COMEDY  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/23
+#EXTINF:-1,CINE  | FOX COMEDY  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/24
+#EXTINF:-1,CINE  | FOX SERIES  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/26
+#EXTINF:-1,CINE | FOX SERIES  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/27
+#EXTINF:-1,CINE | FOX SERIES  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/28
+#EXTINF:-1,CINE | FOX CHANNEL  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/29
+#EXTINF:-1,CINE | FOX CHANNEL  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/30
+#EXTINF:-1,CINE | FOX CHANNEL  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/31
+#EXTINF:-1,CINE | FOX CINEMA  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/32
+#EXTINF:-1,CINE | FOX CINEMA  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/33
+#EXTINF:-1,CINE | FOX CINEMA  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/34
+#EXTINF:-1,CINE | FOX ACTION  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/35
+#EXTINF:-1,CINE | FOX ACTION  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/36
+#EXTINF:-1,CINE | FOX ACTION  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/37
+#EXTINF:-1,CINE | FOX LIFE  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/38
+#EXTINF:-1,CINE | FOX LIFE HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/40
+#EXTINF:-1,CINE | FOX LIFE  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/41
+#EXTINF:-1,CINE |  HBO 2  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/42
+#EXTINF:-1,CINE  | HBO 2  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/43
+#EXTINF:-1,CINE | HBO 2  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/44
+#EXTINF:-1,CINE  | HBO SIGNATURE  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/45
+#EXTINF:-1,CINE | HBO SIGNATURE  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/46
+#EXTINF:-1,CINE  | HBO SIGNATURE  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/47
+#EXTINF:-1,CINE | HBO PLUS  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/48
+#EXTINF:-1,CINE  | HBO PLUS  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/49
+#EXTINF:-1,CINE  | HBO PLUS  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/50
+#EXTINF:-1,CINE  | HBO FAMILY  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/51
+#EXTINF:-1,CINE | HBO FAMILY  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/52
+#EXTINF:-1,CINE | HBO FAMILY  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/53
+#EXTINF:-1,CINE | HBO  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/54
+#EXTINF:-1,CINE | HBO  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/55
+#EXTINF:-1,LAT | DIRECTV SPORTS AR  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/58
+#EXTINF:-1,LAT | DIRECTV SPORTS HD  CL
+http://latinoamericatv.vip:3334/Kaka/Kaka/59
+#EXTINF:-1,LAT | DIRECTV SPORTS 2  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/60
+#EXTINF:-1,LAT | DIRECTV SPORTS 2  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/61
+#EXTINF:-1,LAT | DIRECTV SPORTS 2  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/62
+#EXTINF:-1,LAT | DIRECTV SPORTS 1  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/63
+#EXTINF:-1,LAT | DIRECTV SPORTS 1  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/64
+#EXTINF:-1,LAT | DIRECTV SPORTS 1  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/65
+#EXTINF:-1,LAT | ESPN 3  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/66
+#EXTINF:-1,LAT | ESPN 3  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/68
+#EXTINF:-1,LAT | ESPN 3  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/69
+#EXTINF:-1,LAT | ESPN 2  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/70
+#EXTINF:-1,LAT | ESPN 2  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/71
+#EXTINF:-1,LAT | ESPN 2  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/72
+#EXTINF:-1,LAT | ESPN 1  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/73
+#EXTINF:-1,LAT | ESPN 1  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/74
+#EXTINF:-1,LAT | ESPN  1  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/75
+#EXTINF:-1,LAT | FOX SPORTS 3  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/76
+#EXTINF:-1,LAT | FOX SPORTS 3 HD 
+http://latinoamericatv.vip:3334/Kaka/Kaka/77
+#EXTINF:-1,LAT | FOX SPORTS 3  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/78
+#EXTINF:-1,LAT | FOX SPORTS 2  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/79
+#EXTINF:-1,LAT | FOX SPORTS 2  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/80
+#EXTINF:-1,LAT | FOX SPORTS 2  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/81
+#EXTINF:-1,LAT | FOX SPORTS 1  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/82
+#EXTINF:-1,LAT | FOX SPORTS 1  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/83
+#EXTINF:-1,DEP | FOX SPORTS 1  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/84
+#EXTINF:-1,CUL* | FILM & ARTS
+http://latinoamericatv.vip:3334/Kaka/Kaka/87
+#EXTINF:-1,CUL*| National Geographic HD.
+http://latinoamericatv.vip:3334/Kaka/Kaka/88
+#EXTINF:-1,CUL* | NATGEO HD..
+http://latinoamericatv.vip:3334/Kaka/Kaka/89
+#EXTINF:-1,CUL* | Investigation Discovery HD (p)
+http://latinoamericatv.vip:3334/Kaka/Kaka/90
+#EXTINF:-1,CUL* | History SD..
+http://latinoamericatv.vip:3334/Kaka/Kaka/91
+#EXTINF:-1,CUL* | History HD..
+http://latinoamericatv.vip:3334/Kaka/Kaka/92
+#EXTINF:-1,CUL* | NATGEO HD...
+http://latinoamericatv.vip:3334/Kaka/Kaka/93
+#EXTINF:-1,CUL*| Investigation Discovery SD.
+http://latinoamericatv.vip:3334/Kaka/Kaka/94
+#EXTINF:-1,CUL* | DISCOVERY home & health
+http://latinoamericatv.vip:3334/Kaka/Kaka/95
+#EXTINF:-1,CUL* | Discovery Channel HD.
+http://latinoamericatv.vip:3334/Kaka/Kaka/96
+#EXTINF:-1,CUL* | Animal Planet FHD.
+http://latinoamericatv.vip:3334/Kaka/Kaka/97
+#EXTINF:-1,CUL*| Discovery Theater
+http://latinoamericatv.vip:3334/Kaka/Kaka/98
+#EXTINF:-1,CUL*| Discovery turbo
+http://latinoamericatv.vip:3334/Kaka/Kaka/99
+#EXTINF:-1,CUL*| Discovery world
+http://latinoamericatv.vip:3334/Kaka/Kaka/100
+#EXTINF:-1,CUL*| TLC
+http://latinoamericatv.vip:3334/Kaka/Kaka/101
+#EXTINF:-1,CUL*| HISTORY 2 .
+http://latinoamericatv.vip:3334/Kaka/Kaka/102
+#EXTINF:-1,CUL*| EL Ģourmet
+http://latinoamericatv.vip:3334/Kaka/Kaka/103
+#EXTINF:-1,CUL*| DISCOVERY Channel  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/104
+#EXTINF:-1,CUL*| DISCOVERY Sciencie
+http://latinoamericatv.vip:3334/Kaka/Kaka/105
+#EXTINF:-1,CUL*| NATGEO WILD HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/106
+#EXTINF:-1,CUL*| Discovery Civiliziation
+http://latinoamericatv.vip:3334/Kaka/Kaka/107
+#EXTINF:-1,CUL*| DISCOVERY  H&H  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/108
+#EXTINF:-1,INF | BABY TV (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/111
+#EXTINF:-1,INF* | TOONCAST SD (N)
+http://latinoamericatv.vip:3334/Kaka/Kaka/112
+#EXTINF:-1,INF* | BOOMERANG  (T)
+http://latinoamericatv.vip:3334/Kaka/Kaka/113
+#EXTINF:-1,INF* | CARTOON NETWORK HD (T)
+http://latinoamericatv.vip:3334/Kaka/Kaka/114
+#EXTINF:-1,INF* | NICK (y)
+http://latinoamericatv.vip:3334/Kaka/Kaka/115
+#EXTINF:-1,INF* | NICKTOONS (T)
+http://latinoamericatv.vip:3334/Kaka/Kaka/116
+#EXTINF:-1,INF* | NICK 2 FHD (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/117
+#EXTINF:-1,INF* | NATGEO KIDS (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/118
+#EXTINF:-1,INF* | DISNEY XD (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/119
+#EXTINF:-1,INF* | DISNEY JR (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/120
+#EXTINF:-1,INF* | DISNEY CHANNEL HD (T)
+http://latinoamericatv.vip:3334/Kaka/Kaka/121
+#EXTINF:-1,INF* | DISCOVERY KIDS (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/122
+#EXTINF:-1,INF* | NICK JR FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/123
+#EXTINF:-1,INF* | Nickelodeon hd
+http://latinoamericatv.vip:3334/Kaka/Kaka/124
+#EXTINF:-1,INF | Nat Geo Kids SD(H)
+http://latinoamericatv.vip:3334/Kaka/Kaka/125
+#EXTINF:-1,EUR | UFC HD (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/128
+#EXTINF:-1,EUR | TENNIS CHANEL SPORTS
+http://latinoamericatv.vip:3334/Kaka/Kaka/129
+#EXTINF:-1,EUR | NBA FHD (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/130
+#EXTINF:-1,EUR | NFL NETWORK (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/131
+#EXTINF:-1,EUR | MOVISTAR  F1 (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/132
+#EXTINF:-1,RED BULL TV
+http://latinoamericatv.vip:3334/Kaka/Kaka/133
+#EXTINF:-1,ES | EUROSPORTS 2 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/134
+#EXTINF:-1,ES: EUROSPORT 1 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/135
+#EXTINF:-1,ES | FORMULA 1 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/136
+#EXTINF:-1,USA | ESPN HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/144
+#EXTINF:-1,USA | ESPN 2 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/145
+#EXTINF:-1,USA | FOX SPORTS 1 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/147
+#EXTINF:-1,USA | FOX SPORTS 2 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/148
+#EXTINF:-1,PPVV | WWE Network  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/151
+#EXTINF:-1,PPVV | WWE NETWORK
+http://latinoamericatv.vip:3334/Kaka/Kaka/152
+#EXTINF:-1,PPVV | UFC  FIGHT PASS
+http://latinoamericatv.vip:3334/Kaka/Kaka/153
+#EXTINF:-1,PPVV | MX  ESPN +
+http://latinoamericatv.vip:3334/Kaka/Kaka/154
+#EXTINF:-1,PPVV | ESPN 2 SUR  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/155
+#EXTINF:-1,PPVV | UFC FIGHT  night.
+http://latinoamericatv.vip:3334/Kaka/Kaka/156
+#EXTINF:-1,PPV | DAZN 1 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/157
+#EXTINF:-1,PPV | DAZN 2 FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/158
+#EXTINF:-1,PPV | EVENTOS 
+http://latinoamericatv.vip:3334/Kaka/Kaka/159
+#EXTINF:-1,ES | DAZN HD PREMIUM LG
+http://latinoamericatv.vip:3334/Kaka/Kaka/160
+#EXTINF:-1,M LIGA DE CAMPEONES  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/168
+#EXTINF:-1,LA LIGA TV BAR  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/169
+#EXTINF:-1,MOVISTAR  LA LIGA HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/170
+#EXTINF:-1,MOVISTAR LA LIGA FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/171
+#EXTINF:-1,Movistar la Liga SD Op 1
+http://latinoamericatv.vip:3334/Kaka/Kaka/172
+#EXTINF:-1,BEIN SPORTS Ñ. HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/173
+#EXTINF:-1,BEIN SPORTS Ñ (OP)
+http://latinoamericatv.vip:3334/Kaka/Kaka/174
+#EXTINF:-1,CO*| NTN24 (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/176
+#EXTINF:-1,CO*| CABLE NOTICIAS (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/177
+#EXTINF:-1,CO*| CANAL UNO (p)
+http://latinoamericatv.vip:3334/Kaka/Kaka/178
+#EXTINF:-1,CO*| CARACOL HD (OP01)
+http://latinoamericatv.vip:3334/Kaka/Kaka/179
+#EXTINF:-1,CO*| CARACOL HD (OP02)
+http://latinoamericatv.vip:3334/Kaka/Kaka/180
+#EXTINF:-1,CO*| CITY TV (lp)
+http://latinoamericatv.vip:3334/Kaka/Kaka/181
+#EXTINF:-1,CO*| PASIONES (p)
+http://latinoamericatv.vip:3334/Kaka/Kaka/182
+#EXTINF:-1,CO*| RCN (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/183
+#EXTINF:-1,CO*| TELEANTIOQUIA (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/184
+#EXTINF:-1,CO*| TELECAFE (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/185
+#EXTINF:-1,CO*| TELEPACIFICO (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/186
+#EXTINF:-1,CO*| TRECE (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/187
+#EXTINF:-1,CO*| WIN SPORTS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/188
+#EXTINF:-1,CO*| RCN OPCION 2
+http://latinoamericatv.vip:3334/Kaka/Kaka/189
+#EXTINF:-1,CO*| CARACOL (OP03)
+http://latinoamericatv.vip:3334/Kaka/Kaka/190
+#EXTINF:-1,CO*| CITY TV
+http://latinoamericatv.vip:3334/Kaka/Kaka/191
+#EXTINF:-1,CO*| TELEMEDELLIN
+http://latinoamericatv.vip:3334/Kaka/Kaka/192
+#EXTINF:-1,CO*| LA  KALLE
+http://latinoamericatv.vip:3334/Kaka/Kaka/193
+#EXTINF:-1,CO*| SEÑAL COLOMBIA HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/194
+#EXTINF:-1,CO*| CANAL CAPITAL HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/195
+#EXTINF:-1,CO*| WIN SPORTS + OP 1
+http://latinoamericatv.vip:3334/Kaka/Kaka/196
+#EXTINF:-1,CO*| WIN SPORTS +OP2
+http://latinoamericatv.vip:3334/Kaka/Kaka/197
+#EXTINF:-1,CO*| WIN SPORTS + OP3
+http://latinoamericatv.vip:3334/Kaka/Kaka/198
+#EXTINF:-1,CO*| WIN SPORTS + 5mb
+http://latinoamericatv.vip:3334/Kaka/Kaka/199
+#EXTINF:-1,CO*| WIN SPORTS + 5 MB
+http://latinoamericatv.vip:3334/Kaka/Kaka/200
+#EXTINF:-1,CHILE | LA RED (w)
+http://latinoamericatv.vip:3334/Kaka/Kaka/202
+#EXTINF:-1,CHILE | TVN HD (W)
+http://latinoamericatv.vip:3334/Kaka/Kaka/203
+#EXTINF:-1,CHILE | MEGA FHD (W)
+http://latinoamericatv.vip:3334/Kaka/Kaka/204
+#EXTINF:-1,CHILE | MEGA HD (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/205
+#EXTINF:-1,CHILE | MEGA HD (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/206
+#EXTINF:-1,CHILE | CHILEVISION  FHD (W)
+http://latinoamericatv.vip:3334/Kaka/Kaka/207
+#EXTINF:-1,CHILE | CHILEVISION (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/208
+#EXTINF:-1,CHILE | CANAL 13 (W)
+http://latinoamericatv.vip:3334/Kaka/Kaka/209
+#EXTINF:-1,CHILE | CANAL 13 HD (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/210
+#EXTINF:-1,CHILE | 24 HORAS (p)
+http://latinoamericatv.vip:3334/Kaka/Kaka/211
+#EXTINF:-1,CNN  | CHILE
+http://latinoamericatv.vip:3334/Kaka/Kaka/212
+#EXTINF:-1,CHILE | TV CHILE (Z)
+http://latinoamericatv.vip:3334/Kaka/Kaka/214
+#EXTINF:-1,CHIL | DIRECTV CHIE
+http://latinoamericatv.vip:3334/Kaka/Kaka/215
+#EXTINF:-1,CL*| FOX SPORTS 1
+http://latinoamericatv.vip:3334/Kaka/Kaka/216
+#EXTINF:-1,CL | TNT SPORTS HD (02)
+http://latinoamericatv.vip:3334/Kaka/Kaka/217
+#EXTINF:-1,CL | TNT SPORTS HD (03)
+http://latinoamericatv.vip:3334/Kaka/Kaka/218
+#EXTINF:-1,LAT |  CHILE  CDO  PM
+http://latinoamericatv.vip:3334/Kaka/Kaka/219
+#EXTINF:-1,CL | TNT SPORTS HD.(01)
+http://latinoamericatv.vip:3334/Kaka/Kaka/220
+#EXTINF:-1,CH | ETC TV
+http://latinoamericatv.vip:3334/Kaka/Kaka/221
+#EXTINF:-1,CL | TNT SPORTS SD.
+http://latinoamericatv.vip:3334/Kaka/Kaka/222
+#EXTINF:-1,PE*| America Tv HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/224
+#EXTINF:-1,PE*| AMERICA TV SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/225
+#EXTINF:-1,PE*| GOL PERU SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/226
+#EXTINF:-1,PE*| GOL PERU HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/227
+#EXTINF:-1,PE*| MOVISTAR DEPORTES (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/228
+#EXTINF:-1,PE*| LATINA HD (T)
+http://latinoamericatv.vip:3334/Kaka/Kaka/229
+#EXTINF:-1,PE*| CAPITAL TV (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/230
+#EXTINF:-1,PE*| CANAL N  (e)
+http://latinoamericatv.vip:3334/Kaka/Kaka/231
+#EXTINF:-1,PE*| PANAMERICANA HD (p)
+http://latinoamericatv.vip:3334/Kaka/Kaka/232
+#EXTINF:-1,PE*| ATV HD (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/233
+#EXTINF:-1,PE*| IPE  (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/234
+#EXTINF:-1,PE*| LATINA HD (p).
+http://latinoamericatv.vip:3334/Kaka/Kaka/235
+#EXTINF:-1,PE*| FOX SPORTS
+http://latinoamericatv.vip:3334/Kaka/Kaka/236
+#EXTINF:-1,PE*| DIRECTV HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/237
+#EXTINF:-1,PE*| RPP
+http://latinoamericatv.vip:3334/Kaka/Kaka/238
+#EXTINF:-1,PE*| EXITOSA  FHD.
+http://latinoamericatv.vip:3334/Kaka/Kaka/239
+#EXTINF:-1,PE*| TV PERU
+http://latinoamericatv.vip:3334/Kaka/Kaka/240
+#EXTINF:-1,PE*| Willax
+http://latinoamericatv.vip:3334/Kaka/Kaka/241
+#EXTINF:-1,AR* | TV PUBLICA (ST)
+http://latinoamericatv.vip:3334/Kaka/Kaka/243
+#EXTINF:-1,AR* | TELESUR (ST)
+http://latinoamericatv.vip:3334/Kaka/Kaka/244
+#EXTINF:-1,AR* | TELEMAX (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/245
+#EXTINF:-1,AR* | TELEFE (ST)
+http://latinoamericatv.vip:3334/Kaka/Kaka/246
+#EXTINF:-1,AR* | RURAL (ST)
+http://latinoamericatv.vip:3334/Kaka/Kaka/247
+#EXTINF:-1,AR* |  FOX SPORTS PREMIUM
+http://latinoamericatv.vip:3334/Kaka/Kaka/248
+#EXTINF:-1,AR* | GARAGE (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/249
+#EXTINF:-1,AR* | CRONICA (ST)
+http://latinoamericatv.vip:3334/Kaka/Kaka/250
+#EXTINF:-1,AR* | CN23 (ST)
+http://latinoamericatv.vip:3334/Kaka/Kaka/251
+#EXTINF:-1,AR* | C5N (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/252
+#EXTINF:-1,AR* | A24 (ST)
+http://latinoamericatv.vip:3334/Kaka/Kaka/253
+#EXTINF:-1,AR* | AMERICA (st)
+http://latinoamericatv.vip:3334/Kaka/Kaka/254
+#EXTINF:-1,AR* | EL TRECE HD (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/255
+#EXTINF:-1,AR* | EL NUEVE HD (ST)
+http://latinoamericatv.vip:3334/Kaka/Kaka/256
+#EXTINF:-1,AR* | DEPORTV
+http://latinoamericatv.vip:3334/Kaka/Kaka/257
+#EXTINF:-1,AR* | EL TRECE OP 2
+http://latinoamericatv.vip:3334/Kaka/Kaka/258
+#EXTINF:-1,AR* | Argentinisima HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/259
+#EXTINF:-1,AR* | CiNE AR
+http://latinoamericatv.vip:3334/Kaka/Kaka/260
+#EXTINF:-1,AR* | Paka  paka HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/261
+#EXTINF:-1,AR* | Ciudad magaczine hd (j)
+http://latinoamericatv.vip:3334/Kaka/Kaka/262
+#EXTINF:-1,AR* |  CANAL 4 JUJUY
+http://latinoamericatv.vip:3334/Kaka/Kaka/263
+#EXTINF:-1,AR* | DeporTVHD (F)
+http://latinoamericatv.vip:3334/Kaka/Kaka/264
+#EXTINF:-1,AR* | Encuentro (F)
+http://latinoamericatv.vip:3334/Kaka/Kaka/265
+#EXTINF:-1,AR* | EL NUEVE HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/266
+#EXTINF:-1,AR* | DIRECTV SPORTS
+http://latinoamericatv.vip:3334/Kaka/Kaka/267
+#EXTINF:-1,AR* | CANAL 7 JUJUY.
+http://latinoamericatv.vip:3334/Kaka/Kaka/268
+#EXTINF:-1,AR* | CANAL 2 JUJUY
+http://latinoamericatv.vip:3334/Kaka/Kaka/269
+#EXTINF:-1,AR* | TYC SPORTS
+http://latinoamericatv.vip:3334/Kaka/Kaka/270
+#EXTINF:-1,AR* | TYC SPORTS
+http://latinoamericatv.vip:3334/Kaka/Kaka/271
+#EXTINF:-1,AR* | TNT SPORTS .
+http://latinoamericatv.vip:3334/Kaka/Kaka/272
+#EXTINF:-1,Sophia TV (DE)
+http://latinoamericatv.vip:3334/Kaka/Kaka/273
+#EXTINF:-1,AR* | TN HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/274
+#EXTINF:-1,PY* |  LA TELE
+http://latinoamericatv.vip:3334/Kaka/Kaka/276
+#EXTINF:-1,PY* | RPC
+http://latinoamericatv.vip:3334/Kaka/Kaka/277
+#EXTINF:-1,PY* | C9N NOTICIAS
+http://latinoamericatv.vip:3334/Kaka/Kaka/278
+#EXTINF:-1,PY*| PARAGUAY TV
+http://latinoamericatv.vip:3334/Kaka/Kaka/279
+#EXTINF:-1,PY* | TELEFUTURO HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/280
+#EXTINF:-1,PY* | PARAVISION HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/281
+#EXTINF:-1,PY* | UNICANAL HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/282
+#EXTINF:-1,PY* | SNT HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/283
+#EXTINF:-1,PY* | EL TRECE
+http://latinoamericatv.vip:3334/Kaka/Kaka/284
+#EXTINF:-1,PY* | TIGO SPORTS 2 ( ON )
+http://latinoamericatv.vip:3334/Kaka/Kaka/285
+#EXTINF:-1,PY*| TIGO SPORT HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/286
+#EXTINF:-1,PY* | TIGO SPORTS  HD  02
+http://latinoamericatv.vip:3334/Kaka/Kaka/287
+#EXTINF:-1,PY*| TIGO SPORTS 1
+http://latinoamericatv.vip:3334/Kaka/Kaka/288
+#EXTINF:-1,PY* | TIGO SPPRTS + HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/289
+#EXTINF:-1,PY* | TIGO SPORTS +3.
+http://latinoamericatv.vip:3334/Kaka/Kaka/290
+#EXTINF:-1,PY* | TELEFUTURO HD..
+http://latinoamericatv.vip:3334/Kaka/Kaka/291
+#EXTINF:-1,PY* | NOTICIAS PY
+http://latinoamericatv.vip:3334/Kaka/Kaka/292
+#EXTINF:-1,PY* | FARRA PLAY
+http://latinoamericatv.vip:3334/Kaka/Kaka/293
+#EXTINF:-1,PY* | GEN TV
+http://latinoamericatv.vip:3334/Kaka/Kaka/294
+#EXTINF:-1,PY* | ABC
+http://latinoamericatv.vip:3334/Kaka/Kaka/295
+#EXTINF:-1,PY* | SUR TV HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/296
+#EXTINF:-1,PY* | CANAL 8 VISION TV
+http://latinoamericatv.vip:3334/Kaka/Kaka/297
+#EXTINF:-1,PY* | TELEFUTURO(02)
+http://latinoamericatv.vip:3334/Kaka/Kaka/298
+#EXTINF:-1,CANAL UNO  HD  (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/300
+#EXTINF:-1,TC MI CANAL HD  (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/301
+#EXTINF:-1,ECUADOR | RTS (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/302
+#EXTINF:-1,OROMAR TV HD (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/303
+#EXTINF:-1,TELEAMAZONAS GUAYAQUIL  HD (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/304
+#EXTINF:-1,CANELA TV (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/305
+#EXTINF:-1,Gol TV 720
+http://latinoamericatv.vip:3334/Kaka/Kaka/306
+#EXTINF:-1,Ecuador TV HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/307
+#EXTINF:-1,El Canal del Futbol
+http://latinoamericatv.vip:3334/Kaka/Kaka/308
+#EXTINF:-1,Ecuavisa QUITO HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/309
+#EXTINF:-1,TC Television HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/310
+#EXTINF:-1,SOLO EVENTOS
+http://latinoamericatv.vip:3334/Kaka/Kaka/311
+#EXTINF:-1,Ecuavisa sd
+http://latinoamericatv.vip:3334/Kaka/Kaka/312
+#EXTINF:-1,Canal Uno SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/313
+#EXTINF:-1,LAT | DIRECTV SPORTS 
+http://latinoamericatv.vip:3334/Kaka/Kaka/314
+#EXTINF:-1,ECDF SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/315
+#EXTINF:-1,OROMAR TV HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/316
+#EXTINF:-1,TELEAMAZONAS GQUIL SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/317
+#EXTINF:-1,GAMAVISION
+http://latinoamericatv.vip:3334/Kaka/Kaka/318
+#EXTINF:-1,GOL TV  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/319
+#EXTINF:-1,TELEAMAZONAS QUITO SIERRA HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/320
+#EXTINF:-1,ECUAVISA GQUIL HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/321
+#EXTINF:-1,Goltv Ecuador
+http://latinoamericatv.vip:3334/Kaka/Kaka/322
+#EXTINF:-1,HECHOS ECUADOR
+http://latinoamericatv.vip:3334/Kaka/Kaka/323
+#EXTINF:-1,Ecuavisa Internacional
+http://latinoamericatv.vip:3334/Kaka/Kaka/324
+#EXTINF:-1,Multicanal (Loja)
+http://latinoamericatv.vip:3334/Kaka/Kaka/325
+#EXTINF:-1,UY* | CANAL 4 SALTO (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/327
+#EXTINF:-1,UY* | CANAL 10  HD (u)
+http://latinoamericatv.vip:3334/Kaka/Kaka/328
+#EXTINF:-1,UY* | VTV HD (U)
+http://latinoamericatv.vip:3334/Kaka/Kaka/329
+#EXTINF:-1,UY* | VTV SD (e).
+http://latinoamericatv.vip:3334/Kaka/Kaka/330
+#EXTINF:-1,UY* | CANAL 4 MONTECARLO HD (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/331
+#EXTINF:-1,UY* | VTV.
+http://latinoamericatv.vip:3334/Kaka/Kaka/332
+#EXTINF:-1,UY* | VTV +  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/333
+#EXTINF:-1,UY* | TELEDOCE HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/334
+#EXTINF:-1,UY* | CANAL 12  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/336
+#EXTINF:-1,UY* | CANAL 4
+http://latinoamericatv.vip:3334/Kaka/Kaka/337
+#EXTINF:-1,UY* | LA RED
+http://latinoamericatv.vip:3334/Kaka/Kaka/338
+#EXTINF:-1,UY* | TV CIUDAD
+http://latinoamericatv.vip:3334/Kaka/Kaka/339
+#EXTINF:-1,UY* | CANAL 5
+http://latinoamericatv.vip:3334/Kaka/Kaka/340
+#EXTINF:-1,MEXICO | AZ Click FHD (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/343
+#EXTINF:-1,MEXICO | UNICABLE  HD (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/344
+#EXTINF:-1,MEXICO | COMEDY CENTRAL
+http://latinoamericatv.vip:3334/Kaka/Kaka/345
+#EXTINF:-1,MEXICO | CANAL 5 (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/346
+#EXTINF:-1,MEXICO | DISTRITO COMEDIA (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/347
+#EXTINF:-1,MEXICO | TL NOVELAS  HD.
+http://latinoamericatv.vip:3334/Kaka/Kaka/348
+#EXTINF:-1,MEXICO | AZTECA UNO
+http://latinoamericatv.vip:3334/Kaka/Kaka/349
+#EXTINF:-1,MX | TRU TV  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/350
+#EXTINF:-1,CANAL  DE LAS ESTRELLAS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/351
+#EXTINF:-1,AZ corazón HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/352
+#EXTINF:-1,MEXICO | ADN40 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/353
+#EXTINF:-1,MEXICO | ADN40 SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/354
+#EXTINF:-1,MEXICO | AZ CINEMA...HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/355
+#EXTINF:-1,MEXICO | AZTECA MUNDO
+http://latinoamericatv.vip:3334/Kaka/Kaka/356
+#EXTINF:-1,MEXICO | CANAL ONCE
+http://latinoamericatv.vip:3334/Kaka/Kaka/357
+#EXTINF:-1,MEXICO | CANAL 5 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/358
+#EXTINF:-1,MEXICO | TUDN
+http://latinoamericatv.vip:3334/Kaka/Kaka/359
+#EXTINF:-1,MEXICO | MEXIQUENSE
+http://latinoamericatv.vip:3334/Kaka/Kaka/360
+#EXTINF:-1,MEXICO | MULTIMEDIOS P.
+http://latinoamericatv.vip:3334/Kaka/Kaka/361
+#EXTINF:-1,MEXICO |  TELEVISA HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/362
+#EXTINF:-1,MEXICO | IMAGEN TV
+http://latinoamericatv.vip:3334/Kaka/Kaka/363
+#EXTINF:-1,MEXICO | TELERITMO
+http://latinoamericatv.vip:3334/Kaka/Kaka/364
+#EXTINF:-1,VARIEDADES | TLC MEXICO
+http://latinoamericatv.vip:3334/Kaka/Kaka/365
+#EXTINF:-1,MX | TELEFORMULA
+http://latinoamericatv.vip:3334/Kaka/Kaka/366
+#EXTINF:-1,MX | BAMDADMAX
+http://latinoamericatv.vip:3334/Kaka/Kaka/367
+#EXTINF:-1,MX | Bitme
+http://latinoamericatv.vip:3334/Kaka/Kaka/368
+#EXTINF:-1,Canal de las Estrellas
+http://latinoamericatv.vip:3334/Kaka/Kaka/369
+#EXTINF:-1,MEX | ONCE
+http://latinoamericatv.vip:3334/Kaka/Kaka/370
+#EXTINF:-1,las estrellas sd(R)
+http://latinoamericatv.vip:3334/Kaka/Kaka/371
+#EXTINF:-1,MX | DISTRITO COMEDY SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/372
+#EXTINF:-1,MX | TELENOVELAS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/373
+#EXTINF:-1,ATB | BOL
+http://latinoamericatv.vip:3334/Kaka/Kaka/376
+#EXTINF:-1,BOLIVIA TV | BOL
+http://latinoamericatv.vip:3334/Kaka/Kaka/377
+#EXTINF:-1,BOLIVISION | BOL
+http://latinoamericatv.vip:3334/Kaka/Kaka/378
+#EXTINF:-1,RTP | BOL
+http://latinoamericatv.vip:3334/Kaka/Kaka/379
+#EXTINF:-1,UNITEL | BOL
+http://latinoamericatv.vip:3334/Kaka/Kaka/380
+#EXTINF:-1,Cdn
+http://latinoamericatv.vip:3334/Kaka/Kaka/382
+#EXTINF:-1,ALIENTO VISION TV | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/383
+#EXTINF:-1,AME 47 TV | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/384
+#EXTINF:-1,CDN | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/386
+#EXTINF:-1,CIBERVISION | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/387
+#EXTINF:-1,CINEVISION CANAL 19 | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/388
+#EXTINF:-1,CINEVISION19 | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/389
+#EXTINF:-1,COLOR VISION 9 | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/390
+#EXTINF:-1,COMUNION TV | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/391
+#EXTINF:-1,HMIRABAL TV | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/393
+#EXTINF:-1,MICROVISION TV | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/395
+#EXTINF:-1,ONDA TV | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/396
+#EXTINF:-1,SABOR A MERENGUE TV | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/398
+#EXTINF:-1,SITV | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/399
+#EXTINF:-1,SUPERTV55 | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/401
+#EXTINF:-1,TELEMICRO CANAL 5 | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/405
+#EXTINF:-1,TELEMILENIO | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/406
+#EXTINF:-1,TV DEL ESTE | RD
+http://latinoamericatv.vip:3334/Kaka/Kaka/409
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://latinoamericatv.vip:3334/Kaka/Kaka/411
+#EXTINF:-1,TELEMUNDO puerto rico
+http://latinoamericatv.vip:3334/Kaka/Kaka/412
+#EXTINF:-1,TELEMUNDO CHICAGO | TN
+http://latinoamericatv.vip:3334/Kaka/Kaka/414
+#EXTINF:-1,TELEMUNDO INTERNACIONAL OPC.2 | TN
+http://latinoamericatv.vip:3334/Kaka/Kaka/416
+#EXTINF:-1,TELEMUNDO INTERNACIONAL | TN
+http://latinoamericatv.vip:3334/Kaka/Kaka/417
+#EXTINF:-1,TELEMUNDO LOS ANGELES | TN
+http://latinoamericatv.vip:3334/Kaka/Kaka/418
+#EXTINF:-1,TELEMUNDO MIAMI | TN
+http://latinoamericatv.vip:3334/Kaka/Kaka/419
+#EXTINF:-1,TELEMUNDO TAMPA | TN
+http://latinoamericatv.vip:3334/Kaka/Kaka/420
+#EXTINF:-1,CANAL 12 | SV
+http://latinoamericatv.vip:3334/Kaka/Kaka/424
+#EXTINF:-1,CANAL 6 | SV
+http://latinoamericatv.vip:3334/Kaka/Kaka/428
+#EXTINF:-1,TCS CANAL 4 HD | SV
+http://latinoamericatv.vip:3334/Kaka/Kaka/429
+#EXTINF:-1,HR | HCH
+http://latinoamericatv.vip:3334/Kaka/Kaka/434
+#EXTINF:-1,CANAL 11 HD | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/435
+#EXTINF:-1,CANAL 5 HD | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/436
+#EXTINF:-1,CANAL 6 | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/437
+#EXTINF:-1,DIOS TE VE HD | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/438
+#EXTINF:-1,TELECADENA HD | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/440
+#EXTINF:-1,CANAL 5 HD | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/441
+#EXTINF:-1,CANAL 6 | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/442
+#EXTINF:-1,DIOS TE VE HD | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/443
+#EXTINF:-1,VICATV | HN
+http://latinoamericatv.vip:3334/Kaka/Kaka/445
+#EXTINF:-1,NIC | CANAL 12
+http://latinoamericatv.vip:3334/Kaka/Kaka/447
+#EXTINF:-1,NIC | Canal 10 (G)
+http://latinoamericatv.vip:3334/Kaka/Kaka/449
+#EXTINF:-1,#0 FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/496
+#EXTINF:-1,#0 HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/497
+#EXTINF:-1,AMC HD   | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/499
+#EXTINF:-1,ANTENA 3 HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/500
+#EXTINF:-1,Baby Tv | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/504
+#EXTINF:-1,Blaze | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/508
+#EXTINF:-1,CALLE 13 FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/509
+#EXTINF:-1,CANAL PANDA | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/511
+#EXTINF:-1,Caza y Pesca FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/513
+#EXTINF:-1,COMEDY CENTRAL HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/518
+#EXTINF:-1,COSMOPOLITAN HD   | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/519
+#EXTINF:-1,Cuatro HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/522
+#EXTINF:-1,DECASA HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/526
+#EXTINF:-1,Disney JR | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/530
+#EXTINF:-1,DIVINITY HD   | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/532
+#EXTINF:-1,El Toro TV | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/537
+#EXTINF:-1,Energy FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/538
+#EXTINF:-1,EUROSPORT 1 | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/542
+#EXTINF:-1,Eurosport 2 | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/544
+#EXTINF:-1,HOLLYWOOD HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/554
+#EXTINF:-1,AMC HD   | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/556
+#EXTINF:-1,ANTENA 3 HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/557
+#EXTINF:-1,La 2 | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/561
+#EXTINF:-1,M. #Vamos SD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/564
+#EXTINF:-1,M. Accion FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/566
+#EXTINF:-1,M. Accion HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/567
+#EXTINF:-1,M. Accion SD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/568
+#EXTINF:-1,M. Comedia FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/571
+#EXTINF:-1,M. Comedia SD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/572
+#EXTINF:-1,M. DCINE Ñ | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/573
+#EXTINF:-1,M. Estrenos FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/583
+#EXTINF:-1,M. Estrenos SD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/584
+#EXTINF:-1,M. Formula 1 | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/585
+#EXTINF:-1,M. Golf SD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/586
+#EXTINF:-1,M. Golf | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/587
+#EXTINF:-1,M. LaLiga 1 | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/588
+#EXTINF:-1,M. LaLiga TvBar SD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/598
+#EXTINF:-1,M. Toros | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/612
+#EXTINF:-1,Mega FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/614
+#EXTINF:-1,Mega | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/615
+#EXTINF:-1,NatGeo  Wild HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/617
+#EXTINF:-1,NEOX HD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/622
+#EXTINF:-1,Nick JR | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/624
+#EXTINF:-1,Nickelodeon | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/626
+#EXTINF:-1,PARAMOUNT CHANNEL  | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/631
+#EXTINF:-1,TCM HD   | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/640
+#EXTINF:-1,TEN   | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/646
+#EXTINF:-1,TNT FHD   | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/647
+#EXTINF:-1,TNT HD   | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/648
+#EXTINF:-1,Viajar FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/650
+#EXTINF:-1,XTRM FHD | ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/653
+#EXTINF:-1,BANDAMAX | MUSICA_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/655
+#EXTINF:-1,HTV | MUSICA_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/656
+#EXTINF:-1,MTV HD | MUSICA_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/659
+#EXTINF:-1,MTV HITS | MUSICA_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/661
+#EXTINF:-1,MTV LIVE | MUSICA_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/663
+#EXTINF:-1,STAR TVE | MUSICA_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/664
+#EXTINF:-1,TV SUNDANCE | MUSICA_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/667
+#EXTINF:-1,VH1 CLASSIC HD | MUSICA_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/668
+#EXTINF:-1,VH1 HD | MUSICA_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/670
+#EXTINF:-1,VH1 | MUSICA_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/671
+#EXTINF:-1,LAT_SD | VH1
+http://latinoamericatv.vip:3334/Kaka/Kaka/836
+#EXTINF:-1,LAT_SD | VIDEO ROLA
+http://latinoamericatv.vip:3334/Kaka/Kaka/837
+#EXTINF:-1,LAT_SD | WARNER
+http://latinoamericatv.vip:3334/Kaka/Kaka/838
+#EXTINF:-1,CINE LATINO | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/841
+#EXTINF:-1,CINEMAX | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/845
+#EXTINF:-1,FOX ACTION HD | CINE_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/850
+#EXTINF:-1,FOX ACTION SD | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/851
+#EXTINF:-1,FOX CLASSICS | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/857
+#EXTINF:-1,FOX MOVIES SD | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/865
+#EXTINF:-1,FX HD | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/869
+#EXTINF:-1,GOLDE EDGE | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/872
+#EXTINF:-1,CINEMAX | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/875
+#EXTINF:-1,HBO 2 | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/877
+#EXTINF:-1,HBO FAMILY | CINE_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/878
+#EXTINF:-1,HBO | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/883
+#EXTINF:-1,MAX UP | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/885
+#EXTINF:-1,PARAMOUNT | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/889
+#EXTINF:-1,SPACE | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/892
+#EXTINF:-1,STARZ KIDS & FAMILY HD | CINE_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/903
+#EXTINF:-1,SYFY SD | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/906
+#EXTINF:-1,SYFY | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/907
+#EXTINF:-1,UNIVERSAL CHANNEL | CINE_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/913
+#EXTINF:-1,ADRENALINA | DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/916
+#EXTINF:-1,AFIZZIONADOS | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/917
+#EXTINF:-1,BARCA TV | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/918
+#EXTINF:-1,BEIN SPORTS EXTRA | DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/919
+#EXTINF:-1,BEIN SPORTS Ñ | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/922
+#EXTINF:-1,DIRECTV SPORT | DEP_CL
+http://latinoamericatv.vip:3334/Kaka/Kaka/923
+#EXTINF:-1,BARCA TV | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/924
+#EXTINF:-1,BEIN SPORTS EXTRA | DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/925
+#EXTINF:-1,BEIN SPORTS Ñ | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/927
+#EXTINF:-1,DIRECTV SPORTS | DEP_ARG
+http://latinoamericatv.vip:3334/Kaka/Kaka/928
+#EXTINF:-1,DIRECTV+ | DEP_CL
+http://latinoamericatv.vip:3334/Kaka/Kaka/929
+#EXTINF:-1,ESPN 2 FHD | DEP_BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/930
+#EXTINF:-1,ESPN 2 HD | DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/931
+#EXTINF:-1,ESPN 2 SD | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/932
+#EXTINF:-1,ESPN 2 | DEP_CL
+http://latinoamericatv.vip:3334/Kaka/Kaka/933
+#EXTINF:-1,ESPN 2 | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/934
+#EXTINF:-1,ESPN 3 HD | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/935
+#EXTINF:-1,ESPN EXTRA HD | DEP_BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/938
+#EXTINF:-1,ESPN HD | DEP_BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/939
+#EXTINF:-1,ESPN | DEP_ARG
+http://latinoamericatv.vip:3334/Kaka/Kaka/940
+#EXTINF:-1,ESPN | DEP_CL
+http://latinoamericatv.vip:3334/Kaka/Kaka/941
+#EXTINF:-1,ESPN | DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/942
+#EXTINF:-1,ESPN | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/943
+#EXTINF:-1,ESPN | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/944
+#EXTINF:-1,ESPN+ | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/945
+#EXTINF:-1,FOX SPORT 2 HD | DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/948
+#EXTINF:-1,FOX SPORTS 2 | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/953
+#EXTINF:-1,FOX SPORTS 3 | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/956
+#EXTINF:-1,FOX SPORTS FHD | DEP_BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/957
+#EXTINF:-1,FOX SPORTS HD | DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/958
+#EXTINF:-1,FOX SPORTS PREMIUM | DEP_ARG
+http://latinoamericatv.vip:3334/Kaka/Kaka/959
+#EXTINF:-1,FOX SPORTS | DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/960
+#EXTINF:-1,FUTV | DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/961
+#EXTINF:-1,MOVISTAR DEPORTES FHD | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/964
+#EXTINF:-1,MOVISTAR LA LIGA FHD | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/966
+#EXTINF:-1,MOVISTAR LA LIGA SD | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/967
+#EXTINF:-1,MOVISTAR LA LIGA | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/968
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/969
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES SD | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/970
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/971
+#EXTINF:-1,MOVISTAR VAMOS HD | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/972
+#EXTINF:-1,REAL MADRID TV | DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/973
+#EXTINF:-1,TIGO SPORT | DEP_CR
+http://latinoamericatv.vip:3334/Kaka/Kaka/975
+#EXTINF:-1,TNT SPORTS FHD | DEP_ARG
+http://latinoamericatv.vip:3334/Kaka/Kaka/979
+#EXTINF:-1,TYC SPORTS | DEP_ARG
+http://latinoamericatv.vip:3334/Kaka/Kaka/981
+#EXTINF:-1,Usa: UNIVISION 
+http://latinoamericatv.vip:3334/Kaka/Kaka/982
+#EXTINF:-1,WIN SPORTS + HD | DEP_COL
+http://latinoamericatv.vip:3334/Kaka/Kaka/983
+#EXTINF:-1,CANAL 11 | GT
+http://latinoamericatv.vip:3334/Kaka/Kaka/986
+#EXTINF:-1,CANAL 13 | GT
+http://latinoamericatv.vip:3334/Kaka/Kaka/987
+#EXTINF:-1,CANAL 3 | GT
+http://latinoamericatv.vip:3334/Kaka/Kaka/988
+#EXTINF:-1,CANAL 7 | GT
+http://latinoamericatv.vip:3334/Kaka/Kaka/989
+#EXTINF:-1,CANAL ANTIGUA | GT
+http://latinoamericatv.vip:3334/Kaka/Kaka/990
+#EXTINF:-1,GUATEVISION | GT
+http://latinoamericatv.vip:3334/Kaka/Kaka/991
+#EXTINF:-1,24/7 |  LA FAMILIA PELUCHE
+http://latinoamericatv.vip:3334/Kaka/Kaka/993
+#EXTINF:-1,24/7 | FUTURAMA
+http://latinoamericatv.vip:3334/Kaka/Kaka/1002
+#EXTINF:-1,24/7 | PINKY Y CEREBRO
+http://latinoamericatv.vip:3334/Kaka/Kaka/1007
+#EXTINF:-1,24/7 | EL CHAVO DEL OCHO
+http://latinoamericatv.vip:3334/Kaka/Kaka/1008
+#EXTINF:-1,A&E HD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1010
+#EXTINF:-1,A&E MUNDO SD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1011
+#EXTINF:-1,A&E SD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1012
+#EXTINF:-1,AMC HD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1014
+#EXTINF:-1,AXN HD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1016
+#EXTINF:-1,AXN SD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1017
+#EXTINF:-1,COMEDY CENTRAL HD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1019
+#EXTINF:-1,COMEDY CENTRAL SD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1020
+#EXTINF:-1,DISTRITO COMEDIA | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1021
+#EXTINF:-1,GALAVISION | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1029
+#EXTINF:-1,GOURMET HD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1032
+#EXTINF:-1,TCM HD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1038
+#EXTINF:-1,TCM | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1039
+#EXTINF:-1,TELECAFE HD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1040
+#EXTINF:-1,TLNOVELAS | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1042
+#EXTINF:-1,TRUTV HD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1044
+#EXTINF:-1,UNICABLE SD | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1047
+#EXTINF:-1,UNICABLE | ENT_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/1048
+#EXTINF:-1,BR. | Espn 1 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1095
+#EXTINF:-1,BR. | Espn 2 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1096
+#EXTINF:-1,BR. | Espn Brasil SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1098
+#EXTINF:-1,BR. | Espn Extra HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1099
+#EXTINF:-1,BR. | Fox SPorts 2 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1100
+#EXTINF:-1,BR. | Fox SPorts HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1102
+#EXTINF:-1,BR. BAND SPORTS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1104
+#EXTINF:-1,BR. SPORTV HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1105
+#EXTINF:-1,BR. SPORTV 2 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1107
+#EXTINF:-1,BR. SPORTV 3 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1109
+#EXTINF:-1,BR. COMBATE HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1111
+#EXTINF:-1,BR. COMBATE SD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1112
+#EXTINF:-1,BR. PREMIERE CLUBES HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1113
+#EXTINF:-1,BR. PREMIERE 1 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1115
+#EXTINF:-1,BR. PREMIERE 2 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1116
+#EXTINF:-1,BR. PREMIERE 3 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1117
+#EXTINF:-1,BR. PREMIERE 4 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1118
+#EXTINF:-1,BR. PREMIERE 5 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1119
+#EXTINF:-1,BR. PREMIERE 6 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1120
+#EXTINF:-1,BR. PREMIERE 7 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1121
+#EXTINF:-1,BR. | Axn SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1123
+#EXTINF:-1,BR. | Cinemax HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1124
+#EXTINF:-1,BR. | Fx HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1125
+#EXTINF:-1,BR. | Hbo HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1126
+#EXTINF:-1,BR. | Hbo Plus HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1127
+#EXTINF:-1,BR. | Max Prime HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1128
+#EXTINF:-1,BR. | Paramount HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1130
+#EXTINF:-1,BR. | Sony Channel HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1131
+#EXTINF:-1,BR. | Syfy HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1132
+#EXTINF:-1,BR. | Tcm HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1133
+#EXTINF:-1,BR. | Tnt HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1134
+#EXTINF:-1,BR. | Tnt Series HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1135
+#EXTINF:-1,BR. | Universal Channel SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1136
+#EXTINF:-1,BR. | Universal HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1137
+#EXTINF:-1,BR. HBO FAMILY HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1138
+#EXTINF:-1,BR. HBO 2 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1139
+#EXTINF:-1,BR. HBO SIGNATURE HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1140
+#EXTINF:-1,BR. FOX PREMIUM 1 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1141
+#EXTINF:-1,BR. FOX PREMIUM 2 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1142
+#EXTINF:-1,BR. FOX HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1143
+#EXTINF:-1,BR. TELECINE  ACTION BR  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1145
+#EXTINF:-1,BR. TELECINE ACTION BR  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1146
+#EXTINF:-1,BR. TELECINE CULT BR  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1148
+#EXTINF:-1,BR. TELECINE CULT BR  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1149
+#EXTINF:-1,BR. TELECINE FUN BR  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1151
+#EXTINF:-1,BR. TELECINE FUN BR  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1152
+#EXTINF:-1,por: Globo tv bahia
+http://latinoamericatv.vip:3334/Kaka/Kaka/1155
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1157
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1158
+#EXTINF:-1,GLOBO BRASILIA HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1159
+#EXTINF:-1,GLOBO NEWS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1161
+#EXTINF:-1,GLOBO RBS POA HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1164
+#EXTINF:-1,GLOBO RJ HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1166
+#EXTINF:-1,GLOBO SP HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1167
+#EXTINF:-1,BR. SBT BR HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1168
+#EXTINF:-1,BR. SBT RJ BR HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1171
+#EXTINF:-1,BR. BAND SP BR HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1173
+#EXTINF:-1,BR: Globo HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1174
+#EXTINF:-1,Record tv
+http://latinoamericatv.vip:3334/Kaka/Kaka/1175
+#EXTINF:-1,RECORD AMAZONAS SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1176
+#EXTINF:-1,RECORD BRASILIA HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1178
+#EXTINF:-1,RECORD NEWS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1181
+#EXTINF:-1,RECORD RJ HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1182
+#EXTINF:-1,RECORD RS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1183
+#EXTINF:-1,RECORD SP HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1184
+#EXTINF:-1,RECORD TV CABRALIA HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1185
+#EXTINF:-1,BRASIL | GLOBO SP  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1188
+#EXTINF:-1,BRASIL | GLOBO TV TRIBUNA SANTOS  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1189
+#EXTINF:-1,BRASIL | GLOBOSAT  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1190
+#EXTINF:-1,RECORD  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1191
+#EXTINF:-1,BRASIL | REDE TV  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1192
+#EXTINF:-1,BRASIL | REDE VIDA  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1193
+#EXTINF:-1,BRASIL | SBT HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1194
+#EXTINF:-1,CINE  | HBO  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1240
+#EXTINF:-1,CINE  | HBO POP  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1241
+#EXTINF:-1,CINE  | HBO POP  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1242
+#EXTINF:-1,CINE  | HBO POP  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1243
+#EXTINF:-1,CINE  | TNT  FHD 
+http://latinoamericatv.vip:3334/Kaka/Kaka/1244
+#EXTINF:-1,CINE  | TNT  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1245
+#EXTINF:-1,CINE  | TNT  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1246
+#EXTINF:-1,CINE  | TNT SERIES  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1247
+#EXTINF:-1,CINE | TNT SERIES  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1248
+#EXTINF:-1,CINE |  TNT SERIES  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1250
+#EXTINF:-1,CINE | CINECANAL  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1251
+#EXTINF:-1,CINE | CINECANAL  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1252
+#EXTINF:-1,CINE | CINECANAL  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1253
+#EXTINF:-1,CINE | AXN  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1254
+#EXTINF:-1,CINE | AXN  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1255
+#EXTINF:-1,CINE | AXN  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1257
+#EXTINF:-1,CINE | WARNER  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1258
+#EXTINF:-1,CINE | WARNER  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1259
+#EXTINF:-1,CINE | WARNER  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1260
+#EXTINF:-1,CINE | SONY  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1261
+#EXTINF:-1,CINE | SONY  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1263
+#EXTINF:-1,CINE | SONY  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1264
+#EXTINF:-1,CINE | TCM  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1265
+#EXTINF:-1,CINE | TCM  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1266
+#EXTINF:-1,CINE |  TCM  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1267
+#EXTINF:-1,CINE | UNIVERSAL CHANEL  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1268
+#EXTINF:-1,CINE | UNIVERSAL CHANEL  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1269
+#EXTINF:-1,CINE | UNIVERSAL CHANEL  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1270
+#EXTINF:-1,CINE | STUDIO UNIVERSAL  FHD 
+http://latinoamericatv.vip:3334/Kaka/Kaka/1271
+#EXTINF:-1,CINE  | STUDIO UNIVERSAL  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1272
+#EXTINF:-1,CINE  | STUDIO UNIVERSAL  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1273
+#EXTINF:-1,CINE | FX  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1274
+#EXTINF:-1,CINE | FX  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1275
+#EXTINF:-1,CINE | FX  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1276
+#EXTINF:-1,CINE | FXM  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1277
+#EXTINF:-1,CINE | FXM  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1278
+#EXTINF:-1,CINE | FXM  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1279
+#EXTINF:-1,CINE | SPACE CHANEL  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1280
+#EXTINF:-1,CINE | SPACE CHANEL  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1281
+#EXTINF:-1,CINE | SPACE CHANEL  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1282
+#EXTINF:-1,CINE | AMC  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1283
+#EXTINF:-1,CINE | AMC HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1284
+#EXTINF:-1,CINE | AMC  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1285
+#EXTINF:-1,CINE | GOLDEN  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1286
+#EXTINF:-1,CINE | GOLDEN  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1287
+#EXTINF:-1,CINE | GOLDEN  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1288
+#EXTINF:-1,CINE | GOLDEN EDG  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1289
+#EXTINF:-1,CINE | GOLDEN EDG  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1290
+#EXTINF:-1,CINE | GOLDEN EDG  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1291
+#EXTINF:-1,CINE | GOLDEN PREMIER  FHD 
+http://latinoamericatv.vip:3334/Kaka/Kaka/1292
+#EXTINF:-1,CINE | GOLDEN PREMIER  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1293
+#EXTINF:-1,CINE | GOLDEN PREMIER  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1294
+#EXTINF:-1,LAT | DIRECTV SPORTS EC HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1308
+#EXTINF:-1,LAT | DIRECTV SPORTS PLUS FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1309
+#EXTINF:-1,LAT | DIRECTV SPORTS PLUS  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1310
+#EXTINF:-1,LAT | DIRECTV SPORTS PLUS  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1311
+#EXTINF:-1,LAT | TNT SPORTS  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1312
+#EXTINF:-1,LAT | TNT SPORTS  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1313
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD AR (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1322
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD AR (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1323
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD AR (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1324
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD AR (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1325
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 HD AR (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1326
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 FHD AR (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1327
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD CO (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1328
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD CO *
+http://latinoamericatv.vip:3334/Kaka/Kaka/1329
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD CO (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1330
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD CO (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1331
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 HD CO (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1332
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 FHD CO (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1333
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD MX (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1334
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD MX (E)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1335
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD MX (c)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1336
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD MX (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1337
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 HD MX (e)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1338
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 FHD MX (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1339
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS PREMIUM HD (T)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1343
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS PREMIUM OP 2 (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1344
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 CHILE (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1358
+#EXTINF:-1,DEPORTES LAT | ESPN 1 HD AR (u)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1361
+#EXTINF:-1,DEPORTES LAT | ESPN 1 HD AR (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1362
+#EXTINF:-1,DEPORTES LAT | ESPN 3 SUR FHD  (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1363
+#EXTINF:-1,DEPORTES LAT | ESPN 2 HD AR (L)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1364
+#EXTINF:-1,DEPORTES LAT | ESPN 2 HD SUR (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1365
+#EXTINF:-1,Deportes - ESPN 2 SD [Sur]
+http://latinoamericatv.vip:3334/Kaka/Kaka/1370
+#EXTINF:-1,Deportes - ESPN 1 SD [Sur]
+http://latinoamericatv.vip:3334/Kaka/Kaka/1371
+#EXTINF:-1,Deportes - ESPN 3 HD [Sur]
+http://latinoamericatv.vip:3334/Kaka/Kaka/1372
+#EXTINF:-1,Sur - Directv Sports + HD (Col)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1376
+#EXTINF:-1,Sur - Directv Sports HD (Col)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1377
+#EXTINF:-1,Sur - Directv Sports 2 HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1378
+#EXTINF:-1,LAT | TNT SPORTS  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1379
+#EXTINF:-1,LAT | TYC SPORTS  INTERNACIONAL HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1380
+#EXTINF:-1,LAT | TYC SPORTS  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1381
+#EXTINF:-1,LAT | TYC SPORTS  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1382
+#EXTINF:-1,LAT | WIN SPORTS +  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1383
+#EXTINF:-1,LAT | WIN SPORTS +  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1384
+#EXTINF:-1,LAT | WIN SPORTS +  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1385
+#EXTINF:-1,LAT | GOL TV  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1386
+#EXTINF:-1,LAT | GOL TV  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1387
+#EXTINF:-1,LAT | GOL TV  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1388
+#EXTINF:-1,ARG: FOX MOVIES HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1389
+#EXTINF:-1,ARG: FOX SERIES
+http://latinoamericatv.vip:3334/Kaka/Kaka/1390
+#EXTINF:-1,REPRETEL 6 | CR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1391
+#EXTINF:-1,CANAL 11 REPRETEL | CR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1392
+#EXTINF:-1,CINE PREMIUM | Cinecanal FHD  (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/1393
+#EXTINF:-1,CINE PREMIUM | A&E Mundo FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1394

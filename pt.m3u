@@ -1,293 +1,349 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://nomorecable.xyz:80/vmp343streams/850256/18202
-#EXTINF:-1,RTP 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/35886
-#EXTINF:-1,RTP 1 FHD
-http://nomorecable.xyz:80/vmp343streams/850256/18165
-#EXTINF:-1,RTP 2
-http://nomorecable.xyz:80/vmp343streams/850256/18201
-#EXTINF:-1,RTP 2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18185
-#EXTINF:-1,RTP 2 FHD
-http://nomorecable.xyz:80/vmp343streams/850256/78362
-#EXTINF:-1,RTP 3
-http://nomorecable.xyz:80/vmp343streams/850256/78364
-#EXTINF:-1,RTP 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18186
-#EXTINF:-1,RTP ACORES
-http://nomorecable.xyz:80/vmp343streams/850256/18150
-#EXTINF:-1,RTP MADEIRA
-http://nomorecable.xyz:80/vmp343streams/850256/18151
-#EXTINF:-1,RTP MEMORIA
-http://nomorecable.xyz:80/vmp343streams/850256/18152
-#EXTINF:-1,RTP Africa
-http://nomorecable.xyz:80/vmp343streams/850256/78365
-#EXTINF:-1,AMC
-http://nomorecable.xyz:80/vmp343streams/850256/35887
-#EXTINF:-1,Nat Geo
-http://nomorecable.xyz:80/vmp343streams/850256/35888
-#EXTINF:-1,AXN Movies HD
-http://nomorecable.xyz:80/vmp343streams/850256/35897
-#EXTINF:-1,AXN White
-http://nomorecable.xyz:80/vmp343streams/850256/35898
-#EXTINF:-1,Fox Comedy
-http://nomorecable.xyz:80/vmp343streams/850256/35899
-#EXTINF:-1,Fox Crime
-http://nomorecable.xyz:80/vmp343streams/850256/35900
-#EXTINF:-1,Fox Life
-http://nomorecable.xyz:80/vmp343streams/850256/35901
-#EXTINF:-1,Fox Movies
-http://nomorecable.xyz:80/vmp343streams/850256/35902
-#EXTINF:-1,Sic Noticias
-http://nomorecable.xyz:80/vmp343streams/850256/35903
-#EXTINF:-1,CMTV
-http://nomorecable.xyz:80/vmp343streams/850256/35904
-#EXTINF:-1,Sic Mulher
-http://nomorecable.xyz:80/vmp343streams/850256/35905
-#EXTINF:-1,SIC Caras
-http://nomorecable.xyz:80/vmp343streams/850256/35906
-#EXTINF:-1,SIC Radical
-http://nomorecable.xyz:80/vmp343streams/850256/35907
-#EXTINF:-1,TVCINE TOP
-http://nomorecable.xyz:80/vmp343streams/850256/35912
-#EXTINF:-1,TVCINE EDITION
-http://nomorecable.xyz:80/vmp343streams/850256/35913
-#EXTINF:-1,TVCINE 3 EMOTION
-http://nomorecable.xyz:80/vmp343streams/850256/35914
-#EXTINF:-1,TV SERIES
-http://nomorecable.xyz:80/vmp343streams/850256/35916
-#EXTINF:-1,HOLLYWOOD
-http://nomorecable.xyz:80/vmp343streams/850256/35917
-#EXTINF:-1,ARTV
-http://nomorecable.xyz:80/vmp343streams/850256/35920
-#EXTINF:-1,BIGGS
-http://nomorecable.xyz:80/vmp343streams/850256/35921
-#EXTINF:-1,SYFY
-http://nomorecable.xyz:80/vmp343streams/850256/35924
-#EXTINF:-1,11 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18206
-#EXTINF:-1,24 KITCHEN HD
-http://nomorecable.xyz:80/vmp343streams/850256/18188
-#EXTINF:-1,A BOLA TV
-http://nomorecable.xyz:80/vmp343streams/850256/18159
+#EXTINF:-1,1+1
+http://skylogic.site:8080/esterichannel50con/36cb6c13/187601
+#EXTINF:-1,11 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1480
+#EXTINF:-1,24 Kitchen FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/2025
+#EXTINF:-1,A BOLA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1420
 #EXTINF:-1,AFRO MUSIC
-http://nomorecable.xyz:80/vmp343streams/850256/18094
-#EXTINF:-1,AMC HD
-http://nomorecable.xyz:80/vmp343streams/850256/18187
+http://skylogic.site:8080/esterichannel50con/36cb6c13/151775
+#EXTINF:-1,ALMA LUSA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/264642
+#EXTINF:-1,AMC FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1473
+#EXTINF:-1,AR TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9629
+#EXTINF:-1,AXN Black
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278653
+#EXTINF:-1,AXN FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1469
 #EXTINF:-1,AXN Movies FHD
-http://nomorecable.xyz:80/vmp343streams/850256/18171
-#EXTINF:-1,AXN HD
-http://nomorecable.xyz:80/vmp343streams/850256/18123
-#EXTINF:-1,AXN WHITE HD
-http://nomorecable.xyz:80/vmp343streams/850256/18170
-#EXTINF:-1,BABY TV
-http://nomorecable.xyz:80/vmp343streams/850256/18096
-#EXTINF:-1,BLAZE
-http://nomorecable.xyz:80/vmp343streams/850256/18112
-#EXTINF:-1,BTV
-http://nomorecable.xyz:80/vmp343streams/850256/18198
-#EXTINF:-1,BTV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18138
-#EXTINF:-1,CA�A E PESCA
-http://nomorecable.xyz:80/vmp343streams/850256/18108
-#EXTINF:-1,CA�AVISION
-http://nomorecable.xyz:80/vmp343streams/850256/18106
-#EXTINF:-1,CANAL HISTORIA
-http://nomorecable.xyz:80/vmp343streams/850256/18115
-#EXTINF:-1,CANAL PANDA
-http://nomorecable.xyz:80/vmp343streams/850256/18102
-#EXTINF:-1,CANAL Q
-http://nomorecable.xyz:80/vmp343streams/850256/18149
-#EXTINF:-1,CBS REALITY
-http://nomorecable.xyz:80/vmp343streams/850256/18110
-#EXTINF:-1,CINEMUNDO HD
-http://nomorecable.xyz:80/vmp343streams/850256/18173
-#EXTINF:-1,CMTV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18160
-#EXTINF:-1,DISCOVERY
-http://nomorecable.xyz:80/vmp343streams/850256/18117
-#EXTINF:-1,DISNEY CHANNEL
-http://nomorecable.xyz:80/vmp343streams/850256/18104
-#EXTINF:-1,DISNEY JUNIOR
-http://nomorecable.xyz:80/vmp343streams/850256/18103
-#EXTINF:-1,E! ENTERTAINMENT
-http://nomorecable.xyz:80/vmp343streams/850256/18174
-#EXTINF:-1,ELEVEN  2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18179
-#EXTINF:-1,ELEVEN 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18178
-#EXTINF:-1,ELEVEN 5 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18175
-#EXTINF:-1,ELEVEN 6 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18176
-#EXTINF:-1,ELEVEN 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18180
-#EXTINF:-1,ELEVEN 4 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18177
-#EXTINF:-1,EUROSPORT  1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18135
-#EXTINF:-1,FOOD NETWORK HD
-http://nomorecable.xyz:80/vmp343streams/850256/18107
-#EXTINF:-1,FOX COMEDY HD
-http://nomorecable.xyz:80/vmp343streams/850256/18167
-#EXTINF:-1,FOX CRIME HD
-http://nomorecable.xyz:80/vmp343streams/850256/18190
-#EXTINF:-1,FOX HD
-http://nomorecable.xyz:80/vmp343streams/850256/18122
-#EXTINF:-1,FOX LIFE HD
-http://nomorecable.xyz:80/vmp343streams/850256/18121
-#EXTINF:-1,FOX MOVIES HD
-http://nomorecable.xyz:80/vmp343streams/850256/18192
-#EXTINF:-1,FUEL TV
-http://nomorecable.xyz:80/vmp343streams/850256/18193
-#EXTINF:-1,GLOBO PORTUGAL
-http://nomorecable.xyz:80/vmp343streams/850256/18090
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1471
+#EXTINF:-1,AXN White FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1467
+#EXTINF:-1,AZORES TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/227045
+#EXTINF:-1,BABY TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1441
+#EXTINF:-1,BBC ENTERTAINEMENT
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5937
+#EXTINF:-1,BBC World News FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11972
+#EXTINF:-1,Benfica TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1497
+#EXTINF:-1,BIGGS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1439
+#EXTINF:-1,BLAZE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/3996
+#EXTINF:-1,Bloomberg HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5933
+#EXTINF:-1,BOOMERANG
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24529
+#EXTINF:-1,BTV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8042
+#EXTINF:-1,CAMPO PEQUENO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/28029
+#EXTINF:-1,CANAL 180
+http://skylogic.site:8080/esterichannel50con/36cb6c13/146057
+#EXTINF:-1,CANAL NOVA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9700
+#EXTINF:-1,CANAL PANDA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1438
+#EXTINF:-1,Canal Porto
+http://skylogic.site:8080/esterichannel50con/36cb6c13/53940
+#EXTINF:-1,CANAL Q FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1430
+#EXTINF:-1,Canal Ricos
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197868
+#EXTINF:-1,Cartoon Network FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1440
+#EXTINF:-1,CASA E COZINHA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/6097
+#EXTINF:-1,CASA Y PESCA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1524
+#EXTINF:-1,CBC Reality
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278437
+#EXTINF:-1,CBS REALITY FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1528
+#EXTINF:-1,CGTN
+http://skylogic.site:8080/esterichannel50con/36cb6c13/162161
+#EXTINF:-1,CINEMUNDO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1477
+#EXTINF:-1,Clubbing TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11018
+#EXTINF:-1,CM TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1412
+#EXTINF:-1,CNBC FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8038
+#EXTINF:-1,CNN
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9703
+#EXTINF:-1,Crime+ Investigation HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5928
+#EXTINF:-1,Discovery Channel FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278435
+#EXTINF:-1,Discovery Showcase HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1527
+#EXTINF:-1,Disney Channel FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1434
+#EXTINF:-1,Disney JUNIOR FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1435
+#EXTINF:-1,DOG FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9699
+#EXTINF:-1,DW
+http://skylogic.site:8080/esterichannel50con/36cb6c13/146060
+#EXTINF:-1,E! FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1526
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1499
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1503
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1506
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1509
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1512
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1515
+#EXTINF:-1,ESTUDOS EM CASA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278688
+#EXTINF:-1,euronews HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/4007
+#EXTINF:-1,EUROSPORT 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1517
+#EXTINF:-1,EUROSPORT 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1518
+#EXTINF:-1,FASHION TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/2656
+#EXTINF:-1,FATIMA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/53924
+#EXTINF:-1,FIGHT BOX HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/151882
+#EXTINF:-1,FIGHT Network HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9650
+#EXTINF:-1,FOOD NETWORK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/2044
+#EXTINF:-1,FOX Comedy FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1465
+#EXTINF:-1,FOX Crime FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1463
+#EXTINF:-1,FOX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1461
+#EXTINF:-1,FOX Life FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1459
+#EXTINF:-1,FOX Movies FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1457
+#EXTINF:-1,FOX News HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278445
+#EXTINF:-1,FOX SPORTS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/40345
+#EXTINF:-1,france 24
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11019
+#EXTINF:-1,FUEL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1521
+#EXTINF:-1,GALICIA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8028
+#EXTINF:-1,Gametoon HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/265257
+#EXTINF:-1,GINX HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/15913
+#EXTINF:-1,GLOBO BRAZIL
+http://skylogic.site:8080/esterichannel50con/36cb6c13/173449
+#EXTINF:-1,GLOBO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1433
 #EXTINF:-1,GLOBO PORTUGAL HD
-http://nomorecable.xyz:80/vmp343streams/850256/18181
-#EXTINF:-1,HOLLYWOOD HD
-http://nomorecable.xyz:80/vmp343streams/850256/18124
-#EXTINF:-1,JIM JAM
-http://nomorecable.xyz:80/vmp343streams/850256/18097
-#EXTINF:-1,KOMBAT SPORT
-http://nomorecable.xyz:80/vmp343streams/850256/18132
-#EXTINF:-1,MCM POP
-http://nomorecable.xyz:80/vmp343streams/850256/18093
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5915
+#EXTINF:-1,HBO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24515
+#EXTINF:-1,HISTORIA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1525
+#EXTINF:-1,Hollywood FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1455
+#EXTINF:-1,Investigation Discovery FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5914
+#EXTINF:-1,JimJam FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1442
+#EXTINF:-1,KOMBAT SPORT FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1520
+#EXTINF:-1,KURIAKOS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9697
+#EXTINF:-1,KURIAKOS KIDS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/10828
+#EXTINF:-1,LOCALVISAO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/10335
+#EXTINF:-1,Lolly Kids HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/265254
+#EXTINF:-1,MAS CHIC
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11421
+#EXTINF:-1,MCM POP FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8027
 #EXTINF:-1,MCM TOP
-http://nomorecable.xyz:80/vmp343streams/850256/18182
-#EXTINF:-1,MEZZO-LIVE HD
-http://nomorecable.xyz:80/vmp343streams/850256/18168
-#EXTINF:-1,MOTORVISION HD
-http://nomorecable.xyz:80/vmp343streams/850256/18133
-#EXTINF:-1,MTV PORTUGAL HD
-http://nomorecable.xyz:80/vmp343streams/850256/18172
-#EXTINF:-1,NAT GEO HD
-http://nomorecable.xyz:80/vmp343streams/850256/18119
-#EXTINF:-1,NAT GEO WILD
-http://nomorecable.xyz:80/vmp343streams/850256/18118
-#EXTINF:-1,NAT GEO WILD HD
-http://nomorecable.xyz:80/vmp343streams/850256/18184
-#EXTINF:-1,NICK JR.
-http://nomorecable.xyz:80/vmp343streams/850256/18099
-#EXTINF:-1,NICKELODEON
-http://nomorecable.xyz:80/vmp343streams/850256/18100
-#EXTINF:-1,NOS STUDIOS HD
-http://nomorecable.xyz:80/vmp343streams/850256/18195
-#EXTINF:-1,ODISSEIA HD
-http://nomorecable.xyz:80/vmp343streams/850256/18116
-#EXTINF:-1,PANDA BIGSS
-http://nomorecable.xyz:80/vmp343streams/850256/18101
-#EXTINF:-1,PFC
-http://nomorecable.xyz:80/vmp343streams/850256/18130
-#EXTINF:-1,SIC
-http://nomorecable.xyz:80/vmp343streams/850256/18200
-#EXTINF:-1,SIC CARAS HD
-http://nomorecable.xyz:80/vmp343streams/850256/18155
-#EXTINF:-1,SIC HD
-http://nomorecable.xyz:80/vmp343streams/850256/18164
-#EXTINF:-1,SIC Kids
-http://nomorecable.xyz:80/vmp343streams/850256/18153
-#EXTINF:-1,Sic Kids HD
-http://nomorecable.xyz:80/vmp343streams/850256/79718
-#EXTINF:-1,SIC MULHER HD
-http://nomorecable.xyz:80/vmp343streams/850256/18156
-#EXTINF:-1,SIC NOTICIAS HD
-http://nomorecable.xyz:80/vmp343streams/850256/18162
-#EXTINF:-1,SIC RADICAL HD
-http://nomorecable.xyz:80/vmp343streams/850256/18154
-#EXTINF:-1,SPORTING TV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18137
-#EXTINF:-1,SYFY-HD
-http://nomorecable.xyz:80/vmp343streams/850256/18120
-#EXTINF:-1,TLC
-http://nomorecable.xyz:80/vmp343streams/850256/18111
-#EXTINF:-1,TOROS TV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18105
+http://skylogic.site:8080/esterichannel50con/36cb6c13/272483
+#EXTINF:-1,MEO Destaques
+http://skylogic.site:8080/esterichannel50con/36cb6c13/265256
+#EXTINF:-1,MEO Videoclube
+http://skylogic.site:8080/esterichannel50con/36cb6c13/265255
+#EXTINF:-1,MEZZO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8022
+#EXTINF:-1,MOTORVISION FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/4012
+#EXTINF:-1,MTV PORTUGAL
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1534
+#EXTINF:-1,NAT GEO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1530
+#EXTINF:-1,NAT GEO Wild FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1531
+#EXTINF:-1,NETFLIX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24517
+#EXTINF:-1,NHK World
+http://skylogic.site:8080/esterichannel50con/36cb6c13/81971
+#EXTINF:-1,Nick Junior FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9693
+#EXTINF:-1,nickelodeon HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1436
+#EXTINF:-1,Nicklelodeon HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278392
+#EXTINF:-1,NOS STUDIO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1454
+#EXTINF:-1,ODISSEIA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1532
+#EXTINF:-1,OPTO SIC HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/264644
+#EXTINF:-1,PANDA BIGGS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278401
+#EXTINF:-1,PORTO CANAL FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1419
+#EXTINF:-1,PTC 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/71264
+#EXTINF:-1,QYOU
+http://skylogic.site:8080/esterichannel50con/36cb6c13/146066
+#EXTINF:-1,REAL MADRID TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9653
+#EXTINF:-1,Record News
+http://skylogic.site:8080/esterichannel50con/36cb6c13/10988
+#EXTINF:-1,Record TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/13295
+#EXTINF:-1,RED BULL TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/13305
+#EXTINF:-1,RTP 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1404
+#EXTINF:-1,RTP 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1406
+#EXTINF:-1,RTP 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1418
+#EXTINF:-1,RTP ACORES FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/2055
+#EXTINF:-1,RTP AFRICA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1424
+#EXTINF:-1,RTP INTERNACIONAL
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278418
+#EXTINF:-1,RTP Memoria FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1425
+#EXTINF:-1,S+ HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/198681
+#EXTINF:-1,SIC CARAS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5910
+#EXTINF:-1,SIC FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1408
+#EXTINF:-1,SIC K HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/4021
+#EXTINF:-1,SIC KIDS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1443
+#EXTINF:-1,SIC Mulher FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1427
+#EXTINF:-1,SIC NOTICIAS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1416
+#EXTINF:-1,SIC RADICAL FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1429
+#EXTINF:-1,Sky News
+http://skylogic.site:8080/esterichannel50con/36cb6c13/6100
+#EXTINF:-1,SPORT TV + FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1481
+#EXTINF:-1,SPORT TV 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1483
+#EXTINF:-1,SPORT TV 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1486
+#EXTINF:-1,SPORT TV 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1489
+#EXTINF:-1,SPORT TV 4 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1492
+#EXTINF:-1,SPORT TV 5 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1495
+#EXTINF:-1,SPORT TV NBA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/2051
+#EXTINF:-1,Sporting HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1519
+#EXTINF:-1,SYFY FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1475
+#EXTINF:-1,TCV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/264640
+#EXTINF:-1,TIJI HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197616
+#EXTINF:-1,TLC FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1479
+#EXTINF:-1,TOROS TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1523
 #EXTINF:-1,TPA
-http://nomorecable.xyz:80/vmp343streams/850256/18203
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://nomorecable.xyz:80/vmp343streams/850256/18113
-#EXTINF:-1,TV RECORD HD
-http://nomorecable.xyz:80/vmp343streams/850256/18166
-#EXTINF:-1,TV SERIES HD
-http://nomorecable.xyz:80/vmp343streams/850256/18125
-#EXTINF:-1,TVCINE TOP HD
-http://nomorecable.xyz:80/vmp343streams/850256/18129
-#EXTINF:-1,TVCINE EDITION HD
-http://nomorecable.xyz:80/vmp343streams/850256/18128
-#EXTINF:-1,TVCINE EMOTION HD
-http://nomorecable.xyz:80/vmp343streams/850256/18127
-#EXTINF:-1,TVCINE ACTION HD
-http://nomorecable.xyz:80/vmp343streams/850256/18126
-#EXTINF:-1,TVI
-http://nomorecable.xyz:80/vmp343streams/850256/18199
-#EXTINF:-1,TVI 24
-http://nomorecable.xyz:80/vmp343streams/850256/18161
-#EXTINF:-1,TVI FICCAO
-http://nomorecable.xyz:80/vmp343streams/850256/18158
-#EXTINF:-1,TVI HD
-http://nomorecable.xyz:80/vmp343streams/850256/18163
-#EXTINF:-1,TVI REALITY
-http://nomorecable.xyz:80/vmp343streams/850256/18157
-#EXTINF:-1,VH1
-http://nomorecable.xyz:80/vmp343streams/850256/18095
-#EXTINF:-1,DISCOVERY HD
-http://nomorecable.xyz:80/vmp343streams/850256/35925
-#EXTINF:-1,ODISSEIA
-http://nomorecable.xyz:80/vmp343streams/850256/35926
-#EXTINF:-1,AXN
-http://nomorecable.xyz:80/vmp343streams/850256/35918
-#EXTINF:-1,Cinemundo
-http://nomorecable.xyz:80/vmp343streams/850256/35895
-#EXTINF:-1,MTV Portugal
-http://nomorecable.xyz:80/vmp343streams/850256/35896
-#EXTINF:-1,ZAP VIVA HD
-http://nomorecable.xyz:80/vmp343streams/850256/18197
-#EXTINF:-1,GLOBO NOW HD
-http://nomorecable.xyz:80/vmp343streams/850256/18196
-#EXTINF:-1,TV RECORD
-http://nomorecable.xyz:80/vmp343streams/850256/18092
-#EXTINF:-1,Porto Canal
-http://nomorecable.xyz:80/vmp343streams/850256/35909
-#EXTINF:-1,Sporting TV
-http://nomorecable.xyz:80/vmp343streams/850256/35908
-#EXTINF:-1,SPORT TV + HD
-http://nomorecable.xyz:80/vmp343streams/850256/18183
-#EXTINF:-1,SPORT TV 1
-http://nomorecable.xyz:80/vmp343streams/850256/18147
-#EXTINF:-1,SPORT TV 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18148
-#EXTINF:-1,SPORT TV 2
-http://nomorecable.xyz:80/vmp343streams/850256/18146
-#EXTINF:-1,SPORT TV 2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18145
-#EXTINF:-1,SPORT TV 3
-http://nomorecable.xyz:80/vmp343streams/850256/18144
-#EXTINF:-1,SPORT TV 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18143
-#EXTINF:-1,SPORT TV 4
-http://nomorecable.xyz:80/vmp343streams/850256/18142
-#EXTINF:-1,SPORT TV 4 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18141
-#EXTINF:-1,SPORT TV 5
-http://nomorecable.xyz:80/vmp343streams/850256/18140
-#EXTINF:-1,SPORT TV 5 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18139
-#EXTINF:-1,SPORT TV NBA  HD
-http://nomorecable.xyz:80/vmp343streams/850256/18131
-#EXTINF:-1,Eurosport 1
-http://nomorecable.xyz:80/vmp343streams/850256/35910
-#EXTINF:-1,Eurosport 2
-http://nomorecable.xyz:80/vmp343streams/850256/35911
-#EXTINF:-1,Eleven Sports 3
-http://nomorecable.xyz:80/vmp343streams/850256/35891
-#EXTINF:-1,Eleven Sports 6
-http://nomorecable.xyz:80/vmp343streams/850256/35894
-#EXTINF:-1,Eleven Sports 5
-http://nomorecable.xyz:80/vmp343streams/850256/35893
-#EXTINF:-1,Eleven Sports 4
-http://nomorecable.xyz:80/vmp343streams/850256/35892
-#EXTINF:-1,Eleven Sports 2
-http://nomorecable.xyz:80/vmp343streams/850256/35890
-#EXTINF:-1,Eleven Sports 1
-http://nomorecable.xyz:80/vmp343streams/850256/35889
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278687
+#EXTINF:-1,TPA INTERNACIONAL
+http://skylogic.site:8080/esterichannel50con/36cb6c13/187605
+#EXTINF:-1,TRACE TOCA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278560
+#EXTINF:-1,TRACE URBAN
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1537
+#EXTINF:-1,Travel Channel FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1529
+#EXTINF:-1,TV BNO
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197873
+#EXTINF:-1,TV Cancao Nova
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8007
+#EXTINF:-1,TV Globo HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1432
+#EXTINF:-1,TV GLOBO PREMIUM
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278652
+#EXTINF:-1,TV Man
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166324
+#EXTINF:-1,TV PAI ETERNO
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197869
+#EXTINF:-1,TV Record FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1431
+#EXTINF:-1,TV5 MONDE EUROPE
+http://skylogic.site:8080/esterichannel50con/36cb6c13/146307
+#EXTINF:-1,TVC News
+http://skylogic.site:8080/esterichannel50con/36cb6c13/151883
+#EXTINF:-1,TVCine Action FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1452
+#EXTINF:-1,TVCINE EDITIOMN HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278654
+#EXTINF:-1,TVCine Edition FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/82254
+#EXTINF:-1,TVCine Emotion FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1448
+#EXTINF:-1,TVCine Top FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1446
+#EXTINF:-1,TVCine+ HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278686
+#EXTINF:-1,TVE 24H
+http://skylogic.site:8080/esterichannel50con/36cb6c13/28853
+#EXTINF:-1,TVE Internacional
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5943
+#EXTINF:-1,TVI 24 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1414
+#EXTINF:-1,TVI FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1410
+#EXTINF:-1,TVI FICCAO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1421
+#EXTINF:-1,tvi Fisclo
+http://skylogic.site:8080/esterichannel50con/36cb6c13/200802
+#EXTINF:-1,TVI Reality FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1423
+#EXTINF:-1,TVI REALITY MOSAICO
+http://skylogic.site:8080/esterichannel50con/36cb6c13/162154
+#EXTINF:-1,VH1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1533
+#EXTINF:-1,WWE NETWORK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/198737
+#EXTINF:-1,ZAP VIVA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/2067
