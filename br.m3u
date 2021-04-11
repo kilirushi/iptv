@@ -1,223 +1,565 @@
 #EXTM3U
-#EXTINF:-1,TDN
-http://rv.flysat.live:80/307200102142/307200102142/87044
-#EXTINF:-1,HOLA TV
-http://rv.flysat.live:80/307200102142/307200102142/87043
-#EXTINF:-1,CINE LATINO
-http://rv.flysat.live:80/307200102142/307200102142/87042
-#EXTINF:-1,LIFETIME
-http://rv.flysat.live:80/307200102142/307200102142/87041
-#EXTINF:-1,MILENIO TV
-http://rv.flysat.live:80/307200102142/307200102142/87040
-#EXTINF:-1,ARTS
-http://rv.flysat.live:80/307200102142/307200102142/87039
-#EXTINF:-1,52MX
-http://rv.flysat.live:80/307200102142/307200102142/87038
-#EXTINF:-1,AMERICATEVE
-http://rv.flysat.live:80/307200102142/307200102142/87037
-#EXTINF:-1,GLITZ
-http://rv.flysat.live:80/307200102142/307200102142/87036
-#EXTINF:-1,TBS
-http://rv.flysat.live:80/307200102142/307200102142/87035
-#EXTINF:-1,TELEMUNDO INTERNACIONAL
-http://rv.flysat.live:80/307200102142/307200102142/87034
-#EXTINF:-1,UNIMAS
-http://rv.flysat.live:80/307200102142/307200102142/87033
-#EXTINF:-1,ISAT
-http://rv.flysat.live:80/307200102142/307200102142/87032
-#EXTINF:-1,PASIONES
-http://rv.flysat.live:80/307200102142/307200102142/87031
-#EXTINF:-1,HBO
-http://rv.flysat.live:80/307200102142/307200102142/87029
-#EXTINF:-1,HBO 2
-http://rv.flysat.live:80/307200102142/307200102142/87028
-#EXTINF:-1,HBO PLUS
-http://rv.flysat.live:80/307200102142/307200102142/87027
-#EXTINF:-1,HBO FAMILY
-http://rv.flysat.live:80/307200102142/307200102142/87026
-#EXTINF:-1,HBO SIGNATURE
-http://rv.flysat.live:80/307200102142/307200102142/87025
-#EXTINF:-1,HBO ESTE
-http://rv.flysat.live:80/307200102142/307200102142/87024
-#EXTINF:-1,FOX PREMIUM MOVIES
-http://rv.flysat.live:80/307200102142/307200102142/87023
-#EXTINF:-1,FOX PREMIUM ACTION
-http://rv.flysat.live:80/307200102142/307200102142/87021
-#EXTINF:-1,FOX PREMIUM COMEDY
-http://rv.flysat.live:80/307200102142/307200102142/87020
-#EXTINF:-1,FOX PREMIUM FAMILY
-http://rv.flysat.live:80/307200102142/307200102142/87019
-#EXTINF:-1,FOX PREMIUM SERIES
-http://rv.flysat.live:80/307200102142/307200102142/87018
-#EXTINF:-1,UNIVISION
-http://rv.flysat.live:80/307200102142/307200102142/87017
-#EXTINF:-1,UNIVISION TELENOVELAS
-http://rv.flysat.live:80/307200102142/307200102142/87016
-#EXTINF:-1,TELENOVELAS
-http://rv.flysat.live:80/307200102142/307200102142/87015
-#EXTINF:-1,UNICABLE
-http://rv.flysat.live:80/307200102142/307200102142/87014
-#EXTINF:-1,TELEMUNDO
-http://rv.flysat.live:80/307200102142/307200102142/87013
-#EXTINF:-1,TLC
-http://rv.flysat.live:80/307200102142/307200102142/87012
-#EXTINF:-1,SYFY
-http://rv.flysat.live:80/307200102142/307200102142/87011
-#EXTINF:-1,FX
-http://rv.flysat.live:80/307200102142/307200102142/87010
-#EXTINF:-1,FOX
-http://rv.flysat.live:80/307200102142/307200102142/87009
-#EXTINF:-1,FOX ACTION
-http://rv.flysat.live:80/307200102142/307200102142/87008
-#EXTINF:-1,FOX CLASSIC
-http://rv.flysat.live:80/307200102142/307200102142/87006
-#EXTINF:-1,FOX LIFE
-http://rv.flysat.live:80/307200102142/307200102142/87005
-#EXTINF:-1,FOX MOVIES
-http://rv.flysat.live:80/307200102142/307200102142/87004
-#EXTINF:-1,AMC
-http://rv.flysat.live:80/307200102142/307200102142/87003
-#EXTINF:-1,AXN
-http://rv.flysat.live:80/307200102142/307200102142/87002
-#EXTINF:-1,GALA TV
-http://rv.flysat.live:80/307200102142/307200102142/87001
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://rv.flysat.live:80/307200102142/307200102142/87000
-#EXTINF:-1,AZ UNO
-http://rv.flysat.live:80/307200102142/307200102142/86999
-#EXTINF:-1,AZ MAS
-http://rv.flysat.live:80/307200102142/307200102142/86998
-#EXTINF:-1,AZTECA 7
-http://rv.flysat.live:80/307200102142/307200102142/86997
-#EXTINF:-1,AZTECA CORAZON
-http://rv.flysat.live:80/307200102142/307200102142/86995
-#EXTINF:-1,AZTECA CLIC
-http://rv.flysat.live:80/307200102142/307200102142/86994
-#EXTINF:-1,CINE CANAL
-http://rv.flysat.live:80/307200102142/307200102142/86993
-#EXTINF:-1,MULTIPREMIER
-http://rv.flysat.live:80/307200102142/307200102142/86992
-#EXTINF:-1,DHE
-http://rv.flysat.live:80/307200102142/307200102142/86991
-#EXTINF:-1,WARNER CHANNEL
-http://rv.flysat.live:80/307200102142/307200102142/86990
-#EXTINF:-1,GOLDEN PREMIER
-http://rv.flysat.live:80/307200102142/307200102142/86988
-#EXTINF:-1,PARAMOUNT
-http://rv.flysat.live:80/307200102142/307200102142/86987
-#EXTINF:-1,SONY
-http://rv.flysat.live:80/307200102142/307200102142/86986
-#EXTINF:-1,SPACE
-http://rv.flysat.live:80/307200102142/307200102142/86985
-#EXTINF:-1,STUDIO UNIVERSAL
-http://rv.flysat.live:80/307200102142/307200102142/86984
-#EXTINF:-1,TCM
-http://rv.flysat.live:80/307200102142/307200102142/86983
-#EXTINF:-1,TNT SERIES
-http://rv.flysat.live:80/307200102142/307200102142/86982
-#EXTINF:-1,TNT
-http://rv.flysat.live:80/307200102142/307200102142/86981
-#EXTINF:-1,GOLDEN EDGE
-http://rv.flysat.live:80/307200102142/307200102142/86980
-#EXTINF:-1,GOLDEN
-http://rv.flysat.live:80/307200102142/307200102142/86979
-#EXTINF:-1,MAX UP
-http://rv.flysat.live:80/307200102142/307200102142/86978
-#EXTINF:-1,CINEMA DINAMITA
-http://rv.flysat.live:80/307200102142/307200102142/86976
-#EXTINF:-1,A&E
-http://rv.flysat.live:80/307200102142/307200102142/86975
-#EXTINF:-1,MASCHIC
-http://rv.flysat.live:80/307200102142/307200102142/86974
-#EXTINF:-1,DISTRITO COMEDIA
-http://rv.flysat.live:80/307200102142/307200102142/86973
-#EXTINF:-1,E! ENTERTAINMENT
-http://rv.flysat.live:80/307200102142/307200102142/86972
-#EXTINF:-1,TRU TV
-http://rv.flysat.live:80/307200102142/307200102142/86971
-#EXTINF:-1,GOURMET
-http://rv.flysat.live:80/307200102142/307200102142/86970
-#EXTINF:-1,DISNEY CHANNEL.
-http://rv.flysat.live:80/307200102142/307200102142/86968
-#EXTINF:-1,DISNEY JR
-http://rv.flysat.live:80/307200102142/307200102142/86967
-#EXTINF:-1,NICK JR
-http://rv.flysat.live:80/307200102142/307200102142/86966
-#EXTINF:-1,NICK 2
-http://rv.flysat.live:80/307200102142/307200102142/86965
-#EXTINF:-1,DISNEY XD
-http://rv.flysat.live:80/307200102142/307200102142/86964
-#EXTINF:-1,NICKELODEON
-http://rv.flysat.live:80/307200102142/307200102142/86963
-#EXTINF:-1,COMEDY CENTRAL
-http://rv.flysat.live:80/307200102142/307200102142/86962
-#EXTINF:-1,BOOMERANG
-http://rv.flysat.live:80/307200102142/307200102142/86961
-#EXTINF:-1,CANAL 11
-http://rv.flysat.live:80/307200102142/307200102142/86960
-#EXTINF:-1,CANAL 5
-http://rv.flysat.live:80/307200102142/307200102142/86959
-#EXTINF:-1,CANAL DE LAS ESTRELLAS.
-http://rv.flysat.live:80/307200102142/307200102142/86958
-#EXTINF:-1,CINE MAX
-http://rv.flysat.live:80/307200102142/307200102142/86956
-#EXTINF:-1,ONCE
-http://rv.flysat.live:80/307200102142/307200102142/86955
-#EXTINF:-1,NAT GEO
-http://rv.flysat.live:80/307200102142/307200102142/86953
-#EXTINF:-1,NAT GEO WILD
-http://rv.flysat.live:80/307200102142/307200102142/86952
-#EXTINF:-1,DISCOVERY CHANNEL
-http://rv.flysat.live:80/307200102142/307200102142/86951
-#EXTINF:-1,DISCOVERY INVESTIGATION
-http://rv.flysat.live:80/307200102142/307200102142/86950
-#EXTINF:-1,DISCOVERY HOME&HEALTH
-http://rv.flysat.live:80/307200102142/307200102142/86949
-#EXTINF:-1,DISCOVERY KIDS
-http://rv.flysat.live:80/307200102142/307200102142/86948
-#EXTINF:-1,DISCOVERY TURBO
-http://rv.flysat.live:80/307200102142/307200102142/86947
-#EXTINF:-1,DISCOVERY THEATER
-http://rv.flysat.live:80/307200102142/307200102142/86946
-#EXTINF:-1,DISCOVERY SCIENCE
-http://rv.flysat.live:80/307200102142/307200102142/86945
-#EXTINF:-1,ANIMAL PLANET
-http://rv.flysat.live:80/307200102142/307200102142/86944
-#EXTINF:-1,HISTORY
-http://rv.flysat.live:80/307200102142/307200102142/86943
-#EXTINF:-1,ID
-http://rv.flysat.live:80/307200102142/307200102142/86942
-#EXTINF:-1,H2
-http://rv.flysat.live:80/307200102142/307200102142/86941
-#EXTINF:-1,ESPN
-http://rv.flysat.live:80/307200102142/307200102142/86939
-#EXTINF:-1,ESPN 2.
-http://rv.flysat.live:80/307200102142/307200102142/86938
-#EXTINF:-1,ESPN 3
-http://rv.flysat.live:80/307200102142/307200102142/86937
-#EXTINF:-1,FOX SPORT
-http://rv.flysat.live:80/307200102142/307200102142/86936
-#EXTINF:-1,FOX SPORT 2
-http://rv.flysat.live:80/307200102142/307200102142/86935
-#EXTINF:-1,UNIVISION DEPORTES
-http://rv.flysat.live:80/307200102142/307200102142/86934
-#EXTINF:-1,CLARO SPORT 2
-http://rv.flysat.live:80/307200102142/307200102142/86933
-#EXTINF:-1,WIN SPORT HD
-http://rv.flysat.live:80/307200102142/307200102142/86932
-#EXTINF:-1,CLARO SPORT
-http://rv.flysat.live:80/307200102142/307200102142/86931
+#EXTINF:-1,24 KITCHEN
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16409
+#EXTINF:-1,24/7 Fate
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174525
+#EXTINF:-1,24/7 Hora de Aventura
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174537
+#EXTINF:-1,A&E HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8816
+#EXTINF:-1,AgroBrasil TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7320
+#EXTINF:-1,All Sports HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7321
+#EXTINF:-1,AMC HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8845
+#EXTINF:-1,ANIMAL PLANET FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8890
+#EXTINF:-1,ARTE 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8833
+#EXTINF:-1,AUTOMOTOR SPORT HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16430
+#EXTINF:-1,AXN FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8852
+#EXTINF:-1,BABY TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8922
+#EXTINF:-1,BAND 4K
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8938
+#EXTINF:-1,Band Campinas HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148401
+#EXTINF:-1,BAND NEWS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14486
+#EXTINF:-1,Band Nordeste
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174972
+#EXTINF:-1,BAND SP HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147272
+#EXTINF:-1,BAND SPORTS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8777
+#EXTINF:-1,BigBrother Brasil 21(camara 1)
+http://skylogic.site:8080/esterichannel50con/36cb6c13/275870
+#EXTINF:-1,BigBrother Brasil 21(camara 2)
+http://skylogic.site:8080/esterichannel50con/36cb6c13/275871
+#EXTINF:-1,BigBrother Brasil 21(camara 3)
+http://skylogic.site:8080/esterichannel50con/36cb6c13/275872
+#EXTINF:-1,BIS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24621
+#EXTINF:-1,boomberang
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8915
+#EXTINF:-1,BOOMERANG HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14489
+#EXTINF:-1,BULGARIA ON AIR
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194097
+#EXTINF:-1,Can
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193683
+#EXTINF:-1,Canal Brasil HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14569
+#EXTINF:-1,Canal Ricos
+http://skylogic.site:8080/esterichannel50con/36cb6c13/158485
+#EXTINF:-1,Canal Sony HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8882
+#EXTINF:-1,CANAL VIVA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14553
+#EXTINF:-1,Cartoon Network FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8913
+#EXTINF:-1,CASA E COZINHA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/275873
+#EXTINF:-1,CINE+
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7335
+#EXTINF:-1,CINEMAX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8834
 #EXTINF:-1,CNN
-http://rv.flysat.live:80/307200102142/307200102142/86929
-#EXTINF:-1,LATINOS1 HD
-http://rv.flysat.live:80/307200102142/307200102142/86927
-#EXTINF:-1,HTV
-http://rv.flysat.live:80/307200102142/307200102142/86926
-#EXTINF:-1,TUMUSICA
-http://rv.flysat.live:80/307200102142/307200102142/86925
-#EXTINF:-1,MTV
-http://rv.flysat.live:80/307200102142/307200102142/86924
-#EXTINF:-1,SUNDANCE
-http://rv.flysat.live:80/307200102142/307200102142/86923
-#EXTINF:-1,VH1
-http://rv.flysat.live:80/307200102142/307200102142/86922
+http://skylogic.site:8080/esterichannel50con/36cb6c13/225576
+#EXTINF:-1,CNN BRASIL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148404
+#EXTINF:-1,CNN Internacional
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266703
+#EXTINF:-1,COMBATE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8778
+#EXTINF:-1,COMEDY CENTRAL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8779
+#EXTINF:-1,CULTURA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14491
+#EXTINF:-1,CURTA! HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166654
+#EXTINF:-1,DIEMA FAMILY
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197086
+#EXTINF:-1,Discovery Channel FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8897
+#EXTINF:-1,Discovery Civilization HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8902
+#EXTINF:-1,Discovery H&H FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8904
+#EXTINF:-1,Discovery Kids FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8893
+#EXTINF:-1,Discovery Science HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8910
+#EXTINF:-1,Discovery THEATER FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8892
+#EXTINF:-1,Discovery TLC HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14496
+#EXTINF:-1,Discovery Turbo FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8891
+#EXTINF:-1,Discovery WORLD FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8894
+#EXTINF:-1,Disney Channel FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8895
+#EXTINF:-1,Disney JR HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8916
+#EXTINF:-1,Disney XD FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8917
+#EXTINF:-1,DJing Animation
+http://skylogic.site:8080/esterichannel50con/36cb6c13/265781
+#EXTINF:-1,DJing Dancefloor
+http://skylogic.site:8080/esterichannel50con/36cb6c13/173283
+#EXTINF:-1,DJing HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/265780
+#EXTINF:-1,DJing Live
+http://skylogic.site:8080/esterichannel50con/36cb6c13/173282
+#EXTINF:-1,DJing Music HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/173284
+#EXTINF:-1,E! HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14501
+#EXTINF:-1,EKIDS 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196532
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/43634
+#EXTINF:-1,ESPN 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8801
+#EXTINF:-1,ESPN Brasil HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/10867
+#EXTINF:-1,ESPN Extra FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8789
+#EXTINF:-1,ESPN FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8793
+#EXTINF:-1,ESPN Sport
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201924
+#EXTINF:-1,ESPNASIL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8800
+#EXTINF:-1,EUROSPORT 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16434
+#EXTINF:-1,FEN TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16415
+#EXTINF:-1,FILM & ARTS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/169537
+#EXTINF:-1,FilmBox EXTRA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16377
+#EXTINF:-1,FISH TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8848
+#EXTINF:-1,Fonte TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/275967
+#EXTINF:-1,FOOD Network FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8863
+#EXTINF:-1,FOX BRASIL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/23821
+#EXTINF:-1,FOX Crime
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16366
+#EXTINF:-1,FOX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8817
+#EXTINF:-1,FOX Life FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8818
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8819
+#EXTINF:-1,Fox Premium 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8820
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8776
+#EXTINF:-1,FOX SPORTS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8780
+#EXTINF:-1,FUTURA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7342
+#EXTINF:-1,FX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8835
+#EXTINF:-1,GLOBO AMAZONAS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14593
+#EXTINF:-1,Globo Amazônica HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36855
+#EXTINF:-1,GLOBO Brasilia HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24556
+#EXTINF:-1,GLOBO CUIABA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24555
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24554
+#EXTINF:-1,GLOBO EPTV RIBEIR
+http://skylogic.site:8080/esterichannel50con/36cb6c13/81154
+#EXTINF:-1,GLOBO EPTV Sao Carlos HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14594
+#EXTINF:-1,Globo Fortaleza HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36851
+#EXTINF:-1,Globo Goiânia HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36852
+#EXTINF:-1,Globo HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14514
+#EXTINF:-1,GLOBO INTER TV Cabugi HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147279
+#EXTINF:-1,GLOBO INTERNACIONAL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24553
+#EXTINF:-1,Globo Manaus HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148427
+#EXTINF:-1,GLOBO Minas HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24552
+#EXTINF:-1,GLOBO NEWS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14513
+#EXTINF:-1,GLOBO Nordeste HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24551
+#EXTINF:-1,Globo NSC TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201034
+#EXTINF:-1,GLOBO RBS Porto Alegre HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148423
+#EXTINF:-1,Globo RBS TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201035
+#EXTINF:-1,GLOBO RIBEIR HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/81158
+#EXTINF:-1,GLOBO Ribeirao Preto HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182186
+#EXTINF:-1,GLOBO RIO GRANDE DO NORTE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182175
+#EXTINF:-1,GLOBO RJ 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278369
+#EXTINF:-1,GLOBO RJ HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/30437
+#EXTINF:-1,Globo RPC HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/151886
+#EXTINF:-1,GLOBO SERGIPE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148424
+#EXTINF:-1,GLOBO SP EPTV RIBEIRAO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148428
+#EXTINF:-1,Globo SP FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192626
+#EXTINF:-1,GLOBO SP TV TRIBUNA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182170
+#EXTINF:-1,Globo Tribuna Santos
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24546
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14598
+#EXTINF:-1,GLOBO TV BELEM
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14599
+#EXTINF:-1,GLOBO TV cambugi
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278370
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182183
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24549
+#EXTINF:-1,Globo TV TEM SJRP
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36853
+#EXTINF:-1,Globo TV Tem Sorocaba HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14602
+#EXTINF:-1,Globo TV Tribuna
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36858
+#EXTINF:-1,GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266701
+#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278378
+#EXTINF:-1,GLOBO TV Verdes Mares Fortaleza HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148290
+#EXTINF:-1,GLOBO VERDES FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278379
+#EXTINF:-1,Globosat HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/90168
+#EXTINF:-1,GLOOB HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14605
+#EXTINF:-1,Gloobinho HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148406
+#EXTINF:-1,GNT HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8856
+#EXTINF:-1,Gospel Movies Television
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7346
+#EXTINF:-1,H2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192946
+#EXTINF:-1,HBO 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8821
+#EXTINF:-1,HBO 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16379
+#EXTINF:-1,HBO Family FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8839
+#EXTINF:-1,HBO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8822
+#EXTINF:-1,HBO MUNDI HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8837
+#EXTINF:-1,HBO PLUS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8823
+#EXTINF:-1,HBO POP HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/173434
+#EXTINF:-1,HBO Signature FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8836
+#EXTINF:-1,HBO XTREME HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8824
+#EXTINF:-1,HGTV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147274
+#EXTINF:-1,History 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14516
+#EXTINF:-1,History Channel HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8901
+#EXTINF:-1,Investgation Discovery HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/264638
+#EXTINF:-1,INVESTIGA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197085
+#EXTINF:-1,Investigation Discovery HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14529
+#EXTINF:-1,ITV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201931
+#EXTINF:-1,KINO NOVA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196530
+#EXTINF:-1,LIFE TIME FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8864
+#EXTINF:-1,MAIS Globosat HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172474
+#EXTINF:-1,MAX HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192947
+#EXTINF:-1,Max Prime HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192948
+#EXTINF:-1,MAX SPORT 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197083
+#EXTINF:-1,Max Up HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8841
+#EXTINF:-1,MEGAPIX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8842
+#EXTINF:-1,MTV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147283
+#EXTINF:-1,MTV LIVE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197990
+#EXTINF:-1,MULTISHOW FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14528
+#EXTINF:-1,MUSIC BOX BRAZIL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278696
+#EXTINF:-1,MUSIC BOXAZIL
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266702
+#EXTINF:-1,NAT GEO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14531
+#EXTINF:-1,NAT GEO Kids FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8914
+#EXTINF:-1,NAT GEO WILD FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8905
+#EXTINF:-1,Nick Junior HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8919
+#EXTINF:-1,nickelodeon FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16391
+#EXTINF:-1,OFF FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14532
+#EXTINF:-1,Paramoun Channel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278697
+#EXTINF:-1,PARAMOUNT Channel HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8859
+#EXTINF:-1,Paramount Network
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278420
+#EXTINF:-1,PFC
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201178
+#EXTINF:-1,PREMIERE 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194530
+#EXTINF:-1,Premiere 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8786
+#EXTINF:-1,Premiere 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8787
+#EXTINF:-1,PREMIERE 4 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8788
+#EXTINF:-1,PREMIERE 5 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8790
+#EXTINF:-1,Premiere 6 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8791
+#EXTINF:-1,Premiere 7
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8798
+#EXTINF:-1,Premiere 8
+http://skylogic.site:8080/esterichannel50con/36cb6c13/39869
+#EXTINF:-1,PREMIERE CLUBES HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14640
+#EXTINF:-1,PREMIERE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8785
+#EXTINF:-1,Prime Box Brazil
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193333
+#EXTINF:-1,RBA TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166057
+#EXTINF:-1,RCTV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197081
+#EXTINF:-1,RECORD Amazonas HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/39866
+#EXTINF:-1,Record Ba HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148400
+#EXTINF:-1,RECORD Campinas HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14538
+#EXTINF:-1,RECORD ESP SANTO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197214
+#EXTINF:-1,RECORD HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/10872
+#EXTINF:-1,RECORD MG HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24545
+#EXTINF:-1,RECORD NEWS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14540
+#EXTINF:-1,RECORD Nordeste HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14539
+#EXTINF:-1,Record Parana HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266704
+#EXTINF:-1,RECORD Rio de Janeiro FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182201
+#EXTINF:-1,Record RJ HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/27204
+#EXTINF:-1,RECORD RS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148407
+#EXTINF:-1,RECORD SP HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14639
+#EXTINF:-1,RECORD São Paulo HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182200
+#EXTINF:-1,RED BULL TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8792
+#EXTINF:-1,REDE BRASIL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7354
+#EXTINF:-1,REDE FAMILIA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193339
+#EXTINF:-1,Rede Gospel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193342
+#EXTINF:-1,REDE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7359
+#EXTINF:-1,REDE VIDA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147286
+#EXTINF:-1,REDE VIVA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148294
+#EXTINF:-1,Redeasil
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196525
+#EXTINF:-1,SBT Cidade Verde HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148402
+#EXTINF:-1,SBT FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7367
+#EXTINF:-1,SBT GOIAS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193340
+#EXTINF:-1,SBT Interior SP
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266705
+#EXTINF:-1,SBT NORDESTE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/199630
+#EXTINF:-1,SBT Parana
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266706
+#EXTINF:-1,SBT Rio Grande HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24541
+#EXTINF:-1,SBT RJ HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148295
+#EXTINF:-1,SBT SP
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148409
+#EXTINF:-1,SBT TV CIDADE VERDE PIAUI HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197987
+#EXTINF:-1,SBT TV Jornal HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148403
+#EXTINF:-1,SONY HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14541
+#EXTINF:-1,SPACE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14542
+#EXTINF:-1,SPOR HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/4015
+#EXTINF:-1,SPORTV 1
+http://skylogic.site:8080/esterichannel50con/36cb6c13/66355
+#EXTINF:-1,SPORTV 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8783
+#EXTINF:-1,SPORTV 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8784
+#EXTINF:-1,Star Channel HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278658
+#EXTINF:-1,Star Hits 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278661
+#EXTINF:-1,Star Hits FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278660
+#EXTINF:-1,Star LIFE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278659
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8826
+#EXTINF:-1,SUMMER TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201933
+#EXTINF:-1,SYFY HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14485
+#EXTINF:-1,TBS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14649
+#EXTINF:-1,TC Action
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193685
+#EXTINF:-1,TC Cult
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197080
+#EXTINF:-1,TC Fun
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196524
+#EXTINF:-1,TC Pipoca HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193686
+#EXTINF:-1,TCM HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8853
+#EXTINF:-1,TELECINE ACTION FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/270074
+#EXTINF:-1,TELECINE CULT HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/273228
+#EXTINF:-1,TELECINE FUN FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8831
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8830
+#EXTINF:-1,TELECINE Premium FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8829
+#EXTINF:-1,TELECINE Touch FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8828
+#EXTINF:-1,The History Channel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201925
+#EXTINF:-1,TLC HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7370
+#EXTINF:-1,TNT FILM FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278538
+#EXTINF:-1,TNT HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8840
+#EXTINF:-1,TNT Series FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8827
+#EXTINF:-1,TOONCAST HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8927
+#EXTINF:-1,TRU TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/173443
+#EXTINF:-1,TV Aparecida
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7379
+#EXTINF:-1,TV Assembl
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166063
+#EXTINF:-1,TV BNO
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201934
+#EXTINF:-1,TV Brasil
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24284
+#EXTINF:-1,TV Brasil Central
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266697
+#EXTINF:-1,TV Brasil Df
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148422
+#EXTINF:-1,TV Caruaru Pe
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148415
+#EXTINF:-1,TV Cidade Canal 9
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201936
+#EXTINF:-1,TV Cidade Verde
+http://skylogic.site:8080/esterichannel50con/36cb6c13/198238
+#EXTINF:-1,TV CULTURA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/23827
+#EXTINF:-1,TV DIARIO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/22361
+#EXTINF:-1,TV GAZETA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7391
+#EXTINF:-1,TV Geral
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266698
+#EXTINF:-1,TV Globo
+http://skylogic.site:8080/esterichannel50con/36cb6c13/46873
+#EXTINF:-1,TV Globo Premium
+http://skylogic.site:8080/esterichannel50con/36cb6c13/151874
+#EXTINF:-1,TV Novo Tempo HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7411
+#EXTINF:-1,TV PARANA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166056
+#EXTINF:-1,TV Po
+http://skylogic.site:8080/esterichannel50con/36cb6c13/152387
+#EXTINF:-1,TV Ra Tim Bum HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148405
+#EXTINF:-1,TVE BAHIA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/22364
+#EXTINF:-1,TVN Brasil
+http://skylogic.site:8080/esterichannel50con/36cb6c13/265770
+#EXTINF:-1,UNIVERSAL Channel HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7422
+#EXTINF:-1,Universp TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174519
+#EXTINF:-1,VH1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14658
+#EXTINF:-1,VH1 Mega Hits
+http://skylogic.site:8080/esterichannel50con/36cb6c13/46867
+#EXTINF:-1,VIVA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192945
+#EXTINF:-1,Warner Bros FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8825
+#EXTINF:-1,WOHOO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197078
+#EXTINF:-1,WOOHOO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14555
+#EXTINF:-1,ZOOMO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197077
+#EXTINF:-1,ZOOMOO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14661
+#EXTINF:-1,ZOOMOO KIDS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278426
