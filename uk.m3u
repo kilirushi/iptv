@@ -1,225 +1,879 @@
 #EXTM3U
-#EXTINF:-1, Sky Cinema Action HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75896
-#EXTINF:-1, Sky movies Premiere HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75868
-#EXTINF:-1, Sky Cinema Thriller HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75901
-#EXTINF:-1, Sky Movies Drama HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75867
-#EXTINF:-1, Sky Cinema Disney HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75870
-#EXTINF:-1, Sky Cinema Greats HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75897
-#EXTINF:-1, Sky Cinema Family HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75898
-#EXTINF:-1, Sky Cinema Drama HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75899
-#EXTINF:-1, Sky Cinema Sky-fi HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75900
-#EXTINF:-1, Sky Cinema Premiere HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75902
-#EXTINF:-1, Sony Movies Action
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75953
-#EXTINF:-1, Sony Movies Action+1
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75954
-#EXTINF:-1,UK : SYFY
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75911
-#EXTINF:-1, Sony Movies +1
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75955
-#EXTINF:-1,BOX OFFICE 1 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111288
-#EXTINF:-1,BOX OFFICE 2 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111289
-#EXTINF:-1,BOX OFFICE 3 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111290
-#EXTINF:-1,BOX OFFICE 4 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111291
-#EXTINF:-1,BOX OFFICE 5 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111292
-#EXTINF:-1,BOX OFFICE 6 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111293
-#EXTINF:-1,BOX OFFICE 7 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111294
-#EXTINF:-1,BOX OFFICE 8 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111295
-#EXTINF:-1,BOX OFFICE 9 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111296
-#EXTINF:-1,BOX OFFICE 10 UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/111297
-#EXTINF:-1, SKY SPORTS FOOTBALL
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75863
-#EXTINF:-1, SKY SPORTS MAIN EVENT
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75862
-#EXTINF:-1, SKY SPORTS GOLF
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75857
-#EXTINF:-1, SKY SPORTS CRICKET
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75858
-#EXTINF:-1, Sky-Sports-F1
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75864
-#EXTINF:-1, SKY SPORTS ACTION
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75865
-#EXTINF:-1, Sky-Sports-Mix
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75866
-#EXTINF:-1, SONY MOVIES
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75914
-#EXTINF:-1,UK : Gold
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75916
-#EXTINF:-1,UK : H2 HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75935
-#EXTINF:-1,UK :ITV 1 HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75936
-#EXTINF:-1,UK : ITV 3 HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75937
-#EXTINF:-1,UK : WWE_Network
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75938
-#EXTINF:-1, UFC_24/7
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75906
-#EXTINF:-1, Yesterday
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75871
+#EXTINF:-1,BBC One UHD
+http://pulsestreamstv.uk:8080/66666/66666/31136
+#EXTINF:-1,BBC One HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54408
+#EXTINF:-1,BBC Two UHD
+http://pulsestreamstv.uk:8080/66666/66666/31033
+#EXTINF:-1,BBC Two HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54409
+#EXTINF:-1,BBC Three UHD
+http://pulsestreamstv.uk:8080/66666/66666/31114
+#EXTINF:-1,BBC Parliament UHD
+http://pulsestreamstv.uk:8080/66666/66666/31112
+#EXTINF:-1,BBC Entertainment HD
+http://pulsestreamstv.uk:8080/66666/66666/31111
+#EXTINF:-1,BBC Earth UHD
+http://pulsestreamstv.uk:8080/66666/66666/43234
+#EXTINF:-1, BBC Four UHD
+http://pulsestreamstv.uk:8080/66666/66666/57
+#EXTINF:-1,ITV 1 UHD
+http://pulsestreamstv.uk:8080/66666/66666/90
+#EXTINF:-1,ITV 1 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54410
+#EXTINF:-1,ITV 2 UHD
+http://pulsestreamstv.uk:8080/66666/66666/91
+#EXTINF:-1,ITV 2 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54411
+#EXTINF:-1,ITV 3 UHD
+http://pulsestreamstv.uk:8080/66666/66666/92
+#EXTINF:-1,ITV 3 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54412
+#EXTINF:-1,ITV 4 UHD
+http://pulsestreamstv.uk:8080/66666/66666/93
+#EXTINF:-1,ITV 4 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54413
+#EXTINF:-1,ITV Be UHD
+http://pulsestreamstv.uk:8080/66666/66666/94
+#EXTINF:-1,Channel 4 UHD
+http://pulsestreamstv.uk:8080/66666/66666/70
+#EXTINF:-1,Channel 4 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54414
+#EXTINF:-1,4 Seven UHD
+http://pulsestreamstv.uk:8080/66666/66666/46
+#EXTINF:-1,4 Seven HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54416
+#EXTINF:-1,More 4 UHD
+http://pulsestreamstv.uk:8080/66666/66666/97
+#EXTINF:-1,More 4 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54417
+#EXTINF:-1,E4 UHD
+http://pulsestreamstv.uk:8080/66666/66666/81
+#EXTINF:-1,E4 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54430
+#EXTINF:-1,Film 4 UHD
+http://pulsestreamstv.uk:8080/66666/66666/31048
+#EXTINF:-1,Film 4 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54418
+#EXTINF:-1,Channel 5 UHD
+http://pulsestreamstv.uk:8080/66666/66666/115
+#EXTINF:-1,Channel 5 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54419
+#EXTINF:-1,5 Star UHD
+http://pulsestreamstv.uk:8080/66666/66666/86
+#EXTINF:-1,5 Star HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54420
+#EXTINF:-1,5 USA HD
+http://pulsestreamstv.uk:8080/66666/66666/31101
+#EXTINF:-1,5 USA HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54421
+#EXTINF:-1,Alibi HD
+http://pulsestreamstv.uk:8080/66666/66666/109
+#EXTINF:-1,Alibi HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54422
+#EXTINF:-1,Bet HD
+http://pulsestreamstv.uk:8080/66666/66666/110
+#EXTINF:-1,Bet HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54423
+#EXTINF:-1, Blaze HD
+http://pulsestreamstv.uk:8080/66666/66666/107
+#EXTINF:-1, CBS Drama HD
+http://pulsestreamstv.uk:8080/66666/66666/67
+#EXTINF:-1,CBS Justice HD
+http://pulsestreamstv.uk:8080/66666/66666/111
+#EXTINF:-1,CBS Reality HD
+http://pulsestreamstv.uk:8080/66666/66666/113
+#EXTINF:-1, Challenge HD
+http://pulsestreamstv.uk:8080/66666/66666/105
+#EXTINF:-1,Challenge HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54424
+#EXTINF:-1,CNBC HD
+http://pulsestreamstv.uk:8080/66666/66666/23269
+#EXTINF:-1,Comedy Central HD
+http://pulsestreamstv.uk:8080/66666/66666/62
+#EXTINF:-1,Comedy Central HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54425
+#EXTINF:-1,Comedy Central Extra HD
+http://pulsestreamstv.uk:8080/66666/66666/54426
+#EXTINF:-1,Dave HD
+http://pulsestreamstv.uk:8080/66666/66666/74
+#EXTINF:-1,Dave HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54427
+#EXTINF:-1,DMAX HD
+http://pulsestreamstv.uk:8080/66666/66666/65
+#EXTINF:-1,Drama HD
+http://pulsestreamstv.uk:8080/66666/66666/66
+#EXTINF:-1,Drama HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54428
+#EXTINF:-1,E! Entertainment HD
+http://pulsestreamstv.uk:8080/66666/66666/119
+#EXTINF:-1,E! Entertainment HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54429
+#EXTINF:-1,Eden HD
+http://pulsestreamstv.uk:8080/66666/66666/63
+#EXTINF:-1,Eden HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54431
+#EXTINF:-1,Food Network HD
+http://pulsestreamstv.uk:8080/66666/66666/124
+#EXTINF:-1,Fox HD
+http://pulsestreamstv.uk:8080/66666/66666/31052
+#EXTINF:-1,Gold HD
+http://pulsestreamstv.uk:8080/66666/66666/125
+#EXTINF:-1,Gold HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54432
+#EXTINF:-1,HGTV HD
+http://pulsestreamstv.uk:8080/66666/66666/170324
+#EXTINF:-1,Hillsong 
+http://pulsestreamstv.uk:8080/66666/66666/180716
+#EXTINF:-1,Home HD
+http://pulsestreamstv.uk:8080/66666/66666/31148
+#EXTINF:-1,Horror Channel HD
+http://pulsestreamstv.uk:8080/66666/66666/127
+#EXTINF:-1,Insight TV HD
+http://pulsestreamstv.uk:8080/66666/66666/128
 #EXTINF:-1,MTV HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75894
-#EXTINF:-1, Nat Geo
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75895
-#EXTINF:-1, Together
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75905
-#EXTINF:-1, TLC
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75908
-#EXTINF:-1, Really
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75909
-#EXTINF:-1,The_Box
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75926
-#EXTINF:-1,UK : RT Documentary HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75929
+http://pulsestreamstv.uk:8080/66666/66666/31163
+#EXTINF:-1,MTV Base HD
+http://pulsestreamstv.uk:8080/66666/66666/31165
+#EXTINF:-1,MTV Classic HD
+http://pulsestreamstv.uk:8080/66666/66666/31167
+#EXTINF:-1,MTV Hits HD
+http://pulsestreamstv.uk:8080/66666/66666/31169
+#EXTINF:-1,MTV Music HD
+http://pulsestreamstv.uk:8080/66666/66666/31171
+#EXTINF:-1,MTV Rocks HD
+http://pulsestreamstv.uk:8080/66666/66666/31172
+#EXTINF:-1,MTV One HD
+http://pulsestreamstv.uk:8080/66666/66666/45292
+#EXTINF:-1,Keep It Country TV HD
+http://pulsestreamstv.uk:8080/66666/66666/31040
+#EXTINF:-1,Clubland TV HD
+http://pulsestreamstv.uk:8080/66666/66666/45306
+#EXTINF:-1,Kiss TV HD
+http://pulsestreamstv.uk:8080/66666/66666/45280
+#EXTINF:-1,The Box HD
+http://pulsestreamstv.uk:8080/66666/66666/45295
+#EXTINF:-1,Box Hits HD
+http://pulsestreamstv.uk:8080/66666/66666/45297
+#EXTINF:-1,NOW 80's
+http://pulsestreamstv.uk:8080/66666/66666/45299
+#EXTINF:-1,Now 90's HD
+http://pulsestreamstv.uk:8080/66666/66666/45300
+#EXTINF:-1,Trace Vault HD
+http://pulsestreamstv.uk:8080/66666/66666/45294
+#EXTINF:-1,Lifetime HD
+http://pulsestreamstv.uk:8080/66666/66666/129
+#EXTINF:-1,Lifetime HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54433
+#EXTINF:-1,London Live HD
+http://pulsestreamstv.uk:8080/66666/66666/31159
+#EXTINF:-1,Paramount HD
+http://pulsestreamstv.uk:8080/66666/66666/100
+#EXTINF:-1,Pick TV HD
+http://pulsestreamstv.uk:8080/66666/66666/98
+#EXTINF:-1,Magic TV HD
+http://pulsestreamstv.uk:8080/66666/66666/31161
+#EXTINF:-1,Quest HD
+http://pulsestreamstv.uk:8080/66666/66666/101
+#EXTINF:-1,QUEST HD(BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/140482
+#EXTINF:-1,Quest Red HD
+http://pulsestreamstv.uk:8080/66666/66666/130
+#EXTINF:-1,QVC HD
+http://pulsestreamstv.uk:8080/66666/66666/31184
+#EXTINF:-1,QVC Extra HD
+http://pulsestreamstv.uk:8080/66666/66666/31186
+#EXTINF:-1,QVC Style HD
+http://pulsestreamstv.uk:8080/66666/66666/31188
+#EXTINF:-1,QVC Beauty HD
+http://pulsestreamstv.uk:8080/66666/66666/31185
+#EXTINF:-1,Sony TV HD
+http://pulsestreamstv.uk:8080/66666/66666/37682
+#EXTINF:-1,Sony TV HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54437
+#EXTINF:-1,SyFy HD
+http://pulsestreamstv.uk:8080/66666/66666/31196
+#EXTINF:-1,SyFy HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54438
+#EXTINF:-1,TALKING PICTURES
+http://pulsestreamstv.uk:8080/66666/66666/141552
+#EXTINF:-1,TCM HD
+http://pulsestreamstv.uk:8080/66666/66666/23261
+#EXTINF:-1,TCM HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/54439
+#EXTINF:-1,Travel Channel HD
+http://pulsestreamstv.uk:8080/66666/66666/31204
+#EXTINF:-1,Travel Channel HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54440
+#EXTINF:-1,TLC HD
+http://pulsestreamstv.uk:8080/66666/66666/31202
+#EXTINF:-1,TLC HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/140483
+#EXTINF:-1,Universal HD
+http://pulsestreamstv.uk:8080/66666/66666/106
+#EXTINF:-1,W HD
+http://pulsestreamstv.uk:8080/66666/66666/69
+#EXTINF:-1,Yesterday HD
+http://pulsestreamstv.uk:8080/66666/66666/82
+#EXTINF:-1,AMC HD
+http://pulsestreamstv.uk:8080/66666/66666/31109
+#EXTINF:-1,Sky One HD 
+http://pulsestreamstv.uk:8080/66666/66666/76
+#EXTINF:-1,Sky One HD Backup
+http://pulsestreamstv.uk:8080/66666/66666/101039
+#EXTINF:-1,Sky Atlantic HD
+http://pulsestreamstv.uk:8080/66666/66666/84
+#EXTINF:-1,Sky Atlantic HD Backup
+http://pulsestreamstv.uk:8080/66666/66666/54441
+#EXTINF:-1,Sky Arts HD
+http://pulsestreamstv.uk:8080/66666/66666/78
+#EXTINF:-1,Sky Arts HD Backup
+http://pulsestreamstv.uk:8080/66666/66666/54436
+#EXTINF:-1,Sky Comedy FHD
+http://pulsestreamstv.uk:8080/66666/66666/141445
+#EXTINF:-1,Sky Comedy HD
+http://pulsestreamstv.uk:8080/66666/66666/141444
+#EXTINF:-1,Sky Replay HD
+http://pulsestreamstv.uk:8080/66666/66666/77
+#EXTINF:-1,Sky Replay HD Backup (Coming Soon)
+http://pulsestreamstv.uk:8080/66666/66666/54435
+#EXTINF:-1,Virgin Media One HD
+http://pulsestreamstv.uk:8080/66666/66666/30312
+#EXTINF:-1,Virgin Media Two HD
+http://pulsestreamstv.uk:8080/66666/66666/37710
+#EXTINF:-1,Virgin Media Three HD
+http://pulsestreamstv.uk:8080/66666/66666/30314
+#EXTINF:-1,Ginx Gaming Channel HD
+http://pulsestreamstv.uk:8080/66666/66666/34291
+#EXTINF:-1,Sky Cinema Animation HD
+http://pulsestreamstv.uk:8080/66666/66666/59547
+#EXTINF:-1,Sky Cinema Animation
+http://pulsestreamstv.uk:8080/66666/66666/214432
+#EXTINF:-1,Sky Cinema Premiere HD
+http://pulsestreamstv.uk:8080/66666/66666/33899
+#EXTINF:-1,Sky Cinema Premiere FHD
+http://pulsestreamstv.uk:8080/66666/66666/214438
+#EXTINF:-1,Sky Cinema Premiere HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54449
+#EXTINF:-1,Sky Cinema Action HD
+http://pulsestreamstv.uk:8080/66666/66666/31
+#EXTINF:-1,Sky Cinema Action FHD
+http://pulsestreamstv.uk:8080/66666/66666/214433
+#EXTINF:-1,Sky Cinema Action HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54443
+#EXTINF:-1,Sky Cinema Comedy HD
+http://pulsestreamstv.uk:8080/66666/66666/28
+#EXTINF:-1,Sky Cinema Comedy UHD
+http://pulsestreamstv.uk:8080/66666/66666/214434
+#EXTINF:-1,Sky Cinema Comedy HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54444
+#EXTINF:-1,Sky Cinema Drama HD
+http://pulsestreamstv.uk:8080/66666/66666/39
+#EXTINF:-1,Sky Cinema Drama HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54446
+#EXTINF:-1,Sky Cinema Family HD
+http://pulsestreamstv.uk:8080/66666/66666/33
+#EXTINF:-1,Sky Cinema Family FHD
+http://pulsestreamstv.uk:8080/66666/66666/214435
+#EXTINF:-1,Sky Cinema Family HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54447
+#EXTINF:-1,Sky Cinema Greats HD
+http://pulsestreamstv.uk:8080/66666/66666/33897
+#EXTINF:-1,Sky Cinema Greats FHD
+http://pulsestreamstv.uk:8080/66666/66666/214436
+#EXTINF:-1,Sky Cinema Greats HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54448
+#EXTINF:-1,Sky Cinema Hits HD
+http://pulsestreamstv.uk:8080/66666/66666/36901
+#EXTINF:-1,Sky Cinema Hits FHD
+http://pulsestreamstv.uk:8080/66666/66666/214437
+#EXTINF:-1,Sky Cinema Hits HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54442
+#EXTINF:-1,Sky Cinema Select HD
+http://pulsestreamstv.uk:8080/66666/66666/33900
+#EXTINF:-1,Sky Cinema Select FHD
+http://pulsestreamstv.uk:8080/66666/66666/214439
+#EXTINF:-1,Sky Cinema Select HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54451
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://pulsestreamstv.uk:8080/66666/66666/33898
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54450
+#EXTINF:-1,Sky Cinema Thriller HD
+http://pulsestreamstv.uk:8080/66666/66666/33901
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://pulsestreamstv.uk:8080/66666/66666/214440
+#EXTINF:-1,Sky Cinema Thriller HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54452
+#EXTINF:-1,BOX OFFICE 1 HD
+http://pulsestreamstv.uk:8080/66666/66666/30302
+#EXTINF:-1,BOX OFFICE 2 HD
+http://pulsestreamstv.uk:8080/66666/66666/30304
+#EXTINF:-1,BOX OFFICE 3 HD 
+http://pulsestreamstv.uk:8080/66666/66666/30306
+#EXTINF:-1,BOX OFFICE 4 HD
+http://pulsestreamstv.uk:8080/66666/66666/30308
+#EXTINF:-1,BOX OFFICE 5 HD
+http://pulsestreamstv.uk:8080/66666/66666/30310
+#EXTINF:-1,BOX OFFICE 6 HD
+http://pulsestreamstv.uk:8080/66666/66666/30307
+#EXTINF:-1,BOX OFFICE 7 HD
+http://pulsestreamstv.uk:8080/66666/66666/30309
+#EXTINF:-1,BOX OFFICE 8 HD 
+http://pulsestreamstv.uk:8080/66666/66666/30311
+#EXTINF:-1,BOX OFFICE 10 HD
+http://pulsestreamstv.uk:8080/66666/66666/30303
+#EXTINF:-1,Animal Planet HD
+http://pulsestreamstv.uk:8080/66666/66666/34293
+#EXTINF:-1,Animal Planet HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54454
+#EXTINF:-1,Crime & Investigation HD
+http://pulsestreamstv.uk:8080/66666/66666/6
+#EXTINF:-1,Crime & Investigation HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54453
+#EXTINF:-1,Discovery Channel HD
+http://pulsestreamstv.uk:8080/66666/66666/33884
+#EXTINF:-1,Discovery Channel HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54455
+#EXTINF:-1,Discovery History HD
+http://pulsestreamstv.uk:8080/66666/66666/33885
+#EXTINF:-1,Discovery History HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54456
+#EXTINF:-1,Discovery Science HD
+http://pulsestreamstv.uk:8080/66666/66666/33887
+#EXTINF:-1,Discovery Science HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54457
+#EXTINF:-1,Discovery Turbo HD
+http://pulsestreamstv.uk:8080/66666/66666/11
+#EXTINF:-1,Discovery Turbo HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54459
+#EXTINF:-1,History HD
+http://pulsestreamstv.uk:8080/66666/66666/33891
+#EXTINF:-1,History HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/4
+#EXTINF:-1,History 2 HD
+http://pulsestreamstv.uk:8080/66666/66666/33890
+#EXTINF:-1,History 2 HD (BACKUP)
+http://pulsestreamstv.uk:8080/66666/66666/144509
+#EXTINF:-1,ID HD
+http://pulsestreamstv.uk:8080/66666/66666/31153
+#EXTINF:-1,National Geographic HD
+http://pulsestreamstv.uk:8080/66666/66666/3
+#EXTINF:-1,National Geographic HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/59548
+#EXTINF:-1,Nat Geo Wild HD
+http://pulsestreamstv.uk:8080/66666/66666/33893
+#EXTINF:-1,Nat Geo Wild HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/54460
+#EXTINF:-1,Sky Crime HD
+http://pulsestreamstv.uk:8080/66666/66666/45232
+#EXTINF:-1,Sky Crime HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/59546
+#EXTINF:-1,Sky Documentaries HD
+http://pulsestreamstv.uk:8080/66666/66666/49699
+#EXTINF:-1,SKY DOCUMENTARIES BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/198597
+#EXTINF:-1,Sky Nature HD
+http://pulsestreamstv.uk:8080/66666/66666/43249
+#EXTINF:-1,SKY Witness HD
+http://pulsestreamstv.uk:8080/66666/66666/48665
+#EXTINF:-1,BBC One Northern Ireland
+http://pulsestreamstv.uk:8080/66666/66666/85502
+#EXTINF:-1,RTE One HD
+http://pulsestreamstv.uk:8080/66666/66666/54502
+#EXTINF:-1,RTE One HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/31126
+#EXTINF:-1,RTE Two HD 
+http://pulsestreamstv.uk:8080/66666/66666/31127
+#EXTINF:-1,RTE Two HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/118621
+#EXTINF:-1,RTE News Now HD
+http://pulsestreamstv.uk:8080/66666/66666/54501
+#EXTINF:-1,RTE JR HD
+http://pulsestreamstv.uk:8080/66666/66666/54503
+#EXTINF:-1,TG4 HD
+http://pulsestreamstv.uk:8080/66666/66666/99
+#EXTINF:-1,TG4 HD BACKUP
+http://pulsestreamstv.uk:8080/66666/66666/37155
+#EXTINF:-1,Virgin Media ONE HD (Ireland)
+http://pulsestreamstv.uk:8080/66666/66666/55418
+#EXTINF:-1,Virgin Media TWO HD (Ireland)
+http://pulsestreamstv.uk:8080/66666/66666/55419
+#EXTINF:-1,Virgin Media THREE HD (Ireland)
+http://pulsestreamstv.uk:8080/66666/66666/55420
+#EXTINF:-1,UTV HD
+http://pulsestreamstv.uk:8080/66666/66666/102216
+#EXTINF:-1,92 News
+http://pulsestreamstv.uk:8080/66666/66666/110935
+#EXTINF:-1,& Tv
+http://pulsestreamstv.uk:8080/66666/66666/110908
+#EXTINF:-1,AajTak News
+http://pulsestreamstv.uk:8080/66666/66666/110938
+#EXTINF:-1,Aastha
+http://pulsestreamstv.uk:8080/66666/66666/110946
+#EXTINF:-1,Ahlulbayt Tv
+http://pulsestreamstv.uk:8080/66666/66666/110945
+#EXTINF:-1,Ary Family
+http://pulsestreamstv.uk:8080/66666/66666/110919
+#EXTINF:-1,Ary Qtv
+http://pulsestreamstv.uk:8080/66666/66666/110939
+#EXTINF:-1,Ary World
+http://pulsestreamstv.uk:8080/66666/66666/110934
+#EXTINF:-1,B4u Movies
+http://pulsestreamstv.uk:8080/66666/66666/110914
+#EXTINF:-1,B4u Music
+http://pulsestreamstv.uk:8080/66666/66666/110917
+#EXTINF:-1,Brit Asia
+http://pulsestreamstv.uk:8080/66666/66666/110918
+#EXTINF:-1,Channel 44
+http://pulsestreamstv.uk:8080/66666/66666/110933
+#EXTINF:-1,Color TV
+http://pulsestreamstv.uk:8080/66666/66666/110907
+#EXTINF:-1,Colors CinePlex
+http://pulsestreamstv.uk:8080/66666/66666/110913
+#EXTINF:-1,Colors Rishtey Europe
+http://pulsestreamstv.uk:8080/66666/66666/110909
+#EXTINF:-1,Duniya News
+http://pulsestreamstv.uk:8080/66666/66666/110931
+#EXTINF:-1,Geo Tv
+http://pulsestreamstv.uk:8080/66666/66666/110925
+#EXTINF:-1,Geo Kahani
+http://pulsestreamstv.uk:8080/66666/66666/110926
+#EXTINF:-1,Geo News
+http://pulsestreamstv.uk:8080/66666/66666/110930
+#EXTINF:-1,Hidayat Tv
+http://pulsestreamstv.uk:8080/66666/66666/110944
+#EXTINF:-1,Hum Tv
+http://pulsestreamstv.uk:8080/66666/66666/110927
+#EXTINF:-1,Hum Masala
+http://pulsestreamstv.uk:8080/66666/66666/110928
+#EXTINF:-1,KTV
+http://pulsestreamstv.uk:8080/66666/66666/110922
+#EXTINF:-1,Madni Channel
+http://pulsestreamstv.uk:8080/66666/66666/110941
+#EXTINF:-1,News One PK
+http://pulsestreamstv.uk:8080/66666/66666/110911
+#EXTINF:-1,Noor Tv
+http://pulsestreamstv.uk:8080/66666/66666/110943
+#EXTINF:-1,Peace Tv Urdu
+http://pulsestreamstv.uk:8080/66666/66666/110942
+#EXTINF:-1,Ptc Punjabi
+http://pulsestreamstv.uk:8080/66666/66666/110923
+#EXTINF:-1,Ptv Global
+http://pulsestreamstv.uk:8080/66666/66666/110929
+#EXTINF:-1,Ptv News
+http://pulsestreamstv.uk:8080/66666/66666/110936
+#EXTINF:-1,Sikh Channel
+http://pulsestreamstv.uk:8080/66666/66666/110920
+#EXTINF:-1,Sony Sab
+http://pulsestreamstv.uk:8080/66666/66666/110910
+#EXTINF:-1,Sony Max 2
+http://pulsestreamstv.uk:8080/66666/66666/110915
+#EXTINF:-1,Sangat Tv
+http://pulsestreamstv.uk:8080/66666/66666/110921
+#EXTINF:-1,Samaa News
+http://pulsestreamstv.uk:8080/66666/66666/110932
+#EXTINF:-1,Takbeer TV
+http://pulsestreamstv.uk:8080/66666/66666/110940
+#EXTINF:-1,Zee TV
+http://pulsestreamstv.uk:8080/66666/66666/110906
+#EXTINF:-1,Zee cinema
+http://pulsestreamstv.uk:8080/66666/66666/110912
+#EXTINF:-1,Zee Music
+http://pulsestreamstv.uk:8080/66666/66666/110937
+#EXTINF:-1,Zing Music
+http://pulsestreamstv.uk:8080/66666/66666/110916
+#EXTINF:-1,BBC ONE CAMBRIDGE
+http://pulsestreamstv.uk:8080/66666/66666/65495
+#EXTINF:-1,BBC ONE CHANNEL ISLANDS
+http://pulsestreamstv.uk:8080/66666/66666/65496
+#EXTINF:-1,BBC ONE EAST
+http://pulsestreamstv.uk:8080/66666/66666/65497
+#EXTINF:-1,BBC ONE EAST MIDLANDS
+http://pulsestreamstv.uk:8080/66666/66666/65498
+#EXTINF:-1,BBC ONE LONDON
+http://pulsestreamstv.uk:8080/66666/66666/65499
+#EXTINF:-1,BBC ONE NORTH EAST & CUMBRIA
+http://pulsestreamstv.uk:8080/66666/66666/65500
+#EXTINF:-1,BBC ONE NORTH WEST
+http://pulsestreamstv.uk:8080/66666/66666/65501
+#EXTINF:-1,BBC ONE OXFORD
+http://pulsestreamstv.uk:8080/66666/66666/65502
+#EXTINF:-1,BBC ONE NORTHERN IRELAND
+http://pulsestreamstv.uk:8080/66666/66666/101099
+#EXTINF:-1,BBC ONE SCOTLAND
+http://pulsestreamstv.uk:8080/66666/66666/65503
+#EXTINF:-1,BBC ONE SCOTLAND
+http://pulsestreamstv.uk:8080/66666/66666/155511
+#EXTINF:-1,BBC ONE SOUTH
+http://pulsestreamstv.uk:8080/66666/66666/65504
+#EXTINF:-1,BBC One SOUTH EAST
+http://pulsestreamstv.uk:8080/66666/66666/65505
+#EXTINF:-1,BBC ONE SOUTH WEST
+http://pulsestreamstv.uk:8080/66666/66666/65506
+#EXTINF:-1,BBC ONE WALES
+http://pulsestreamstv.uk:8080/66666/66666/65507
+#EXTINF:-1,BBC ONE WEST
+http://pulsestreamstv.uk:8080/66666/66666/65508
+#EXTINF:-1,BBC ONE WEST MIDLANDS
+http://pulsestreamstv.uk:8080/66666/66666/65509
+#EXTINF:-1,BBC ONE YORK
+http://pulsestreamstv.uk:8080/66666/66666/65510
+#EXTINF:-1,BBC ONE YORKSHIRE & LINCOLNSHIRE
+http://pulsestreamstv.uk:8080/66666/66666/65511
+#EXTINF:-1,BBC PARLIAMENT
+http://pulsestreamstv.uk:8080/66666/66666/65513
+#EXTINF:-1,BBC RED BUTTON 1
+http://pulsestreamstv.uk:8080/66666/66666/65514
+#EXTINF:-1,BBC TWO ENGLAND
+http://pulsestreamstv.uk:8080/66666/66666/65516
+#EXTINF:-1,BBC TWO NORTHEN IRELAND
+http://pulsestreamstv.uk:8080/66666/66666/65518
+#EXTINF:-1,BBC TWO SCOTLAND
+http://pulsestreamstv.uk:8080/66666/66666/65520
+#EXTINF:-1,BBC TWO WALES
+http://pulsestreamstv.uk:8080/66666/66666/65522
+#EXTINF:-1,ITV 1 ANGLIA EAST
+http://pulsestreamstv.uk:8080/66666/66666/65523
+#EXTINF:-1,ITV 1 ANGLIA WEST
+http://pulsestreamstv.uk:8080/66666/66666/65524
+#EXTINF:-1,ITV 1 CENTRAL EAST
+http://pulsestreamstv.uk:8080/66666/66666/65526
+#EXTINF:-1,ITV 1 CENTRAL WEST
+http://pulsestreamstv.uk:8080/66666/66666/65528
+#EXTINF:-1,ITV 1 GRANADA
+http://pulsestreamstv.uk:8080/66666/66666/65530
+#EXTINF:-1,ITV 1 MERIDIAN EAST
+http://pulsestreamstv.uk:8080/66666/66666/65531
+#EXTINF:-1,ITV 1 MERIDIAN TV NORTH
+http://pulsestreamstv.uk:8080/66666/66666/65533
+#EXTINF:-1,ITV 1 MERIDIAN TV SOUTH
+http://pulsestreamstv.uk:8080/66666/66666/65535
+#EXTINF:-1,ITV 1 TYNE TEES TV NORTH
+http://pulsestreamstv.uk:8080/66666/66666/65537
+#EXTINF:-1,ITV 1 WALES
+http://pulsestreamstv.uk:8080/66666/66666/65539
+#EXTINF:-1,ITV 1 WESTCOUNTRY SOUTH WEST
+http://pulsestreamstv.uk:8080/66666/66666/65540
+#EXTINF:-1,ITV 1 WESTCOUNTRY WEST
+http://pulsestreamstv.uk:8080/66666/66666/65542
+#EXTINF:-1,ITV 1 YORKSHIRE TV EAST
+http://pulsestreamstv.uk:8080/66666/66666/65544
+#EXTINF:-1,ITV 1 YORKSHIRE WEST
+http://pulsestreamstv.uk:8080/66666/66666/65545
+#EXTINF:-1,ITV BORDER
+http://pulsestreamstv.uk:8080/66666/66666/65547
+#EXTINF:-1,ITV TV
+http://pulsestreamstv.uk:8080/66666/66666/65549
+#EXTINF:-1,ITV WALES
+http://pulsestreamstv.uk:8080/66666/66666/65551
+#EXTINF:-1,CHANNEL 4 MIDLANDS
+http://pulsestreamstv.uk:8080/66666/66666/65553
+#EXTINF:-1,CHANNEL 4 NORTH
+http://pulsestreamstv.uk:8080/66666/66666/65554
+#EXTINF:-1,CHANNEL 4 NORTH 1
+http://pulsestreamstv.uk:8080/66666/66666/65556
+#EXTINF:-1,CHANNEL 4 NORTHEN IRELAND
+http://pulsestreamstv.uk:8080/66666/66666/65558
+#EXTINF:-1,CHANNEL 4 SCOTLAND
+http://pulsestreamstv.uk:8080/66666/66666/65560
+#EXTINF:-1,CHANNEL 4 SOUTH AND EAST
+http://pulsestreamstv.uk:8080/66666/66666/65561
+#EXTINF:-1,STV
+http://pulsestreamstv.uk:8080/66666/66666/101093
+#EXTINF:-1,STV CENTRAL WEST
+http://pulsestreamstv.uk:8080/66666/66666/101094
+#EXTINF:-1,STV NORTH
+http://pulsestreamstv.uk:8080/66666/66666/101095
+#EXTINF:-1,SKY CINEMA PREMIERE SD
+http://pulsestreamstv.uk:8080/66666/66666/105844
+#EXTINF:-1,SKY CINEMA ANIMATION SD
+http://pulsestreamstv.uk:8080/66666/66666/136362
+#EXTINF:-1,SKY CINEMA ACTION SD
+http://pulsestreamstv.uk:8080/66666/66666/105838
+#EXTINF:-1,SKY CINEMA COMEDY SD
+http://pulsestreamstv.uk:8080/66666/66666/105839
+#EXTINF:-1,SKY CINEMA DRAMA SD
+http://pulsestreamstv.uk:8080/66666/66666/105837
+#EXTINF:-1,SKY CINEMA FAMILY SD
+http://pulsestreamstv.uk:8080/66666/66666/105841
+#EXTINF:-1,SKY CINEMA GREATS SD
+http://pulsestreamstv.uk:8080/66666/66666/105842
+#EXTINF:-1,SKY CINEMA HITS SD
+http://pulsestreamstv.uk:8080/66666/66666/105843
+#EXTINF:-1,SKY CINEMA SELECT  SD
+http://pulsestreamstv.uk:8080/66666/66666/136361
+#EXTINF:-1,SKY CINEMA SCI-FI & HORROR SD
+http://pulsestreamstv.uk:8080/66666/66666/105845
+#EXTINF:-1,SKY CINEMA THRILLER SD
+http://pulsestreamstv.uk:8080/66666/66666/105836
+#EXTINF:-1,4 MUSIC
+http://pulsestreamstv.uk:8080/66666/66666/128407
+#EXTINF:-1,NOW 70's
+http://pulsestreamstv.uk:8080/66666/66666/142078
+#EXTINF:-1,NOW MUSIC 
+http://pulsestreamstv.uk:8080/66666/66666/142079
+#EXTINF:-1,Horse & Country UK
+http://pulsestreamstv.uk:8080/66666/66666/156619
+#EXTINF:-1,MTV 90's
+http://pulsestreamstv.uk:8080/66666/66666/157631
+#EXTINF:-1,ITV1+1
+http://pulsestreamstv.uk:8080/66666/66666/65589
+#EXTINF:-1,ITV2+1
+http://pulsestreamstv.uk:8080/66666/66666/65590
+#EXTINF:-1,ITV 3+1
+http://pulsestreamstv.uk:8080/66666/66666/65591
+#EXTINF:-1,ITV4+1
+http://pulsestreamstv.uk:8080/66666/66666/65592
+#EXTINF:-1,ITV BE+1
+http://pulsestreamstv.uk:8080/66666/66666/65593
+#EXTINF:-1,CHANNEL 4+1
+http://pulsestreamstv.uk:8080/66666/66666/138101
+#EXTINF:-1,E4+1
+http://pulsestreamstv.uk:8080/66666/66666/65595
+#EXTINF:-1,MORE4+1
+http://pulsestreamstv.uk:8080/66666/66666/65594
+#EXTINF:-1,FILM4+1
+http://pulsestreamstv.uk:8080/66666/66666/65596
+#EXTINF:-1,Film4 +1
+http://pulsestreamstv.uk:8080/66666/66666/161148
+#EXTINF:-1,CHANNEL 5+1
+http://pulsestreamstv.uk:8080/66666/66666/65597
+#EXTINF:-1,Channel 5 +1
+http://pulsestreamstv.uk:8080/66666/66666/161113
+#EXTINF:-1,5STAR+1
+http://pulsestreamstv.uk:8080/66666/66666/65599
+#EXTINF:-1,5 Star+1
+http://pulsestreamstv.uk:8080/66666/66666/161115
+#EXTINF:-1,5USA+1
+http://pulsestreamstv.uk:8080/66666/66666/65600
+#EXTINF:-1,5USA +1
+http://pulsestreamstv.uk:8080/66666/66666/161137
+#EXTINF:-1,Alibi +1
+http://pulsestreamstv.uk:8080/66666/66666/161107
+#EXTINF:-1,Animal Planet +1 
+http://pulsestreamstv.uk:8080/66666/66666/161108
+#EXTINF:-1,Boomerang +1 
+http://pulsestreamstv.uk:8080/66666/66666/161109
+#EXTINF:-1,CBS Reality +1
+http://pulsestreamstv.uk:8080/66666/66666/161110
+#EXTINF:-1,Cartoon Network +1
+http://pulsestreamstv.uk:8080/66666/66666/161111
+#EXTINF:-1,Comedy Central +1
+http://pulsestreamstv.uk:8080/66666/66666/161114
+#EXTINF:-1,Discovery +1
+http://pulsestreamstv.uk:8080/66666/66666/161116
+#EXTINF:-1,Discovery Turbo +1
+http://pulsestreamstv.uk:8080/66666/66666/161117
+#EXTINF:-1,Discovery History +1
+http://pulsestreamstv.uk:8080/66666/66666/161118
+#EXTINF:-1,Discovery Science +1
+http://pulsestreamstv.uk:8080/66666/66666/161119
+#EXTINF:-1,DMAX +1
+http://pulsestreamstv.uk:8080/66666/66666/161140
+#EXTINF:-1,Drama +1
+http://pulsestreamstv.uk:8080/66666/66666/161120
+#EXTINF:-1,Eden +1
+http://pulsestreamstv.uk:8080/66666/66666/161121
+#EXTINF:-1,Gold +1
+http://pulsestreamstv.uk:8080/66666/66666/161131
+#EXTINF:-1,HGTV+1
+http://pulsestreamstv.uk:8080/66666/66666/161122
+#EXTINF:-1,Investigation Discovery +1
+http://pulsestreamstv.uk:8080/66666/66666/161143
+#EXTINF:-1,Nickelodeon +1
+http://pulsestreamstv.uk:8080/66666/66666/161123
+#EXTINF:-1,PARAMOUNT+1
+http://pulsestreamstv.uk:8080/66666/66666/65602
+#EXTINF:-1,Food Network +1
+http://pulsestreamstv.uk:8080/66666/66666/161147
+#EXTINF:-1,Pop +1
+http://pulsestreamstv.uk:8080/66666/66666/161133
+#EXTINF:-1,POP MAX +1
+http://pulsestreamstv.uk:8080/66666/66666/161134
+#EXTINF:-1,Quest +1
+http://pulsestreamstv.uk:8080/66666/66666/161138
+#EXTINF:-1,Home & Health +1
+http://pulsestreamstv.uk:8080/66666/66666/161139
+#EXTINF:-1,Horror Channel +1
+http://pulsestreamstv.uk:8080/66666/66666/161141
+#EXTINF:-1,Pick TV +1
+http://pulsestreamstv.uk:8080/66666/66666/161146
+#EXTINF:-1,Quest Red +1
+http://pulsestreamstv.uk:8080/66666/66666/161145
+#EXTINF:-1,Rte One +1 (down)
+http://pulsestreamstv.uk:8080/66666/66666/161125
+#EXTINF:-1,Sky Witness +1
+http://pulsestreamstv.uk:8080/66666/66666/161149
+#EXTINF:-1,Sony Action +1
+http://pulsestreamstv.uk:8080/66666/66666/161151
+#EXTINF:-1,Sony Classic +1
+http://pulsestreamstv.uk:8080/66666/66666/161152
+#EXTINF:-1,Sony Channel +1
+http://pulsestreamstv.uk:8080/66666/66666/161153
+#EXTINF:-1,Sony Movies +1
+http://pulsestreamstv.uk:8080/66666/66666/161132
+#EXTINF:-1,TCM +1
+http://pulsestreamstv.uk:8080/66666/66666/161142
+#EXTINF:-1,Tiny POP +1
+http://pulsestreamstv.uk:8080/66666/66666/161150
+#EXTINF:-1,UTV +1
+http://pulsestreamstv.uk:8080/66666/66666/161144
+#EXTINF:-1,UTV+1
+http://pulsestreamstv.uk:8080/66666/66666/65601
+#EXTINF:-1,W+1
+http://pulsestreamstv.uk:8080/66666/66666/161126
+#EXTINF:-1,Yesterday +1
+http://pulsestreamstv.uk:8080/66666/66666/161136
+#EXTINF:-1,BBC News HD 
+http://pulsestreamstv.uk:8080/66666/66666/58
+#EXTINF:-1,Sky News HD 
+http://pulsestreamstv.uk:8080/66666/66666/61
+#EXTINF:-1,AL JAZEERA HD 
+http://pulsestreamstv.uk:8080/66666/66666/131680
+#EXTINF:-1,Bloomberg HD 
+http://pulsestreamstv.uk:8080/66666/66666/46784
+#EXTINF:-1,BLOOMBERG NEWS HD 
+http://pulsestreamstv.uk:8080/66666/66666/133099
+#EXTINF:-1,CNBC NEWS HD 
+http://pulsestreamstv.uk:8080/66666/66666/133098
+#EXTINF:-1,CNBC NEWS 
+http://pulsestreamstv.uk:8080/66666/66666/133097
+#EXTINF:-1,CNN HD 
+http://pulsestreamstv.uk:8080/66666/66666/23270
+#EXTINF:-1,Euro News HD 
+http://pulsestreamstv.uk:8080/66666/66666/60
+#EXTINF:-1,RT News HD
+http://pulsestreamstv.uk:8080/66666/66666/31120
+#EXTINF:-1,RTE News HD
+http://pulsestreamstv.uk:8080/66666/66666/23272
+#EXTINF:-1,Sky News Arabia HD 
+http://pulsestreamstv.uk:8080/66666/66666/31130
+#EXTINF:-1,TRT WORLD 
+http://pulsestreamstv.uk:8080/66666/66666/133100
+#EXTINF:-1,Animal Planet (Discovery +) FHD
+http://pulsestreamstv.uk:8080/66666/66666/178015
+#EXTINF:-1,Discovery Channel (Discovery +) FHD
+http://pulsestreamstv.uk:8080/66666/66666/178016
+#EXTINF:-1,Discovery DMAX (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178020
+#EXTINF:-1,Discovery History (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178021
+#EXTINF:-1,Discovery Science (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178022
+#EXTINF:-1,Discovery Turbo (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178023
+#EXTINF:-1,FoodNetwork (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178014
+#EXTINF:-1,HGTV (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178025
+#EXTINF:-1,ID (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178024
+#EXTINF:-1,Quest (Discovery +) FHD
+http://pulsestreamstv.uk:8080/66666/66666/178017
+#EXTINF:-1,Quest Red (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178018
+#EXTINF:-1,Really (Discovery +) SD
+http://pulsestreamstv.uk:8080/66666/66666/178026
+#EXTINF:-1,TLC (Discovery +) FHD
+http://pulsestreamstv.uk:8080/66666/66666/178019
+#EXTINF:-1,24/7 Empire
+http://pulsestreamstv.uk:8080/66666/66666/182327
+#EXTINF:-1,24/7 12 oz Mouse
+http://pulsestreamstv.uk:8080/66666/66666/185465
+#EXTINF:-1,BBC NEWS
+http://pulsestreamstv.uk:8080/66666/66666/181431
+#EXTINF:-1,BBC ONE SCOTLAND
+http://pulsestreamstv.uk:8080/66666/66666/181432
+#EXTINF:-1,BBC RED BUTTON
+http://pulsestreamstv.uk:8080/66666/66666/181433
+#EXTINF:-1,BBC WORLD NEWS
+http://pulsestreamstv.uk:8080/66666/66666/181434
+#EXTINF:-1,BBC ONE
+http://pulsestreamstv.uk:8080/66666/66666/181435
+#EXTINF:-1,BBC TWO
+http://pulsestreamstv.uk:8080/66666/66666/181436
+#EXTINF:-1,BBC SCOTLAND
+http://pulsestreamstv.uk:8080/66666/66666/181437
+#EXTINF:-1,CBS Justice
+http://pulsestreamstv.uk:8080/66666/66666/181438
+#EXTINF:-1,CBS DRAMA
+http://pulsestreamstv.uk:8080/66666/66666/181439
+#EXTINF:-1,CBS REALITY
+http://pulsestreamstv.uk:8080/66666/66666/181440
+#EXTINF:-1,CHALLENGE
+http://pulsestreamstv.uk:8080/66666/66666/181441
+#EXTINF:-1,CHANNELS 24
+http://pulsestreamstv.uk:8080/66666/66666/181443
+#EXTINF:-1,CHANNEL 4
+http://pulsestreamstv.uk:8080/66666/66666/181444
+#EXTINF:-1,CHANNEL 5
+http://pulsestreamstv.uk:8080/66666/66666/181445
+#EXTINF:-1,COLORS
+http://pulsestreamstv.uk:8080/66666/66666/181446
+#EXTINF:-1,COMEDY CENTRAL
+http://pulsestreamstv.uk:8080/66666/66666/181447
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://pulsestreamstv.uk:8080/66666/66666/181448
+#EXTINF:-1,DMAX
+http://pulsestreamstv.uk:8080/66666/66666/181449
+#EXTINF:-1,E! ENTERTAINMENT
+http://pulsestreamstv.uk:8080/66666/66666/181450
+#EXTINF:-1,E4
+http://pulsestreamstv.uk:8080/66666/66666/181451
+#EXTINF:-1,EDEN
+http://pulsestreamstv.uk:8080/66666/66666/181452
+#EXTINF:-1,SMITHSONIAN CHANNEL
+http://pulsestreamstv.uk:8080/66666/66666/181453
+#EXTINF:-1,FILM 4
+http://pulsestreamstv.uk:8080/66666/66666/181454
+#EXTINF:-1,FOOD NETWORK
+http://pulsestreamstv.uk:8080/66666/66666/181455
+#EXTINF:-1,FORCES TV
+http://pulsestreamstv.uk:8080/66666/66666/181456
+#EXTINF:-1,FOOD XP
+http://pulsestreamstv.uk:8080/66666/66666/181457
+#EXTINF:-1,GOLD
+http://pulsestreamstv.uk:8080/66666/66666/181458
+#EXTINF:-1,HORROR CHANNEL
+http://pulsestreamstv.uk:8080/66666/66666/181459
+#EXTINF:-1,ITV Be
+http://pulsestreamstv.uk:8080/66666/66666/181460
+#EXTINF:-1,ITV 1
+http://pulsestreamstv.uk:8080/66666/66666/181461
+#EXTINF:-1,ITV 2
+http://pulsestreamstv.uk:8080/66666/66666/181462
+#EXTINF:-1,ITV 3
+http://pulsestreamstv.uk:8080/66666/66666/181463
+#EXTINF:-1,ITV 4
+http://pulsestreamstv.uk:8080/66666/66666/181464
+#EXTINF:-1,LIFETIME
+http://pulsestreamstv.uk:8080/66666/66666/181465
+#EXTINF:-1,MORE 4
+http://pulsestreamstv.uk:8080/66666/66666/181466
+#EXTINF:-1,QUEST
+http://pulsestreamstv.uk:8080/66666/66666/181467
+#EXTINF:-1,QUEST RED
+http://pulsestreamstv.uk:8080/66666/66666/181468
+#EXTINF:-1,REALLY
+http://pulsestreamstv.uk:8080/66666/66666/181469
+#EXTINF:-1,S4C
+http://pulsestreamstv.uk:8080/66666/66666/181470
+#EXTINF:-1,SHOWCASE
+http://pulsestreamstv.uk:8080/66666/66666/181471
+#EXTINF:-1,SKY ONE
+http://pulsestreamstv.uk:8080/66666/66666/181472
+#EXTINF:-1,SYFY
+http://pulsestreamstv.uk:8080/66666/66666/181473
 #EXTINF:-1,TCM
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75934
-#EXTINF:-1, Smithsonian
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75950
-#EXTINF:-1, Sky_Witness
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75951
-#EXTINF:-1, SKY_Replay
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75952
-#EXTINF:-1, 5 Star
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75956
-#EXTINF:-1, Sky_News
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75957
-#EXTINF:-1,UK Sky_Nature
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/26982
-#EXTINF:-1,UK : Baby TV
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75856
-#EXTINF:-1,BBC World News HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75859
-#EXTINF:-1, Sky_History_HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75860
-#EXTINF:-1, BT_Sport_1
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75861
-#EXTINF:-1, BT_Sport_2
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75869
-#EXTINF:-1,BT_Sport_3
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75872
-#EXTINF:-1, BT_Sport_ESPN
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75873
-#EXTINF:-1, BT_SPORTS_EXTRA_1
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75874
-#EXTINF:-1,BT_SPORTS_EXTRA_2
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75875
-#EXTINF:-1, BT_SPORTS_EXTRA_3
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75876
-#EXTINF:-1,UK :BT_SPORTS_EXTRA_4
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75877
-#EXTINF:-1,BT_SPORTS_EXTRA_5
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75879
-#EXTINF:-1, BT_SPORTS_EXTRA_6
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75880
-#EXTINF:-1, Discovery History
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75881
-#EXTINF:-1, Discovery_Science
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75882
-#EXTINF:-1, Discovery Turbo
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75883
-#EXTINF:-1,Discovery_Shed
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75884
-#EXTINF:-1, CARTOON_NETWORK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75885
-#EXTINF:-1, E! Entertainment
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75886
-#EXTINF:-1, Eurosport 1 HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75887
-#EXTINF:-1,Fox_News
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75888
-#EXTINF:-1, Film4 HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75889
-#EXTINF:-1, Food Network HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75890
-#EXTINF:-1, Fox HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75891
-#EXTINF:-1,Fight_Network
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75892
-#EXTINF:-1,Alibi
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75893
-#EXTINF:-1,BBC_1
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75903
-#EXTINF:-1,BBC_1_East
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75904
-#EXTINF:-1,BBC_1_London
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75907
-#EXTINF:-1,BBC_1_Midlands
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75915
-#EXTINF:-1, SKY SPORTS CRICKET
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/25491
-#EXTINF:-1,BBC_1_Yorkshire
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75927
-#EXTINF:-1,BBC_2
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75928
-#EXTINF:-1,BBC_4
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75930
-#EXTINF:-1,BBC_Parliament
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75931
-#EXTINF:-1,BLAZE
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75932
-#EXTINF:-1,BOOMERANG
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75933
-#EXTINF:-1,Boxnation
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75939
-#EXTINF:-1,CNN
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75940
-#EXTINF:-1,CBBC
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75941
-#EXTINF:-1,CBeebies
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75942
-#EXTINF:-1,CBS_Drama
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75943
-#EXTINF:-1,CBS_Justice
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75944
-#EXTINF:-1,Channel_4
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75945
-#EXTINF:-1,Channel_5
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75946
-#EXTINF:-1,Comedy_Central
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75947
-#EXTINF:-1,SKY_Cinema_Sci_Fi-Horror
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75948
-#EXTINF:-1,Sky_Comedy
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75949
-#EXTINF:-1,Sky_Documentaries
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75958
-#EXTINF:-1,SKY_Drama-Romance
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75959
-#EXTINF:-1,Racing_UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75960
-#EXTINF:-1,PREMIER_SPORTS_1
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75961
-#EXTINF:-1,PREMIER_SPORTS_2
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75962
-#EXTINF:-1,Racing_UK
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75963
-#EXTINF:-1,National_Geographic
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75964
-#EXTINF:-1,MTV_Music
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75965
-#EXTINF:-1,MTV_Hits
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75966
-#EXTINF:-1,MTV_Classic
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75967
-#EXTINF:-1, 4 MUSIC
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/75968
+http://pulsestreamstv.uk:8080/66666/66666/181474
+#EXTINF:-1,TLC
+http://pulsestreamstv.uk:8080/66666/66666/181475
+#EXTINF:-1,TRAVEL CHANNEL
+http://pulsestreamstv.uk:8080/66666/66666/181476
+#EXTINF:-1,LIVE 360
+http://pulsestreamstv.uk:8080/66666/66666/181477
+#EXTINF:-1,W
+http://pulsestreamstv.uk:8080/66666/66666/181478
+#EXTINF:-1,YESTERDAY
+http://pulsestreamstv.uk:8080/66666/66666/181479
