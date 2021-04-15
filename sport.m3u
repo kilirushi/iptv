@@ -1,51 +1,177 @@
 #EXTM3U
-#EXTINF:-1,Sport HD
-http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
-#EXTINF:-1,sport 1HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/1
-#EXTINF:-1,sport 2HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/2
-#EXTINF:-1,sport 3HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/3
-#EXTINF:-1,sport 4HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/4
-#EXTINF:-1,sport 5HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/5
-#EXTINF:-1,sport 6HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/6
-#EXTINF:-1,sport 7HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/7
-#EXTINF:-1,sport 8HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/8
-#EXTINF:-1,sport 9HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/9
-#EXTINF:-1,sport 10HD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/10
-#EXTINF:-1,⚽ sport 1 SD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/11
-#EXTINF:-1,⚽ sport 2 SD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/12
-#EXTINF:-1,⚽ sport 3 SD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/13
-#EXTINF:-1,⚽ sport 4 SD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/14
-#EXTINF:-1,⚽ sport 5 SD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/15
-#EXTINF:-1,⚽ sport 6 SD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/16
-#EXTINF:-1,⚽ sport 7 SD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/17
-#EXTINF:-1,⚽ sport 8 SD
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/18
-#EXTINF:-1,sport low1
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/19
-#EXTINF:-1,sport low2
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/20
-#EXTINF:-1,sport low3
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/21
-#EXTINF:-1,sport low4
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/22
-#EXTINF:-1,sport low5
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/23
-#EXTINF:-1,sport low6
-http://51.15.1.11:25461/BEST-LIVE3553/BEST-LIVE3553/24
+#EXTINF:-1,DIGI Sport 1
+http://tvmedia2.com:8080/trevor/trevor/167779.ts
+#EXTINF:-1,DIGI Sport 2
+http://tvmedia2.com:8080/trevor/trevor/167780.ts
+#EXTINF:-1,DIGI Sport 3
+http://tvmedia2.com:8080/trevor/trevor/167781.ts
+#EXTINF:-1,DIGI Sport 4
+http://tvmedia2.com:8080/trevor/trevor/167782.ts
+#EXTINF:-1,SPARK 1
+http://tvmedia2.com:8080/trevor/trevor/167783.ts
+#EXTINF:-1,SPARK 2
+http://tvmedia2.com:8080/trevor/trevor/167784.ts
+#EXTINF:-1,SPARK 3
+http://tvmedia2.com:8080/trevor/trevor/167785.ts
+#EXTINF:-1,SPARK 4
+http://tvmedia2.com:8080/trevor/trevor/167786.ts
+#EXTINF:-1,SPARK 5
+http://tvmedia2.com:8080/trevor/trevor/167787.ts
+#EXTINF:-1,SPARK 6
+http://tvmedia2.com:8080/trevor/trevor/167788.ts
+#EXTINF:-1,SPARK 7
+http://tvmedia2.com:8080/trevor/trevor/167789.ts
+#EXTINF:-1,SPARK 8
+http://tvmedia2.com:8080/trevor/trevor/167790.ts
+#EXTINF:-1,SPARK 9
+http://tvmedia2.com:8080/trevor/trevor/167791.ts
+#EXTINF:-1,SPARK 10
+http://tvmedia2.com:8080/trevor/trevor/167792.ts
+#EXTINF:-1,TSN 1 HD
+http://tvmedia2.com:8080/trevor/trevor/167793.ts
+#EXTINF:-1,TSN 2 HD
+http://tvmedia2.com:8080/trevor/trevor/167794.ts
+#EXTINF:-1,TSN 3 HD
+http://tvmedia2.com:8080/trevor/trevor/167795.ts
+#EXTINF:-1,TSN 4 HD
+http://tvmedia2.com:8080/trevor/trevor/167796.ts
+#EXTINF:-1,TSN 5 HD
+http://tvmedia2.com:8080/trevor/trevor/167797.ts
+#EXTINF:-1,Sportsnet 360 HD
+http://tvmedia2.com:8080/trevor/trevor/167798.ts
+#EXTINF:-1,Sportsnet East HD
+http://tvmedia2.com:8080/trevor/trevor/167799.ts
+#EXTINF:-1,Sportsnet ONE HD
+http://tvmedia2.com:8080/trevor/trevor/167800.ts
+#EXTINF:-1,Sportsnet Ontario HD
+http://tvmedia2.com:8080/trevor/trevor/167801.ts
+#EXTINF:-1,Sportsnet Pacific HD
+http://tvmedia2.com:8080/trevor/trevor/167802.ts
+#EXTINF:-1,Sportsnet West HD
+http://tvmedia2.com:8080/trevor/trevor/167803.ts
+#EXTINF:-1,SPORTSNET WORLD
+http://tvmedia2.com:8080/trevor/trevor/167804.ts
+#EXTINF:-1,SPORTSNET NY
+http://tvmedia2.com:8080/trevor/trevor/167805.ts
+#EXTINF:-1,NBCSN HD
+http://tvmedia2.com:8080/trevor/trevor/167806.ts
+#EXTINF:-1,OTE Sport 1
+http://tvmedia2.com:8080/trevor/trevor/167807.ts
+#EXTINF:-1,OTE Sport 2
+http://tvmedia2.com:8080/trevor/trevor/167808.ts
+#EXTINF:-1,OTE  Sport 3
+http://tvmedia2.com:8080/trevor/trevor/167809.ts
+#EXTINF:-1,OTE  Sport 4
+http://tvmedia2.com:8080/trevor/trevor/167810.ts
+#EXTINF:-1,OTE  Sport 5
+http://tvmedia2.com:8080/trevor/trevor/167811.ts
+#EXTINF:-1,OTE  Sport 6
+http://tvmedia2.com:8080/trevor/trevor/167812.ts
+#EXTINF:-1,OTE  Sport 7
+http://tvmedia2.com:8080/trevor/trevor/167813.ts
+#EXTINF:-1,OTE  Sport 8
+http://tvmedia2.com:8080/trevor/trevor/167814.ts
+#EXTINF:-1,OTE  Sport 9
+http://tvmedia2.com:8080/trevor/trevor/167815.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+http://tvmedia2.com:8080/trevor/trevor/167816.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
+http://tvmedia2.com:8080/trevor/trevor/167817.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+http://tvmedia2.com:8080/trevor/trevor/167818.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
+http://tvmedia2.com:8080/trevor/trevor/167819.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
+http://tvmedia2.com:8080/trevor/trevor/167820.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+http://tvmedia2.com:8080/trevor/trevor/167821.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+http://tvmedia2.com:8080/trevor/trevor/167822.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+http://tvmedia2.com:8080/trevor/trevor/167823.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+http://tvmedia2.com:8080/trevor/trevor/167824.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://tvmedia2.com:8080/trevor/trevor/167825.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 1 HD DE
+http://tvmedia2.com:8080/trevor/trevor/167840.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 2 HD DE
+http://tvmedia2.com:8080/trevor/trevor/167841.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 3 HD DE
+http://tvmedia2.com:8080/trevor/trevor/167842.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 4 DE
+http://tvmedia2.com:8080/trevor/trevor/167843.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 5 DE
+http://tvmedia2.com:8080/trevor/trevor/167844.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 6 DE
+http://tvmedia2.com:8080/trevor/trevor/167845.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 7 DE
+http://tvmedia2.com:8080/trevor/trevor/167846.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 8 DE
+http://tvmedia2.com:8080/trevor/trevor/167847.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 9 DE
+http://tvmedia2.com:8080/trevor/trevor/167848.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 10 DE
+http://tvmedia2.com:8080/trevor/trevor/167849.ts
+#EXTINF:-1,USA: ESPN U
+http://tvmedia2.com:8080/trevor/trevor/167856.ts
+#EXTINF:-1,NEW USA: ESPN FHD 1080
+http://tvmedia2.com:8080/trevor/trevor/167857.ts
+#EXTINF:-1,NEW USA: ESPN 2 FHD 1080
+http://tvmedia2.com:8080/trevor/trevor/167858.ts
+#EXTINF:-1,NEW USA: ESPN NEWS FHD 1080
+http://tvmedia2.com:8080/trevor/trevor/167859.ts
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 1 FHD
+http://tvmedia2.com:8080/trevor/trevor/167860.ts
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 2 FHD
+http://tvmedia2.com:8080/trevor/trevor/167861.ts
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 3 FHD
+http://tvmedia2.com:8080/trevor/trevor/167862.ts
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 4 FHD
+http://tvmedia2.com:8080/trevor/trevor/167863.ts
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+http://tvmedia2.com:8080/trevor/trevor/167864.ts
+#EXTINF:-1,NL: ZIGGO SPORT RACING
+http://tvmedia2.com:8080/trevor/trevor/167865.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://tvmedia2.com:8080/trevor/trevor/167866.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://tvmedia2.com:8080/trevor/trevor/167867.ts
+#EXTINF:-1,SPORT KLUB 1
+http://tvmedia2.com:8080/trevor/trevor/167868.ts
+#EXTINF:-1,SPORT KLUB 2
+http://tvmedia2.com:8080/trevor/trevor/167869.ts
+#EXTINF:-1,SPORT KLUB 3
+http://tvmedia2.com:8080/trevor/trevor/167870.ts
+#EXTINF:-1,SPORT KLUB 4
+http://tvmedia2.com:8080/trevor/trevor/167871.ts
+#EXTINF:-1,SPORT KLUB 5
+http://tvmedia2.com:8080/trevor/trevor/167872.ts
+#EXTINF:-1,SPORT KLUB 6
+http://tvmedia2.com:8080/trevor/trevor/167873.ts
+#EXTINF:-1,IN: TEN 1 HD
+http://tvmedia2.com:8080/trevor/trevor/167876.ts
+#EXTINF:-1,IN: TEN 2
+http://tvmedia2.com:8080/trevor/trevor/167877.ts
+#EXTINF:-1,IN: TEN 3
+http://tvmedia2.com:8080/trevor/trevor/167878.ts
+#EXTINF:-1,IN: TEN CRICKET
+http://tvmedia2.com:8080/trevor/trevor/167879.ts
+#EXTINF:-1,IN: STAR SPORTS 1
+http://tvmedia2.com:8080/trevor/trevor/167880.ts
+#EXTINF:-1,IN: STAR SPORTS 2
+http://tvmedia2.com:8080/trevor/trevor/167881.ts
+#EXTINF:-1,IN: STAR SPORTS 3
+http://tvmedia2.com:8080/trevor/trevor/167882.ts
+#EXTINF:-1,IN: STAR SPORTS Select 1
+http://tvmedia2.com:8080/trevor/trevor/167883.ts
+#EXTINF:-1,IN: STAR SPORTS Select 2
+http://tvmedia2.com:8080/trevor/trevor/167884.ts
+#EXTINF:-1,RO: TELEKOM SPORT 1 HD
+http://tvmedia2.com:8080/trevor/trevor/167885.ts
+#EXTINF:-1,RO: TELEKOM SPORT 2 HD
+http://tvmedia2.com:8080/trevor/trevor/167886.ts
+#EXTINF:-1,RO: TELEKOM SPORT 3 HD
+http://tvmedia2.com:8080/trevor/trevor/167887.ts
+#EXTINF:-1,RO: TELEKOM SPORT 4 HD
+http://tvmedia2.com:8080/trevor/trevor/167888.ts
