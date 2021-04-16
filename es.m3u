@@ -1,287 +1,185 @@
 #EXTM3U
+#EXTINF:-1,#0 SD
+http://tvmedia2.com:8080/doreen/doreen/166369.ts
 #EXTINF:-1,#0 FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10330
-#EXTINF:-1,7RM FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10311
-#EXTINF:-1,A3 SERIES FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10320
-#EXTINF:-1,AMC FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10317
-#EXTINF:-1,AXN FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10316
-#EXTINF:-1,AXN WHITE FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10315
-#EXTINF:-1,BEIN LALIGA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10313
-#EXTINF:-1,BEIN SPORTS ESPANAA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10314
-#EXTINF:-1,BEMAD FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10310
-#EXTINF:-1,CLAN TV FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10309
-#EXTINF:-1,COSMO FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10308
-#EXTINF:-1,MOVISTAR ACCION FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10325
-#EXTINF:-1,MOVISTAR CINEDOC&ROLL FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10326
-#EXTINF:-1,MOVISTAR COMEDIA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10324
-#EXTINF:-1,MOVISTAR SERIESMANIA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10323
-#EXTINF:-1,TCM FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10312
-#EXTINF:-1,ANTENA 3 FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5434
-#EXTINF:-1,BEIN SPORTS LA LIGA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5417
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5426
-#EXTINF:-1,CUATRO FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5433
-#EXTINF:-1,HOLLYWOOD FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5424
-#EXTINF:-1,LA 1 FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5435
-#EXTINF:-1,MOVISTAR DCINE FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5429
-#EXTINF:-1,MOVISTAR XTRA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5428
-#EXTINF:-1,SYFY FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5423
-#EXTINF:-1,TELECINCO FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5432
-#EXTINF:-1,NATIONAL GEO FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10345
-#EXTINF:-1,TNT FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5422
-#EXTINF:-1,MOVISTAR GOLF FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10900
-#EXTINF:-1, FDF HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9542
-#EXTINF:-1, LA UNA 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3182
-#EXTINF:-1, LA DOS 2 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3183
-#EXTINF:-1, TV3 CATALONIA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3589
-#EXTINF:-1, ANTENA 3 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3184
-#EXTINF:-1, CUATRO HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3277
-#EXTINF:-1, TELECINCO
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3141
-#EXTINF:-1, LA SEXTA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3185
-#EXTINF:-1, TCM HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3253
-#EXTINF:-1, CANAL 24 HORAS
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3242
-#EXTINF:-1, CANAL ORBE21
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3187
-#EXTINF:-1, TELEDEPORTE
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3976
-#EXTINF:-1, ANDALUCIA TV
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3974
-#EXTINF:-1, TV GALICIA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3139
-#EXTINF:-1, PARAMOUNT CHANNEL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4040
-#EXTINF:-1, MOVISTAR ACCION HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3198
-#EXTINF:-1, MOVISTAR COMEDIA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3152
-#EXTINF:-1, MOVISTAR DCINE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3151
-#EXTINF:-1, MOVISTAR ESTRENOS FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3190
-#EXTINF:-1, HOLLYWOOD HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3268
-#EXTINF:-1, MOVISTAR XTRA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3153
-#EXTINF:-1, TNT HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3140
-#EXTINF:-1,ENERGY HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3972
-#EXTINF:-1,NOVA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3975
-#EXTINF:-1,NEOX TV
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3927
-#EXTINF:-1,AMC HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3679
-#EXTINF:-1,FOX HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3194
-#EXTINF:-1,FOX LIFE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3195
-#EXTINF:-1,MOVISTAR CINE N
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10271
-#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10286
+http://tvmedia2.com:8080/doreen/doreen/166370.ts
+#EXTINF:-1,#VAMOS
+http://tvmedia2.com:8080/doreen/doreen/166371.ts
+#EXTINF:-1,La 1 HD
+http://tvmedia2.com:8080/doreen/doreen/166372.ts
+#EXTINF:-1,La 1 FullHD
+http://tvmedia2.com:8080/doreen/doreen/166373.ts
+#EXTINF:-1,La 2 HD
+http://tvmedia2.com:8080/doreen/doreen/166374.ts
+#EXTINF:-1,Antena 3 HD
+http://tvmedia2.com:8080/doreen/doreen/166375.ts
+#EXTINF:-1,Antena 3 FullHD
+http://tvmedia2.com:8080/doreen/doreen/166376.ts
+#EXTINF:-1,CUATRO HD
+http://tvmedia2.com:8080/doreen/doreen/166377.ts
+#EXTINF:-1,Cuatro FullHD
+http://tvmedia2.com:8080/doreen/doreen/166378.ts
+#EXTINF:-1,TELECINCO HD
+http://tvmedia2.com:8080/doreen/doreen/166379.ts
+#EXTINF:-1,Telecinco FullHD
+http://tvmedia2.com:8080/doreen/doreen/166380.ts
+#EXTINF:-1,LA SEXTA HD
+http://tvmedia2.com:8080/doreen/doreen/166381.ts
+#EXTINF:-1,LA SEXTA FullHD
+http://tvmedia2.com:8080/doreen/doreen/166382.ts
+#EXTINF:-1,Movistar Accion HD
+http://tvmedia2.com:8080/doreen/doreen/166383.ts
+#EXTINF:-1,Movistar Accion FHD
+http://tvmedia2.com:8080/doreen/doreen/166384.ts
+#EXTINF:-1,Movistar Drama HD
+http://tvmedia2.com:8080/doreen/doreen/166385.ts
+#EXTINF:-1,Movistar Drama FHD
+http://tvmedia2.com:8080/doreen/doreen/166386.ts
 #EXTINF:-1,MOVISTAR SERIES HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3149
-#EXTINF:-1,MOVISTAR SERIESMANIA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3148
-#EXTINF:-1,MOVISTAR DRAMA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9539
-#EXTINF:-1,MOVISTAR DRAMA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9540
-#EXTINF:-1,MOVISTAR SERIESMANIA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9541
-#EXTINF:-1,AXN HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3259
-#EXTINF:-1,AXN WHITE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3260
-#EXTINF:-1,SYFY HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3267
-#EXTINF:-1,CALLE 13 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3197
-#EXTINF:-1,COMEDY CENTRAL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3196
-#EXTINF:-1,COSMO
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3236
-#EXTINF:-1,CANAL+ COCINA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3186
-#EXTINF:-1,CANAL+ TOROS
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3189
-#EXTINF:-1,CANAL  GOL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3928
-#EXTINF:-1,LIGA 123 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4044
-#EXTINF:-1,LA LIGA 1
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3191
-#EXTINF:-1,MOVISTAR DEPORTES 1
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3155
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10284
-#EXTINF:-1,MOVISTAR VAMOS FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3154
-#EXTINF:-1,CANAL GOL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3192
-#EXTINF:-1,BEIN-SPORT SPAIN
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3258
-#EXTINF:-1,BEIN LA LIGA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3636
-#EXTINF:-1,BEIN LIGA 2
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3637
-#EXTINF:-1,BEIN LIGA 3
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3638
-#EXTINF:-1,LA LIGATV BAR HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3635
-#EXTINF:-1,REAL MADRID  TV
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3143
-#EXTINF:-1,BARCA TV
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3255
-#EXTINF:-1,MOVISTAR GOLF HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3639
-#EXTINF:-1,MOVISTAR F1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3147
-#EXTINF:-1,MOVISTAR FUTBOL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3150
-#EXTINF:-1,MOVISTAR MOTO GP
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3146
-#EXTINF:-1,EUROSPORT 1
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3222
-#EXTINF:-1,EUROSPORT 2
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3221
-#EXTINF:-1,ESPN
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3622
-#EXTINF:-1,CANAL 26 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3585
-#EXTINF:-1,DMAX HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10285
-#EXTINF:-1,VIAJAR HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3641
-#EXTINF:-1,SUNDANCE
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4042
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3145
-#EXTINF:-1,NAT GEO WILD HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3144
-#EXTINF:-1,DISCOVERY CHANNEL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3214
-#EXTINF:-1,DISCOVERY MAX
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4038
-#EXTINF:-1,ODISEA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3265
-#EXTINF:-1,CANAL DECASA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3193
-#EXTINF:-1,A&E HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3239
-#EXTINF:-1,CAZA Y PESCA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3215
-#EXTINF:-1,CRIME & INVESTIGATION
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3212
-#EXTINF:-1,MEGA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3587
-#EXTINF:-1,HISTORIA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3929
-#EXTINF:-1,TRECE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3588
-#EXTINF:-1,BABY TV
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4330
-#EXTINF:-1,TVE CLAN
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3243
-#EXTINF:-1,CLAN TVE
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3973
+http://tvmedia2.com:8080/doreen/doreen/166387.ts
+#EXTINF:-1,MOVISTAR SERIES FHD
+http://tvmedia2.com:8080/doreen/doreen/166388.ts
+#EXTINF:-1,MOVISTAR DCINE HD
+http://tvmedia2.com:8080/doreen/doreen/166389.ts
+#EXTINF:-1,Movistar CineN HD
+http://tvmedia2.com:8080/doreen/doreen/166390.ts
+#EXTINF:-1,Disney Channel FHD
+http://tvmedia2.com:8080/doreen/doreen/166391.ts
+#EXTINF:-1,Movistar Estrenos HD
+http://tvmedia2.com:8080/doreen/doreen/166392.ts
+#EXTINF:-1,MOVISTAR CineDoc&Roll HD
+http://tvmedia2.com:8080/doreen/doreen/166393.ts
+#EXTINF:-1,MOVISTAR CineDoc&Roll FHD
+http://tvmedia2.com:8080/doreen/doreen/166394.ts
+#EXTINF:-1,Movistar Comedia FHD
+http://tvmedia2.com:8080/doreen/doreen/166395.ts
+#EXTINF:-1,Movistar Seriesmania FHD
+http://tvmedia2.com:8080/doreen/doreen/166396.ts
+#EXTINF:-1,MOVISTAR F1 FulHD
+http://tvmedia2.com:8080/doreen/doreen/166397.ts
+#EXTINF:-1,Movistar Deportes 1
+http://tvmedia2.com:8080/doreen/doreen/166398.ts
+#EXTINF:-1,Movistar DEPORTES 2
+http://tvmedia2.com:8080/doreen/doreen/166399.ts
+#EXTINF:-1,Canal+ COCINA
+http://tvmedia2.com:8080/doreen/doreen/166400.ts
 #EXTINF:-1,CANAL PANDA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3188
-#EXTINF:-1,DISNEY CHANNEL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3247
-#EXTINF:-1,DISNEY JUNIOR
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3966
-#EXTINF:-1,DISNEY XD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3249
-#EXTINF:-1,NICKELODEON HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3931
-#EXTINF:-1,NICK JUNIOR
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3933
-#EXTINF:-1,PANDA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4043
-#EXTINF:-1,BOING HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3246
-#EXTINF:-1,MEZZO LIVE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9581
-#EXTINF:-1,MTV ESPANA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3642
-#EXTINF:-1,DIVINITY
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4039
-#EXTINF:-1,NON STOP POEPLE
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3926
-#EXTINF:-1,TAQUILLA 1
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3643
-#EXTINF:-1,TAQUILLA 2
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3644
-#EXTINF:-1,TAQUILLA 3
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3645
-#EXTINF:-1,TAQUILLA 4
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3646
-#EXTINF:-1,TAQUILLA 5
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3132
-#EXTINF:-1,TAQUILLA 6
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3647
-#EXTINF:-1,TAQUILLA 7
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3134
-#EXTINF:-1,TAQUILLA 8
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3135
-#EXTINF:-1,TAQUILLA 9
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3136
-#EXTINF:-1,TAQUILLA10
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3801
-#EXTINF:-1,MOVISTAR ALQUILER 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10272
-#EXTINF:-1,MOVISTAR ALQUILER 2 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10273
-#EXTINF:-1,MOVISTAR ALQUILER 3 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10274
-#EXTINF:-1,MOVISTAR ALQUILER 4 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10275
-#EXTINF:-1,MOVISTAR ALQUILER 5 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10276
-#EXTINF:-1,MOVISTAR ALQUILER 6 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10277
-#EXTINF:-1,MOVISTAR ALQUILER 7 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10278
-#EXTINF:-1,MOVISTAR ALQUILER 8 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10279
-#EXTINF:-1,MOVISTAR ALQUILER 9 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10280
+http://tvmedia2.com:8080/doreen/doreen/166401.ts
+#EXTINF:-1,Canal+ Toros
+http://tvmedia2.com:8080/doreen/doreen/166402.ts
+#EXTINF:-1,LIGA TV BAR FHD
+http://tvmedia2.com:8080/doreen/doreen/166403.ts
+#EXTINF:-1,FOX HD
+http://tvmedia2.com:8080/doreen/doreen/166404.ts
+#EXTINF:-1,FOX LIFE HD
+http://tvmedia2.com:8080/doreen/doreen/166405.ts
+#EXTINF:-1,FOX NEWS
+http://tvmedia2.com:8080/doreen/doreen/166406.ts
+#EXTINF:-1,Comedy Central HD
+http://tvmedia2.com:8080/doreen/doreen/166407.ts
+#EXTINF:-1,Comedy Central FullHD
+http://tvmedia2.com:8080/doreen/doreen/166408.ts
+#EXTINF:-1,CALLE 13 HD
+http://tvmedia2.com:8080/doreen/doreen/166409.ts
+#EXTINF:-1,CALLE 13 FullHD
+http://tvmedia2.com:8080/doreen/doreen/166410.ts
+#EXTINF:-1,Hollywood HD
+http://tvmedia2.com:8080/doreen/doreen/166411.ts
+#EXTINF:-1,Hollywood FullHD
+http://tvmedia2.com:8080/doreen/doreen/166412.ts
+#EXTINF:-1,Syfy HD
+http://tvmedia2.com:8080/doreen/doreen/166413.ts
+#EXTINF:-1,Syfy FullHD
+http://tvmedia2.com:8080/doreen/doreen/166414.ts
+#EXTINF:-1,TNT HD
+http://tvmedia2.com:8080/doreen/doreen/166415.ts
+#EXTINF:-1,TNT FullHD
+http://tvmedia2.com:8080/doreen/doreen/166416.ts
+#EXTINF:-1,NOVA
+http://tvmedia2.com:8080/doreen/doreen/166417.ts
+#EXTINF:-1,Mega
+http://tvmedia2.com:8080/doreen/doreen/166418.ts
+#EXTINF:-1,ANDALUCIA TV
+http://tvmedia2.com:8080/doreen/doreen/166419.ts
+#EXTINF:-1,Gol TV
+http://tvmedia2.com:8080/doreen/doreen/166420.ts
+#EXTINF:-1,A3SERIES FHD
+http://tvmedia2.com:8080/doreen/doreen/166421.ts
+#EXTINF:-1,Odisea HD
+http://tvmedia2.com:8080/doreen/doreen/166422.ts
+#EXTINF:-1,National Geographic HD
+http://tvmedia2.com:8080/doreen/doreen/166423.ts
+#EXTINF:-1,National Geographic FullHD
+http://tvmedia2.com:8080/doreen/doreen/166424.ts
+#EXTINF:-1,NatGeo Wild HD
+http://tvmedia2.com:8080/doreen/doreen/166425.ts
+#EXTINF:-1,Nat Geo Wild FullHD
+http://tvmedia2.com:8080/doreen/doreen/166426.ts
+#EXTINF:-1,AMC FHD
+http://tvmedia2.com:8080/doreen/doreen/166427.ts
+#EXTINF:-1,AXN HD
+http://tvmedia2.com:8080/doreen/doreen/166428.ts
+#EXTINF:-1,AXN FullHD
+http://tvmedia2.com:8080/doreen/doreen/166429.ts
+#EXTINF:-1,AXN White HD
+http://tvmedia2.com:8080/doreen/doreen/166430.ts
+#EXTINF:-1,AXN White FullHD
+http://tvmedia2.com:8080/doreen/doreen/166431.ts
+#EXTINF:-1,Bein Sports España HD
+http://tvmedia2.com:8080/doreen/doreen/166432.ts
+#EXTINF:-1,Bein Sports España FullHD
+http://tvmedia2.com:8080/doreen/doreen/166433.ts
+#EXTINF:-1,Movistar La Liga FHD
+http://tvmedia2.com:8080/doreen/doreen/166434.ts
+#EXTINF:-1,Bein LaLiga bar FullHD
+http://tvmedia2.com:8080/doreen/doreen/166435.ts
+#EXTINF:-1,Real Madrid HD
+http://tvmedia2.com:8080/doreen/doreen/166436.ts
+#EXTINF:-1,BARCA TV HD
+http://tvmedia2.com:8080/doreen/doreen/166437.ts
+#EXTINF:-1,TCM FullHD
+http://tvmedia2.com:8080/doreen/doreen/166438.ts
+#EXTINF:-1,NEOX HD
+http://tvmedia2.com:8080/doreen/doreen/166439.ts
+#EXTINF:-1,Paramount Channel
+http://tvmedia2.com:8080/doreen/doreen/166440.ts
+#EXTINF:-1,Taquilla 1
+http://tvmedia2.com:8080/doreen/doreen/166441.ts
+#EXTINF:-1,Taquilla 2
+http://tvmedia2.com:8080/doreen/doreen/166442.ts
+#EXTINF:-1,Taquilla 3
+http://tvmedia2.com:8080/doreen/doreen/166443.ts
+#EXTINF:-1,Taquilla 4
+http://tvmedia2.com:8080/doreen/doreen/166444.ts
+#EXTINF:-1,Taquilla 5
+http://tvmedia2.com:8080/doreen/doreen/166445.ts
+#EXTINF:-1,Taquilla 6
+http://tvmedia2.com:8080/doreen/doreen/166446.ts
+#EXTINF:-1,Taquilla 7
+http://tvmedia2.com:8080/doreen/doreen/166447.ts
+#EXTINF:-1,Taquilla 8
+http://tvmedia2.com:8080/doreen/doreen/166448.ts
+#EXTINF:-1,Taquilla 9
+http://tvmedia2.com:8080/doreen/doreen/166449.ts
+#EXTINF:-1,Lebrija TV
+http://tvmedia2.com:8080/doreen/doreen/166450.ts
+#EXTINF:-1,HISTORIA HD
+http://tvmedia2.com:8080/doreen/doreen/166451.ts
+#EXTINF:-1,7RM FHD
+http://tvmedia2.com:8080/doreen/doreen/166452.ts
+#EXTINF:-1,BEMAD FHD
+http://tvmedia2.com:8080/doreen/doreen/166453.ts
+#EXTINF:-1,CLAN TV FHD
+http://tvmedia2.com:8080/doreen/doreen/166454.ts
+#EXTINF:-1,COSMO FHD
+http://tvmedia2.com:8080/doreen/doreen/166455.ts
+#EXTINF:-1,RTVC
+http://tvmedia2.com:8080/doreen/doreen/166456.ts
+#EXTINF:-1,7RM HD
+http://tvmedia2.com:8080/doreen/doreen/166457.ts
+#EXTINF:-1,24 HORAS
+http://tvmedia2.com:8080/doreen/doreen/166458.ts
+#EXTINF:-1,La 2 FullHD
+http://tvmedia2.com:8080/doreen/doreen/166459.ts
+#EXTINF:-1,Movistar Estrenos FullHD
+http://tvmedia2.com:8080/doreen/doreen/166460.ts
