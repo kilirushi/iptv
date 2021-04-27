@@ -1,507 +1,499 @@
 #EXTM3U
-#EXTINF:-1,Das Erste HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7011
-#EXTINF:-1,Das Erste FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22238
-#EXTINF:-1,ARD Alpha HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/83513
-#EXTINF:-1,ZDF HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1122
+#EXTINF:-1,DAS ERSTE FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3879
+#EXTINF:-1,ARD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19617
+#EXTINF:-1,ZDF
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19912
 #EXTINF:-1,ZDF FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22237
-#EXTINF:-1,ZDF Info HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6998
-#EXTINF:-1,ZDF Neo HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6997
-#EXTINF:-1,WDR HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1123
-#EXTINF:-1,SAT 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1125
-#EXTINF:-1,SAT 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20666
-#EXTINF:-1,RTL 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1126
-#EXTINF:-1,RTL 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20665
-#EXTINF:-1,Prosieben HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1128
-#EXTINF:-1,Prosieben FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20663
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3889
+#EXTINF:-1,RTL FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3887
+#EXTINF:-1,RTL FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/39128
+#EXTINF:-1,SAT.1 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3884
+#EXTINF:-1,PROSIEBEN HD/FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3881
+#EXTINF:-1,PROSIEBEN FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9307
+#EXTINF:-1,VOX FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3888
 #EXTINF:-1,VOX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1124
-#EXTINF:-1,VOX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20674
-#EXTINF:-1,RTL 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1127
-#EXTINF:-1,RTL 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20664
-#EXTINF:-1,Prosieben MAXX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129689
-#EXTINF:-1,Prosieben MAXX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129688
-#EXTINF:-1,SAT 1 Gold HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6990
-#EXTINF:-1,RTL plus HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7003
-#EXTINF:-1,RTL Nitro HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6987
-#EXTINF:-1,RTL LIVING HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138401
-#EXTINF:-1,Tele 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7013
-#EXTINF:-1,Super RTL HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7002
-#EXTINF:-1,SUPER RTL FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20671
-#EXTINF:-1,SIXX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1234
-#EXTINF:-1,SIXX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20667
-#EXTINF:-1,Kabel Eins HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1132
-#EXTINF:-1,Kabel Eins FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22708
-#EXTINF:-1,N-TV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4802
-#EXTINF:-1,N-TV FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20660
-#EXTINF:-1,MTV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127949
-#EXTINF:-1,MTV FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20680
-#EXTINF:-1,Deluxe Music HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7016
-#EXTINF:-1,MDR S-Anhalt FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20679
-#EXTINF:-1,Arte HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1134
-#EXTINF:-1,AXN HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/2625
-#EXTINF:-1,BR Fernsehen Nord HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127944
-#EXTINF:-1,BR Fernsehen Süd HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127945
-#EXTINF:-1,Channel 21 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127946
-#EXTINF:-1,Euronews HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1402
-#EXTINF:-1,Handystar TV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127947
-#EXTINF:-1,Heimatkanal HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7001
-#EXTINF:-1,hr-fernsehen HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127958
-#EXTINF:-1,Juwelo HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127948
-#EXTINF:-1,NDR HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1131
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3964
+#EXTINF:-1,KABEL EINS FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3880
+#EXTINF:-1,SIXXX FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19490
+#EXTINF:-1,RTL 2 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3886
+#EXTINF:-1,RTL NITRO HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9308
+#EXTINF:-1,NITRO FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3872
+#EXTINF:-1,SUPER RTL FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3885
+#EXTINF:-1,TELE 5
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19487
+#EXTINF:-1,TLC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35736
+#EXTINF:-1,RTL PASSION FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3871
+#EXTINF:-1,RTL LIVING
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19692
+#EXTINF:-1,RTL CRIME FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3873
+#EXTINF:-1,SAT.1 GOLD FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3870
+#EXTINF:-1,SAT.1 EMOTIONS HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19491
+#EXTINF:-1,KABEL EINS CLASSIC HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35844
+#EXTINF:-1,HEIMATKANAL
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3864
+#EXTINF:-1,PRO 7 MAXX FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3883
+#EXTINF:-1,PRO7 FUN FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19492
+#EXTINF:-1,NITRO HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19700
 #EXTINF:-1,ONE HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127950
-#EXTINF:-1,Phoenix HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7000
-#EXTINF:-1,QVC STYLE HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127951
-#EXTINF:-1,RADIO BREMEN HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127952
-#EXTINF:-1,RBB Berlin HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20681
-#EXTINF:-1,Romance TV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22750
-#EXTINF:-1,3 SAT HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6992
-#EXTINF:-1,sonnenklar TV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127959
-#EXTINF:-1,SR Fernsehen HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127953
-#EXTINF:-1,SRF 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6996
-#EXTINF:-1,SWR Fernsehen BW HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127954
-#EXTINF:-1,tagesschau24 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127960
-#EXTINF:-1,-- DE | Deutsche Kino HD / FHD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8925
-#EXTINF:-1,Sat.1 Emotion HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137717
-#EXTINF:-1,Kabel Eins Classic HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137718
-#EXTINF:-1,PRO7 FUN HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137719
-#EXTINF:-1,13th Street HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1135
-#EXTINF:-1,13th Street FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20657
-#EXTINF:-1,Comedy Central HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20852
-#EXTINF:-1,FOX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1133
-#EXTINF:-1,FOX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20659
-#EXTINF:-1,RTL Crime HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/2627
-#EXTINF:-1,RTL Crime FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20687
-#EXTINF:-1,RTL Passion HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/2626
-#EXTINF:-1,RTL Passion FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22712
-#EXTINF:-1,SYFY HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3696
-#EXTINF:-1,SYFY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20672
-#EXTINF:-1,TNT Comedy HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8930
-#EXTINF:-1,TNT COMEDY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20685
-#EXTINF:-1,TNT Film HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1231
-#EXTINF:-1,TNT Series HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1230
-#EXTINF:-1,TNT SERIES FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20673
-#EXTINF:-1,Universal HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20851
-#EXTINF:-1,Universal FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20694
-#EXTINF:-1,SKY One HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8932
-#EXTINF:-1,SKY ONE FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20688
-#EXTINF:-1,Sky Krimi FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35714
-#EXTINF:-1,SKY Krimi HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8931
-#EXTINF:-1,SKY Cinema Action HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1229
-#EXTINF:-1,SKY Cinema Action FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20668
-#EXTINF:-1,SKY Cinema Atlantic HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1228
-#EXTINF:-1,Sky Cinema Atlantic FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20682
-#EXTINF:-1,SKY Cinema Best OFF HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8933
-#EXTINF:-1,Sky Cinema best OFF FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20670
-#EXTINF:-1,SKY Cinema Family HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8936
-#EXTINF:-1,Sky Cinema Family FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20692
-#EXTINF:-1,Sky Cinema Fun HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/83514
-#EXTINF:-1,Sky Cinema Fun FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/83515
-#EXTINF:-1,Sky Cinema Harry Potter HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1236
-#EXTINF:-1,Sky Cinema Harry Potter FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20658
-#EXTINF:-1,Sky Cinema Premiere +24 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3712
-#EXTINF:-1,Sky Cinema Premiere +24 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20691
-#EXTINF:-1,SKY Cinema Premiere HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3713
-#EXTINF:-1,SKY Cinema Premiere FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20669
-#EXTINF:-1,SKY Cinema Thriller HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8934
-#EXTINF:-1,EU Cinema 4k
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131444
-#EXTINF:-1,EU Cinema Kids HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131443
-#EXTINF:-1,EU Cinema Alpacino HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131457
-#EXTINF:-1,EU Cinema Angelina Jolie HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131456
-#EXTINF:-1,EU Cinema Arnold Schwarzenegger HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131455
-#EXTINF:-1,EU Cinema Bruce Willis HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131454
-#EXTINF:-1,EU Cinema Cameron Diaz HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131453
-#EXTINF:-1,EU Cinema Dwayne Johnson HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131452
-#EXTINF:-1,EU Cinema Jackie Chan HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131451
-#EXTINF:-1,EU Cinema Jason Statham HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131450
-#EXTINF:-1,EU Cinema Jet Li HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131449
-#EXTINF:-1,EU Cinema Sylvester Stallone HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131448
-#EXTINF:-1,EU Cinema Van Damme HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131447
-#EXTINF:-1,EU Cinema Wesley Snipes HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131446
-#EXTINF:-1,EU Cinema Will Smith HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131445
-#EXTINF:-1,EU Cinema James Bond 007 - 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175544
-#EXTINF:-1,EU Cinema James Bond 007 - 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175545
-#EXTINF:-1,EU Cinema Show: Harald Schmidt Show HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131469
-#EXTINF:-1,EU Cinema Show: Heute Show HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131468
-#EXTINF:-1,EU Cinema Star Wars HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131672
-#EXTINF:-1,EU Cinema Series 7/24: How I Met Your Mother HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131467
-#EXTINF:-1,EU Cinema Series 7/24: The Big Bang Theorie HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131466
-#EXTINF:-1,EU Cinema Series 7/24: Breaking Bad HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131463
-#EXTINF:-1,EU Cinema Series 7/24: Game of Thrones HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131462
-#EXTINF:-1,EU Cinema Series 7/24: La Casa de Papel HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175547
-#EXTINF:-1,EU Cinema Series 7/24: Walking Dead HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175546
-#EXTINF:-1,EU Cinema KinoBox 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131458
-#EXTINF:-1,EU Cinema KinoBox 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131459
-#EXTINF:-1,EU Cinema KinoBox 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131460
-#EXTINF:-1,EU Cinema KinoBox 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131461
-#EXTINF:-1,EU Cinema Thriller HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138891
-#EXTINF:-1,EU Cinema Komedie HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138890
-#EXTINF:-1,EU Cinema Drama HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138889
-#EXTINF:-1,EU Cinema Horror HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138888
-#EXTINF:-1,EU Cinema Select 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131436
-#EXTINF:-1,EU Cinema Select 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131437
-#EXTINF:-1,EU Cinema Select 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131438
-#EXTINF:-1,EU Cinema Select 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131439
-#EXTINF:-1,EU Cinema Select 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131440
-#EXTINF:-1,EU Cinema Select 6 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131441
-#EXTINF:-1,EU Cinema Select 7 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131442
-#EXTINF:-1,SKY Select 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3701
-#EXTINF:-1,SKY Select 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3702
-#EXTINF:-1,SKY Select 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3703
-#EXTINF:-1,SKY Select 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3704
-#EXTINF:-1,SKY Select 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3705
-#EXTINF:-1,SKY Select 6 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3706
-#EXTINF:-1,SKY Select 7 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4763
-#EXTINF:-1,SKY Select 8 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4764
-#EXTINF:-1,SKY Select 9 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4765
-#EXTINF:-1,SKY Select 10 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4766
-#EXTINF:-1,-- DE | Deutsche Kinder HD / FHD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129666
-#EXTINF:-1,Boomerang HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6994
-#EXTINF:-1,Cartoon Network HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7007
-#EXTINF:-1,Disney Channel HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7005
-#EXTINF:-1,Disney Channel FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22718
-#EXTINF:-1,EU Cinema Disney 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131673
-#EXTINF:-1,EU Cinema Disney 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131674
-#EXTINF:-1,EU Cinema Disney 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131675
-#EXTINF:-1,EU Cinema Disney 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131676
-#EXTINF:-1,EU Cinema Kids: Mascha und der Bär HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134351
-#EXTINF:-1,EU Cinema Kids: PJ Masks HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134350
-#EXTINF:-1,EU Cinema Kids: Peppa Wutz HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134349
-#EXTINF:-1,EU Cinema Kids: Tom und Jerry HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134348
-#EXTINF:-1,EU Cinema Kids: Märchen HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134347
-#EXTINF:-1,KIKA HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7004
-#EXTINF:-1,Nicktoons HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129605
-#EXTINF:-1,TOGGO Plus HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127957
-#EXTINF:-1,-- DE | Deutsche Dokumentar HD / FHD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129663
-#EXTINF:-1,Animal Planet HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7009
-#EXTINF:-1,Crime Investigation HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/37478
-#EXTINF:-1,Discovery HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1121
-#EXTINF:-1,DISCOVERY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20676
-#EXTINF:-1,DMAX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6991
-#EXTINF:-1,DMAX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22715
-#EXTINF:-1,E! entertainement HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22323
-#EXTINF:-1,E! Entertainment FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20677
-#EXTINF:-1,History HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1232
-#EXTINF:-1,HISTORY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20678
-#EXTINF:-1,Kabel Eins Doku HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6984
-#EXTINF:-1,N24 Doku HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22600
-#EXTINF:-1,Nat Geo Wild HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1119
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19691
+#EXTINF:-1,S K Y 1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/37461
+#EXTINF:-1,EURONEWS TONIGHT
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19615
+#EXTINF:-1,WELT HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19695
+#EXTINF:-1,N24 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9302
+#EXTINF:-1,PHOENIX HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19486
+#EXTINF:-1,N-TV HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9301
+#EXTINF:-1,N-TV HD+
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19630
+#EXTINF:-1,TAGESSCHAU 24
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19618
+#EXTINF:-1,WDR FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9305
+#EXTINF:-1,MDR HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/38790
+#EXTINF:-1,SWR HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/38791
+#EXTINF:-1,NDR HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/38789
+#EXTINF:-1,3SAT FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3877
+#EXTINF:-1,MUNCHEN TV FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19632
+#EXTINF:-1,ZDF INFO HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19689
+#EXTINF:-1,ZDF NEO HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19690
+#EXTINF:-1,DISCOVERY CHANNEL FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3845
+#EXTINF:-1,NAT GEO FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3847
 #EXTINF:-1,NAT GEO WILD FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20661
-#EXTINF:-1,Nat Geographic HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7008
-#EXTINF:-1,NAT GEOGRAPHIC FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20662
-#EXTINF:-1,Planet HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7010
-#EXTINF:-1,Spiegel Geschichte HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22727
-#EXTINF:-1,Spiegel Wissen HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22728
-#EXTINF:-1,TLC HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127956
-#EXTINF:-1,Welt Der Wunder HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20854
-#EXTINF:-1,-- DE | Deutsche Sport FHD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129665
-#EXTINF:-1,Eurosport 2 Xtra FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35942
-#EXTINF:-1,Sky Bundesliga 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20862
-#EXTINF:-1,Sky Bundesliga 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20863
-#EXTINF:-1,Sky Bundesliga 3 FHD (LiveEvent)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22601
-#EXTINF:-1,Sky Bundesliga 4 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22607
-#EXTINF:-1,Sky Bundesliga 5 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22606
-#EXTINF:-1,Sky Bundesliga 6 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22605
-#EXTINF:-1,Sky Bundesliga 7 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35721
-#EXTINF:-1,Sky Bundesliga 8 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35723
-#EXTINF:-1,Sky Bundesliga 9 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35725
-#EXTINF:-1,Sky Bundesliga 10 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35727
-#EXTINF:-1,Sky Sport F1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/139034
-#EXTINF:-1,Sky Sport 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3697
-#EXTINF:-1,Sky Sport 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1027
-#EXTINF:-1,Sky Sport 3 FHD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22563
-#EXTINF:-1,SKY SPORT NEWS FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20683
-#EXTINF:-1,DAZN 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137903
-#EXTINF:-1,DAZN 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137904
-#EXTINF:-1,-- DE | Deutsche Sport HD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8926
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19629
+#EXTINF:-1,NAT GEO WILD FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3846
+#EXTINF:-1,HISTORY FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19627
+#EXTINF:-1,ARTE FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3876
+#EXTINF:-1,SPIEGEL GESCHICHTE FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3865
+#EXTINF:-1,E! ENTERTAINMENT FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9300
+#EXTINF:-1,DMAX FHD/HD/SD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19702
+#EXTINF:-1,N24 DOKU
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19701
+#EXTINF:-1,TOGGO PLUS FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3863
+#EXTINF:-1,BOOMERANG
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3841
+#EXTINF:-1,DISNEY CHANNEL FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3842
+#EXTINF:-1,DISNEY JUNIOR FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3843
+#EXTINF:-1,DISNEY XD HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19623
+#EXTINF:-1,DISNEY XD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9303
+#EXTINF:-1,CARTOON NETWORK FHD/HD/SD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9304
+#EXTINF:-1,KIKA HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19625
+#EXTINF:-1,NICK/MTV+ HD+
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19621
+#EXTINF:-1,NICKELDEON FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19622
+#EXTINF:-1,SKY CINEMA PREMIEREN
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3856
+#EXTINF:-1,SKY CINEMA THRILLER
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3852
+#EXTINF:-1,SKY CINEMA PREMIEREN +24 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3853
+#EXTINF:-1,SKY CINEMA FAMILY FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3855
+#EXTINF:-1,SKY ACTION FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3858
+#EXTINF:-1,SKY ATLANTIC FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3859
+#EXTINF:-1,SKY CINEMA FUN
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3851
+#EXTINF:-1,SKY CINEMA CLASSICS FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3849
+#EXTINF:-1,SKY CINEMA CLASSICS
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3850
+#EXTINF:-1,DISNEY CINEMAGIC FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3844
+#EXTINF:-1,DISNEY CINEMAGIC HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19624
+#EXTINF:-1,UNIVERSAL TV HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19699
+#EXTINF:-1,SKY KRIMI
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3857
+#EXTINF:-1,13TH STREET FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3866
+#EXTINF:-1,SYFY HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19697
+#EXTINF:-1,FOX FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3878
+#EXTINF:-1,FOX/TNT SERIE FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3867
+#EXTINF:-1,KINOWELT HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19489
+#EXTINF:-1,ROMANCE TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19626
+#EXTINF:-1,TNT FILM FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3869
+#EXTINF:-1,TNT FILM HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19698
+#EXTINF:-1,TNT SERIE HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3868
+#EXTINF:-1,TNT COMEDY
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35120
+#EXTINF:-1,TNT COMEDY HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/37231
+#EXTINF:-1,ANIXE HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19696
+#EXTINF:-1,TELECLUB ACTION HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19484
+#EXTINF:-1,TELECLUB CINEMA FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19485
+#EXTINF:-1,SONY CHANNEL
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19693
+#EXTINF:-1,VIVA/COMEDY CENTRAL
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19488
+#EXTINF:-1,SKY SELECT 1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3895
+#EXTINF:-1,SKY SELECT 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3894
+#EXTINF:-1,SKY SELECT 3
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3893
+#EXTINF:-1,SKY SELECT 4
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3892
+#EXTINF:-1,SKY SELECT 5
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3891
+#EXTINF:-1,SKY SELECT 6
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3890
+#EXTINF:-1,BOSS MOVIES 1 HD DE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/25230
+#EXTINF:-1,BOSS MOVIES 2 HD DE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/25231
+#EXTINF:-1,BOSS MOVIES 3 HD DE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/25313
+#EXTINF:-1,BOSS MOVIES 4 HD DE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/25314
+#EXTINF:-1,POPCORN SELECT 1 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3840
+#EXTINF:-1,POPCORN SELECT 2 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3839
+#EXTINF:-1,POPCORN SELECT 3 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3838
+#EXTINF:-1,POPCORN SELECT 4 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3837
+#EXTINF:-1,POPCORN SELECT 5 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3836
+#EXTINF:-1,KiNOBOX 1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/72367
+#EXTINF:-1,KiNOBOX 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/72368
+#EXTINF:-1,KiNOBOX 3
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/72369
+#EXTINF:-1,KiNOBOX 4
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/72370
+#EXTINF:-1,KiNOBOX 5
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/72371
+#EXTINF:-1,KiNOBOX 6
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/72372
+#EXTINF:-1,KiNOBOX 7
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/72373
+#EXTINF:-1,CLASSICA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3860
+#EXTINF:-1,JUKEBOX HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19620
+#EXTINF:-1,MTV/NICK HD +
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19616
+#EXTINF:-1,DELUXE MUSIC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19619
 #EXTINF:-1,DAZN 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35588
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19688
 #EXTINF:-1,DAZN 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35589
-#EXTINF:-1,Eurosport 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7189
-#EXTINF:-1,Eurosport 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7490
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7702
-#EXTINF:-1,Motor Vision HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35619
-#EXTINF:-1,SKY Sport News HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1028
-#EXTINF:-1,Sky Bundesliga 1 SD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7174
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1031
-#EXTINF:-1,Sky Bundesliga 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1032
-#EXTINF:-1,Sky Bundesliga 3 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1030
-#EXTINF:-1,Sky Bundesliga 4 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1039
-#EXTINF:-1,Sky Bundesliga 5 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1040
-#EXTINF:-1,Sky Bundesliga 6 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4308
-#EXTINF:-1,Sky Bundesliga 7 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4309
-#EXTINF:-1,Sky Bundesliga 8 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4310
-#EXTINF:-1,Sky Bundesliga 9 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4311
-#EXTINF:-1,Sky Bundesliga 10 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4312
-#EXTINF:-1,Sport 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7190
-#EXTINF:-1,Sky Sport F1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/139035
-#EXTINF:-1,Sky Sport 1 HQ
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/21097
-#EXTINF:-1,Sky Sport 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7176
-#EXTINF:-1,Sky Sport 2 SD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/21098
-#EXTINF:-1,Sky Sport 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7177
-#EXTINF:-1,Sky Sport 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/9105
-#EXTINF:-1,Sky Sport 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8779
-#EXTINF:-1,Sky Sport 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8780
-#EXTINF:-1,Sky Sport 6 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8781
-#EXTINF:-1,Sky Sport 7 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8782
-#EXTINF:-1,Sky Sport 8 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8783
-#EXTINF:-1,Sky Sport 9 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8784
-#EXTINF:-1,Sky Sport 10 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8785
-#EXTINF:-1,Telekom Fussball 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74089
-#EXTINF:-1,Telekom Fussball 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74090
-#EXTINF:-1,Telekom Fussball 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74091
-#EXTINF:-1,Telekom Fussball 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74092
-#EXTINF:-1,Telekom Fussball 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74093
-#EXTINF:-1,Telekom Fussball 6 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74094
-#EXTINF:-1,Telekom Fussball 7 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138399
-#EXTINF:-1,Telekom Fussball 8 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138400
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19687
+#EXTINF:-1,SKY BUNDESLIGA 1 HD/FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19664
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35923
+#EXTINF:-1,S-SPORT NEWS FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3899
+#EXTINF:-1,S-SPORT 1 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/25232
+#EXTINF:-1,S-SPORT 1 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19675
+#EXTINF:-1,S-SPORT 2 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/23843
+#EXTINF:-1,S-SPORT 2 HD*
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/23844
+#EXTINF:-1,S-SPORT 2 HD/FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35934
+#EXTINF:-1,S-SPORT AUSTRIA FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3897
+#EXTINF:-1,S-SPORT AUSTRIA FHD/HD *
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19682
+#EXTINF:-1,SPORTDIGITAL FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19677
+#EXTINF:-1,FC BAYERN TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/25233
+#EXTINF:-1,EUROSPORT 1 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19685
+#EXTINF:-1,EUROSPORT 2 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19684
+#EXTINF:-1,EUROSPORT 2 XTRA FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19683
+#EXTINF:-1,EUROSPORT 1 *  FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9529
+#EXTINF:-1,EUROSPORT 2 *  FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9530
+#EXTINF:-1,EUROSPORT 2 EXTRA FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9531
+#EXTINF:-1,SPORT 1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19679
+#EXTINF:-1,SPORT1 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19678
+#EXTINF:-1,S-SPORT F1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24948
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 1 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24210
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 2 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24209
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 3 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24208
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 4 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24207
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 5 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24206
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 6 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24205
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 7 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/38127
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 8 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/38128
+#EXTINF:-1,MOTORVISION TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9299
+#EXTINF:-1,MOTORVISION TV FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19676
+#EXTINF:-1,ORF SPORT FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19680
+#EXTINF:-1,SKY BUNDESLIGA 2 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19663
+#EXTINF:-1,SKY BUNDESLIGA 3 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19662
+#EXTINF:-1,SKY BUNDESLIGA 4 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19661
+#EXTINF:-1,SKY BUNDESLIGA 5 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19660
+#EXTINF:-1,SKY BUNDESLIGA 6 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19659
+#EXTINF:-1,SKY BUNDESLIGA 7 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19658
+#EXTINF:-1,SKY BUNDESLIGA 8 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19657
+#EXTINF:-1,SKY BUNDESLIGA 9 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19656
+#EXTINF:-1,SKY BUNDESLIGA 10 FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19655
+#EXTINF:-1,SKY BUNDESLIGA 2 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35924
+#EXTINF:-1,SKY BUNDESLIGA 3 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35925
+#EXTINF:-1,SKY BUNDESLIGA 4 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35926
+#EXTINF:-1,SKY BUNDESLIGA 5 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35927
+#EXTINF:-1,SKY BUNDESLIGA 6 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35928
+#EXTINF:-1,SKY BUNDESLIGA 7 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35929
+#EXTINF:-1,SKY BUNDESLIGA 8 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35930
+#EXTINF:-1,SKY BUNDESLIGA 9 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35931
+#EXTINF:-1,SKY BUNDESLIGA 10 HD * (On Match Day)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/35932
+#EXTINF:-1,S-SPORT 3 HD (ON MATCH DAY)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19673
+#EXTINF:-1,S-SPORT 4 HD (ON MATCH DAY)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19672
+#EXTINF:-1,S-SPORT 5 HD (ON MATCH DAY)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19671
+#EXTINF:-1,S-SPORT 6 HD (ON MATCH DAY)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19670
+#EXTINF:-1,S-SPORT 7 HD (ON MATCH DAY)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19669
+#EXTINF:-1,S-SPORT 8 HD (ON MATCH DAY)
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/19668
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80799
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80800
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 3
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80801
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 4
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80802
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 5
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80803
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 6
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80804
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 7
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80805
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 8
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80806
+#EXTINF:-1,TELEKOM BBL SPORT 1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80807
+#EXTINF:-1,TELEKOM BBL SPORT 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80808
+#EXTINF:-1,TELEKOM BBL SPORT 3
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80809
+#EXTINF:-1,TELEKOM BBL SPORT 4
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80810
+#EXTINF:-1,TELEKOM DEL SPORT 1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80811
+#EXTINF:-1,TELEKOM DEL SPORT 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80812
+#EXTINF:-1,TELEKOM DEL SPORT 3
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80813
+#EXTINF:-1,TELEKOM DEL SPORT 4
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80814
+#EXTINF:-1,TELEKOM DEL SPORT 5
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80815
+#EXTINF:-1,TELEKOM DEL SPORT 6
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/80816
+#EXTINF:-1,DAS ERSTE HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63560
+#EXTINF:-1,ZDF HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63561
+#EXTINF:-1,RTL HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63562
+#EXTINF:-1,RTL ZWEI HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63565
+#EXTINF:-1,VOX HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63567
+#EXTINF:-1,N24 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63600
+#EXTINF:-1,WELT HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63603
+#EXTINF:-1,SAT.1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63566
+#EXTINF:-1,SAT 1 GOLD HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63571
+#EXTINF:-1,SPIEGEL GESCHICHTE HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63601
+#EXTINF:-1,N-TV HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63599
+#EXTINF:-1,FOX HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63591
+#EXTINF:-1,NITRO HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63572
+#EXTINF:-1,PRO 7 MAXX HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63569
+#EXTINF:-1,PROSIEBEN HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63564
+#EXTINF:-1,SIXX HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63570
+#EXTINF:-1,13TH STREET HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63588
+#EXTINF:-1,HISTORY HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63596
+#EXTINF:-1,DISCOVERY HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63595
+#EXTINF:-1,DMAX HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63597
+#EXTINF:-1,KABEL EINS HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63568
+#EXTINF:-1,KIKA HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63592
+#EXTINF:-1,N24 DOKU HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63598
+#EXTINF:-1,NAT GEO HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63594
+#EXTINF:-1,NAT GEO WILD HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63593
+#EXTINF:-1,SKY ATLANTIC HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63582
+#EXTINF:-1,SKY ONE HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63573
+#EXTINF:-1,SKY SPORT NEWS HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63606
+#EXTINF:-1,SKY SPORT 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63607
+#EXTINF:-1,SKY SPORT 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63608
+#EXTINF:-1,SKY SPORT AUSTRIA 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63612
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63610
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63611
+#EXTINF:-1,SPORT 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63609
+#EXTINF:-1,DAZN 1 BAR HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63604
+#EXTINF:-1,DAZN 2 BAR HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63605
+#EXTINF:-1,SKY KRIMI HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63584
+#EXTINF:-1,SKY CINEMA  THRILLER HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63575
+#EXTINF:-1,SKY CINEMA ACTION HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63577
+#EXTINF:-1,SKY CINEMA BEST OF HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63581
+#EXTINF:-1,SKY CINEMA CLASSICS HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63580
+#EXTINF:-1,SKY CINEMA FAMILY HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63578
+#EXTINF:-1,SKY CINEMA FUN HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63583
+#EXTINF:-1,SKY CINEMA PREMIEREN 24 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63576
+#EXTINF:-1,SKY CINEMA PREMIEREN HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63579
+#EXTINF:-1,SKY CINEMA SPECIAL HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63574
+#EXTINF:-1,SYFY HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63589
+#EXTINF:-1,TLC HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63602
+#EXTINF:-1,TNT COMEDY HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63585
+#EXTINF:-1,TNT FILM HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63586
+#EXTINF:-1,E! HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63590
+#EXTINF:-1,TNT SERIE HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/63587
