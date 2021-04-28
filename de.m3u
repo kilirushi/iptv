@@ -1,507 +1,421 @@
 #EXTM3U
-#EXTINF:-1,Das Erste HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7011
 #EXTINF:-1,Das Erste FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22238
-#EXTINF:-1,ARD Alpha HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/83513
-#EXTINF:-1,ZDF HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1122
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22238
+#EXTINF:-1,Das Erste HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7011
 #EXTINF:-1,ZDF FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22237
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22237
+#EXTINF:-1,ZDF HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1122
 #EXTINF:-1,ZDF Info HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6998
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6998
 #EXTINF:-1,ZDF Neo HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6997
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6997
 #EXTINF:-1,WDR HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1123
-#EXTINF:-1,SAT 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1125
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1123
+#EXTINF:-1,ARD Alpha HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/83513
 #EXTINF:-1,SAT 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20666
-#EXTINF:-1,RTL 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1126
-#EXTINF:-1,RTL 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20665
-#EXTINF:-1,Prosieben HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1128
-#EXTINF:-1,Prosieben FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20663
-#EXTINF:-1,VOX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1124
-#EXTINF:-1,VOX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20674
-#EXTINF:-1,RTL 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1127
-#EXTINF:-1,RTL 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20664
-#EXTINF:-1,Prosieben MAXX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129689
-#EXTINF:-1,Prosieben MAXX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129688
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20666
+#EXTINF:-1,SAT 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1125
 #EXTINF:-1,SAT 1 Gold HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6990
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6990
+#EXTINF:-1,VOX FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20674
+#EXTINF:-1,VOX HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1124
+#EXTINF:-1,RTL 1 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20665
+#EXTINF:-1,RTL 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1126
+#EXTINF:-1,RTL 2 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20664
+#EXTINF:-1,RTL 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1127
 #EXTINF:-1,RTL plus HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7003
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7003
 #EXTINF:-1,RTL Nitro HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6987
-#EXTINF:-1,RTL LIVING HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138401
-#EXTINF:-1,Tele 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7013
-#EXTINF:-1,Super RTL HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7002
-#EXTINF:-1,SUPER RTL FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20671
-#EXTINF:-1,SIXX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1234
-#EXTINF:-1,SIXX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20667
-#EXTINF:-1,Kabel Eins HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1132
-#EXTINF:-1,Kabel Eins FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22708
-#EXTINF:-1,N-TV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4802
-#EXTINF:-1,N-TV FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20660
-#EXTINF:-1,MTV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127949
-#EXTINF:-1,MTV FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20680
-#EXTINF:-1,Deluxe Music HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7016
-#EXTINF:-1,MDR S-Anhalt FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20679
-#EXTINF:-1,Arte HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1134
-#EXTINF:-1,AXN HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/2625
-#EXTINF:-1,BR Fernsehen Nord HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127944
-#EXTINF:-1,BR Fernsehen Süd HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127945
-#EXTINF:-1,Channel 21 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127946
-#EXTINF:-1,Euronews HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1402
-#EXTINF:-1,Handystar TV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127947
-#EXTINF:-1,Heimatkanal HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7001
-#EXTINF:-1,hr-fernsehen HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127958
-#EXTINF:-1,Juwelo HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127948
-#EXTINF:-1,NDR HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1131
-#EXTINF:-1,ONE HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127950
-#EXTINF:-1,Phoenix HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7000
-#EXTINF:-1,QVC STYLE HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127951
-#EXTINF:-1,RADIO BREMEN HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127952
-#EXTINF:-1,RBB Berlin HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20681
-#EXTINF:-1,Romance TV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22750
-#EXTINF:-1,3 SAT HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6992
-#EXTINF:-1,sonnenklar TV HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127959
-#EXTINF:-1,SR Fernsehen HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127953
-#EXTINF:-1,SRF 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6996
-#EXTINF:-1,SWR Fernsehen BW HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127954
-#EXTINF:-1,tagesschau24 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127960
-#EXTINF:-1,-- DE | Deutsche Kino HD / FHD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8925
-#EXTINF:-1,Sat.1 Emotion HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137717
-#EXTINF:-1,Kabel Eins Classic HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137718
-#EXTINF:-1,PRO7 FUN HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137719
-#EXTINF:-1,13th Street HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1135
-#EXTINF:-1,13th Street FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20657
-#EXTINF:-1,Comedy Central HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20852
-#EXTINF:-1,FOX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1133
-#EXTINF:-1,FOX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20659
-#EXTINF:-1,RTL Crime HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/2627
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6987
 #EXTINF:-1,RTL Crime FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20687
-#EXTINF:-1,RTL Passion HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/2626
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20687
+#EXTINF:-1,RTL Crime HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/2627
 #EXTINF:-1,RTL Passion FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22712
-#EXTINF:-1,SYFY HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3696
-#EXTINF:-1,SYFY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20672
-#EXTINF:-1,TNT Comedy HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8930
-#EXTINF:-1,TNT COMEDY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20685
-#EXTINF:-1,TNT Film HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1231
-#EXTINF:-1,TNT Series HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1230
-#EXTINF:-1,TNT SERIES FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20673
-#EXTINF:-1,Universal HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20851
-#EXTINF:-1,Universal FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20694
-#EXTINF:-1,SKY One HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8932
-#EXTINF:-1,SKY ONE FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20688
-#EXTINF:-1,Sky Krimi FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35714
-#EXTINF:-1,SKY Krimi HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8931
-#EXTINF:-1,SKY Cinema Action HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1229
-#EXTINF:-1,SKY Cinema Action FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20668
-#EXTINF:-1,SKY Cinema Atlantic HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1228
-#EXTINF:-1,Sky Cinema Atlantic FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20682
-#EXTINF:-1,SKY Cinema Best OFF HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8933
-#EXTINF:-1,Sky Cinema best OFF FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20670
-#EXTINF:-1,SKY Cinema Family HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8936
-#EXTINF:-1,Sky Cinema Family FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20692
-#EXTINF:-1,Sky Cinema Fun HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/83514
-#EXTINF:-1,Sky Cinema Fun FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/83515
-#EXTINF:-1,Sky Cinema Harry Potter HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1236
-#EXTINF:-1,Sky Cinema Harry Potter FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20658
-#EXTINF:-1,Sky Cinema Premiere +24 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3712
-#EXTINF:-1,Sky Cinema Premiere +24 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20691
-#EXTINF:-1,SKY Cinema Premiere HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3713
-#EXTINF:-1,SKY Cinema Premiere FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20669
-#EXTINF:-1,SKY Cinema Thriller HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8934
-#EXTINF:-1,EU Cinema 4k
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131444
-#EXTINF:-1,EU Cinema Kids HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131443
-#EXTINF:-1,EU Cinema Alpacino HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131457
-#EXTINF:-1,EU Cinema Angelina Jolie HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131456
-#EXTINF:-1,EU Cinema Arnold Schwarzenegger HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131455
-#EXTINF:-1,EU Cinema Bruce Willis HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131454
-#EXTINF:-1,EU Cinema Cameron Diaz HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131453
-#EXTINF:-1,EU Cinema Dwayne Johnson HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131452
-#EXTINF:-1,EU Cinema Jackie Chan HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131451
-#EXTINF:-1,EU Cinema Jason Statham HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131450
-#EXTINF:-1,EU Cinema Jet Li HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131449
-#EXTINF:-1,EU Cinema Sylvester Stallone HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131448
-#EXTINF:-1,EU Cinema Van Damme HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131447
-#EXTINF:-1,EU Cinema Wesley Snipes HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131446
-#EXTINF:-1,EU Cinema Will Smith HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131445
-#EXTINF:-1,EU Cinema James Bond 007 - 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175544
-#EXTINF:-1,EU Cinema James Bond 007 - 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175545
-#EXTINF:-1,EU Cinema Show: Harald Schmidt Show HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131469
-#EXTINF:-1,EU Cinema Show: Heute Show HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131468
-#EXTINF:-1,EU Cinema Star Wars HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131672
-#EXTINF:-1,EU Cinema Series 7/24: How I Met Your Mother HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131467
-#EXTINF:-1,EU Cinema Series 7/24: The Big Bang Theorie HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131466
-#EXTINF:-1,EU Cinema Series 7/24: Breaking Bad HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131463
-#EXTINF:-1,EU Cinema Series 7/24: Game of Thrones HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131462
-#EXTINF:-1,EU Cinema Series 7/24: La Casa de Papel HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175547
-#EXTINF:-1,EU Cinema Series 7/24: Walking Dead HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175546
-#EXTINF:-1,EU Cinema KinoBox 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131458
-#EXTINF:-1,EU Cinema KinoBox 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131459
-#EXTINF:-1,EU Cinema KinoBox 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131460
-#EXTINF:-1,EU Cinema KinoBox 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131461
-#EXTINF:-1,EU Cinema Thriller HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138891
-#EXTINF:-1,EU Cinema Komedie HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138890
-#EXTINF:-1,EU Cinema Drama HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138889
-#EXTINF:-1,EU Cinema Horror HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138888
-#EXTINF:-1,EU Cinema Select 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131436
-#EXTINF:-1,EU Cinema Select 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131437
-#EXTINF:-1,EU Cinema Select 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131438
-#EXTINF:-1,EU Cinema Select 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131439
-#EXTINF:-1,EU Cinema Select 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131440
-#EXTINF:-1,EU Cinema Select 6 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131441
-#EXTINF:-1,EU Cinema Select 7 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131442
-#EXTINF:-1,SKY Select 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3701
-#EXTINF:-1,SKY Select 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3702
-#EXTINF:-1,SKY Select 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3703
-#EXTINF:-1,SKY Select 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3704
-#EXTINF:-1,SKY Select 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3705
-#EXTINF:-1,SKY Select 6 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3706
-#EXTINF:-1,SKY Select 7 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4763
-#EXTINF:-1,SKY Select 8 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4764
-#EXTINF:-1,SKY Select 9 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4765
-#EXTINF:-1,SKY Select 10 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4766
-#EXTINF:-1,-- DE | Deutsche Kinder HD / FHD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129666
-#EXTINF:-1,Boomerang HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6994
-#EXTINF:-1,Cartoon Network HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7007
-#EXTINF:-1,Disney Channel HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7005
-#EXTINF:-1,Disney Channel FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22718
-#EXTINF:-1,EU Cinema Disney 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131673
-#EXTINF:-1,EU Cinema Disney 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131674
-#EXTINF:-1,EU Cinema Disney 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131675
-#EXTINF:-1,EU Cinema Disney 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/131676
-#EXTINF:-1,EU Cinema Kids: Mascha und der Bär HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134351
-#EXTINF:-1,EU Cinema Kids: PJ Masks HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134350
-#EXTINF:-1,EU Cinema Kids: Peppa Wutz HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134349
-#EXTINF:-1,EU Cinema Kids: Tom und Jerry HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134348
-#EXTINF:-1,EU Cinema Kids: Märchen HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/134347
-#EXTINF:-1,KIKA HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7004
-#EXTINF:-1,Nicktoons HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129605
-#EXTINF:-1,TOGGO Plus HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127957
-#EXTINF:-1,-- DE | Deutsche Dokumentar HD / FHD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129663
-#EXTINF:-1,Animal Planet HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7009
-#EXTINF:-1,Crime Investigation HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/37478
-#EXTINF:-1,Discovery HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1121
-#EXTINF:-1,DISCOVERY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20676
-#EXTINF:-1,DMAX HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6991
-#EXTINF:-1,DMAX FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22715
-#EXTINF:-1,E! entertainement HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22323
-#EXTINF:-1,E! Entertainment FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20677
-#EXTINF:-1,History HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1232
-#EXTINF:-1,HISTORY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20678
-#EXTINF:-1,Kabel Eins Doku HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/6984
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22712
+#EXTINF:-1,RTL Passion HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/2626
+#EXTINF:-1,SUPER RTL FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20671
+#EXTINF:-1,Super RTL HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7002
+#EXTINF:-1,Prosieben FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20663
+#EXTINF:-1,Prosieben HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1128
+#EXTINF:-1,Kabel Eins FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22708
+#EXTINF:-1,Kabel Eins HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1132
+#EXTINF:-1,FOX FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20659
+#EXTINF:-1,FOX HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1133
+#EXTINF:-1,Arte HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1134
+#EXTINF:-1,ORF 1 HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1129
+#EXTINF:-1,ORF 2 HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1130
+#EXTINF:-1,SRF 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6996
+#EXTINF:-1,3 SAT HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6992
+#EXTINF:-1,Phoenix HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7000
 #EXTINF:-1,N24 Doku HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22600
-#EXTINF:-1,Nat Geo Wild HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1119
-#EXTINF:-1,NAT GEO WILD FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20661
-#EXTINF:-1,Nat Geographic HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7008
-#EXTINF:-1,NAT GEOGRAPHIC FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20662
-#EXTINF:-1,Planet HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7010
-#EXTINF:-1,Spiegel Geschichte HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22727
-#EXTINF:-1,Spiegel Wissen HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22728
-#EXTINF:-1,TLC HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/127956
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22600
+#EXTINF:-1,AXN HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/2625
+#EXTINF:-1,SIXX FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20667
+#EXTINF:-1,SIXX HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1234
+#EXTINF:-1,SYFY FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20672
+#EXTINF:-1,SYFY HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3696
+#EXTINF:-1,Deluxe Music HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7016
+#EXTINF:-1,Kabel Eins Doku HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6984
+#EXTINF:-1,NDR HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1131
+#EXTINF:-1,Euronews HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1402
+#EXTINF:-1,Servus FHD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7012
+#EXTINF:-1,N-TV FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20660
+#EXTINF:-1,N-TV HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4802
+#EXTINF:-1,Tele 5 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7013
+#EXTINF:-1,Prosieben MAXX HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/129689
+#EXTINF:-1,Prosieben MAXX FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/129688
+#EXTINF:-1,tagesschau24 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127960
+#EXTINF:-1,sonnenklar TV HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127959
+#EXTINF:-1,hr-fernsehen HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127958
+#EXTINF:-1,SWR Fernsehen BW HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127954
+#EXTINF:-1,SR Fernsehen HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127953
+#EXTINF:-1,RADIO BREMEN HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127952
+#EXTINF:-1,QVC STYLE HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127951
+#EXTINF:-1,ONE HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127950
+#EXTINF:-1,MTV HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127949
+#EXTINF:-1,Juwelo HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127948
+#EXTINF:-1,Handystar TV HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127947
+#EXTINF:-1,Channel 21 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127946
+#EXTINF:-1,BR Fernsehen Süd HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127945
+#EXTINF:-1,BR Fernsehen Nord HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127944
+#EXTINF:-1,DMAX FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22715
+#EXTINF:-1,DMAX HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6991
+#EXTINF:-1,Universal HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20851
+#EXTINF:-1,Comedy Central HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20852
 #EXTINF:-1,Welt Der Wunder HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20854
-#EXTINF:-1,-- DE | Deutsche Sport FHD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/129665
-#EXTINF:-1,Eurosport 2 Xtra FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35942
-#EXTINF:-1,Sky Bundesliga 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20862
-#EXTINF:-1,Sky Bundesliga 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20863
-#EXTINF:-1,Sky Bundesliga 3 FHD (LiveEvent)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22601
-#EXTINF:-1,Sky Bundesliga 4 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22607
-#EXTINF:-1,Sky Bundesliga 5 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22606
-#EXTINF:-1,Sky Bundesliga 6 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22605
-#EXTINF:-1,Sky Bundesliga 7 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35721
-#EXTINF:-1,Sky Bundesliga 8 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35723
-#EXTINF:-1,Sky Bundesliga 9 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35725
-#EXTINF:-1,Sky Bundesliga 10 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35727
-#EXTINF:-1,Sky Sport F1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/139034
-#EXTINF:-1,Sky Sport 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/3697
-#EXTINF:-1,Sky Sport 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1027
-#EXTINF:-1,Sky Sport 3 FHD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/22563
-#EXTINF:-1,SKY SPORT NEWS FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/20683
-#EXTINF:-1,DAZN 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137903
-#EXTINF:-1,DAZN 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/137904
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20854
+#EXTINF:-1,Heimatkanal HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7001
+#EXTINF:-1,MDR S-Anhalt FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20679
+#EXTINF:-1,RBB Berlin HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20681
+#EXTINF:-1,E! entertainement HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22323
+#EXTINF:-1,E! Entertainment FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20677
+#EXTINF:-1,Romance TV HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22750
+#EXTINF:-1,MTV FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20680
+#EXTINF:-1,KIKA HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7004
+#EXTINF:-1,Boomerang HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/6994
+#EXTINF:-1,Disney Channel FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22718
+#EXTINF:-1,Disney Channel HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7005
+#EXTINF:-1,Sky Cinema Harry Potter FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20658
+#EXTINF:-1,Sky Cinema Harry Potter HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1236
+#EXTINF:-1,Cartoon Network HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7007
+#EXTINF:-1,-- DE | Deutsche Kinder HD / FHD --
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/129666
+#EXTINF:-1,Nicktoons HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/129605
+#EXTINF:-1,TOGGO Plus HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/127957
+#EXTINF:-1,Spiegel Geschichte HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22727
+#EXTINF:-1,Spiegel Wissen HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22728
+#EXTINF:-1,Planet HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7010
+#EXTINF:-1,DISCOVERY FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20676
+#EXTINF:-1,HISTORY FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20678
+#EXTINF:-1,History HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1232
+#EXTINF:-1,Animal Planet HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7009
+#EXTINF:-1,Crime Investigation HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/37478
+#EXTINF:-1,NAT GEO WILD FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20661
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1119
+#EXTINF:-1,NAT GEOGRAPHIC FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20662
+#EXTINF:-1,Nat Geographic HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7008
+#EXTINF:-1,Discovery HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1121
+#EXTINF:-1,-- DE | Deutsche Kino HD / FHD --
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8925
+#EXTINF:-1,TNT Film HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1231
+#EXTINF:-1,TNT SERIES FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20673
+#EXTINF:-1,TNT Series HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1230
+#EXTINF:-1,TNT COMEDY FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20685
+#EXTINF:-1,TNT Comedy HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8930
+#EXTINF:-1,13th Street FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20657
+#EXTINF:-1,13th Street HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1135
+#EXTINF:-1,Universal FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20694
+#EXTINF:-1,Sky Cinema One FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20688
+#EXTINF:-1,SKY One HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8932
+#EXTINF:-1,SKY Cinema Premiere FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20669
+#EXTINF:-1,Sky Cinema best OFF FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20670
+#EXTINF:-1,SKY Cinema Premiere HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3713
+#EXTINF:-1,Sky Cinema Premiere +24 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3712
+#EXTINF:-1,Sky Cinema Premiere +24 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20691
+#EXTINF:-1,Sky Krimi FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35714
+#EXTINF:-1,Sky Cinema Krimi HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8931
+#EXTINF:-1,SKY Cinema Action HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1229
+#EXTINF:-1,SKY Cinema Action FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20668
+#EXTINF:-1,SKY Cinema Family HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8936
+#EXTINF:-1,SKY Cinema Atlantic HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1228
+#EXTINF:-1,Sky Cinema Atlantic FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20682
+#EXTINF:-1,SKY Cinema Thriller HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8934
+#EXTINF:-1,SKY Cinema Best OFF HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8933
+#EXTINF:-1,Sky Cinema Family FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20692
+#EXTINF:-1,SKY Select 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3701
+#EXTINF:-1,SKY Select 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3702
+#EXTINF:-1,SKY Select 3 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3703
+#EXTINF:-1,SKY Select 4 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3704
+#EXTINF:-1,SKY Select 5 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3705
+#EXTINF:-1,SKY Select 6 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3706
+#EXTINF:-1,SKY Select 7 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4763
+#EXTINF:-1,SKY Select 8 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4764
+#EXTINF:-1,SKY Select 9 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4765
+#EXTINF:-1,SKY Select 10 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4766
+#EXTINF:-1,Sky Cinema Fun FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/83515
+#EXTINF:-1,Sky Cinema Fun HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/83514
 #EXTINF:-1,-- DE | Deutsche Sport HD --
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8926
-#EXTINF:-1,DAZN 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35588
-#EXTINF:-1,DAZN 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35589
-#EXTINF:-1,Eurosport 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7189
-#EXTINF:-1,Eurosport 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7490
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7702
-#EXTINF:-1,Motor Vision HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/35619
-#EXTINF:-1,SKY Sport News HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1028
-#EXTINF:-1,Sky Bundesliga 1 SD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7174
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1031
-#EXTINF:-1,Sky Bundesliga 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1032
-#EXTINF:-1,Sky Bundesliga 3 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1030
-#EXTINF:-1,Sky Bundesliga 4 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1039
-#EXTINF:-1,Sky Bundesliga 5 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1040
-#EXTINF:-1,Sky Bundesliga 6 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4308
-#EXTINF:-1,Sky Bundesliga 7 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4309
-#EXTINF:-1,Sky Bundesliga 8 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4310
-#EXTINF:-1,Sky Bundesliga 9 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4311
-#EXTINF:-1,Sky Bundesliga 10 HD (Live Event)
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/4312
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8926
 #EXTINF:-1,Sport 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7190
-#EXTINF:-1,Sky Sport F1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/139035
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7190
+#EXTINF:-1,DAZN 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35588
+#EXTINF:-1,DAZN 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35589
+#EXTINF:-1,Motor Vision HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35619
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7189
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7490
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7702
+#EXTINF:-1,Eurosport 2 Xtra FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35942
+#EXTINF:-1,SKY Sport News HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1028
+#EXTINF:-1,SKY SPORT NEWS FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20683
 #EXTINF:-1,Sky Sport 1 HQ
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/21097
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/21097
 #EXTINF:-1,Sky Sport 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7176
-#EXTINF:-1,Sky Sport 2 SD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/21098
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7176
+#EXTINF:-1,Sky Sport 1 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/3697
+#EXTINF:-1,Sky Sport 2 HQ
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/21098
 #EXTINF:-1,Sky Sport 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/7177
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7177
+#EXTINF:-1,Sky Sport 2 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1027
 #EXTINF:-1,Sky Sport 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/9105
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9105
+#EXTINF:-1,Sky Sport 3 FHD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22563
 #EXTINF:-1,Sky Sport 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8779
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8779
 #EXTINF:-1,Sky Sport 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8780
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8780
 #EXTINF:-1,Sky Sport 6 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8781
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8781
 #EXTINF:-1,Sky Sport 7 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8782
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8782
 #EXTINF:-1,Sky Sport 8 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8783
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8783
 #EXTINF:-1,Sky Sport 9 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8784
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8784
 #EXTINF:-1,Sky Sport 10 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8785
-#EXTINF:-1,Telekom Fussball 1 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74089
-#EXTINF:-1,Telekom Fussball 2 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74090
-#EXTINF:-1,Telekom Fussball 3 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74091
-#EXTINF:-1,Telekom Fussball 4 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74092
-#EXTINF:-1,Telekom Fussball 5 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74093
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8785
+#EXTINF:-1,Sky Bundesliga 1 HQ
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7174
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1031
+#EXTINF:-1,Sky Bundesliga 1 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20862
+#EXTINF:-1,Sky Bundesliga 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1032
+#EXTINF:-1,Sky Bundesliga 2 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20863
+#EXTINF:-1,Sky Bundesliga 3 HD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1030
+#EXTINF:-1,Sky Bundesliga 3 FHD (LiveEvent)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22601
+#EXTINF:-1,Sky Bundesliga 4 HD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1039
+#EXTINF:-1,Sky Bundesliga 4 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22607
+#EXTINF:-1,Sky Bundesliga 5 HD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1040
+#EXTINF:-1,Sky Bundesliga 5 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22606
+#EXTINF:-1,Sky Bundesliga 6 HD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4308
+#EXTINF:-1,Sky Bundesliga 6 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22605
+#EXTINF:-1,Sky Bundesliga 7 HD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4309
+#EXTINF:-1,Sky Bundesliga 7 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35721
+#EXTINF:-1,Sky Bundesliga 8 HD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4310
+#EXTINF:-1,Sky Bundesliga 8 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35723
+#EXTINF:-1,Sky Bundesliga 9 HD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4311
+#EXTINF:-1,Sky Bundesliga 9 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35725
+#EXTINF:-1,Sky Bundesliga 10 HD (Live Event)
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4312
+#EXTINF:-1,Sky Bundesliga 10 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35727
 #EXTINF:-1,Telekom Fussball 6 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/74094
-#EXTINF:-1,Telekom Fussball 7 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138399
-#EXTINF:-1,Telekom Fussball 8 HD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/138400
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74094
+#EXTINF:-1,Telekom Fussball 5 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74093
+#EXTINF:-1,Telekom Fussball 4 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74092
+#EXTINF:-1,Telekom Fussball 3 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74091
+#EXTINF:-1,Telekom Fussball 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74090
+#EXTINF:-1,Telekom Fussball 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74089
+#EXTINF:-1,Sky Sport Austria HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131664
+#EXTINF:-1,TLC HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131663
+#EXTINF:-1,SUPER RTL HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131657
+#EXTINF:-1,NICKELODEON HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131656
+#EXTINF:-1,COMEDY CENTRAL/VIVA HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131655
+#EXTINF:-1,N-TV HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131654
+#EXTINF:-1,DMAX HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131653
+#EXTINF:-1,NITRO HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131652
+#EXTINF:-1,RTL PLUS HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131651
+#EXTINF:-1,RTL HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131649
+#EXTINF:-1,PRO 7 MAXX HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131648
+#EXTINF:-1,PROSIEBEN HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131647
+#EXTINF:-1,SIXX AUSTRIA HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131646
+#EXTINF:-1,VOX HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131641
+#EXTINF:-1,R9 FHD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131635
+#EXTINF:-1,SCHAU TV FHD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131634
+#EXTINF:-1,N24 DOKU Austria HD AT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/131627
