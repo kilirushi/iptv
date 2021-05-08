@@ -1,685 +1,943 @@
 #EXTM3U
-#EXTINF:-1,A&E FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1729
-#EXTINF:-1,ABC Buffalo HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/151835
-#EXTINF:-1,ABC Buffalo HD (WKBW)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13235
-#EXTINF:-1,ABC East HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147404
-#EXTINF:-1,ABC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/445
-#EXTINF:-1,ABC Spark HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13236
-#EXTINF:-1,ADULT SWIM HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9218
-#EXTINF:-1,AMC FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/503
-#EXTINF:-1,American Movie Classics HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193258
-#EXTINF:-1,AMI HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193215
-#EXTINF:-1,AMI TÉLÉ
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/172481
-#EXTINF:-1,ANIMAL PLANET HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9259
-#EXTINF:-1,APTN HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9294
-#EXTINF:-1,ARTV (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/170014
-#EXTINF:-1,BBC CANADA HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9249
-#EXTINF:-1,BBC NEWS HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/34757
-#EXTINF:-1,BBC WORLD NEWS HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2585
-#EXTINF:-1,beIN Sports HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13239
-#EXTINF:-1,BET HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9295
-#EXTINF:-1,BET HD (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/278130
-#EXTINF:-1,BNN HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/28709
-#EXTINF:-1,BOOMERANG HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174646
-#EXTINF:-1,BRAVO HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/20360
-#EXTINF:-1,C-PAC
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/475
-#EXTINF:-1,C-PAC English
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/187255
-#EXTINF:-1,Cable Pulse 24 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9224
-#EXTINF:-1,Canada One
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147405
-#EXTINF:-1,Canada Star TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/90549
-#EXTINF:-1,CANAL D (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/486
-#EXTINF:-1,CANAL SAVOIR (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12733
-#EXTINF:-1,CANAL SAVOIR HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9296
-#EXTINF:-1,CARTOON NETWORK HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/505
-#EXTINF:-1,CASA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2594
-#EXTINF:-1,CASA (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/487
-#EXTINF:-1,CBC CALGARY HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11619
-#EXTINF:-1,CBC Central HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81173
-#EXTINF:-1,CBC Eastern HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81172
-#EXTINF:-1,CBC Federicton
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/54634
-#EXTINF:-1,CBC HALIFAX HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/425
-#EXTINF:-1,CBC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/506
-#EXTINF:-1,CBC MONTREAL (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78288
+#EXTINF:-1,A&E
+http://152.89.62.111:8080/kyle123/kyle123/222772
+#EXTINF:-1,ABC 5 (WCVB) Boston
+http://152.89.62.111:8080/kyle123/kyle123/222773
+#EXTINF:-1,ABC 7 (WXYZ) Detroit
+http://152.89.62.111:8080/kyle123/kyle123/222774
+#EXTINF:-1,ABC Buffalo
+http://152.89.62.111:8080/kyle123/kyle123/222775
+#EXTINF:-1,ABC_Spark
+http://152.89.62.111:8080/kyle123/kyle123/222776
+#EXTINF:-1,Aboriginal Peoples Television Network
+http://152.89.62.111:8080/kyle123/kyle123/222777
+#EXTINF:-1,Addik TV (FR)
+http://152.89.62.111:8080/kyle123/kyle123/222778
+#EXTINF:-1,Adult Swim
+http://152.89.62.111:8080/kyle123/kyle123/222779
+#EXTINF:-1,Amazing Discoveries TV
+http://152.89.62.111:8080/kyle123/kyle123/222780
+#EXTINF:-1,AMC
+http://152.89.62.111:8080/kyle123/kyle123/222781
+#EXTINF:-1,American Heroes (B)
+http://152.89.62.111:8080/kyle123/kyle123/222782
+#EXTINF:-1,AMERICAN HEROES CHANNEL (B)
+http://152.89.62.111:8080/kyle123/kyle123/222783
+#EXTINF:-1,AMI TV
+http://152.89.62.111:8080/kyle123/kyle123/222784
+#EXTINF:-1,AMI-TELE FR
+http://152.89.62.111:8080/kyle123/kyle123/222785
+#EXTINF:-1,ANIMAL PLANET
+http://152.89.62.111:8080/kyle123/kyle123/222786
+#EXTINF:-1,APTN
+http://152.89.62.111:8080/kyle123/kyle123/222787
+#EXTINF:-1,Assemblee Nationale du Quebec
+http://152.89.62.111:8080/kyle123/kyle123/222788
+#EXTINF:-1,BBC Canada
+http://152.89.62.111:8080/kyle123/kyle123/222789
+#EXTINF:-1,BBC Earth HD
+http://152.89.62.111:8080/kyle123/kyle123/222790
+#EXTINF:-1,BBC Toronto Gaunda Punjab
+http://152.89.62.111:8080/kyle123/kyle123/222791
+#EXTINF:-1,BBC WORLD NEWS
+http://152.89.62.111:8080/kyle123/kyle123/222792
+#EXTINF:-1,BEIN SPORTS
+http://152.89.62.111:8080/kyle123/kyle123/222793
+#EXTINF:-1,Bein Sports HD
+http://152.89.62.111:8080/kyle123/kyle123/222794
+#EXTINF:-1,BNN_Bloomberg
+http://152.89.62.111:8080/kyle123/kyle123/222795
+#EXTINF:-1,BOOMERANG
+http://152.89.62.111:8080/kyle123/kyle123/222796
+#EXTINF:-1,CA CTV Sydney HD (B)
+http://152.89.62.111:8080/kyle123/kyle123/222797
+#EXTINF:-1,Cable 14
+http://152.89.62.111:8080/kyle123/kyle123/222798
+#EXTINF:-1,CablePulse 24
+http://152.89.62.111:8080/kyle123/kyle123/222799
+#EXTINF:-1,Canal 9
+http://152.89.62.111:8080/kyle123/kyle123/222800
+#EXTINF:-1,Canal D (FR)
+http://152.89.62.111:8080/kyle123/kyle123/222801
+#EXTINF:-1,Canal M
+http://152.89.62.111:8080/kyle123/kyle123/222802
+#EXTINF:-1,CARTOON NETWORK
+http://152.89.62.111:8080/kyle123/kyle123/222803
+#EXTINF:-1,Cartoon Network
+http://152.89.62.111:8080/kyle123/kyle123/222804
+#EXTINF:-1,CBC CALGARY
+http://152.89.62.111:8080/kyle123/kyle123/222805
+#EXTINF:-1,CBC Calgary
+http://152.89.62.111:8080/kyle123/kyle123/222806
+#EXTINF:-1,CBC Charlottetown
+http://152.89.62.111:8080/kyle123/kyle123/222807
+#EXTINF:-1,CBC Edmonton
+http://152.89.62.111:8080/kyle123/kyle123/222808
+#EXTINF:-1,CBC Edmonton
+http://152.89.62.111:8080/kyle123/kyle123/222809
+#EXTINF:-1,CBC Fredericton
+http://152.89.62.111:8080/kyle123/kyle123/222810
+#EXTINF:-1,CBC Halifax
+http://152.89.62.111:8080/kyle123/kyle123/222811
+#EXTINF:-1,CBC HALIFAX
+http://152.89.62.111:8080/kyle123/kyle123/222812
+#EXTINF:-1,CBC KIDS
+http://152.89.62.111:8080/kyle123/kyle123/222813
+#EXTINF:-1,CBC MONCTON
+http://152.89.62.111:8080/kyle123/kyle123/222814
+#EXTINF:-1,CBC Montreal
+http://152.89.62.111:8080/kyle123/kyle123/222815
+#EXTINF:-1,CBC Montreal
+http://152.89.62.111:8080/kyle123/kyle123/222816
 #EXTINF:-1,CBC Montreal HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/426
-#EXTINF:-1,CBC New Network HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/247458
-#EXTINF:-1,CBC NEWS HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11611
-#EXTINF:-1,CBC NEWS TORONTO HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/34761
-#EXTINF:-1,CBC Neww Network HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13232
-#EXTINF:-1,CBC Oshawa
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174764
-#EXTINF:-1,CBC OTTAWA HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/427
-#EXTINF:-1,CBC Regina HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/428
-#EXTINF:-1,CBC St. John s
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193446
+http://152.89.62.111:8080/kyle123/kyle123/222817
+#EXTINF:-1,CBC News Network
+http://152.89.62.111:8080/kyle123/kyle123/222818
+#EXTINF:-1,CBC News Network
+http://152.89.62.111:8080/kyle123/kyle123/222819
+#EXTINF:-1,CBC OTTAWA
+http://152.89.62.111:8080/kyle123/kyle123/222820
+#EXTINF:-1,CBC Ottawa
+http://152.89.62.111:8080/kyle123/kyle123/222821
+#EXTINF:-1,CBC Regina
+http://152.89.62.111:8080/kyle123/kyle123/222822
+#EXTINF:-1,CBC St. John's
+http://152.89.62.111:8080/kyle123/kyle123/222823
+#EXTINF:-1,CBC St. John's
+http://152.89.62.111:8080/kyle123/kyle123/222824
+#EXTINF:-1,CBC TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222825
+#EXTINF:-1,CBC Toronto
+http://152.89.62.111:8080/kyle123/kyle123/222826
 #EXTINF:-1,CBC Toronto (CBLT)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9247
-#EXTINF:-1,CBC TORONTO FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/429
-#EXTINF:-1,CBC VANCOUVER HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/430
-#EXTINF:-1,CBC West HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81174
-#EXTINF:-1,CBC WINNIPEG HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/432
-#EXTINF:-1,CBC YELLOWKNIFE HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168529
-#EXTINF:-1,CBS Buffalo HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276543
-#EXTINF:-1,CBS HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1728
-#EXTINF:-1,CHCH FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9246
-#EXTINF:-1,CHRGD HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/172486
-#EXTINF:-1,CINE POP (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/488
-#EXTINF:-1,CITY CALGARY HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/25801
-#EXTINF:-1,CITY MONTREAL
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13263
-#EXTINF:-1,CITY TORONTO HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1727
-#EXTINF:-1,CITY TV HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/483
-#EXTINF:-1,CITY TV VANCOUVER
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147407
+http://152.89.62.111:8080/kyle123/kyle123/222827
+#EXTINF:-1,CBC VANCOUVER
+http://152.89.62.111:8080/kyle123/kyle123/222828
+#EXTINF:-1,CBC Vancouver
+http://152.89.62.111:8080/kyle123/kyle123/222829
+#EXTINF:-1,CBC Windsor
+http://152.89.62.111:8080/kyle123/kyle123/222830
+#EXTINF:-1,CBC WINDSOR
+http://152.89.62.111:8080/kyle123/kyle123/222831
+#EXTINF:-1,CBC WINNIPEG
+http://152.89.62.111:8080/kyle123/kyle123/222832
+#EXTINF:-1,CBC Winnipeg
+http://152.89.62.111:8080/kyle123/kyle123/222833
+#EXTINF:-1,CBC WINNIPEG
+http://152.89.62.111:8080/kyle123/kyle123/222834
+#EXTINF:-1,CBC Yellowknife
+http://152.89.62.111:8080/kyle123/kyle123/222835
+#EXTINF:-1,CBC YELLOWKNIFE
+http://152.89.62.111:8080/kyle123/kyle123/222836
+#EXTINF:-1,CBS 4 (WBZ) Boston
+http://152.89.62.111:8080/kyle123/kyle123/222837
+#EXTINF:-1,CBS Buffalo
+http://152.89.62.111:8080/kyle123/kyle123/222838
+#EXTINF:-1,CGTN
+http://152.89.62.111:8080/kyle123/kyle123/222839
+#EXTINF:-1,CGTN DOCUMENTARY (B)
+http://152.89.62.111:8080/kyle123/kyle123/222840
+#EXTINF:-1,CHCH
+http://152.89.62.111:8080/kyle123/kyle123/222841
+#EXTINF:-1,CinePOP (FR)
+http://152.89.62.111:8080/kyle123/kyle123/222842
+#EXTINF:-1,CITY MONTREAL (B)
+http://152.89.62.111:8080/kyle123/kyle123/222843
+#EXTINF:-1,CITY TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222844
+#EXTINF:-1,CITY TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222845
 #EXTINF:-1,Citytv Toronto
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/69070
-#EXTINF:-1,CMT CANADA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174733
-#EXTINF:-1,CMT HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/482
-#EXTINF:-1,CNBC Canada
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/187250
-#EXTINF:-1,CNBC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9221
+http://152.89.62.111:8080/kyle123/kyle123/222846
+#EXTINF:-1,CMT
+http://152.89.62.111:8080/kyle123/kyle123/222847
+#EXTINF:-1,CNBC
+http://152.89.62.111:8080/kyle123/kyle123/222848
+#EXTINF:-1,CNN
+http://152.89.62.111:8080/kyle123/kyle123/222849
 #EXTINF:-1,CNN HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/480
-#EXTINF:-1,CNN INTERNATIONAL HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/481
-#EXTINF:-1,COMEDY CENTRAL
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173692
-#EXTINF:-1,COMEDY East
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40623
-#EXTINF:-1,COMEDY HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/479
-#EXTINF:-1,COOKING Channel HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/478
-#EXTINF:-1,CORONA VIRUS INFO
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/196540
-#EXTINF:-1,Cottage Life FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/477
-#EXTINF:-1,CP 24 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/476
-#EXTINF:-1,CPAC (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9254
-#EXTINF:-1,CPAC French
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/199692
-#EXTINF:-1,CRAVE 1 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13244
-#EXTINF:-1,CRAVE 2 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13245
-#EXTINF:-1,CRAVE 3 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9283
-#EXTINF:-1,CRAVE 4 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13246
-#EXTINF:-1,Crime+ Investigation HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9308
-#EXTINF:-1,CTV 2
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/15013
-#EXTINF:-1,CTV 2 VANCOUVER HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6143
+http://152.89.62.111:8080/kyle123/kyle123/222850
+#EXTINF:-1,COOKING CHANNEL (B)
+http://152.89.62.111:8080/kyle123/kyle123/222851
+#EXTINF:-1,COTTAGE LIFE (B)
+http://152.89.62.111:8080/kyle123/kyle123/222852
+#EXTINF:-1,CP24
+http://152.89.62.111:8080/kyle123/kyle123/222853
+#EXTINF:-1,CP24 (Backup)
+http://152.89.62.111:8080/kyle123/kyle123/222854
+#EXTINF:-1,CPAC EN
+http://152.89.62.111:8080/kyle123/kyle123/222855
+#EXTINF:-1,CPAC FR
+http://152.89.62.111:8080/kyle123/kyle123/222856
+#EXTINF:-1,Crave 1
+http://152.89.62.111:8080/kyle123/kyle123/222857
+#EXTINF:-1,Crave 2
+http://152.89.62.111:8080/kyle123/kyle123/222858
+#EXTINF:-1,Crave 3
+http://152.89.62.111:8080/kyle123/kyle123/222859
+#EXTINF:-1,Crave 4
+http://152.89.62.111:8080/kyle123/kyle123/222860
+#EXTINF:-1,Crime & Investigation
+http://152.89.62.111:8080/kyle123/kyle123/222861
+#EXTINF:-1,CRIME & INVESTIGATION
+http://152.89.62.111:8080/kyle123/kyle123/222862
+#EXTINF:-1,CRIME INVESTIGATION
+http://152.89.62.111:8080/kyle123/kyle123/222863
+#EXTINF:-1,CTV (Kitchener)
+http://152.89.62.111:8080/kyle123/kyle123/222864
+#EXTINF:-1,CTV (Ottawa)
+http://152.89.62.111:8080/kyle123/kyle123/222865
+#EXTINF:-1,CTV 2 (London)
+http://152.89.62.111:8080/kyle123/kyle123/222866
+#EXTINF:-1,CTV 2 (Ottawa)
+http://152.89.62.111:8080/kyle123/kyle123/222867
+#EXTINF:-1,CTV 2 Atlantic
+http://152.89.62.111:8080/kyle123/kyle123/222868
+#EXTINF:-1,CTV 2 Atlantic
+http://152.89.62.111:8080/kyle123/kyle123/222869
+#EXTINF:-1,CTV 2 ATLANTIC (B)
+http://152.89.62.111:8080/kyle123/kyle123/222870
+#EXTINF:-1,CTV 2 BARRIE
+http://152.89.62.111:8080/kyle123/kyle123/222871
+#EXTINF:-1,CTV 2 TORONTO (B)
+http://152.89.62.111:8080/kyle123/kyle123/222872
+#EXTINF:-1,CTV ATLANTIC
+http://152.89.62.111:8080/kyle123/kyle123/222873
+#EXTINF:-1,CTV Atlantic HD
+http://152.89.62.111:8080/kyle123/kyle123/222874
 #EXTINF:-1,CTV CALGARY
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40631
-#EXTINF:-1,CTV CENTRAL HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81176
-#EXTINF:-1,CTV Comedy East HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/68580
-#EXTINF:-1,CTV COMEDY HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13229
-#EXTINF:-1,CTV DRAMA Channel
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9220
-#EXTINF:-1,CTV EASTERN HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81181
-#EXTINF:-1,CTV HALIFAX
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9310
-#EXTINF:-1,CTV HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9297
-#EXTINF:-1,CTV Kitchener HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147409
-#EXTINF:-1,CTV MONTREAL (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267508
-#EXTINF:-1,CTV MONTREAL HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9311
-#EXTINF:-1,CTV News Channel HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/474
-#EXTINF:-1,CTV NEWS NETWORK HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9312
+http://152.89.62.111:8080/kyle123/kyle123/222875
+#EXTINF:-1,CTV CALGARY
+http://152.89.62.111:8080/kyle123/kyle123/222876
+#EXTINF:-1,CTV COMEDY
+http://152.89.62.111:8080/kyle123/kyle123/222877
+#EXTINF:-1,CTV COMEDY
+http://152.89.62.111:8080/kyle123/kyle123/222878
+#EXTINF:-1,CTV Drama Channel
+http://152.89.62.111:8080/kyle123/kyle123/222879
+#EXTINF:-1,CTV HALIFAX (B)
+http://152.89.62.111:8080/kyle123/kyle123/222880
+#EXTINF:-1,CTV KITCHENER
+http://152.89.62.111:8080/kyle123/kyle123/222881
+#EXTINF:-1,CTV Life Channel (B)
+http://152.89.62.111:8080/kyle123/kyle123/222882
+#EXTINF:-1,CTV MONCTON (B)
+http://152.89.62.111:8080/kyle123/kyle123/222883
+#EXTINF:-1,CTV MONTREAL
+http://152.89.62.111:8080/kyle123/kyle123/222884
+#EXTINF:-1,CTV news
+http://152.89.62.111:8080/kyle123/kyle123/222885
+#EXTINF:-1,CTV News Channel
+http://152.89.62.111:8080/kyle123/kyle123/222886
+#EXTINF:-1,CTV News Live Events 3
+http://152.89.62.111:8080/kyle123/kyle123/222887
+#EXTINF:-1,CTV NEWS NETWORK
+http://152.89.62.111:8080/kyle123/kyle123/222888
+#EXTINF:-1,CTV NORTH BAY (B)
+http://152.89.62.111:8080/kyle123/kyle123/222889
 #EXTINF:-1,CTV OTTAWA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9313
-#EXTINF:-1,CTV sci-fi HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/121596
-#EXTINF:-1,CTV SYFY
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/60157
-#EXTINF:-1,CTV TORONTO HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/473
-#EXTINF:-1,CTV Two Atlantic
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13228
-#EXTINF:-1,CTV VANCOUVER HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9314
+http://152.89.62.111:8080/kyle123/kyle123/222890
+#EXTINF:-1,CTV Ottawa HD
+http://152.89.62.111:8080/kyle123/kyle123/222891
+#EXTINF:-1,CTV Sault Ste. Marie HD (B)
+http://152.89.62.111:8080/kyle123/kyle123/222892
+#EXTINF:-1,CTV SCI-FI Channel
+http://152.89.62.111:8080/kyle123/kyle123/222893
+#EXTINF:-1,CTV SUDBURY (B)
+http://152.89.62.111:8080/kyle123/kyle123/222894
+#EXTINF:-1,CTV Timmins HD (B)
+http://152.89.62.111:8080/kyle123/kyle123/222895
+#EXTINF:-1,CTV TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222896
+#EXTINF:-1,CTV TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222897
+#EXTINF:-1,CTV VANCOUVER
+http://152.89.62.111:8080/kyle123/kyle123/222898
+#EXTINF:-1,CTV WINNIPEG (B)
+http://152.89.62.111:8080/kyle123/kyle123/222899
+#EXTINF:-1,CTV2 Barrie
+http://152.89.62.111:8080/kyle123/kyle123/222900
+#EXTINF:-1,CTV2 LONDON
+http://152.89.62.111:8080/kyle123/kyle123/222901
 #EXTINF:-1,CTV2 OTTAWA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9315
-#EXTINF:-1,CW FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6144
-#EXTINF:-1,DAYSTAR TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9316
-#EXTINF:-1,DEJAVIEW HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/472
-#EXTINF:-1,Discovery CANADA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72569
-#EXTINF:-1,Discovery Channel FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1726
-#EXTINF:-1,Discovery Science HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2583
-#EXTINF:-1,Discovery Velocity HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/36720
-#EXTINF:-1,Disney (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78229
-#EXTINF:-1,Disney Channel HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6146
-#EXTINF:-1,Disney FRENCH
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/200241
-#EXTINF:-1,Disney JR HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/471
-#EXTINF:-1,Disney Junior (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/264457
-#EXTINF:-1,Disney La Chaine (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/54675
-#EXTINF:-1,Disney LA CHAÎNE
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81135
-#EXTINF:-1,Disney XD HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/470
-#EXTINF:-1,DIY
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/29635
-#EXTINF:-1,DIY Network FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/469
-#EXTINF:-1,DOCUMENTARY Channel HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1725
-#EXTINF:-1,DTour HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9238
-#EXTINF:-1,E! FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/468
-#EXTINF:-1,EMCI TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165426
-#EXTINF:-1,EVASION
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2589
-#EXTINF:-1,EVASION (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/489
-#EXTINF:-1,EWTN TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193449
-#EXTINF:-1,Family HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168956
-#EXTINF:-1,Family Jr HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9236
-#EXTINF:-1,FIGHT NETWORK FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9235
-#EXTINF:-1,FOOD NETWORK FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1724
-#EXTINF:-1,FOX Buffalo HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/172489
-#EXTINF:-1,FOX FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/467
-#EXTINF:-1,FOX NEWS CANADA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/83891
-#EXTINF:-1,FOX News HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13272
-#EXTINF:-1,FOX SPORTS Racing
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13207
-#EXTINF:-1,FOXNADA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/200242
-#EXTINF:-1,FX CANADA HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72590
-#EXTINF:-1,FX FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11616
-#EXTINF:-1,FXX HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6148
-#EXTINF:-1,FXX HD (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/60186
-#EXTINF:-1,GAME HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9233
-#EXTINF:-1,Game Show HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/32449
-#EXTINF:-1,GLOBAL BC
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168555
-#EXTINF:-1,Global FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/464
-#EXTINF:-1,GLOBAL HALIFAX
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9317
-#EXTINF:-1,GLOBAL TORONTO HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/465
-#EXTINF:-1,Global Toronto HD [CIII]
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13224
-#EXTINF:-1,GLOBAL VANCOUVER HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11620
-#EXTINF:-1,GOLF Channel HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9232
-#EXTINF:-1,GSN FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/466
-#EXTINF:-1,GUSTO
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9318
-#EXTINF:-1,H2 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13275
-#EXTINF:-1,HBO 1 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9285
-#EXTINF:-1,HBO 2 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9284
-#EXTINF:-1,HBO HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/463
-#EXTINF:-1,HG HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9231
-#EXTINF:-1,HGTV Canada
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276547
-#EXTINF:-1,HISTORIA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/462
-#EXTINF:-1,HISTORIO (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/192829
-#EXTINF:-1,History (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11625
-#EXTINF:-1,History 2
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/32450
-#EXTINF:-1,History Television
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193246
-#EXTINF:-1,HLN FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13223
-#EXTINF:-1,ICI MONTREAL (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/490
-#EXTINF:-1,ICI MONTREAL HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2595
-#EXTINF:-1,ICI Radio-Canada Télé
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276550
-#EXTINF:-1,ICI RDI HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9257
-#EXTINF:-1,Ici TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/166064
-#EXTINF:-1,ICI Télévision
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165424
-#EXTINF:-1,ICI VANCOUVER (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2596
-#EXTINF:-1,IFC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40652
+http://152.89.62.111:8080/kyle123/kyle123/222902
+#EXTINF:-1,CTV2 VICTORIA (B)
+http://152.89.62.111:8080/kyle123/kyle123/222903
+#EXTINF:-1,CTV2 WINDSOR (B)
+http://152.89.62.111:8080/kyle123/kyle123/222904
+#EXTINF:-1,DAYSTAR TV (B)
+http://152.89.62.111:8080/kyle123/kyle123/222905
+#EXTINF:-1,DAZN 01
+http://152.89.62.111:8080/kyle123/kyle123/222906
+#EXTINF:-1,Dazn 02
+http://152.89.62.111:8080/kyle123/kyle123/222907
+#EXTINF:-1,Dazn 03
+http://152.89.62.111:8080/kyle123/kyle123/222908
+#EXTINF:-1,Dazn 04
+http://152.89.62.111:8080/kyle123/kyle123/222909
+#EXTINF:-1,Dazn 05
+http://152.89.62.111:8080/kyle123/kyle123/222910
+#EXTINF:-1,Dazn 06
+http://152.89.62.111:8080/kyle123/kyle123/222911
+#EXTINF:-1,Dazn 07
+http://152.89.62.111:8080/kyle123/kyle123/222912
+#EXTINF:-1,Dazn 08
+http://152.89.62.111:8080/kyle123/kyle123/222913
+#EXTINF:-1,Dazn 09
+http://152.89.62.111:8080/kyle123/kyle123/222914
+#EXTINF:-1,Dazn 10
+http://152.89.62.111:8080/kyle123/kyle123/222915
+#EXTINF:-1,Dazn 11
+http://152.89.62.111:8080/kyle123/kyle123/222916
+#EXTINF:-1,Dazn 12
+http://152.89.62.111:8080/kyle123/kyle123/222917
+#EXTINF:-1,Dazn 13
+http://152.89.62.111:8080/kyle123/kyle123/222918
+#EXTINF:-1,Discovery Channel
+http://152.89.62.111:8080/kyle123/kyle123/222919
+#EXTINF:-1,DISCOVERY SCIENCE
+http://152.89.62.111:8080/kyle123/kyle123/222920
+#EXTINF:-1,Discovery Velocity
+http://152.89.62.111:8080/kyle123/kyle123/222921
+#EXTINF:-1,Disney Channel
+http://152.89.62.111:8080/kyle123/kyle123/222922
+#EXTINF:-1,Disney Junior
+http://152.89.62.111:8080/kyle123/kyle123/222923
+#EXTINF:-1,Disney La Chaine
+http://152.89.62.111:8080/kyle123/kyle123/222924
+#EXTINF:-1,DISNEY XD
+http://152.89.62.111:8080/kyle123/kyle123/222925
+#EXTINF:-1,DIY Network
+http://152.89.62.111:8080/kyle123/kyle123/222926
+#EXTINF:-1,DTOUR
+http://152.89.62.111:8080/kyle123/kyle123/222927
+#EXTINF:-1,E! Entertainment
+http://152.89.62.111:8080/kyle123/kyle123/222928
+#EXTINF:-1,FAITH TV
+http://152.89.62.111:8080/kyle123/kyle123/222929
+#EXTINF:-1,FAMILY
+http://152.89.62.111:8080/kyle123/kyle123/222930
+#EXTINF:-1,FAMILY CHRGD
+http://152.89.62.111:8080/kyle123/kyle123/222931
+#EXTINF:-1,FAMILY JR
+http://152.89.62.111:8080/kyle123/kyle123/222932
+#EXTINF:-1,Fight Network
+http://152.89.62.111:8080/kyle123/kyle123/222933
+#EXTINF:-1,Food Network
+http://152.89.62.111:8080/kyle123/kyle123/222934
+#EXTINF:-1,FOX NEWS
+http://152.89.62.111:8080/kyle123/kyle123/222935
+#EXTINF:-1,Fox News HD (R)
+http://152.89.62.111:8080/kyle123/kyle123/222936
+#EXTINF:-1,Fox Sports Racing
+http://152.89.62.111:8080/kyle123/kyle123/222937
+#EXTINF:-1,FX
+http://152.89.62.111:8080/kyle123/kyle123/222938
+#EXTINF:-1,FXX
+http://152.89.62.111:8080/kyle123/kyle123/222939
+#EXTINF:-1,GAME SHOW NETWORK (B)
+http://152.89.62.111:8080/kyle123/kyle123/222940
+#EXTINF:-1,GAME SHOW NETWORK (B)
+http://152.89.62.111:8080/kyle123/kyle123/222941
+#EXTINF:-1,Game TV
+http://152.89.62.111:8080/kyle123/kyle123/222942
+#EXTINF:-1,Game+
+http://152.89.62.111:8080/kyle123/kyle123/222943
+#EXTINF:-1,Global Calgary
+http://152.89.62.111:8080/kyle123/kyle123/222944
+#EXTINF:-1,Global Durham
+http://152.89.62.111:8080/kyle123/kyle123/222945
+#EXTINF:-1,Global Durham
+http://152.89.62.111:8080/kyle123/kyle123/222946
+#EXTINF:-1,GLOBAL HALIFAX (B)
+http://152.89.62.111:8080/kyle123/kyle123/222947
+#EXTINF:-1,GLOBAL KINGSTON (B)
+http://152.89.62.111:8080/kyle123/kyle123/222948
+#EXTINF:-1,Global Maritimes HD
+http://152.89.62.111:8080/kyle123/kyle123/222949
+#EXTINF:-1,GLOBAL MONTREAL (B)
+http://152.89.62.111:8080/kyle123/kyle123/222950
+#EXTINF:-1,Global National
+http://152.89.62.111:8080/kyle123/kyle123/222951
+#EXTINF:-1,Global News Edmonton
+http://152.89.62.111:8080/kyle123/kyle123/222952
+#EXTINF:-1,Global Peterborough (B)
+http://152.89.62.111:8080/kyle123/kyle123/222953
+#EXTINF:-1,GLOBAL TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222954
+#EXTINF:-1,Global Toronto
+http://152.89.62.111:8080/kyle123/kyle123/222955
+#EXTINF:-1,GLOBAL VANCOUVER (B)
+http://152.89.62.111:8080/kyle123/kyle123/222956
+#EXTINF:-1,GOLF
+http://152.89.62.111:8080/kyle123/kyle123/222957
+#EXTINF:-1,HBO
+http://152.89.62.111:8080/kyle123/kyle123/222958
+#EXTINF:-1,HBO 2
+http://152.89.62.111:8080/kyle123/kyle123/222959
+#EXTINF:-1,HDCBO
+http://152.89.62.111:8080/kyle123/kyle123/222960
+#EXTINF:-1,HGTV
+http://152.89.62.111:8080/kyle123/kyle123/222961
+#EXTINF:-1,Historia (FR)
+http://152.89.62.111:8080/kyle123/kyle123/222962
+#EXTINF:-1,HISTORY 2 (B)
+http://152.89.62.111:8080/kyle123/kyle123/222963
+#EXTINF:-1,History Channel
+http://152.89.62.111:8080/kyle123/kyle123/222964
+#EXTINF:-1,HLN
+http://152.89.62.111:8080/kyle123/kyle123/222965
+#EXTINF:-1,HLN
+http://152.89.62.111:8080/kyle123/kyle123/222966
+#EXTINF:-1,Hollywood Suite 2000's
+http://152.89.62.111:8080/kyle123/kyle123/222967
+#EXTINF:-1,Hollywood Suite 70's
+http://152.89.62.111:8080/kyle123/kyle123/222968
+#EXTINF:-1,Hollywood Suite 80's
+http://152.89.62.111:8080/kyle123/kyle123/222969
+#EXTINF:-1,Hollywood Suite 90's
+http://152.89.62.111:8080/kyle123/kyle123/222970
+#EXTINF:-1,ICI Montreal (FR)
+http://152.89.62.111:8080/kyle123/kyle123/222971
+#EXTINF:-1,ICI RDI
+http://152.89.62.111:8080/kyle123/kyle123/222972
+#EXTINF:-1,ICI Tele
+http://152.89.62.111:8080/kyle123/kyle123/222973
+#EXTINF:-1,ICI TV Montreal
+http://152.89.62.111:8080/kyle123/kyle123/222974
+#EXTINF:-1,ID
+http://152.89.62.111:8080/kyle123/kyle123/222975
 #EXTINF:-1,IIPC TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193436
+http://152.89.62.111:8080/kyle123/kyle123/222976
 #EXTINF:-1,Investigation Discovery HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9319
-#EXTINF:-1,KNOWLEDGE KIDS
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13276
+http://152.89.62.111:8080/kyle123/kyle123/222977
+#EXTINF:-1,JOYTV 10 BRITISH COLUMBIA (B)
+http://152.89.62.111:8080/kyle123/kyle123/222978
+#EXTINF:-1,Knowledge Network
+http://152.89.62.111:8080/kyle123/kyle123/222979
+#EXTINF:-1,La Chaine Disney (FR))
+http://152.89.62.111:8080/kyle123/kyle123/222980
 #EXTINF:-1,LCN (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9300
-#EXTINF:-1,LCN HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173116
-#EXTINF:-1,Lifetime FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/460
-#EXTINF:-1,LIFETIME MOVIE NETWORK HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/34751
-#EXTINF:-1,LOVE NATURE HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1723
+http://152.89.62.111:8080/kyle123/kyle123/222981
+#EXTINF:-1,Leafs Nation Network HD (B)
+http://152.89.62.111:8080/kyle123/kyle123/222982
+#EXTINF:-1,Legislative Assembly of British Columbia Committee A
+http://152.89.62.111:8080/kyle123/kyle123/222983
+#EXTINF:-1,Legislative Assembly of Ontario
+http://152.89.62.111:8080/kyle123/kyle123/222984
+#EXTINF:-1,Lifetime
+http://152.89.62.111:8080/kyle123/kyle123/222985
+#EXTINF:-1,Love Nature
+http://152.89.62.111:8080/kyle123/kyle123/222986
+#EXTINF:-1,Love Nature
+http://152.89.62.111:8080/kyle123/kyle123/222987
+#EXTINF:-1,LOVE NATURE
+http://152.89.62.111:8080/kyle123/kyle123/222988
 #EXTINF:-1,Makeful
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9228
-#EXTINF:-1,MAV TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9320
-#EXTINF:-1,MAX HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9321
+http://152.89.62.111:8080/kyle123/kyle123/222989
 #EXTINF:-1,MEDIASET ITALIA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/196441
-#EXTINF:-1,METEO (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/492
-#EXTINF:-1,Meteo Media
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/196481
-#EXTINF:-1,MII TFO (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/278441
-#EXTINF:-1,MLB Network HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9256
-#EXTINF:-1,MLB TV HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81194
-#EXTINF:-1,MOI & CIE (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/493
-#EXTINF:-1,MOVIETIME HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9204
-#EXTINF:-1,MSNBC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14961
-#EXTINF:-1,MTIME
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/62620
-#EXTINF:-1,MTV 2 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/459
-#EXTINF:-1,MTV HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2584
-#EXTINF:-1,MUCH HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/458
-#EXTINF:-1,Much Music HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9226
-#EXTINF:-1,MuchMusicHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/187220
-#EXTINF:-1,MUSIQUE PLUS (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12739
-#EXTINF:-1,NAT GEO HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/456
-#EXTINF:-1,NAT GEO Wild HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/457
-#EXTINF:-1,NBA HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13222
-#EXTINF:-1,NBC Buffalo HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/172490
-#EXTINF:-1,NFL NETWORK HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9211
-#EXTINF:-1,NHL Network HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81198
-#EXTINF:-1,nickelodeon HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9202
-#EXTINF:-1,NICKTOONS HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/455
-#EXTINF:-1,NTV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9325
-#EXTINF:-1,OLN HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/454
-#EXTINF:-1,OMNI 1 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/453
-#EXTINF:-1,OMNI.2 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/452
-#EXTINF:-1,OWN HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13219
+http://152.89.62.111:8080/kyle123/kyle123/222990
+#EXTINF:-1,Meteo Media (FR)
+http://152.89.62.111:8080/kyle123/kyle123/222991
+#EXTINF:-1,MLB Network
+http://152.89.62.111:8080/kyle123/kyle123/222992
+#EXTINF:-1,MOI et CIE (FR)
+http://152.89.62.111:8080/kyle123/kyle123/222993
+#EXTINF:-1,Montreal Greek TV
+http://152.89.62.111:8080/kyle123/kyle123/222994
+#EXTINF:-1,MovieTime
+http://152.89.62.111:8080/kyle123/kyle123/222995
+#EXTINF:-1,MSNBC
+http://152.89.62.111:8080/kyle123/kyle123/222996
+#EXTINF:-1,MTV
+http://152.89.62.111:8080/kyle123/kyle123/222997
+#EXTINF:-1,MTV 2 (B)
+http://152.89.62.111:8080/kyle123/kyle123/222998
+#EXTINF:-1,Much
+http://152.89.62.111:8080/kyle123/kyle123/222999
+#EXTINF:-1,MUCH_MUSIC
+http://152.89.62.111:8080/kyle123/kyle123/223000
+#EXTINF:-1,My 43 (WUAB) Cleveland
+http://152.89.62.111:8080/kyle123/kyle123/223001
+#EXTINF:-1,NAT GEO
+http://152.89.62.111:8080/kyle123/kyle123/223002
+#EXTINF:-1,Nat Geo Wild
+http://152.89.62.111:8080/kyle123/kyle123/223003
+#EXTINF:-1,NAT GEO WILD
+http://152.89.62.111:8080/kyle123/kyle123/223004
+#EXTINF:-1,NBA_TV
+http://152.89.62.111:8080/kyle123/kyle123/223005
+#EXTINF:-1,NBC  (WYCN) Nashua
+http://152.89.62.111:8080/kyle123/kyle123/223006
+#EXTINF:-1,NBC 8 (WYCN) Boston
+http://152.89.62.111:8080/kyle123/kyle123/223007
+#EXTINF:-1,New Tang Dynasty Canada (B)
+http://152.89.62.111:8080/kyle123/kyle123/223008
+#EXTINF:-1,NFL Network
+http://152.89.62.111:8080/kyle123/kyle123/223009
+#EXTINF:-1,Nickelodeon
+http://152.89.62.111:8080/kyle123/kyle123/223010
+#EXTINF:-1,NOOVO V-Tele (FR)
+http://152.89.62.111:8080/kyle123/kyle123/223011
+#EXTINF:-1,NTV St. John's
+http://152.89.62.111:8080/kyle123/kyle123/223012
+#EXTINF:-1,OLN
+http://152.89.62.111:8080/kyle123/kyle123/223013
+#EXTINF:-1,OMNI East
+http://152.89.62.111:8080/kyle123/kyle123/223014
+#EXTINF:-1,OMNI_1
+http://152.89.62.111:8080/kyle123/kyle123/223015
+#EXTINF:-1,OMNI_2
+http://152.89.62.111:8080/kyle123/kyle123/223016
+#EXTINF:-1,OWN
+http://152.89.62.111:8080/kyle123/kyle123/223017
 #EXTINF:-1,PARAMOUNT
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173694
-#EXTINF:-1,PARAMOUNT NETWORK HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/451
-#EXTINF:-1,Pardesi TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193437
-#EXTINF:-1,PBS Buffalo HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/74877
-#EXTINF:-1,PBS HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14959
-#EXTINF:-1,PEACH TREE HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/484
-#EXTINF:-1,Prime Canada TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193448
+http://152.89.62.111:8080/kyle123/kyle123/223018
+#EXTINF:-1,Paramount Network
+http://152.89.62.111:8080/kyle123/kyle123/223019
+#EXTINF:-1,PBS 10 (WMEM) Presque Isle
+http://152.89.62.111:8080/kyle123/kyle123/223020
+#EXTINF:-1,PBS 17 (WNED) Buffalo
+http://152.89.62.111:8080/kyle123/kyle123/223021
+#EXTINF:-1,PBS 54 (WQLN) Erie
+http://152.89.62.111:8080/kyle123/kyle123/223022
+#EXTINF:-1,PBS Buffalo (WNED)
+http://152.89.62.111:8080/kyle123/kyle123/223023
+#EXTINF:-1,PBS Detroit (WTVS)
+http://152.89.62.111:8080/kyle123/kyle123/223024
+#EXTINF:-1,PEACHTREE TV
+http://152.89.62.111:8080/kyle123/kyle123/223025
 #EXTINF:-1,PRISE
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2590
-#EXTINF:-1,PRISE (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/494
-#EXTINF:-1,RDI
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174759
-#EXTINF:-1,RDI (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12740
-#EXTINF:-1,RDS
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/264458
-#EXTINF:-1,RDS 2 (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/495
-#EXTINF:-1,RDS INFO
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267759
-#EXTINF:-1,RDS INFO (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/496
-#EXTINF:-1,Salt & Light TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165432
-#EXTINF:-1,Series (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267509
-#EXTINF:-1,Series Plus
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13277
-#EXTINF:-1,SERIS (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/26036
-#EXTINF:-1,SHOPPING
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9327
-#EXTINF:-1,Showcase HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9210
+http://152.89.62.111:8080/kyle123/kyle123/223026
+#EXTINF:-1,Quo Vadis TV
+http://152.89.62.111:8080/kyle123/kyle123/223027
+#EXTINF:-1,QVTV
+http://152.89.62.111:8080/kyle123/kyle123/223028
+#EXTINF:-1,RDS (FR)
+http://152.89.62.111:8080/kyle123/kyle123/223029
+#EXTINF:-1,RDS (HD)
+http://152.89.62.111:8080/kyle123/kyle123/223030
+#EXTINF:-1,RDS (HQ)
+http://152.89.62.111:8080/kyle123/kyle123/223031
+#EXTINF:-1,RDS (LQ)
+http://152.89.62.111:8080/kyle123/kyle123/223032
+#EXTINF:-1,Rogers TV (Corner Brook)
+http://152.89.62.111:8080/kyle123/kyle123/223033
+#EXTINF:-1,Rogers TV (London)
+http://152.89.62.111:8080/kyle123/kyle123/223034
+#EXTINF:-1,Rogers TV (Ottawa)
+http://152.89.62.111:8080/kyle123/kyle123/223035
+#EXTINF:-1,Rogers TV (St. John's)
+http://152.89.62.111:8080/kyle123/kyle123/223036
+#EXTINF:-1,Rogers TV Barrie
+http://152.89.62.111:8080/kyle123/kyle123/223037
+#EXTINF:-1,Rogers TV Bathurst
+http://152.89.62.111:8080/kyle123/kyle123/223038
+#EXTINF:-1,Rogers TV Corner_Brook
+http://152.89.62.111:8080/kyle123/kyle123/223039
+#EXTINF:-1,Rogers TV FR
+http://152.89.62.111:8080/kyle123/kyle123/223040
+#EXTINF:-1,Rogers TV Guelph
+http://152.89.62.111:8080/kyle123/kyle123/223041
+#EXTINF:-1,Rogers TV St. Thomas/Strathroy
+http://152.89.62.111:8080/kyle123/kyle123/223042
+#EXTINF:-1,Rogers TV Waterloo
+http://152.89.62.111:8080/kyle123/kyle123/223043
+#EXTINF:-1,Salt + Light
+http://152.89.62.111:8080/kyle123/kyle123/223044
+#EXTINF:-1,Showcase
+http://152.89.62.111:8080/kyle123/kyle123/223045
 #EXTINF:-1,SILVER SCREEN CLASSICS
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9328
-#EXTINF:-1,Slice HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13215
-#EXTINF:-1,SMITHSONIAN Channel HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/34738
-#EXTINF:-1,SNW West
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/201177
-#EXTINF:-1,SPACE
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/28717
-#EXTINF:-1,SPIKE TV / PARAMOUNT
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/266838
-#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/35240
-#EXTINF:-1,SPIKE TV / PARAMOUNTNADA
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147225
-#EXTINF:-1,Sportnet Ontario HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/7808
-#EXTINF:-1,Sports Net 360
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173404
-#EXTINF:-1,Sports Net One HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/54657
-#EXTINF:-1,Sports Net Pacific HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40670
-#EXTINF:-1,Sports NET West HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72575
-#EXTINF:-1,SportsNet 360 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3377
-#EXTINF:-1,SportsNet East HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3379
-#EXTINF:-1,SportsNet HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78271
-#EXTINF:-1,SportsNet New York HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/150621
-#EXTINF:-1,SportsNet NY
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168583
-#EXTINF:-1,SportsNet ONE HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3378
-#EXTINF:-1,SportsNet Ontario (Premier League)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/199697
-#EXTINF:-1,SportsNet Ontario HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1721
-#EXTINF:-1,SportsNet Pacific FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/5511
-#EXTINF:-1,SportsNet West FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3380
-#EXTINF:-1,SportsNet WORLD HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1720
-#EXTINF:-1,SSP Promotion Channel HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193251
-#EXTINF:-1,SUPER Channel FUSE
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/62633
-#EXTINF:-1,SUPER Channel VAULT
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/62634
-#EXTINF:-1,SUPER ECRAN 1
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2603
-#EXTINF:-1,SUPER ECRAN 1 (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12731
-#EXTINF:-1,SUPER ECRAN 2
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2604
-#EXTINF:-1,SUPER ECRAN 2 (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11630
+http://152.89.62.111:8080/kyle123/kyle123/223046
+#EXTINF:-1,SLICE TV
+http://152.89.62.111:8080/kyle123/kyle123/223047
+#EXTINF:-1,SMITHSONIAN CHANNEL (B)
+http://152.89.62.111:8080/kyle123/kyle123/223048
+#EXTINF:-1,SPORTSMAN (B)
+http://152.89.62.111:8080/kyle123/kyle123/223049
+#EXTINF:-1,SPORTSNET 360
+http://152.89.62.111:8080/kyle123/kyle123/223050
+#EXTINF:-1,SPORTSNET EAST
+http://152.89.62.111:8080/kyle123/kyle123/223051
+#EXTINF:-1,SPORTSNET ONE
+http://152.89.62.111:8080/kyle123/kyle123/223052
+#EXTINF:-1,SPORTSNET ONTARIO
+http://152.89.62.111:8080/kyle123/kyle123/223053
+#EXTINF:-1,SPORTSNET PACIFIC
+http://152.89.62.111:8080/kyle123/kyle123/223054
+#EXTINF:-1,SPORTSNET PPV
+http://152.89.62.111:8080/kyle123/kyle123/223055
+#EXTINF:-1,SPORTSNET WEST
+http://152.89.62.111:8080/kyle123/kyle123/223056
+#EXTINF:-1,Sportsnet World
+http://152.89.62.111:8080/kyle123/kyle123/223057
+#EXTINF:-1,Sportsnet World HD
+http://152.89.62.111:8080/kyle123/kyle123/223058
+#EXTINF:-1,Star TV
+http://152.89.62.111:8080/kyle123/kyle123/223059
+#EXTINF:-1,Starz 1
+http://152.89.62.111:8080/kyle123/kyle123/223060
+#EXTINF:-1,Starz 2
+http://152.89.62.111:8080/kyle123/kyle123/223061
+#EXTINF:-1,Super Channel Fuse
+http://152.89.62.111:8080/kyle123/kyle123/223062
+#EXTINF:-1,Super Channel Heart & Home
+http://152.89.62.111:8080/kyle123/kyle123/223063
+#EXTINF:-1,Super Channel Vault  HD
+http://152.89.62.111:8080/kyle123/kyle123/223064
 #EXTINF:-1,SUPER ECRAN 3
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/25103
+http://152.89.62.111:8080/kyle123/kyle123/223065
 #EXTINF:-1,Super Ecran 3 (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9333
-#EXTINF:-1,SUPER ECRAN 4
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2605
-#EXTINF:-1,Super Ecran 4 (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9334
-#EXTINF:-1,SYFY HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/198240
-#EXTINF:-1,T + E
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/269076
-#EXTINF:-1,Tamil Vision
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/166067
-#EXTINF:-1,TCTV2
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13213
-#EXTINF:-1,TELE QUEBEC (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/497
-#EXTINF:-1,TELE QUEBEC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2606
-#EXTINF:-1,TELE TOON (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9252
-#EXTINF:-1,TELE TOON FRENCH
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/197089
-#EXTINF:-1,TELETOON HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/15019
-#EXTINF:-1,TFO (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/498
-#EXTINF:-1,THE SHOPPING NETWORK
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/198765
-#EXTINF:-1,THE WEATHER Channel HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174531
-#EXTINF:-1,THE WEATHER NETWORK HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13209
-#EXTINF:-1,TLC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9255
-#EXTINF:-1,TMN 1
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40685
-#EXTINF:-1,TMN 1 (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/46804
-#EXTINF:-1,TMN 2
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40681
-#EXTINF:-1,TMN CRAVE 1 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/198764
-#EXTINF:-1,Toronto 360 TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147413
-#EXTINF:-1,Travel ESCAPE
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9329
-#EXTINF:-1,TREEHOUSE HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/449
-#EXTINF:-1,TSC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13214
-#EXTINF:-1,TSN 1 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/770
-#EXTINF:-1,TSN 2 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/771
-#EXTINF:-1,TSN 3 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/772
-#EXTINF:-1,TSN 4 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/773
-#EXTINF:-1,TSN 5 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/774
-#EXTINF:-1,TSN Sport 4
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/158509
-#EXTINF:-1,TSNET 360
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14962
-#EXTINF:-1,TSNET Pacific HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14963
-#EXTINF:-1,Turner Classic Movies HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/28712
-#EXTINF:-1,TV Francophonie
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165427
-#EXTINF:-1,TV Ontario HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9258
-#EXTINF:-1,TV5 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/187236
-#EXTINF:-1,TV5 Quebec (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9303
-#EXTINF:-1,TV5 QUEBEC HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40688
-#EXTINF:-1,TVA GATINEUA (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267510
-#EXTINF:-1,TVA MONTREAL
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2608
+http://152.89.62.111:8080/kyle123/kyle123/223066
+#EXTINF:-1,SUPER ECRAN 4 (FR)
+http://152.89.62.111:8080/kyle123/kyle123/223067
+#EXTINF:-1,SUPER SPORTS 452
+http://152.89.62.111:8080/kyle123/kyle123/223068
+#EXTINF:-1,SUPER SPORTS 453
+http://152.89.62.111:8080/kyle123/kyle123/223069
+#EXTINF:-1,SUPER SPORTS CH 296
+http://152.89.62.111:8080/kyle123/kyle123/223070
+#EXTINF:-1,SUPER SPORTS CH 297
+http://152.89.62.111:8080/kyle123/kyle123/223071
+#EXTINF:-1,SUPER SPORTS CH 322
+http://152.89.62.111:8080/kyle123/kyle123/223072
+#EXTINF:-1,SUPER SPORTS CH 323
+http://152.89.62.111:8080/kyle123/kyle123/223073
+#EXTINF:-1,SUPER SPORTS CH 324
+http://152.89.62.111:8080/kyle123/kyle123/223074
+#EXTINF:-1,SUPER SPORTS CH 368
+http://152.89.62.111:8080/kyle123/kyle123/223075
+#EXTINF:-1,SUPER SPORTS CH 368
+http://152.89.62.111:8080/kyle123/kyle123/223076
+#EXTINF:-1,SUPER SPORTS CH 422
+http://152.89.62.111:8080/kyle123/kyle123/223077
+#EXTINF:-1,SUPER SPORTS CH 431
+http://152.89.62.111:8080/kyle123/kyle123/223078
+#EXTINF:-1,SUPER SPORTS CH 432
+http://152.89.62.111:8080/kyle123/kyle123/223079
+#EXTINF:-1,SUPER SPORTS CH 432
+http://152.89.62.111:8080/kyle123/kyle123/223080
+#EXTINF:-1,SUPER SPORTS CH 432
+http://152.89.62.111:8080/kyle123/kyle123/223081
+#EXTINF:-1,SUPER SPORTS CH 433
+http://152.89.62.111:8080/kyle123/kyle123/223082
+#EXTINF:-1,SUPER SPORTS CH 434
+http://152.89.62.111:8080/kyle123/kyle123/223083
+#EXTINF:-1,SUPER SPORTS CH 435
+http://152.89.62.111:8080/kyle123/kyle123/223084
+#EXTINF:-1,SUPER SPORTS CH 436
+http://152.89.62.111:8080/kyle123/kyle123/223085
+#EXTINF:-1,SUPER SPORTS CH 436
+http://152.89.62.111:8080/kyle123/kyle123/223086
+#EXTINF:-1,SUPER SPORTS CH 436
+http://152.89.62.111:8080/kyle123/kyle123/223087
+#EXTINF:-1,SUPER SPORTS CH 436
+http://152.89.62.111:8080/kyle123/kyle123/223088
+#EXTINF:-1,SUPER SPORTS CH 437
+http://152.89.62.111:8080/kyle123/kyle123/223089
+#EXTINF:-1,SUPER SPORTS CH 437
+http://152.89.62.111:8080/kyle123/kyle123/223090
+#EXTINF:-1,SUPER SPORTS CH 438
+http://152.89.62.111:8080/kyle123/kyle123/223091
+#EXTINF:-1,SUPER SPORTS CH 438
+http://152.89.62.111:8080/kyle123/kyle123/223092
+#EXTINF:-1,SUPER SPORTS CH 439
+http://152.89.62.111:8080/kyle123/kyle123/223093
+#EXTINF:-1,SUPER SPORTS CH 439
+http://152.89.62.111:8080/kyle123/kyle123/223094
+#EXTINF:-1,SUPER SPORTS CH 440
+http://152.89.62.111:8080/kyle123/kyle123/223095
+#EXTINF:-1,SUPER SPORTS CH 440
+http://152.89.62.111:8080/kyle123/kyle123/223096
+#EXTINF:-1,SUPER SPORTS CH 441
+http://152.89.62.111:8080/kyle123/kyle123/223097
+#EXTINF:-1,SUPER SPORTS CH 441
+http://152.89.62.111:8080/kyle123/kyle123/223098
+#EXTINF:-1,SUPER SPORTS CH 442
+http://152.89.62.111:8080/kyle123/kyle123/223099
+#EXTINF:-1,SUPER SPORTS CH 442
+http://152.89.62.111:8080/kyle123/kyle123/223100
+#EXTINF:-1,SUPER SPORTS CH 443
+http://152.89.62.111:8080/kyle123/kyle123/223101
+#EXTINF:-1,SUPER SPORTS CH 443
+http://152.89.62.111:8080/kyle123/kyle123/223102
+#EXTINF:-1,SUPER SPORTS CH 444
+http://152.89.62.111:8080/kyle123/kyle123/223103
+#EXTINF:-1,SUPER SPORTS CH 444
+http://152.89.62.111:8080/kyle123/kyle123/223104
+#EXTINF:-1,SUPER SPORTS CH 450
+http://152.89.62.111:8080/kyle123/kyle123/223105
+#EXTINF:-1,SUPER SPORTS CH 450
+http://152.89.62.111:8080/kyle123/kyle123/223106
+#EXTINF:-1,SUPER SPORTS CH 454
+http://152.89.62.111:8080/kyle123/kyle123/223107
+#EXTINF:-1,SUPER SPORTS CH 455
+http://152.89.62.111:8080/kyle123/kyle123/223108
+#EXTINF:-1,SUPER SPORTS CH 456
+http://152.89.62.111:8080/kyle123/kyle123/223109
+#EXTINF:-1,SUPER SPORTS CH 457
+http://152.89.62.111:8080/kyle123/kyle123/223110
+#EXTINF:-1,SUPER SPORTS CH 458
+http://152.89.62.111:8080/kyle123/kyle123/223111
+#EXTINF:-1,SUPER SPORTS CH 459
+http://152.89.62.111:8080/kyle123/kyle123/223112
+#EXTINF:-1,SUPER SPORTS CH 460
+http://152.89.62.111:8080/kyle123/kyle123/223113
+#EXTINF:-1,SUPER SPORTS CH 461
+http://152.89.62.111:8080/kyle123/kyle123/223114
+#EXTINF:-1,SUPER SPORTS CH 461
+http://152.89.62.111:8080/kyle123/kyle123/223115
+#EXTINF:-1,SUPER SPORTS CH 461
+http://152.89.62.111:8080/kyle123/kyle123/223116
+#EXTINF:-1,SUPER SPORTS CH 462
+http://152.89.62.111:8080/kyle123/kyle123/223117
+#EXTINF:-1,SUPER SPORTS CH 462
+http://152.89.62.111:8080/kyle123/kyle123/223118
+#EXTINF:-1,SUPER SPORTS CH 464
+http://152.89.62.111:8080/kyle123/kyle123/223119
+#EXTINF:-1,SUPER SPORTS CH 465
+http://152.89.62.111:8080/kyle123/kyle123/223120
+#EXTINF:-1,SUPER SPORTS CH 472
+http://152.89.62.111:8080/kyle123/kyle123/223121
+#EXTINF:-1,SUPER SPORTS CH 473
+http://152.89.62.111:8080/kyle123/kyle123/223122
+#EXTINF:-1,SUPER SPORTS CH 474
+http://152.89.62.111:8080/kyle123/kyle123/223123
+#EXTINF:-1,SUPER SPORTS CH 475
+http://152.89.62.111:8080/kyle123/kyle123/223124
+#EXTINF:-1,SUPER SPORTS CH 475
+http://152.89.62.111:8080/kyle123/kyle123/223125
+#EXTINF:-1,SUPER SPORTS CH 476
+http://152.89.62.111:8080/kyle123/kyle123/223126
+#EXTINF:-1,SUPER SPORTS CH 476
+http://152.89.62.111:8080/kyle123/kyle123/223127
+#EXTINF:-1,SUPER SPORTS CH 477
+http://152.89.62.111:8080/kyle123/kyle123/223128
+#EXTINF:-1,SUPER SPORTS CH 477
+http://152.89.62.111:8080/kyle123/kyle123/223129
+#EXTINF:-1,SUPER SPORTS CH 478
+http://152.89.62.111:8080/kyle123/kyle123/223130
+#EXTINF:-1,SUPER SPORTS CH 478
+http://152.89.62.111:8080/kyle123/kyle123/223131
+#EXTINF:-1,SUPER SPORTS CH 479
+http://152.89.62.111:8080/kyle123/kyle123/223132
+#EXTINF:-1,SUPER SPORTS CH 479
+http://152.89.62.111:8080/kyle123/kyle123/223133
+#EXTINF:-1,SUPER SPORTS CH 480
+http://152.89.62.111:8080/kyle123/kyle123/223134
+#EXTINF:-1,SUPER SPORTS CH 480
+http://152.89.62.111:8080/kyle123/kyle123/223135
+#EXTINF:-1,SUPER SPORTS CH 481
+http://152.89.62.111:8080/kyle123/kyle123/223136
+#EXTINF:-1,SUPER SPORTS CH 481
+http://152.89.62.111:8080/kyle123/kyle123/223137
+#EXTINF:-1,SUPER SPORTS CH 482
+http://152.89.62.111:8080/kyle123/kyle123/223138
+#EXTINF:-1,SUPER SPORTS CH 483
+http://152.89.62.111:8080/kyle123/kyle123/223139
+#EXTINF:-1,SUPER SPORTS CH 484
+http://152.89.62.111:8080/kyle123/kyle123/223140
+#EXTINF:-1,TAG TV (Asian)
+http://152.89.62.111:8080/kyle123/kyle123/223141
+#EXTINF:-1,TELEMAGINO  (FR)
+http://152.89.62.111:8080/kyle123/kyle123/223142
+#EXTINF:-1,Teletoon (FR)
+http://152.89.62.111:8080/kyle123/kyle123/223143
+#EXTINF:-1,The Fight Network HD
+http://152.89.62.111:8080/kyle123/kyle123/223144
+#EXTINF:-1,THE WEATHER NETWORK
+http://152.89.62.111:8080/kyle123/kyle123/223145
+#EXTINF:-1,TLC
+http://152.89.62.111:8080/kyle123/kyle123/223146
+#EXTINF:-1,TOON-A-VISION (B)
+http://152.89.62.111:8080/kyle123/kyle123/223147
+#EXTINF:-1,Toronto 360
+http://152.89.62.111:8080/kyle123/kyle123/223148
+#EXTINF:-1,TRAVEL ESCAPE
+http://152.89.62.111:8080/kyle123/kyle123/223149
+#EXTINF:-1,Treehouse
+http://152.89.62.111:8080/kyle123/kyle123/223150
+#EXTINF:-1,TSC
+http://152.89.62.111:8080/kyle123/kyle123/223151
+#EXTINF:-1,TSN 1
+http://152.89.62.111:8080/kyle123/kyle123/223152
+#EXTINF:-1,TSN 2
+http://152.89.62.111:8080/kyle123/kyle123/223153
+#EXTINF:-1,TSN 3
+http://152.89.62.111:8080/kyle123/kyle123/223154
+#EXTINF:-1,TSN 4
+http://152.89.62.111:8080/kyle123/kyle123/223155
+#EXTINF:-1,TSN 5
+http://152.89.62.111:8080/kyle123/kyle123/223156
+#EXTINF:-1,TSN4 HD Blackout
+http://152.89.62.111:8080/kyle123/kyle123/223157
+#EXTINF:-1,TSN5 Blackout
+http://152.89.62.111:8080/kyle123/kyle123/223158
+#EXTINF:-1,TSN5 HD Blackout 2
+http://152.89.62.111:8080/kyle123/kyle123/223159
+#EXTINF:-1,Turner Classic Movies
+http://152.89.62.111:8080/kyle123/kyle123/223160
+#EXTINF:-1,TV 16 Toronto (Asian)
+http://152.89.62.111:8080/kyle123/kyle123/223161
+#EXTINF:-1,TV Ontario
+http://152.89.62.111:8080/kyle123/kyle123/223162
+#EXTINF:-1,TV Rogers (Mocton)
+http://152.89.62.111:8080/kyle123/kyle123/223163
+#EXTINF:-1,TV Rogers (Moncton)
+http://152.89.62.111:8080/kyle123/kyle123/223164
+#EXTINF:-1,TV Rogers (Ottawa)
+http://152.89.62.111:8080/kyle123/kyle123/223165
+#EXTINF:-1,TV5 (FR)
+http://152.89.62.111:8080/kyle123/kyle123/223166
+#EXTINF:-1,TVA  Sports
+http://152.89.62.111:8080/kyle123/kyle123/223167
+#EXTINF:-1,TVA Hull (CHOT)
+http://152.89.62.111:8080/kyle123/kyle123/223168
 #EXTINF:-1,TVA Montreal (CFTM)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9250
-#EXTINF:-1,TVA SPORTS (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/500
-#EXTINF:-1,TVA SPORTS 1 HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72581
+http://152.89.62.111:8080/kyle123/kyle123/223169
+#EXTINF:-1,TVA Riviere-du-Loup (CIMT)
+http://152.89.62.111:8080/kyle123/kyle123/223170
 #EXTINF:-1,TVA Sports 2
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13243
-#EXTINF:-1,TVA SPORTS 2 (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/260437
-#EXTINF:-1,TVA SPORTS HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1719
-#EXTINF:-1,TVO HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/448
-#EXTINF:-1,Télé Culturelle médias Inc
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/275882
-#EXTINF:-1,Unis TV HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81136
-#EXTINF:-1,Uvagut TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276053
-#EXTINF:-1,VIE (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/501
-#EXTINF:-1,VISION TV HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1718
-#EXTINF:-1,W
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/30841
-#EXTINF:-1,W Network HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9200
-#EXTINF:-1,WEATHER NETWORK HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/447
-#EXTINF:-1,WFN
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9330
-#EXTINF:-1,WGN
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9331
-#EXTINF:-1,Wild TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9332
-#EXTINF:-1,WNLO Buffalo
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276548
-#EXTINF:-1,WNYO Buffalo
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276549
-#EXTINF:-1,World Fishing TV
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/79495
-#EXTINF:-1,YES HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/446
-#EXTINF:-1,YES TV (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/60183
-#EXTINF:-1,YES TV East
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/269075
-#EXTINF:-1,YOOPA (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12743
-#EXTINF:-1,YTV HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9199
-#EXTINF:-1,YTV HD (East)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78298
-#EXTINF:-1,Z TELE (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11626
-#EXTINF:-1,Z TELE HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78280
-#EXTINF:-1,ZESTE (FR)
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/502
+http://152.89.62.111:8080/kyle123/kyle123/223171
+#EXTINF:-1,TVA Sports 2
+http://152.89.62.111:8080/kyle123/kyle123/223172
+#EXTINF:-1,TVO
+http://152.89.62.111:8080/kyle123/kyle123/223173
+#EXTINF:-1,Télémagino (FR)
+http://152.89.62.111:8080/kyle123/kyle123/223174
+#EXTINF:-1,Unis_TV_(FR)
+http://152.89.62.111:8080/kyle123/kyle123/223175
+#EXTINF:-1,VISION
+http://152.89.62.111:8080/kyle123/kyle123/223176
+#EXTINF:-1,VRAK TV (FR)
+http://152.89.62.111:8080/kyle123/kyle123/223177
+#EXTINF:-1,W NETWORK
+http://152.89.62.111:8080/kyle123/kyle123/223178
+#EXTINF:-1,W NETWORK
+http://152.89.62.111:8080/kyle123/kyle123/223179
+#EXTINF:-1,WEATHER NETWORK
+http://152.89.62.111:8080/kyle123/kyle123/223180
+#EXTINF:-1,Wild TV (B)
+http://152.89.62.111:8080/kyle123/kyle123/223181
+#EXTINF:-1,WNLO Buffalo (CW23)
+http://152.89.62.111:8080/kyle123/kyle123/223182
+#EXTINF:-1,WWE Network
+http://152.89.62.111:8080/kyle123/kyle123/223183
+#EXTINF:-1,YES TV
+http://152.89.62.111:8080/kyle123/kyle123/223184
+#EXTINF:-1,Youth Television
+http://152.89.62.111:8080/kyle123/kyle123/223185
+#EXTINF:-1,| Bakersfield | ABC 23 KERO
+http://152.89.62.111:8080/kyle123/kyle123/223186
+#EXTINF:-1,| Bakersfield | CBS KBAK
+http://152.89.62.111:8080/kyle123/kyle123/223187
+#EXTINF:-1,| Bakersfield | FOX KBFX
+http://152.89.62.111:8080/kyle123/kyle123/223188
+#EXTINF:-1,| Bakersfield | NBC KGET
+http://152.89.62.111:8080/kyle123/kyle123/223189
+#EXTINF:-1,| Bakersfield | PBS KCET
+http://152.89.62.111:8080/kyle123/kyle123/223190
+#EXTINF:-1,| Chico | NBC KNVN
+http://152.89.62.111:8080/kyle123/kyle123/223191
+#EXTINF:-1,| El Centro | ABC 5 KECY
+http://152.89.62.111:8080/kyle123/kyle123/223192
+#EXTINF:-1,| El Centro | FOX 9 KECY
+http://152.89.62.111:8080/kyle123/kyle123/223193
+#EXTINF:-1,| Eureka | NBC KIEM
+http://152.89.62.111:8080/kyle123/kyle123/223194
+#EXTINF:-1,| Eureka | USA ABC 23 KAEF
+http://152.89.62.111:8080/kyle123/kyle123/223195
+#EXTINF:-1,| Fresno | CBS KGPE
+http://152.89.62.111:8080/kyle123/kyle123/223196
+#EXTINF:-1,| Fresno | FOX KMPH
+http://152.89.62.111:8080/kyle123/kyle123/223197
+#EXTINF:-1,| Fresno | NBC KSEE
+http://152.89.62.111:8080/kyle123/kyle123/223198
+#EXTINF:-1,| Los Angeles | CW KTLA
+http://152.89.62.111:8080/kyle123/kyle123/223199
+#EXTINF:-1,| Los Angeles | FOX KTTV
+http://152.89.62.111:8080/kyle123/kyle123/223200
+#EXTINF:-1,| Merced | Telemundo KNSO
+http://152.89.62.111:8080/kyle123/kyle123/223201
+#EXTINF:-1,| Monterey | CBS KION
+http://152.89.62.111:8080/kyle123/kyle123/223202
+#EXTINF:-1,| Oakland | FOX KTVU
+http://152.89.62.111:8080/kyle123/kyle123/223203
+#EXTINF:-1,| Palm Springs | NBC KMIR
+http://152.89.62.111:8080/kyle123/kyle123/223204
+#EXTINF:-1,| Poway, Etc. | Telemundo KUAN
+http://152.89.62.111:8080/kyle123/kyle123/223205
+#EXTINF:-1,| Sacramento | CW KMAX
+http://152.89.62.111:8080/kyle123/kyle123/223206
+#EXTINF:-1,| Sacramento | FOX KTXL
+http://152.89.62.111:8080/kyle123/kyle123/223207
+#EXTINF:-1,| Sacramento | Telemundo KCSO
+http://152.89.62.111:8080/kyle123/kyle123/223208
+#EXTINF:-1,| Salinas | FOX KCBA
+http://152.89.62.111:8080/kyle123/kyle123/223209
+#EXTINF:-1,| Salinas | NBC KSBW
+http://152.89.62.111:8080/kyle123/kyle123/223210
+#EXTINF:-1,| San Diego | FOX KSWB
+http://152.89.62.111:8080/kyle123/kyle123/223211
+#EXTINF:-1,| San Francisco | UNIVISION KDTV
+http://152.89.62.111:8080/kyle123/kyle123/223212
+#EXTINF:-1,| San Francisco| USA ABC 20 KOFY
+http://152.89.62.111:8080/kyle123/kyle123/223213
+#EXTINF:-1,| San Jose | FOX KICU
+http://152.89.62.111:8080/kyle123/kyle123/223214
+#EXTINF:-1,| San Jose | Telemundo KSTS
+http://152.89.62.111:8080/kyle123/kyle123/223215
+#EXTINF:-1,| San Luis Obispo | FOX KKFX
+http://152.89.62.111:8080/kyle123/kyle123/223216
+#EXTINF:-1,| San Luis Obispo | NBC KSBY
+http://152.89.62.111:8080/kyle123/kyle123/223217
+#EXTINF:-1,| San Luis Obispo | Telemundo KTAS
+http://152.89.62.111:8080/kyle123/kyle123/223218
+#EXTINF:-1,| Santa Barbara | ABC 3 KEYT
+http://152.89.62.111:8080/kyle123/kyle123/223219
+#EXTINF:-1,| Santa Maria | CBS KCOY
+http://152.89.62.111:8080/kyle123/kyle123/223220
+#EXTINF:-1,CA-ES TLN+ (B)
+http://152.89.62.111:8080/kyle123/kyle123/223221
+#EXTINF:-1,ADDIK TV
+http://152.89.62.111:8080/kyle123/kyle123/223222
+#EXTINF:-1,CASA (B)
+http://152.89.62.111:8080/kyle123/kyle123/223223
+#EXTINF:-1,METEO
+http://152.89.62.111:8080/kyle123/kyle123/223224
+#EXTINF:-1,MOI CIE (B)
+http://152.89.62.111:8080/kyle123/kyle123/223225
+#EXTINF:-1,PRISE 2 (B)
+http://152.89.62.111:8080/kyle123/kyle123/223226
+#EXTINF:-1,RDS 2
+http://152.89.62.111:8080/kyle123/kyle123/223227
+#EXTINF:-1,RDS INFO
+http://152.89.62.111:8080/kyle123/kyle123/223228
+#EXTINF:-1,RDS INFO  (B)
+http://152.89.62.111:8080/kyle123/kyle123/223229
+#EXTINF:-1,Series+
+http://152.89.62.111:8080/kyle123/kyle123/223230
+#EXTINF:-1,SERIES+ (B)
+http://152.89.62.111:8080/kyle123/kyle123/223231
+#EXTINF:-1,SUPER ECRAN 1 (B)
+http://152.89.62.111:8080/kyle123/kyle123/223232
+#EXTINF:-1,SUPER ECRAN 1 (B)
+http://152.89.62.111:8080/kyle123/kyle123/223233
+#EXTINF:-1,SUPER ECRAN 2 (B)
+http://152.89.62.111:8080/kyle123/kyle123/223234
+#EXTINF:-1,Super Ecran 3 HD (B)
+http://152.89.62.111:8080/kyle123/kyle123/223235
+#EXTINF:-1,Super Ecran 4 HD (B)
+http://152.89.62.111:8080/kyle123/kyle123/223236
+#EXTINF:-1,TELE-V
+http://152.89.62.111:8080/kyle123/kyle123/223237
+#EXTINF:-1,TFO (B)
+http://152.89.62.111:8080/kyle123/kyle123/223238
+#EXTINF:-1,TVA MONTREAL
+http://152.89.62.111:8080/kyle123/kyle123/223239
+#EXTINF:-1,VRAK TV (B)
+http://152.89.62.111:8080/kyle123/kyle123/223240
+#EXTINF:-1,Zeste (B)
+http://152.89.62.111:8080/kyle123/kyle123/223241
+#EXTINF:-1,ZESTE (B)
+http://152.89.62.111:8080/kyle123/kyle123/223242
