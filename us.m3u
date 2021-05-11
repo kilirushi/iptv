@@ -1,1051 +1,1079 @@
 #EXTM3U
-#EXTINF:-1,BBC America UHD
-http://pulselive.uk:8080/t1/t1/223804
-#EXTINF:-1,BBC America LHD
-http://pulselive.uk:8080/t1/t1/223802
-#EXTINF:-1,BBC America SD
-http://pulselive.uk:8080/t1/t1/223803
-#EXTINF:-1,BBC America
-http://pulselive.uk:8080/t1/t1/223801
-#EXTINF:-1,BBC World News LHD
-http://pulselive.uk:8080/t1/t1/223799
-#EXTINF:-1,BBC World News
-http://pulselive.uk:8080/t1/t1/223798
-#EXTINF:-1,BBC World News
-http://pulselive.uk:8080/t1/t1/223800
-#EXTINF:-1,Bloomberg
-http://pulselive.uk:8080/t1/t1/223797
-#EXTINF:-1,CBS Baton Rouge | 9 WAFB
-http://pulselive.uk:8080/t1/t1/223761
-#EXTINF:-1,CNBC UHD
-http://pulselive.uk:8080/t1/t1/223790
-#EXTINF:-1,CNBC UHD
-http://pulselive.uk:8080/t1/t1/223760
-#EXTINF:-1,CNBC LHD
-http://pulselive.uk:8080/t1/t1/223792
-#EXTINF:-1,CNBC SD
-http://pulselive.uk:8080/t1/t1/223791
-#EXTINF:-1,CNBC
-http://pulselive.uk:8080/t1/t1/223793
-#EXTINF:-1,CNBC World
-http://pulselive.uk:8080/t1/t1/223788
-#EXTINF:-1,CNBC World
-http://pulselive.uk:8080/t1/t1/223789
-#EXTINF:-1,CNN
-http://pulselive.uk:8080/t1/t1/223786
-#EXTINF:-1,CNN LHD
-http://pulselive.uk:8080/t1/t1/223787
-#EXTINF:-1,Cheddar Business
-http://pulselive.uk:8080/t1/t1/223795
-#EXTINF:-1,Cheddar News LHD
-http://pulselive.uk:8080/t1/t1/223794
-#EXTINF:-1,Cheddar News
-http://pulselive.uk:8080/t1/t1/223796
-#EXTINF:-1,Fox News Channel LHD
-http://pulselive.uk:8080/t1/t1/223784
-#EXTINF:-1,Fox News Channel
-http://pulselive.uk:8080/t1/t1/223775
-#EXTINF:-1,Fox News Channel
-http://pulselive.uk:8080/t1/t1/223785
-#EXTINF:-1,Fox Ocala | WOGX
-http://pulselive.uk:8080/t1/t1/223774
-#EXTINF:-1,Fox Orlando | WOFL
-http://pulselive.uk:8080/t1/t1/223773
-#EXTINF:-1,Fox Philadelphia | WTXF
-http://pulselive.uk:8080/t1/t1/223772
-#EXTINF:-1,Fox Phoenix | KSAZ
-http://pulselive.uk:8080/t1/t1/223771
-#EXTINF:-1,Fox Pittsburgh | WPGH
-http://pulselive.uk:8080/t1/t1/223770
-#EXTINF:-1,Fox Salt Lake City | KSTU
-http://pulselive.uk:8080/t1/t1/223769
-#EXTINF:-1,Fox San Antonio | KABB
-http://pulselive.uk:8080/t1/t1/223768
-#EXTINF:-1,Fox San Francisco | KTVU
-http://pulselive.uk:8080/t1/t1/223767
-#EXTINF:-1,HLN UHD
-http://pulselive.uk:8080/t1/t1/223781
-#EXTINF:-1,HLN LHD
-http://pulselive.uk:8080/t1/t1/223782
-#EXTINF:-1,HLN
-http://pulselive.uk:8080/t1/t1/223783
-#EXTINF:-1,ION 31 New York WPXN
-http://pulselive.uk:8080/t1/t1/223766
-#EXTINF:-1,KTVK 3TV Arizona's Family Phoenix
-http://pulselive.uk:8080/t1/t1/223765
-#EXTINF:-1,MSNBC UHD
-http://pulselive.uk:8080/t1/t1/223778
-#EXTINF:-1,MSNBC LHD
-http://pulselive.uk:8080/t1/t1/223779
-#EXTINF:-1,MSNBC
-http://pulselive.uk:8080/t1/t1/223780
-#EXTINF:-1,New England Cable News
-http://pulselive.uk:8080/t1/t1/223777
-#EXTINF:-1,One American News UHD
-http://pulselive.uk:8080/t1/t1/223776
-#EXTINF:-1,Peachtree (WPCH) Atlanta
-http://pulselive.uk:8080/t1/t1/223763
-#EXTINF:-1,PBS 13 New York
-http://pulselive.uk:8080/t1/t1/223764
-#EXTINF:-1,TXA21 (KTXA) Dallas
-http://pulselive.uk:8080/t1/t1/223762
-#EXTINF:-1,Baby TV
-http://pulselive.uk:8080/t1/t1/223840
-#EXTINF:-1,Baby First LHD
-http://pulselive.uk:8080/t1/t1/223839
-#EXTINF:-1,Baby First
-http://pulselive.uk:8080/t1/t1/223838
-#EXTINF:-1,Boomerang UHD
-http://pulselive.uk:8080/t1/t1/223837
-#EXTINF:-1,Boomerang LHD
-http://pulselive.uk:8080/t1/t1/223835
-#EXTINF:-1,Boomerang SD
-http://pulselive.uk:8080/t1/t1/223836
-#EXTINF:-1,Boomerang
-http://pulselive.uk:8080/t1/t1/223834
-#EXTINF:-1,Cartoon Network UHD
-http://pulselive.uk:8080/t1/t1/223832
-#EXTINF:-1,Cartoon Network East LHD
-http://pulselive.uk:8080/t1/t1/223830
-#EXTINF:-1,Cartoon Network East
-http://pulselive.uk:8080/t1/t1/223829
-#EXTINF:-1,Cartoon Network East SD
-http://pulselive.uk:8080/t1/t1/223831
-#EXTINF:-1,Cartoon Network West
-http://pulselive.uk:8080/t1/t1/223833
-#EXTINF:-1,Disney Channel
-http://pulselive.uk:8080/t1/t1/223812
-#EXTINF:-1,Disney Channel East UHD
-http://pulselive.uk:8080/t1/t1/223814
-#EXTINF:-1,Disney Channel East LHD
-http://pulselive.uk:8080/t1/t1/223813
-#EXTINF:-1,Disney Channel West LHD
-http://pulselive.uk:8080/t1/t1/223816
-#EXTINF:-1,Disney Channel West
-http://pulselive.uk:8080/t1/t1/223815
-#EXTINF:-1,Disney East SD
-http://pulselive.uk:8080/t1/t1/223817
-#EXTINF:-1,Disney Junior UHD
-http://pulselive.uk:8080/t1/t1/223820
-#EXTINF:-1,Disney Junior East LHD
-http://pulselive.uk:8080/t1/t1/223819
-#EXTINF:-1,Disney Junior East
-http://pulselive.uk:8080/t1/t1/223818
-#EXTINF:-1,Disney Junior West LHD
-http://pulselive.uk:8080/t1/t1/223822
-#EXTINF:-1,Disney Junior West
-http://pulselive.uk:8080/t1/t1/223821
-#EXTINF:-1,Disney XD UHD
-http://pulselive.uk:8080/t1/t1/223826
-#EXTINF:-1,Disney XD
-http://pulselive.uk:8080/t1/t1/223823
-#EXTINF:-1,Disney XD SD
-http://pulselive.uk:8080/t1/t1/223825
-#EXTINF:-1,Disney XD East LHD
-http://pulselive.uk:8080/t1/t1/223824
-#EXTINF:-1,Disney XD West LHD
-http://pulselive.uk:8080/t1/t1/223828
-#EXTINF:-1,Disney XD West
-http://pulselive.uk:8080/t1/t1/223827
-#EXTINF:-1,Nickelodeon UHD
-http://pulselive.uk:8080/t1/t1/223806
-#EXTINF:-1,Nickelodeon East SD
-http://pulselive.uk:8080/t1/t1/223807
-#EXTINF:-1,Nick Jr East
-http://pulselive.uk:8080/t1/t1/223808
-#EXTINF:-1,Nick Jr SD
-http://pulselive.uk:8080/t1/t1/223809
-#EXTINF:-1,Nick Music
-http://pulselive.uk:8080/t1/t1/223810
-#EXTINF:-1,Nick Toon UHD
-http://pulselive.uk:8080/t1/t1/223811
-#EXTINF:-1,PBS Kids
-http://pulselive.uk:8080/t1/t1/223805
-#EXTINF:-1,Universal Kids
-http://pulselive.uk:8080/t1/t1/223841
-#EXTINF:-1,Universal Kids SD
-http://pulselive.uk:8080/t1/t1/223842
-#EXTINF:-1,Cinemax Action Max UHD
-http://pulselive.uk:8080/t1/t1/223976
-#EXTINF:-1,Cinemax East UHD
-http://pulselive.uk:8080/t1/t1/223978
-#EXTINF:-1,Cinemax East UHD
-http://pulselive.uk:8080/t1/t1/224023
-#EXTINF:-1,Cinemax East LHD
-http://pulselive.uk:8080/t1/t1/223977
-#EXTINF:-1,Cinemax East LHD
-http://pulselive.uk:8080/t1/t1/224022
-#EXTINF:-1,Cinemax East
-http://pulselive.uk:8080/t1/t1/224021
-#EXTINF:-1,Cinemax More Max East
-http://pulselive.uk:8080/t1/t1/223979
-#EXTINF:-1,Cinemax More Max West
-http://pulselive.uk:8080/t1/t1/223980
-#EXTINF:-1,Cinemax Movie Max UHD
-http://pulselive.uk:8080/t1/t1/223981
-#EXTINF:-1,Cinemax Outer Max UHD
-http://pulselive.uk:8080/t1/t1/223982
-#EXTINF:-1,Cinemax Outer Max UHD
-http://pulselive.uk:8080/t1/t1/224024
-#EXTINF:-1,Cinemax Thriller Max UHD
-http://pulselive.uk:8080/t1/t1/223983
-#EXTINF:-1,Cinemax West LHD
-http://pulselive.uk:8080/t1/t1/223984
-#EXTINF:-1,Cinemax West LHD
-http://pulselive.uk:8080/t1/t1/223986
-#EXTINF:-1,Cinemax West
-http://pulselive.uk:8080/t1/t1/223985
-#EXTINF:-1,Epix UHD
-http://pulselive.uk:8080/t1/t1/223991
-#EXTINF:-1,Epix HD
-http://pulselive.uk:8080/t1/t1/224029
-#EXTINF:-1,Epix 2 UHD
-http://pulselive.uk:8080/t1/t1/224025
-#EXTINF:-1,Epix 2 UHD
-http://pulselive.uk:8080/t1/t1/223987
-#EXTINF:-1,Epix Drive-In UHD
-http://pulselive.uk:8080/t1/t1/224026
-#EXTINF:-1,Epix Drive-In UHD
-http://pulselive.uk:8080/t1/t1/223988
-#EXTINF:-1,Epix Hits UHD
-http://pulselive.uk:8080/t1/t1/224028
-#EXTINF:-1,Epix Hits UHD
-http://pulselive.uk:8080/t1/t1/223990
-#EXTINF:-1,Epix Hits LHD
-http://pulselive.uk:8080/t1/t1/224027
-#EXTINF:-1,Epix Hits LHD
-http://pulselive.uk:8080/t1/t1/223989
-#EXTINF:-1,FX
-http://pulselive.uk:8080/t1/t1/223992
-#EXTINF:-1,FX East UHD
-http://pulselive.uk:8080/t1/t1/223995
-#EXTINF:-1,FX East LHD
-http://pulselive.uk:8080/t1/t1/223993
-#EXTINF:-1,FX East SD
-http://pulselive.uk:8080/t1/t1/223994
-#EXTINF:-1,FX West
-http://pulselive.uk:8080/t1/t1/223996
-#EXTINF:-1,HBO Comedy UHD
-http://pulselive.uk:8080/t1/t1/224030
-#EXTINF:-1,HBO East
-http://pulselive.uk:8080/t1/t1/223997
-#EXTINF:-1,HBO East UHD
-http://pulselive.uk:8080/t1/t1/224000
-#EXTINF:-1,HBO East LHD
-http://pulselive.uk:8080/t1/t1/223998
-#EXTINF:-1,HBO East SD
-http://pulselive.uk:8080/t1/t1/223999
-#EXTINF:-1,HBO Family UHD
-http://pulselive.uk:8080/t1/t1/224031
-#EXTINF:-1,HBO Signature UHD
-http://pulselive.uk:8080/t1/t1/224001
-#EXTINF:-1,HBO West UHD
-http://pulselive.uk:8080/t1/t1/224002
-#EXTINF:-1,HBO West LHD
-http://pulselive.uk:8080/t1/t1/224003
-#EXTINF:-1,HBO Zone UHD
-http://pulselive.uk:8080/t1/t1/224004
-#EXTINF:-1,Showtime Beyond
-http://pulselive.uk:8080/t1/t1/224033
-#EXTINF:-1,Showtime Extreme
-http://pulselive.uk:8080/t1/t1/224034
-#EXTINF:-1,Showtime Family Zone
-http://pulselive.uk:8080/t1/t1/224035
-#EXTINF:-1,Showtime Next
-http://pulselive.uk:8080/t1/t1/224036
-#EXTINF:-1,Showtime Showcase
-http://pulselive.uk:8080/t1/t1/224037
-#EXTINF:-1,Showtime West
-http://pulselive.uk:8080/t1/t1/223974
-#EXTINF:-1,Showtime Women 
-http://pulselive.uk:8080/t1/t1/224038
-#EXTINF:-1,Showtime Women 
-http://pulselive.uk:8080/t1/t1/223975
-#EXTINF:-1,Sony Movie Channel LHD
-http://pulselive.uk:8080/t1/t1/224006
-#EXTINF:-1,Sony Movie Channel
-http://pulselive.uk:8080/t1/t1/224005
-#EXTINF:-1,Sony Movie Channel
-http://pulselive.uk:8080/t1/t1/224042
-#EXTINF:-1,Starz East UHD
-http://pulselive.uk:8080/t1/t1/224008
-#EXTINF:-1,Starz East SD
-http://pulselive.uk:8080/t1/t1/224007
-#EXTINF:-1,Starz East
-http://pulselive.uk:8080/t1/t1/224032
-#EXTINF:-1,Starz in Black 
-http://pulselive.uk:8080/t1/t1/223970
-#EXTINF:-1,Starz in Black
-http://pulselive.uk:8080/t1/t1/224018
-#EXTINF:-1,Starz Kids & Family
-http://pulselive.uk:8080/t1/t1/223969
-#EXTINF:-1,Starz Kids & Family
-http://pulselive.uk:8080/t1/t1/224019
-#EXTINF:-1,Starz West
-http://pulselive.uk:8080/t1/t1/223968
-#EXTINF:-1,Starz West
-http://pulselive.uk:8080/t1/t1/224020
-#EXTINF:-1,Starz Kids & Family
-http://pulselive.uk:8080/t1/t1/224041
-#EXTINF:-1,Starz Encore Action
-http://pulselive.uk:8080/t1/t1/224009
-#EXTINF:-1,Starz Encore Black
-http://pulselive.uk:8080/t1/t1/224010
-#EXTINF:-1,Starz Encore Classic
-http://pulselive.uk:8080/t1/t1/224011
-#EXTINF:-1,Starz Encore East
-http://pulselive.uk:8080/t1/t1/224012
-#EXTINF:-1,Starz Encore Edge
-http://pulselive.uk:8080/t1/t1/224013
-#EXTINF:-1,Starz Encore Family
-http://pulselive.uk:8080/t1/t1/224039
-#EXTINF:-1,Starz Encore Family
-http://pulselive.uk:8080/t1/t1/224014
-#EXTINF:-1,Starz Encore Suspense 
-http://pulselive.uk:8080/t1/t1/224040
-#EXTINF:-1,Starz Encore Suspense
-http://pulselive.uk:8080/t1/t1/223973
-#EXTINF:-1,Starz Encore Suspense
-http://pulselive.uk:8080/t1/t1/224015
-#EXTINF:-1,Starz Encore West
-http://pulselive.uk:8080/t1/t1/223972
-#EXTINF:-1,Starz Encore West
-http://pulselive.uk:8080/t1/t1/224016
-#EXTINF:-1,Starz Encore Westerns
-http://pulselive.uk:8080/t1/t1/223971
-#EXTINF:-1,Starz Encore Westerns
-http://pulselive.uk:8080/t1/t1/224017
-#EXTINF:-1,NBC Sports Network UHD
-http://pulselive.uk:8080/t1/t1/249712
-#EXTINF:-1,NBC Sports Network LHD
-http://pulselive.uk:8080/t1/t1/249713
-#EXTINF:-1,ACC Network
-http://pulselive.uk:8080/t1/t1/249797
-#EXTINF:-1,Bally Sports Arizona
-http://pulselive.uk:8080/t1/t1/249766
-#EXTINF:-1,Bally Sports Cincinnati
-http://pulselive.uk:8080/t1/t1/249765
-#EXTINF:-1,Bally Sports Detroit LHD
-http://pulselive.uk:8080/t1/t1/249761
-#EXTINF:-1,Bally Sports Detroit
-http://pulselive.uk:8080/t1/t1/249762
-#EXTINF:-1,Bally Sports Florida (North)
-http://pulselive.uk:8080/t1/t1/249759
-#EXTINF:-1,Bally Sports Florida (South)
-http://pulselive.uk:8080/t1/t1/249760
-#EXTINF:-1,Bally Sports Great Lakes LHD
-http://pulselive.uk:8080/t1/t1/249731
-#EXTINF:-1,Bally Sports Great Lakes Ohio
-http://pulselive.uk:8080/t1/t1/249732
-#EXTINF:-1,Bally Sports Indiana
-http://pulselive.uk:8080/t1/t1/249758
-#EXTINF:-1,Bally Sports Midwest
-http://pulselive.uk:8080/t1/t1/249757
-#EXTINF:-1,Bally Sports New Orleans
-http://pulselive.uk:8080/t1/t1/249755
-#EXTINF:-1,Bally Sports North LHD
-http://pulselive.uk:8080/t1/t1/249753
-#EXTINF:-1,Bally Sports North
-http://pulselive.uk:8080/t1/t1/249754
-#EXTINF:-1,Bally Sports Ohio LHD
-http://pulselive.uk:8080/t1/t1/249751
-#EXTINF:-1,Bally Sports Ohio
-http://pulselive.uk:8080/t1/t1/249752
-#EXTINF:-1,Bally Sports Oklahoma LHD
-http://pulselive.uk:8080/t1/t1/249749
-#EXTINF:-1,Bally Sports Oklahoma
-http://pulselive.uk:8080/t1/t1/249750
-#EXTINF:-1,Bally Sports SanDiego LHD
-http://pulselive.uk:8080/t1/t1/249745
-#EXTINF:-1,Bally Sports San Diego
-http://pulselive.uk:8080/t1/t1/249746
-#EXTINF:-1,Bally Sports SoCal LHD
-http://pulselive.uk:8080/t1/t1/249747
-#EXTINF:-1,Bally Sports SoCal
-http://pulselive.uk:8080/t1/t1/249748
-#EXTINF:-1,Bally Sports South LHD
-http://pulselive.uk:8080/t1/t1/249743
-#EXTINF:-1,Bally Sports South
-http://pulselive.uk:8080/t1/t1/249744
-#EXTINF:-1,Bally Sports Southeast (Georgia)
-http://pulselive.uk:8080/t1/t1/249741
-#EXTINF:-1,Bally Sports Southeast (Tennesse)
-http://pulselive.uk:8080/t1/t1/249742
-#EXTINF:-1,Bally Sports Southwest LHD
-http://pulselive.uk:8080/t1/t1/249739
-#EXTINF:-1,Bally Sports Southwest
-http://pulselive.uk:8080/t1/t1/249740
-#EXTINF:-1,Bally Sports Sun (North)
-http://pulselive.uk:8080/t1/t1/249737
-#EXTINF:-1,Bally Sports Sun (South)
-http://pulselive.uk:8080/t1/t1/249738
-#EXTINF:-1,Bally Sports Wisconsin LHD
-http://pulselive.uk:8080/t1/t1/249733
-#EXTINF:-1,Bally Sports Wisconsin
-http://pulselive.uk:8080/t1/t1/249734
-#EXTINF:-1,Bally Sports West LHD
-http://pulselive.uk:8080/t1/t1/249735
-#EXTINF:-1,Bally Sports West
-http://pulselive.uk:8080/t1/t1/249736
-#EXTINF:-1,beIN Sports UHD
-http://pulselive.uk:8080/t1/t1/249794
-#EXTINF:-1,beIN Sports LHD
-http://pulselive.uk:8080/t1/t1/249792
-#EXTINF:-1,beIN Sports SD
-http://pulselive.uk:8080/t1/t1/249795
-#EXTINF:-1,beIN Sports Xtra
-http://pulselive.uk:8080/t1/t1/249796
-#EXTINF:-1,beIN Sports La Liga
-http://pulselive.uk:8080/t1/t1/249789
-#EXTINF:-1,beIN Sports La Liga
-http://pulselive.uk:8080/t1/t1/249790
-#EXTINF:-1,beIN Sports La Liga
-http://pulselive.uk:8080/t1/t1/249791
-#EXTINF:-1,beIN Sports La Liga
-http://pulselive.uk:8080/t1/t1/249781
-#EXTINF:-1,beIN Sports 4
-http://pulselive.uk:8080/t1/t1/249782
-#EXTINF:-1,beIN Sports 5
-http://pulselive.uk:8080/t1/t1/249783
-#EXTINF:-1,beIN Sports 6
-http://pulselive.uk:8080/t1/t1/249784
-#EXTINF:-1,beIN Sports 7
-http://pulselive.uk:8080/t1/t1/249785
-#EXTINF:-1,beIN Sports 8
-http://pulselive.uk:8080/t1/t1/249786
-#EXTINF:-1,beIN Sports en Espanol UHD
-http://pulselive.uk:8080/t1/t1/249787
-#EXTINF:-1,beIN Sports en Espanol LHD
-http://pulselive.uk:8080/t1/t1/249788
-#EXTINF:-1,beIN Sports en Espanol SD
-http://pulselive.uk:8080/t1/t1/249793
-#EXTINF:-1,Big Ten Network 
-http://pulselive.uk:8080/t1/t1/249779
-#EXTINF:-1,Big Ten Network SD
-http://pulselive.uk:8080/t1/t1/249778
-#EXTINF:-1,CBS Sports Network UHD
-http://pulselive.uk:8080/t1/t1/249777
-#EXTINF:-1,CBS Sports Network UHD
-http://pulselive.uk:8080/t1/t1/249780
-#EXTINF:-1,CBS Sports Network LHD
-http://pulselive.uk:8080/t1/t1/249775
-#EXTINF:-1,CBS Sports Network SD
-http://pulselive.uk:8080/t1/t1/249776
-#EXTINF:-1,Eleven Sports
-http://pulselive.uk:8080/t1/t1/249774
-#EXTINF:-1,Fight Network
-http://pulselive.uk:8080/t1/t1/249773
-#EXTINF:-1,Fox College Sports Central
-http://pulselive.uk:8080/t1/t1/249763
-#EXTINF:-1,Fox College Sports Atlantic
-http://pulselive.uk:8080/t1/t1/249764
-#EXTINF:-1,Fox Soccer Plus LHD
-http://pulselive.uk:8080/t1/t1/249771
-#EXTINF:-1,Fox Soccer Plus HD
-http://pulselive.uk:8080/t1/t1/249772
-#EXTINF:-1,Fox Sports Netbase
-http://pulselive.uk:8080/t1/t1/249756
-#EXTINF:-1,FS 1 UHD
-http://pulselive.uk:8080/t1/t1/249769
-#EXTINF:-1,FS 1 HD
-http://pulselive.uk:8080/t1/t1/249770
-#EXTINF:-1,FS 2 UHD
-http://pulselive.uk:8080/t1/t1/249768
-#EXTINF:-1,FS 2 HD
-http://pulselive.uk:8080/t1/t1/249767
-#EXTINF:-1,Fubo Sports Network
-http://pulselive.uk:8080/t1/t1/249807
-#EXTINF:-1,Golf Channel UHD
-http://pulselive.uk:8080/t1/t1/249678
-#EXTINF:-1,Golf Channel
-http://pulselive.uk:8080/t1/t1/249677
-#EXTINF:-1,MLB Network UHD
-http://pulselive.uk:8080/t1/t1/249662
-#EXTINF:-1,MLB Network LHD
-http://pulselive.uk:8080/t1/t1/249660
-#EXTINF:-1,MLB Network SD
-http://pulselive.uk:8080/t1/t1/249661
-#EXTINF:-1,MLB Strike Zone
-http://pulselive.uk:8080/t1/t1/249663
-#EXTINF:-1,MotorTrend UHD
-http://pulselive.uk:8080/t1/t1/249805
-#EXTINF:-1,MotorTrend LHD
-http://pulselive.uk:8080/t1/t1/249806
-#EXTINF:-1,MSG Plus
-http://pulselive.uk:8080/t1/t1/249727
+#EXTINF:-1,MOTOR TREND HD
+http://147.135.130.72:8011/100200300/100200300/81490
+#EXTINF:-1,MoviePlex HD 1080P
+http://147.135.130.72:8011/100200300/100200300/81488
+#EXTINF:-1,MoviePlex HD 1080P#
+http://147.135.130.72:8011/100200300/100200300/81487
+#EXTINF:-1,RetroPlex HD 1080P#
+http://147.135.130.72:8011/100200300/100200300/81485
+#EXTINF:-1,My 13 KCOP Los Angeles
+http://147.135.130.72:8011/100200300/100200300/81484
+#EXTINF:-1,MY 20 Houston KTXH
+http://147.135.130.72:8011/100200300/100200300/81483
+#EXTINF:-1,My 28 WRDC
+http://147.135.130.72:8011/100200300/100200300/81482
+#EXTINF:-1,My 9 New Jersey
+http://147.135.130.72:8011/100200300/100200300/81481
+#EXTINF:-1,My 9 New York SD
+http://147.135.130.72:8011/100200300/100200300/81480
+#EXTINF:-1,MY25 (WFGX) Alabama
+http://147.135.130.72:8011/100200300/100200300/81479
+#EXTINF:-1,MY30 (WUXP) Nashville
+http://147.135.130.72:8011/100200300/100200300/81478
+#EXTINF:-1,My33 (WBFS) Fort Lauderdale
+http://147.135.130.72:8011/100200300/100200300/81477
+#EXTINF:-1,MY33 (WBFS) Miami
+http://147.135.130.72:8011/100200300/100200300/81476
+#EXTINF:-1,MY33 (WTVZ) Hampton Roads
+http://147.135.130.72:8011/100200300/100200300/81475
+#EXTINF:-1,MY40 (WMYA) Carolina
+http://147.135.130.72:8011/100200300/100200300/81474
+#EXTINF:-1,MY48 (WMYV) Greensboro
+http://147.135.130.72:8011/100200300/100200300/81473
+#EXTINF:-1,MY49 (WDKA) Paducah
+http://147.135.130.72:8011/100200300/100200300/81472
+#EXTINF:-1,MY49 (WNYO) Buffalo
+http://147.135.130.72:8011/100200300/100200300/81471
+#EXTINF:-1,MY53 (WQMY) Williamsport
+http://147.135.130.72:8011/100200300/100200300/81470
+#EXTINF:-1,MY62 (KSMO) Kansas City
+http://147.135.130.72:8011/100200300/100200300/81469
+#EXTINF:-1,MyNet (KVCW-DT) Las Vegas
+http://147.135.130.72:8011/100200300/100200300/81468
+#EXTINF:-1,MyNet (WCIV) Charleston
+http://147.135.130.72:8011/100200300/100200300/81467
+#EXTINF:-1,MyNet (WHP-DT) Harrisburg
+http://147.135.130.72:8011/100200300/100200300/81466
+#EXTINF:-1,WWE Network HD
+http://147.135.130.72:8011/100200300/100200300/81465
+#EXTINF:-1,WWE HD
+http://147.135.130.72:8011/100200300/100200300/81464
+#EXTINF:-1,Willow Cricket HD
+http://147.135.130.72:8011/100200300/100200300/81463
+#EXTINF:-1,WGN 9 HD
+http://147.135.130.72:8011/100200300/100200300/81462
+#EXTINF:-1,VH1 HD
+http://147.135.130.72:8011/100200300/100200300/81461
+#EXTINF:-1,Velocity HD
+http://147.135.130.72:8011/100200300/100200300/81460
+#EXTINF:-1,NFL Redzone HD
+http://147.135.130.72:8011/100200300/100200300/81459
+#EXTINF:-1,NFL NOW HD
+http://147.135.130.72:8011/100200300/100200300/81458
+#EXTINF:-1,Spike HD
+http://147.135.130.72:8011/100200300/100200300/81457
+#EXTINF:-1,ShowTime East HD
+http://147.135.130.72:8011/100200300/100200300/81456
+#EXTINF:-1,ShowTime Pacific HD
+http://147.135.130.72:8011/100200300/100200300/81455
+#EXTINF:-1,SEC Network HD
+http://147.135.130.72:8011/100200300/100200300/81454
+#EXTINF:-1,Reelz HD
+http://147.135.130.72:8011/100200300/100200300/81453
+#EXTINF:-1,PBS HD
+http://147.135.130.72:8011/100200300/100200300/81452
+#EXTINF:-1,Oxygen HD
+http://147.135.130.72:8011/100200300/100200300/81451
+#EXTINF:-1,OWN HD
+http://147.135.130.72:8011/100200300/100200300/81450
+#EXTINF:-1,Nicktoons HD
+http://147.135.130.72:8011/100200300/100200300/81449
+#EXTINF:-1,NICKELODEON HD
+http://147.135.130.72:8011/100200300/100200300/81448
+#EXTINF:-1,Nick JR HD
+http://147.135.130.72:8011/100200300/100200300/81447
+#EXTINF:-1,NHL Network HD
+http://147.135.130.72:8011/100200300/100200300/81446
+#EXTINF:-1,NBCSN HD
+http://147.135.130.72:8011/100200300/100200300/81445
+#EXTINF:-1,NBC Golf HD
+http://147.135.130.72:8011/100200300/100200300/81444
+#EXTINF:-1,NBA TV HD
+http://147.135.130.72:8011/100200300/100200300/81443
+#EXTINF:-1,Nat Geo Wild HD
+http://147.135.130.72:8011/100200300/100200300/81442
+#EXTINF:-1,NAT GEO HD
+http://147.135.130.72:8011/100200300/100200300/81441
+#EXTINF:-1,MTV HD
+http://147.135.130.72:8011/100200300/100200300/81440
+#EXTINF:-1,MSNBC HD
+http://147.135.130.72:8011/100200300/100200300/81439
+#EXTINF:-1,More Max HD
+http://147.135.130.72:8011/100200300/100200300/81438
+#EXTINF:-1,MLB Network HD
+http://147.135.130.72:8011/100200300/100200300/81437
+#EXTINF:-1,LIFE TIME HD
+http://147.135.130.72:8011/100200300/100200300/81436
+#EXTINF:-1,Investigation Discovery HD
+http://147.135.130.72:8011/100200300/100200300/81435
+#EXTINF:-1,IFC HD
+http://147.135.130.72:8011/100200300/100200300/81434
+#EXTINF:-1,History HD
+http://147.135.130.72:8011/100200300/100200300/81433
+#EXTINF:-1,HBO Zone HD
+http://147.135.130.72:8011/100200300/100200300/81432
+#EXTINF:-1,HBO Signature HD
+http://147.135.130.72:8011/100200300/100200300/81431
+#EXTINF:-1,HBO HD
+http://147.135.130.72:8011/100200300/100200300/81430
+#EXTINF:-1,HBO Comedy HD
+http://147.135.130.72:8011/100200300/100200300/81429
+#EXTINF:-1,HALLMARK CHANNEL HD
+http://147.135.130.72:8011/100200300/100200300/81428
+#EXTINF:-1,H2 HD
+http://147.135.130.72:8011/100200300/100200300/81427
+#EXTINF:-1,Home AND Health
+http://147.135.130.72:8011/100200300/100200300/81426
+#EXTINF:-1,GSN HD
+http://147.135.130.72:8011/100200300/100200300/81425
+#EXTINF:-1,Golf Channel HD
+http://147.135.130.72:8011/100200300/100200300/81424
+#EXTINF:-1,TNT HD
+http://147.135.130.72:8011/100200300/100200300/81423
+#EXTINF:-1,TLC CHANNEL
+http://147.135.130.72:8011/100200300/100200300/81422
+#EXTINF:-1,The Weather Channel HD
+http://147.135.130.72:8011/100200300/100200300/81421
+#EXTINF:-1,Tennis HD
+http://147.135.130.72:8011/100200300/100200300/81420
+#EXTINF:-1,SYFY HD
+http://147.135.130.72:8011/100200300/100200300/81419
+#EXTINF:-1,Sundance HD
+http://147.135.130.72:8011/100200300/100200300/81418
+#EXTINF:-1,Starz Edge HD
+http://147.135.130.72:8011/100200300/100200300/81417
+#EXTINF:-1,FXX HD
+http://147.135.130.72:8011/100200300/100200300/81416
+#EXTINF:-1,FX HD
+http://147.135.130.72:8011/100200300/100200300/81415
+#EXTINF:-1,Freeform HD
+http://147.135.130.72:8011/100200300/100200300/81414
+#EXTINF:-1,Fox News Channel HD
+http://147.135.130.72:8011/100200300/100200300/81413
+#EXTINF:-1,FOX HD
+http://147.135.130.72:8011/100200300/100200300/81412
+#EXTINF:-1,FOX Business Network HD
+http://147.135.130.72:8011/100200300/100200300/81411
+#EXTINF:-1,Food Network HD
+http://147.135.130.72:8011/100200300/100200300/81410
+#EXTINF:-1,ESPN U HD
+http://147.135.130.72:8011/100200300/100200300/81409
+#EXTINF:-1,Destination America HD
+http://147.135.130.72:8011/100200300/100200300/81408
+#EXTINF:-1,CW HD
+http://147.135.130.72:8011/100200300/100200300/81407
+#EXTINF:-1,Crime & Investigation HD
+http://147.135.130.72:8011/100200300/100200300/81406
+#EXTINF:-1,Cooking Channel HD
+http://147.135.130.72:8011/100200300/100200300/81405
+#EXTINF:-1,Comedy Central HD
+http://147.135.130.72:8011/100200300/100200300/81404
+#EXTINF:-1,CNN FHD
+http://147.135.130.72:8011/100200300/100200300/81403
+#EXTINF:-1,CNBC HD
+http://147.135.130.72:8011/100200300/100200300/81402
+#EXTINF:-1,CMT HD
+http://147.135.130.72:8011/100200300/100200300/81401
+#EXTINF:-1,Cinemax Thriller Max HD
+http://147.135.130.72:8011/100200300/100200300/81400
+#EXTINF:-1,Cinemax Moremax HD
+http://147.135.130.72:8011/100200300/100200300/81399
+#EXTINF:-1,Cinemax 5
+http://147.135.130.72:8011/100200300/100200300/81398
+#EXTINF:-1,CBS Sports Network
+http://147.135.130.72:8011/100200300/100200300/81397
+#EXTINF:-1,CBS
+http://147.135.130.72:8011/100200300/100200300/81396
+#EXTINF:-1,CBN HD
+http://147.135.130.72:8011/100200300/100200300/81395
+#EXTINF:-1,C-SPAN 3 HD
+http://147.135.130.72:8011/100200300/100200300/81393
+#EXTINF:-1,C-SPAN 2 HD
+http://147.135.130.72:8011/100200300/100200300/81392
+#EXTINF:-1,C-SPAN 1 HD
+http://147.135.130.72:8011/100200300/100200300/81391
+#EXTINF:-1,BTN HD
+http://147.135.130.72:8011/100200300/100200300/81390
+#EXTINF:-1,Boomerang HD
+http://147.135.130.72:8011/100200300/100200300/81389
+#EXTINF:-1,Bloomberg HD
+http://147.135.130.72:8011/100200300/100200300/81388
+#EXTINF:-1,Big Ten Network HD
+http://147.135.130.72:8011/100200300/100200300/81387
+#EXTINF:-1,BET HD
+http://147.135.130.72:8011/100200300/100200300/81386
+#EXTINF:-1,BBC America HD
+http://147.135.130.72:8011/100200300/100200300/81385
+#EXTINF:-1,Animal Planet HD
+http://147.135.130.72:8011/100200300/100200300/81384
+#EXTINF:-1,AFN Sports HD
+http://147.135.130.72:8011/100200300/100200300/81383
+#EXTINF:-1,AFN Prime Pacific HD
+http://147.135.130.72:8011/100200300/100200300/81382
+#EXTINF:-1,AFN Prime Atlantic HD
+http://147.135.130.72:8011/100200300/100200300/81381
+#EXTINF:-1,Fox Sports 1 HD
+http://147.135.130.72:8011/100200300/100200300/81380
+#EXTINF:-1,Fox Sports 2 HD
+http://147.135.130.72:8011/100200300/100200300/81379
+#EXTINF:-1,NBC HD
+http://147.135.130.72:8011/100200300/100200300/81378
+#EXTINF:-1,TSN 5 HD
+http://147.135.130.72:8011/100200300/100200300/81377
+#EXTINF:-1,TSN 4 HD
+http://147.135.130.72:8011/100200300/100200300/81376
+#EXTINF:-1,TSN 3 HD
+http://147.135.130.72:8011/100200300/100200300/81375
+#EXTINF:-1,TSN 2 HD
+http://147.135.130.72:8011/100200300/100200300/81374
+#EXTINF:-1,TSN 1 HD
+http://147.135.130.72:8011/100200300/100200300/81373
+#EXTINF:-1,Cinemax HD
+http://147.135.130.72:8011/100200300/100200300/81372
+#EXTINF:-1,NFL Network HD
+http://147.135.130.72:8011/100200300/100200300/81371
+#EXTINF:-1,USA Network
+http://147.135.130.72:8011/100200300/100200300/81370
+#EXTINF:-1,Universal HD
+http://147.135.130.72:8011/100200300/100200300/81369
+#EXTINF:-1,TV Land HD
+http://147.135.130.72:8011/100200300/100200300/81368
+#EXTINF:-1,Travel Channel HD
+http://147.135.130.72:8011/100200300/100200300/81367
+#EXTINF:-1,Espn Deportes HD
+http://147.135.130.72:8011/100200300/100200300/81366
+#EXTINF:-1,ESPN 2 HD
+http://147.135.130.72:8011/100200300/100200300/81365
+#EXTINF:-1,ESPN HD
+http://147.135.130.72:8011/100200300/100200300/81364
+#EXTINF:-1,E! HD
+http://147.135.130.72:8011/100200300/100200300/81363
+#EXTINF:-1,DIY Network HD
+http://147.135.130.72:8011/100200300/100200300/81362
+#EXTINF:-1,Disney Junior HD
+http://147.135.130.72:8011/100200300/100200300/81361
+#EXTINF:-1,Disney Channel HD
+http://147.135.130.72:8011/100200300/100200300/81360
+#EXTINF:-1,Discovery Velocity HD
+http://147.135.130.72:8011/100200300/100200300/81359
+#EXTINF:-1,Discovery Science HD
+http://147.135.130.72:8011/100200300/100200300/81358
+#EXTINF:-1,Discovery Family HD
+http://147.135.130.72:8011/100200300/100200300/81357
+#EXTINF:-1,Action Max HD
+http://147.135.130.72:8011/100200300/100200300/81356
+#EXTINF:-1,ABC NEWS
+http://147.135.130.72:8011/100200300/100200300/81355
+#EXTINF:-1,A&E HD
+http://147.135.130.72:8011/100200300/100200300/81354
+#EXTINF:-1,TBS HD
+http://147.135.130.72:8011/100200300/100200300/81353
+#EXTINF:-1,HGTV HD
+http://147.135.130.72:8011/100200300/100200300/81352
+#EXTINF:-1,HBO Family HD
+http://147.135.130.72:8011/100200300/100200300/81351
+#EXTINF:-1,CNN HD
+http://147.135.130.72:8011/100200300/100200300/81350
+#EXTINF:-1,BeIN SPORTS HD
+http://147.135.130.72:8011/100200300/100200300/81349
+#EXTINF:-1,Bravo HD
+http://147.135.130.72:8011/100200300/100200300/81348
+#EXTINF:-1,Discovery Channel HD
+http://147.135.130.72:8011/100200300/100200300/81347
+#EXTINF:-1,ABC HD
+http://147.135.130.72:8011/100200300/100200300/81346
+#EXTINF:-1,AMC HD
+http://147.135.130.72:8011/100200300/100200300/81345
+#EXTINF:-1,ABC
+http://147.135.130.72:8011/100200300/100200300/81344
+#EXTINF:-1,ABC 2 Baton Rouge LA [WBRZ-HD]
+http://147.135.130.72:8011/100200300/100200300/81343
+#EXTINF:-1,ABC 7 Sarasota FL [WWSB]
+http://147.135.130.72:8011/100200300/100200300/81342
+#EXTINF:-1,ABC 9 Chattanooga TN [WTVC]
+http://147.135.130.72:8011/100200300/100200300/81341
+#EXTINF:-1,ABC NEWS DIGITAL 1
+http://147.135.130.72:8011/100200300/100200300/81340
+#EXTINF:-1,ABC NEWS DIGITAL 2
+http://147.135.130.72:8011/100200300/100200300/81339
+#EXTINF:-1,ABC NEWS DIGITAL 3
+http://147.135.130.72:8011/100200300/100200300/81338
+#EXTINF:-1,ABC NEWS DIGITAL 4
+http://147.135.130.72:8011/100200300/100200300/81337
+#EXTINF:-1,ABC NEWS DIGITAL 5
+http://147.135.130.72:8011/100200300/100200300/81336
+#EXTINF:-1,ABC NEWS DIGITAL 6
+http://147.135.130.72:8011/100200300/100200300/81335
+#EXTINF:-1,ABC NEWS DIGITAL 7
+http://147.135.130.72:8011/100200300/100200300/81334
+#EXTINF:-1,ABC NEWS DIGITAL 9
+http://147.135.130.72:8011/100200300/100200300/81333
+#EXTINF:-1,ABC NEWS DIGITAL 10
+http://147.135.130.72:8011/100200300/100200300/81332
+#EXTINF:-1,ABC SPARK
+http://147.135.130.72:8011/100200300/100200300/81331
+#EXTINF:-1,ABC WBRZ
+http://147.135.130.72:8011/100200300/100200300/81330
+#EXTINF:-1,ABC [KGO-TV]
+http://147.135.130.72:8011/100200300/100200300/81329
+#EXTINF:-1,ABC [WFAA]
+http://147.135.130.72:8011/100200300/100200300/81328
+#EXTINF:-1,ABC [WFTV]
+http://147.135.130.72:8011/100200300/100200300/81327
+#EXTINF:-1,ABC [WKRN]
+http://147.135.130.72:8011/100200300/100200300/81326
+#EXTINF:-1,ABC [WTAE]
+http://147.135.130.72:8011/100200300/100200300/81325
+#EXTINF:-1,ABC [WXYZ-DETROIT]
+http://147.135.130.72:8011/100200300/100200300/81324
+#EXTINF:-1,ABC13 [KTRK]
+http://147.135.130.72:8011/100200300/100200300/81323
+#EXTINF:-1,CBS 47 Jacksonville [WJAX]
+http://147.135.130.72:8011/100200300/100200300/81322
+#EXTINF:-1,CBS 7 Ohio [WHIO]
+http://147.135.130.72:8011/100200300/100200300/81321
+#EXTINF:-1,CBS Miami
+http://147.135.130.72:8011/100200300/100200300/81320
+#EXTINF:-1,CBS News
+http://147.135.130.72:8011/100200300/100200300/81319
+#EXTINF:-1,CBS Washington
+http://147.135.130.72:8011/100200300/100200300/81318
+#EXTINF:-1,CBS [KCAL]
+http://147.135.130.72:8011/100200300/100200300/81317
+#EXTINF:-1,CBS [WCBS]
+http://147.135.130.72:8011/100200300/100200300/81316
+#EXTINF:-1,CBS [WTVF]
+http://147.135.130.72:8011/100200300/100200300/81315
+#EXTINF:-1,STARZ CINEMA HD
+http://147.135.130.72:8011/100200300/100200300/81313
+#EXTINF:-1,STARZ COMEDY HD
+http://147.135.130.72:8011/100200300/100200300/81312
+#EXTINF:-1,STARZ ENCORE CLASSICS HD
+http://147.135.130.72:8011/100200300/100200300/81311
+#EXTINF:-1,STARZ ENCORE HD
+http://147.135.130.72:8011/100200300/100200300/81310
+#EXTINF:-1,STARZ ENCORE SUSPENSE HD
+http://147.135.130.72:8011/100200300/100200300/81309
+#EXTINF:-1,STARZ ENCORE WESTERN HD
+http://147.135.130.72:8011/100200300/100200300/81308
+#EXTINF:-1,STARZ IN BLACK HD
+http://147.135.130.72:8011/100200300/100200300/81307
+#EXTINF:-1,STARZ KIDS & FAMILY HD
+http://147.135.130.72:8011/100200300/100200300/81306
+#EXTINF:-1,TRUTV HD
+http://147.135.130.72:8011/100200300/100200300/81305
+#EXTINF:-1,MSG
+http://147.135.130.72:8011/100200300/100200300/81304
 #EXTINF:-1,MSG 2
-http://pulselive.uk:8080/t1/t1/249729
-#EXTINF:-1,MSG 2
-http://pulselive.uk:8080/t1/t1/249730
-#EXTINF:-1,MSG 2 Plus
-http://pulselive.uk:8080/t1/t1/249728
-#EXTINF:-1,NBA TV UHD
-http://pulselive.uk:8080/t1/t1/249726
-#EXTINF:-1,NBA TV LHD
-http://pulselive.uk:8080/t1/t1/249724
-#EXTINF:-1,NBA TV SD
-http://pulselive.uk:8080/t1/t1/249725
-#EXTINF:-1,NBA TV
-http://pulselive.uk:8080/t1/t1/249723
-#EXTINF:-1,NBC Sports Boston | NBC 10 NECN
-http://pulselive.uk:8080/t1/t1/249706
-#EXTINF:-1,NBC Sports Washington Plus
-http://pulselive.uk:8080/t1/t1/249707
-#EXTINF:-1,NBC Sports Washington
-http://pulselive.uk:8080/t1/t1/249708
-#EXTINF:-1,NBC Sports Philadelphia Plus
-http://pulselive.uk:8080/t1/t1/249709
-#EXTINF:-1,NBC Sports Philadelphia
-http://pulselive.uk:8080/t1/t1/249710
-#EXTINF:-1,NBC Sports NorthWest
-http://pulselive.uk:8080/t1/t1/249711
-#EXTINF:-1,NBC Sports Chicago Plus LHD
-http://pulselive.uk:8080/t1/t1/249714
-#EXTINF:-1,NBC Sports Chicago Plus
-http://pulselive.uk:8080/t1/t1/249715
-#EXTINF:-1,NBC Sports Chicago
-http://pulselive.uk:8080/t1/t1/249716
-#EXTINF:-1,NBC Sports California
-http://pulselive.uk:8080/t1/t1/249717
-#EXTINF:-1,NBC Sports California Plus
-http://pulselive.uk:8080/t1/t1/249718
-#EXTINF:-1,NBC Sports Bay Area
-http://pulselive.uk:8080/t1/t1/249719
-#EXTINF:-1,NBC Sports Bay Area Plus
-http://pulselive.uk:8080/t1/t1/249720
-#EXTINF:-1,NBC Sports Boston
-http://pulselive.uk:8080/t1/t1/249721
-#EXTINF:-1,NBC Sports Boston LHD
-http://pulselive.uk:8080/t1/t1/249722
-#EXTINF:-1,NFL Network UHD
-http://pulselive.uk:8080/t1/t1/249702
-#EXTINF:-1,NFL Network LHD
-http://pulselive.uk:8080/t1/t1/249704
-#EXTINF:-1,NFL Network
-http://pulselive.uk:8080/t1/t1/249703
-#EXTINF:-1,NFL Redzone UHD
-http://pulselive.uk:8080/t1/t1/249700
-#EXTINF:-1,NFL Red Zone LHD
-http://pulselive.uk:8080/t1/t1/249701
-#EXTINF:-1,NHL Network UHD
-http://pulselive.uk:8080/t1/t1/249699
-#EXTINF:-1,NESN Plus
-http://pulselive.uk:8080/t1/t1/249705
-#EXTINF:-1,Olympic Channel
-http://pulselive.uk:8080/t1/t1/249698
-#EXTINF:-1,PAC-12 Arizona
-http://pulselive.uk:8080/t1/t1/249804
-#EXTINF:-1,PAC-12 Bay Area
-http://pulselive.uk:8080/t1/t1/249803
-#EXTINF:-1,PAC-12 Los Angeles
-http://pulselive.uk:8080/t1/t1/249802
-#EXTINF:-1,PAC-12 Mountain
-http://pulselive.uk:8080/t1/t1/249801
-#EXTINF:-1,PAC-12 Oregon
-http://pulselive.uk:8080/t1/t1/249799
-#EXTINF:-1,PAC-12 Oregon
-http://pulselive.uk:8080/t1/t1/249800
-#EXTINF:-1,PAC-12 Washington
-http://pulselive.uk:8080/t1/t1/249798
-#EXTINF:-1,PX Sports
-http://pulselive.uk:8080/t1/t1/249691
-#EXTINF:-1,PX Sports
-http://pulselive.uk:8080/t1/t1/249697
-#EXTINF:-1,Spectrum SportsNet Lakers (HD)
-http://pulselive.uk:8080/t1/t1/249695
-#EXTINF:-1,Spectrum SportsNet LA Dodgers
-http://pulselive.uk:8080/t1/t1/249696
-#EXTINF:-1,SportsNet New York 
-http://pulselive.uk:8080/t1/t1/249692
-#EXTINF:-1,SportsNet New York 
-http://pulselive.uk:8080/t1/t1/249693
-#EXTINF:-1,SportsNet New York 
-http://pulselive.uk:8080/t1/t1/249694
-#EXTINF:-1,Stadium
-http://pulselive.uk:8080/t1/t1/249687
-#EXTINF:-1,Stadium 1
-http://pulselive.uk:8080/t1/t1/249688
-#EXTINF:-1,Stadium 2
-http://pulselive.uk:8080/t1/t1/249689
-#EXTINF:-1,Stadium 3
-http://pulselive.uk:8080/t1/t1/249690
-#EXTINF:-1,Tennis Channel UHD
-http://pulselive.uk:8080/t1/t1/249685
-#EXTINF:-1,Tennis Channel LHD
-http://pulselive.uk:8080/t1/t1/249680
-#EXTINF:-1,Tennis Channel SD
-http://pulselive.uk:8080/t1/t1/249684
-#EXTINF:-1,Tennis Channel
-http://pulselive.uk:8080/t1/t1/249679
-#EXTINF:-1,Tennis Channel Plus 1
-http://pulselive.uk:8080/t1/t1/249681
-#EXTINF:-1,Tennis Channel Plus 2
-http://pulselive.uk:8080/t1/t1/249682
-#EXTINF:-1,Tennis Channel Plus 3
-http://pulselive.uk:8080/t1/t1/249683
-#EXTINF:-1,TCN Sports Philadelphia
-http://pulselive.uk:8080/t1/t1/249686
-#EXTINF:-1,TyC Sports
-http://pulselive.uk:8080/t1/t1/249674
-#EXTINF:-1,TyC Sports SD
-http://pulselive.uk:8080/t1/t1/249675
-#EXTINF:-1,UFC Channel
-http://pulselive.uk:8080/t1/t1/249676
-#EXTINF:-1,WWE UHD
-http://pulselive.uk:8080/t1/t1/249665
-#EXTINF:-1,WWE SD
-http://pulselive.uk:8080/t1/t1/249664
-#EXTINF:-1,Yes Network UHD
-http://pulselive.uk:8080/t1/t1/249668
-#EXTINF:-1,Yes Network LHD
-http://pulselive.uk:8080/t1/t1/249667
-#EXTINF:-1,Yes Network
-http://pulselive.uk:8080/t1/t1/249666
-#EXTINF:-1,Yes SD
-http://pulselive.uk:8080/t1/t1/249669
-#EXTINF:-1,Willow Cricket
-http://pulselive.uk:8080/t1/t1/249670
-#EXTINF:-1,Willow Cricket Extra
-http://pulselive.uk:8080/t1/t1/249671
-#EXTINF:-1,World Fishing Network
-http://pulselive.uk:8080/t1/t1/249672
-#EXTINF:-1,World Fishing Network SD
-http://pulselive.uk:8080/t1/t1/249673
-#EXTINF:-1,A&E UHD
-http://pulselive.uk:8080/t1/t1/250496
-#EXTINF:-1,A&E
-http://pulselive.uk:8080/t1/t1/250495
-#EXTINF:-1,AccuWeather
-http://pulselive.uk:8080/t1/t1/250498
-#EXTINF:-1,Adult Swim West
-http://pulselive.uk:8080/t1/t1/250499
-#EXTINF:-1,AMC UHD
-http://pulselive.uk:8080/t1/t1/250503
-#EXTINF:-1,AMC East LHD
-http://pulselive.uk:8080/t1/t1/250501
-#EXTINF:-1,AMC
-http://pulselive.uk:8080/t1/t1/250500
-#EXTINF:-1,AMC 
-http://pulselive.uk:8080/t1/t1/250502
-#EXTINF:-1,AMC
-http://pulselive.uk:8080/t1/t1/250504
-#EXTINF:-1,American Heroes
-http://pulselive.uk:8080/t1/t1/250505
-#EXTINF:-1,Animal Planet East UHD
-http://pulselive.uk:8080/t1/t1/250508
-#EXTINF:-1,Animal Planet East LHD
-http://pulselive.uk:8080/t1/t1/250507
-#EXTINF:-1,Animal Planet East
-http://pulselive.uk:8080/t1/t1/250506
-#EXTINF:-1,Animal Planet West
-http://pulselive.uk:8080/t1/t1/250509
-#EXTINF:-1,Antenna
-http://pulselive.uk:8080/t1/t1/250510
-#EXTINF:-1,Aspire
-http://pulselive.uk:8080/t1/t1/250511
-#EXTINF:-1,AWE
-http://pulselive.uk:8080/t1/t1/250512
-#EXTINF:-1,AXS TV
-http://pulselive.uk:8080/t1/t1/250513
-#EXTINF:-1,Beach TV - Myrtle Beach 
-http://pulselive.uk:8080/t1/t1/250514
-#EXTINF:-1,Beach TV Key West - rida Keys
-http://pulselive.uk:8080/t1/t1/250515
-#EXTINF:-1,Beach TV Panama City
-http://pulselive.uk:8080/t1/t1/250516
-#EXTINF:-1,Beach TV rida - Alabama
-http://pulselive.uk:8080/t1/t1/250517
-#EXTINF:-1,BET East UHD
-http://pulselive.uk:8080/t1/t1/250518
-#EXTINF:-1,BET HER
-http://pulselive.uk:8080/t1/t1/250519
-#EXTINF:-1,BET West
-http://pulselive.uk:8080/t1/t1/250520
-#EXTINF:-1,BOUNCE TV
-http://pulselive.uk:8080/t1/t1/250521
-#EXTINF:-1,Bravo East UHD
-http://pulselive.uk:8080/t1/t1/250524
-#EXTINF:-1,Bravo East LHD
-http://pulselive.uk:8080/t1/t1/250523
-#EXTINF:-1,Bravo East
-http://pulselive.uk:8080/t1/t1/250522
-#EXTINF:-1,Bravo West
-http://pulselive.uk:8080/t1/t1/250525
-#EXTINF:-1,Buzzr
-http://pulselive.uk:8080/t1/t1/250526
-#EXTINF:-1,Cars TV
-http://pulselive.uk:8080/t1/t1/250527
-#EXTINF:-1,CBS POP
-http://pulselive.uk:8080/t1/t1/250528
-#EXTINF:-1,Circle
-http://pulselive.uk:8080/t1/t1/250529
-#EXTINF:-1,CLASSIC ARTS SHOWCASE
-http://pulselive.uk:8080/t1/t1/250530
-#EXTINF:-1,Comedy Central East UHD
-http://pulselive.uk:8080/t1/t1/250531
-#EXTINF:-1,COMEDY CENTRAL WEST
-http://pulselive.uk:8080/t1/t1/250532
-#EXTINF:-1,Comedy TV
-http://pulselive.uk:8080/t1/t1/250533
-#EXTINF:-1,Comet
-http://pulselive.uk:8080/t1/t1/250534
-#EXTINF:-1,Comet LHD
-http://pulselive.uk:8080/t1/t1/250535
-#EXTINF:-1,Cooking Channel
-http://pulselive.uk:8080/t1/t1/250536
-#EXTINF:-1,Court TV
-http://pulselive.uk:8080/t1/t1/250537
-#EXTINF:-1,Court TV Mystery
-http://pulselive.uk:8080/t1/t1/250538
-#EXTINF:-1,Cozi TV LHD
-http://pulselive.uk:8080/t1/t1/250540
-#EXTINF:-1,Cozi TV
-http://pulselive.uk:8080/t1/t1/250539
-#EXTINF:-1,Crime & Investigation Network
-http://pulselive.uk:8080/t1/t1/250541
-#EXTINF:-1,DABL
-http://pulselive.uk:8080/t1/t1/250542
-#EXTINF:-1,Decades
-http://pulselive.uk:8080/t1/t1/250543
-#EXTINF:-1,Destination America UHD
-http://pulselive.uk:8080/t1/t1/250546
-#EXTINF:-1,Destination America LHD
-http://pulselive.uk:8080/t1/t1/250545
-#EXTINF:-1,Destination America
-http://pulselive.uk:8080/t1/t1/250544
-#EXTINF:-1,Discovery East UHD
-http://pulselive.uk:8080/t1/t1/250548
-#EXTINF:-1,Discovery East
-http://pulselive.uk:8080/t1/t1/250547
-#EXTINF:-1,Discovery Family
-http://pulselive.uk:8080/t1/t1/250549
-#EXTINF:-1,Discovery Life
-http://pulselive.uk:8080/t1/t1/250550
-#EXTINF:-1,Discovery Life Channel LHD
-http://pulselive.uk:8080/t1/t1/250551
-#EXTINF:-1,Discovery Science
-http://pulselive.uk:8080/t1/t1/250552
-#EXTINF:-1,Discovery Science UHD
-http://pulselive.uk:8080/t1/t1/250554
-#EXTINF:-1,Discovery Science LHD
-http://pulselive.uk:8080/t1/t1/250553
-#EXTINF:-1,Discovery Velocity
-http://pulselive.uk:8080/t1/t1/250555
-#EXTINF:-1,Discovery West
-http://pulselive.uk:8080/t1/t1/250556
-#EXTINF:-1,District of Columbia Network
-http://pulselive.uk:8080/t1/t1/250557
-#EXTINF:-1,DIY UHD
-http://pulselive.uk:8080/t1/t1/250560
-#EXTINF:-1,DIY Network LHD
-http://pulselive.uk:8080/t1/t1/250558
-#EXTINF:-1,DIY Network
-http://pulselive.uk:8080/t1/t1/250559
-#EXTINF:-1,Dog TV
-http://pulselive.uk:8080/t1/t1/250561
-#EXTINF:-1,Dove Channel
-http://pulselive.uk:8080/t1/t1/250562
-#EXTINF:-1,E! Entertainment East  UHD
-http://pulselive.uk:8080/t1/t1/250565
-#EXTINF:-1,E! Entertainment East LHD
-http://pulselive.uk:8080/t1/t1/250564
-#EXTINF:-1,E! Entertainment West
-http://pulselive.uk:8080/t1/t1/250566
-#EXTINF:-1,E! Entertainment
-http://pulselive.uk:8080/t1/t1/250563
-#EXTINF:-1,El Rey
-http://pulselive.uk:8080/t1/t1/250567
-#EXTINF:-1,FETV
-http://pulselive.uk:8080/t1/t1/250569
-#EXTINF:-1,Food Network East UHD
-http://pulselive.uk:8080/t1/t1/250572
-#EXTINF:-1,Food Network East LHD
-http://pulselive.uk:8080/t1/t1/250571
-#EXTINF:-1,Food Network West
-http://pulselive.uk:8080/t1/t1/250573
-#EXTINF:-1,Food Network
-http://pulselive.uk:8080/t1/t1/250570
-#EXTINF:-1,Freeform UHD
-http://pulselive.uk:8080/t1/t1/250576
-#EXTINF:-1,Freeform East LHD
-http://pulselive.uk:8080/t1/t1/250575
-#EXTINF:-1,Freeform West
-http://pulselive.uk:8080/t1/t1/250577
-#EXTINF:-1,Freeform
-http://pulselive.uk:8080/t1/t1/250574
-#EXTINF:-1,Fuse
-http://pulselive.uk:8080/t1/t1/250578
-#EXTINF:-1,Fuse TV
-http://pulselive.uk:8080/t1/t1/250579
-#EXTINF:-1,Fusion LHD
-http://pulselive.uk:8080/t1/t1/250580
-#EXTINF:-1,FYI
-http://pulselive.uk:8080/t1/t1/250581
-#EXTINF:-1,GET TV
-http://pulselive.uk:8080/t1/t1/250582
-#EXTINF:-1,Great American Country
-http://pulselive.uk:8080/t1/t1/250583
-#EXTINF:-1,Grit TV
-http://pulselive.uk:8080/t1/t1/250584
-#EXTINF:-1,Game Show Network UHD
-http://pulselive.uk:8080/t1/t1/250585
-#EXTINF:-1,GUSTO
-http://pulselive.uk:8080/t1/t1/250586
-#EXTINF:-1,Hallmark Channel
-http://pulselive.uk:8080/t1/t1/250587
-#EXTINF:-1,Hallmark Channel East LHD
-http://pulselive.uk:8080/t1/t1/250588
-#EXTINF:-1,Hallmark Drama East UHD
-http://pulselive.uk:8080/t1/t1/250591
-#EXTINF:-1,Hallmark Drama LHD
-http://pulselive.uk:8080/t1/t1/250590
-#EXTINF:-1,Hallmark Drama
-http://pulselive.uk:8080/t1/t1/250589
-#EXTINF:-1,Hallmark Movies & Mysteries East UHD
-http://pulselive.uk:8080/t1/t1/250593
-#EXTINF:-1,Hallmark Movies & Mysteries LHD
-http://pulselive.uk:8080/t1/t1/250594
-#EXTINF:-1,Hallmark Movies & Mysteries
-http://pulselive.uk:8080/t1/t1/250592
-#EXTINF:-1,Heroes & Icons
-http://pulselive.uk:8080/t1/t1/250595
-#EXTINF:-1,HGTV East UHD
-http://pulselive.uk:8080/t1/t1/250598
-#EXTINF:-1,HGTV East LHD
-http://pulselive.uk:8080/t1/t1/250597
-#EXTINF:-1,HGTV East
-http://pulselive.uk:8080/t1/t1/250596
-#EXTINF:-1,HGTV West
-http://pulselive.uk:8080/t1/t1/250599
-#EXTINF:-1,History East UHD
-http://pulselive.uk:8080/t1/t1/250600
-#EXTINF:-1,History Military
-http://pulselive.uk:8080/t1/t1/250601
-#EXTINF:-1,Home Shopping Network
-http://pulselive.uk:8080/t1/t1/250602
-#EXTINF:-1,Home Shopping Network 2
-http://pulselive.uk:8080/t1/t1/250603
-#EXTINF:-1,ID East UHD
-http://pulselive.uk:8080/t1/t1/250605
-#EXTINF:-1,ID East LHD
-http://pulselive.uk:8080/t1/t1/250604
-#EXTINF:-1,ID West
-http://pulselive.uk:8080/t1/t1/250606
-#EXTINF:-1,IFC
-http://pulselive.uk:8080/t1/t1/250607
-#EXTINF:-1,IFC LHD
-http://pulselive.uk:8080/t1/t1/250608
-#EXTINF:-1,Info Wars
-http://pulselive.uk:8080/t1/t1/250609
-#EXTINF:-1,INSP
-http://pulselive.uk:8080/t1/t1/250610
-#EXTINF:-1,ION (WPPX) Philadelphia
-http://pulselive.uk:8080/t1/t1/250611
-#EXTINF:-1,ION 38 (WCPX) Chicago
-http://pulselive.uk:8080/t1/t1/250612
-#EXTINF:-1,Jewelry Television
-http://pulselive.uk:8080/t1/t1/250613
-#EXTINF:-1,Justice Central
-http://pulselive.uk:8080/t1/t1/250614
-#EXTINF:-1,LA 7 Itallia
-http://pulselive.uk:8080/t1/t1/250715
-#EXTINF:-1,Laff TV
-http://pulselive.uk:8080/t1/t1/250615
-#EXTINF:-1,Law And Crime
-http://pulselive.uk:8080/t1/t1/250616
-#EXTINF:-1,Lifetime Network UHD
-http://pulselive.uk:8080/t1/t1/250617
-#EXTINF:-1,Lifetime Movies UHD
-http://pulselive.uk:8080/t1/t1/250618
-#EXTINF:-1,Lifetime Real Women
-http://pulselive.uk:8080/t1/t1/250619
-#EXTINF:-1,Lifetime Real Women
-http://pulselive.uk:8080/t1/t1/250620
-#EXTINF:-1,LOGO
-http://pulselive.uk:8080/t1/t1/250621
-#EXTINF:-1,MAVTV
-http://pulselive.uk:8080/t1/t1/250622
-#EXTINF:-1,MeTV New York WJLPDT
-http://pulselive.uk:8080/t1/t1/250623
-#EXTINF:-1,MGM
-http://pulselive.uk:8080/t1/t1/250624
-#EXTINF:-1,Miami TV
-http://pulselive.uk:8080/t1/t1/250625
-#EXTINF:-1,MY 9 (KECY-DT) El Centro
-http://pulselive.uk:8080/t1/t1/250626
-#EXTINF:-1,NASA
-http://pulselive.uk:8080/t1/t1/250627
-#EXTINF:-1,Nat Geographic East UHD
-http://pulselive.uk:8080/t1/t1/250629
-#EXTINF:-1,Nat Geographic East LHD
-http://pulselive.uk:8080/t1/t1/250628
-#EXTINF:-1,Nat Geo Wild East UHD
-http://pulselive.uk:8080/t1/t1/250630
-#EXTINF:-1,Nat Geo Wild LHD
-http://pulselive.uk:8080/t1/t1/250631
-#EXTINF:-1,National Geographic West
-http://pulselive.uk:8080/t1/t1/250632
-#EXTINF:-1,Oprah Winfrey Network (OWN) UHD
-http://pulselive.uk:8080/t1/t1/250640
-#EXTINF:-1,Oprah Winfrey Network (OWN) LHD
-http://pulselive.uk:8080/t1/t1/250633
-#EXTINF:-1,Oprah Winfrey Network (OWN)
-http://pulselive.uk:8080/t1/t1/250634
-#EXTINF:-1,Outdoor Channel
-http://pulselive.uk:8080/t1/t1/250635
-#EXTINF:-1,Outside TV
-http://pulselive.uk:8080/t1/t1/250636
-#EXTINF:-1,Outside TV
-http://pulselive.uk:8080/t1/t1/250637
-#EXTINF:-1,OutsideTV
-http://pulselive.uk:8080/t1/t1/250638
-#EXTINF:-1,Ovation
-http://pulselive.uk:8080/t1/t1/250639
-#EXTINF:-1,Oxygen East UHD
-http://pulselive.uk:8080/t1/t1/250642
-#EXTINF:-1,Oxygen East LHD
-http://pulselive.uk:8080/t1/t1/250641
-#EXTINF:-1,Oxygen West
-http://pulselive.uk:8080/t1/t1/250643
-#EXTINF:-1,Oxygen West LHD
-http://pulselive.uk:8080/t1/t1/250644
-#EXTINF:-1,Paramount East UHD
-http://pulselive.uk:8080/t1/t1/250645
-#EXTINF:-1,PBS WPBT MIami
-http://pulselive.uk:8080/t1/t1/250646
-#EXTINF:-1,People TV
-http://pulselive.uk:8080/t1/t1/250647
-#EXTINF:-1,Pursuit
-http://pulselive.uk:8080/t1/t1/250648
-#EXTINF:-1,QVC
-http://pulselive.uk:8080/t1/t1/250649
-#EXTINF:-1,QVC 2
-http://pulselive.uk:8080/t1/t1/250650
-#EXTINF:-1,RAI Italia
-http://pulselive.uk:8080/t1/t1/250651
-#EXTINF:-1,Reelz
-http://pulselive.uk:8080/t1/t1/250652
-#EXTINF:-1,RetroPlex East
-http://pulselive.uk:8080/t1/t1/250653
-#EXTINF:-1,RetroPlex West
-http://pulselive.uk:8080/t1/t1/250654
-#EXTINF:-1,Revolt
-http://pulselive.uk:8080/t1/t1/250655
-#EXTINF:-1,RFD TV
-http://pulselive.uk:8080/t1/t1/250656
-#EXTINF:-1,Ride TV
-http://pulselive.uk:8080/t1/t1/250657
-#EXTINF:-1,SHORTS TV
-http://pulselive.uk:8080/t1/t1/250658
-#EXTINF:-1,Smithsonian Channel UHD
-http://pulselive.uk:8080/t1/t1/250659
-#EXTINF:-1,Smithsonian Channel LHD
-http://pulselive.uk:8080/t1/t1/250660
-#EXTINF:-1,Start TV
-http://pulselive.uk:8080/t1/t1/250661
-#EXTINF:-1,Syfy East UHD
-http://pulselive.uk:8080/t1/t1/250664
-#EXTINF:-1,Syfy East LHD
-http://pulselive.uk:8080/t1/t1/250663
-#EXTINF:-1,Syfy East
-http://pulselive.uk:8080/t1/t1/250662
-#EXTINF:-1,Syfy West
-http://pulselive.uk:8080/t1/t1/250665
-#EXTINF:-1,Tastemade
-http://pulselive.uk:8080/t1/t1/250666
-#EXTINF:-1,Tastemade
-http://pulselive.uk:8080/t1/t1/250667
-#EXTINF:-1,TBD TV
-http://pulselive.uk:8080/t1/t1/250668
-#EXTINF:-1,TBN
-http://pulselive.uk:8080/t1/t1/250669
-#EXTINF:-1,TBS East UHD
-http://pulselive.uk:8080/t1/t1/250672
-#EXTINF:-1,TBS East LHD
-http://pulselive.uk:8080/t1/t1/250671
-#EXTINF:-1,TBS West
-http://pulselive.uk:8080/t1/t1/250673
-#EXTINF:-1,TBS
-http://pulselive.uk:8080/t1/t1/250670
+http://147.135.130.72:8011/100200300/100200300/81303
+#EXTINF:-1,MSG+
+http://147.135.130.72:8011/100200300/100200300/81302
+#EXTINF:-1,HALLMARK DRAMA
+http://147.135.130.72:8011/100200300/100200300/81301
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES
+http://147.135.130.72:8011/100200300/100200300/81300
+#EXTINF:-1,PEOPLE TV
+http://147.135.130.72:8011/100200300/100200300/81299
+#EXTINF:-1,TURNER CLASSIC MOVIES HD
+http://147.135.130.72:8011/100200300/100200300/81298
+#EXTINF:-1,TV ONE HD
+http://147.135.130.72:8011/100200300/100200300/81297
+#EXTINF:-1,UNIVERSAL KIDS HD
+http://147.135.130.72:8011/100200300/100200300/81296
+#EXTINF:-1,VICELAND HD
+http://147.135.130.72:8011/100200300/100200300/81295
+#EXTINF:-1,WETV HD
+http://147.135.130.72:8011/100200300/100200300/81294
 #EXTINF:-1,TCM
-http://pulselive.uk:8080/t1/t1/250674
-#EXTINF:-1,The Cowboy Channel
-http://pulselive.uk:8080/t1/t1/250675
-#EXTINF:-1,The Film Detective
-http://pulselive.uk:8080/t1/t1/250676
-#EXTINF:-1,The Weather Channel
-http://pulselive.uk:8080/t1/t1/250677
-#EXTINF:-1,TLC East UHD
-http://pulselive.uk:8080/t1/t1/250680
-#EXTINF:-1,TLC East LHD
-http://pulselive.uk:8080/t1/t1/250679
-#EXTINF:-1,TLC East
-http://pulselive.uk:8080/t1/t1/250678
-#EXTINF:-1,TLC West
-http://pulselive.uk:8080/t1/t1/250681
-#EXTINF:-1,TMZ
-http://pulselive.uk:8080/t1/t1/250682
-#EXTINF:-1,TNT East UHD
-http://pulselive.uk:8080/t1/t1/250684
-#EXTINF:-1,TNT East
-http://pulselive.uk:8080/t1/t1/250683
-#EXTINF:-1,TNT West
-http://pulselive.uk:8080/t1/t1/250685
-#EXTINF:-1,TNT West
-http://pulselive.uk:8080/t1/t1/250686
-#EXTINF:-1,Travel
-http://pulselive.uk:8080/t1/t1/250687
-#EXTINF:-1,Travel Channel East LHD
-http://pulselive.uk:8080/t1/t1/250688
-#EXTINF:-1,Travel Channel West
-http://pulselive.uk:8080/t1/t1/250689
-#EXTINF:-1,Travel East UHD
-http://pulselive.uk:8080/t1/t1/250690
-#EXTINF:-1,Travel West
-http://pulselive.uk:8080/t1/t1/250691
-#EXTINF:-1,truTV UHD
-http://pulselive.uk:8080/t1/t1/250693
-#EXTINF:-1,truTV LHD
-http://pulselive.uk:8080/t1/t1/250692
-#EXTINF:-1,truTV HD
-http://pulselive.uk:8080/t1/t1/250694
-#EXTINF:-1,TV Land UHD
-http://pulselive.uk:8080/t1/t1/250697
-#EXTINF:-1,TV Land West
-http://pulselive.uk:8080/t1/t1/250695
-#EXTINF:-1,TV One
-http://pulselive.uk:8080/t1/t1/250696
-#EXTINF:-1,UP TV
-http://pulselive.uk:8080/t1/t1/250698
-#EXTINF:-1,USA Network East UHD
-http://pulselive.uk:8080/t1/t1/250700
-#EXTINF:-1,USA Network East LHD
-http://pulselive.uk:8080/t1/t1/250699
-#EXTINF:-1,USA Network West
-http://pulselive.uk:8080/t1/t1/250701
-#EXTINF:-1,USA Network West
-http://pulselive.uk:8080/t1/t1/250702
-#EXTINF:-1,Viceland
-http://pulselive.uk:8080/t1/t1/250703
-#EXTINF:-1,Wapa America
-http://pulselive.uk:8080/t1/t1/250704
-#EXTINF:-1,We TV
-http://pulselive.uk:8080/t1/t1/250705
-#EXTINF:-1,We TV
-http://pulselive.uk:8080/t1/t1/250707
-#EXTINF:-1,We TV LHD
-http://pulselive.uk:8080/t1/t1/250706
-#EXTINF:-1,WGN 9 Chicago
-http://pulselive.uk:8080/t1/t1/250708
-#EXTINF:-1,WGN America
-http://pulselive.uk:8080/t1/t1/250709
-#EXTINF:-1,WGN America
-http://pulselive.uk:8080/t1/t1/250711
-#EXTINF:-1,WGN America SD
-http://pulselive.uk:8080/t1/t1/250710
-#EXTINF:-1,WPIX New York
-http://pulselive.uk:8080/t1/t1/250712
-#EXTINF:-1,Z Classic
-http://pulselive.uk:8080/t1/t1/250713
-#EXTINF:-1,Z Living
-http://pulselive.uk:8080/t1/t1/250714
+http://147.135.130.72:8011/100200300/100200300/81293
+#EXTINF:-1,TEEN NICK
+http://147.135.130.72:8011/100200300/100200300/81292
+#EXTINF:-1,WGN AMERICA
+http://147.135.130.72:8011/100200300/100200300/81291
+#EXTINF:-1,GINX ESPORTS
+http://147.135.130.72:8011/100200300/100200300/81290
+#EXTINF:-1,NBA Detroit Pistons
+http://147.135.130.72:8011/100200300/100200300/81289
+#EXTINF:-1,NBA Houston Rockets
+http://147.135.130.72:8011/100200300/100200300/81287
+#EXTINF:-1,NBA Indiana Pacers
+http://147.135.130.72:8011/100200300/100200300/81286
+#EXTINF:-1,NBA Los Angeles Clippers
+http://147.135.130.72:8011/100200300/100200300/81285
+#EXTINF:-1,NBA Los Angeles Lakers
+http://147.135.130.72:8011/100200300/100200300/81284
+#EXTINF:-1,NBA Memphis Grizzlies
+http://147.135.130.72:8011/100200300/100200300/81283
+#EXTINF:-1,NBA Brooklyn Nets
+http://147.135.130.72:8011/100200300/100200300/81282
+#EXTINF:-1,NBA Charlotte Hornets
+http://147.135.130.72:8011/100200300/100200300/81281
+#EXTINF:-1,NBA Chicago Bulls
+http://147.135.130.72:8011/100200300/100200300/81280
+#EXTINF:-1,NBA Cleveland Cavaliers
+http://147.135.130.72:8011/100200300/100200300/81279
+#EXTINF:-1,NBA Dallas Mavericks
+http://147.135.130.72:8011/100200300/100200300/81278
+#EXTINF:-1,NBA Denver Nuggets
+http://147.135.130.72:8011/100200300/100200300/81277
+#EXTINF:-1,NBA Miami Heat
+http://147.135.130.72:8011/100200300/100200300/81276
+#EXTINF:-1,NBA Milwaukee Bucks
+http://147.135.130.72:8011/100200300/100200300/81275
+#EXTINF:-1,NBA Minnesota Timberwolves
+http://147.135.130.72:8011/100200300/100200300/81274
+#EXTINF:-1,NBA New Orleans Pelicans
+http://147.135.130.72:8011/100200300/100200300/81273
+#EXTINF:-1,NBA New York Knicks
+http://147.135.130.72:8011/100200300/100200300/81272
+#EXTINF:-1,NBA Oklahoma City Thunder
+http://147.135.130.72:8011/100200300/100200300/81271
+#EXTINF:-1,NBA Orlando Magic
+http://147.135.130.72:8011/100200300/100200300/81270
+#EXTINF:-1,NBA Philadelphia 76ers
+http://147.135.130.72:8011/100200300/100200300/81269
+#EXTINF:-1,NBA Phoenix Suns
+http://147.135.130.72:8011/100200300/100200300/81268
+#EXTINF:-1,NBA Portland Trail Blazers
+http://147.135.130.72:8011/100200300/100200300/81267
+#EXTINF:-1,NBA Sacramento Kings
+http://147.135.130.72:8011/100200300/100200300/81266
+#EXTINF:-1,NBA San Antonio Spurs
+http://147.135.130.72:8011/100200300/100200300/81265
+#EXTINF:-1,NBA Toronto Raptors
+http://147.135.130.72:8011/100200300/100200300/81264
+#EXTINF:-1,NBA Utah Jazz
+http://147.135.130.72:8011/100200300/100200300/81263
+#EXTINF:-1,NBA League Pass 01
+http://147.135.130.72:8011/100200300/100200300/81262
+#EXTINF:-1,NBA League Pass 02
+http://147.135.130.72:8011/100200300/100200300/81261
+#EXTINF:-1,NBA League Pass 03
+http://147.135.130.72:8011/100200300/100200300/81260
+#EXTINF:-1,NBA League Pass 04
+http://147.135.130.72:8011/100200300/100200300/81259
+#EXTINF:-1,NBA League Pass 05
+http://147.135.130.72:8011/100200300/100200300/81258
+#EXTINF:-1,NBA League Pass 06
+http://147.135.130.72:8011/100200300/100200300/81257
+#EXTINF:-1,NBA League Pass 07
+http://147.135.130.72:8011/100200300/100200300/81256
+#EXTINF:-1,NBA League Pass 08
+http://147.135.130.72:8011/100200300/100200300/81255
+#EXTINF:-1,NBA League Pass 09
+http://147.135.130.72:8011/100200300/100200300/81254
+#EXTINF:-1,NBA League Pass 10
+http://147.135.130.72:8011/100200300/100200300/81253
+#EXTINF:-1,NBA League Pass 11
+http://147.135.130.72:8011/100200300/100200300/81252
+#EXTINF:-1,NBA League Pass 12
+http://147.135.130.72:8011/100200300/100200300/81251
+#EXTINF:-1,NBA League Pass 13
+http://147.135.130.72:8011/100200300/100200300/81250
+#EXTINF:-1,NBA League Pass 14
+http://147.135.130.72:8011/100200300/100200300/81249
+#EXTINF:-1,NBA League Pass 15
+http://147.135.130.72:8011/100200300/100200300/81248
+#EXTINF:-1,NBC 11 News [Bay Area]
+http://147.135.130.72:8011/100200300/100200300/81247
+#EXTINF:-1,NBC 12 WFSA Montgomery
+http://147.135.130.72:8011/100200300/100200300/81246
+#EXTINF:-1,NBC 15 Madison [WMTV]
+http://147.135.130.72:8011/100200300/100200300/81245
+#EXTINF:-1,NBC 30 Connecticut [WVIT]
+http://147.135.130.72:8011/100200300/100200300/81244
+#EXTINF:-1,NBC 38 Columbus [WLTZ]
+http://147.135.130.72:8011/100200300/100200300/81243
+#EXTINF:-1,NBC 3 WRCB Chattanooga
+http://147.135.130.72:8011/100200300/100200300/81242
+#EXTINF:-1,NBC 4 News [Washington DC] WITN
+http://147.135.130.72:8011/100200300/100200300/81241
+#EXTINF:-1,NBC Chicago WMAQ
+http://147.135.130.72:8011/100200300/100200300/81240
+#EXTINF:-1,NBC Miami WTVJ
+http://147.135.130.72:8011/100200300/100200300/81239
+#EXTINF:-1,NBC New York WNBC
+http://147.135.130.72:8011/100200300/100200300/81238
+#EXTINF:-1,NBC Philadelphia WCAU
+http://147.135.130.72:8011/100200300/100200300/81237
+#EXTINF:-1,NBC [WBIR]
+http://147.135.130.72:8011/100200300/100200300/81236
+#EXTINF:-1,NBC [WBTS]
+http://147.135.130.72:8011/100200300/100200300/81235
+#EXTINF:-1,NBC [WESH]
+http://147.135.130.72:8011/100200300/100200300/81234
+#EXTINF:-1,NBC [WFLA]
+http://147.135.130.72:8011/100200300/100200300/81233
+#EXTINF:-1,NBC [WNBC]
+http://147.135.130.72:8011/100200300/100200300/81232
+#EXTINF:-1,NBC [WPXI]
+http://147.135.130.72:8011/100200300/100200300/81231
+#EXTINF:-1,NBC [WSMV]
+http://147.135.130.72:8011/100200300/100200300/81230
+#EXTINF:-1,FOX 43 (VA Beach)
+http://147.135.130.72:8011/100200300/100200300/81228
+#EXTINF:-1,FOX 43 Knoxville
+http://147.135.130.72:8011/100200300/100200300/81227
+#EXTINF:-1,Fox Altanta
+http://147.135.130.72:8011/100200300/100200300/81226
+#EXTINF:-1,FOX ATLANTA GA WAGA
+http://147.135.130.72:8011/100200300/100200300/81225
+#EXTINF:-1,FOX ATLANTA
+http://147.135.130.72:8011/100200300/100200300/81224
+#EXTINF:-1,FOX Austin
+http://147.135.130.72:8011/100200300/100200300/81223
+#EXTINF:-1,FOX AUSTIN TX KTBC
+http://147.135.130.72:8011/100200300/100200300/81222
+#EXTINF:-1,FOX BALTIMORE
+http://147.135.130.72:8011/100200300/100200300/81221
+#EXTINF:-1,FOX BALTIMORE MD WBFF
+http://147.135.130.72:8011/100200300/100200300/81220
+#EXTINF:-1,FOX BOSTON
+http://147.135.130.72:8011/100200300/100200300/81219
+#EXTINF:-1,FOX BOSTON MA WFXT
+http://147.135.130.72:8011/100200300/100200300/81218
+#EXTINF:-1,FOX BUFFALO
+http://147.135.130.72:8011/100200300/100200300/81217
+#EXTINF:-1,FOX BUFFALO NY WUTV
+http://147.135.130.72:8011/100200300/100200300/81216
+#EXTINF:-1,Fox Business
+http://147.135.130.72:8011/100200300/100200300/81215
+#EXTINF:-1,FOX Business Network
+http://147.135.130.72:8011/100200300/100200300/81214
+#EXTINF:-1,Fox Bussines Network
+http://147.135.130.72:8011/100200300/100200300/81213
+#EXTINF:-1,FOX Chicago
+http://147.135.130.72:8011/100200300/100200300/81212
+#EXTINF:-1,FOX CHICAGO IL WFLD
+http://147.135.130.72:8011/100200300/100200300/81211
+#EXTINF:-1,FOX CLEVELAND
+http://147.135.130.72:8011/100200300/100200300/81210
+#EXTINF:-1,Fox Collage Sports Atlantic
+http://147.135.130.72:8011/100200300/100200300/81209
+#EXTINF:-1,Fox Collage Sports Pacific
+http://147.135.130.72:8011/100200300/100200300/81208
+#EXTINF:-1,FOX COLUMBUS OH WTTE
+http://147.135.130.72:8011/100200300/100200300/81207
+#EXTINF:-1,FOX Dallas
+http://147.135.130.72:8011/100200300/100200300/81206
+#EXTINF:-1,FOX DALLAS TX KDFW
+http://147.135.130.72:8011/100200300/100200300/81205
+#EXTINF:-1,FOX Denver
+http://147.135.130.72:8011/100200300/100200300/81204
+#EXTINF:-1,FOX DENVER CO KDVR
+http://147.135.130.72:8011/100200300/100200300/81203
+#EXTINF:-1,FOX Deportes
+http://147.135.130.72:8011/100200300/100200300/81202
+#EXTINF:-1,FOX Detroit
+http://147.135.130.72:8011/100200300/100200300/81201
+#EXTINF:-1,FOX DETROIT MI WJBK
+http://147.135.130.72:8011/100200300/100200300/81200
+#EXTINF:-1,FOX GREEN BAY
+http://147.135.130.72:8011/100200300/100200300/81199
+#EXTINF:-1,FOX GREEN BAY WI WLUK
+http://147.135.130.72:8011/100200300/100200300/81198
+#EXTINF:-1,FOX Hartford
+http://147.135.130.72:8011/100200300/100200300/81197
+#EXTINF:-1,FOX HARTFORD CT WTIC
+http://147.135.130.72:8011/100200300/100200300/81196
+#EXTINF:-1,FOX
+http://147.135.130.72:8011/100200300/100200300/81195
+#EXTINF:-1,FOX Houston
+http://147.135.130.72:8011/100200300/100200300/81194
+#EXTINF:-1,FOX HOUSTON TX KRIV
+http://147.135.130.72:8011/100200300/100200300/81193
+#EXTINF:-1,FOX INDIANAPOLIS
+http://147.135.130.72:8011/100200300/100200300/81192
+#EXTINF:-1,FOX INDIANAPOLIS IN WXIN
+http://147.135.130.72:8011/100200300/100200300/81191
+#EXTINF:-1,FOX JACKSONVILLE FL WFOX
+http://147.135.130.72:8011/100200300/100200300/81190
+#EXTINF:-1,FOX JACKSONVILLE
+http://147.135.130.72:8011/100200300/100200300/81189
+#EXTINF:-1,FOX Kansas City
+http://147.135.130.72:8011/100200300/100200300/81188
+#EXTINF:-1,Fox Life
+http://147.135.130.72:8011/100200300/100200300/81186
+#EXTINF:-1,FOX Los Angeles
+http://147.135.130.72:8011/100200300/100200300/81185
+#EXTINF:-1,FOX LOS ANGELES CA KTTV
+http://147.135.130.72:8011/100200300/100200300/81184
+#EXTINF:-1,FOX Miami
+http://147.135.130.72:8011/100200300/100200300/81183
+#EXTINF:-1,FOX MIAMI FL WSVN
+http://147.135.130.72:8011/100200300/100200300/81182
+#EXTINF:-1,FOX Milwaukee
+http://147.135.130.72:8011/100200300/100200300/81181
+#EXTINF:-1,FOX MILWAUKEE WI WITI
+http://147.135.130.72:8011/100200300/100200300/81180
+#EXTINF:-1,FOX MINNEAPOLIS
+http://147.135.130.72:8011/100200300/100200300/81179
+#EXTINF:-1,FOX Nashville
+http://147.135.130.72:8011/100200300/100200300/81178
+#EXTINF:-1,FOX NASHVILLE TN WZTV
+http://147.135.130.72:8011/100200300/100200300/81177
+#EXTINF:-1,Fox Network
+http://147.135.130.72:8011/100200300/100200300/81176
+#EXTINF:-1,FOX NEW ORLEANS
+http://147.135.130.72:8011/100200300/100200300/81175
+#EXTINF:-1,FOX NEW ORLEANS LA WVUE
+http://147.135.130.72:8011/100200300/100200300/81174
+#EXTINF:-1,FOX NEW YORK
+http://147.135.130.72:8011/100200300/100200300/81173
+#EXTINF:-1,FOX NEW YORK NY WNYW
+http://147.135.130.72:8011/100200300/100200300/81172
+#EXTINF:-1,FOX NEWS Channel
+http://147.135.130.72:8011/100200300/100200300/81171
+#EXTINF:-1,FOX Ocala
+http://147.135.130.72:8011/100200300/100200300/81170
+#EXTINF:-1,FOX Orlando
+http://147.135.130.72:8011/100200300/100200300/81169
+#EXTINF:-1,FOX ORLANDO FL WOFL
+http://147.135.130.72:8011/100200300/100200300/81168
+#EXTINF:-1,FOX PHILADELPHIA
+http://147.135.130.72:8011/100200300/100200300/81167
+#EXTINF:-1,FOX PHILADELPHIA PA WTXF
+http://147.135.130.72:8011/100200300/100200300/81166
+#EXTINF:-1,FOX Phoenix
+http://147.135.130.72:8011/100200300/100200300/81165
+#EXTINF:-1,FOX PHOENIX AZ KSAZ
+http://147.135.130.72:8011/100200300/100200300/81164
+#EXTINF:-1,FOX Pittsburgh
+http://147.135.130.72:8011/100200300/100200300/81163
+#EXTINF:-1,FOX PITTSBURGH PA WPGH
+http://147.135.130.72:8011/100200300/100200300/81162
+#EXTINF:-1,FOX Sacramento
+http://147.135.130.72:8011/100200300/100200300/81161
+#EXTINF:-1,FOX SACRAMENTO CA KTXL
+http://147.135.130.72:8011/100200300/100200300/81160
+#EXTINF:-1,FOX Salt Lake City
+http://147.135.130.72:8011/100200300/100200300/81159
+#EXTINF:-1,FOX SALT LAKE CITY UT KSTU
+http://147.135.130.72:8011/100200300/100200300/81158
+#EXTINF:-1,FOX SAN ANTONIO TX KABB
+http://147.135.130.72:8011/100200300/100200300/81157
+#EXTINF:-1,FOX San Diego
+http://147.135.130.72:8011/100200300/100200300/81156
+#EXTINF:-1,FOX SAN DIEGO CA KSWB
+http://147.135.130.72:8011/100200300/100200300/81155
+#EXTINF:-1,FOX SAN FRANCISCO CA KTVU
+http://147.135.130.72:8011/100200300/100200300/81154
+#EXTINF:-1,FOX SAN FRANCISCO
+http://147.135.130.72:8011/100200300/100200300/81153
+#EXTINF:-1,FOX Seattle
+http://147.135.130.72:8011/100200300/100200300/81152
+#EXTINF:-1,FOX SEATTLE WA KCPQ
+http://147.135.130.72:8011/100200300/100200300/81151
+#EXTINF:-1,FOX SOCCER PLUS
+http://147.135.130.72:8011/100200300/100200300/81150
+#EXTINF:-1,FOX SOCCER SUN
+http://147.135.130.72:8011/100200300/100200300/81149
+#EXTINF:-1,FOX SPORTS (Arizona)
+http://147.135.130.72:8011/100200300/100200300/81148
+#EXTINF:-1,FOX SPORTS (Detroit)
+http://147.135.130.72:8011/100200300/100200300/81147
+#EXTINF:-1,FOX SPORTS (Mid West)
+http://147.135.130.72:8011/100200300/100200300/81146
+#EXTINF:-1,FOX SPORTS (North)
+http://147.135.130.72:8011/100200300/100200300/81145
+#EXTINF:-1,FOX SPORTS (Ohio)
+http://147.135.130.72:8011/100200300/100200300/81144
+#EXTINF:-1,FOX SPORTS (Prime Ticket)
+http://147.135.130.72:8011/100200300/100200300/81143
+#EXTINF:-1,FOX SPORTS (San Diego)
+http://147.135.130.72:8011/100200300/100200300/81142
+#EXTINF:-1,FOX SPORTS (South West)
+http://147.135.130.72:8011/100200300/100200300/81141
+#EXTINF:-1,FOX SPORTS (South)
+http://147.135.130.72:8011/100200300/100200300/81140
+#EXTINF:-1,FOX SPORTS (Sun)
+http://147.135.130.72:8011/100200300/100200300/81139
+#EXTINF:-1,FOX SPORTS (Tennessee)
+http://147.135.130.72:8011/100200300/100200300/81138
+#EXTINF:-1,FOX SPORTS (West)
+http://147.135.130.72:8011/100200300/100200300/81137
+#EXTINF:-1,FOX SPORTS (Wisconsin)
+http://147.135.130.72:8011/100200300/100200300/81136
+#EXTINF:-1,FOX SPORTS 1
+http://147.135.130.72:8011/100200300/100200300/81135
+#EXTINF:-1,FOX SPORTS 2
+http://147.135.130.72:8011/100200300/100200300/81134
+#EXTINF:-1,FOX SPORTS Carolina
+http://147.135.130.72:8011/100200300/100200300/81133
+#EXTINF:-1,FOX SPORTS DEPORTES
+http://147.135.130.72:8011/100200300/100200300/81132
+#EXTINF:-1,FOX SPORTS FLORIDA
+http://147.135.130.72:8011/100200300/100200300/81131
+#EXTINF:-1,FOX SPORTS Oklahoma
+http://147.135.130.72:8011/100200300/100200300/81130
+#EXTINF:-1,FOX SPORTS Racing
+http://147.135.130.72:8011/100200300/100200300/81129
+#EXTINF:-1,FOX SPORTS SAN ANTONIO
+http://147.135.130.72:8011/100200300/100200300/81128
+#EXTINF:-1,FOX SPORTS SOUTHWEST PLUS
+http://147.135.130.72:8011/100200300/100200300/81127
+#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO
+http://147.135.130.72:8011/100200300/100200300/81126
+#EXTINF:-1,The Olympic Channel
+http://147.135.130.72:8011/100200300/100200300/81125
+#EXTINF:-1,TELEMUNDO BOSTON
+http://147.135.130.72:8011/100200300/100200300/81124
+#EXTINF:-1,TELEMUNDO CHICAGO
+http://147.135.130.72:8011/100200300/100200300/81123
+#EXTINF:-1,Telemundo Connecticut
+http://147.135.130.72:8011/100200300/100200300/81122
+#EXTINF:-1,TELEMUNDO DALLAS
+http://147.135.130.72:8011/100200300/100200300/81121
+#EXTINF:-1,TELEMUNDO DENVER
+http://147.135.130.72:8011/100200300/100200300/81120
+#EXTINF:-1,Telemundo Fresno
+http://147.135.130.72:8011/100200300/100200300/81119
+#EXTINF:-1,Telemundo Harlingen
+http://147.135.130.72:8011/100200300/100200300/81118
+#EXTINF:-1,TELEMUNDO HOUSTON
+http://147.135.130.72:8011/100200300/100200300/81117
+#EXTINF:-1,Telemundo Las Vegas
+http://147.135.130.72:8011/100200300/100200300/81116
+#EXTINF:-1,TELEMUNDO LOS ANGELES
+http://147.135.130.72:8011/100200300/100200300/81115
+#EXTINF:-1,TELEMUNDO MIAMI
+http://147.135.130.72:8011/100200300/100200300/81114
+#EXTINF:-1,Telemundo New York
+http://147.135.130.72:8011/100200300/100200300/81113
+#EXTINF:-1,Telemundo Philadelphia
+http://147.135.130.72:8011/100200300/100200300/81112
+#EXTINF:-1,Telemundo Phoenix
+http://147.135.130.72:8011/100200300/100200300/81111
+#EXTINF:-1,Telemundo San Antonio
+http://147.135.130.72:8011/100200300/100200300/81110
+#EXTINF:-1,Telemundo San Diego
+http://147.135.130.72:8011/100200300/100200300/81109
+#EXTINF:-1,Telemundo San Francisco
+http://147.135.130.72:8011/100200300/100200300/81108
+#EXTINF:-1,Telemundo Tucson
+http://147.135.130.72:8011/100200300/100200300/81107
+#EXTINF:-1,ION
+http://147.135.130.72:8011/100200300/100200300/81106
+#EXTINF:-1,BOUNCE TV
+http://147.135.130.72:8011/100200300/100200300/81105
+#EXTINF:-1,AMERICAN HEROES CHANNEL
+http://147.135.130.72:8011/100200300/100200300/81104
+#EXTINF:-1,COZI TV
+http://147.135.130.72:8011/100200300/100200300/81103
+#EXTINF:-1,EPIX
+http://147.135.130.72:8011/100200300/100200300/81102
+#EXTINF:-1,EPIX 2
+http://147.135.130.72:8011/100200300/100200300/81101
+#EXTINF:-1,EPIX HITS
+http://147.135.130.72:8011/100200300/100200300/81100
+#EXTINF:-1,START TV
+http://147.135.130.72:8011/100200300/100200300/81099
+#EXTINF:-1,RED BULL TV
+http://147.135.130.72:8011/100200300/100200300/81098
+#EXTINF:-1,GALAVISION
+http://147.135.130.72:8011/100200300/100200300/81097
+#EXTINF:-1,LOGO
+http://147.135.130.72:8011/100200300/100200300/81096
+#EXTINF:-1,AWE
+http://147.135.130.72:8011/100200300/100200300/81095
+#EXTINF:-1,AXS TV
+http://147.135.130.72:8011/100200300/100200300/81094
+#EXTINF:-1,LMN
+http://147.135.130.72:8011/100200300/100200300/81093
+#EXTINF:-1,ACC NETWORK
+http://147.135.130.72:8011/100200300/100200300/81092
+#EXTINF:-1,FREEFORM
+http://147.135.130.72:8011/100200300/100200300/81091
+#EXTINF:-1,CINEMAX ACTIONMAX
+http://147.135.130.72:8011/100200300/100200300/81090
+#EXTINF:-1,CINEMAX OUTERMAX
+http://147.135.130.72:8011/100200300/100200300/81089
+#EXTINF:-1,STARZ ENCORE ACTION
+http://147.135.130.72:8011/100200300/100200300/81088
+#EXTINF:-1,PAC12 Arizona
+http://147.135.130.72:8011/100200300/100200300/81086
+#EXTINF:-1,PAC12 BayArea
+http://147.135.130.72:8011/100200300/100200300/81085
+#EXTINF:-1,PAC12 LosAngeles
+http://147.135.130.72:8011/100200300/100200300/81084
+#EXTINF:-1,PAC12 Mountain
+http://147.135.130.72:8011/100200300/100200300/81083
+#EXTINF:-1,PAC12 Network
+http://147.135.130.72:8011/100200300/100200300/81082
+#EXTINF:-1,PAC12 Oregon
+http://147.135.130.72:8011/100200300/100200300/81081
+#EXTINF:-1,PAC12 Washington
+http://147.135.130.72:8011/100200300/100200300/81080
+#EXTINF:-1,WWE SD
+http://147.135.130.72:8011/100200300/100200300/81079
+#EXTINF:-1,GRIT
+http://147.135.130.72:8011/100200300/100200300/81078
+#EXTINF:-1,EL REY
+http://147.135.130.72:8011/100200300/100200300/81077
+#EXTINF:-1,BET HER
+http://147.135.130.72:8011/100200300/100200300/81076
+#EXTINF:-1,Univision Galavision_East
+http://147.135.130.72:8011/100200300/100200300/81075
+#EXTINF:-1,Univision Galavision_West
+http://147.135.130.72:8011/100200300/100200300/81074
+#EXTINF:-1,Univision Unimas_LosAngeles
+http://147.135.130.72:8011/100200300/100200300/81073
+#EXTINF:-1,Univision  Unimas_NewYork
+http://147.135.130.72:8011/100200300/100200300/81072
+#EXTINF:-1,Univision KAKW (62-Austin)
+http://147.135.130.72:8011/100200300/100200300/81071
+#EXTINF:-1,Univision KFTV (21-Fresno)
+http://147.135.130.72:8011/100200300/100200300/81070
+#EXTINF:-1,Univision KMEX (34-Los Angeles)
+http://147.135.130.72:8011/100200300/100200300/81069
+#EXTINF:-1,Univision KUVN (23-Dallas)
+http://147.135.130.72:8011/100200300/100200300/81068
+#EXTINF:-1,Univision KXLN (45-Houston)
+http://147.135.130.72:8011/100200300/100200300/81067
+#EXTINF:-1,Univision NewYork
+http://147.135.130.72:8011/100200300/100200300/81066
+#EXTINF:-1,Univision Noticias
+http://147.135.130.72:8011/100200300/100200300/81065
+#EXTINF:-1,Univision SanFrancisco
+http://147.135.130.72:8011/100200300/100200300/81064
+#EXTINF:-1,Univision TDN
+http://147.135.130.72:8011/100200300/100200300/81063
+#EXTINF:-1,Univision WGBO (66-Chicago)
+http://147.135.130.72:8011/100200300/100200300/81062
+#EXTINF:-1,Univision WLTV (23-Fort Lauderdale)
+http://147.135.130.72:8011/100200300/100200300/81061
+#EXTINF:-1,Univision WQHS (61-Cleveland)
+http://147.135.130.72:8011/100200300/100200300/81060
+#EXTINF:-1,Univision WUVG (34-Atlanta)
+http://147.135.130.72:8011/100200300/100200300/81059
+#EXTINF:-1,Univision WXTV (41-Paterson)
+http://147.135.130.72:8011/100200300/100200300/81058
+#EXTINF:-1,Univision West
+http://147.135.130.72:8011/100200300/100200300/81057
+#EXTINF:-1,Univision  19 (KUVS) Sacramento
+http://147.135.130.72:8011/100200300/100200300/81056
+#EXTINF:-1,Univision  33 (KTVW) Phoenix
+http://147.135.130.72:8011/100200300/100200300/81055
+#EXTINF:-1,Univision  41 (KWEX) San Antonio
+http://147.135.130.72:8011/100200300/100200300/81054
+#EXTINF:-1,Univision  46 (KUVE) Tucson
+http://147.135.130.72:8011/100200300/100200300/81053
+#EXTINF:-1,Univision  East UHD
+http://147.135.130.72:8011/100200300/100200300/81052
+#EXTINF:-1,Univision  Network
+http://147.135.130.72:8011/100200300/100200300/81051
+#EXTINF:-1,Univision  New York WXTV
+http://147.135.130.72:8011/100200300/100200300/81050
+#EXTINF:-1,Univision Now: Univision_Atlanta
+http://147.135.130.72:8011/100200300/100200300/81049
+#EXTINF:-1,Univision Now: Univision_Houston
+http://147.135.130.72:8011/100200300/100200300/81048
+#EXTINF:-1,Univision Now: Univision_LosAngeles
+http://147.135.130.72:8011/100200300/100200300/81047
+#EXTINF:-1,Univision Now: Univision_West
+http://147.135.130.72:8011/100200300/100200300/81046
+#EXTINF:-1,ABC 10 Albany (WALB-DT2)
+http://147.135.130.72:8011/100200300/100200300/81045
+#EXTINF:-1,ABC 10 Albany (WTEN)
+http://147.135.130.72:8011/100200300/100200300/81044
+#EXTINF:-1,ABC 10 KAKE Wichita
+http://147.135.130.72:8011/100200300/100200300/81043
+#EXTINF:-1,ABC 12 WJRT Flint
+http://147.135.130.72:8011/100200300/100200300/81042
+#EXTINF:-1,ABC 13 (WLOX) Gulfport
+http://147.135.130.72:8011/100200300/100200300/81041
+#EXTINF:-1,ABC 13 Omaha (KMTV)
+http://147.135.130.72:8011/100200300/100200300/81040
+#EXTINF:-1,ABC 15 (WPDE) Florence
+http://147.135.130.72:8011/100200300/100200300/81039
+#EXTINF:-1,ABC 25 Columbia (WOLO)
+http://147.135.130.72:8011/100200300/100200300/81038
+#EXTINF:-1,ABC 27 (WTXL) Tallahassee
+http://147.135.130.72:8011/100200300/100200300/81037
+#EXTINF:-1,ABC 32 WNCF Montgomery
+http://147.135.130.72:8011/100200300/100200300/81036
+#EXTINF:-1,ABC 4 WOTV Battle Creek
+http://147.135.130.72:8011/100200300/100200300/81035
+#EXTINF:-1,ABC 53 WLAJ Lansing
+http://147.135.130.72:8011/100200300/100200300/81034
+#EXTINF:-1,ABC 57 South Bend (WBND)
+http://147.135.130.72:8011/100200300/100200300/81033
+#EXTINF:-1,ABC 9 (WCPO) Cincinnati
+http://147.135.130.72:8011/100200300/100200300/81032
+#EXTINF:-1,ABC 9 WTVC Chattanooga
+http://147.135.130.72:8011/100200300/100200300/81031
+#EXTINF:-1,ABC Atlanta WSB
+http://147.135.130.72:8011/100200300/100200300/81030
+#EXTINF:-1,ABC Austin KVUE
+http://147.135.130.72:8011/100200300/100200300/81029
+#EXTINF:-1,ABC Baltimore WMAR
+http://147.135.130.72:8011/100200300/100200300/81028
+#EXTINF:-1,ABC Boston WCVB
+http://147.135.130.72:8011/100200300/100200300/81027
+#EXTINF:-1,ABC Charlotte WSOC
+http://147.135.130.72:8011/100200300/100200300/81026
+#EXTINF:-1,ABC Chicago WLS
+http://147.135.130.72:8011/100200300/100200300/81025
+#EXTINF:-1,ABC 5 Cleveland WEWS
+http://147.135.130.72:8011/100200300/100200300/81024
+#EXTINF:-1,ABC Columbus WSYX
+http://147.135.130.72:8011/100200300/100200300/81023
+#EXTINF:-1,ABC Connecticut
+http://147.135.130.72:8011/100200300/100200300/81022
+#EXTINF:-1,ABC Dallas WFAA
+http://147.135.130.72:8011/100200300/100200300/81021
+#EXTINF:-1,ABC Denver KMGH
+http://147.135.130.72:8011/100200300/100200300/81020
+#EXTINF:-1,ABC Detroit WXYZ
+http://147.135.130.72:8011/100200300/100200300/81019
+#EXTINF:-1,ABC Durham WTVD
+http://147.135.130.72:8011/100200300/100200300/81018
+#EXTINF:-1,ABC East SD
+http://147.135.130.72:8011/100200300/100200300/81017
+#EXTINF:-1,ABC East UHD
+http://147.135.130.72:8011/100200300/100200300/81016
+#EXTINF:-1,ABC Fresno KFSN
+http://147.135.130.72:8011/100200300/100200300/81015
+#EXTINF:-1,ABC Houston WTRK
+http://147.135.130.72:8011/100200300/100200300/81014
+#EXTINF:-1,ABC Indianapolis WRTV
+http://147.135.130.72:8011/100200300/100200300/81013
+#EXTINF:-1,ABC Kansas City KMBC
+http://147.135.130.72:8011/100200300/100200300/81012
+#EXTINF:-1,ABC Los Angeles KABC
+http://147.135.130.72:8011/100200300/100200300/81011
+#EXTINF:-1,ABC Louisville WHAS
+http://147.135.130.72:8011/100200300/100200300/81010
+#EXTINF:-1,ABC Miami WPLG
+http://147.135.130.72:8011/100200300/100200300/81009
+#EXTINF:-1,ABC Milwaukee WISN
+http://147.135.130.72:8011/100200300/100200300/81008
+#EXTINF:-1,ABC Nashville WKRN
+http://147.135.130.72:8011/100200300/100200300/81007
+#EXTINF:-1,ABC New York SD
+http://147.135.130.72:8011/100200300/100200300/81006
+#EXTINF:-1,ABC New York UHD
+http://147.135.130.72:8011/100200300/100200300/81005
+#EXTINF:-1,ABC Orlando WFTV
+http://147.135.130.72:8011/100200300/100200300/81004
+#EXTINF:-1,ABC Philadelphia WPVI
+http://147.135.130.72:8011/100200300/100200300/81003
+#EXTINF:-1,ABC Phoenix KNXV
+http://147.135.130.72:8011/100200300/100200300/81002
+#EXTINF:-1,ABC Pittsburgh WTAE
+http://147.135.130.72:8011/100200300/100200300/81001
+#EXTINF:-1,ABC Portland KATU
+http://147.135.130.72:8011/100200300/100200300/81000
+#EXTINF:-1,ABC Sacramento KXTV
+http://147.135.130.72:8011/100200300/100200300/80999
+#EXTINF:-1,ABC Saint Paul KSTP
+http://147.135.130.72:8011/100200300/100200300/80998
+#EXTINF:-1,ABC Salt Lake city KTVX
+http://147.135.130.72:8011/100200300/100200300/80997
+#EXTINF:-1,ABC San Antonio KSAT
+http://147.135.130.72:8011/100200300/100200300/80996
+#EXTINF:-1,ABC San Diego KGTV
+http://147.135.130.72:8011/100200300/100200300/80995
+#EXTINF:-1,ABC San Francisco KGO
+http://147.135.130.72:8011/100200300/100200300/80994
+#EXTINF:-1,ABC Sarasota WWSB
+http://147.135.130.72:8011/100200300/100200300/80993
+#EXTINF:-1,ABC Seattle KOMO
+http://147.135.130.72:8011/100200300/100200300/80992
+#EXTINF:-1,ABC St Louis KDNL
+http://147.135.130.72:8011/100200300/100200300/80991
+#EXTINF:-1,ABC Tampa Bay
+http://147.135.130.72:8011/100200300/100200300/80990
+#EXTINF:-1,ABC Washington
+http://147.135.130.72:8011/100200300/100200300/80989
+#EXTINF:-1,ABC10 (WTEN) Albany
+http://147.135.130.72:8011/100200300/100200300/80988
+#EXTINF:-1,ABC13 (KTNV) Las Vegas
+http://147.135.130.72:8011/100200300/100200300/80987
+#EXTINF:-1,ABC13 (KYUR) Anchorage
+http://147.135.130.72:8011/100200300/100200300/80986
+#EXTINF:-1,ABC13 (WLOS) Asheville
+http://147.135.130.72:8011/100200300/100200300/80985
+#EXTINF:-1,ABC13 (WVEC) Hampton Roads
+http://147.135.130.72:8011/100200300/100200300/80984
+#EXTINF:-1,ABC13 (WZZM) Grand Rapids
+http://147.135.130.72:8011/100200300/100200300/80983
+#EXTINF:-1,ABC17 (KMIZ) Jefferson City
+http://147.135.130.72:8011/100200300/100200300/80982
+#EXTINF:-1,ABC2 (WBAY) Green Bay
+http://147.135.130.72:8011/100200300/100200300/80981
+#EXTINF:-1,ABC2 (WBRZ) Baton Rouge
+http://147.135.130.72:8011/100200300/100200300/80980
+#EXTINF:-1,ABC20 (WCJB) Gainesville
+http://147.135.130.72:8011/100200300/100200300/80979
+#EXTINF:-1,ABC22 (WKEF) Dayton
+http://147.135.130.72:8011/100200300/100200300/80978
+#EXTINF:-1,ABC24  WATN Memphis
+http://147.135.130.72:8011/100200300/100200300/80977
+#EXTINF:-1,ABC25 (KXXV) Bryan
+http://147.135.130.72:8011/100200300/100200300/80976
+#EXTINF:-1,ABC25 (WJXX) Jacksonville
+http://147.135.130.72:8011/100200300/100200300/80975
+#EXTINF:-1,ABC27 (WHTM) Harrisburg
+http://147.135.130.72:8011/100200300/100200300/80974
+#EXTINF:-1,ABC27 (WKOW) Madison
+http://147.135.130.72:8011/100200300/100200300/80973
+#EXTINF:-1,ABC28 (KAMC) Lubbock
+http://147.135.130.72:8011/100200300/100200300/80972
+#EXTINF:-1,ABC3 (KTBS) Shreveport
+http://147.135.130.72:8011/100200300/100200300/80971
+#EXTINF:-1,ABC3 (WEAR) Pensacola
+http://147.135.130.72:8011/100200300/100200300/80970
+#EXTINF:-1,ABC3 (WSIL) Illinois
+http://147.135.130.72:8011/100200300/100200300/80969
+#EXTINF:-1,ABC31 (WAAY) Huntsville
+http://147.135.130.72:8011/100200300/100200300/80968
+#EXTINF:-1,ABC33 (KSPR) Missouri
+http://147.135.130.72:8011/100200300/100200300/80967
+#EXTINF:-1,ABC36 (WTVQ) Lexington
+http://147.135.130.72:8011/100200300/100200300/80966
+#EXTINF:-1,ABC4 (KITV) Honolulu
+http://147.135.130.72:8011/100200300/100200300/80965
+#EXTINF:-1,ABC4 (WCIV) Charleston
+http://147.135.130.72:8011/100200300/100200300/80964
+#EXTINF:-1,ABC4 (WOTV) Battle Creek
+http://147.135.130.72:8011/100200300/100200300/80963
+#EXTINF:-1,ABC40/29 (KHBS) Fort Smith
+http://147.135.130.72:8011/100200300/100200300/80962
+#EXTINF:-1,ABC40/29 (KHOG) Fort Smith
+http://147.135.130.72:8011/100200300/100200300/80961
+#EXTINF:-1,ABC45 (WXLV) Winston-Salem
+http://147.135.130.72:8011/100200300/100200300/80960
+#EXTINF:-1,ABC5 (KOCO) Oklahoma City
+http://147.135.130.72:8011/100200300/100200300/80959
+#EXTINF:-1,ABC6 (WJBF) Augusta
+http://147.135.130.72:8011/100200300/100200300/80958
+#EXTINF:-1,ABC68 (WABM) Birmingham
+http://147.135.130.72:8011/100200300/100200300/80957
+#EXTINF:-1,ABC 7 KOAT New Mexico
+http://147.135.130.72:8011/100200300/100200300/80956
+#EXTINF:-1,ABC7 (KVIA) El Paso
+http://147.135.130.72:8011/100200300/100200300/80955
+#EXTINF:-1,ABC7 (WKBW) Buffalo
+http://147.135.130.72:8011/100200300/100200300/80954
+#EXTINF:-1,ABC7 (WZVN) Fort Myers
+http://147.135.130.72:8011/100200300/100200300/80953
+#EXTINF:-1,ABC8 (KTUL) Tulsa
+http://147.135.130.72:8011/100200300/100200300/80952
+#EXTINF:-1,ABC8 (WCHS) Charleston
+http://147.135.130.72:8011/100200300/100200300/80951
+#EXTINF:-1,ABC8 (WRIC) Richmond
+http://147.135.130.72:8011/100200300/100200300/80950
+#EXTINF:-1,ABC9 (KCRG) Cedar Rapids
+http://147.135.130.72:8011/100200300/100200300/80949
+#EXTINF:-1,ABC9 (WMUR) Manchester
+http://147.135.130.72:8011/100200300/100200300/80948
+#EXTINF:-1,ABC9 (WSYR) Syracuse
+http://147.135.130.72:8011/100200300/100200300/80947
+#EXTINF:-1,HLN
+http://147.135.130.72:8011/100200300/100200300/80946
+#EXTINF:-1,YES Network
+http://147.135.130.72:8011/100200300/100200300/80945
+#EXTINF:-1,US:  BBC Parliment HD
+http://147.135.130.72:8011/100200300/100200300/26483
