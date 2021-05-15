@@ -1,107 +1,131 @@
 #EXTM3U
-#EXTINF:-1,NL| ZIGGO SPORT SELECT FHD
-http://147.135.130.72:8011/100200300/100200300/85592
-#EXTINF:-1,NPO 1 FHD
-http://147.135.130.72:8011/100200300/100200300/44119
+#EXTINF:-1,Spike
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192665
+#EXTINF:-1,ZIGGO SPORT SELECT
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192666
+#EXTINF:-1,VERONICA DISNEY XD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192667
+#EXTINF:-1,TV Oranje
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192668
+#EXTINF:-1,TV Noord
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192669
+#EXTINF:-1,TLC
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192670
+#EXTINF:-1,SBS 6 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192671
+#EXTINF:-1,RTL Z
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192672
+#EXTINF:-1,RTL Telekids
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192673
+#EXTINF:-1,RTL Crime
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192674
+#EXTINF:-1,RTL 8
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192675
+#EXTINF:-1,RTL 7
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192676
+#EXTINF:-1,RTL 5
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192677
 #EXTINF:-1,RTL 4 FHD
-http://147.135.130.72:8011/100200300/100200300/44120
-#EXTINF:-1,NPO 2 FHD
-http://147.135.130.72:8011/100200300/100200300/44121
-#EXTINF:-1,SBS 6 FHD
-http://147.135.130.72:8011/100200300/100200300/44122
-#EXTINF:-1,NPO 3 FHD
-http://147.135.130.72:8011/100200300/100200300/44123
-#EXTINF:-1,RTL 5 FHD
-http://147.135.130.72:8011/100200300/100200300/44124
-#EXTINF:-1,RTL 7 FHD
-http://147.135.130.72:8011/100200300/100200300/44125
-#EXTINF:-1,RTV 7
-http://147.135.130.72:8011/100200300/100200300/44126
-#EXTINF:-1,RTL 8 FHD
-http://147.135.130.72:8011/100200300/100200300/44127
-#EXTINF:-1,RTL Z FHD
-http://147.135.130.72:8011/100200300/100200300/44128
-#EXTINF:-1,SBS 9 FHD
-http://147.135.130.72:8011/100200300/100200300/44129
-#EXTINF:-1,SBS6 FHD
-http://147.135.130.72:8011/100200300/100200300/44130
-#EXTINF:-1,SBS9 HD
-http://147.135.130.72:8011/100200300/100200300/44131
-#EXTINF:-1,NET 5 FHD
-http://147.135.130.72:8011/100200300/100200300/44132
-#EXTINF:-1,Discovery Channel FHD
-http://147.135.130.72:8011/100200300/100200300/44133
-#EXTINF:-1,Discovery Science FHD
-http://147.135.130.72:8011/100200300/100200300/44134
-#EXTINF:-1,Discovery SHOWCASE FHD
-http://147.135.130.72:8011/100200300/100200300/44135
-#EXTINF:-1,Discovery World HD
-http://147.135.130.72:8011/100200300/100200300/44136
-#EXTINF:-1,TLC FHD
-http://147.135.130.72:8011/100200300/100200300/44137
-#EXTINF:-1,Comedy Central FHD
-http://147.135.130.72:8011/100200300/100200300/44138
-#EXTINF:-1,COMEDY CENTRAL EXTRA FHD
-http://147.135.130.72:8011/100200300/100200300/44139
-#EXTINF:-1,COMEDY CENTRAL FAMILY
-http://147.135.130.72:8011/100200300/100200300/44140
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192678
+#EXTINF:-1,PEBBLE TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192679
+#EXTINF:-1,ONS
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192680
+#EXTINF:-1,Omrop Fryslan Televisie
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192681
+#EXTINF:-1,Omroep Brabant Televisie
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192682
+#EXTINF:-1,NPO ZAPPELINE
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192683
+#EXTINF:-1,NPO Zapp Xtra/NPO Best
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192684
+#EXTINF:-1,NPO Politiek
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192685
+#EXTINF:-1,NPO 3
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192686
+#EXTINF:-1,NPO 1 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192687
+#EXTINF:-1,NICKELODEON
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192688
+#EXTINF:-1,NICK TOONS
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192689
+#EXTINF:-1,NICK JR
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192690
+#EXTINF:-1,NICK HITS
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192691
+#EXTINF:-1,National Geographic
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192692
+#EXTINF:-1,Nat Geo Wild FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192693
+#EXTINF:-1,MTV LIFE HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192694
+#EXTINF:-1,Motors TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192695
+#EXTINF:-1,L1MBURG
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192696
+#EXTINF:-1,JimJam
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192697
+#EXTINF:-1,Investigation Discovery
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192698
+#EXTINF:-1,History Channel
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192699
+#EXTINF:-1,FILM 1 SUNDANCE
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192700
+#EXTINF:-1,Film 1 Premiere
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192701
+#EXTINF:-1,FILM 1 FAMILY
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192702
+#EXTINF:-1,Film 1 Drama
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192703
+#EXTINF:-1,Film 1 Action
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192704
+#EXTINF:-1,E! Entertainment
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192707
+#EXTINF:-1,DISNEY JUNIOR
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192708
+#EXTINF:-1,Disney Channel
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192709
+#EXTINF:-1,Discovery Showcase HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192710
+#EXTINF:-1,Discovery Channel
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192711
+#EXTINF:-1,DISCOVERY
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192712
+#EXTINF:-1,Crime Invest.
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192713
+#EXTINF:-1,Crime & Investigation
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192714
+#EXTINF:-1,Comedy Central Family
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192715
+#EXTINF:-1,Comedy Central Extra
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192716
+#EXTINF:-1,Comedy Central
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192717
+#EXTINF:-1,CARTOON NETWORK
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192718
+#EXTINF:-1,Cartoon
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192719
+#EXTINF:-1,Boomerang
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192720
+#EXTINF:-1,Baby TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192721
+#EXTINF:-1,AT5
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192722
+#EXTINF:-1,Animal Planet
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192723
+#EXTINF:-1,192TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192724
+#EXTINF:-1,24 Kitchen
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192725
+#EXTINF:-1,NET 5 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192726
+#EXTINF:-1,SBS 9 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192727
 #EXTINF:-1,FOX Channel
-http://147.135.130.72:8011/100200300/100200300/44141
-#EXTINF:-1,FOX SPORTS 4 FHD
-http://147.135.130.72:8011/100200300/100200300/44145
-#EXTINF:-1,FOX SPORTS 3 HD
-http://147.135.130.72:8011/100200300/100200300/44150
-#EXTINF:-1,FOX SPORTS 4 HD
-http://147.135.130.72:8011/100200300/100200300/44151
-#EXTINF:-1,FOX SPORTS 5 HD
-http://147.135.130.72:8011/100200300/100200300/44152
-#EXTINF:-1,FOX SPORTS 6 HD
-http://147.135.130.72:8011/100200300/100200300/44153
-#EXTINF:-1,BBC First FHD
-http://147.135.130.72:8011/100200300/100200300/44154
-#EXTINF:-1,BBC Entertainment
-http://147.135.130.72:8011/100200300/100200300/44155
-#EXTINF:-1,ZIGGO Sports
-http://147.135.130.72:8011/100200300/100200300/44159
-#EXTINF:-1,ZIGGO 1 Golf HD
-http://147.135.130.72:8011/100200300/100200300/44160
-#EXTINF:-1,ZIGGO 1 RACING HD
-http://147.135.130.72:8011/100200300/100200300/44161
-#EXTINF:-1,ZIGGO RACING FHD
-http://147.135.130.72:8011/100200300/100200300/44162
-#EXTINF:-1,ZIGGO GOLF FHD
-http://147.135.130.72:8011/100200300/100200300/44163
-#EXTINF:-1,Spike FHD
-http://147.135.130.72:8011/100200300/100200300/44165
-#EXTINF:-1,MTV FHD
-http://147.135.130.72:8011/100200300/100200300/44166
-#EXTINF:-1,MTV Live HD
-http://147.135.130.72:8011/100200300/100200300/44167
-#EXTINF:-1,MTV 24 Music HD
-http://147.135.130.72:8011/100200300/100200300/44168
-#EXTINF:-1,MTV NEDERLAND
-http://147.135.130.72:8011/100200300/100200300/44169
-#EXTINF:-1,ID
-http://147.135.130.72:8011/100200300/100200300/44170
-#EXTINF:-1,Investigation Discovery FHD
-http://147.135.130.72:8011/100200300/100200300/44171
-#EXTINF:-1,nickelodeon FHD
-http://147.135.130.72:8011/100200300/100200300/44172
-#EXTINF:-1,nickelodeon Junior
-http://147.135.130.72:8011/100200300/100200300/44173
-#EXTINF:-1,nickelodeon TOONS
-http://147.135.130.72:8011/100200300/100200300/44174
-#EXTINF:-1,24 kitchen FHD
-http://147.135.130.72:8011/100200300/100200300/44175
-#EXTINF:-1,History Channel HD
-http://147.135.130.72:8011/100200300/100200300/44176
-#EXTINF:-1,Disney XD FHD
-http://147.135.130.72:8011/100200300/100200300/44178
-#EXTINF:-1,RTL Crime FHD
-http://147.135.130.72:8011/100200300/100200300/44179
-#EXTINF:-1,AT 5 FHD
-http://147.135.130.72:8011/100200300/100200300/44180
-#EXTINF:-1,RTL Lounge FHD
-http://147.135.130.72:8011/100200300/100200300/44181
-#EXTINF:-1,Viceland FHD
-http://147.135.130.72:8011/100200300/100200300/44182
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192728
+#EXTINF:-1,EDGE
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192729
+#EXTINF:-1,RTL lounge
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192730
+#EXTINF:-1,NPO 2 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192731
