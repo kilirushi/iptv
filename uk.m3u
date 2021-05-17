@@ -1,287 +1,891 @@
 #EXTM3U
-#EXTINF:-1,BOOMERANG
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151093
-#EXTINF:-1,Cartoon Network
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151094
-#EXTINF:-1,CARTOONITO
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151095
-#EXTINF:-1,CBBC
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151096
-#EXTINF:-1,CBeebies
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151097
-#EXTINF:-1,NICK JR.TOO
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151098
-#EXTINF:-1,Nickelodeon
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151099
-#EXTINF:-1,4Seven
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158309
-#EXTINF:-1,AAJ TAK
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158381
-#EXTINF:-1,Al Jazeera
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158382
-#EXTINF:-1,Alibi
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158310
-#EXTINF:-1,Animal Planet
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158353
-#EXTINF:-1,BBC 1
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158311
-#EXTINF:-1,BBC 2
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158312
-#EXTINF:-1,BBC News
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158383
-#EXTINF:-1,BBC Scotland
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158313
-#EXTINF:-1,BLAZE
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158314
-#EXTINF:-1,Bloomberg HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158384
-#EXTINF:-1,CBS REALITY
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158315
-#EXTINF:-1,CBS REALITY+1
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158316
-#EXTINF:-1,Channel 4
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158317
-#EXTINF:-1,Channel 5
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158318
-#EXTINF:-1,CNN INTERNATIONAL
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158385
-#EXTINF:-1,COLORS
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158319
-#EXTINF:-1,Comedy Central
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158320
-#EXTINF:-1,CREATE & CRAFT
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158321
-#EXTINF:-1,CRIME & INVESTIGATION
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158354
-#EXTINF:-1,Dave
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158322
-#EXTINF:-1,DAVE JA VU
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158323
-#EXTINF:-1,Discovery Channel
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158355
-#EXTINF:-1,Dunya News
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158386
-#EXTINF:-1,E!
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158324
-#EXTINF:-1,E4
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158325
-#EXTINF:-1,Eden
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158356
-#EXTINF:-1,FOX
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158326
-#EXTINF:-1,Gold
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158327
-#EXTINF:-1,H2
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158357
-#EXTINF:-1,History
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158358
-#EXTINF:-1,IDEAL WORLD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158328
+#EXTINF:-1,BBC One FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2549
+#EXTINF:-1,BBC One HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2551
+#EXTINF:-1,BBC One
+http://vip3rtv.servebeer.com:8080/Buster/Buster/5062
+#EXTINF:-1,BBC One +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167097
+#EXTINF:-1,BBC Two FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2664
+#EXTINF:-1,BBC 2 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/153479
+#EXTINF:-1, BBC2
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2530
+#EXTINF:-1,BBC Two +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167098
+#EXTINF:-1,ITV 1 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2667
+#EXTINF:-1,ITV 1 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/5192
 #EXTINF:-1,ITV 1
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158329
-#EXTINF:-1,ITV 2
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158330
-#EXTINF:-1,ITV 3
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158331
-#EXTINF:-1,ITV 4
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158332
-#EXTINF:-1,ITV BE
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158333
-#EXTINF:-1,ITV HD Midlands
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158334
-#EXTINF:-1,Lifetime
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158335
-#EXTINF:-1,Love Nature
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158359
-#EXTINF:-1,LOVE WORLD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158360
-#EXTINF:-1,More4
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158336
-#EXTINF:-1,MSNBC
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158388
-#EXTINF:-1,MTV
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158337
-#EXTINF:-1,MTV Live
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158338
-#EXTINF:-1,Nat Geo Wild
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158361
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158362
-#EXTINF:-1,Paramount
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158339
-#EXTINF:-1,PICK
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158340
-#EXTINF:-1,Quest
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158341
-#EXTINF:-1,RTE News
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158389
-#EXTINF:-1,S4C
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158342
-#EXTINF:-1,Sky Arts
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158343
-#EXTINF:-1,Sky Atlantic
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158344
-#EXTINF:-1,Sky Crime
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158363
-#EXTINF:-1,Sky Documentaries
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158364
-#EXTINF:-1,Sky Nature
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158365
-#EXTINF:-1,Sky News
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158390
+http://vip3rtv.servebeer.com:8080/Buster/Buster/16
+#EXTINF:-1,ITV 1 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2624
+#EXTINF:-1,ITV 2 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2700
+#EXTINF:-1,ITV 2 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/30
+#EXTINF:-1, ITV 2 SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2554
+#EXTINF:-1,ITV2 + 1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191219
+#EXTINF:-1,ITV 3 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2702
+#EXTINF:-1,ITV 3 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/31
+#EXTINF:-1,ITV 3 SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2556
+#EXTINF:-1,ITV3 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2636
+#EXTINF:-1, ITV 4 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2704
+#EXTINF:-1,ITV 4 hd
+http://vip3rtv.servebeer.com:8080/Buster/Buster/32
+#EXTINF:-1,ITV 4 SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2559
+#EXTINF:-1,ITV4 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2637
+#EXTINF:-1,Channel 4 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2680
+#EXTINF:-1,Channel 4 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2682
+#EXTINF:-1,Channel 4
+http://vip3rtv.servebeer.com:8080/Buster/Buster/19
+#EXTINF:-1,UK: Channel 4 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191230
+#EXTINF:-1,Channel 4 +1 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2626
+#EXTINF:-1,Channel 5 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2683
+#EXTINF:-1,Channel 5 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2684
+#EXTINF:-1,Channel 5
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2538
+#EXTINF:-1,Channel 5 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2627
+#EXTINF:-1,Sky One FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2685
+#EXTINF:-1,Sky One HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2686
 #EXTINF:-1,Sky One
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158345
-#EXTINF:-1,Sky Two
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158346
-#EXTINF:-1,Sky Witness
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158347
-#EXTINF:-1,Smithsonian
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158348
-#EXTINF:-1,Sony TV
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158349
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2540
+#EXTINF:-1,Sky 1 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167141
+#EXTINF:-1,Sky Replay
+http://vip3rtv.servebeer.com:8080/Buster/Buster/192050
+#EXTINF:-1,Sky Atlantic FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2688
+#EXTINF:-1,Sky Atlantic HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2689
+#EXTINF:-1,Sky Atlantic SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2542
+#EXTINF:-1,Sky Comedy FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2696
+#EXTINF:-1,Sky Comedy HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/28
+#EXTINF:-1,Sky Comedy
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2547
+#EXTINF:-1,Sky Witness FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2687
+#EXTINF:-1,Sky Witness HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/22
+#EXTINF:-1,Sky Witness SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2541
+#EXTINF:-1,Sky Witness +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191238
+#EXTINF:-1,Sky Arts FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2708
+#EXTINF:-1,Sky Arts HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2709
+#EXTINF:-1,Sky Arts
+http://vip3rtv.servebeer.com:8080/Buster/Buster/34
+#EXTINF:-1, E4 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2719
+#EXTINF:-1,E4 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2720
+#EXTINF:-1,E4 SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2574
+#EXTINF:-1,E4 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2643
+#EXTINF:-1,Challenge SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2585
+#EXTINF:-1, Comedy Central HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2695
+#EXTINF:-1,Comedy Central
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2546
+#EXTINF:-1,Comedy Central +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2632
+#EXTINF:-1,Comedy Xtra SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2567
+#EXTINF:-1,Dave FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2693
+#EXTINF:-1,Dave HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2694
+#EXTINF:-1,Dave
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1016
+#EXTINF:-1,Dave+1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167143
+#EXTINF:-1,Dave Ja Vu
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2631
+#EXTINF:-1,Gold FHD 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2691
+#EXTINF:-1, Gold HD 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2692
+#EXTINF:-1,GOLD +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191239
+#EXTINF:-1,Gold
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2544
+#EXTINF:-1, CBS Reality
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2586
+#EXTINF:-1,CBS Reality +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2649
+#EXTINF:-1, E! FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2723
+#EXTINF:-1, Fox FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2710
+#EXTINF:-1,Fox HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2711
+#EXTINF:-1,FOX+1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2638
+#EXTINF:-1, Home HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2597
+#EXTINF:-1, ITVBe SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2571
+#EXTINF:-1,Lifetime FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2600
+#EXTINF:-1,Lifetime HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2601
+#EXTINF:-1,Lifetime SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171916
+#EXTINF:-1,Paramount Network FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2593
+#EXTINF:-1, Paramount Network HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2594
+#EXTINF:-1,Paramount SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2595
+#EXTINF:-1, Pick SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2592
+#EXTINF:-1,Pick +1 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2653
+#EXTINF:-1, Really 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2582
+#EXTINF:-1, S4C FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2718
+#EXTINF:-1,S4C SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2573
+#EXTINF:-1, Smithsonian FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2728
+#EXTINF:-1,TLC FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2716
+#EXTINF:-1, TLC HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2717
+#EXTINF:-1,TLC SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2580
+#EXTINF:-1, Yesterday HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/9172
+#EXTINF:-1,4Seven HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2577
+#EXTINF:-1,4Seven SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2578
+#EXTINF:-1, 5 Select UK
+http://vip3rtv.servebeer.com:8080/Buster/Buster/966
+#EXTINF:-1,5 Select 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2598
+#EXTINF:-1,5 Star HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/38
+#EXTINF:-1,5 USA
+http://vip3rtv.servebeer.com:8080/Buster/Buster/965
+#EXTINF:-1, 5 USA +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2646
+#EXTINF:-1,5Star
+http://vip3rtv.servebeer.com:8080/Buster/Buster/968
+#EXTINF:-1,5STAR +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191234
+#EXTINF:-1,Alibi HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2714
+#EXTINF:-1, Alibi
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2715
+#EXTINF:-1,BBC Alba 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/179605
+#EXTINF:-1,BBC Four HD (Live after 7pm)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2699
+#EXTINF:-1,BET:BlackEntTv SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2606
+#EXTINF:-1,CBS Drama SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2587
+#EXTINF:-1,CBS Justice
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2588
+#EXTINF:-1,COURT TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/115
+#EXTINF:-1,Drama 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2583
+#EXTINF:-1,E! HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2724
+#EXTINF:-1,E!
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2564
+#EXTINF:-1,Forces TV SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2611
+#EXTINF:-1,Quest 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2725
+#EXTINF:-1,Quest SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2584
+#EXTINF:-1,Quest +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2647
+#EXTINF:-1,Law & Crime Network
+http://vip3rtv.servebeer.com:8080/Buster/Buster/125
+#EXTINF:-1,Yesterday +1 SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167093
+#EXTINF:-1,More 4 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2721
+#EXTINF:-1,More 4 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2722
+#EXTINF:-1,More 4 SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2575
+#EXTINF:-1,More4 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191232
+#EXTINF:-1,Quest Red SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2589
+#EXTINF:-1,Quest Red +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2651
+#EXTINF:-1,Travel Channel SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2621
+#EXTINF:-1,Cruise1st.tv
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167092
+#EXTINF:-1,QVC
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148935
+#EXTINF:-1,QVC +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148936
+#EXTINF:-1,QVC Beauty
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148937
+#EXTINF:-1,QVC Extra UK
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148939
+#EXTINF:-1,Showcase SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2618
+#EXTINF:-1,Sony Channel 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2610
+#EXTINF:-1,Syfy FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2697
+#EXTINF:-1,Syfy HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2698
 #EXTINF:-1,SYFY
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158350
-#EXTINF:-1,TLC
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158351
-#EXTINF:-1,TRT World
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158391
-#EXTINF:-1,WATCH
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158352
-#EXTINF:-1,Challenge
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/179790
-#EXTINF:-1,Film4
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158366
+http://vip3rtv.servebeer.com:8080/Buster/Buster/29
+#EXTINF:-1,Live 360
+http://vip3rtv.servebeer.com:8080/Buster/Buster/149127
+#EXTINF:-1,NASA TV | Public
+http://vip3rtv.servebeer.com:8080/Buster/Buster/178098
+#EXTINF:-1,W SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/210162
+#EXTINF:-1,W HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/210163
+#EXTINF:-1,W FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/210164
+#EXTINF:-1,Food Network
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2659
+#EXTINF:-1,UK: Food Network +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191237
+#EXTINF:-1,Animal Planet FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1278
+#EXTINF:-1,Animal Planet HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1164
+#EXTINF:-1,Animal Planet
+http://vip3rtv.servebeer.com:8080/Buster/Buster/974
+#EXTINF:-1,Animal Planet +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2003
+#EXTINF:-1, Blaze
+http://vip3rtv.servebeer.com:8080/Buster/Buster/99282
+#EXTINF:-1,Crime & Investigation FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1259
+#EXTINF:-1,Crime & Investigation HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1183
+#EXTINF:-1,Crime & Investigation
+http://vip3rtv.servebeer.com:8080/Buster/Buster/923
+#EXTINF:-1,Discovery Channel Fhd
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1260
+#EXTINF:-1,Discovery Channel HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/9236
+#EXTINF:-1,Discovery
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1019
+#EXTINF:-1,Discovery Channel +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/212877
+#EXTINF:-1,Discovery History
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1020
+#EXTINF:-1,Discovery History +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2000
+#EXTINF:-1,Discovery Science
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1021
+#EXTINF:-1,Discovery Science +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/84795
+#EXTINF:-1,Discovery Turbo
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1018
+#EXTINF:-1,DMAX
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1023
+#EXTINF:-1,DMAX+1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191256
+#EXTINF:-1,Eden FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1287
+#EXTINF:-1,Eden HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1190
+#EXTINF:-1,Eden
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1026
+#EXTINF:-1,H2 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1295
+#EXTINF:-1,H2 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1196
+#EXTINF:-1,H2 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/931
+#EXTINF:-1,Love Nature UK
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171196
+#EXTINF:-1,National Geographic FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1298
+#EXTINF:-1,National Geographic HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1208
+#EXTINF:-1,National Geographic
+http://vip3rtv.servebeer.com:8080/Buster/Buster/934
+#EXTINF:-1,National Geographic +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167096
+#EXTINF:-1,National Geographic Wild FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1299
+#EXTINF:-1,National Geographic Wild HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1209
+#EXTINF:-1,National Geographic Wild
+http://vip3rtv.servebeer.com:8080/Buster/Buster/935
+#EXTINF:-1,National Geographic Wild +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167095
+#EXTINF:-1,Sky Crime FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/40268
+#EXTINF:-1,Sky Crime SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/48699
+#EXTINF:-1,Sky Crime HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/48700
+#EXTINF:-1,Sky Crime +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167144
+#EXTINF:-1,Sky Documentaries  UK
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171124
+#EXTINF:-1, Sky Documentaries FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171122
+#EXTINF:-1,Sky Documentaries HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171123
+#EXTINF:-1,Sky History FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1263
+#EXTINF:-1,Sky History Hd
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1197
+#EXTINF:-1,Sky History
+http://vip3rtv.servebeer.com:8080/Buster/Buster/932
+#EXTINF:-1,Sky Nature Fhd
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171127
+#EXTINF:-1,Sky Nature Hd
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171126
+#EXTINF:-1,Sky Nature 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171125
+#EXTINF:-1,SD | FoodNetwork (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213554
+#EXTINF:-1,UK FHD | Animal Planet (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213555
+#EXTINF:-1,UK FHD | Discovery Channel (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213556
+#EXTINF:-1,UK FHD | Quest (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213557
+#EXTINF:-1,UK SD| Quest Red (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213558
+#EXTINF:-1,UK FHD | TLC (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213559
+#EXTINF:-1,UK SD | Discovery DMAX (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213560
+#EXTINF:-1,UK SD | Discovery History (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213561
+#EXTINF:-1,UK SD | Discovery Science (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213562
+#EXTINF:-1,UK SD | Discovery Turbo (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213563
+#EXTINF:-1,UK SD | ID (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213564
+#EXTINF:-1,UK SD | HGTV (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213565
+#EXTINF:-1,UK SD | Really (Discovery +)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213566
+#EXTINF:-1,Sky Cinema Action & Adventure FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1269
+#EXTINF:-1,Sky Cinema Action & Adventure HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1143
 #EXTINF:-1,Sky Cinema Action & Adventure
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158368
-#EXTINF:-1,Sky Cinema Animation
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158369
+http://vip3rtv.servebeer.com:8080/Buster/Buster/49
+#EXTINF:-1,Sky Cinema Animation FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/176456
+#EXTINF:-1,Sky Cinema Animation HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/176457
+#EXTINF:-1,Sky Cinema Animation 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/176458
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1303
+#EXTINF:-1,Sky Cinema Comedy HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1144
 #EXTINF:-1,Sky Cinema Comedy
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158370
-#EXTINF:-1,Sky Cinema Crime & Thriller
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158371
-#EXTINF:-1,Sky Cinema Drama & Romance
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158372
+http://vip3rtv.servebeer.com:8080/Buster/Buster/50
+#EXTINF:-1,SKY Cinema Drama FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1270
+#EXTINF:-1,SKY Cinema Drama HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1145
+#EXTINF:-1,SKY Cinema Drama
+http://vip3rtv.servebeer.com:8080/Buster/Buster/940
+#EXTINF:-1,Sky Cinema Family FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1305
+#EXTINF:-1,Sky Cinema Family HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1146
 #EXTINF:-1,Sky Cinema Family
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158373
+http://vip3rtv.servebeer.com:8080/Buster/Buster/48
+#EXTINF:-1,Sky Cinema Greats FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1306
+#EXTINF:-1,Sky Cinema Greats HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1147
 #EXTINF:-1,Sky Cinema Greats
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158374
+http://vip3rtv.servebeer.com:8080/Buster/Buster/942
+#EXTINF:-1,Sky Cinema Hits FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1307
+#EXTINF:-1,Sky Cinema Hits HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1148
 #EXTINF:-1,Sky Cinema Hits
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158375
+http://vip3rtv.servebeer.com:8080/Buster/Buster/45
+#EXTINF:-1,Sky Cinema Premier FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1308
+#EXTINF:-1,Sky Cinema Premiere HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1149
 #EXTINF:-1,Sky Cinema Premiere
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158376
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158377
-#EXTINF:-1,Sky Cinema Select
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158378
+http://vip3rtv.servebeer.com:8080/Buster/Buster/44
+#EXTINF:-1,Sky Cinema SciFi & Horror FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1309
+#EXTINF:-1, Sky Cinema SciFI & Horror HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1150
+#EXTINF:-1, Sky Cinema Sci-Fi & Horror
+http://vip3rtv.servebeer.com:8080/Buster/Buster/46
+#EXTINF:-1,Sky Cinema Select FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/40264
+#EXTINF:-1, Sky Cinema Select HD 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/40266
+#EXTINF:-1,Sky Cinema Select SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/40265
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1311
+#EXTINF:-1,Sky Cinema Thriller HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1152
+#EXTINF:-1,Sky Thriller
+http://vip3rtv.servebeer.com:8080/Buster/Buster/946
+#EXTINF:-1,Classic Movies
+http://vip3rtv.servebeer.com:8080/Buster/Buster/149119
+#EXTINF:-1,Film 4 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1290
+#EXTINF:-1, Film 4 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/9188
+#EXTINF:-1,Film 4
+http://vip3rtv.servebeer.com:8080/Buster/Buster/9187
+#EXTINF:-1,Film4 +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/153487
+#EXTINF:-1,Filmrise Classics
+http://vip3rtv.servebeer.com:8080/Buster/Buster/121
+#EXTINF:-1,Movie Kingdom
+http://vip3rtv.servebeer.com:8080/Buster/Buster/127
+#EXTINF:-1,Sony Action
+http://vip3rtv.servebeer.com:8080/Buster/Buster/27193
+#EXTINF:-1, Sony Action +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/153477
+#EXTINF:-1,Sony Movies Classic
+http://vip3rtv.servebeer.com:8080/Buster/Buster/27196
+#EXTINF:-1,Sony Movies +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86464
+#EXTINF:-1,TalkingPictures
+http://vip3rtv.servebeer.com:8080/Buster/Buster/95589
+#EXTINF:-1,TCM FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/9204
+#EXTINF:-1,TCM HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/9203
 #EXTINF:-1,TCM
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158379
-#EXTINF:-1,Zee Cinema
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158380
-#EXTINF:-1,Boxnation HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158392
-#EXTINF:-1,BT Sport 1 FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158393
-#EXTINF:-1,BT Sport 1 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158394
-#EXTINF:-1,BT Sport 2 FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158395
-#EXTINF:-1,BT Sport 2 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158396
-#EXTINF:-1,BT Sport 3 FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158397
-#EXTINF:-1,BT Sport 3 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158398
-#EXTINF:-1,BT Sport ESPN FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158399
-#EXTINF:-1,BT Sport ESPN HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158400
-#EXTINF:-1,BT SPORTS EXTRA 1 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158401
-#EXTINF:-1,BT SPORTS EXTRA 2 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158402
-#EXTINF:-1,BT SPORTS EXTRA 3 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158403
-#EXTINF:-1,BT SPORTS EXTRA 4 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158404
-#EXTINF:-1,BT SPORTS EXTRA 5 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158405
-#EXTINF:-1,BT SPORTS EXTRA 6 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158406
-#EXTINF:-1,BT SPORTS EXTRA 7 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158407
-#EXTINF:-1,CELTIC TV
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158408
-#EXTINF:-1,FreeSports FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158413
-#EXTINF:-1,FreeSports HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158414
-#EXTINF:-1,HEARTS TV (Match time Only)
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158415
-#EXTINF:-1,LA LIGA TV
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158416
-#EXTINF:-1,LFC FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158417
-#EXTINF:-1,LFC HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158418
-#EXTINF:-1,MUTV HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158419
-#EXTINF:-1,PDC DARTS (Live Events Only)
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158420
-#EXTINF:-1,PDC Darts 1 (Live Events Only)
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158421
-#EXTINF:-1,PDC DARTS 2 (Live Events Only)
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158422
-#EXTINF:-1,Premier sports 1 FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158423
-#EXTINF:-1,Premier Sports 1 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158424
-#EXTINF:-1,Premier Sports 2 FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158425
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1093
+#EXTINF:-1,Western Movies
+http://vip3rtv.servebeer.com:8080/Buster/Buster/149118
+#EXTINF:-1,UK: Horror Channel + 1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191242
+#EXTINF:-1,movies 24
+http://vip3rtv.servebeer.com:8080/Buster/Buster/208261
+#EXTINF:-1,Baby TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/318
+#EXTINF:-1,Boomerang HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/153488
+#EXTINF:-1,Boomerang +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/85607
+#EXTINF:-1,CBBC FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1256
+#EXTINF:-1,CBBC HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1178
+#EXTINF:-1,CBeebies HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1179
+#EXTINF:-1,Cartoon Network HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1177
+#EXTINF:-1,Cartoon Network
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1003
+#EXTINF:-1,Cartoonito SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/921
+#EXTINF:-1,CITV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1011
+#EXTINF:-1,Nick FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1300
+#EXTINF:-1,Nick HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1211
+#EXTINF:-1,Nick SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1137
+#EXTINF:-1,Nick Junior HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1210
+#EXTINF:-1,Nick Jr
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1060
+#EXTINF:-1,Nick Jr. +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86422
+#EXTINF:-1,Nick Jr Too
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1061
+#EXTINF:-1, POP
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1068
+#EXTINF:-1,POP Max UK
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1069
+#EXTINF:-1,Tiny Pop
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1097
+#EXTINF:-1,Nicktoons
+http://vip3rtv.servebeer.com:8080/Buster/Buster/176142
+#EXTINF:-1,Tiny Pop +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191253
+#EXTINF:-1,George Floyd Murder Trial
+http://vip3rtv.servebeer.com:8080/Buster/Buster/216167
+#EXTINF:-1,BBC News FHD 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/5063
+#EXTINF:-1,BBC News HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167145
+#EXTINF:-1,BBC News SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/5064
+#EXTINF:-1,Sky News FHD 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/5065
+#EXTINF:-1,Sky News HD 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/5066
+#EXTINF:-1,Sky News SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/5067
+#EXTINF:-1,Sky News Extra 1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148927
+#EXTINF:-1,Sky News Extra 2
+http://vip3rtv.servebeer.com:8080/Buster/Buster/150745
+#EXTINF:-1,Sky News Extra 3
+http://vip3rtv.servebeer.com:8080/Buster/Buster/150746
+#EXTINF:-1,Bloomberg Television 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/149116
+#EXTINF:-1,CBS News 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/150747
+#EXTINF:-1,CNN News
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171918
+#EXTINF:-1,AL Jazeera-English
+http://vip3rtv.servebeer.com:8080/Buster/Buster/210158
+#EXTINF:-1,Al Jazeera
+http://vip3rtv.servebeer.com:8080/Buster/Buster/210159
+#EXTINF:-1,BBC1 Northern Ireland 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2731
+#EXTINF:-1, BBC One N.I. HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2752
+#EXTINF:-1, STV FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2678
+#EXTINF:-1,STV SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2534
+#EXTINF:-1, UTV FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2679
+#EXTINF:-1, UTV SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2535
+#EXTINF:-1,ITV 1 Anglia E
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2666
+#EXTINF:-1,ITV Granada
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2670
+#EXTINF:-1,ITV 1 HD London
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2671
+#EXTINF:-1,ITV 1 South West
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2672
+#EXTINF:-1,ITV 1 HD Tyne Tees
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2673
+#EXTINF:-1,ITV West HD 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2674
+#EXTINF:-1, ITV 1 HD Yorkshire
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2675
+#EXTINF:-1, ITV 1 Wales FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2677
+#EXTINF:-1,BBC One London
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113140
+#EXTINF:-1,BBC One Scotland HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113141
+#EXTINF:-1,BBC Two Wales
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113143
+#EXTINF:-1,BBC Two Northen Ireland
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113144
+#EXTINF:-1,BBC Four HD 7PM
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113146
+#EXTINF:-1,BBC Parliament
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113150
+#EXTINF:-1,BBC One Cambridgeshire 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113153
+#EXTINF:-1,BBC One North West
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113154
+#EXTINF:-1,BBC One North East
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113155
+#EXTINF:-1,BBC One South West
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113156
+#EXTINF:-1,BBC One South East
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113157
+#EXTINF:-1,BBC One East Yorkshire
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113159
+#EXTINF:-1,BBC One Yorkshire & Lincolnshire
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113160
+#EXTINF:-1,BBC One West
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113161
+#EXTINF:-1,BBC One South East
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113162
+#EXTINF:-1,BBC One South
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113163
+#EXTINF:-1,BBC One Oxford
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113164
+#EXTINF:-1,BBC One East Midlands
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113165
+#EXTINF:-1,BBC One East
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113166
+#EXTINF:-1,BBC One Channel Islands
+http://vip3rtv.servebeer.com:8080/Buster/Buster/113167
+#EXTINF:-1,BBC Scotland HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/116078
+#EXTINF:-1,ITV 1 Meridian
+http://vip3rtv.servebeer.com:8080/Buster/Buster/175940
+#EXTINF:-1,BBC One Wales
+http://vip3rtv.servebeer.com:8080/Buster/Buster/185891
+#EXTINF:-1,STV Central East Region (UK Regional)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/216410
+#EXTINF:-1,STV Central West Region (UK Regional
+http://vip3rtv.servebeer.com:8080/Buster/Buster/216411
+#EXTINF:-1,MTV Club
+http://vip3rtv.servebeer.com:8080/Buster/Buster/212301
+#EXTINF:-1,Mtv HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2512
+#EXTINF:-1,MTV 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2513
+#EXTINF:-1, MTV Base
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2509
+#EXTINF:-1,MTV Classic 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2510
+#EXTINF:-1,MTV Hits
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2514
+#EXTINF:-1,MTV Live 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2515
+#EXTINF:-1,MTV Music
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2516
+#EXTINF:-1, MTV Music +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2526
+#EXTINF:-1,Box Hits
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2523
+#EXTINF:-1,The box
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2521
+#EXTINF:-1,Kiss TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2508
+#EXTINF:-1,4Music 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2504
+#EXTINF:-1,MAGIC TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/153478
+#EXTINF:-1,Clubland
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2506
+#EXTINF:-1,Kerrang
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2507
+#EXTINF:-1,Keep it Country 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/212256
+#EXTINF:-1,now 70s
+http://vip3rtv.servebeer.com:8080/Buster/Buster/188027
+#EXTINF:-1,now 80s
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2519
+#EXTINF:-1,now 90s
+http://vip3rtv.servebeer.com:8080/Buster/Buster/2520
+#EXTINF:-1,RTE ONE
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86438
+#EXTINF:-1,RTE ONE.
+http://vip3rtv.servebeer.com:8080/Buster/Buster/203871
+#EXTINF:-1,RTE ONE+1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191215
+#EXTINF:-1,RTE TWO
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86437
+#EXTINF:-1,RTE TWO.
+http://vip3rtv.servebeer.com:8080/Buster/Buster/203872
+#EXTINF:-1,RTE TWO+1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/191214
+#EXTINF:-1,Virgin Media One
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86445
+#EXTINF:-1,Virgin Media One.
+http://vip3rtv.servebeer.com:8080/Buster/Buster/203873
+#EXTINF:-1,Virgin Media Two
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86446
+#EXTINF:-1,Virgin Media Two.
+http://vip3rtv.servebeer.com:8080/Buster/Buster/203874
+#EXTINF:-1,Virgin Media Three
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86425
+#EXTINF:-1,Virgin Media Three.
+http://vip3rtv.servebeer.com:8080/Buster/Buster/203875
+#EXTINF:-1,TG4 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86435
+#EXTINF:-1,TG4
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86448
+#EXTINF:-1,RTE News.
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86436
+#EXTINF:-1,RTE News
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86450
+#EXTINF:-1,Oireachtas TV
+http://vip3rtv.servebeer.com:8080/Buster/Buster/166854
 #EXTINF:-1,Premier Sports 2 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158426
-#EXTINF:-1,Racing UK FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158427
-#EXTINF:-1,Racing UK HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158428
-#EXTINF:-1,Racing UK SD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158429
-#EXTINF:-1,Rangers TV (1080)
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158430
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86439
+#EXTINF:-1,RTE Jr l
+http://vip3rtv.servebeer.com:8080/Buster/Buster/86449
+#EXTINF:-1,Virgin Media One +1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/213518
 #EXTINF:-1,Sky Sports Arena FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158431
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1334
 #EXTINF:-1,Sky Sports Arena HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158432
-#EXTINF:-1,SKY SPORTS CRICKET FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158433
-#EXTINF:-1,SKY SPORTS CRICKET HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158434
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158435
-#EXTINF:-1,SKY SPORTS F1 HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158436
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1343
+#EXTINF:-1,Sky Sports Arena
+http://vip3rtv.servebeer.com:8080/Buster/Buster/948
+#EXTINF:-1,Sky Sports Cricket FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1316
+#EXTINF:-1,Sky Sports Cricket HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1220
+#EXTINF:-1,Sky Sports Cricket
+http://vip3rtv.servebeer.com:8080/Buster/Buster/949
+#EXTINF:-1,Sky Sports F1 UK Fhd
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1336
+#EXTINF:-1,Sky Sports F1 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/6039
+#EXTINF:-1,Sky Sports F1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/950
 #EXTINF:-1,Sky Sports Football FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158437
-#EXTINF:-1,Sky Sports Football HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158438
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1271
+#EXTINF:-1, Sky Sports Football HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1346
+#EXTINF:-1,Sky Sports Football
+http://vip3rtv.servebeer.com:8080/Buster/Buster/951
 #EXTINF:-1,Sky Sports Golf FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158439
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1318
 #EXTINF:-1,Sky Sports Golf HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158440
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1223
+#EXTINF:-1, Sky Sports Golf
+http://vip3rtv.servebeer.com:8080/Buster/Buster/952
 #EXTINF:-1,Sky Sports Main Event FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158441
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1339
 #EXTINF:-1,Sky Sports Main Event HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158442
-#EXTINF:-1,SKY SPORTS MIX FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158443
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1224
+#EXTINF:-1,Sky Sports Main Event
+http://vip3rtv.servebeer.com:8080/Buster/Buster/953
+#EXTINF:-1, Sky Sports Mix FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1350
+#EXTINF:-1, Sky Sports Mix HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1352
+#EXTINF:-1,Sky Sports Mix
+http://vip3rtv.servebeer.com:8080/Buster/Buster/954
 #EXTINF:-1,Sky Sports News FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158444
-#EXTINF:-1,Sky Sports NFL FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158445
-#EXTINF:-1,Sky Sports NFL HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158446
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158447
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158448
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1321
+#EXTINF:-1, Sky Sports News HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1156
+#EXTINF:-1, Sky Sports News
+http://vip3rtv.servebeer.com:8080/Buster/Buster/955
+#EXTINF:-1, Sky Sports Action FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1333
+#EXTINF:-1,Sky Sports Action HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1342
+#EXTINF:-1,Sky Sports Action
+http://vip3rtv.servebeer.com:8080/Buster/Buster/947
+#EXTINF:-1,Sky Sports Premier League FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1322
+#EXTINF:-1, Sky Sports Premier League HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1349
+#EXTINF:-1,Sky Sports Premier League
+http://vip3rtv.servebeer.com:8080/Buster/Buster/956
 #EXTINF:-1,Sky Sports Racing  FHD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/158449
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1330
+#EXTINF:-1, Sky Sports Racing UK HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1354
+#EXTINF:-1,Sky Sports Racing
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1226
+#EXTINF:-1,PDC 1-LIVE GAMES ONLY
+http://vip3rtv.servebeer.com:8080/Buster/Buster/152479
+#EXTINF:-1,PDC 2 LIVE GAMES ONLY 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/167091
+#EXTINF:-1,The Golf Channel 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/39368
+#EXTINF:-1,Olympic Channel 2 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148930
+#EXTINF:-1,Olympic Channel 2 (HD)
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148931
+#EXTINF:-1,Olympic Channel 3 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148932
+#EXTINF:-1,Olympic Channel 4 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148933
+#EXTINF:-1,Olympic Channel 5 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/148934
+#EXTINF:-1,BT Sports 1 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1253
+#EXTINF:-1, BT Sports 1 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1173
+#EXTINF:-1,BT Sports 1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/993
+#EXTINF:-1,BT Sports 2 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/209415
+#EXTINF:-1,BT Sports 2 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1174
+#EXTINF:-1, BT Sports 2
+http://vip3rtv.servebeer.com:8080/Buster/Buster/994
+#EXTINF:-1,BT Sports 3 FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1254
+#EXTINF:-1,BT Sports 3 HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1175
+#EXTINF:-1, BT Sports 3
+http://vip3rtv.servebeer.com:8080/Buster/Buster/995
+#EXTINF:-1,Laliga Tv Fhd
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171421
+#EXTINF:-1,La Liga TV SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/171422
+#EXTINF:-1,Laliga 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/146395
+#EXTINF:-1, BT Sports ESPN FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1255
+#EXTINF:-1, BT Sports ESPN HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1176
+#EXTINF:-1,BT Sports ESPN
+http://vip3rtv.servebeer.com:8080/Buster/Buster/996
+#EXTINF:-1,BT Sports Extra 1
+http://vip3rtv.servebeer.com:8080/Buster/Buster/997
+#EXTINF:-1, BT Sports Extra 2
+http://vip3rtv.servebeer.com:8080/Buster/Buster/998
+#EXTINF:-1,BT Sports Extra 3
+http://vip3rtv.servebeer.com:8080/Buster/Buster/999
+#EXTINF:-1,BT Sports Extra 4
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1000
+#EXTINF:-1,BT Sports Extra 5
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1001
+#EXTINF:-1, BT Sports Extra 6
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1002
+#EXTINF:-1,Racing UK FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1267
+#EXTINF:-1,Racing UK HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1214
+#EXTINF:-1,Racing UK
+http://vip3rtv.servebeer.com:8080/Buster/Buster/936
+#EXTINF:-1,Premier Sports UK 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1212
+#EXTINF:-1,Premier Sports SD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1070
+#EXTINF:-1,Premier Sports 2
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1126
+#EXTINF:-1,FreeSports 
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1292
+#EXTINF:-1,BoxNation FHD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1251
+#EXTINF:-1,BoxNation HD
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1172
+#EXTINF:-1,BoxNation
+http://vip3rtv.servebeer.com:8080/Buster/Buster/992
+#EXTINF:-1,Dubai Racing
+http://vip3rtv.servebeer.com:8080/Buster/Buster/149129
+#EXTINF:-1,Freesports
+http://vip3rtv.servebeer.com:8080/Buster/Buster/1115
+#EXTINF:-1,Wwe Network
+http://vip3rtv.servebeer.com:8080/Buster/Buster/164954
