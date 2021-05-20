@@ -1,1029 +1,147 @@
 #EXTM3U
-#EXTINF:-1,#0 FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657631
-#EXTINF:-1,#0 FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657448
-#EXTINF:-1,#0 FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657630
-#EXTINF:-1,#0 HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657629
-#EXTINF:-1,#0 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657628
-#EXTINF:-1,#0 SD
-http://vigilantev.net:80/nightmare/nightmare/657627
-#EXTINF:-1,#Vamos Bar
-http://vigilantev.net:80/nightmare/nightmare/657871
-#EXTINF:-1,#Vamos FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657876
-#EXTINF:-1,#Vamos FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657447
-#EXTINF:-1,#Vamos FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657875
-#EXTINF:-1,#Vamos HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657874
-#EXTINF:-1,#Vamos HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657873
-#EXTINF:-1,#Vamos SD
-http://vigilantev.net:80/nightmare/nightmare/657872
-#EXTINF:-1,+24
-http://vigilantev.net:80/nightmare/nightmare/657747
-#EXTINF:-1,24H
-http://vigilantev.net:80/nightmare/nightmare/657748
-#EXTINF:-1,3/24 CAT
-http://vigilantev.net:80/nightmare/nightmare/657521
-#EXTINF:-1,33 CAT
-http://vigilantev.net:80/nightmare/nightmare/657520
-#EXTINF:-1,7 TeleValencia
-http://vigilantev.net:80/nightmare/nightmare/657733
-#EXTINF:-1,7 TV Murcia
-http://vigilantev.net:80/nightmare/nightmare/657741
-#EXTINF:-1,7 TV Murcia HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657742
-#EXTINF:-1,8TV Cádiz
-http://vigilantev.net:80/nightmare/nightmare/657711
-#EXTINF:-1,A3series HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657757
-#EXTINF:-1,Alcarria TV
-http://vigilantev.net:80/nightmare/nightmare/657710
-#EXTINF:-1,AMC FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657618
-#EXTINF:-1,AMC HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657617
-#EXTINF:-1,AMC HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657616
-#EXTINF:-1,AMC SD
-http://vigilantev.net:80/nightmare/nightmare/657615
-#EXTINF:-1,Antena 3 FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657800
-#EXTINF:-1,Antena 3 HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657799
-#EXTINF:-1,Antena 3 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657798
-#EXTINF:-1,Antena 3 SD
-http://vigilantev.net:80/nightmare/nightmare/657797
-#EXTINF:-1,Aragon TV
-http://vigilantev.net:80/nightmare/nightmare/657495
-#EXTINF:-1,Aragón TV Deportes
-http://vigilantev.net:80/nightmare/nightmare/657738
-#EXTINF:-1,AXN FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657606
-#EXTINF:-1,AXN HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657605
-#EXTINF:-1,AXN HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657604
-#EXTINF:-1,AXN SD
-http://vigilantev.net:80/nightmare/nightmare/657603
-#EXTINF:-1,AXN White FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657602
-#EXTINF:-1,AXN White HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657601
-#EXTINF:-1,AXN White HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657600
-#EXTINF:-1,AXN White SD
-http://vigilantev.net:80/nightmare/nightmare/657599
-#EXTINF:-1,Baby TV
-http://vigilantev.net:80/nightmare/nightmare/657530
+#EXTINF:-1,Movie ACCION HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16704
+#EXTINF:-1,AE 
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16703
+#EXTINF:-1,AMC HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16702
+#EXTINF:-1,ANTENA3 HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16701
+#EXTINF:-1,ARAGON TV
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16700
+#EXTINF:-1,AXN Espana HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16699
+#EXTINF:-1,AXN White Espana HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16698
+#EXTINF:-1,Baby TV HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16697
 #EXTINF:-1,Barca TV
-http://vigilantev.net:80/nightmare/nightmare/657907
-#EXTINF:-1,Barca TV HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657908
-#EXTINF:-1,BeMad TV
-http://vigilantev.net:80/nightmare/nightmare/657766
-#EXTINF:-1,BeMad TV HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657768
-#EXTINF:-1,BeMad TV HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657767
-#EXTINF:-1,Betevé CAT
-http://vigilantev.net:80/nightmare/nightmare/657522
-#EXTINF:-1,Betis TV
-http://vigilantev.net:80/nightmare/nightmare/657905
-#EXTINF:-1,Blaze
-http://vigilantev.net:80/nightmare/nightmare/657556
-#EXTINF:-1,Blaze FHD
-http://vigilantev.net:80/nightmare/nightmare/657557
-#EXTINF:-1,Boing HD
-http://vigilantev.net:80/nightmare/nightmare/657758
-#EXTINF:-1,Bon Dia TV
-http://vigilantev.net:80/nightmare/nightmare/657706
-#EXTINF:-1,Cadena Elite
-http://vigilantev.net:80/nightmare/nightmare/657485
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16696
+#EXTINF:-1,BEIN LALIGA1 HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16695
+#EXTINF:-1,Boing Espana HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16693
 #EXTINF:-1,Calle 13
-http://vigilantev.net:80/nightmare/nightmare/657623
-#EXTINF:-1,Calle 13 FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657626
-#EXTINF:-1,Calle 13 HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657625
-#EXTINF:-1,Calle 13 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657624
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16692
+#EXTINF:-1,Canal 24 Horas
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16691
 #EXTINF:-1,Canal Cocina
-http://vigilantev.net:80/nightmare/nightmare/657550
-#EXTINF:-1,Canal Cocina 4K
-http://vigilantev.net:80/nightmare/nightmare/657553
-#EXTINF:-1,Canal Cocina HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657552
-#EXTINF:-1,Canal Cocina HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657551
-#EXTINF:-1,Canal Costa TV
-http://vigilantev.net:80/nightmare/nightmare/657743
-#EXTINF:-1,Canal Dark HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657653
-#EXTINF:-1,Canal Diocesano Toledo
-http://vigilantev.net:80/nightmare/nightmare/657709
-#EXTINF:-1,Canal Málaga
-http://vigilantev.net:80/nightmare/nightmare/657732
-#EXTINF:-1,Canal Orange 4K
-http://vigilantev.net:80/nightmare/nightmare/657436
-#EXTINF:-1,Canal Orange HD
-http://vigilantev.net:80/nightmare/nightmare/657645
-#EXTINF:-1,Canal Orange HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657646
-#EXTINF:-1,Canal Orange SD
-http://vigilantev.net:80/nightmare/nightmare/657644
-#EXTINF:-1,Canal Panda
-http://vigilantev.net:80/nightmare/nightmare/657531
-#EXTINF:-1,Canal Parlamento
-http://vigilantev.net:80/nightmare/nightmare/657739
-#EXTINF:-1,Canal Sur 2 HD
-http://vigilantev.net:80/nightmare/nightmare/657515
-#EXTINF:-1,Canal Sur Andalucía
-http://vigilantev.net:80/nightmare/nightmare/657516
-#EXTINF:-1,Canal Sur Andalucía HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657517
-#EXTINF:-1,Canal Sur Cocina
-http://vigilantev.net:80/nightmare/nightmare/657514
-#EXTINF:-1,Canal Sur Eventos 1
-http://vigilantev.net:80/nightmare/nightmare/657510
-#EXTINF:-1,Canal Sur Eventos 2
-http://vigilantev.net:80/nightmare/nightmare/657509
-#EXTINF:-1,Canal Sur Flamenco
-http://vigilantev.net:80/nightmare/nightmare/657512
-#EXTINF:-1,Canal Sur HD
-http://vigilantev.net:80/nightmare/nightmare/657518
-#EXTINF:-1,Canal Sur La Banda TV
-http://vigilantev.net:80/nightmare/nightmare/657511
-#EXTINF:-1,Canal Sur Turismo
-http://vigilantev.net:80/nightmare/nightmare/657513
-#EXTINF:-1,Cancionero TV
-http://vigilantev.net:80/nightmare/nightmare/657708
-#EXTINF:-1,Castilla La Mancha Media
-http://vigilantev.net:80/nightmare/nightmare/657494
-#EXTINF:-1,Caza y Pesca FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657479
-#EXTINF:-1,Caza y Pesca FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657478
-#EXTINF:-1,Caza y Pesca HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657477
-#EXTINF:-1,Caza y Pesca HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657476
-#EXTINF:-1,Caza y Pesca SD
-http://vigilantev.net:80/nightmare/nightmare/657475
-#EXTINF:-1,Cazavisión HD
-http://vigilantev.net:80/nightmare/nightmare/657559
-#EXTINF:-1,CCMA Exclusiu 1
-http://vigilantev.net:80/nightmare/nightmare/657703
-#EXTINF:-1,CCMA Exclusiu 2
-http://vigilantev.net:80/nightmare/nightmare/657702
-#EXTINF:-1,Clan
-http://vigilantev.net:80/nightmare/nightmare/657770
-#EXTINF:-1,Clan HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657771
-#EXTINF:-1,Classica
-http://vigilantev.net:80/nightmare/nightmare/657481
-#EXTINF:-1,Comedy Central FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657590
-#EXTINF:-1,Comedy Central HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657589
-#EXTINF:-1,Comedy Central HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657588
-#EXTINF:-1,Comedy Central SD
-http://vigilantev.net:80/nightmare/nightmare/657587
-#EXTINF:-1,Condavisión HD
-http://vigilantev.net:80/nightmare/nightmare/657740
-#EXTINF:-1,Cosmo TV FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657622
-#EXTINF:-1,Cosmo TV HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657621
-#EXTINF:-1,Cosmo TV HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657620
-#EXTINF:-1,Cosmo TV SD
-http://vigilantev.net:80/nightmare/nightmare/657619
-#EXTINF:-1,Crime & Investigation
-http://vigilantev.net:80/nightmare/nightmare/657554
-#EXTINF:-1,Crime & Investigation HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657555
-#EXTINF:-1,Cuatro FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657796
-#EXTINF:-1,Cuatro HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657795
-#EXTINF:-1,Cuatro HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657794
-#EXTINF:-1,Cuatro SD
-http://vigilantev.net:80/nightmare/nightmare/657793
-#EXTINF:-1,Dark Red HD
-http://vigilantev.net:80/nightmare/nightmare/657652
-#EXTINF:-1,Dark Red SD
-http://vigilantev.net:80/nightmare/nightmare/657651
-#EXTINF:-1,Dazn HD
-http://vigilantev.net:80/nightmare/nightmare/657849
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16690
+#EXTINF:-1,Canal Panda Espana
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16689
+#EXTINF:-1,Canal sur A
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16688
+#EXTINF:-1,Caza y Pesca HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16687
+#EXTINF:-1,Clan TVE
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16686
+#EXTINF:-1,Comedy Central HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16684
+#EXTINF:-1,Cosmopolitan TV 
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16683
+#EXTINF:-1,Crimen Investigacion
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16682
+#EXTINF:-1,CUATRO HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16681
+#EXTINF:-1,DCINE HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16680
 #EXTINF:-1,Decasa
-http://vigilantev.net:80/nightmare/nightmare/657548
-#EXTINF:-1,Decasa HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657549
-#EXTINF:-1,Discovery Channel HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657574
-#EXTINF:-1,Discovery Channel HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657573
-#EXTINF:-1,Discovery Channel SD
-http://vigilantev.net:80/nightmare/nightmare/657572
-#EXTINF:-1,Disney Channel FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657539
-#EXTINF:-1,Disney Channel HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657538
-#EXTINF:-1,Disney Channel HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657537
-#EXTINF:-1,Disney Channel SD
-http://vigilantev.net:80/nightmare/nightmare/657536
-#EXTINF:-1,Disney Junior
-http://vigilantev.net:80/nightmare/nightmare/657540
-#EXTINF:-1,Disney XD
-http://vigilantev.net:80/nightmare/nightmare/657535
-#EXTINF:-1,Disney+
-http://vigilantev.net:80/nightmare/nightmare/657671
-#EXTINF:-1,Disney+ HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657673
-#EXTINF:-1,Disney+ HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657672
-#EXTINF:-1,Divinity
-http://vigilantev.net:80/nightmare/nightmare/657774
-#EXTINF:-1,Dkiss
-http://vigilantev.net:80/nightmare/nightmare/657547
-#EXTINF:-1,Dmax
-http://vigilantev.net:80/nightmare/nightmare/657749
-#EXTINF:-1,Dmax HD
-http://vigilantev.net:80/nightmare/nightmare/657750
-#EXTINF:-1,DreamWorks HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657534
-#EXTINF:-1,DreamWorks HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657533
-#EXTINF:-1,DreamWorks SD
-http://vigilantev.net:80/nightmare/nightmare/657532
-#EXTINF:-1,DW en Español
-http://vigilantev.net:80/nightmare/nightmare/657504
-#EXTINF:-1,El Garaje TV
-http://vigilantev.net:80/nightmare/nightmare/657546
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16679
+#EXTINF:-1,Discovery Channel
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16678
+#EXTINF:-1,Disney Channel HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16677
+#EXTINF:-1,Disney Junior Espana
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16676
+#EXTINF:-1,Disney XD 
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16675
+#EXTINF:-1,Divinity HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16674
 #EXTINF:-1,Energy
-http://vigilantev.net:80/nightmare/nightmare/657775
-#EXTINF:-1,Esport 3 CAT
-http://vigilantev.net:80/nightmare/nightmare/657904
-#EXTINF:-1,ETB 1 HD
-http://vigilantev.net:80/nightmare/nightmare/657501
-#EXTINF:-1,ETB 2 HD
-http://vigilantev.net:80/nightmare/nightmare/657500
-#EXTINF:-1,ETB Sat
-http://vigilantev.net:80/nightmare/nightmare/657499
-,CA:#EXTINF:-1,Evento 1 FHD
-http://vigilantev.net:80/nightmare/nightmare/657847
-#EXTINF:-1,Evento 1 HD
-http://vigilantev.net:80/nightmare/nightmare/657846
-#EXTINF:-1,Evento 1 SD
-http://vigilantev.net:80/nightmare/nightmare/657845
-#EXTINF:-1,Evento 10 FHD
-http://vigilantev.net:80/nightmare/nightmare/657820
-#EXTINF:-1,Evento 11 FHD
-http://vigilantev.net:80/nightmare/nightmare/657819
-#EXTINF:-1,Evento 2 FHD
-http://vigilantev.net:80/nightmare/nightmare/657844
-#EXTINF:-1,Evento 2 HD
-http://vigilantev.net:80/nightmare/nightmare/657843
-#EXTINF:-1,Evento 2 SD
-http://vigilantev.net:80/nightmare/nightmare/657842
-#EXTINF:-1,Evento 3 FHD
-http://vigilantev.net:80/nightmare/nightmare/657841
-#EXTINF:-1,Evento 3 HD
-http://vigilantev.net:80/nightmare/nightmare/657840
-#EXTINF:-1,Evento 3 SD
-http://vigilantev.net:80/nightmare/nightmare/657839
-#EXTINF:-1,Evento 4 FHD
-http://vigilantev.net:80/nightmare/nightmare/657838
-#EXTINF:-1,Evento 4 HD
-http://vigilantev.net:80/nightmare/nightmare/657837
-#EXTINF:-1,Evento 4 SD
-http://vigilantev.net:80/nightmare/nightmare/657836
-#EXTINF:-1,Evento 5 FHD
-http://vigilantev.net:80/nightmare/nightmare/657835
-#EXTINF:-1,Evento 5 HD
-http://vigilantev.net:80/nightmare/nightmare/657834
-#EXTINF:-1,Evento 5 SD
-http://vigilantev.net:80/nightmare/nightmare/657833
-#EXTINF:-1,Evento 6 FHD
-http://vigilantev.net:80/nightmare/nightmare/657832
-#EXTINF:-1,Evento 6 HD
-http://vigilantev.net:80/nightmare/nightmare/657831
-#EXTINF:-1,Evento 6 SD
-http://vigilantev.net:80/nightmare/nightmare/657830
-#EXTINF:-1,Evento 7 FHD
-http://vigilantev.net:80/nightmare/nightmare/657829
-#EXTINF:-1,Evento 7 HD
-http://vigilantev.net:80/nightmare/nightmare/657828
-#EXTINF:-1,Evento 7 SD
-http://vigilantev.net:80/nightmare/nightmare/657827
-#EXTINF:-1,Evento 8 FHD
-http://vigilantev.net:80/nightmare/nightmare/657826
-#EXTINF:-1,Evento 8 HD
-http://vigilantev.net:80/nightmare/nightmare/657825
-#EXTINF:-1,Evento 8 SD
-http://vigilantev.net:80/nightmare/nightmare/657824
-#EXTINF:-1,Evento 9 FHD
-http://vigilantev.net:80/nightmare/nightmare/657823
-#EXTINF:-1,Evento 9 HD
-http://vigilantev.net:80/nightmare/nightmare/657822
-#EXTINF:-1,Evento 9 SD
-http://vigilantev.net:80/nightmare/nightmare/657821
-#EXTINF:-1,Extremadura TV
-http://vigilantev.net:80/nightmare/nightmare/657496
-#EXTINF:-1,FDF HD
-http://vigilantev.net:80/nightmare/nightmare/657756
-#EXTINF:-1,Fox FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657614
-#EXTINF:-1,Fox HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657613
-#EXTINF:-1,Fox HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657612
-#EXTINF:-1,Fox Life FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657610
-#EXTINF:-1,Fox Life HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657609
-#EXTINF:-1,Fox Life HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657608
-#EXTINF:-1,Fox Life SD
-http://vigilantev.net:80/nightmare/nightmare/657607
-#EXTINF:-1,Fox SD
-http://vigilantev.net:80/nightmare/nightmare/657611
-#EXTINF:-1,Futbol Replay
-http://vigilantev.net:80/nightmare/nightmare/657848
-#EXTINF:-1,Galicia TV
-http://vigilantev.net:80/nightmare/nightmare/657497
-#EXTINF:-1,Gol HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657765
-#EXTINF:-1,Gol SD
-http://vigilantev.net:80/nightmare/nightmare/657764
-#EXTINF:-1,Hamaika TV
-http://vigilantev.net:80/nightmare/nightmare/657726
-#EXTINF:-1,Hispan TV
-http://vigilantev.net:80/nightmare/nightmare/657502
-#EXTINF:-1,Historia HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657567
-#EXTINF:-1,Historia HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657566
-#EXTINF:-1,Historia SD
-http://vigilantev.net:80/nightmare/nightmare/657565
-#EXTINF:-1,HIT TV
-http://vigilantev.net:80/nightmare/nightmare/657484
-#EXTINF:-1,Hollywood FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657660
-#EXTINF:-1,Hollywood FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657438
-#EXTINF:-1,Hollywood FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657659
-#EXTINF:-1,Hollywood HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657658
-#EXTINF:-1,Hollywood HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657657
-#EXTINF:-1,Hollywood SD
-http://vigilantev.net:80/nightmare/nightmare/657656
-#EXTINF:-1,Huesca TV
-http://vigilantev.net:80/nightmare/nightmare/657707
-#EXTINF:-1,Iberalia
-http://vigilantev.net:80/nightmare/nightmare/657468
-#EXTINF:-1,Iberalia HD
-http://vigilantev.net:80/nightmare/nightmare/657469
-#EXTINF:-1,Imás TV HD
-http://vigilantev.net:80/nightmare/nightmare/657705
-#EXTINF:-1,InterAlmería HD
-http://vigilantev.net:80/nightmare/nightmare/657712
-#EXTINF:-1,intereconomia
-http://vigilantev.net:80/nightmare/nightmare/657751
-#EXTINF:-1,LA 1 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657805
-#EXTINF:-1,LA 1 SD
-http://vigilantev.net:80/nightmare/nightmare/657804
-#EXTINF:-1,LA 1  FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657807
-#EXTINF:-1,LA 1  HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657806
-#EXTINF:-1,LA 2
-http://vigilantev.net:80/nightmare/nightmare/657801
-#EXTINF:-1,LA 2 HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657803
-#EXTINF:-1,LA 2 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657802
-#EXTINF:-1,La 7 León
-http://vigilantev.net:80/nightmare/nightmare/657700
-#EXTINF:-1,La 8 Bierzo
-http://vigilantev.net:80/nightmare/nightmare/657697
-#EXTINF:-1,La 8 Burgos
-http://vigilantev.net:80/nightmare/nightmare/657696
-#EXTINF:-1,La 8 Mediterráneo HD
-http://vigilantev.net:80/nightmare/nightmare/657492
-#EXTINF:-1,La 8 Valladolid
-http://vigilantev.net:80/nightmare/nightmare/657698
-#EXTINF:-1,La 8 Zamora
-http://vigilantev.net:80/nightmare/nightmare/657699
-#EXTINF:-1,La 8 Ávila
-http://vigilantev.net:80/nightmare/nightmare/657695
-#EXTINF:-1,La Otra
-http://vigilantev.net:80/nightmare/nightmare/657491
-#EXTINF:-1,La Sexta FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657788
-#EXTINF:-1,La Sexta HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657787
-#EXTINF:-1,La Sexta HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657786
-#EXTINF:-1,La Sexta SD
-http://vigilantev.net:80/nightmare/nightmare/657785
-#EXTINF:-1,La Voz 24h
-http://vigilantev.net:80/nightmare/nightmare/657736
-#EXTINF:-1,LaLiga Sports 1
-http://vigilantev.net:80/nightmare/nightmare/657818
-#EXTINF:-1,LaLiga Sports 10
-http://vigilantev.net:80/nightmare/nightmare/657809
-#EXTINF:-1,LaLiga Sports 2
-http://vigilantev.net:80/nightmare/nightmare/657817
-#EXTINF:-1,LaLiga Sports 3
-http://vigilantev.net:80/nightmare/nightmare/657816
-#EXTINF:-1,LaLiga Sports 4
-http://vigilantev.net:80/nightmare/nightmare/657815
-#EXTINF:-1,LaLiga Sports 5
-http://vigilantev.net:80/nightmare/nightmare/657814
-#EXTINF:-1,LaLiga Sports 6
-http://vigilantev.net:80/nightmare/nightmare/657813
-#EXTINF:-1,LaLiga Sports 7
-http://vigilantev.net:80/nightmare/nightmare/657812
-#EXTINF:-1,LaLiga Sports 8
-http://vigilantev.net:80/nightmare/nightmare/657811
-#EXTINF:-1,LaLiga Sports 9
-http://vigilantev.net:80/nightmare/nightmare/657810
-#EXTINF:-1,LaLiga TV Bar FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657915
-#EXTINF:-1,LaLiga TV Bar FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657914
-#EXTINF:-1,LaLiga TV Bar HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657913
-#EXTINF:-1,LaLiga TV Bar HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657912
-#EXTINF:-1,LaLiga TV Bar SD
-http://vigilantev.net:80/nightmare/nightmare/657911
-#EXTINF:-1,Lancelot TV
-http://vigilantev.net:80/nightmare/nightmare/657493
-#EXTINF:-1,Levante TV
-http://vigilantev.net:80/nightmare/nightmare/657498
-#EXTINF:-1,Libertad Digital
-http://vigilantev.net:80/nightmare/nightmare/657745
-#EXTINF:-1,M Liga de Campeones 1 FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657958
-#EXTINF:-1,M Liga de Campeones 1 FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657453
-#EXTINF:-1,M Liga de Campeones 1 FHD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657957
-#EXTINF:-1,M Liga de Campeones 1 HD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657956
-#EXTINF:-1,M Liga de Campeones 1 SD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657955
-#EXTINF:-1,M Liga de Campeones 2 FHD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657954
-#EXTINF:-1,M Liga de Campeones 2 HD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657953
-#EXTINF:-1,M Liga de Campeones 2 SD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657952
-#EXTINF:-1,M Liga de Campeones 3 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657951
-#EXTINF:-1,M Liga de Campeones 4 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657950
-#EXTINF:-1,M Liga de Campeones 4K
-http://vigilantev.net:80/nightmare/nightmare/657434
-#EXTINF:-1,M Liga de Campeones 5 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657949
-#EXTINF:-1,M Liga de Campeones 6 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657948
-#EXTINF:-1,M Liga de Campeones 7 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657947
-#EXTINF:-1,M Liga de Campeones 8 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657946
-#EXTINF:-1,M Liga de Campeones FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657965
-#EXTINF:-1,M Liga de Campeones FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657454
-#EXTINF:-1,M Liga de Campeones FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657964
-#EXTINF:-1,M Liga de Campeones HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657963
-#EXTINF:-1,M Liga de Campeones HD (1080P) B1
-http://vigilantev.net:80/nightmare/nightmare/657962
-#EXTINF:-1,M Liga de Campeones HD (1080P) B2
-http://vigilantev.net:80/nightmare/nightmare/657961
-#EXTINF:-1,M Liga de Campeones HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657960
-#EXTINF:-1,M Liga de Campeones SD
-http://vigilantev.net:80/nightmare/nightmare/657959
-#EXTINF:-1,M. Accion FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657693
-#EXTINF:-1,M. Accion FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657445
-#EXTINF:-1,M. Accion FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657692
-#EXTINF:-1,M. Accion HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657691
-#EXTINF:-1,M. Accion HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657690
-#EXTINF:-1,M. Accion SD
-http://vigilantev.net:80/nightmare/nightmare/657689
-#EXTINF:-1,M. Cine N
-http://vigilantev.net:80/nightmare/nightmare/657665
-#EXTINF:-1,M. CineDoc&Roll
-http://vigilantev.net:80/nightmare/nightmare/657666
-#EXTINF:-1,M. CineDoc&Roll FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657670
-#EXTINF:-1,M. CineDoc&Roll FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657444
-#EXTINF:-1,M. CineDoc&Roll FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657669
-#EXTINF:-1,M. CineDoc&Roll HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657668
-#EXTINF:-1,M. CineDoc&Roll HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657667
-#EXTINF:-1,M. Comedia FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657688
-#EXTINF:-1,M. Comedia FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657443
-#EXTINF:-1,M. Comedia FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657687
-#EXTINF:-1,M. Comedia HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657686
-#EXTINF:-1,M. Comedia HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657685
-#EXTINF:-1,M. Comedia SD
-http://vigilantev.net:80/nightmare/nightmare/657684
-#EXTINF:-1,M. Crimen SD
-http://vigilantev.net:80/nightmare/nightmare/657632
-#EXTINF:-1,M. Dazn 1 FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657902
-#EXTINF:-1,M. Dazn 1 HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657901
-#EXTINF:-1,M. Dazn 1 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657900
-#EXTINF:-1,M. Dazn 1 SD
-http://vigilantev.net:80/nightmare/nightmare/657899
-#EXTINF:-1,M. Dazn 2 FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657898
-#EXTINF:-1,M. Dazn 2 HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657897
-#EXTINF:-1,M. Dazn 2 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657896
-#EXTINF:-1,M. Dazn 2 SD
-http://vigilantev.net:80/nightmare/nightmare/657895
-#EXTINF:-1,M. Dazn 3 FHD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657893
-#EXTINF:-1,M. Dazn 3 FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657894
-#EXTINF:-1,M. Dazn 3 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657892
-#EXTINF:-1,M. Dazn 3 SD
-http://vigilantev.net:80/nightmare/nightmare/657891
-#EXTINF:-1,M. Dazn 4 FHD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657889
-#EXTINF:-1,M. Dazn 4 FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657890
-#EXTINF:-1,M. Dazn 4 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657888
-#EXTINF:-1,M. Dazn 4 SD
-http://vigilantev.net:80/nightmare/nightmare/657887
-#EXTINF:-1,M. Dazn F1 4K
-http://vigilantev.net:80/nightmare/nightmare/657433
-#EXTINF:-1,M. Dazn F1 FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657886
-#EXTINF:-1,M. Dazn F1 FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657452
-#EXTINF:-1,M. Dazn F1 FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657885
-#EXTINF:-1,M. Dazn F1 HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657884
-#EXTINF:-1,M. Dazn F1 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657883
-#EXTINF:-1,M. Dazn F1 SD
-http://vigilantev.net:80/nightmare/nightmare/657882
-#EXTINF:-1,M. Deportes 1 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657863
-#EXTINF:-1,M. Deportes 1 FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657865
-#EXTINF:-1,M. Deportes 1 HD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657864
-#EXTINF:-1,M. Deportes 2 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657862
-#EXTINF:-1,M. Deportes 3 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657861
-#EXTINF:-1,M. Deportes 4 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657860
-#EXTINF:-1,M. Deportes 5 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657859
-#EXTINF:-1,M. Deportes FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657870
-#EXTINF:-1,M. Deportes FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657446
-#EXTINF:-1,M. Deportes FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657869
-#EXTINF:-1,M. Deportes HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657868
-#EXTINF:-1,M. Deportes HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657867
-#EXTINF:-1,M. Deportes SD
-http://vigilantev.net:80/nightmare/nightmare/657866
-#EXTINF:-1,M. Drama FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657678
-#EXTINF:-1,M. Drama FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657442
-#EXTINF:-1,M. Drama FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657677
-#EXTINF:-1,M. Drama HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657676
-#EXTINF:-1,M. Drama HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657675
-#EXTINF:-1,M. Drama SD
-http://vigilantev.net:80/nightmare/nightmare/657674
-#EXTINF:-1,M. Estrenos FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657683
-#EXTINF:-1,M. Estrenos FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657441
-#EXTINF:-1,M. Estrenos FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657682
-#EXTINF:-1,M. Estrenos HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657681
-#EXTINF:-1,M. Estrenos HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657680
-#EXTINF:-1,M. Estrenos SD
-http://vigilantev.net:80/nightmare/nightmare/657679
-#EXTINF:-1,M. Golf
-http://vigilantev.net:80/nightmare/nightmare/657877
-#EXTINF:-1,M. Golf FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657881
-#EXTINF:-1,M. Golf FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657451
-#EXTINF:-1,M. Golf FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657880
-#EXTINF:-1,M. Golf HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657879
-#EXTINF:-1,M. Golf HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657878
-#EXTINF:-1,M. LaLiga 1 FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657937
-#EXTINF:-1,M. LaLiga 1 FHD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657936
-#EXTINF:-1,M. LaLiga 1 HD (720P) (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657935
-#EXTINF:-1,M. LaLiga 1 SD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657934
-#EXTINF:-1,M. LaLiga 2 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657930
-#EXTINF:-1,M. LaLiga 2 FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657933
-#EXTINF:-1,M. LaLiga 2 FHD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657932
-#EXTINF:-1,M. LaLiga 2 HD (720P) (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657931
-#EXTINF:-1,M. LaLiga 3 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657926
-#EXTINF:-1,M. LaLiga 3 FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657929
-#EXTINF:-1,M. LaLiga 3 FHD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657928
-#EXTINF:-1,M. LaLiga 3 HD (720P) (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657927
-#EXTINF:-1,M. LaLiga 4 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657923
-#EXTINF:-1,M. LaLiga 4 FHD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657925
-#EXTINF:-1,M. LaLiga 4 HD (720P) (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657924
-#EXTINF:-1,M. LaLiga 5 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657920
-#EXTINF:-1,M. LaLiga 5 FHD (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657922
-#EXTINF:-1,M. LaLiga 5 HD (720P) (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657921
-#EXTINF:-1,M. LaLiga 6 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657919
-#EXTINF:-1,M. LaLiga 7 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657918
-#EXTINF:-1,M. LaLiga 8 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657917
-#EXTINF:-1,M. LaLiga 9 (Solo Eventos)
-http://vigilantev.net:80/nightmare/nightmare/657916
-#EXTINF:-1,M. LaLiga FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657945
-#EXTINF:-1,M. LaLiga FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657455
-#EXTINF:-1,M. LaLiga FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657944
-#EXTINF:-1,M. LaLiga HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657943
-#EXTINF:-1,M. LaLiga HD (1080P) B1
-http://vigilantev.net:80/nightmare/nightmare/657942
-#EXTINF:-1,M. LaLiga HD (1080P) B2
-http://vigilantev.net:80/nightmare/nightmare/657941
-#EXTINF:-1,M. LaLiga HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657940
-#EXTINF:-1,M. LaLiga HD (720P) B1
-http://vigilantev.net:80/nightmare/nightmare/657939
-#EXTINF:-1,M. LaLiga SD
-http://vigilantev.net:80/nightmare/nightmare/657938
-#EXTINF:-1,M. Series FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657640
-#EXTINF:-1,M. Series HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657639
-#EXTINF:-1,M. Series HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657638
-#EXTINF:-1,M. Series SD
-http://vigilantev.net:80/nightmare/nightmare/657637
-#EXTINF:-1,M. Seriesmania FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657636
-#EXTINF:-1,M. Seriesmania HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657635
-#EXTINF:-1,M. Seriesmania HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657634
-#EXTINF:-1,M. Seriesmania SD
-http://vigilantev.net:80/nightmare/nightmare/657633
-#EXTINF:-1,Mega HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657784
-#EXTINF:-1,Mega HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657783
-#EXTINF:-1,Mega SD
-http://vigilantev.net:80/nightmare/nightmare/657782
-#EXTINF:-1,Mezzo
-http://vigilantev.net:80/nightmare/nightmare/657482
-#EXTINF:-1,Mezzo Live HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657483
-#EXTINF:-1,Movistar Alquiler 1
-http://vigilantev.net:80/nightmare/nightmare/657467
-#EXTINF:-1,Movistar Alquiler 10
-http://vigilantev.net:80/nightmare/nightmare/657458
-#EXTINF:-1,Movistar Alquiler 11
-http://vigilantev.net:80/nightmare/nightmare/657457
-#EXTINF:-1,Movistar Alquiler 12
-http://vigilantev.net:80/nightmare/nightmare/657456
-#EXTINF:-1,Movistar Alquiler 2
-http://vigilantev.net:80/nightmare/nightmare/657466
-#EXTINF:-1,Movistar Alquiler 3
-http://vigilantev.net:80/nightmare/nightmare/657465
-#EXTINF:-1,Movistar Alquiler 4
-http://vigilantev.net:80/nightmare/nightmare/657464
-#EXTINF:-1,Movistar Alquiler 5
-http://vigilantev.net:80/nightmare/nightmare/657463
-#EXTINF:-1,Movistar Alquiler 6
-http://vigilantev.net:80/nightmare/nightmare/657462
-#EXTINF:-1,Movistar Alquiler 7
-http://vigilantev.net:80/nightmare/nightmare/657461
-#EXTINF:-1,Movistar Alquiler 8
-http://vigilantev.net:80/nightmare/nightmare/657460
-#EXTINF:-1,Movistar Alquiler 9
-http://vigilantev.net:80/nightmare/nightmare/657459
-#EXTINF:-1,Movistar+ LaLiga 4K
-http://vigilantev.net:80/nightmare/nightmare/657435
-#EXTINF:-1,Movistar+ Portada
-http://vigilantev.net:80/nightmare/nightmare/657966
-#EXTINF:-1,mtmad 24h
-http://vigilantev.net:80/nightmare/nightmare/657737
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16673
+#EXTINF:-1,ES:M. FORMULA 1 HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16669
+#EXTINF:-1,FOX HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16668
+#EXTINF:-1,Fox Life HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16667
+#EXTINF:-1,Gol TV
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16664
+#EXTINF:-1,hash0
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16663
+#EXTINF:-1,Historia 
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16662
+#EXTINF:-1,HOLLYWOODHD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16661
+#EXTINF:-1,I24 NEWS
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16660
+#EXTINF:-1,Iberalia TV
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16659
+#EXTINF:-1,La Liga TV
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16658
+#EXTINF:-1,LA SEXTA HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16657
+#EXTINF:-1,Mezzo Live HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16656
+#EXTINF:-1,MOTOGP HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16655
+#EXTINF:-1,Movistar Cine Espanol
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16654
+#EXTINF:-1,Movistar Comedia HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16653
+#EXTINF:-1,M. Deportes 1 HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16652
+#EXTINF:-1,Movistar Deportes2
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16651
+#EXTINF:-1,Movistar Estrenos HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16650
+#EXTINF:-1,Movistar Golf
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16649
+#EXTINF:-1,Movistar Series
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16648
+#EXTINF:-1,Movistar Series Xtra
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16647
 #EXTINF:-1,MTV Espana
-http://vigilantev.net:80/nightmare/nightmare/657586
-#EXTINF:-1,Nat Geo Wild FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657579
-#EXTINF:-1,Nat Geo Wild FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657440
-#EXTINF:-1,Nat Geo Wild FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657578
-#EXTINF:-1,Nat Geo Wild HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657577
-#EXTINF:-1,Nat Geo Wild HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657576
-#EXTINF:-1,Nat Geo Wild SD
-http://vigilantev.net:80/nightmare/nightmare/657575
-#EXTINF:-1,National Geoghraphic FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657584
-#EXTINF:-1,National Geoghraphic FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657439
-#EXTINF:-1,National Geoghraphic FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657583
-#EXTINF:-1,National Geoghraphic HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657582
-#EXTINF:-1,National Geoghraphic HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657581
-#EXTINF:-1,National Geoghraphic SD
-http://vigilantev.net:80/nightmare/nightmare/657580
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16646
+#EXTINF:-1,Multideporte HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16645
+#EXTINF:-1,National Geographic HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16643
+#EXTINF:-1,Nat Geo Wild HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16644
 #EXTINF:-1,Neox
-http://vigilantev.net:80/nightmare/nightmare/657776
-#EXTINF:-1,Neox HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657778
-#EXTINF:-1,Neox HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657777
-#EXTINF:-1,Nick JR
-http://vigilantev.net:80/nightmare/nightmare/657541
-#EXTINF:-1,Nickelodeon
-http://vigilantev.net:80/nightmare/nightmare/657542
-#EXTINF:-1,Nickelodeon FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657544
-#EXTINF:-1,Nickelodeon HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657543
-#EXTINF:-1,NORTEvisión
-http://vigilantev.net:80/nightmare/nightmare/657490
-#EXTINF:-1,Nova
-http://vigilantev.net:80/nightmare/nightmare/657779
-#EXTINF:-1,Nova (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657781
-#EXTINF:-1,Nova (720P)
-http://vigilantev.net:80/nightmare/nightmare/657780
-#EXTINF:-1,Odisea 4K
-http://vigilantev.net:80/nightmare/nightmare/657571
-#EXTINF:-1,Odisea HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657570
-#EXTINF:-1,Odisea HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657569
-#EXTINF:-1,Odisea SD
-http://vigilantev.net:80/nightmare/nightmare/657568
-#EXTINF:-1,Onda Algeciras TV
-http://vigilantev.net:80/nightmare/nightmare/657729
-#EXTINF:-1,Onda Cádiz
-http://vigilantev.net:80/nightmare/nightmare/657728
-#EXTINF:-1,Onda Valencia
-http://vigilantev.net:80/nightmare/nightmare/657727
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16642
+#EXTINF:-1,Nickelodeon Iberia
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16640
+#EXTINF:-1,Nick Jr Espana HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16641
+#EXTINF:-1,Nova spain
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16638
+#EXTINF:-1,Odisea
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16637
 #EXTINF:-1,Paramount Channel
-http://vigilantev.net:80/nightmare/nightmare/657759
-#EXTINF:-1,Pequeradio TV
-http://vigilantev.net:80/nightmare/nightmare/657528
-#EXTINF:-1,PTV Córdoba
-http://vigilantev.net:80/nightmare/nightmare/657713
-#EXTINF:-1,PTV Málaga
-http://vigilantev.net:80/nightmare/nightmare/657731
-#EXTINF:-1,Real Madrid HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657910
-#EXTINF:-1,Real Madrid SD
-http://vigilantev.net:80/nightmare/nightmare/657909
-#EXTINF:-1,Red TV
-http://vigilantev.net:80/nightmare/nightmare/657734
-#EXTINF:-1,RT HD en Español
-http://vigilantev.net:80/nightmare/nightmare/657503
-#EXTINF:-1,Selekt HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657643
-#EXTINF:-1,Selekt HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657642
-#EXTINF:-1,Selekt SD
-http://vigilantev.net:80/nightmare/nightmare/657641
-#EXTINF:-1,Sevilla FC
-http://vigilantev.net:80/nightmare/nightmare/657906
-#EXTINF:-1,Sol Music
-http://vigilantev.net:80/nightmare/nightmare/657488
-#EXTINF:-1,Somos
-http://vigilantev.net:80/nightmare/nightmare/657754
-#EXTINF:-1,Somos HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657755
-#EXTINF:-1,Star TVE
-http://vigilantev.net:80/nightmare/nightmare/657772
-#EXTINF:-1,Star TVE HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657773
-#EXTINF:-1,Sundance TV
-http://vigilantev.net:80/nightmare/nightmare/657654
-#EXTINF:-1,Sundance TV HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657655
-#EXTINF:-1,Super3
-http://vigilantev.net:80/nightmare/nightmare/657529
-#EXTINF:-1,SyFy FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657594
-#EXTINF:-1,SyFy HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657593
-#EXTINF:-1,SYFY HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657592
-#EXTINF:-1,SyFy SD
-http://vigilantev.net:80/nightmare/nightmare/657591
-#EXTINF:-1,TCM FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657664
-#EXTINF:-1,TCM HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657663
-#EXTINF:-1,TCM HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657662
-#EXTINF:-1,TCM SD
-http://vigilantev.net:80/nightmare/nightmare/657661
-#EXTINF:-1,TeleBilbao
-http://vigilantev.net:80/nightmare/nightmare/657725
-#EXTINF:-1,Telecinco FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657792
-#EXTINF:-1,Telecinco HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657791
-#EXTINF:-1,Telecinco HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657790
-#EXTINF:-1,Telecinco SD
-http://vigilantev.net:80/nightmare/nightmare/657789
-#EXTINF:-1,Teledeporte FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657763
-#EXTINF:-1,Teledeporte FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657450
-#EXTINF:-1,Teledeporte HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657762
-#EXTINF:-1,Teledeporte HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657761
-#EXTINF:-1,Teledeporte SD
-http://vigilantev.net:80/nightmare/nightmare/657760
-#EXTINF:-1,TeleMadrid
-http://vigilantev.net:80/nightmare/nightmare/657506
-#EXTINF:-1,TeleMadrid HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657508
-#EXTINF:-1,TeleMadrid HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657507
-#EXTINF:-1,Teleonuba TV
-http://vigilantev.net:80/nightmare/nightmare/657704
-#EXTINF:-1,Telesur HD
-http://vigilantev.net:80/nightmare/nightmare/657746
-#EXTINF:-1,Televisa HD
-http://vigilantev.net:80/nightmare/nightmare/657752
-#EXTINF:-1,TEN
-http://vigilantev.net:80/nightmare/nightmare/657753
-#EXTINF:-1,Tenerife TV HD
-http://vigilantev.net:80/nightmare/nightmare/657714
-#EXTINF:-1,teve.cat HD
-http://vigilantev.net:80/nightmare/nightmare/657519
-#EXTINF:-1,TNT FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657598
-#EXTINF:-1,TNT HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657597
-#EXTINF:-1,TNT HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657596
-#EXTINF:-1,TNT SD
-http://vigilantev.net:80/nightmare/nightmare/657595
-#EXTINF:-1,Toros
-http://vigilantev.net:80/nightmare/nightmare/657470
-#EXTINF:-1,Toros FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657474
-#EXTINF:-1,Toros FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657437
-#EXTINF:-1,Toros FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657473
-#EXTINF:-1,Toros HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657472
-#EXTINF:-1,Toros HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657471
-#EXTINF:-1,Trece
-http://vigilantev.net:80/nightmare/nightmare/657744
-#EXTINF:-1,TV Benavente HD
-http://vigilantev.net:80/nightmare/nightmare/657730
-#EXTINF:-1,TV3
-http://vigilantev.net:80/nightmare/nightmare/657524
-#EXTINF:-1,TV3 HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657526
-#EXTINF:-1,TV3 HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657525
-#EXTINF:-1,TV3. CAT
-http://vigilantev.net:80/nightmare/nightmare/657523
-#EXTINF:-1,TVE Internacional
-http://vigilantev.net:80/nightmare/nightmare/657769
-#EXTINF:-1,TVG 2 HD
-http://vigilantev.net:80/nightmare/nightmare/657723
-#EXTINF:-1,TVG América HD
-http://vigilantev.net:80/nightmare/nightmare/657718
-#EXTINF:-1,TVG Cultura HD
-http://vigilantev.net:80/nightmare/nightmare/657720
-#EXTINF:-1,TVG Eventos 1 HD
-http://vigilantev.net:80/nightmare/nightmare/657717
-#EXTINF:-1,TVG Eventos 2 HD
-http://vigilantev.net:80/nightmare/nightmare/657716
-#EXTINF:-1,TVG Eventos 3 HD
-http://vigilantev.net:80/nightmare/nightmare/657715
-#EXTINF:-1,TVG HD
-http://vigilantev.net:80/nightmare/nightmare/657724
-#EXTINF:-1,TVG Infantil HD
-http://vigilantev.net:80/nightmare/nightmare/657722
-#EXTINF:-1,TVG Momentos G HD
-http://vigilantev.net:80/nightmare/nightmare/657719
-#EXTINF:-1,TVG Musigal HD
-http://vigilantev.net:80/nightmare/nightmare/657721
-#EXTINF:-1,U-Beat FHD
-http://vigilantev.net:80/nightmare/nightmare/657850
-#EXTINF:-1,VH1
-http://vigilantev.net:80/nightmare/nightmare/657487
-#EXTINF:-1,VH1 Classic
-http://vigilantev.net:80/nightmare/nightmare/657486
-#EXTINF:-1,Viajar FHD (H.265)
-http://vigilantev.net:80/nightmare/nightmare/657564
-#EXTINF:-1,Viajar FHD (HEVC)
-http://vigilantev.net:80/nightmare/nightmare/657449
-#EXTINF:-1,Viajar FHD (Multi-Audio)
-http://vigilantev.net:80/nightmare/nightmare/657563
-#EXTINF:-1,Viajar HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657562
-#EXTINF:-1,Viajar HD (720P)
-http://vigilantev.net:80/nightmare/nightmare/657561
-#EXTINF:-1,Viajar SD
-http://vigilantev.net:80/nightmare/nightmare/657560
-#EXTINF:-1,Visión 6
-http://vigilantev.net:80/nightmare/nightmare/657701
-#EXTINF:-1,XTRM
-http://vigilantev.net:80/nightmare/nightmare/657649
-#EXTINF:-1,XTRM HD (1080P)
-http://vigilantev.net:80/nightmare/nightmare/657650
-#EXTINF:-1,À Punt HD
-http://vigilantev.net:80/nightmare/nightmare/657735
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16636
+#EXTINF:-1,Real Madrid TV Espanol
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16635
+#EXTINF:-1,Sundance Espana TV 
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16634
+#EXTINF:-1,Syfy Espana HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16633
+#EXTINF:-1,TCM Espana HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16626
+#EXTINF:-1,TELECINCO HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16623
+#EXTINF:-1,Tele deporte
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16625
+#EXTINF:-1,TNT Espana HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16622
+#EXTINF:-1,Toros TV
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16621
+#EXTINF:-1,TVE La1 HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16618
+#EXTINF:-1,TVE La2
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16617
+#EXTINF:-1,TV Record SD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16620
+#EXTINF:-1,Viajar HD
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16615
