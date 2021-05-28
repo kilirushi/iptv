@@ -1,311 +1,195 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76804
-#EXTINF:-1,RTP 1
-http://directtv1.xyz:80/Freddie/Freddie/76805
-#EXTINF:-1,RTP 2 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76806
-#EXTINF:-1,RTP 2
-http://directtv1.xyz:80/Freddie/Freddie/76807
-#EXTINF:-1,SIC FHD
-http://directtv1.xyz:80/Freddie/Freddie/76808
-#EXTINF:-1,SIC
-http://directtv1.xyz:80/Freddie/Freddie/76809
-#EXTINF:-1,TVI FHD
-http://directtv1.xyz:80/Freddie/Freddie/76810
-#EXTINF:-1,TVI
-http://directtv1.xyz:80/Freddie/Freddie/76811
-#EXTINF:-1,CMTV FHD
-http://directtv1.xyz:80/Freddie/Freddie/76812
-#EXTINF:-1,CMTV
-http://directtv1.xyz:80/Freddie/Freddie/76813
-#EXTINF:-1,TVI 24 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76814
-#EXTINF:-1,TVI 24
-http://directtv1.xyz:80/Freddie/Freddie/76815
-#EXTINF:-1,SIC NOTICIAS FHD
-http://directtv1.xyz:80/Freddie/Freddie/76816
-#EXTINF:-1,SIC NOTICIAS
-http://directtv1.xyz:80/Freddie/Freddie/76817
-#EXTINF:-1,RTP 3
-http://directtv1.xyz:80/Freddie/Freddie/76818
-#EXTINF:-1,Porto Canal FHD
-http://directtv1.xyz:80/Freddie/Freddie/76819
-#EXTINF:-1,PORTO CANAL
-http://directtv1.xyz:80/Freddie/Freddie/76820
-#EXTINF:-1,A Bola TV FHD
-http://directtv1.xyz:80/Freddie/Freddie/76821
-#EXTINF:-1,A BOLA TV
-http://directtv1.xyz:80/Freddie/Freddie/76822
-#EXTINF:-1,TVI FICCAO
-http://directtv1.xyz:80/Freddie/Freddie/76823
-#EXTINF:-1,TVI Reality FHD
-http://directtv1.xyz:80/Freddie/Freddie/76824
-#EXTINF:-1,TVI REALITY
-http://directtv1.xyz:80/Freddie/Freddie/76825
-#EXTINF:-1,SIC MULHER FHD
-http://directtv1.xyz:80/Freddie/Freddie/76826
-#EXTINF:-1,SIC CARAS
-http://directtv1.xyz:80/Freddie/Freddie/76827
-#EXTINF:-1,SIC MULHER
-http://directtv1.xyz:80/Freddie/Freddie/76828
-#EXTINF:-1,SIC RADICAL FHD
-http://directtv1.xyz:80/Freddie/Freddie/76829
-#EXTINF:-1,SIC RADICAL
-http://directtv1.xyz:80/Freddie/Freddie/76830
-#EXTINF:-1,RTP ACORES
-http://directtv1.xyz:80/Freddie/Freddie/76831
-#EXTINF:-1,RTP MEMORIA
-http://directtv1.xyz:80/Freddie/Freddie/76833
-#EXTINF:-1,RTP AFRICA
-http://directtv1.xyz:80/Freddie/Freddie/76834
-#EXTINF:-1,Casa e Cozinha HD
-http://directtv1.xyz:80/Freddie/Freddie/76835
-#EXTINF:-1,CANAL Q
-http://directtv1.xyz:80/Freddie/Freddie/76836
-#EXTINF:-1,TV RECORD
-http://directtv1.xyz:80/Freddie/Freddie/76837
-#EXTINF:-1,Globo FHD
-http://directtv1.xyz:80/Freddie/Freddie/76838
-#EXTINF:-1,GLOBO
-http://directtv1.xyz:80/Freddie/Freddie/76839
-#EXTINF:-1,GLOBO NOW
-http://directtv1.xyz:80/Freddie/Freddie/76840
-#EXTINF:-1,CANAL PANDA
-http://directtv1.xyz:80/Freddie/Freddie/76841
-#EXTINF:-1,DISNEY CHANNEL
-http://directtv1.xyz:80/Freddie/Freddie/76842
-#EXTINF:-1,DISNEY JUNIOR
-http://directtv1.xyz:80/Freddie/Freddie/76843
-#EXTINF:-1,NICKELODEON
-http://directtv1.xyz:80/Freddie/Freddie/76844
-#EXTINF:-1,NICK JR
-http://directtv1.xyz:80/Freddie/Freddie/76845
-#EXTINF:-1,Canção Nova
-http://directtv1.xyz:80/Freddie/Freddie/76847
-#EXTINF:-1,BABY TV
-http://directtv1.xyz:80/Freddie/Freddie/76848
-#EXTINF:-1,JIM JAM
-http://directtv1.xyz:80/Freddie/Freddie/76849
-#EXTINF:-1,BIGGS
-http://directtv1.xyz:80/Freddie/Freddie/76850
-#EXTINF:-1,SIC K
-http://directtv1.xyz:80/Freddie/Freddie/76851
-#EXTINF:-1,TV CINE TOP FHD
-http://directtv1.xyz:80/Freddie/Freddie/76852
-#EXTINF:-1,TV CINE TOP
-http://directtv1.xyz:80/Freddie/Freddie/76853
-#EXTINF:-1,TV CINE EDITION FHD
-http://directtv1.xyz:80/Freddie/Freddie/76854
-#EXTINF:-1,TV CINE EDITION
-http://directtv1.xyz:80/Freddie/Freddie/76855
-#EXTINF:-1,TV CINE EMOTION FHD
-http://directtv1.xyz:80/Freddie/Freddie/76856
-#EXTINF:-1,TV CINE ACTION FHD
-http://directtv1.xyz:80/Freddie/Freddie/76858
-#EXTINF:-1,NOS STUDIOS FHD
-http://directtv1.xyz:80/Freddie/Freddie/76860
-#EXTINF:-1,HOLLYWOOD FHD
-http://directtv1.xyz:80/Freddie/Freddie/76861
-#EXTINF:-1,HOLLYWOOD
-http://directtv1.xyz:80/Freddie/Freddie/76862
-#EXTINF:-1,AXN HD
-http://directtv1.xyz:80/Freddie/Freddie/76863
-#EXTINF:-1,AXN
-http://directtv1.xyz:80/Freddie/Freddie/76864
-#EXTINF:-1,AXN WHITE HD
-http://directtv1.xyz:80/Freddie/Freddie/76865
-#EXTINF:-1,AXN WHITE
-http://directtv1.xyz:80/Freddie/Freddie/76866
-#EXTINF:-1,AXN MOVIES FHD
-http://directtv1.xyz:80/Freddie/Freddie/76867
-#EXTINF:-1,AXN MOVIES
-http://directtv1.xyz:80/Freddie/Freddie/76868
-#EXTINF:-1,AXN Black HD
-http://directtv1.xyz:80/Freddie/Freddie/104673
-#EXTINF:-1,FOX
-http://directtv1.xyz:80/Freddie/Freddie/76869
-#EXTINF:-1,FOX FHD
-http://directtv1.xyz:80/Freddie/Freddie/76870
-#EXTINF:-1,FOX MOVIES FHD
-http://directtv1.xyz:80/Freddie/Freddie/76871
-#EXTINF:-1,FOX MOVIES
-http://directtv1.xyz:80/Freddie/Freddie/76872
-#EXTINF:-1,FOX CRIME FHD
-http://directtv1.xyz:80/Freddie/Freddie/76873
-#EXTINF:-1,FOX COMEDY FHD
-http://directtv1.xyz:80/Freddie/Freddie/76874
-#EXTINF:-1,FOX COMEDY
-http://directtv1.xyz:80/Freddie/Freddie/76875
-#EXTINF:-1,FOX LIFE FHD
-http://directtv1.xyz:80/Freddie/Freddie/76876
-#EXTINF:-1,FOX LIFE
-http://directtv1.xyz:80/Freddie/Freddie/76877
-#EXTINF:-1,CINEMUNDO FHD
-http://directtv1.xyz:80/Freddie/Freddie/76878
-#EXTINF:-1,CINEMUNDO
-http://directtv1.xyz:80/Freddie/Freddie/76879
-#EXTINF:-1,SYFY HD
-http://directtv1.xyz:80/Freddie/Freddie/76880
-#EXTINF:-1,SYFY
-http://directtv1.xyz:80/Freddie/Freddie/76881
-#EXTINF:-1,AMC FHD
-http://directtv1.xyz:80/Freddie/Freddie/76882
-#EXTINF:-1,AMC
-http://directtv1.xyz:80/Freddie/Freddie/76883
-#EXTINF:-1,CANAL 11 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76884
-#EXTINF:-1,SPORT TV NBA
-http://directtv1.xyz:80/Freddie/Freddie/76885
-#EXTINF:-1,SPORT TV + FHD
-http://directtv1.xyz:80/Freddie/Freddie/76886
-#EXTINF:-1,SPORT TV+
-http://directtv1.xyz:80/Freddie/Freddie/76887
-#EXTINF:-1,SPORT TV 1 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76889
-#EXTINF:-1,SPORT TV 1 HD
-http://directtv1.xyz:80/Freddie/Freddie/76890
-#EXTINF:-1,SPORT TV 1 
-http://directtv1.xyz:80/Freddie/Freddie/76891
-#EXTINF:-1,SPORT TV 2 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76892
-#EXTINF:-1,SPORT TV 2 HD
-http://directtv1.xyz:80/Freddie/Freddie/76893
-#EXTINF:-1,SPORT TV 2 
-http://directtv1.xyz:80/Freddie/Freddie/76894
-#EXTINF:-1,SPORT TV 3 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76895
-#EXTINF:-1,SPORT TV 3 SD
-http://directtv1.xyz:80/Freddie/Freddie/76896
-#EXTINF:-1,SPORT TV 4 HD
-http://directtv1.xyz:80/Freddie/Freddie/76897
-#EXTINF:-1,SPORT TV 4 
-http://directtv1.xyz:80/Freddie/Freddie/76898
-#EXTINF:-1,SPORT TV 5 HD
-http://directtv1.xyz:80/Freddie/Freddie/76899
-#EXTINF:-1,SPORT TV 5 
-http://directtv1.xyz:80/Freddie/Freddie/76900
-#EXTINF:-1,BTV HD
-http://directtv1.xyz:80/Freddie/Freddie/76901
-#EXTINF:-1,BTV 1 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76902
-#EXTINF:-1,BTV 1
-http://directtv1.xyz:80/Freddie/Freddie/76903
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76904
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://directtv1.xyz:80/Freddie/Freddie/76905
-#EXTINF:-1,ELEVEN SPORTS 1 SD
-http://directtv1.xyz:80/Freddie/Freddie/76906
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76907
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://directtv1.xyz:80/Freddie/Freddie/76908
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76909
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://directtv1.xyz:80/Freddie/Freddie/76910
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://directtv1.xyz:80/Freddie/Freddie/76911
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://directtv1.xyz:80/Freddie/Freddie/76912
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://directtv1.xyz:80/Freddie/Freddie/76913
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://directtv1.xyz:80/Freddie/Freddie/76914
-#EXTINF:-1,Sporting Tv FHD
-http://directtv1.xyz:80/Freddie/Freddie/76915
-#EXTINF:-1,SPORTING TV
-http://directtv1.xyz:80/Freddie/Freddie/76916
-#EXTINF:-1,PFC
-http://directtv1.xyz:80/Freddie/Freddie/76920
-#EXTINF:-1,KOMBAT SPORT
-http://directtv1.xyz:80/Freddie/Freddie/76921
-#EXTINF:-1,MOTORVISION
-http://directtv1.xyz:80/Freddie/Freddie/76922
-#EXTINF:-1,Fuel TV FHD
-http://directtv1.xyz:80/Freddie/Freddie/76923
-#EXTINF:-1,FUEL TV
-http://directtv1.xyz:80/Freddie/Freddie/76924
-#EXTINF:-1,CACA E PESCA
-http://directtv1.xyz:80/Freddie/Freddie/76925
-#EXTINF:-1,CACAVISION
-http://directtv1.xyz:80/Freddie/Freddie/76926
-#EXTINF:-1,FTV
-http://directtv1.xyz:80/Freddie/Freddie/76927
-#EXTINF:-1,Ginx
-http://directtv1.xyz:80/Freddie/Freddie/76928
-#EXTINF:-1,TOROS TV
-http://directtv1.xyz:80/Freddie/Freddie/76929
-#EXTINF:-1,CRIME+INVESTIGATION
-http://directtv1.xyz:80/Freddie/Freddie/76930
-#EXTINF:-1,E! Entertainement FHD
-http://directtv1.xyz:80/Freddie/Freddie/76931
-#EXTINF:-1,E! ENTERTAINEMENT
-http://directtv1.xyz:80/Freddie/Freddie/76932
-#EXTINF:-1,TLC
-http://directtv1.xyz:80/Freddie/Freddie/76933
-#EXTINF:-1,DISCOVERY FHD
-http://directtv1.xyz:80/Freddie/Freddie/76934
-#EXTINF:-1,DISCOVERY CHANNEL
-http://directtv1.xyz:80/Freddie/Freddie/76935
-#EXTINF:-1,ID INVESTIGATION DISCOVERY
-http://directtv1.xyz:80/Freddie/Freddie/76936
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://directtv1.xyz:80/Freddie/Freddie/76937
-#EXTINF:-1,National Geographic
-http://directtv1.xyz:80/Freddie/Freddie/76938
-#EXTINF:-1,Nat Geo Wild HD
-http://directtv1.xyz:80/Freddie/Freddie/76939
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://directtv1.xyz:80/Freddie/Freddie/76940
-#EXTINF:-1,CBS REALITY
-http://directtv1.xyz:80/Freddie/Freddie/76941
-#EXTINF:-1,BBC ENTERTAINEMENT
-http://directtv1.xyz:80/Freddie/Freddie/76942
-#EXTINF:-1,BBC WORLD NEWS
-http://directtv1.xyz:80/Freddie/Freddie/76943
-#EXTINF:-1,24 KITCHEN FHD
-http://directtv1.xyz:80/Freddie/Freddie/76944
-#EXTINF:-1,Food Network
-http://directtv1.xyz:80/Freddie/Freddie/76945
-#EXTINF:-1,Blaze FHD
-http://directtv1.xyz:80/Freddie/Freddie/76946
-#EXTINF:-1,BLAZE
-http://directtv1.xyz:80/Freddie/Freddie/76947
-#EXTINF:-1,CNN
-http://directtv1.xyz:80/Freddie/Freddie/76948
-#EXTINF:-1,FOX News
-http://directtv1.xyz:80/Freddie/Freddie/76949
-#EXTINF:-1,ARTV
-http://directtv1.xyz:80/Freddie/Freddie/76952
-#EXTINF:-1,HISTORIA
-http://directtv1.xyz:80/Freddie/Freddie/76953
-#EXTINF:-1,Odisseia FHD
-http://directtv1.xyz:80/Freddie/Freddie/76954
-#EXTINF:-1,ODISSEIA
-http://directtv1.xyz:80/Freddie/Freddie/76955
-#EXTINF:-1,TRAVEL CHANNEL FHD
-http://directtv1.xyz:80/Freddie/Freddie/76956
-#EXTINF:-1,Deutsche Welle
-http://directtv1.xyz:80/Freddie/Freddie/76958
-#EXTINF:-1,CNBC
-http://directtv1.xyz:80/Freddie/Freddie/76959
-#EXTINF:-1,AFRO MUSIC
-http://directtv1.xyz:80/Freddie/Freddie/76960
-#EXTINF:-1,MCM POP
-http://directtv1.xyz:80/Freddie/Freddie/76961
-#EXTINF:-1,MTV FHD
-http://directtv1.xyz:80/Freddie/Freddie/76962
-#EXTINF:-1,MTV PORTUGAL
-http://directtv1.xyz:80/Freddie/Freddie/76963
-#EXTINF:-1,MEZZO
-http://directtv1.xyz:80/Freddie/Freddie/76964
-#EXTINF:-1,TRACE TOCA
-http://directtv1.xyz:80/Freddie/Freddie/76965
-#EXTINF:-1,TRACE URBAN
-http://directtv1.xyz:80/Freddie/Freddie/76966
-#EXTINF:-1,VH1
-http://directtv1.xyz:80/Freddie/Freddie/76967
-#EXTINF:-1,TV Galicia HD
-http://directtv1.xyz:80/Freddie/Freddie/76968
+#EXTINF:-1,24 KITCHEN | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9421
+#EXTINF:-1,A BOLA TV | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9376
+#EXTINF:-1,AFRO MUSIC | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9420
+#EXTINF:-1,AMC* 
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9457
+#EXTINF:-1,AXN BLACK | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9349
+#EXTINF:-1,AXN WHITE | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9350
+#EXTINF:-1,AXN | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9348
+#EXTINF:-1,BABY TV | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9379
+#EXTINF:-1,BENFICA TV | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9351
+#EXTINF:-1,BIGGS | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9427
+#EXTINF:-1,BLOOMBERG | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9380
+#EXTINF:-1,CACA E PESCA | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9382
+#EXTINF:-1,CANAL 11 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9360
+#EXTINF:-1,CANAL Q | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9383
+#EXTINF:-1,CANCAO NOVA SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9389
+#EXTINF:-1,CARTOON NETWORK | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9385
+#EXTINF:-1,CBS REALITY | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9404
+#EXTINF:-1,CMTV | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9390
+#EXTINF:-1,CRIME & INVESTIGATION | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9354
+#EXTINF:-1,DISCOVERY CHANNEL | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9391
+#EXTINF:-1,DISNEY CHANNEL | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9394
+#EXTINF:-1,DISNEY JUNIOR | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9375
+#EXTINF:-1,DOG TV | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9358
+#EXTINF:-1,E! ENTERTAINMENT | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9406
+#EXTINF:-1,ELEVEN SPORTS 1 | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9398
+#EXTINF:-1,ELEVEN SPORTS 2 | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9400
+#EXTINF:-1,ELEVEN SPORTS 3 | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9401
+#EXTINF:-1,ELEVEN SPORTS 4 | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9403
+#EXTINF:-1,ELEVEN SPORTS 5 | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9405
+#EXTINF:-1,ELEVEN SPORTS 6 | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9407
+#EXTINF:-1,FASHION TV | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9417
+#EXTINF:-1,FIGHT NETWORK | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9359
+#EXTINF:-1,FOOD NETWORK | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9423
+#EXTINF:-1,FOX Comedy | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9411
+#EXTINF:-1,FOX CRIME | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9356
+#EXTINF:-1,FOX LIFE | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9412
+#EXTINF:-1,FOX MOVIES | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9414
+#EXTINF:-1,PT NEWS | FOX News HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9386
+#EXTINF:-1,FOX TV | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9357
+#EXTINF:-1,FR NEWS | FRANCE 24 | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9459
+#EXTINF:-1,FUEL TV 
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9392
+#EXTINF:-1,GLOBO PORTUGAL | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9450
+#EXTINF:-1,GLOBO PREMIUM | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9460
+#EXTINF:-1,HISTORIA | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9448
+#EXTINF:-1,HOLLYWOOD | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9416
+#EXTINF:-1,INVESTIGATION DISCOVERY (ID) | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9347
+#EXTINF:-1,JIMJAM | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9418
+#EXTINF:-1,KOMBAT SPORT | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9419
+#EXTINF:-1,MCM POP | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9387
+#EXTINF:-1,MEZZO | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9395
+#EXTINF:-1,MOTORVISION | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9384
+#EXTINF:-1,MTV | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9422
+#EXTINF:-1,MVM | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9461
+#EXTINF:-1,NATGEO WILD | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9424
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9425
+#EXTINF:-1,NICK JR. | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9381
+#EXTINF:-1,NICKELODEON | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9378
+#EXTINF:-1,NOS STUDIOS | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9352
+#EXTINF:-1,ODISSEIA | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9426
+#EXTINF:-1,PANDA | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9428
+#EXTINF:-1,PFC | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9402
+#EXTINF:-1,PORTO CANAL | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9429
+#EXTINF:-1,REAL MADRID TV | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9388
+#EXTINF:-1,RTP 2 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9362
+#EXTINF:-1,RTP ACORES | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9431
+#EXTINF:-1,RTP MEMORIA | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9433
+#EXTINF:-1,SIC CARAS | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9434
+#EXTINF:-1,SIC KIDS | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9435
+#EXTINF:-1,SIC MULHER | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9436
+#EXTINF:-1,PT NEWS | SIC NOTICIAS | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9437
+#EXTINF:-1,SIC RADICAL | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9438
+#EXTINF:-1,SIC | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9363
+#EXTINF:-1,SPORT TV 1 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9364
+#EXTINF:-1,SPORT TV 2 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9365
+#EXTINF:-1,SPORT TV 3 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9366
+#EXTINF:-1,SPORT TV 5 | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9441
+#EXTINF:-1,SPORT TV+ | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9439
+#EXTINF:-1,SPORTING  TV | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9393
+#EXTINF:-1,SPORTING TV | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9368
+#EXTINF:-1,SYFY | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9442
+#EXTINF:-1,TLC | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9444
+#EXTINF:-1,TOROS TV | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9445
+#EXTINF:-1,TRAVEL CHANNEL | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9413
+#EXTINF:-1,TV FATIMA UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9355
+#EXTINF:-1,TV GLOBO | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9451
+#EXTINF:-1,TV RECORD | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9453
+#EXTINF:-1,TV Series | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9369
+#EXTINF:-1,TVCINE 1 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9370
+#EXTINF:-1,TVCINE 2 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9371
+#EXTINF:-1,TVCINE 3 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9372
+#EXTINF:-1,TVCINE 4 | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9373
+#EXTINF:-1,TVI 24 | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9454
+#EXTINF:-1,TVI FICCAO | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9455
+#EXTINF:-1,TVI REALITY | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9452
+#EXTINF:-1,TVI | UHD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9374
+#EXTINF:-1,VH1 | SD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9456
+#EXTINF:-1,ZAP VIVA | HD
+http://hispa-tv.com:8080/juanpablo.res.sanjuan/35Pm7u4PHa/9449
