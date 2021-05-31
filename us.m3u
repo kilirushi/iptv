@@ -1,561 +1,703 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://serviceinput.online:2999/universidad/universidad/212
-#EXTINF:-1,ABC
-http://serviceinput.online:2999/universidad/universidad/211
-#EXTINF:-1,ABC News
-http://serviceinput.online:2999/universidad/universidad/210
+#EXTINF:-1,A&E HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39189.ts
+#EXTINF:-1,ABC HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39190.ts
+#EXTINF:-1,ABC NEWS HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39191.ts
 #EXTINF:-1,ACC Network
-http://serviceinput.online:2999/universidad/universidad/296
-#EXTINF:-1,AMC
-http://serviceinput.online:2999/universidad/universidad/209
-#EXTINF:-1,American Heroes Channel
-http://serviceinput.online:2999/universidad/universidad/208
-#EXTINF:-1,Animal Planet
-http://serviceinput.online:2999/universidad/universidad/207
-#EXTINF:-1,Aspire TV 
-http://serviceinput.online:2999/universidad/universidad/872
-#EXTINF:-1,BBC America
-http://serviceinput.online:2999/universidad/universidad/206
-#EXTINF:-1,BBC World News
-http://serviceinput.online:2999/universidad/universidad/764
-#EXTINF:-1,beIN Sports
-http://serviceinput.online:2999/universidad/universidad/205
-#EXTINF:-1,BET
-http://serviceinput.online:2999/universidad/universidad/204
-#EXTINF:-1,BET Her
-http://serviceinput.online:2999/universidad/universidad/203
-#EXTINF:-1,BET Jams
-http://serviceinput.online:2999/universidad/universidad/950
-#EXTINF:-1,BET Soul
-http://serviceinput.online:2999/universidad/universidad/951
-#EXTINF:-1,Big Ten Network
-http://serviceinput.online:2999/universidad/universidad/202
-#EXTINF:-1,Bloomberg
-http://serviceinput.online:2999/universidad/universidad/863
-#EXTINF:-1,Boomerang
-http://serviceinput.online:2999/universidad/universidad/130
-#EXTINF:-1,Bounce TV
-http://serviceinput.online:2999/universidad/universidad/743
-#EXTINF:-1,Bravo
-http://serviceinput.online:2999/universidad/universidad/200
-#EXTINF:-1,Buzzr TV
-http://serviceinput.online:2999/universidad/universidad/1182
-#EXTINF:-1,C-SPAN
-http://serviceinput.online:2999/universidad/universidad/1184
-#EXTINF:-1,C-SPAN 2
-http://serviceinput.online:2999/universidad/universidad/1185
-#EXTINF:-1,C-SPAN 3
-http://serviceinput.online:2999/universidad/universidad/1186
-#EXTINF:-1,Cartoon Network
-http://serviceinput.online:2999/universidad/universidad/199
-#EXTINF:-1,CBS
-http://serviceinput.online:2999/universidad/universidad/198
-#EXTINF:-1,CBSN
-http://serviceinput.online:2999/universidad/universidad/197
-#EXTINF:-1,Cinemax East
-http://serviceinput.online:2999/universidad/universidad/196
-#EXTINF:-1,Cinemax Moremax
-http://serviceinput.online:2999/universidad/universidad/1204
-#EXTINF:-1,CMT
-http://serviceinput.online:2999/universidad/universidad/355
-#EXTINF:-1,CNBC
-http://serviceinput.online:2999/universidad/universidad/192
-#EXTINF:-1,CNBC World
-http://serviceinput.online:2999/universidad/universidad/1196
-#EXTINF:-1,CNN
-http://serviceinput.online:2999/universidad/universidad/191
-#EXTINF:-1,Comedy Central
-http://serviceinput.online:2999/universidad/universidad/190
-#EXTINF:-1,Cooking Channel
-http://serviceinput.online:2999/universidad/universidad/189
-#EXTINF:-1,Cozi TV
-http://serviceinput.online:2999/universidad/universidad/188
-#EXTINF:-1,Destination America
-http://serviceinput.online:2999/universidad/universidad/185
-#EXTINF:-1,Discovery Channel
-http://serviceinput.online:2999/universidad/universidad/184
-#EXTINF:-1,Discovery Family
-http://serviceinput.online:2999/universidad/universidad/183
-#EXTINF:-1,Discovery Life
-http://serviceinput.online:2999/universidad/universidad/182
-#EXTINF:-1,Discovery Science
-http://serviceinput.online:2999/universidad/universidad/181
-#EXTINF:-1,Disney Channel
-http://serviceinput.online:2999/universidad/universidad/180
-#EXTINF:-1,Disney Jr
-http://serviceinput.online:2999/universidad/universidad/179
-#EXTINF:-1,Disney XD
-http://serviceinput.online:2999/universidad/universidad/178
-#EXTINF:-1,DIY
-http://serviceinput.online:2999/universidad/universidad/177
-#EXTINF:-1,E!
-http://serviceinput.online:2999/universidad/universidad/176
-#EXTINF:-1,Eleven Sports
-http://serviceinput.online:2999/universidad/universidad/175
-#EXTINF:-1,EPIX
-http://serviceinput.online:2999/universidad/universidad/174
-#EXTINF:-1,EPIX 2
-http://serviceinput.online:2999/universidad/universidad/388
-#EXTINF:-1,EPIX HITS
-http://serviceinput.online:2999/universidad/universidad/132
-#EXTINF:-1,ESPN
-http://serviceinput.online:2999/universidad/universidad/133
-#EXTINF:-1,ESPN 2
-http://serviceinput.online:2999/universidad/universidad/173
-#EXTINF:-1,ESPN News
-http://serviceinput.online:2999/universidad/universidad/134
-#EXTINF:-1,ESPN U
-http://serviceinput.online:2999/universidad/universidad/172
-#EXTINF:-1,Fight Network
-http://serviceinput.online:2999/universidad/universidad/331
-#EXTINF:-1,Food Network
-http://serviceinput.online:2999/universidad/universidad/171
-#EXTINF:-1,Fox
-http://serviceinput.online:2999/universidad/universidad/269
-#EXTINF:-1,Fox Business Network
-http://serviceinput.online:2999/universidad/universidad/268
-#EXTINF:-1,Fox Deportes
-http://serviceinput.online:2999/universidad/universidad/266
-#EXTINF:-1,Fox News
-http://serviceinput.online:2999/universidad/universidad/267
-#EXTINF:-1,Fox Soccer Plus
-http://serviceinput.online:2999/universidad/universidad/265
-#EXTINF:-1,Fox Sports 1
-http://serviceinput.online:2999/universidad/universidad/263
-#EXTINF:-1,Fox Sports 2
-http://serviceinput.online:2999/universidad/universidad/264
-#EXTINF:-1,FreeForm
-http://serviceinput.online:2999/universidad/universidad/170
-#EXTINF:-1,Fuse
-http://serviceinput.online:2999/universidad/universidad/169
-#EXTINF:-1,FX
-http://serviceinput.online:2999/universidad/universidad/167
-#EXTINF:-1,FXM
-http://serviceinput.online:2999/universidad/universidad/166
-#EXTINF:-1,FXX
-http://serviceinput.online:2999/universidad/universidad/165
-#EXTINF:-1,FYI
-http://serviceinput.online:2999/universidad/universidad/164
-#EXTINF:-1,Galavision
-http://serviceinput.online:2999/universidad/universidad/360
-#EXTINF:-1,GINX eSports
-http://serviceinput.online:2999/universidad/universidad/1195
-#EXTINF:-1,Golf Channel
-http://serviceinput.online:2999/universidad/universidad/138
-#EXTINF:-1,Grit TV
-http://serviceinput.online:2999/universidad/universidad/734
-#EXTINF:-1,GSN
-http://serviceinput.online:2999/universidad/universidad/358
-#EXTINF:-1,Hallmark
-http://serviceinput.online:2999/universidad/universidad/162
-#EXTINF:-1,Hallmark Drama
-http://serviceinput.online:2999/universidad/universidad/356
-#EXTINF:-1,Hallmark Movies & Mysteries
-http://serviceinput.online:2999/universidad/universidad/161
-#EXTINF:-1,HBO
-http://serviceinput.online:2999/universidad/universidad/160
-#EXTINF:-1,HBO 2
-http://serviceinput.online:2999/universidad/universidad/1085
-#EXTINF:-1,HBO Comedy
-http://serviceinput.online:2999/universidad/universidad/1087
-#EXTINF:-1,HBO Family
-http://serviceinput.online:2999/universidad/universidad/157
-#EXTINF:-1,HBO Signature
-http://serviceinput.online:2999/universidad/universidad/156
-#EXTINF:-1,HBO Zone
-http://serviceinput.online:2999/universidad/universidad/155
-#EXTINF:-1,HGTV
-http://serviceinput.online:2999/universidad/universidad/154
-#EXTINF:-1,History 2
-http://serviceinput.online:2999/universidad/universidad/1181
-#EXTINF:-1,History Channel
-http://serviceinput.online:2999/universidad/universidad/153
-#EXTINF:-1,HLN
-http://serviceinput.online:2999/universidad/universidad/152
-#EXTINF:-1,IFC
-http://serviceinput.online:2999/universidad/universidad/151
-#EXTINF:-1,INSP
-http://serviceinput.online:2999/universidad/universidad/895
-#EXTINF:-1,Investigation Discovery
-http://serviceinput.online:2999/universidad/universidad/150
-#EXTINF:-1,ION TV
-http://serviceinput.online:2999/universidad/universidad/809
-#EXTINF:-1,Lifetime
-http://serviceinput.online:2999/universidad/universidad/148
-#EXTINF:-1,LMN
-http://serviceinput.online:2999/universidad/universidad/147
-#EXTINF:-1,Logo
-http://serviceinput.online:2999/universidad/universidad/952
-#EXTINF:-1,LongHorn Network
-http://serviceinput.online:2999/universidad/universidad/146
-#EXTINF:-1,Marquee Sports Network
-http://serviceinput.online:2999/universidad/universidad/1045
-#EXTINF:-1,MAV TV
-http://serviceinput.online:2999/universidad/universidad/965
-#EXTINF:-1,Me TV
-http://serviceinput.online:2999/universidad/universidad/744
-#EXTINF:-1,MLB Network
-http://serviceinput.online:2999/universidad/universidad/145
-#EXTINF:-1,Motor Trend
-http://serviceinput.online:2999/universidad/universidad/250
-#EXTINF:-1,MSG
-http://serviceinput.online:2999/universidad/universidad/287
-#EXTINF:-1,MSG 2
-http://serviceinput.online:2999/universidad/universidad/333
-#EXTINF:-1,MSNBC
-http://serviceinput.online:2999/universidad/universidad/143
-#EXTINF:-1,MTV
-http://serviceinput.online:2999/universidad/universidad/142
-#EXTINF:-1,MTV 2
-http://serviceinput.online:2999/universidad/universidad/354
-#EXTINF:-1,MTV Classics
-http://serviceinput.online:2999/universidad/universidad/1194
-#EXTINF:-1,MTV Live
-http://serviceinput.online:2999/universidad/universidad/1193
-#EXTINF:-1,MY 9
-http://serviceinput.online:2999/universidad/universidad/135
-#EXTINF:-1,Nat Geo
-http://serviceinput.online:2999/universidad/universidad/141
-#EXTINF:-1,Nat Geo Wild
-http://serviceinput.online:2999/universidad/universidad/140
-#EXTINF:-1,NBA TV
-http://serviceinput.online:2999/universidad/universidad/136
-#EXTINF:-1,NBC
-http://serviceinput.online:2999/universidad/universidad/139
-#EXTINF:-1,NBC Universo
-http://serviceinput.online:2999/universidad/universidad/329
-#EXTINF:-1,NBCSN
-http://serviceinput.online:2999/universidad/universidad/235
-#EXTINF:-1,NESN
-http://serviceinput.online:2999/universidad/universidad/890
-#EXTINF:-1,NewsMax
-http://serviceinput.online:2999/universidad/universidad/864
-#EXTINF:-1,NFL Network
-http://serviceinput.online:2999/universidad/universidad/234
-#EXTINF:-1,NFL Red Zone
-http://serviceinput.online:2999/universidad/universidad/260
-#EXTINF:-1,NHL Network
-http://serviceinput.online:2999/universidad/universidad/299
-#EXTINF:-1,Nick
-http://serviceinput.online:2999/universidad/universidad/327
-#EXTINF:-1,Nick Jr
-http://serviceinput.online:2999/universidad/universidad/351
-#EXTINF:-1,Nicktoons
-http://serviceinput.online:2999/universidad/universidad/1223
-#EXTINF:-1,One America News
-http://serviceinput.online:2999/universidad/universidad/1183
-#EXTINF:-1,Outdoor Channel
-http://serviceinput.online:2999/universidad/universidad/292
-#EXTINF:-1,Outside TV
-http://serviceinput.online:2999/universidad/universidad/357
-#EXTINF:-1,OWN
-http://serviceinput.online:2999/universidad/universidad/229
-#EXTINF:-1,Oxygen
-http://serviceinput.online:2999/universidad/universidad/228
-#EXTINF:-1,PAC-12 Arizona
-http://serviceinput.online:2999/universidad/universidad/892
-#EXTINF:-1,PAC-12 Bay Area
-http://serviceinput.online:2999/universidad/universidad/893
-#EXTINF:-1,PAC-12 Los Angeles
-http://serviceinput.online:2999/universidad/universidad/894
-#EXTINF:-1,PAC-12 Mountain
-http://serviceinput.online:2999/universidad/universidad/584
-#EXTINF:-1,PAC-12 Network
-http://serviceinput.online:2999/universidad/universidad/353
-#EXTINF:-1,PAC-12 Oregon
-http://serviceinput.online:2999/universidad/universidad/359
-#EXTINF:-1,PAC-12 Washington
-http://serviceinput.online:2999/universidad/universidad/1202
-#EXTINF:-1,Paramount
-http://serviceinput.online:2999/universidad/universidad/221
-#EXTINF:-1,PBS KIDS
-http://serviceinput.online:2999/universidad/universidad/227
-#EXTINF:-1,Pop
-http://serviceinput.online:2999/universidad/universidad/226
-#EXTINF:-1,Revolt
-http://serviceinput.online:2999/universidad/universidad/1006
-#EXTINF:-1,Sec Network
-http://serviceinput.online:2999/universidad/universidad/295
-#EXTINF:-1,Showtime
-http://serviceinput.online:2999/universidad/universidad/223
-#EXTINF:-1,Showtime 2
-http://serviceinput.online:2999/universidad/universidad/222
-#EXTINF:-1,Showtime Extreme
-http://serviceinput.online:2999/universidad/universidad/385
-#EXTINF:-1,Showtime Next
-http://serviceinput.online:2999/universidad/universidad/1187
-#EXTINF:-1,Smithsonian Channel
-http://serviceinput.online:2999/universidad/universidad/518
-#EXTINF:-1,SNY
-http://serviceinput.online:2999/universidad/universidad/330
-#EXTINF:-1,Sony Movies
-http://serviceinput.online:2999/universidad/universidad/1217
-#EXTINF:-1,Spectrum Sportsnet
-http://serviceinput.online:2999/universidad/universidad/873
-#EXTINF:-1,Starz
-http://serviceinput.online:2999/universidad/universidad/280
-#EXTINF:-1,Starz Black
-http://serviceinput.online:2999/universidad/universidad/397
-#EXTINF:-1,Starz Edge
-http://serviceinput.online:2999/universidad/universidad/444
-#EXTINF:-1,Starz Encore Western
-http://serviceinput.online:2999/universidad/universidad/649
-#EXTINF:-1,Sundance
-http://serviceinput.online:2999/universidad/universidad/215
-#EXTINF:-1,SyFy
-http://serviceinput.online:2999/universidad/universidad/214
-#EXTINF:-1,TBS
-http://serviceinput.online:2999/universidad/universidad/213
-#EXTINF:-1,TCM
-http://serviceinput.online:2999/universidad/universidad/352
-#EXTINF:-1,Telemundo
-http://serviceinput.online:2999/universidad/universidad/281
-#EXTINF:-1,Telemundo Chicago
-http://serviceinput.online:2999/universidad/universidad/443
-#EXTINF:-1,Telemundo NY
-http://serviceinput.online:2999/universidad/universidad/441
-#EXTINF:-1,Telemundo LA
-http://serviceinput.online:2999/universidad/universidad/361
-#EXTINF:-1,Telemundo Miami
-http://serviceinput.online:2999/universidad/universidad/334
-#EXTINF:-1,Telemundo Texas
-http://serviceinput.online:2999/universidad/universidad/1192
-#EXTINF:-1,Tennis Channel
-http://serviceinput.online:2999/universidad/universidad/244
-#EXTINF:-1,The CW 11
-http://serviceinput.online:2999/universidad/universidad/186
-#EXTINF:-1,The CW Network
-http://serviceinput.online:2999/universidad/universidad/1086
-#EXTINF:-1,The Weather Channel
-http://serviceinput.online:2999/universidad/universidad/301
-#EXTINF:-1,TLC
-http://serviceinput.online:2999/universidad/universidad/241
-#EXTINF:-1,TNT
-http://serviceinput.online:2999/universidad/universidad/240
-#EXTINF:-1,Travel Channel
-http://serviceinput.online:2999/universidad/universidad/239
-#EXTINF:-1,TruTV
-http://serviceinput.online:2999/universidad/universidad/238
-#EXTINF:-1,TV Land
-http://serviceinput.online:2999/universidad/universidad/300
-#EXTINF:-1,TV One
-http://serviceinput.online:2999/universidad/universidad/384
-#EXTINF:-1,TVG
-http://serviceinput.online:2999/universidad/universidad/332
-#EXTINF:-1,UFC Fight Pass
-http://serviceinput.online:2999/universidad/universidad/631
-#EXTINF:-1,UniMas Los Angeles
-http://serviceinput.online:2999/universidad/universidad/1079
-#EXTINF:-1,Universal Kids
-http://serviceinput.online:2999/universidad/universidad/252
-#EXTINF:-1,USA Network
-http://serviceinput.online:2999/universidad/universidad/251
-#EXTINF:-1,VH1
-http://serviceinput.online:2999/universidad/universidad/395
-#EXTINF:-1,Viceland
-http://serviceinput.online:2999/universidad/universidad/307
-#EXTINF:-1,WE TV
-http://serviceinput.online:2999/universidad/universidad/247
-#EXTINF:-1,World Fishing Network
-http://serviceinput.online:2999/universidad/universidad/382
-#EXTINF:-1,WWE
-http://serviceinput.online:2999/universidad/universidad/398
-#EXTINF:-1,Yes Network
-http://serviceinput.online:2999/universidad/universidad/245
-#EXTINF:-1,Univision
-http://serviceinput.online:2999/universidad/universidad/1244
-#EXTINF:-1,Starz Kids & Family (Test)
-http://serviceinput.online:2999/universidad/universidad/1248
-#EXTINF:-1,Starz Encore Suspense (Test)
-http://serviceinput.online:2999/universidad/universidad/1249
-#EXTINF:-1,Starz Cinema (Test)
-http://serviceinput.online:2999/universidad/universidad/1250
-#EXTINF:-1,Showtime Woman
-http://serviceinput.online:2999/universidad/universidad/1251
-#EXTINF:-1,Cinemax ActionMax (Test)
-http://serviceinput.online:2999/universidad/universidad/1252
-#EXTINF:-1,TVG 2
-http://serviceinput.online:2999/universidad/universidad/1253
-#EXTINF:-1,FOX Seattle
-http://serviceinput.online:2999/universidad/universidad/1256
-#EXTINF:-1,Blaze TV
-http://serviceinput.online:2999/universidad/universidad/1275
-#EXTINF:-1,People TV
-http://serviceinput.online:2999/universidad/universidad/1276
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39192.ts
+#EXTINF:-1,ActionMáx
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39193.ts
+#EXTINF:-1,Adventure Sports Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39194.ts
+#EXTINF:-1,AKC TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39195.ts
+#EXTINF:-1,AMERICAN HEROES CHANNEL
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39197.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39198.ts
+#EXTINF:-1,Animal Planet West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39199.ts
+#EXTINF:-1,Antenna TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39200.ts
+#EXTINF:-1,AT&T Sportsnet South West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39201.ts
+#EXTINF:-1,AWE A Wealth of Entertainment
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39202.ts
 #EXTINF:-1,AXS TV
-http://serviceinput.online:2999/universidad/universidad/1314
-#EXTINF:-1,NASA
-http://serviceinput.online:2999/universidad/universidad/1358
-#EXTINF:-1,Spydar TV
-http://serviceinput.online:2999/universidad/universidad/1406
-#EXTINF:-1,ABC Cleveland
-http://serviceinput.online:2999/universidad/universidad/975
-#EXTINF:-1,ABC Denver
-http://serviceinput.online:2999/universidad/universidad/966
-#EXTINF:-1,ABC Houston
-http://serviceinput.online:2999/universidad/universidad/714
-#EXTINF:-1,ABC Los Angeles
-http://serviceinput.online:2999/universidad/universidad/715
-#EXTINF:-1,ABC Miami
-http://serviceinput.online:2999/universidad/universidad/987
-#EXTINF:-1,ABC New York
-http://serviceinput.online:2999/universidad/universidad/727
-#EXTINF:-1,ABC Orlando
-http://serviceinput.online:2999/universidad/universidad/1042
-#EXTINF:-1,ABC Tampa Bay
-http://serviceinput.online:2999/universidad/universidad/1032
-#EXTINF:-1,CBS Albuquerque
-http://serviceinput.online:2999/universidad/universidad/1173
-#EXTINF:-1,CBS Cleveland
-http://serviceinput.online:2999/universidad/universidad/875
-#EXTINF:-1,CBS Denver
-http://serviceinput.online:2999/universidad/universidad/907
-#EXTINF:-1,CBS Houston
-http://serviceinput.online:2999/universidad/universidad/718
-#EXTINF:-1,CBS Jacksonville
-http://serviceinput.online:2999/universidad/universidad/807
-#EXTINF:-1,CBS Los Angeles
-http://serviceinput.online:2999/universidad/universidad/985
-#EXTINF:-1,CBS Miami
-http://serviceinput.online:2999/universidad/universidad/877
-#EXTINF:-1,CBS New Orleans
-http://serviceinput.online:2999/universidad/universidad/995
-#EXTINF:-1,CBS New York
-http://serviceinput.online:2999/universidad/universidad/719
-#EXTINF:-1,CBS Orlando
-http://serviceinput.online:2999/universidad/universidad/1041
-#EXTINF:-1,CBS Tampa Bay
-http://serviceinput.online:2999/universidad/universidad/1033
-#EXTINF:-1,FOX Alburquerque
-http://serviceinput.online:2999/universidad/universidad/1172
-#EXTINF:-1,FOX Cleveland
-http://serviceinput.online:2999/universidad/universidad/976
-#EXTINF:-1,FOX Denver
-http://serviceinput.online:2999/universidad/universidad/908
-#EXTINF:-1,FOX Houston
-http://serviceinput.online:2999/universidad/universidad/720
-#EXTINF:-1,FOX Jacksonville
-http://serviceinput.online:2999/universidad/universidad/902
-#EXTINF:-1,FOX Los Angeles
-http://serviceinput.online:2999/universidad/universidad/721
-#EXTINF:-1,FOX Miami
-http://serviceinput.online:2999/universidad/universidad/879
-#EXTINF:-1,FOX New York
-http://serviceinput.online:2999/universidad/universidad/728
-#EXTINF:-1,FOX Orlando
-http://serviceinput.online:2999/universidad/universidad/1040
-#EXTINF:-1,FOX Tampa Bay
-http://serviceinput.online:2999/universidad/universidad/1034
-#EXTINF:-1,NBC Alburquerque
-http://serviceinput.online:2999/universidad/universidad/1171
-#EXTINF:-1,NBC Cleveland
-http://serviceinput.online:2999/universidad/universidad/977
-#EXTINF:-1,NBC Denver
-http://serviceinput.online:2999/universidad/universidad/897
-#EXTINF:-1,NBC El Paso
-http://serviceinput.online:2999/universidad/universidad/1190
-#EXTINF:-1,NBC Houston
-http://serviceinput.online:2999/universidad/universidad/896
-#EXTINF:-1,NBC Jacksonville
-http://serviceinput.online:2999/universidad/universidad/903
-#EXTINF:-1,NBC Los Angeles
-http://serviceinput.online:2999/universidad/universidad/986
-#EXTINF:-1,NBC Miami
-http://serviceinput.online:2999/universidad/universidad/876
-#EXTINF:-1,NBC New York
-http://serviceinput.online:2999/universidad/universidad/729
-#EXTINF:-1,NBC Orlando
-http://serviceinput.online:2999/universidad/universidad/1043
-#EXTINF:-1,CBS West Palm Beach
-http://serviceinput.online:2999/universidad/universidad/1212
-#EXTINF:-1,Fox West Palm Beach
-http://serviceinput.online:2999/universidad/universidad/1213
-#EXTINF:-1,NBC West Palm Beach
-http://serviceinput.online:2999/universidad/universidad/1214
-#EXTINF:-1,FOX New Orleans
-http://serviceinput.online:2999/universidad/universidad/1225
-#EXTINF:-1,NBC New Orleans 
-http://serviceinput.online:2999/universidad/universidad/1226
-#EXTINF:-1,ABC Phoenix
-http://serviceinput.online:2999/universidad/universidad/1233
-#EXTINF:-1,CBS Phoenix
-http://serviceinput.online:2999/universidad/universidad/1234
-#EXTINF:-1,FOX Phoenix
-http://serviceinput.online:2999/universidad/universidad/1235
-#EXTINF:-1,NBC Phoenix
-http://serviceinput.online:2999/universidad/universidad/1236
-#EXTINF:-1,ABC Seattle
-http://serviceinput.online:2999/universidad/universidad/1254
-#EXTINF:-1,CBS Seattle
-http://serviceinput.online:2999/universidad/universidad/1255
-#EXTINF:-1,NBC Seattle
-http://serviceinput.online:2999/universidad/universidad/1257
-#EXTINF:-1,NBC Tampa
-http://serviceinput.online:2999/universidad/universidad/1327
-#EXTINF:-1,ABC Atlanta
-http://serviceinput.online:2999/universidad/universidad/1443
-#EXTINF:-1,CBS Atlanta
-http://serviceinput.online:2999/universidad/universidad/1444
-#EXTINF:-1,FOX Atlanta
-http://serviceinput.online:2999/universidad/universidad/1445
-#EXTINF:-1,NBC Atlanta
-http://serviceinput.online:2999/universidad/universidad/1446
-#EXTINF:-1,Worcester - WCCA TV 13
-http://serviceinput.online:2999/universidad/universidad/665
-#EXTINF:-1,Bally Sports Arizona
-http://serviceinput.online:2999/universidad/universidad/321
-#EXTINF:-1,Bally Sports Prime Ticket
-http://serviceinput.online:2999/universidad/universidad/326
-#EXTINF:-1,Bally Sports North
-http://serviceinput.online:2999/universidad/universidad/320
-#EXTINF:-1,Bally Sports Detroit
-http://serviceinput.online:2999/universidad/universidad/317
-#EXTINF:-1,Bally Sports San Diego
-http://serviceinput.online:2999/universidad/universidad/316
-#EXTINF:-1,Bally Sports West
-http://serviceinput.online:2999/universidad/universidad/315
-#EXTINF:-1,Bally Sports South
-http://serviceinput.online:2999/universidad/universidad/319
-#EXTINF:-1,Bally Sports Sun
-http://serviceinput.online:2999/universidad/universidad/322
-#EXTINF:-1,Bally Sports Midwest
-http://serviceinput.online:2999/universidad/universidad/324
-#EXTINF:-1,Bally Sports SouthWest
-http://serviceinput.online:2999/universidad/universidad/1189
-#EXTINF:-1,Bally Sports Tennessee
-http://serviceinput.online:2999/universidad/universidad/1207
-#EXTINF:-1,Bally Sports New Orleans
-http://serviceinput.online:2999/universidad/universidad/1222
-#EXTINF:-1,NBC Sports Bay Area
-http://serviceinput.online:2999/universidad/universidad/591
-#EXTINF:-1,NBC Sports Boston
-http://serviceinput.online:2999/universidad/universidad/590
-#EXTINF:-1,NBC Sports California
-http://serviceinput.online:2999/universidad/universidad/589
-#EXTINF:-1,NBC Sports Chicago
-http://serviceinput.online:2999/universidad/universidad/588
-#EXTINF:-1,NBC Sports Northwest
-http://serviceinput.online:2999/universidad/universidad/587
-#EXTINF:-1,NBC Sports Philadelphia
-http://serviceinput.online:2999/universidad/universidad/586
-#EXTINF:-1,NBC Sports Washington
-http://serviceinput.online:2999/universidad/universidad/585
-#EXTINF:-1,PR | Mega TV
-http://serviceinput.online:2999/universidad/universidad/124
-#EXTINF:-1,PR | Punto 2
-http://serviceinput.online:2999/universidad/universidad/262
-#EXTINF:-1,PR | Telemundo
-http://serviceinput.online:2999/universidad/universidad/125
-#EXTINF:-1,PR | WAPA
-http://serviceinput.online:2999/universidad/universidad/127
-#EXTINF:-1,PR | WAPA 2
-http://serviceinput.online:2999/universidad/universidad/128
-#EXTINF:-1,PR | WIPR
-http://serviceinput.online:2999/universidad/universidad/653
-#EXTINF:-1,PR | TeleOnce
-http://serviceinput.online:2999/universidad/universidad/126
-#EXTINF:-1,PR | La X 100.7 FM 
-http://serviceinput.online:2999/universidad/universidad/1268
-#EXTINF:-1,PR | WAPA SD
-http://serviceinput.online:2999/universidad/universidad/1334
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39203.ts
+#EXTINF:-1,BabyTV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39204.ts
+#EXTINF:-1,BBC America
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39205.ts
+#EXTINF:-1,BBC World News
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39206.ts
+#EXTINF:-1,beIN Sports 01
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39207.ts
+#EXTINF:-1,beIN Sports 02
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39208.ts
+#EXTINF:-1,beIN Sports 04
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39210.ts
+#EXTINF:-1,beIN Sports 05
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39211.ts
+#EXTINF:-1,beIN Sports 06
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39212.ts
+#EXTINF:-1,beIN Sports 07
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39213.ts
+#EXTINF:-1,beIN Sports 08
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39214.ts
+#EXTINF:-1,beIN Sports 11
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39216.ts
+#EXTINF:-1,beIN Sports 12
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39217.ts
+#EXTINF:-1,beIN Sports 13
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39218.ts
+#EXTINF:-1,beIN Sports N
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39219.ts
+#EXTINF:-1,BET
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39220.ts
+#EXTINF:-1,BET Her
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39221.ts
+#EXTINF:-1,BET Jams
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39222.ts
+#EXTINF:-1,BET Soul
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39223.ts
+#EXTINF:-1,Big Ten Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39225.ts
+#EXTINF:-1,Bloomberg
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39226.ts
+#EXTINF:-1,Boomerang
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39227.ts
+#EXTINF:-1,Bounce TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39228.ts
+#EXTINF:-1,BRAVO HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39229.ts
+#EXTINF:-1,Bravo West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39230.ts
+#EXTINF:-1,Buzzr
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39231.ts
+#EXTINF:-1,C-Span 1
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39232.ts
+#EXTINF:-1,C-Span 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39233.ts
+#EXTINF:-1,C-Span 3
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39234.ts
+#EXTINF:-1,CBS
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39236.ts
+#EXTINF:-1,CBS Sports Network HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39237.ts
+#EXTINF:-1,Cheddar
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39238.ts
+#EXTINF:-1,Cinema 01
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39239.ts
+#EXTINF:-1,Cinema 02
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39240.ts
+#EXTINF:-1,Cinema 03
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39241.ts
+#EXTINF:-1,Cinema 04
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39242.ts
+#EXTINF:-1,Cinema 05
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39243.ts
+#EXTINF:-1,Cinema 06
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39244.ts
+#EXTINF:-1,Cinema 07
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39245.ts
+#EXTINF:-1,Cinema 08
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39246.ts
+#EXTINF:-1,Cinema 09
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39247.ts
+#EXTINF:-1,Cinema 11
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39248.ts
+#EXTINF:-1,Cinema 12
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39249.ts
+#EXTINF:-1,Cinema 13
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39250.ts
+#EXTINF:-1,Cinema 14
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39251.ts
+#EXTINF:-1,Cinema 15
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39252.ts
+#EXTINF:-1,Cinema 16
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39253.ts
+#EXTINF:-1,Cinema 17
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39254.ts
+#EXTINF:-1,Cinema 18
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39255.ts
+#EXTINF:-1,Cinema 19
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39256.ts
+#EXTINF:-1,Cinema 20
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39257.ts
+#EXTINF:-1,Cinema 21
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39258.ts
+#EXTINF:-1,Cinema 22
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39259.ts
+#EXTINF:-1,Cinema 23
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39260.ts
+#EXTINF:-1,Cinema 24
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39261.ts
+#EXTINF:-1,Cinema 25
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39262.ts
+#EXTINF:-1,Cinema 26
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39263.ts
+#EXTINF:-1,Cinema 27
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39264.ts
+#EXTINF:-1,Cinema 28
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39265.ts
+#EXTINF:-1,Cinema 29
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39266.ts
+#EXTINF:-1,Cinema 30
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39267.ts
+#EXTINF:-1,Cinema 31
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39268.ts
+#EXTINF:-1,Cinema 32
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39269.ts
+#EXTINF:-1,Cinema 33
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39270.ts
+#EXTINF:-1,Cinema 34
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39271.ts
+#EXTINF:-1,Cinema 35
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39272.ts
+#EXTINF:-1,Cinema 36
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39273.ts
+#EXTINF:-1,Cinema 38
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39274.ts
+#EXTINF:-1,Cinema 39
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39275.ts
+#EXTINF:-1,Cinema 40
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39276.ts
+#EXTINF:-1,Cinema 41
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39277.ts
+#EXTINF:-1,Cinemáx East
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39278.ts
+#EXTINF:-1,CineMáx
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39279.ts
+#EXTINF:-1,CMT
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39280.ts
+#EXTINF:-1,CNBC
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39281.ts
+#EXTINF:-1,CNBC WORLD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39282.ts
+#EXTINF:-1,CNN HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39283.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39284.ts
+#EXTINF:-1,COMEDY CENTRAL West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39285.ts
+#EXTINF:-1,Comet
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39286.ts
+#EXTINF:-1,Cooking Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39287.ts
+#EXTINF:-1,Court TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39288.ts
+#EXTINF:-1,COZI TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39289.ts
+#EXTINF:-1,Destination America
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39290.ts
+#EXTINF:-1,Discovery Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39291.ts
+#EXTINF:-1,Discovery Family
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39292.ts
+#EXTINF:-1,Discovery Life
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39293.ts
+#EXTINF:-1,Discovery Science HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39294.ts
+#EXTINF:-1,Discovery West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39295.ts
+#EXTINF:-1,Disney Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39296.ts
+#EXTINF:-1,Disney XD HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39297.ts
+#EXTINF:-1,DIY Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39298.ts
+#EXTINF:-1,Dove
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39299.ts
+#EXTINF:-1,E!
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39300.ts
+#EXTINF:-1,E! West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39301.ts
+#EXTINF:-1,Eleven Sports
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39303.ts
+#EXTINF:-1,EPIX
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39304.ts
+#EXTINF:-1,EPIX 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39305.ts
+#EXTINF:-1,EPIX Drive-In
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39306.ts
+#EXTINF:-1,EPIX Hits
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39307.ts
+#EXTINF:-1,ESPN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39308.ts
+#EXTINF:-1,ESPN 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39309.ts
+#EXTINF:-1,ESPN DEPORTES
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39310.ts
+#EXTINF:-1,ESPN Goal Line
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39311.ts
+#EXTINF:-1,ESPN News
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39312.ts
+#EXTINF:-1,ESPN U
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39313.ts
+#EXTINF:-1,Food Network HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39314.ts
+#EXTINF:-1,Food Network West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39315.ts
+#EXTINF:-1,Fox Business
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39316.ts
+#EXTINF:-1,Fox College Sports - Atlantic
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39317.ts
+#EXTINF:-1,Fox College Sports - Central
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39318.ts
+#EXTINF:-1,Fox College Sports - Pacific
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39319.ts
+#EXTINF:-1,Fox Deportes
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39320.ts
+#EXTINF:-1,Fox News
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39322.ts
+#EXTINF:-1,Fox Soccer Plus
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39323.ts
+#EXTINF:-1,Fox Sports 1
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39324.ts
+#EXTINF:-1,Fox Sports 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39325.ts
+#EXTINF:-1,Fox Sports DETROIT
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39327.ts
+#EXTINF:-1,Fox Sports FLORIDA
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39328.ts
+#EXTINF:-1,Fox Sports MIDWEST
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39329.ts
+#EXTINF:-1,Fox Sports NEW ORLEANS
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39330.ts
+#EXTINF:-1,Fox Sports OHIO
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39332.ts
+#EXTINF:-1,Fox Sports OKLAHOMA
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39333.ts
+#EXTINF:-1,Fox Sports PRIME TICKET
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39334.ts
+#EXTINF:-1,Fox Sports SAN ANTONIO
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39335.ts
+#EXTINF:-1,Fox Sports SAN DIEGO
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39336.ts
+#EXTINF:-1,Fox Sports SOUTH
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39337.ts
+#EXTINF:-1,Fox Sports SOUTHEAST
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39338.ts
+#EXTINF:-1,Fox Sports SOUTHWEST
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39339.ts
+#EXTINF:-1,Fox Sports SHOWTIME OHIO
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39340.ts
+#EXTINF:-1,Fox Sports SUN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39341.ts
+#EXTINF:-1,Fox Sports TENNESSEE
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39342.ts
+#EXTINF:-1,Fox Sports WEST
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39343.ts
+#EXTINF:-1,Fox Sports WISCONSIN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39344.ts
+#EXTINF:-1,Freeform
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39345.ts
+#EXTINF:-1,Fuse
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39346.ts
+#EXTINF:-1,Fusion
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39347.ts
+#EXTINF:-1,FX
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39348.ts
+#EXTINF:-1,FXM
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39349.ts
+#EXTINF:-1,FXX
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39350.ts
+#EXTINF:-1,FYI
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39351.ts
+#EXTINF:-1,Get TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39352.ts
+#EXTINF:-1,GINX ESports
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39353.ts
+#EXTINF:-1,Golf Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39354.ts
+#EXTINF:-1,Gone Fishing
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39355.ts
+#EXTINF:-1,Great American Country
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39356.ts
+#EXTINF:-1,Grit TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39357.ts
+#EXTINF:-1,GSN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39358.ts
+#EXTINF:-1,H2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39359.ts
+#EXTINF:-1,Hallmark
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39360.ts
+#EXTINF:-1,Hallmark Drama
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39361.ts
+#EXTINF:-1,Hallmark Movies & Mysteries
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39362.ts
+#EXTINF:-1, HBO 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39363.ts
+#EXTINF:-1,HBO Comedy
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39364.ts
+#EXTINF:-1,HBO Family
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39365.ts
+#EXTINF:-1,HBO HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39366.ts
+#EXTINF:-1,HBO LATINO
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39367.ts
+#EXTINF:-1,HBO Signature
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39368.ts
+#EXTINF:-1,HBO Zone
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39369.ts
+#EXTINF:-1,Heroes & Icons
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39371.ts
+#EXTINF:-1,HGTV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39372.ts
+#EXTINF:-1,HGTV West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39373.ts
+#EXTINF:-1,HISTORY HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39374.ts
+#EXTINF:-1,HLN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39375.ts
+#EXTINF:-1,HSN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39377.ts
+#EXTINF:-1,Hunt Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39378.ts
+#EXTINF:-1,IFC
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39379.ts
+#EXTINF:-1,IndiePlex
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39380.ts
+#EXTINF:-1,INSP
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39381.ts
+#EXTINF:-1,Investigation Discovery
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39382.ts
+#EXTINF:-1,ION Television
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39383.ts
+#EXTINF:-1,LAFF TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39384.ts
+#EXTINF:-1,Law & Crime Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39385.ts
+#EXTINF:-1,Lifetime
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39386.ts
+#EXTINF:-1,Lifetime Movie Network HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39387.ts
+#EXTINF:-1,LOCAL NOW
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39388.ts
+#EXTINF:-1,Logo
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39389.ts
+#EXTINF:-1,MavTV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39390.ts
+#EXTINF:-1,Me TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39391.ts
+#EXTINF:-1,MLB Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39392.ts
+#EXTINF:-1,MoreMáx
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39393.ts
+#EXTINF:-1,Motor Trend SD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39394.ts
+#EXTINF:-1,Motor Trend HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39395.ts
+#EXTINF:-1,MovieMáx
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39396.ts
+#EXTINF:-1,MoviePlex
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39397.ts
+#EXTINF:-1,MSG 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39398.ts
+#EXTINF:-1,MSG 2 +
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39399.ts
+#EXTINF:-1,MSG
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39400.ts
+#EXTINF:-1,MSG+
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39401.ts
+#EXTINF:-1,MSNBC
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39402.ts
+#EXTINF:-1,MTV 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39403.ts
+#EXTINF:-1,MTV Classic
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39404.ts
+#EXTINF:-1,MTV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39405.ts
+#EXTINF:-1,MTV Live
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39406.ts
+#EXTINF:-1,Nat Geo Wild
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39407.ts
+#EXTINF:-1,National Geographic
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39408.ts
+#EXTINF:-1,NBC
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39410.ts
+#EXTINF:-1,NBC Universo
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39411.ts
+#EXTINF:-1,NBCSN Bay Area
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39412.ts
+#EXTINF:-1,NBCSN Boston
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39413.ts
+#EXTINF:-1,NBCSN Chicago
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39414.ts
+#EXTINF:-1,NBCSN Chicago+
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39415.ts
+#EXTINF:-1,NBCSN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39416.ts
+#EXTINF:-1,NBCSN Northwest
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39417.ts
+#EXTINF:-1,NBCSN Philadelphia
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39418.ts
+#EXTINF:-1,NBCSN Washington
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39419.ts
+#EXTINF:-1,NECN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39420.ts
+#EXTINF:-1,NESN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39421.ts
+#EXTINF:-1,NESN+
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39422.ts
+#EXTINF:-1,Newsy
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39423.ts
+#EXTINF:-1,NFL Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39424.ts
+#EXTINF:-1,NFL Redzone
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39425.ts
+#EXTINF:-1,NHL Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39426.ts
+#EXTINF:-1,Nick Music
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39427.ts
+#EXTINF:-1,Nickelodeon
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39428.ts
+#EXTINF:-1,Nicktoons
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39429.ts
+#EXTINF:-1,Olympic Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39430.ts
+#EXTINF:-1,One American Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39431.ts
+#EXTINF:-1,OUTDOOR Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39432.ts
+#EXTINF:-1,OuterMáx
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39433.ts
+#EXTINF:-1,Outside TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39434.ts
+#EXTINF:-1,OVATION
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39435.ts
+#EXTINF:-1,OWN TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39436.ts
+#EXTINF:-1,Oxygen
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39437.ts
+#EXTINF:-1,Oxygen West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39438.ts
+#EXTINF:-1,PAC-12 Arizona
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39439.ts
+#EXTINF:-1,PAC-12 Bay Area
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39440.ts
+#EXTINF:-1,PAC-12 Los Angeles
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39441.ts
+#EXTINF:-1,PAC-12 Mountain
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39442.ts
+#EXTINF:-1,PAC-12 National
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39443.ts
+#EXTINF:-1,PAC-12 Oregon
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39444.ts
+#EXTINF:-1,PAC-12 Washington
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39445.ts
+#EXTINF:-1,Paramount
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39446.ts
+#EXTINF:-1,PBS
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39447.ts
+#EXTINF:-1,PBS Kids
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39448.ts
+#EXTINF:-1,PixL
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39449.ts
+#EXTINF:-1,Pursuit
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39450.ts
+#EXTINF:-1,QVC
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39451.ts
+#EXTINF:-1,QVC 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39452.ts
+#EXTINF:-1,QVC 3
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39453.ts
+#EXTINF:-1,RED Bull TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39454.ts
+#EXTINF:-1,REELZ Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39455.ts
+#EXTINF:-1,REVOLT
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39457.ts
+#EXTINF:-1,RFD-TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39458.ts
+#EXTINF:-1,SEC Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39460.ts
+#EXTINF:-1,SHOWTIME 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39461.ts
+#EXTINF:-1,SHOWTIME Beyond
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39462.ts
+#EXTINF:-1,SHOWTIME Extreme
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39463.ts
+#EXTINF:-1,SHOWTIME Family Zone
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39464.ts
+#EXTINF:-1,SHOWTIME Next
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39466.ts
+#EXTINF:-1,SHOWTIME Showcase
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39467.ts
+#EXTINF:-1,SHOWTIME Women
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39468.ts
+#EXTINF:-1,SMITHSONIAN Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39469.ts
+#EXTINF:-1,SNY
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39470.ts
+#EXTINF:-1,SONY Movie Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39471.ts
+#EXTINF:-1,SPECTRUM Sportsnet
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39472.ts
+#EXTINF:-1,SPORTSMAN Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39473.ts
+#EXTINF:-1,SPORTSNET 360
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39474.ts
+#EXTINF:-1,SPORTSNET LA
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39475.ts
+#EXTINF:-1,SPORTSNET One
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39476.ts
+#EXTINF:-1,SPORTSNET Ontario
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39477.ts
+#EXTINF:-1,SPORTSNET West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39478.ts
+#EXTINF:-1,SPORTSNET World
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39479.ts
+#EXTINF:-1,STADIUM 1
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39480.ts
+#EXTINF:-1,STADIUM 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39481.ts
+#EXTINF:-1,STADIUM 3
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39482.ts
+#EXTINF:-1,STADIUM Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39483.ts
+#EXTINF:-1,STADIUM Overflow 1
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39484.ts
+#EXTINF:-1,START TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39485.ts
+#EXTINF:-1,STARZ Comedy
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39488.ts
+#EXTINF:-1,STARZ Edge
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39489.ts
+#EXTINF:-1,STARZ Encore
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39490.ts
+#EXTINF:-1,STARZ Encore Action
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39491.ts
+#EXTINF:-1,STARZ Encore Black
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39492.ts
+#EXTINF:-1,STARZ Encore Classic
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39493.ts
+#EXTINF:-1,STARZ Encore Español
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39494.ts
+#EXTINF:-1,STARZ Encore Family
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39495.ts
+#EXTINF:-1,STARZ Encore Suspense
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39496.ts
+#EXTINF:-1,STARZ West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39497.ts
+#EXTINF:-1,STARZ Encore Western
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39498.ts
+#EXTINF:-1,STARZ in Black
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39499.ts
+#EXTINF:-1,STARZ Kids & Family
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39500.ts
+#EXTINF:-1,Sundance TV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39501.ts
+#EXTINF:-1,SYFY HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39502.ts
+#EXTINF:-1,SYFY West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39503.ts
+#EXTINF:-1,TASTEMADE
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39504.ts
+#EXTINF:-1,TBS
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39505.ts
+#EXTINF:-1,TeenNick
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39506.ts
+#EXTINF:-1,TELEMUNDO
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39507.ts
+#EXTINF:-1,TELEMUNDO - LAS Vegas (KBLR)
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39508.ts
+#EXTINF:-1,TELEMUNDO - 51 Miami (WSCV)
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39509.ts
+#EXTINF:-1,TELEMUNDO - Denver 25 (KDEN)
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39510.ts
+#EXTINF:-1,TELEMUNDO - Sacramento 3 (KCSO)
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39511.ts
+#EXTINF:-1,TENNIS Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39512.ts
+#EXTINF:-1,BLAZE Media
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39513.ts
+#EXTINF:-1,THE Cowboy Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39514.ts
+#EXTINF:-1,THE CW Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39515.ts
+#EXTINF:-1,THE FIGHT Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39516.ts
+#EXTINF:-1,THE Longhorn Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39517.ts
+#EXTINF:-1,THE Weather Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39518.ts
+#EXTINF:-1,THE Word Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39519.ts
+#EXTINF:-1,ThrillerMáx
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39520.ts
+#EXTINF:-1,TLC
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39521.ts
+#EXTINF:-1,TNT
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39522.ts
+#EXTINF:-1,TRAVEL Channel
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39523.ts
+#EXTINF:-1,TRAVEL Channel West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39524.ts
+#EXTINF:-1,TruTV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39525.ts
+#EXTINF:-1,TSN 1
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39526.ts
+#EXTINF:-1,TSN 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39527.ts
+#EXTINF:-1,TSN 3
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39528.ts
+#EXTINF:-1,TSN 4
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39529.ts
+#EXTINF:-1,TSN 5
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39530.ts
+#EXTINF:-1,TUDN
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39531.ts
+#EXTINF:-1,TV Land
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39532.ts
+#EXTINF:-1,TV One
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39533.ts
+#EXTINF:-1,TVG Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39535.ts
+#EXTINF:-1,TVG Network 2
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39536.ts
+#EXTINF:-1,TYT Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39537.ts
+#EXTINF:-1,Unimas
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39538.ts
+#EXTINF:-1,UNIVERSAL Kids
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39539.ts
+#EXTINF:-1,Univision
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39540.ts
+#EXTINF:-1,USA Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39541.ts
+#EXTINF:-1,USA Network West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39542.ts
+#EXTINF:-1,VH1 HD
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39543.ts
+#EXTINF:-1,VICELAND
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39544.ts
+#EXTINF:-1,WAPA America
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39545.ts
+#EXTINF:-1,WETV
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39546.ts
+#EXTINF:-1,WGN America
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39547.ts
+#EXTINF:-1,WILLOW Cricket
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39548.ts
+#EXTINF:-1,WORLD Fishing Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39549.ts
+#EXTINF:-1,YES Network
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39551.ts
+#EXTINF:-1,ZONA Futbol
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39552.ts
+#EXTINF:-1,BALLY Sports Arizona
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/678507.ts
+#EXTINF:-1,BALLY Sports Carolinas
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/678508.ts
+#EXTINF:-1,BALLY Sports Detroit
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/678509.ts
+#EXTINF:-1,BALLY Sports Midwest
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/678510.ts
+#EXTINF:-1,BALLY Sports North
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/678511.ts
+#EXTINF:-1,BALLY Sports West
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/678512.ts
