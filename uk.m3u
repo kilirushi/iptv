@@ -1,325 +1,139 @@
 #EXTM3U
-#EXTINF:-1,BBC ONE FHD
-http://sofadad.co.uk:80/Kirby/Kirby/560
-#EXTINF:-1,BBC TWO FHD
-http://sofadad.co.uk:80/Kirby/Kirby/561
-#EXTINF:-1,ITV HD
-http://sofadad.co.uk:80/Kirby/Kirby/305
-#EXTINF:-1,Channel 4 HD
-http://sofadad.co.uk:80/Kirby/Kirby/332
-#EXTINF:-1,Channel 5 HD
-http://sofadad.co.uk:80/Kirby/Kirby/329
-#EXTINF:-1,Sky One HD
-http://sofadad.co.uk:80/Kirby/Kirby/269
-#EXTINF:-1,Sky Atlantic HD
-http://sofadad.co.uk:80/Kirby/Kirby/275
-#EXTINF:-1,Sky Witness HD
-http://sofadad.co.uk:80/Kirby/Kirby/266
-#EXTINF:-1,SKY Comedy HD
-http://sofadad.co.uk:80/Kirby/Kirby/209269
-#EXTINF:-1,Sky Replay
-http://sofadad.co.uk:80/Kirby/Kirby/348
-#EXTINF:-1,Sky Crime HD
-http://sofadad.co.uk:80/Kirby/Kirby/257
-#EXTINF:-1,Comedy Central HD
-http://sofadad.co.uk:80/Kirby/Kirby/326
-#EXTINF:-1,Comedy Xtra
-http://sofadad.co.uk:80/Kirby/Kirby/323
-#EXTINF:-1,Fox HD
-http://sofadad.co.uk:80/Kirby/Kirby/313
-#EXTINF:-1,Gold HD
-http://sofadad.co.uk:80/Kirby/Kirby/310
-#EXTINF:-1,ITV2 HD
-http://sofadad.co.uk:80/Kirby/Kirby/302
-#EXTINF:-1,ITV3 HD
-http://sofadad.co.uk:80/Kirby/Kirby/299
-#EXTINF:-1,ITV4 HD
-http://sofadad.co.uk:80/Kirby/Kirby/296
-#EXTINF:-1,ITVBe HD
-http://sofadad.co.uk:80/Kirby/Kirby/293
-#EXTINF:-1,E! Entertainment FHD
-http://sofadad.co.uk:80/Kirby/Kirby/318
-#EXTINF:-1,E4 HD
-http://sofadad.co.uk:80/Kirby/Kirby/316
-#EXTINF:-1,Lifetime 
-http://sofadad.co.uk:80/Kirby/Kirby/245
-#EXTINF:-1,Paramount Network HD
-http://sofadad.co.uk:80/Kirby/Kirby/287
-#EXTINF:-1,5 USA
-http://sofadad.co.uk:80/Kirby/Kirby/344
-#EXTINF:-1,SYFY HD
-http://sofadad.co.uk:80/Kirby/Kirby/250
-#EXTINF:-1,TLC HD
-http://sofadad.co.uk:80/Kirby/Kirby/262
-#EXTINF:-1,W HD
-http://sofadad.co.uk:80/Kirby/Kirby/254
-#EXTINF:-1,Showcase 
-http://sofadad.co.uk:80/Kirby/Kirby/36082
-#EXTINF:-1,5 Select
-http://sofadad.co.uk:80/Kirby/Kirby/341
-#EXTINF:-1,Blaze
-http://sofadad.co.uk:80/Kirby/Kirby/6480
-#EXTINF:-1,Alibi HD
-http://sofadad.co.uk:80/Kirby/Kirby/340
-#EXTINF:-1,4Seven HD
-http://sofadad.co.uk:80/Kirby/Kirby/347
-#EXTINF:-1,London Live
-http://sofadad.co.uk:80/Kirby/Kirby/349
-#EXTINF:-1,Sony Channel
-http://sofadad.co.uk:80/Kirby/Kirby/260
-#EXTINF:-1,Sony Crime
-http://sofadad.co.uk:80/Kirby/Kirby/263
-#EXTINF:-1,5 Star
-http://sofadad.co.uk:80/Kirby/Kirby/343
-#EXTINF:-1,Court Tv
-http://sofadad.co.uk:80/Kirby/Kirby/244
-#EXTINF:-1,BBC Four HD
-http://sofadad.co.uk:80/Kirby/Kirby/11254
+#EXTINF:-1,Bbc 1 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15478
+#EXTINF:-1,Bbc 2 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15477
+#EXTINF:-1,Cbbc HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15468
 #EXTINF:-1,CBS Drama
-http://sofadad.co.uk:80/Kirby/Kirby/336
-#EXTINF:-1,CBS Justice
-http://sofadad.co.uk:80/Kirby/Kirby/335
-#EXTINF:-1,CBS Reality
-http://sofadad.co.uk:80/Kirby/Kirby/334
-#EXTINF:-1,Sky Arts HD
-http://sofadad.co.uk:80/Kirby/Kirby/278
-#EXTINF:-1,Quest Red
-http://sofadad.co.uk:80/Kirby/Kirby/6481
-#EXTINF:-1,Quest FHD
-http://sofadad.co.uk:80/Kirby/Kirby/6141
-#EXTINF:-1,Challenge
-http://sofadad.co.uk:80/Kirby/Kirby/333
-#EXTINF:-1,Dave HD
-http://sofadad.co.uk:80/Kirby/Kirby/322
-#EXTINF:-1,Drama
-http://sofadad.co.uk:80/Kirby/Kirby/319
-#EXTINF:-1,More4 HD
-http://sofadad.co.uk:80/Kirby/Kirby/290
-#EXTINF:-1,Pick
-http://sofadad.co.uk:80/Kirby/Kirby/284
-#EXTINF:-1,Really
-http://sofadad.co.uk:80/Kirby/Kirby/282
-#EXTINF:-1, Forces Tv 
-http://sofadad.co.uk:80/Kirby/Kirby/283
-#EXTINF:-1,DMAX
-http://sofadad.co.uk:80/Kirby/Kirby/77336
-#EXTINF:-1,PBS America
-http://sofadad.co.uk:80/Kirby/Kirby/6182
-#EXTINF:-1,Yesterday
-http://sofadad.co.uk:80/Kirby/Kirby/306
-#EXTINF:-1,TOGETHER
-http://sofadad.co.uk:80/Kirby/Kirby/337
-#EXTINF:-1,LIVE 360
-http://sofadad.co.uk:80/Kirby/Kirby/186673
-#EXTINF:-1,Channel 7
-http://sofadad.co.uk:80/Kirby/Kirby/211647
-#EXTINF:-1,GOD Channel
-http://sofadad.co.uk:80/Kirby/Kirby/280
-#EXTINF:-1,Sky Sports Main Event
-http://sofadad.co.uk:80/Kirby/Kirby/22
-#EXTINF:-1,Sky Sports Premier League
-http://sofadad.co.uk:80/Kirby/Kirby/31
-#EXTINF:-1,Sky Sports Football
-http://sofadad.co.uk:80/Kirby/Kirby/16
-#EXTINF:-1,Sky Sports Action
-http://sofadad.co.uk:80/Kirby/Kirby/4
-#EXTINF:-1,Sky Sports Arena
-http://sofadad.co.uk:80/Kirby/Kirby/7
-#EXTINF:-1,Sky Sports Cricket
-http://sofadad.co.uk:80/Kirby/Kirby/10
-#EXTINF:-1,Sky Sports F1
-http://sofadad.co.uk:80/Kirby/Kirby/13
-#EXTINF:-1,Sky Sports Golf
-http://sofadad.co.uk:80/Kirby/Kirby/19
-#EXTINF:-1,Sky Sports Mix
-http://sofadad.co.uk:80/Kirby/Kirby/25
-#EXTINF:-1,Sky Sports News
-http://sofadad.co.uk:80/Kirby/Kirby/28
-#EXTINF:-1,Sky Sports Racing
-http://sofadad.co.uk:80/Kirby/Kirby/34
-#EXTINF:-1,BT Sport 1
-http://sofadad.co.uk:80/Kirby/Kirby/37
-#EXTINF:-1,BT Sport 2
-http://sofadad.co.uk:80/Kirby/Kirby/554
-#EXTINF:-1,BT Sport 3
-http://sofadad.co.uk:80/Kirby/Kirby/43
-#EXTINF:-1,BT Sport ESPN
-http://sofadad.co.uk:80/Kirby/Kirby/46
-#EXTINF:-1,Sky Sports Main Event HD
-http://sofadad.co.uk:80/Kirby/Kirby/6361
-#EXTINF:-1,Sky Sports Premier League HD
-http://sofadad.co.uk:80/Kirby/Kirby/6359
-#EXTINF:-1,Sky Sports Football HD
-http://sofadad.co.uk:80/Kirby/Kirby/6363
-#EXTINF:-1,Sky Sports NFL HD
-http://sofadad.co.uk:80/Kirby/Kirby/6367
-#EXTINF:-1,Sky Sports Arena HD
-http://sofadad.co.uk:80/Kirby/Kirby/6366
-#EXTINF:-1,Sky Sports Golf HD
-http://sofadad.co.uk:80/Kirby/Kirby/6362
-#EXTINF:-1,Sky Sports Cricket HD
-http://sofadad.co.uk:80/Kirby/Kirby/6365
-#EXTINF:-1,Sky Sports F1 HD
-http://sofadad.co.uk:80/Kirby/Kirby/6364
-#EXTINF:-1,Sky Sports Mix HD
-http://sofadad.co.uk:80/Kirby/Kirby/6360
-#EXTINF:-1,Sky Sports Racing HD
-http://sofadad.co.uk:80/Kirby/Kirby/6371
-#EXTINF:-1,Sky Sports News HD
-http://sofadad.co.uk:80/Kirby/Kirby/6372
-#EXTINF:-1,BT Sport 1 HD
-http://sofadad.co.uk:80/Kirby/Kirby/6373
-#EXTINF:-1,BT Sport 2 HD
-http://sofadad.co.uk:80/Kirby/Kirby/6370
-#EXTINF:-1,BT Sport 3 HD
-http://sofadad.co.uk:80/Kirby/Kirby/6369
-#EXTINF:-1,BT Sport ESPN HD
-http://sofadad.co.uk:80/Kirby/Kirby/6368
-#EXTINF:-1,SPORTYSTUFF TV
-http://sofadad.co.uk:80/Kirby/Kirby/5501
-#EXTINF:-1,BT Sport Boxnation
-http://sofadad.co.uk:80/Kirby/Kirby/382
-#EXTINF:-1,Racing TV FHD
-http://sofadad.co.uk:80/Kirby/Kirby/353
-#EXTINF:-1,Racing.com
-http://sofadad.co.uk:80/Kirby/Kirby/82542
-#EXTINF:-1,MUTV HD
-http://sofadad.co.uk:80/Kirby/Kirby/350
-#EXTINF:-1,LFC TV HD
-http://sofadad.co.uk:80/Kirby/Kirby/369
-#EXTINF:-1,Premier 1 HD
-http://sofadad.co.uk:80/Kirby/Kirby/377
-#EXTINF:-1,Premier 2 HD
-http://sofadad.co.uk:80/Kirby/Kirby/375
-#EXTINF:-1,LaLiga TV FHD
-http://sofadad.co.uk:80/Kirby/Kirby/6357
-#EXTINF:-1,Betfred-TV
-http://sofadad.co.uk:80/Kirby/Kirby/6358
-#EXTINF:-1,WWE Network HD
-http://sofadad.co.uk:80/Kirby/Kirby/8130
-#EXTINF:-1,UFC FIGHT NETWORK
-http://sofadad.co.uk:80/Kirby/Kirby/11256
-#EXTINF:-1,Freesports HD
-http://sofadad.co.uk:80/Kirby/Kirby/366
-#EXTINF:-1,Fightbox TV
-http://sofadad.co.uk:80/Kirby/Kirby/184551
-#EXTINF:-1,Sky Premiere HD
-http://sofadad.co.uk:80/Kirby/Kirby/414
-#EXTINF:-1,Sky Comedy HD
-http://sofadad.co.uk:80/Kirby/Kirby/394
-#EXTINF:-1,Sky Cinema Animation HD
-http://sofadad.co.uk:80/Kirby/Kirby/11257
-#EXTINF:-1,Sky Drama HD
-http://sofadad.co.uk:80/Kirby/Kirby/402
-#EXTINF:-1,Sky Family HD
-http://sofadad.co.uk:80/Kirby/Kirby/405
-#EXTINF:-1,Sky Greats HD
-http://sofadad.co.uk:80/Kirby/Kirby/408
-#EXTINF:-1,Sky Hits HD
-http://sofadad.co.uk:80/Kirby/Kirby/411
-#EXTINF:-1,Sky SciFi/Horror HD
-http://sofadad.co.uk:80/Kirby/Kirby/417
-#EXTINF:-1,Sky Thriller HD
-http://sofadad.co.uk:80/Kirby/Kirby/420
-#EXTINF:-1,Sky Select HD
-http://sofadad.co.uk:80/Kirby/Kirby/396
-#EXTINF:-1,SKY Action HD
-http://sofadad.co.uk:80/Kirby/Kirby/391
-#EXTINF:-1,ROK TV
-http://sofadad.co.uk:80/Kirby/Kirby/186672
-#EXTINF:-1,Film4 FHD
-http://sofadad.co.uk:80/Kirby/Kirby/390
-#EXTINF:-1,TCM 
-http://sofadad.co.uk:80/Kirby/Kirby/6183
-#EXTINF:-1,Horror Channel
-http://sofadad.co.uk:80/Kirby/Kirby/6184
-#EXTINF:-1,Sony Movies
-http://sofadad.co.uk:80/Kirby/Kirby/385
-#EXTINF:-1,Sony Movies Action
-http://sofadad.co.uk:80/Kirby/Kirby/383
-#EXTINF:-1,Sony Movies Classic
-http://sofadad.co.uk:80/Kirby/Kirby/11261
-#EXTINF:-1,Talking Pictures
-http://sofadad.co.uk:80/Kirby/Kirby/6192
-#EXTINF:-1,SKY Store PreOrder 
-http://sofadad.co.uk:80/Kirby/Kirby/19418
-#EXTINF:-1,SKY Store PreOrder Kids
-http://sofadad.co.uk:80/Kirby/Kirby/19417
-#EXTINF:-1,SKY STORE 1
-http://sofadad.co.uk:80/Kirby/Kirby/203986
-#EXTINF:-1,SKY STORE 2
-http://sofadad.co.uk:80/Kirby/Kirby/204163
-#EXTINF:-1,SKY STORE 3
-http://sofadad.co.uk:80/Kirby/Kirby/203987
-#EXTINF:-1,MOVIES 24
-http://sofadad.co.uk:80/Kirby/Kirby/203988
+http://local.satrestream.com:8080/emirdag/emirdag123/15449
+#EXTINF:-1,Channel 4 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15472
+#EXTINF:-1,Channel 5 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15471
+#EXTINF:-1,CNN INTERNAIONAL HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15446
+#EXTINF:-1,Itv 1 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15476
+#EXTINF:-1,Itv 2 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15475
+#EXTINF:-1,Itv 3 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15474
+#EXTINF:-1,Itv 4 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15473
+#EXTINF:-1,Rte 1 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15470
+#EXTINF:-1,Rte 2 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15469
+#EXTINF:-1,RTE News
+http://local.satrestream.com:8080/emirdag/emirdag123/15463
+#EXTINF:-1,Spike
+http://local.satrestream.com:8080/emirdag/emirdag123/15456
+#EXTINF:-1,Tlc HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15454
+#EXTINF:-1,5 Star
+http://local.satrestream.com:8080/emirdag/emirdag123/15466
 #EXTINF:-1,Baby TV
-http://sofadad.co.uk:80/Kirby/Kirby/440
-#EXTINF:-1,Boomerang HD
-http://sofadad.co.uk:80/Kirby/Kirby/438
+http://local.satrestream.com:8080/emirdag/emirdag123/15462
+#EXTINF:-1,BBC Earth
+http://local.satrestream.com:8080/emirdag/emirdag123/15447
 #EXTINF:-1,Cartoon Network HD
-http://sofadad.co.uk:80/Kirby/Kirby/437
-#EXTINF:-1,Nick Jr FHD
-http://sofadad.co.uk:80/Kirby/Kirby/428
-#EXTINF:-1,Nick Jr Too
-http://sofadad.co.uk:80/Kirby/Kirby/427
-#EXTINF:-1, Nickelodeon HD
-http://sofadad.co.uk:80/Kirby/Kirby/426
-#EXTINF:-1,Nicktoons
-http://sofadad.co.uk:80/Kirby/Kirby/425
-#EXTINF:-1,Cartoonito
-http://sofadad.co.uk:80/Kirby/Kirby/436
-#EXTINF:-1,CBBC HD
-http://sofadad.co.uk:80/Kirby/Kirby/435
-#EXTINF:-1,CBeebies FHD
-http://sofadad.co.uk:80/Kirby/Kirby/434
-#EXTINF:-1,CITV
-http://sofadad.co.uk:80/Kirby/Kirby/433
-#EXTINF:-1,Pop
-http://sofadad.co.uk:80/Kirby/Kirby/80241
-#EXTINF:-1,Tiny Pop
-http://sofadad.co.uk:80/Kirby/Kirby/422
-#EXTINF:-1,Pop Max
-http://sofadad.co.uk:80/Kirby/Kirby/424
-#EXTINF:-1,DISNEY CHANNEL
-http://sofadad.co.uk:80/Kirby/Kirby/213742
-#EXTINF:-1,Disney JUNIOR
-http://sofadad.co.uk:80/Kirby/Kirby/213743
-#EXTINF:-1,DISNEY XD
-http://sofadad.co.uk:80/Kirby/Kirby/213744
-#EXTINF:-1,Sky Documentaries HD
-http://sofadad.co.uk:80/Kirby/Kirby/82539
-#EXTINF:-1,SKY History HD
-http://sofadad.co.uk:80/Kirby/Kirby/172295
-#EXTINF:-1,Sky Nature HD
-http://sofadad.co.uk:80/Kirby/Kirby/82541
-#EXTINF:-1,Discovery Channel HD 
-http://sofadad.co.uk:80/Kirby/Kirby/450
+http://local.satrestream.com:8080/emirdag/emirdag123/15461
+#EXTINF:-1,Comedy Central Extra
+http://local.satrestream.com:8080/emirdag/emirdag123/15451
+#EXTINF:-1,Comedy Central HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15450
+#EXTINF:-1,Crime Investigation HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15445
+#EXTINF:-1,Dave
+http://local.satrestream.com:8080/emirdag/emirdag123/15465
+#EXTINF:-1,Discovery HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15437
 #EXTINF:-1,Discovery History
-http://sofadad.co.uk:80/Kirby/Kirby/449
+http://local.satrestream.com:8080/emirdag/emirdag123/15440
 #EXTINF:-1,Discovery Science
-http://sofadad.co.uk:80/Kirby/Kirby/448
+http://local.satrestream.com:8080/emirdag/emirdag123/15439
 #EXTINF:-1,Discovery Turbo
-http://sofadad.co.uk:80/Kirby/Kirby/446
-#EXTINF:-1,Eden UK
-http://sofadad.co.uk:80/Kirby/Kirby/445
-#EXTINF:-1,Crime & Investigation
-http://sofadad.co.uk:80/Kirby/Kirby/442
-#EXTINF:-1,Food Network HD
-http://sofadad.co.uk:80/Kirby/Kirby/82540
-#EXTINF:-1,H2 FHD
-http://sofadad.co.uk:80/Kirby/Kirby/453
-#EXTINF:-1,Investigation Discovery
-http://sofadad.co.uk:80/Kirby/Kirby/451
-#EXTINF:-1,National Geographic HD
-http://sofadad.co.uk:80/Kirby/Kirby/6189
-#EXTINF:-1,National Geographic Wild HD
-http://sofadad.co.uk:80/Kirby/Kirby/454
-#EXTINF:-1,Animal Planet 
-http://sofadad.co.uk:80/Kirby/Kirby/455
-#EXTINF:-1,HGTV
-http://sofadad.co.uk:80/Kirby/Kirby/183931
-#EXTINF:-1,NBCSN HD
-http://sofadad.co.uk:80/Kirby/Kirby/468
-#EXTINF:-1,NBCSN FHD
-http://sofadad.co.uk:80/Kirby/Kirby/474
+http://local.satrestream.com:8080/emirdag/emirdag123/15438
+#EXTINF:-1,Disney Channel HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15459
+#EXTINF:-1,Disney XD
+http://local.satrestream.com:8080/emirdag/emirdag123/15460
+#EXTINF:-1,Fox HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15453
+#EXTINF:-1,Gold
+http://local.satrestream.com:8080/emirdag/emirdag123/15464
+#EXTINF:-1,H2
+http://local.satrestream.com:8080/emirdag/emirdag123/15457
+#EXTINF:-1,History HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15443
+#EXTINF:-1,Home & Health
+http://local.satrestream.com:8080/emirdag/emirdag123/15444
+#EXTINF:-1,MTV Base
+http://local.satrestream.com:8080/emirdag/emirdag123/15436
+#EXTINF:-1,MTV Hits
+http://local.satrestream.com:8080/emirdag/emirdag123/15435
+#EXTINF:-1,Nat Geo HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15441
+#EXTINF:-1,Nat Geo Wild HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15442
+#EXTINF:-1,Nickelodeon HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15458
+#EXTINF:-1,Sky Arts HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15425
+#EXTINF:-1,Sky Cinema Action HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15433
+#EXTINF:-1,Sky Cinema Comedy HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15432
+#EXTINF:-1,Sky Cinema Disney HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15431
+#EXTINF:-1,Sky Cinema Drama & Romance HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15430
+#EXTINF:-1,Sky Cinema Family HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15429
+#EXTINF:-1,Sky Cinema Modern Greats HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15428
+#EXTINF:-1,Sky Cinema Premier HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15434
+#EXTINF:-1,Sky Cinema Sci Fi & Horror HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15427
+#EXTINF:-1,Sky Cinema Thriller HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15426
+#EXTINF:-1,Box Nation HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15418
+#EXTINF:-1,BT Sport 1 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15414
+#EXTINF:-1,BT Sport 2 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15413
+#EXTINF:-1,BT Sport 3 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15412
+#EXTINF:-1,BT Sport ESPN HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15415
+#EXTINF:-1,E! HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15455
+#EXTINF:-1,E4
+http://local.satrestream.com:8080/emirdag/emirdag123/15467
+#EXTINF:-1,Premier Sports 2
+http://local.satrestream.com:8080/emirdag/emirdag123/15419
+#EXTINF:-1,Premier Sports HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15420
+#EXTINF:-1,Sky News HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15448
+#EXTINF:-1,Sky Sports Action HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15408
+#EXTINF:-1,Sky Sports Arena HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15407
+#EXTINF:-1,Sky Sports Cricket HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15406
+#EXTINF:-1,Sky Sports F1 HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15404
+#EXTINF:-1,Sky Sports Football HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15405
+#EXTINF:-1,Sky Sports Main Event HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15409
+#EXTINF:-1,Sky Sports News HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15411
+#EXTINF:-1,Sky Sports Premier League HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15410
+#EXTINF:-1,Universal HD
+http://local.satrestream.com:8080/emirdag/emirdag123/15452
