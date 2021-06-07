@@ -1,339 +1,179 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19312
-#EXTINF:-1,NPO 1 EXTRA
-http://local.satrestream.com:8080/emirdag/emirdag123/19375
-#EXTINF:-1,NPO 2 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19313
-#EXTINF:-1,NPO 2 EXTRA
-http://local.satrestream.com:8080/emirdag/emirdag123/19376
-#EXTINF:-1,NPO 3 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19314
-#EXTINF:-1,NPO NIEUWS
-http://local.satrestream.com:8080/emirdag/emirdag123/19373
-#EXTINF:-1,NPO POLITIEK
-http://local.satrestream.com:8080/emirdag/emirdag123/19374
-#EXTINF:-1,RTL 4 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19315
-#EXTINF:-1,RTL 5 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19316
-#EXTINF:-1,RTL 7 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19318
-#EXTINF:-1,NET 5 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19321
-#EXTINF:-1,RTL 8 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19319
-#EXTINF:-1,RTL CRIME
-http://local.satrestream.com:8080/emirdag/emirdag123/19329
-#EXTINF:-1,RTL LOUNGE HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19328
-#EXTINF:-1,RTL Z
-http://local.satrestream.com:8080/emirdag/emirdag123/19323
-#EXTINF:-1,RTV OOST
-http://local.satrestream.com:8080/emirdag/emirdag123/19342
-#EXTINF:-1,SBS 6 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19317
-#EXTINF:-1,SBS 9 
-http://local.satrestream.com:8080/emirdag/emirdag123/19320
-#EXTINF:-1,SLAM TV
-http://local.satrestream.com:8080/emirdag/emirdag123/19391
-#EXTINF:-1,SPIKE
-http://local.satrestream.com:8080/emirdag/emirdag123/19324
-#EXTINF:-1,STINGRAY
-http://local.satrestream.com:8080/emirdag/emirdag123/19386
-#EXTINF:-1,TLC NL HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19326
-#EXTINF:-1,TV 538
-http://local.satrestream.com:8080/emirdag/emirdag123/19390
-#EXTINF:-1,TV NOORD
-http://local.satrestream.com:8080/emirdag/emirdag123/19343
-#EXTINF:-1,VICELAND HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19330
-#EXTINF:-1,24 KITCHEN HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19331
-#EXTINF:-1,ANIMAL PLANET HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19352
-#EXTINF:-1,BBC ENTERTAINMENT
-http://local.satrestream.com:8080/emirdag/emirdag123/19336
-#EXTINF:-1,BBCFIRST HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19335
-#EXTINF:-1,CBS REALITY
-http://local.satrestream.com:8080/emirdag/emirdag123/19337
-#EXTINF:-1,COMEDY CENTRAL EXTRA
-http://local.satrestream.com:8080/emirdag/emirdag123/19334
-#EXTINF:-1,COMEDY CENTRAL HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19333
-#EXTINF:-1,NICK JR
-http://local.satrestream.com:8080/emirdag/emirdag123/19383
-#EXTINF:-1,NICK TOONS
-http://local.satrestream.com:8080/emirdag/emirdag123/19382
-#EXTINF:-1,NICKELODEON HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19379
-#EXTINF:-1,RTL TELEKIDS HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19377
-#EXTINF:-1,BABY TV
-http://local.satrestream.com:8080/emirdag/emirdag123/19384
+#EXTINF:-1,100% NL TV
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92958.ts
+#EXTINF:-1,192TV
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92943.ts
+#EXTINF:-1,24 KITCHEN
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92942.ts
+#EXTINF:-1,ANIMAL PLANET
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92914.ts
+#EXTINF:-1,AT5
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92897.ts
+#EXTINF:-1,BBC FIRST
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92896.ts
 #EXTINF:-1,BOOMERANG
-http://local.satrestream.com:8080/emirdag/emirdag123/19381
-#EXTINF:-1,DISNEY CHANNEL HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19378
-#EXTINF:-1,DISNEY XD / VERONICA HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19322
-#EXTINF:-1,E! HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19327
-#EXTINF:-1,EEN HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19339
-#EXTINF:-1,DISCOVERY ID HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19350
-#EXTINF:-1,DISCOVERY HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19347
-#EXTINF:-1,DISCOVERY ID HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19351
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19349
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92919.ts
+#EXTINF:-1,BRAVA
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92920.ts
+#EXTINF:-1,CI
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92940.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92891.ts
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92890.ts
+#EXTINF:-1,DANCE TRIPPIN
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92950.ts
+#EXTINF:-1,DEN HAAG TV
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92973.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92938.ts
 #EXTINF:-1,DISCOVERY WORLD
-http://local.satrestream.com:8080/emirdag/emirdag123/19348
-#EXTINF:-1,HISTORY HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19344
-#EXTINF:-1,LOVE NATURE HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19353
-#EXTINF:-1,NAT GEO WILD HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19346
-#EXTINF:-1,NL:100% NL
-http://local.satrestream.com:8080/emirdag/emirdag123/19393
-#EXTINF:-1,192 TV
-http://local.satrestream.com:8080/emirdag/emirdag123/19396
-#EXTINF:-1,NL:NICK MUSIC
-http://local.satrestream.com:8080/emirdag/emirdag123/19392
-#EXTINF:-1,NL:TV ORANJE
-http://local.satrestream.com:8080/emirdag/emirdag123/19394
-#EXTINF:-1,NL:VH1 CLASSIC
-http://local.satrestream.com:8080/emirdag/emirdag123/19395
-#EXTINF:-1,MTV BRAND NEW
-http://local.satrestream.com:8080/emirdag/emirdag123/19389
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92936.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92917.ts
+#EXTINF:-1,DJAZZ TV
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92949.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92941.ts
+#EXTINF:-1,EEN
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92895.ts
+#EXTINF:-1,EXTREME SPORTS CHANNEL
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92911.ts
+#EXTINF:-1,FILM 1 ACTION
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92929.ts
+#EXTINF:-1,FILM 1 DRAMA
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92928.ts
+#EXTINF:-1,FILM 1 FAMILY
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92927.ts
+#EXTINF:-1,FILM 1 PREMIERE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92926.ts
+#EXTINF:-1,FOX
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92893.ts
+#EXTINF:-1,FOX SPORTS 1 EREDIVISIE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92905.ts
+#EXTINF:-1,FOX SPORTS 2 EREDIVISIE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92906.ts
+#EXTINF:-1,FOX SPORTS 4 EREDIVISIE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92908.ts
+#EXTINF:-1,FOX SPORTS 5 EREDIVISIE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92909.ts
+#EXTINF:-1,FOX SPORTS 6 EREDIVISIE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92910.ts
+#EXTINF:-1,HISTORY
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92935.ts
+#EXTINF:-1,HORSE & COUNTRY TV
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92939.ts
+#EXTINF:-1,ID
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92934.ts
+#EXTINF:-1,KETNET
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92972.ts
+#EXTINF:-1,MEZZO
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92948.ts
+#EXTINF:-1,MTV
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92946.ts
 #EXTINF:-1,MTV MUSIC 24
-http://local.satrestream.com:8080/emirdag/emirdag123/19388
-#EXTINF:-1,MTV NL HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19387
-#EXTINF:-1,NGC HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19345
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92945.ts
+#EXTINF:-1,NAT GEO WILD
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92933.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92932.ts
+#EXTINF:-1,NET 5
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92885.ts
+#EXTINF:-1,NICK JR.
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92923.ts
+#EXTINF:-1,NICK MUSIC
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92944.ts
+#EXTINF:-1,NICK TOONS
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92922.ts
+#EXTINF:-1,NICKELODEON
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92921.ts
+#EXTINF:-1,NPO 1
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92876.ts
+#EXTINF:-1,NPO 2
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92877.ts
+#EXTINF:-1,NPO 3
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92878.ts
+#EXTINF:-1,NPO NIEUWS
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92889.ts
+#EXTINF:-1,NPO POLITIEK
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92888.ts
+#EXTINF:-1,NPO ZAP EXTRA
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92887.ts
+#EXTINF:-1,OMROEP BRABANT
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92971.ts
+#EXTINF:-1,OMROEP FLEVOLAND
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92970.ts
+#EXTINF:-1,OMROEP FRIESLAND
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92969.ts
+#EXTINF:-1,OMROEP ZEELAND
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92968.ts
 #EXTINF:-1,ONS
-http://local.satrestream.com:8080/emirdag/emirdag123/19332
-#EXTINF:-1,PEBBLE TV
-http://local.satrestream.com:8080/emirdag/emirdag123/19385
-#EXTINF:-1,HBO HD
-http://local.satrestream.com:8080/emirdag/emirdag123/106562
-#EXTINF:-1,HBO 2 HD 
-http://local.satrestream.com:8080/emirdag/emirdag123/106563
-#EXTINF:-1,HBO 3 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/106564
-#EXTINF:-1,FILM 1 ACTION HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19355
-#EXTINF:-1,FILM 1 DRAMA HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19358
-#EXTINF:-1,FILM 1 FAMILY HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19356
-#EXTINF:-1,FILM 1 PREMIERE HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19354
-#EXTINF:-1,FOX 
-http://local.satrestream.com:8080/emirdag/emirdag123/19325
-#EXTINF:-1,ESPN 1 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19367
-#EXTINF:-1,ESPN 2 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19368
-#EXTINF:-1,ESPN 3 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19369
-#EXTINF:-1,ESPN 4 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19370
-#EXTINF:-1,ESPN 5 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19371
-#EXTINF:-1,ESPN 6 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19372
-#EXTINF:-1,ZIGGO RACING HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19364
-#EXTINF:-1,ZIGGO SPORT DOCU HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19366
-#EXTINF:-1,ZIGGO SPORT GOLF HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19365
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://local.satrestream.com:8080/emirdag/emirdag123/19362
-#EXTINF:-1,ZIGGO SPORT EXTRA 
-http://local.satrestream.com:8080/emirdag/emirdag123/19363
-#EXTINF:-1,Discovery Channel
-http://local.satrestream.com:8080/emirdag/emirdag123/35545
-#EXTINF:-1,RTV Westerwolde
-http://local.satrestream.com:8080/emirdag/emirdag123/35546
-#EXTINF:-1,192 TV
-http://local.satrestream.com:8080/emirdag/emirdag123/35547
-#EXTINF:-1,OUT TV
-http://local.satrestream.com:8080/emirdag/emirdag123/35548
-#EXTINF:-1,CRIME & INVESTIGATION
-http://local.satrestream.com:8080/emirdag/emirdag123/36786
-#EXTINF:-1,NET5 HD
-http://local.satrestream.com:8080/emirdag/emirdag123/36815
-#EXTINF:-1,Omroep Brabant Televisie
-http://local.satrestream.com:8080/emirdag/emirdag123/36877
-#EXTINF:-1,Omrop Fryslan Televisie
-http://local.satrestream.com:8080/emirdag/emirdag123/36878
-#EXTINF:-1,RTV Maastricht
-http://local.satrestream.com:8080/emirdag/emirdag123/36889
-#EXTINF:-1,Stingray CMusic
-http://local.satrestream.com:8080/emirdag/emirdag123/37051
-#EXTINF:-1,RTV Arnhem
-http://local.satrestream.com:8080/emirdag/emirdag123/37122
-#EXTINF:-1,VIJF
-http://local.satrestream.com:8080/emirdag/emirdag123/37216
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92967.ts
+#EXTINF:-1,PEBBLE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92966.ts
+#EXTINF:-1,RTL 4
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92879.ts
+#EXTINF:-1,RTL 5
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92880.ts
+#EXTINF:-1,RTL 7
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92882.ts
+#EXTINF:-1,RTL 8
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92883.ts
+#EXTINF:-1,RTL CRIME
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92931.ts
+#EXTINF:-1,RTL LOUNGE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92930.ts
+#EXTINF:-1,RTL TELEKIDS
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92924.ts
+#EXTINF:-1,RTL Z
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92886.ts
+#EXTINF:-1,RTV 7
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92965.ts
+#EXTINF:-1,RTV UTRECHT
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92964.ts
+#EXTINF:-1,SBS 6
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92881.ts
+#EXTINF:-1,SBS 9
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92884.ts
+#EXTINF:-1,SLAM!
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92963.ts
+#EXTINF:-1,SPIKE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92892.ts
+#EXTINF:-1,TLC
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92894.ts
+#EXTINF:-1,TV DRENTHE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92962.ts
+#EXTINF:-1,TV GELDERLAND
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92961.ts
+#EXTINF:-1,TV NOORD
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92960.ts
+#EXTINF:-1,TV OOST
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92957.ts
+#EXTINF:-1,TV ORANJE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92956.ts
+#EXTINF:-1,TV RIJNMOND
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92955.ts
+#EXTINF:-1,TV WEST
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92954.ts
+#EXTINF:-1,VERONICA/DISNEYXD
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92918.ts
+#EXTINF:-1,VH1 CLASSIC
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92952.ts
+#EXTINF:-1,VICELAND
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92951.ts
+#EXTINF:-1,XITE
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92959.ts
+#EXTINF:-1,ZIGGO SPORT
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92898.ts
+#EXTINF:-1,ZIGGO SPORT DOCU
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92904.ts
+#EXTINF:-1,ZIGGO SPORT EXTRA
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92903.ts
+#EXTINF:-1,ZIGGO SPORT GOLF
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92902.ts
+#EXTINF:-1,ZIGGO SPORT RACING
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92900.ts
+#EXTINF:-1,ZIGGO SPORT SELECT
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92899.ts
 #EXTINF:-1,ZIGGO SPORT VOETBAL
-http://local.satrestream.com:8080/emirdag/emirdag123/37227
-#EXTINF:-1,REDBOX CONCERT
-http://local.satrestream.com:8080/emirdag/emirdag123/110483
-#EXTINF:-1,REDBOX NIEUWE FILMS
-http://local.satrestream.com:8080/emirdag/emirdag123/110484
-#EXTINF:-1,REDBOX ACTIE 1
-http://local.satrestream.com:8080/emirdag/emirdag123/110487
-#EXTINF:-1,REDBOX ACTIE 2
-http://local.satrestream.com:8080/emirdag/emirdag123/110486
-#EXTINF:-1,REDBOX ACTIE 3
-http://local.satrestream.com:8080/emirdag/emirdag123/110485
-#EXTINF:-1,REDBOX ANIMATIE 1
-http://local.satrestream.com:8080/emirdag/emirdag123/110490
-#EXTINF:-1,REDBOX ANIMATIE 2
-http://local.satrestream.com:8080/emirdag/emirdag123/110489
-#EXTINF:-1,REDBOX ANIMATIE 3
-http://local.satrestream.com:8080/emirdag/emirdag123/110488
-#EXTINF:-1,REDBOX DRAMA 1
-http://local.satrestream.com:8080/emirdag/emirdag123/110492
-#EXTINF:-1,REDBOX DRAMA 2
-http://local.satrestream.com:8080/emirdag/emirdag123/110491
-#EXTINF:-1,REDBOX HORROR 1
-http://local.satrestream.com:8080/emirdag/emirdag123/110494
-#EXTINF:-1,REDBOX HORROR 2
-http://local.satrestream.com:8080/emirdag/emirdag123/110493
-#EXTINF:-1,REDBOX KOMEDIE 1
-http://local.satrestream.com:8080/emirdag/emirdag123/110495
-#EXTINF:-1,REDBOX SCI FI 2
-http://local.satrestream.com:8080/emirdag/emirdag123/110496
-#EXTINF:-1,REDBOX SCI FI 1
-http://local.satrestream.com:8080/emirdag/emirdag123/110497
-#EXTINF:-1,REDBOX THRILLER 1
-http://local.satrestream.com:8080/emirdag/emirdag123/110501
-#EXTINF:-1,REDBOX THRILLER 2
-http://local.satrestream.com:8080/emirdag/emirdag123/110500
-#EXTINF:-1,REDBOX THRILLER 3
-http://local.satrestream.com:8080/emirdag/emirdag123/110499
-#EXTINF:-1,NPO1 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115195
-#EXTINF:-1,NPO2 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115205
-#EXTINF:-1,VTM 2 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115192
-#EXTINF:-1,NPO3 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115198
-#EXTINF:-1,RTL8 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115196
-#EXTINF:-1,RTL7 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115193
-#EXTINF:-1,RTL4 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115199
-#EXTINF:-1,VTM HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115197
-#EXTINF:-1,SBS6 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115202
-#EXTINF:-1,History HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115201
-#EXTINF:-1,ESPN HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115200
-#EXTINF:-1,ESPN 2 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115203
-#EXTINF:-1,ESPN 4 HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115204
-#EXTINF:-1,Ziggo Sport Select HD RAW
-http://local.satrestream.com:8080/emirdag/emirdag123/115194
-#EXTINF:-1,24 KITCHEN HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119779
-#EXTINF:-1,ANIMAL PLANET HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119780
-#EXTINF:-1,COMEDY CENTRAL HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119781
-#EXTINF:-1,CRIME INVESTIGATION HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119782
-#EXTINF:-1,DISCOVERY HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119784
-#EXTINF:-1,DISCOVERY ID HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119785
-#EXTINF:-1,DISCOVERY SCIENCE HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119786
-#EXTINF:-1,DISNEY VERONICA HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119787
-#EXTINF:-1,E!  HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119788
-#EXTINF:-1,FILM1 ACTION HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119791
-#EXTINF:-1,FILM1 DRAMA HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119792
-#EXTINF:-1,FILM1 FAMILY HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119793
-#EXTINF:-1,FILM1 PREMIERE HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119794
-#EXTINF:-1,FOX HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119795
-#EXTINF:-1,VIP SPORTS: Fox Sports 1 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119796
-#EXTINF:-1,VIP SPORTS: Fox Sports 2 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119797
-#EXTINF:-1,VIP SPORTS: Fox Sports 3 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119798
-#EXTINF:-1,VIP SPORTS: Fox Sports 4 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119799
-#EXTINF:-1,VIP SPORTS: Fox Sports 5 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119800
-#EXTINF:-1,VIP SPORTS: Fox Sports 6 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119801
-#EXTINF:-1,HISTORY HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119802
-#EXTINF:-1,LOVENATURE  HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119803
-#EXTINF:-1,NET 5 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119804
-#EXTINF:-1,NG WILD HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119805
-#EXTINF:-1,NGC HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119806
-#EXTINF:-1,NPO 1 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119807
-#EXTINF:-1,NPO 2 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119808
-#EXTINF:-1,NPO 3 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119809
-#EXTINF:-1,RTL 4 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119810
-#EXTINF:-1,RTL 5 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119811
-#EXTINF:-1,RTL 7 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119812
-#EXTINF:-1,RTL 8 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119813
-#EXTINF:-1,RTL CRIME HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119814
-#EXTINF:-1,RTL LOUNGE HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119815
-#EXTINF:-1,RTLZ HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119816
-#EXTINF:-1,SBS 9 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119817
-#EXTINF:-1,SBS6 HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119818
-#EXTINF:-1,SPIKE HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119819
-#EXTINF:-1,TLC HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119820
-#EXTINF:-1,ZIGGO SPORT DOCU HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119821
-#EXTINF:-1,ZIGGO SPORT GOLF HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119822
-#EXTINF:-1,ZIGGO SPORT RACING HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119823
-#EXTINF:-1,ZIGGO SPORT SELECT HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119824
-#EXTINF:-1,ZIGGO SPORT VOETBAL HEVC
-http://local.satrestream.com:8080/emirdag/emirdag123/119825
+http://reachforthesky.network:2086/live/hockeystripes23/ewbDbXMzBf/92901.ts
