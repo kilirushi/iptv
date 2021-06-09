@@ -1,561 +1,633 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://serviceinput.online:2999/universidad/universidad/212
-#EXTINF:-1,ABC
-http://serviceinput.online:2999/universidad/universidad/211
-#EXTINF:-1,ABC News
-http://serviceinput.online:2999/universidad/universidad/210
-#EXTINF:-1,ACC Network
-http://serviceinput.online:2999/universidad/universidad/296
-#EXTINF:-1,AMC
-http://serviceinput.online:2999/universidad/universidad/209
-#EXTINF:-1,American Heroes Channel
-http://serviceinput.online:2999/universidad/universidad/208
-#EXTINF:-1,Animal Planet
-http://serviceinput.online:2999/universidad/universidad/207
-#EXTINF:-1,Aspire TV 
-http://serviceinput.online:2999/universidad/universidad/872
-#EXTINF:-1,BBC America
-http://serviceinput.online:2999/universidad/universidad/206
-#EXTINF:-1,BBC World News
-http://serviceinput.online:2999/universidad/universidad/764
-#EXTINF:-1,beIN Sports
-http://serviceinput.online:2999/universidad/universidad/205
-#EXTINF:-1,BET
-http://serviceinput.online:2999/universidad/universidad/204
-#EXTINF:-1,BET Her
-http://serviceinput.online:2999/universidad/universidad/203
-#EXTINF:-1,BET Jams
-http://serviceinput.online:2999/universidad/universidad/950
-#EXTINF:-1,BET Soul
-http://serviceinput.online:2999/universidad/universidad/951
-#EXTINF:-1,Big Ten Network
-http://serviceinput.online:2999/universidad/universidad/202
-#EXTINF:-1,Bloomberg
-http://serviceinput.online:2999/universidad/universidad/863
-#EXTINF:-1,Boomerang
-http://serviceinput.online:2999/universidad/universidad/130
-#EXTINF:-1,Bounce TV
-http://serviceinput.online:2999/universidad/universidad/743
-#EXTINF:-1,Bravo
-http://serviceinput.online:2999/universidad/universidad/200
-#EXTINF:-1,Buzzr TV
-http://serviceinput.online:2999/universidad/universidad/1182
-#EXTINF:-1,C-SPAN
-http://serviceinput.online:2999/universidad/universidad/1184
-#EXTINF:-1,C-SPAN 2
-http://serviceinput.online:2999/universidad/universidad/1185
-#EXTINF:-1,C-SPAN 3
-http://serviceinput.online:2999/universidad/universidad/1186
-#EXTINF:-1,Cartoon Network
-http://serviceinput.online:2999/universidad/universidad/199
-#EXTINF:-1,CBS
-http://serviceinput.online:2999/universidad/universidad/198
-#EXTINF:-1,CBSN
-http://serviceinput.online:2999/universidad/universidad/197
-#EXTINF:-1,Cinemax East
-http://serviceinput.online:2999/universidad/universidad/196
-#EXTINF:-1,Cinemax Moremax
-http://serviceinput.online:2999/universidad/universidad/1204
-#EXTINF:-1,CMT
-http://serviceinput.online:2999/universidad/universidad/355
-#EXTINF:-1,CNBC
-http://serviceinput.online:2999/universidad/universidad/192
-#EXTINF:-1,CNBC World
-http://serviceinput.online:2999/universidad/universidad/1196
-#EXTINF:-1,CNN
-http://serviceinput.online:2999/universidad/universidad/191
-#EXTINF:-1,Comedy Central
-http://serviceinput.online:2999/universidad/universidad/190
-#EXTINF:-1,Cooking Channel
-http://serviceinput.online:2999/universidad/universidad/189
-#EXTINF:-1,Cozi TV
-http://serviceinput.online:2999/universidad/universidad/188
-#EXTINF:-1,Destination America
-http://serviceinput.online:2999/universidad/universidad/185
-#EXTINF:-1,Discovery Channel
-http://serviceinput.online:2999/universidad/universidad/184
-#EXTINF:-1,Discovery Family
-http://serviceinput.online:2999/universidad/universidad/183
-#EXTINF:-1,Discovery Life
-http://serviceinput.online:2999/universidad/universidad/182
-#EXTINF:-1,Discovery Science
-http://serviceinput.online:2999/universidad/universidad/181
-#EXTINF:-1,Disney Channel
-http://serviceinput.online:2999/universidad/universidad/180
-#EXTINF:-1,Disney Jr
-http://serviceinput.online:2999/universidad/universidad/179
-#EXTINF:-1,Disney XD
-http://serviceinput.online:2999/universidad/universidad/178
-#EXTINF:-1,DIY
-http://serviceinput.online:2999/universidad/universidad/177
-#EXTINF:-1,E!
-http://serviceinput.online:2999/universidad/universidad/176
-#EXTINF:-1,Eleven Sports
-http://serviceinput.online:2999/universidad/universidad/175
-#EXTINF:-1,EPIX
-http://serviceinput.online:2999/universidad/universidad/174
-#EXTINF:-1,EPIX 2
-http://serviceinput.online:2999/universidad/universidad/388
+#EXTINF:-1,SHOWTIME FAMILY ZONE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60163
+#EXTINF:-1,SHOWTIME NEXT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60164
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60165
+#EXTINF:-1,STARZ EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60166
+#EXTINF:-1,STARZ COMEDY
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60167
+#EXTINF:-1,SHOWTIME WOMEN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60168
+#EXTINF:-1,STARZ EDGE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60169
+#EXTINF:-1,STARZ IN BLACK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60170
+#EXTINF:-1,STARZ KIDS&FAMILY
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60171
+#EXTINF:-1,STARZENCORE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60172
+#EXTINF:-1,STARZENCORE ACTION
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60173
+#EXTINF:-1,STARZ CINEMA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60174
+#EXTINF:-1,STARZENCORE CLASSIC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60175
+#EXTINF:-1,STARZENCORE FAMILY
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60176
+#EXTINF:-1,STARZENCORE SUSPENSE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60177
+#EXTINF:-1,STARZENCORE WESTERNS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60178
+#EXTINF:-1,SHOWTIME WEST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60179
+#EXTINF:-1,SHOWTIME EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60180
+#EXTINF:-1,STARZ WEST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60181
+#EXTINF:-1,SHOWTIME BEYOND.BET
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60182
+#EXTINF:-1,SHOWTIME EXTREME
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60183
+#EXTINF:-1,EPIX2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60184
 #EXTINF:-1,EPIX HITS
-http://serviceinput.online:2999/universidad/universidad/132
-#EXTINF:-1,ESPN
-http://serviceinput.online:2999/universidad/universidad/133
-#EXTINF:-1,ESPN 2
-http://serviceinput.online:2999/universidad/universidad/173
-#EXTINF:-1,ESPN News
-http://serviceinput.online:2999/universidad/universidad/134
-#EXTINF:-1,ESPN U
-http://serviceinput.online:2999/universidad/universidad/172
-#EXTINF:-1,Fight Network
-http://serviceinput.online:2999/universidad/universidad/331
-#EXTINF:-1,Food Network
-http://serviceinput.online:2999/universidad/universidad/171
-#EXTINF:-1,Fox
-http://serviceinput.online:2999/universidad/universidad/269
-#EXTINF:-1,Fox Business Network
-http://serviceinput.online:2999/universidad/universidad/268
-#EXTINF:-1,Fox Deportes
-http://serviceinput.online:2999/universidad/universidad/266
-#EXTINF:-1,Fox News
-http://serviceinput.online:2999/universidad/universidad/267
-#EXTINF:-1,Fox Soccer Plus
-http://serviceinput.online:2999/universidad/universidad/265
-#EXTINF:-1,Fox Sports 1
-http://serviceinput.online:2999/universidad/universidad/263
-#EXTINF:-1,Fox Sports 2
-http://serviceinput.online:2999/universidad/universidad/264
-#EXTINF:-1,FreeForm
-http://serviceinput.online:2999/universidad/universidad/170
-#EXTINF:-1,Fuse
-http://serviceinput.online:2999/universidad/universidad/169
-#EXTINF:-1,FX
-http://serviceinput.online:2999/universidad/universidad/167
-#EXTINF:-1,FXM
-http://serviceinput.online:2999/universidad/universidad/166
-#EXTINF:-1,FXX
-http://serviceinput.online:2999/universidad/universidad/165
-#EXTINF:-1,FYI
-http://serviceinput.online:2999/universidad/universidad/164
-#EXTINF:-1,Galavision
-http://serviceinput.online:2999/universidad/universidad/360
-#EXTINF:-1,GINX eSports
-http://serviceinput.online:2999/universidad/universidad/1195
-#EXTINF:-1,Golf Channel
-http://serviceinput.online:2999/universidad/universidad/138
-#EXTINF:-1,Grit TV
-http://serviceinput.online:2999/universidad/universidad/734
-#EXTINF:-1,GSN
-http://serviceinput.online:2999/universidad/universidad/358
-#EXTINF:-1,Hallmark
-http://serviceinput.online:2999/universidad/universidad/162
-#EXTINF:-1,Hallmark Drama
-http://serviceinput.online:2999/universidad/universidad/356
-#EXTINF:-1,Hallmark Movies & Mysteries
-http://serviceinput.online:2999/universidad/universidad/161
-#EXTINF:-1,HBO
-http://serviceinput.online:2999/universidad/universidad/160
-#EXTINF:-1,HBO 2
-http://serviceinput.online:2999/universidad/universidad/1085
-#EXTINF:-1,HBO Comedy
-http://serviceinput.online:2999/universidad/universidad/1087
-#EXTINF:-1,HBO Family
-http://serviceinput.online:2999/universidad/universidad/157
-#EXTINF:-1,HBO Signature
-http://serviceinput.online:2999/universidad/universidad/156
-#EXTINF:-1,HBO Zone
-http://serviceinput.online:2999/universidad/universidad/155
-#EXTINF:-1,HGTV
-http://serviceinput.online:2999/universidad/universidad/154
-#EXTINF:-1,History 2
-http://serviceinput.online:2999/universidad/universidad/1181
-#EXTINF:-1,History Channel
-http://serviceinput.online:2999/universidad/universidad/153
-#EXTINF:-1,HLN
-http://serviceinput.online:2999/universidad/universidad/152
-#EXTINF:-1,IFC
-http://serviceinput.online:2999/universidad/universidad/151
-#EXTINF:-1,INSP
-http://serviceinput.online:2999/universidad/universidad/895
-#EXTINF:-1,Investigation Discovery
-http://serviceinput.online:2999/universidad/universidad/150
-#EXTINF:-1,ION TV
-http://serviceinput.online:2999/universidad/universidad/809
-#EXTINF:-1,Lifetime
-http://serviceinput.online:2999/universidad/universidad/148
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60185
+#EXTINF:-1,EPIX DRIVE IN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60186
+#EXTINF:-1,EPIX
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60187
+#EXTINF:-1,MOREMAX
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60188
+#EXTINF:-1,CINEMAX EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60189
+#EXTINF:-1,Univision HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60190
+#EXTINF:-1,POP HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60191
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60192
+#EXTINF:-1,HALLMARK DRAMA HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60193
+#EXTINF:-1,HALLMARK CHANNEL HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60194
+#EXTINF:-1,FX HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60195
+#EXTINF:-1,Zona Futbol
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60196
+#EXTINF:-1,TV ONE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60197
+#EXTINF:-1,TV LAND EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60198
+#EXTINF:-1,SUNDANCE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60199
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60200
+#EXTINF:-1,OXYGEN WEST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60201
+#EXTINF:-1,OXYGEN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60202
 #EXTINF:-1,LMN
-http://serviceinput.online:2999/universidad/universidad/147
-#EXTINF:-1,Logo
-http://serviceinput.online:2999/universidad/universidad/952
-#EXTINF:-1,LongHorn Network
-http://serviceinput.online:2999/universidad/universidad/146
-#EXTINF:-1,Marquee Sports Network
-http://serviceinput.online:2999/universidad/universidad/1045
-#EXTINF:-1,MAV TV
-http://serviceinput.online:2999/universidad/universidad/965
-#EXTINF:-1,Me TV
-http://serviceinput.online:2999/universidad/universidad/744
-#EXTINF:-1,MLB Network
-http://serviceinput.online:2999/universidad/universidad/145
-#EXTINF:-1,Motor Trend
-http://serviceinput.online:2999/universidad/universidad/250
-#EXTINF:-1,MSG
-http://serviceinput.online:2999/universidad/universidad/287
-#EXTINF:-1,MSG 2
-http://serviceinput.online:2999/universidad/universidad/333
-#EXTINF:-1,MSNBC
-http://serviceinput.online:2999/universidad/universidad/143
-#EXTINF:-1,MTV
-http://serviceinput.online:2999/universidad/universidad/142
-#EXTINF:-1,MTV 2
-http://serviceinput.online:2999/universidad/universidad/354
-#EXTINF:-1,MTV Classics
-http://serviceinput.online:2999/universidad/universidad/1194
-#EXTINF:-1,MTV Live
-http://serviceinput.online:2999/universidad/universidad/1193
-#EXTINF:-1,MY 9
-http://serviceinput.online:2999/universidad/universidad/135
-#EXTINF:-1,Nat Geo
-http://serviceinput.online:2999/universidad/universidad/141
-#EXTINF:-1,Nat Geo Wild
-http://serviceinput.online:2999/universidad/universidad/140
-#EXTINF:-1,NBA TV
-http://serviceinput.online:2999/universidad/universidad/136
-#EXTINF:-1,NBC
-http://serviceinput.online:2999/universidad/universidad/139
-#EXTINF:-1,NBC Universo
-http://serviceinput.online:2999/universidad/universidad/329
-#EXTINF:-1,NBCSN
-http://serviceinput.online:2999/universidad/universidad/235
-#EXTINF:-1,NESN
-http://serviceinput.online:2999/universidad/universidad/890
-#EXTINF:-1,NewsMax
-http://serviceinput.online:2999/universidad/universidad/864
-#EXTINF:-1,NFL Network
-http://serviceinput.online:2999/universidad/universidad/234
-#EXTINF:-1,NFL Red Zone
-http://serviceinput.online:2999/universidad/universidad/260
-#EXTINF:-1,NHL Network
-http://serviceinput.online:2999/universidad/universidad/299
-#EXTINF:-1,Nick
-http://serviceinput.online:2999/universidad/universidad/327
-#EXTINF:-1,Nick Jr
-http://serviceinput.online:2999/universidad/universidad/351
-#EXTINF:-1,Nicktoons
-http://serviceinput.online:2999/universidad/universidad/1223
-#EXTINF:-1,One America News
-http://serviceinput.online:2999/universidad/universidad/1183
-#EXTINF:-1,Outdoor Channel
-http://serviceinput.online:2999/universidad/universidad/292
-#EXTINF:-1,Outside TV
-http://serviceinput.online:2999/universidad/universidad/357
-#EXTINF:-1,OWN
-http://serviceinput.online:2999/universidad/universidad/229
-#EXTINF:-1,Oxygen
-http://serviceinput.online:2999/universidad/universidad/228
-#EXTINF:-1,PAC-12 Arizona
-http://serviceinput.online:2999/universidad/universidad/892
-#EXTINF:-1,PAC-12 Bay Area
-http://serviceinput.online:2999/universidad/universidad/893
-#EXTINF:-1,PAC-12 Los Angeles
-http://serviceinput.online:2999/universidad/universidad/894
-#EXTINF:-1,PAC-12 Mountain
-http://serviceinput.online:2999/universidad/universidad/584
-#EXTINF:-1,PAC-12 Network
-http://serviceinput.online:2999/universidad/universidad/353
-#EXTINF:-1,PAC-12 Oregon
-http://serviceinput.online:2999/universidad/universidad/359
-#EXTINF:-1,PAC-12 Washington
-http://serviceinput.online:2999/universidad/universidad/1202
-#EXTINF:-1,Paramount
-http://serviceinput.online:2999/universidad/universidad/221
-#EXTINF:-1,PBS KIDS
-http://serviceinput.online:2999/universidad/universidad/227
-#EXTINF:-1,Pop
-http://serviceinput.online:2999/universidad/universidad/226
-#EXTINF:-1,Revolt
-http://serviceinput.online:2999/universidad/universidad/1006
-#EXTINF:-1,Sec Network
-http://serviceinput.online:2999/universidad/universidad/295
-#EXTINF:-1,Showtime
-http://serviceinput.online:2999/universidad/universidad/223
-#EXTINF:-1,Showtime 2
-http://serviceinput.online:2999/universidad/universidad/222
-#EXTINF:-1,Showtime Extreme
-http://serviceinput.online:2999/universidad/universidad/385
-#EXTINF:-1,Showtime Next
-http://serviceinput.online:2999/universidad/universidad/1187
-#EXTINF:-1,Smithsonian Channel
-http://serviceinput.online:2999/universidad/universidad/518
-#EXTINF:-1,SNY
-http://serviceinput.online:2999/universidad/universidad/330
-#EXTINF:-1,Sony Movies
-http://serviceinput.online:2999/universidad/universidad/1217
-#EXTINF:-1,Spectrum Sportsnet
-http://serviceinput.online:2999/universidad/universidad/873
-#EXTINF:-1,Starz
-http://serviceinput.online:2999/universidad/universidad/280
-#EXTINF:-1,Starz Black
-http://serviceinput.online:2999/universidad/universidad/397
-#EXTINF:-1,Starz Edge
-http://serviceinput.online:2999/universidad/universidad/444
-#EXTINF:-1,Starz Encore Western
-http://serviceinput.online:2999/universidad/universidad/649
-#EXTINF:-1,Sundance
-http://serviceinput.online:2999/universidad/universidad/215
-#EXTINF:-1,SyFy
-http://serviceinput.online:2999/universidad/universidad/214
-#EXTINF:-1,TBS
-http://serviceinput.online:2999/universidad/universidad/213
-#EXTINF:-1,TCM
-http://serviceinput.online:2999/universidad/universidad/352
-#EXTINF:-1,Telemundo
-http://serviceinput.online:2999/universidad/universidad/281
-#EXTINF:-1,Telemundo Chicago
-http://serviceinput.online:2999/universidad/universidad/443
-#EXTINF:-1,Telemundo NY
-http://serviceinput.online:2999/universidad/universidad/441
-#EXTINF:-1,Telemundo LA
-http://serviceinput.online:2999/universidad/universidad/361
-#EXTINF:-1,Telemundo Miami
-http://serviceinput.online:2999/universidad/universidad/334
-#EXTINF:-1,Telemundo Texas
-http://serviceinput.online:2999/universidad/universidad/1192
-#EXTINF:-1,Tennis Channel
-http://serviceinput.online:2999/universidad/universidad/244
-#EXTINF:-1,The CW 11
-http://serviceinput.online:2999/universidad/universidad/186
-#EXTINF:-1,The CW Network
-http://serviceinput.online:2999/universidad/universidad/1086
-#EXTINF:-1,The Weather Channel
-http://serviceinput.online:2999/universidad/universidad/301
-#EXTINF:-1,TLC
-http://serviceinput.online:2999/universidad/universidad/241
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60203
+#EXTINF:-1,LIFETIME
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60204
+#EXTINF:-1,ION TV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60205
+#EXTINF:-1,INSP
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60206
+#EXTINF:-1,IFC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60207
+#EXTINF:-1,HALLMARK MOVIES AND MYSTERIES
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60208
+#EXTINF:-1,HALLMARK EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60209
+#EXTINF:-1,HALLMARK DRAMA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60210
+#EXTINF:-1,COMET
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60211
+#EXTINF:-1,COMEDY CENTRAL EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60212
+#EXTINF:-1,WGN AMERICA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60213
 #EXTINF:-1,TNT
-http://serviceinput.online:2999/universidad/universidad/240
-#EXTINF:-1,Travel Channel
-http://serviceinput.online:2999/universidad/universidad/239
-#EXTINF:-1,TruTV
-http://serviceinput.online:2999/universidad/universidad/238
-#EXTINF:-1,TV Land
-http://serviceinput.online:2999/universidad/universidad/300
-#EXTINF:-1,TV One
-http://serviceinput.online:2999/universidad/universidad/384
-#EXTINF:-1,TVG
-http://serviceinput.online:2999/universidad/universidad/332
-#EXTINF:-1,UFC Fight Pass
-http://serviceinput.online:2999/universidad/universidad/631
-#EXTINF:-1,UniMas Los Angeles
-http://serviceinput.online:2999/universidad/universidad/1079
-#EXTINF:-1,Universal Kids
-http://serviceinput.online:2999/universidad/universidad/252
-#EXTINF:-1,USA Network
-http://serviceinput.online:2999/universidad/universidad/251
-#EXTINF:-1,VH1
-http://serviceinput.online:2999/universidad/universidad/395
-#EXTINF:-1,Viceland
-http://serviceinput.online:2999/universidad/universidad/307
-#EXTINF:-1,WE TV
-http://serviceinput.online:2999/universidad/universidad/247
-#EXTINF:-1,World Fishing Network
-http://serviceinput.online:2999/universidad/universidad/382
-#EXTINF:-1,WWE
-http://serviceinput.online:2999/universidad/universidad/398
-#EXTINF:-1,Yes Network
-http://serviceinput.online:2999/universidad/universidad/245
-#EXTINF:-1,Univision
-http://serviceinput.online:2999/universidad/universidad/1244
-#EXTINF:-1,Starz Kids & Family (Test)
-http://serviceinput.online:2999/universidad/universidad/1248
-#EXTINF:-1,Starz Encore Suspense (Test)
-http://serviceinput.online:2999/universidad/universidad/1249
-#EXTINF:-1,Starz Cinema (Test)
-http://serviceinput.online:2999/universidad/universidad/1250
-#EXTINF:-1,Showtime Woman
-http://serviceinput.online:2999/universidad/universidad/1251
-#EXTINF:-1,Cinemax ActionMax (Test)
-http://serviceinput.online:2999/universidad/universidad/1252
-#EXTINF:-1,TVG 2
-http://serviceinput.online:2999/universidad/universidad/1253
-#EXTINF:-1,FOX Seattle
-http://serviceinput.online:2999/universidad/universidad/1256
-#EXTINF:-1,Blaze TV
-http://serviceinput.online:2999/universidad/universidad/1275
-#EXTINF:-1,People TV
-http://serviceinput.online:2999/universidad/universidad/1276
-#EXTINF:-1,AXS TV
-http://serviceinput.online:2999/universidad/universidad/1314
-#EXTINF:-1,NASA
-http://serviceinput.online:2999/universidad/universidad/1358
-#EXTINF:-1,Spydar TV
-http://serviceinput.online:2999/universidad/universidad/1406
-#EXTINF:-1,ABC Cleveland
-http://serviceinput.online:2999/universidad/universidad/975
-#EXTINF:-1,ABC Denver
-http://serviceinput.online:2999/universidad/universidad/966
-#EXTINF:-1,ABC Houston
-http://serviceinput.online:2999/universidad/universidad/714
-#EXTINF:-1,ABC Los Angeles
-http://serviceinput.online:2999/universidad/universidad/715
-#EXTINF:-1,ABC Miami
-http://serviceinput.online:2999/universidad/universidad/987
-#EXTINF:-1,ABC New York
-http://serviceinput.online:2999/universidad/universidad/727
-#EXTINF:-1,ABC Orlando
-http://serviceinput.online:2999/universidad/universidad/1042
-#EXTINF:-1,ABC Tampa Bay
-http://serviceinput.online:2999/universidad/universidad/1032
-#EXTINF:-1,CBS Albuquerque
-http://serviceinput.online:2999/universidad/universidad/1173
-#EXTINF:-1,CBS Cleveland
-http://serviceinput.online:2999/universidad/universidad/875
-#EXTINF:-1,CBS Denver
-http://serviceinput.online:2999/universidad/universidad/907
-#EXTINF:-1,CBS Houston
-http://serviceinput.online:2999/universidad/universidad/718
-#EXTINF:-1,CBS Jacksonville
-http://serviceinput.online:2999/universidad/universidad/807
-#EXTINF:-1,CBS Los Angeles
-http://serviceinput.online:2999/universidad/universidad/985
-#EXTINF:-1,CBS Miami
-http://serviceinput.online:2999/universidad/universidad/877
-#EXTINF:-1,CBS New Orleans
-http://serviceinput.online:2999/universidad/universidad/995
-#EXTINF:-1,CBS New York
-http://serviceinput.online:2999/universidad/universidad/719
-#EXTINF:-1,CBS Orlando
-http://serviceinput.online:2999/universidad/universidad/1041
-#EXTINF:-1,CBS Tampa Bay
-http://serviceinput.online:2999/universidad/universidad/1033
-#EXTINF:-1,FOX Alburquerque
-http://serviceinput.online:2999/universidad/universidad/1172
-#EXTINF:-1,FOX Cleveland
-http://serviceinput.online:2999/universidad/universidad/976
-#EXTINF:-1,FOX Denver
-http://serviceinput.online:2999/universidad/universidad/908
-#EXTINF:-1,FOX Houston
-http://serviceinput.online:2999/universidad/universidad/720
-#EXTINF:-1,FOX Jacksonville
-http://serviceinput.online:2999/universidad/universidad/902
-#EXTINF:-1,FOX Los Angeles
-http://serviceinput.online:2999/universidad/universidad/721
-#EXTINF:-1,FOX Miami
-http://serviceinput.online:2999/universidad/universidad/879
-#EXTINF:-1,FOX New York
-http://serviceinput.online:2999/universidad/universidad/728
-#EXTINF:-1,FOX Orlando
-http://serviceinput.online:2999/universidad/universidad/1040
-#EXTINF:-1,FOX Tampa Bay
-http://serviceinput.online:2999/universidad/universidad/1034
-#EXTINF:-1,NBC Alburquerque
-http://serviceinput.online:2999/universidad/universidad/1171
-#EXTINF:-1,NBC Cleveland
-http://serviceinput.online:2999/universidad/universidad/977
-#EXTINF:-1,NBC Denver
-http://serviceinput.online:2999/universidad/universidad/897
-#EXTINF:-1,NBC El Paso
-http://serviceinput.online:2999/universidad/universidad/1190
-#EXTINF:-1,NBC Houston
-http://serviceinput.online:2999/universidad/universidad/896
-#EXTINF:-1,NBC Jacksonville
-http://serviceinput.online:2999/universidad/universidad/903
-#EXTINF:-1,NBC Los Angeles
-http://serviceinput.online:2999/universidad/universidad/986
-#EXTINF:-1,NBC Miami
-http://serviceinput.online:2999/universidad/universidad/876
-#EXTINF:-1,NBC New York
-http://serviceinput.online:2999/universidad/universidad/729
-#EXTINF:-1,NBC Orlando
-http://serviceinput.online:2999/universidad/universidad/1043
-#EXTINF:-1,CBS West Palm Beach
-http://serviceinput.online:2999/universidad/universidad/1212
-#EXTINF:-1,Fox West Palm Beach
-http://serviceinput.online:2999/universidad/universidad/1213
-#EXTINF:-1,NBC West Palm Beach
-http://serviceinput.online:2999/universidad/universidad/1214
-#EXTINF:-1,FOX New Orleans
-http://serviceinput.online:2999/universidad/universidad/1225
-#EXTINF:-1,NBC New Orleans 
-http://serviceinput.online:2999/universidad/universidad/1226
-#EXTINF:-1,ABC Phoenix
-http://serviceinput.online:2999/universidad/universidad/1233
-#EXTINF:-1,CBS Phoenix
-http://serviceinput.online:2999/universidad/universidad/1234
-#EXTINF:-1,FOX Phoenix
-http://serviceinput.online:2999/universidad/universidad/1235
-#EXTINF:-1,NBC Phoenix
-http://serviceinput.online:2999/universidad/universidad/1236
-#EXTINF:-1,ABC Seattle
-http://serviceinput.online:2999/universidad/universidad/1254
-#EXTINF:-1,CBS Seattle
-http://serviceinput.online:2999/universidad/universidad/1255
-#EXTINF:-1,NBC Seattle
-http://serviceinput.online:2999/universidad/universidad/1257
-#EXTINF:-1,NBC Tampa
-http://serviceinput.online:2999/universidad/universidad/1327
-#EXTINF:-1,ABC Atlanta
-http://serviceinput.online:2999/universidad/universidad/1443
-#EXTINF:-1,CBS Atlanta
-http://serviceinput.online:2999/universidad/universidad/1444
-#EXTINF:-1,FOX Atlanta
-http://serviceinput.online:2999/universidad/universidad/1445
-#EXTINF:-1,NBC Atlanta
-http://serviceinput.online:2999/universidad/universidad/1446
-#EXTINF:-1,Worcester - WCCA TV 13
-http://serviceinput.online:2999/universidad/universidad/665
-#EXTINF:-1,Bally Sports Arizona
-http://serviceinput.online:2999/universidad/universidad/321
-#EXTINF:-1,Bally Sports Prime Ticket
-http://serviceinput.online:2999/universidad/universidad/326
-#EXTINF:-1,Bally Sports North
-http://serviceinput.online:2999/universidad/universidad/320
-#EXTINF:-1,Bally Sports Detroit
-http://serviceinput.online:2999/universidad/universidad/317
-#EXTINF:-1,Bally Sports San Diego
-http://serviceinput.online:2999/universidad/universidad/316
-#EXTINF:-1,Bally Sports West
-http://serviceinput.online:2999/universidad/universidad/315
-#EXTINF:-1,Bally Sports South
-http://serviceinput.online:2999/universidad/universidad/319
-#EXTINF:-1,Bally Sports Sun
-http://serviceinput.online:2999/universidad/universidad/322
-#EXTINF:-1,Bally Sports Midwest
-http://serviceinput.online:2999/universidad/universidad/324
-#EXTINF:-1,Bally Sports SouthWest
-http://serviceinput.online:2999/universidad/universidad/1189
-#EXTINF:-1,Bally Sports Tennessee
-http://serviceinput.online:2999/universidad/universidad/1207
-#EXTINF:-1,Bally Sports New Orleans
-http://serviceinput.online:2999/universidad/universidad/1222
-#EXTINF:-1,NBC Sports Bay Area
-http://serviceinput.online:2999/universidad/universidad/591
-#EXTINF:-1,NBC Sports Boston
-http://serviceinput.online:2999/universidad/universidad/590
-#EXTINF:-1,NBC Sports California
-http://serviceinput.online:2999/universidad/universidad/589
-#EXTINF:-1,NBC Sports Chicago
-http://serviceinput.online:2999/universidad/universidad/588
-#EXTINF:-1,NBC Sports Northwest
-http://serviceinput.online:2999/universidad/universidad/587
-#EXTINF:-1,NBC Sports Philadelphia
-http://serviceinput.online:2999/universidad/universidad/586
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60214
+#EXTINF:-1,TLC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60215
+#EXTINF:-1,SYFY 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60216
+#EXTINF:-1,5 Star Max
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60217
+#EXTINF:-1,HBO EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60218
+#EXTINF:-1,HBO 2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60219
+#EXTINF:-1,HBO FAMILY
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60220
+#EXTINF:-1,HBO SIGNATURE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60221
+#EXTINF:-1,HBO COMEDY
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60222
+#EXTINF:-1,HBO WEST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60223
+#EXTINF:-1,HBO ZONE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60224
+#EXTINF:-1,DISNEY XD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60225
+#EXTINF:-1,DISNEY JR
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60226
+#EXTINF:-1,DISNEY CHANNEL 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60227
+#EXTINF:-1,DISCOVERY FAMILY
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60228
+#EXTINF:-1,UNIVERSAL KIDS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60229
+#EXTINF:-1,TEEN NICK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60230
+#EXTINF:-1,CARTOON NETWORK 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60231
+#EXTINF:-1,BOOMERANG
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60232
+#EXTINF:-1,BABY FIRST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60233
+#EXTINF:-1,ASPIRE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60234
+#EXTINF:-1,NICKTOONS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60235
+#EXTINF:-1,NICK MUSIC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60236
+#EXTINF:-1,NICKELODEON EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60237
+#EXTINF:-1,NICK JR
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60238
+#EXTINF:-1,PBS KIDS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60239
+#EXTINF:-1,WEATHER CHANNEL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60240
+#EXTINF:-1,TRAVEL CHANNEL EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60241
+#EXTINF:-1,SMITHSONIAN WEST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60242
+#EXTINF:-1,SMITHSONIAN EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60243
+#EXTINF:-1,SCIENCE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60244
+#EXTINF:-1,OUTSIDE TV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60245
+#EXTINF:-1,OUTDOOR CHANNEL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60246
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60247
+#EXTINF:-1,NAT GEO WILD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60248
+#EXTINF:-1,HLN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60249
+#EXTINF:-1,HISTORY CHANNEL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60250
+#EXTINF:-1,HGTV 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60251
+#EXTINF:-1,FOOD NETWORK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60252
+#EXTINF:-1,E! ENTERTAINMENT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60253
+#EXTINF:-1,DIY NETWORK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60254
+#EXTINF:-1,DISCOVERY LIFE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60255
+#EXTINF:-1,DISCOVERY ID EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60256
+#EXTINF:-1,COOKING CHANNEL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60257
+#EXTINF:-1,BUZZR
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60258
+#EXTINF:-1,BRAVO WEST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60259
+#EXTINF:-1,BRAVO EAST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60260
+#EXTINF:-1,BOUNCE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60261
+#EXTINF:-1,ANTENNA TV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60262
+#EXTINF:-1,ANIMAL PLANET
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60263
+#EXTINF:-1,AMERICAN HEROES CHANNEL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60264
+#EXTINF:-1,AMC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60265
+#EXTINF:-1,A&E
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60266
+#EXTINF:-1,FOX HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60267
+#EXTINF:-1,TODDLER TUNES
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60268
+#EXTINF:-1,KIDZ BOP
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60269
+#EXTINF:-1,KIDZ ONLY
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60270
+#EXTINF:-1,ALTERNATIVE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60271
+#EXTINF:-1,TROPICALS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60272
+#EXTINF:-1,LATINO
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60273
+#EXTINF:-1,MUSICA URBANA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60274
+#EXTINF:-1,RAP
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60275
+#EXTINF:-1,THROWBACK JAMZ
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60276
+#EXTINF:-1,RAP 2K
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60277
+#EXTINF:-1,R&B SOUL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60278
+#EXTINF:-1,POP LATINO
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60279
+#EXTINF:-1,BRITS AND HITS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60280
+#EXTINF:-1,Y2K
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60281
+#EXTINF:-1,DANCE EDM
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60282
+#EXTINF:-1,TEEN BEATS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60283
+#EXTINF:-1,HIT LIST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60284
+#EXTINF:-1,90 S
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60285
+#EXTINF:-1,TODAYS COUNTRY CMA AWARDS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60286
+#EXTINF:-1,HIP HOP & R&B
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60287
+#EXTINF:-1,HIT LIST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60288
+#EXTINF:-1,News 12 The Bronx HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60289
+#EXTINF:-1,News 12 New Jersey HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60290
+#EXTINF:-1,ONE AMERICA NEWS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60291
+#EXTINF:-1,CHEDDAR NEWS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60292
+#EXTINF:-1,FOX NEWS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60293
+#EXTINF:-1,ABC News HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60294
+#EXTINF:-1,CBS BALTIMORE MD WJZ
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60295
+#EXTINF:-1,CBS ATLANTA GA WGCL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60296
+#EXTINF:-1,NEWS 12 LONG ISLAND
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60297
+#EXTINF:-1,NEWS 12 WESTCHESTER
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60298
+#EXTINF:-1,NEWS 12 THE BRONX
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60299
+#EXTINF:-1,NEWS 12 NEW JERSEY
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60300
+#EXTINF:-1,ELEVEN SPORTS NETWORK | HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60301
+#EXTINF:-1,GOL TV (ES) | HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60302
+#EXTINF:-1,GolTV (En) | HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60303
+#EXTINF:-1,GINX eSports | HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60304
+#EXTINF:-1,TVG 2 | HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60305
+#EXTINF:-1,Fubo Sports Network HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60306
+#EXTINF:-1,BIG TEN NETWORK HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60307
+#EXTINF:-1,TyC Sports HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60308
+#EXTINF:-1,MOTOR TREND
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60309
+#EXTINF:-1,WWE NETWORK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60310
+#EXTINF:-1,WORLD FISHING NETWORK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60311
+#EXTINF:-1,WILLOW CRICKET 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60312
+#EXTINF:-1,UFC TV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60313
+#EXTINF:-1,TVG NETWORK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60314
+#EXTINF:-1,SPECTRUM SPORTSNET LA DODGERS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60315
+#EXTINF:-1,SPECTRUM SPORTSNET LA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60316
+#EXTINF:-1,FOX SPORTS 1
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60317
+#EXTINF:-1,FOX SPORTS 2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60318
+#EXTINF:-1,FOX SPORTS TENNESSEE HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60319
+#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60320
+#EXTINF:-1,FOX SPORTS SAN DIEGO HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60321
+#EXTINF:-1,FOX SPORTS PRIME TICKET HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60322
+#EXTINF:-1,FOX SPORTS NORTH HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60323
+#EXTINF:-1,FOX SPORTS FLORIDA HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60324
+#EXTINF:-1,FOX SPORTS CAROLINAS HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60325
+#EXTINF:-1,FOX SPORTS ARIZONA PLUS HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60326
+#EXTINF:-1,FOX SPORTS  SOUTHWEST HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60327
+#EXTINF:-1,Fox Soccer Plus HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60328
+#EXTINF:-1,FNTSY SPORTS NETWORK HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60329
+#EXTINF:-1,ESPN SEC NETWORK HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60330
+#EXTINF:-1,ACC NETWORK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60331
+#EXTINF:-1,ESPN U
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60332
+#EXTINF:-1,ESPN U
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60333
+#EXTINF:-1,ESPN U HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60334
+#EXTINF:-1,ESPN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60335
+#EXTINF:-1,ESPN HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60336
+#EXTINF:-1,ESPN 3
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60337
+#EXTINF:-1,ESPN 2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60338
+#EXTINF:-1,ESPN 2 HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60339
+#EXTINF:-1,SEC Network HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60340
+#EXTINF:-1,ESPN DEPORTES
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60341
+#EXTINF:-1,ESPN DEPORTES
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60342
+#EXTINF:-1,ESPN DEPORTES HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60343
+#EXTINF:-1,ESPN DEPORTES FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60344
+#EXTINF:-1,ESPN NEWS HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60345
+#EXTINF:-1,ESPN News HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60346
+#EXTINF:-1,ESPN News 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60347
+#EXTINF:-1,ESPN NEWS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60348
+#EXTINF:-1,ESPN NEWS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60349
+#EXTINF:-1,FOX SPORTS FLORIDA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60350
+#EXTINF:-1,FOX SPORTS DETROIT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60351
+#EXTINF:-1,FOX SPORTS WEST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60352
+#EXTINF:-1,FOX SPORTS TENNESSEE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60353
+#EXTINF:-1,FOX SPORTS SUN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60354
+#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60355
+#EXTINF:-1,FOX SPORTS SOUTHWEST 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60356
+#EXTINF:-1,FOX SPORTS SOUTH
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60357
+#EXTINF:-1,FOX SPORTS SAN DIEGO
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60358
+#EXTINF:-1,FOX SPORTS SAN ANTONIO
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60359
+#EXTINF:-1,FOX SPORTS PRIME TICKET
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60360
+#EXTINF:-1,FOX SPORTS OKLAHOMA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60361
+#EXTINF:-1,FOX SPORTS OHIO
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60362
+#EXTINF:-1,FOX SPORTS NORTH
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60363
+#EXTINF:-1,FOX SPORTS MIDWEST
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60364
+#EXTINF:-1,FOX SPORTS DETROIT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60365
+#EXTINF:-1,FOX SPORTS CAROLINAS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60366
+#EXTINF:-1,FOX SPORTS ARIZONA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60367
+#EXTINF:-1,beIN Sports 1 HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60368
+#EXTINF:-1,bein Sports USA HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60369
+#EXTINF:-1,Bein Sports 2 (ES)
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60370
+#EXTINF:-1,BeIN Sports 3 HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60371
+#EXTINF:-1,BeIN Sports 4 HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60372
+#EXTINF:-1,BeIN SPORTS 5 HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60373
+#EXTINF:-1,TUDNxtra 1
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60374
+#EXTINF:-1,TUDNxtra 2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60375
+#EXTINF:-1,TUDNxtra 3
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60376
+#EXTINF:-1,TUDNxtra 4
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60377
+#EXTINF:-1,TUDNxtra 5
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60378
+#EXTINF:-1,PAC 12 WASHINGTON
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60379
+#EXTINF:-1,PAC 12 ARIZONA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60380
+#EXTINF:-1,PAC 12 NETWORK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60381
+#EXTINF:-1,PAC 12 OREGON HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60382
+#EXTINF:-1,PAC 12 MOUNTAIN HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60383
+#EXTINF:-1,PAC 12 LOS ANGELES HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60384
+#EXTINF:-1,PAC 12 BAY AREA HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60385
+#EXTINF:-1,AT&T SPORTSNET
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60386
+#EXTINF:-1,TSN 1
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60387
+#EXTINF:-1,TSN 2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60388
+#EXTINF:-1,TSN 3
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60389
+#EXTINF:-1,TSN 4 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60390
+#EXTINF:-1,US: MLB Network 
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60391
+#EXTINF:-1,MLB 01
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60392
+#EXTINF:-1,MLB 02
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60393
+#EXTINF:-1,MLB 03:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60394
+#EXTINF:-1,MLB 04:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60395
+#EXTINF:-1,MLB 05:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60396
+#EXTINF:-1,NHL 00 | NHL NETWORK HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60397
+#EXTINF:-1,NFL Network
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60398
+#EXTINF:-1,US: NFL REDZONE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60399
+#EXTINF:-1,NHL GAME 1:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60400
+#EXTINF:-1,NHL GAME 2:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60401
+#EXTINF:-1,NHL GAME 3:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60402
+#EXTINF:-1,NHL GAME 4:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60403
+#EXTINF:-1,NHL GAME 5:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60404
+#EXTINF:-1,NFL GAMEPASS 1:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60405
+#EXTINF:-1,NFL GAMEPASS 2:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60406
+#EXTINF:-1,NFL GAMEPASS 3:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60407
+#EXTINF:-1,NFL GAMEPASS 4:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60408
+#EXTINF:-1,NFL GAMEPASS 5:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60409
+#EXTINF:-1,NBA TV | HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60410
+#EXTINF:-1,NBA LP 1:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60411
+#EXTINF:-1,NBA LP 2:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60412
+#EXTINF:-1,NBA LP 3:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60413
+#EXTINF:-1,NBA LP 4:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60414
+#EXTINF:-1,NBA LP 5:
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60415
+#EXTINF:-1,FOX ST LOUIS MO KTVI
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60416
+#EXTINF:-1,FOX SEATTLE WA KCPQ
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60417
+#EXTINF:-1,FOX SAN FRANCISCO CA KTVU
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60418
+#EXTINF:-1,FOX SAN DIEGO CA KSWB
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60419
+#EXTINF:-1,FOX SAN ANTONIO TX KABB
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60420
+#EXTINF:-1,FOX SALT LAKE CITY UT KSTU
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60421
+#EXTINF:-1,FOX SACRAMENTO CA KTXL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60422
+#EXTINF:-1,FOX PITTSBURGH PA WPGH
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60423
+#EXTINF:-1,FOX PHOENIX AZ KSAZ
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60424
+#EXTINF:-1,FOX PHILADELPHIA PA WTXF
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60425
+#EXTINF:-1,FOX ORLANDO FL WOFL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60426
+#EXTINF:-1,FOX NEW ORLEANS LA WVUE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60427
+#EXTINF:-1,FOX NASHVILLE TN WZTV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60428
+#EXTINF:-1,FOX MILWAUKEE WI WITI
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60429
+#EXTINF:-1,FOX MIAMI FL WSVN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60430
+#EXTINF:-1,FOX LOS ANGELES CA KTTV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60431
+#EXTINF:-1,FOX KANSAS CITY MO WDAF
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60432
+#EXTINF:-1,FOX JACKSONVILLE FL WFOX
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60433
+#EXTINF:-1,FOX INDIANAPOLIS IN WXIN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60434
+#EXTINF:-1,FOX HOUSTON TX KRIV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60435
+#EXTINF:-1,FOX HARTFORD CT WTIC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60436
+#EXTINF:-1,FOX DETROIT MI WJBK
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60437
+#EXTINF:-1,FOX DENVER CO KDVR
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60438
+#EXTINF:-1,FOX DALLAS TX KDFW
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60439
+#EXTINF:-1,FOX COLUMBUS OH WTTE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60440
+#EXTINF:-1,FOX CHICAGO IL WFLD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60441
+#EXTINF:-1,FOX BUFFALO NY WUTV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60442
+#EXTINF:-1,FOX BOSTON MA WFXT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60443
+#EXTINF:-1,FOX BALTIMORE MD WBFF
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60444
+#EXTINF:-1,FOX AUSTIN TX KTBC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60445
+#EXTINF:-1,FOX ATLANTA GA WAGA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60446
+#EXTINF:-1,FOX NEW YORK NY WNYW
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60447
+#EXTINF:-1,FOX LOS ANGELES CA KTTV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60448
+#EXTINF:-1,FOX DENVER CO KDVR
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60449
+#EXTINF:-1,FOX DALLAS TX KDFW
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60450
+#EXTINF:-1,FOX BUSINESS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60451
+#EXTINF:-1,NBC HOUSTON TX KPRC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60452
+#EXTINF:-1,NBC HARTFORD CT WVIT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60453
+#EXTINF:-1,NBC GREEN BAY WI WGBA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60454
+#EXTINF:-1,NBC DETROIT MI WDIV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60455
+#EXTINF:-1,NBC DENVER CO KUSA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60456
+#EXTINF:-1,NBC DALLAS TX KXAS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60457
+#EXTINF:-1,NBC CLEVELAND OH
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60458
+#EXTINF:-1,NBC CINCINNATI OH WLWT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60459
+#EXTINF:-1,NBC CHICAGO IL WMAQ
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60460
+#EXTINF:-1,NBC CHARLOTTE NC WCNC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60461
+#EXTINF:-1,NBC BUFFALO NY WGRZ
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60462
+#EXTINF:-1,NBC BOSTON MA WBTS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60463
+#EXTINF:-1,NBC BALTIMORE MD WBAL
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60464
+#EXTINF:-1,NBC ATLANTA GA WXIA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60465
+#EXTINF:-1,NBCSN PHILADELPHIA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60466
+#EXTINF:-1,NBCSN CHICAGO PLUS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60467
+#EXTINF:-1,NBCSN CHICAGO
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60468
+#EXTINF:-1,NBCSN CALIFORNIA
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60469
+#EXTINF:-1,NBCSN BOSTON
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60470
+#EXTINF:-1,NBCSN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60471
 #EXTINF:-1,NBC Sports Washington
-http://serviceinput.online:2999/universidad/universidad/585
-#EXTINF:-1,PR | Mega TV
-http://serviceinput.online:2999/universidad/universidad/124
-#EXTINF:-1,PR | Punto 2
-http://serviceinput.online:2999/universidad/universidad/262
-#EXTINF:-1,PR | Telemundo
-http://serviceinput.online:2999/universidad/universidad/125
-#EXTINF:-1,PR | WAPA
-http://serviceinput.online:2999/universidad/universidad/127
-#EXTINF:-1,PR | WAPA 2
-http://serviceinput.online:2999/universidad/universidad/128
-#EXTINF:-1,PR | WIPR
-http://serviceinput.online:2999/universidad/universidad/653
-#EXTINF:-1,PR | TeleOnce
-http://serviceinput.online:2999/universidad/universidad/126
-#EXTINF:-1,PR | La X 100.7 FM 
-http://serviceinput.online:2999/universidad/universidad/1268
-#EXTINF:-1,PR | WAPA SD
-http://serviceinput.online:2999/universidad/universidad/1334
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60472
+#EXTINF:-1,NBC Sports Philadelphia
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60473
+#EXTINF:-1,NBC Sports Chicago
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60474
+#EXTINF:-1,NBC Sports California
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60475
+#EXTINF:-1,NBC Sports Boston
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60476
+#EXTINF:-1,NBC NEW YORK NY WNBC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60477
+#EXTINF:-1,NBC LOS ANGELES CA KNBC
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60478
