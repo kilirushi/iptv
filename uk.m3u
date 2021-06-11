@@ -1,603 +1,527 @@
 #EXTM3U
-#EXTINF:-1,BBC One SD
-http://globalsystems.me:8880/Philbell/775623143/2848044
-#EXTINF:-1,BBC One HD
-http://globalsystems.me:8880/Philbell/775623143/2262241
-#EXTINF:-1,BBC One FHD
-http://globalsystems.me:8880/Philbell/775623143/2262188
-#EXTINF:-1,BBC Two SD
-http://globalsystems.me:8880/Philbell/775623143/2848045
-#EXTINF:-1,BBC Two HD
-http://globalsystems.me:8880/Philbell/775623143/2262242
-#EXTINF:-1,BBC Two FHD
-http://globalsystems.me:8880/Philbell/775623143/2262189
-#EXTINF:-1,ITV1 SD
-http://globalsystems.me:8880/Philbell/775623143/2848046
-#EXTINF:-1,ITV 1 HD
-http://globalsystems.me:8880/Philbell/775623143/2262243
-#EXTINF:-1,ITV 1 FHD
-http://globalsystems.me:8880/Philbell/775623143/2262190
-#EXTINF:-1,Channel 4 SD
-http://globalsystems.me:8880/Philbell/775623143/2848051
-#EXTINF:-1,Channel 4 HD
-http://globalsystems.me:8880/Philbell/775623143/2262244
-#EXTINF:-1,Channel 4 FHD
-http://globalsystems.me:8880/Philbell/775623143/2262191
-#EXTINF:-1,Channel 5 SD
-http://globalsystems.me:8880/Philbell/775623143/2848052
-#EXTINF:-1,Channel 5 HD
-http://globalsystems.me:8880/Philbell/775623143/2262245
-#EXTINF:-1,Channel 5 FHD
-http://globalsystems.me:8880/Philbell/775623143/2262192
-#EXTINF:-1,Sky One SD
-http://globalsystems.me:8880/Philbell/775623143/2848053
-#EXTINF:-1,Sky One HD
-http://globalsystems.me:8880/Philbell/775623143/2262246
-#EXTINF:-1,Sky One FHD
-http://globalsystems.me:8880/Philbell/775623143/2262193
-#EXTINF:-1,Sky Replay SD
-http://globalsystems.me:8880/Philbell/775623143/2848054
-#EXTINF:-1,Sky Replay HD
-http://globalsystems.me:8880/Philbell/775623143/2262247
-#EXTINF:-1,Sky Replay FHD
-http://globalsystems.me:8880/Philbell/775623143/2262194
-#EXTINF:-1,Sky Comedy SD
-http://globalsystems.me:8880/Philbell/775623143/2848057
-#EXTINF:-1,Sky Comedy HD
-http://globalsystems.me:8880/Philbell/775623143/2262195
-#EXTINF:-1,Sky Comedy FHD
-http://globalsystems.me:8880/Philbell/775623143/2262196
-#EXTINF:-1,Sky Atlantic SD
-http://globalsystems.me:8880/Philbell/775623143/2848056
-#EXTINF:-1,Sky Atlantic HD
-http://globalsystems.me:8880/Philbell/775623143/2262248
-#EXTINF:-1,Sky Atlantic FHD
-http://globalsystems.me:8880/Philbell/775623143/2262197
-#EXTINF:-1,Sky Witness SD
-http://globalsystems.me:8880/Philbell/775623143/2848055
-#EXTINF:-1,Sky Witness HD
-http://globalsystems.me:8880/Philbell/775623143/2262249
-#EXTINF:-1,Sky Witness FHD
-http://globalsystems.me:8880/Philbell/775623143/2262198
-#EXTINF:-1,ITV2 SD
-http://globalsystems.me:8880/Philbell/775623143/2848047
-#EXTINF:-1,ITV 2 HD
-http://globalsystems.me:8880/Philbell/775623143/2262250
-#EXTINF:-1,ITV 2 FHD
-http://globalsystems.me:8880/Philbell/775623143/2262199
-#EXTINF:-1,ITV3 SD
-http://globalsystems.me:8880/Philbell/775623143/2848048
-#EXTINF:-1,ITV 3 HD
-http://globalsystems.me:8880/Philbell/775623143/2262251
-#EXTINF:-1,ITV 3 FHD
-http://globalsystems.me:8880/Philbell/775623143/2262200
-#EXTINF:-1,ITV4 SD
-http://globalsystems.me:8880/Philbell/775623143/2848049
-#EXTINF:-1,ITV 4 HD
-http://globalsystems.me:8880/Philbell/775623143/2262252
-#EXTINF:-1,ITV 4 FHD
-http://globalsystems.me:8880/Philbell/775623143/2262201
-#EXTINF:-1,ITVBe SD
-http://globalsystems.me:8880/Philbell/775623143/2848050
-#EXTINF:-1,ITVBE HD
-http://globalsystems.me:8880/Philbell/775623143/2262202
-#EXTINF:-1,ITVBE FHD
-http://globalsystems.me:8880/Philbell/775623143/2262253
-#EXTINF:-1,Dave SD
-http://globalsystems.me:8880/Philbell/775623143/2848058
-#EXTINF:-1,Dave HD
-http://globalsystems.me:8880/Philbell/775623143/2262254
-#EXTINF:-1,Dave FHD
-http://globalsystems.me:8880/Philbell/775623143/2262203
-#EXTINF:-1,Gold SD
-http://globalsystems.me:8880/Philbell/775623143/2848059
-#EXTINF:-1,Gold HD
-http://globalsystems.me:8880/Philbell/775623143/2262255
-#EXTINF:-1,Gold FHD
-http://globalsystems.me:8880/Philbell/775623143/2262204
-#EXTINF:-1,W SD
-http://globalsystems.me:8880/Philbell/775623143/2848060
-#EXTINF:-1,W HD
-http://globalsystems.me:8880/Philbell/775623143/2262205
-#EXTINF:-1,W FHD
-http://globalsystems.me:8880/Philbell/775623143/2262206
-#EXTINF:-1,Alibi SD
-http://globalsystems.me:8880/Philbell/775623143/2848061
-#EXTINF:-1,Alibi HD
-http://globalsystems.me:8880/Philbell/775623143/2262207
-#EXTINF:-1,Alibi FHD
-http://globalsystems.me:8880/Philbell/775623143/2262208
-#EXTINF:-1,Really SD
-http://globalsystems.me:8880/Philbell/775623143/2848062
-#EXTINF:-1,Really HD
-http://globalsystems.me:8880/Philbell/775623143/2262256
-#EXTINF:-1,Really FHD
-http://globalsystems.me:8880/Philbell/775623143/2262209
-#EXTINF:-1,E! SD
-http://globalsystems.me:8880/Philbell/775623143/2848063
-#EXTINF:-1,E! Entertainment HD
-http://globalsystems.me:8880/Philbell/775623143/2262257
-#EXTINF:-1,E! Entertainment FHD
-http://globalsystems.me:8880/Philbell/775623143/2262210
-#EXTINF:-1,E4 SD
-http://globalsystems.me:8880/Philbell/775623143/2848064
-#EXTINF:-1,E4 HD
-http://globalsystems.me:8880/Philbell/775623143/2262258
-#EXTINF:-1,E4 FHD
-http://globalsystems.me:8880/Philbell/775623143/2262211
-#EXTINF:-1,More4 SD
-http://globalsystems.me:8880/Philbell/775623143/2848065
-#EXTINF:-1,MORE 4 HD
-http://globalsystems.me:8880/Philbell/775623143/2262259
-#EXTINF:-1,MORE 4 FHD
-http://globalsystems.me:8880/Philbell/775623143/2262212
-#EXTINF:-1,4seven SD
-http://globalsystems.me:8880/Philbell/775623143/2848066
-#EXTINF:-1,4Seven HD
-http://globalsystems.me:8880/Philbell/775623143/2262260
-#EXTINF:-1,4Seven FHD
-http://globalsystems.me:8880/Philbell/775623143/2262213
-#EXTINF:-1,BBC Four HD
-http://globalsystems.me:8880/Philbell/775623143/2262261
-#EXTINF:-1,BBC Four FHD
-http://globalsystems.me:8880/Philbell/775623143/2262262
-#EXTINF:-1,Logo TV HD
-http://globalsystems.me:8880/Philbell/775623143/2262263
-#EXTINF:-1,Logo TV FHD
-http://globalsystems.me:8880/Philbell/775623143/2262264
-#EXTINF:-1,5STAR SD
-http://globalsystems.me:8880/Philbell/775623143/2848068
-#EXTINF:-1,5 STAR HD
-http://globalsystems.me:8880/Philbell/775623143/2262265
-#EXTINF:-1,5 STAR FHD
-http://globalsystems.me:8880/Philbell/775623143/2262214
-#EXTINF:-1,5 USA HD
-http://globalsystems.me:8880/Philbell/775623143/2262215
-#EXTINF:-1,5 USA FHD
-http://globalsystems.me:8880/Philbell/775623143/2262216
-#EXTINF:-1,5SELECT SD
-http://globalsystems.me:8880/Philbell/775623143/2848067
-#EXTINF:-1,5 Select HD
-http://globalsystems.me:8880/Philbell/775623143/2262217
-#EXTINF:-1,5 Select FHD
-http://globalsystems.me:8880/Philbell/775623143/2262218
-#EXTINF:-1,CBS Reality
-http://globalsystems.me:8880/Philbell/775623143/2262268
-#EXTINF:-1,CBS Drama
-http://globalsystems.me:8880/Philbell/775623143/2262269
-#EXTINF:-1,CBS Justice
-http://globalsystems.me:8880/Philbell/775623143/2262219
-#EXTINF:-1,Fox SD
-http://globalsystems.me:8880/Philbell/775623143/2848069
-#EXTINF:-1,Fox HD
-http://globalsystems.me:8880/Philbell/775623143/2577321
-#EXTINF:-1,Fox FHD
-http://globalsystems.me:8880/Philbell/775623143/2577322
-#EXTINF:-1,TLC SD
-http://globalsystems.me:8880/Philbell/775623143/2848070
-#EXTINF:-1,TLC HD
-http://globalsystems.me:8880/Philbell/775623143/2262270
-#EXTINF:-1,TLC FHD
-http://globalsystems.me:8880/Philbell/775623143/2262220
-#EXTINF:-1,SYFY SD
-http://globalsystems.me:8880/Philbell/775623143/2848071
-#EXTINF:-1,SyFy HD
-http://globalsystems.me:8880/Philbell/775623143/2262271
-#EXTINF:-1,SyFy FHD
-http://globalsystems.me:8880/Philbell/775623143/2262221
-#EXTINF:-1,Quest SD
-http://globalsystems.me:8880/Philbell/775623143/2848072
-#EXTINF:-1,Quest HD
-http://globalsystems.me:8880/Philbell/775623143/2262272
-#EXTINF:-1,Quest FHD
-http://globalsystems.me:8880/Philbell/775623143/2262222
-#EXTINF:-1,Quest Red SD
-http://globalsystems.me:8880/Philbell/775623143/2848073
-#EXTINF:-1,Quest Red HD
-http://globalsystems.me:8880/Philbell/775623143/2262223
-#EXTINF:-1,Quest Red FHD
-http://globalsystems.me:8880/Philbell/775623143/2262224
-#EXTINF:-1,Comedy Central SD
-http://globalsystems.me:8880/Philbell/775623143/2848074
-#EXTINF:-1,Comedy Central HD
-http://globalsystems.me:8880/Philbell/775623143/2262273
-#EXTINF:-1,Comedy Central FHD
-http://globalsystems.me:8880/Philbell/775623143/2262225
-#EXTINF:-1,ComedyXtra SD
-http://globalsystems.me:8880/Philbell/775623143/2848075
-#EXTINF:-1,ComedyXtra HD
-http://globalsystems.me:8880/Philbell/775623143/2262226
-#EXTINF:-1,ComedyXtra FHD
-http://globalsystems.me:8880/Philbell/775623143/2262227
-#EXTINF:-1,Drama SD
-http://globalsystems.me:8880/Philbell/775623143/2848076
-#EXTINF:-1,Drama HD
-http://globalsystems.me:8880/Philbell/775623143/2262274
-#EXTINF:-1,Drama FHD
-http://globalsystems.me:8880/Philbell/775623143/2262228
-#EXTINF:-1,Paramount SD
-http://globalsystems.me:8880/Philbell/775623143/2848077
-#EXTINF:-1,Paramount HD
-http://globalsystems.me:8880/Philbell/775623143/2262229
-#EXTINF:-1,Paramount FHD
-http://globalsystems.me:8880/Philbell/775623143/2262230
-#EXTINF:-1,Sky Arts SD
-http://globalsystems.me:8880/Philbell/775623143/2848078
-#EXTINF:-1,Sky Arts HD
-http://globalsystems.me:8880/Philbell/775623143/2262275
-#EXTINF:-1,Sky Arts FHD
-http://globalsystems.me:8880/Philbell/775623143/2262231
-#EXTINF:-1,Horror Channel HD
-http://globalsystems.me:8880/Philbell/775623143/2262276
-#EXTINF:-1,Horror Channel FHD
-http://globalsystems.me:8880/Philbell/775623143/2262232
-#EXTINF:-1,BET
-http://globalsystems.me:8880/Philbell/775623143/2262233
-#EXTINF:-1,Pick
-http://globalsystems.me:8880/Philbell/775623143/2262236
-#EXTINF:-1,Challenge
-http://globalsystems.me:8880/Philbell/775623143/2262238
-#EXTINF:-1,NRL 00: South Sydney Rabbitohs V Brisbane Broncos | Stadium Australia | Pre Game | Round 5 | 2021 | Thu 8th 9:50AM
-http://globalsystems.me:8880/Philbell/775623143/2768457
-#EXTINF:-1,NRL 01: Warriors Warriors V Manly Sea Eagles | Central Coast Stadium | Pre Game | Round 5 | 2021 | Fri 9th 8:00AM
-http://globalsystems.me:8880/Philbell/775623143/2768456
-#EXTINF:-1,NRL 02: Penrith Panthers V Canberra Raiders | Bluebet Stadium | Pre Game | Round 5 | 2021 | Fri 9th 9:55AM
-http://globalsystems.me:8880/Philbell/775623143/2768455
-#EXTINF:-1,NRL 03: Gold Coast Titans Titans V Newcastle Knights | Cbus Super Stadium | Pre Game | Round 5 | 2021 | Sat 10th 5:00AM
-http://globalsystems.me:8880/Philbell/775623143/2768454
-#EXTINF:-1,NRL 04: Canterbury Bulldogs V Melbourne Storm | Stadium Australia | Pre Game | Round 5 | 2021 | Sat 10th 7:30AM
-http://globalsystems.me:8880/Philbell/775623143/2768453
-#EXTINF:-1,NRL 05: Sydney Roosters Roosters V Cronulla Sharks | Central Coast Stadium | Pre Game | Round 5 | 2021 | Sat 10th 9:35AM
-http://globalsystems.me:8880/Philbell/775623143/2768452
-#EXTINF:-1,NRL 06: Wests Tigers Tigers V North Queensland Cowboys | Leichhardt Oval | Pre Game | Round 5 | 2021 | Sun 11th 6:05AM
-http://globalsystems.me:8880/Philbell/775623143/2768451
-#EXTINF:-1,NRL 07: Parramatta Eels V St George Illawarra Dragons | Bankwest Stadium | Pre Game | Round 5 | 2021 | Sun 11th 8:15AM
-http://globalsystems.me:8880/Philbell/775623143/2768450
-#EXTINF:-1,NRL 08: Brisbane Broncos V Penrith Panthers | Suncorp Stadium | Pre Game | Round 6 | 2021 | Thu 15th 9:50AM
-http://globalsystems.me:8880/Philbell/775623143/2768449
-#EXTINF:-1,NRL 09: Newcastle Knights V Cronulla Sharks | McDonald Jones Stadium | Pre Game | Round 6 | 2021 | Fri 16th 8:00AM
-http://globalsystems.me:8880/Philbell/775623143/2768448
-#EXTINF:-1,NRL: 24/7
-http://globalsystems.me:8880/Philbell/775623143/2768447
-#EXTINF:-1,BBC One E Mid
-http://globalsystems.me:8880/Philbell/775623143/2848600
-#EXTINF:-1,BBC One East E
-http://globalsystems.me:8880/Philbell/775623143/2848601
-#EXTINF:-1,BBC One East Midlands
-http://globalsystems.me:8880/Philbell/775623143/2848602
-#EXTINF:-1,BBC One NE&C
-http://globalsystems.me:8880/Philbell/775623143/2848603
-#EXTINF:-1,BBC One NI
-http://globalsystems.me:8880/Philbell/775623143/2848604
-#EXTINF:-1,BBC ONE North West
-http://globalsystems.me:8880/Philbell/775623143/2848605
-#EXTINF:-1,BBC One Oxford
-http://globalsystems.me:8880/Philbell/775623143/2848606
-#EXTINF:-1,BBC One S East
-http://globalsystems.me:8880/Philbell/775623143/2848607
-#EXTINF:-1,BBC One S West
-http://globalsystems.me:8880/Philbell/775623143/2848608
-#EXTINF:-1,BBC One Scotland
-http://globalsystems.me:8880/Philbell/775623143/2848609
-#EXTINF:-1,BBC One South
-http://globalsystems.me:8880/Philbell/775623143/2848610
-#EXTINF:-1,BBC One W Mid
-http://globalsystems.me:8880/Philbell/775623143/2848611
-#EXTINF:-1,BBC One Wales
-http://globalsystems.me:8880/Philbell/775623143/2848612
-#EXTINF:-1,BBC One Yk&Li
-http://globalsystems.me:8880/Philbell/775623143/2848613
-#EXTINF:-1,BBC One Yorks
-http://globalsystems.me:8880/Philbell/775623143/2848614
-#EXTINF:-1,BBC Scotland
-http://globalsystems.me:8880/Philbell/775623143/2848615
-#EXTINF:-1,BBC Two NI
-http://globalsystems.me:8880/Philbell/775623143/2848616
-#EXTINF:-1,BBC Two Wales
-http://globalsystems.me:8880/Philbell/775623143/2848617
-#EXTINF:-1,ITV Border Scotland
-http://globalsystems.me:8880/Philbell/775623143/2848618
-#EXTINF:-1,ITV Central East
-http://globalsystems.me:8880/Philbell/775623143/2851029
-#EXTINF:-1,ITV Central West
-http://globalsystems.me:8880/Philbell/775623143/2848619
-#EXTINF:-1,ITV Granada
-http://globalsystems.me:8880/Philbell/775623143/2848620
-#EXTINF:-1,ITV Meridian East
-http://globalsystems.me:8880/Philbell/775623143/2848621
-#EXTINF:-1,ITV Tyne Tees TV North
-http://globalsystems.me:8880/Philbell/775623143/2848622
-#EXTINF:-1,ITV Wales
-http://globalsystems.me:8880/Philbell/775623143/2848623
-#EXTINF:-1,ITV Yorkshire West
-http://globalsystems.me:8880/Philbell/775623143/2848624
-#EXTINF:-1,STV
-http://globalsystems.me:8880/Philbell/775623143/2848625
-#EXTINF:-1,STV Central East
-http://globalsystems.me:8880/Philbell/775623143/2848626
-#EXTINF:-1,STV East
-http://globalsystems.me:8880/Philbell/775623143/2848627
-#EXTINF:-1,STV North
-http://globalsystems.me:8880/Philbell/775623143/2848628
-#EXTINF:-1,STV West
-http://globalsystems.me:8880/Philbell/775623143/2848629
-#EXTINF:-1,alibi+1
-http://globalsystems.me:8880/Philbell/775623143/2848562
-#EXTINF:-1,Animal Plnt+1
-http://globalsystems.me:8880/Philbell/775623143/2848563
-#EXTINF:-1,Boomerang+1
-http://globalsystems.me:8880/Philbell/775623143/2848564
-#EXTINF:-1,CBS Reality+1
-http://globalsystems.me:8880/Philbell/775623143/2848565
-#EXTINF:-1,Channel 5+1
-http://globalsystems.me:8880/Philbell/775623143/2848566
-#EXTINF:-1,Channel4+1
-http://globalsystems.me:8880/Philbell/775623143/2848567
-#EXTINF:-1,CN+1
-http://globalsystems.me:8880/Philbell/775623143/2848568
-#EXTINF:-1,ComedyCent+1
-http://globalsystems.me:8880/Philbell/775623143/2848569
-#EXTINF:-1,Disc.History+1
-http://globalsystems.me:8880/Philbell/775623143/2848570
-#EXTINF:-1,Disc.Sci+1
-http://globalsystems.me:8880/Philbell/775623143/2848571
-#EXTINF:-1,Disc.Turbo+1
-http://globalsystems.me:8880/Philbell/775623143/2848572
-#EXTINF:-1,Discovery+1
-http://globalsystems.me:8880/Philbell/775623143/2848573
-#EXTINF:-1,DiscoveryTurbo+1
-http://globalsystems.me:8880/Philbell/775623143/2848574
-#EXTINF:-1,DMAX+1
-http://globalsystems.me:8880/Philbell/775623143/2848575
-#EXTINF:-1,Drama+1
-http://globalsystems.me:8880/Philbell/775623143/2848576
-#EXTINF:-1,E4+1
-http://globalsystems.me:8880/Philbell/775623143/2848577
-#EXTINF:-1,Eden+1
-http://globalsystems.me:8880/Philbell/775623143/2848578
-#EXTINF:-1,Film4+1
-http://globalsystems.me:8880/Philbell/775623143/2848579
-#EXTINF:-1,GOLD+1
-http://globalsystems.me:8880/Philbell/775623143/2848580
-#EXTINF:-1,HGTV+1
-http://globalsystems.me:8880/Philbell/775623143/2848581
-#EXTINF:-1,horror ch+1
-http://globalsystems.me:8880/Philbell/775623143/2848582
-#EXTINF:-1,ID+1
-http://globalsystems.me:8880/Philbell/775623143/2848583
-#EXTINF:-1,InvestigationDiscovery+1
-http://globalsystems.me:8880/Philbell/775623143/2848584
-#EXTINF:-1,ITV Central West +1
-http://globalsystems.me:8880/Philbell/775623143/2848585
-#EXTINF:-1,ITV London +1
-http://globalsystems.me:8880/Philbell/775623143/2848586
-#EXTINF:-1,ITV+1
-http://globalsystems.me:8880/Philbell/775623143/2848587
-#EXTINF:-1,ITV2+1
-http://globalsystems.me:8880/Philbell/775623143/2848588
-#EXTINF:-1,ITV3+1
-http://globalsystems.me:8880/Philbell/775623143/2848589
-#EXTINF:-1,ITV3+1
-http://globalsystems.me:8880/Philbell/775623143/2848590
-#EXTINF:-1,ITV4+1
-http://globalsystems.me:8880/Philbell/775623143/2848591
-#EXTINF:-1,More4+1
-http://globalsystems.me:8880/Philbell/775623143/2848592
-#EXTINF:-1,Nick Jr+1
-http://globalsystems.me:8880/Philbell/775623143/2848593
-#EXTINF:-1,Nickelodeon+1
-http://globalsystems.me:8880/Philbell/775623143/2848594
-#EXTINF:-1,Pick+1
-http://globalsystems.me:8880/Philbell/775623143/2848595
-#EXTINF:-1,TCM Movies+1
-http://globalsystems.me:8880/Philbell/775623143/2848598
-#EXTINF:-1,TLC+1
-http://globalsystems.me:8880/Philbell/775623143/2848599
-#EXTINF:-1,5STAR+1
-http://globalsystems.me:8880/Philbell/775623143/2848560
-#EXTINF:-1,5USA+1
-http://globalsystems.me:8880/Philbell/775623143/2848561
-#EXTINF:-1,Sky Cinema Premier SD
-http://globalsystems.me:8880/Philbell/775623143/2847493
-#EXTINF:-1,Sky Cinema Premier HD
-http://globalsystems.me:8880/Philbell/775623143/2261234
-#EXTINF:-1,Sky Cinema Premier FHD
-http://globalsystems.me:8880/Philbell/775623143/2261235
-#EXTINF:-1,Sky Cinema Feel Good SD
-http://globalsystems.me:8880/Philbell/775623143/2847495
-#EXTINF:-1,Sky Cinema Feel Good HD
-http://globalsystems.me:8880/Philbell/775623143/2261254
-#EXTINF:-1,Sky Cinema Feel Good FHD
-http://globalsystems.me:8880/Philbell/775623143/2261236
-#EXTINF:-1,Sky Cinema Hits SD
-http://globalsystems.me:8880/Philbell/775623143/2847492
-#EXTINF:-1,Sky Cinema Hits HD
-http://globalsystems.me:8880/Philbell/775623143/2261255
-#EXTINF:-1,Sky Cinema Hits FHD
-http://globalsystems.me:8880/Philbell/775623143/2261237
-#EXTINF:-1,Sky Cinema Greats SD
-http://globalsystems.me:8880/Philbell/775623143/2847491
-#EXTINF:-1,Sky Cinema Greats HD
-http://globalsystems.me:8880/Philbell/775623143/2261256
-#EXTINF:-1,Sky Cinema Greats FHD
-http://globalsystems.me:8880/Philbell/775623143/2261238
-#EXTINF:-1,Sky Cinema Family SD
-http://globalsystems.me:8880/Philbell/775623143/2847490
-#EXTINF:-1,Sky Cinema Family HD
-http://globalsystems.me:8880/Philbell/775623143/2261257
-#EXTINF:-1,Sky Cinema Family FHD
-http://globalsystems.me:8880/Philbell/775623143/2261239
-#EXTINF:-1,Sky Cinema Action SD
-http://globalsystems.me:8880/Philbell/775623143/2847486
-#EXTINF:-1,Sky Cinema Action HD
-http://globalsystems.me:8880/Philbell/775623143/2261258
-#EXTINF:-1,Sky Cinema Action FHD
-http://globalsystems.me:8880/Philbell/775623143/2261240
-#EXTINF:-1,Sky Cinema Comedy SD
-http://globalsystems.me:8880/Philbell/775623143/2847488
-#EXTINF:-1,Sky Cinema Comedy HD
-http://globalsystems.me:8880/Philbell/775623143/2261259
-#EXTINF:-1,Sky Cinema Comedy FHD
-http://globalsystems.me:8880/Philbell/775623143/2261241
-#EXTINF:-1,Sky Cinema Thriller SD
-http://globalsystems.me:8880/Philbell/775623143/2847496
-#EXTINF:-1,Sky Cinema Thriller HD
-http://globalsystems.me:8880/Philbell/775623143/2261260
-#EXTINF:-1,Sky Cinema Thriller FHD
-http://globalsystems.me:8880/Philbell/775623143/2261242
-#EXTINF:-1,Sky Cinema Drama SD
-http://globalsystems.me:8880/Philbell/775623143/2847489
-#EXTINF:-1,Sky Cinema Drama HD
-http://globalsystems.me:8880/Philbell/775623143/2261243
-#EXTINF:-1,Sky Cinema Drama FHD
-http://globalsystems.me:8880/Philbell/775623143/2261244
-#EXTINF:-1,Sky Cinema Sci-Fi And Horror SD
-http://globalsystems.me:8880/Philbell/775623143/2847494
-#EXTINF:-1,Sky Cinema Sci-Fi And Horror HD
-http://globalsystems.me:8880/Philbell/775623143/2261245
-#EXTINF:-1,Sky Cinema Sci-Fi And Horror FHD
-http://globalsystems.me:8880/Philbell/775623143/2261246
-#EXTINF:-1,Sky Cinema Animation SD
-http://globalsystems.me:8880/Philbell/775623143/2847487
-#EXTINF:-1,Sky Cinema Animation HD
-http://globalsystems.me:8880/Philbell/775623143/2261247
-#EXTINF:-1,Sky Cinema Animation FHD
-http://globalsystems.me:8880/Philbell/775623143/2261248
-#EXTINF:-1,Disney+
-http://globalsystems.me:8880/Philbell/775623143/2647029
-#EXTINF:-1,Disney+ On Demand
-http://globalsystems.me:8880/Philbell/775623143/2647030
-#EXTINF:-1,Film 4 HD
-http://globalsystems.me:8880/Philbell/775623143/2261249
-#EXTINF:-1,Film 4 FHD
-http://globalsystems.me:8880/Philbell/775623143/2261250
-#EXTINF:-1,TCM
-http://globalsystems.me:8880/Philbell/775623143/2261251
-#EXTINF:-1,Talking Pictures
-http://globalsystems.me:8880/Philbell/775623143/2261253
-#EXTINF:-1,Sony Movies
-http://globalsystems.me:8880/Philbell/775623143/2261261
-#EXTINF:-1,Sky Store 1
-http://globalsystems.me:8880/Philbell/775623143/2261266
-#EXTINF:-1,Sky Store 2
-http://globalsystems.me:8880/Philbell/775623143/2261267
-#EXTINF:-1,Sky Store 3
-http://globalsystems.me:8880/Philbell/775623143/2261268
-#EXTINF:-1,Sky Store 4
-http://globalsystems.me:8880/Philbell/775623143/2261269
-#EXTINF:-1,Sky Store 5
-http://globalsystems.me:8880/Philbell/775623143/2261270
-#EXTINF:-1,Our League 00: Hull FC vs Catalans Dragons  Mon May 17th
-http://globalsystems.me:8880/Philbell/775623143/2849301
-#EXTINF:-1,Our League 01: Warrington Wolves vs Huddersfield Giants  Mon May 17th
-http://globalsystems.me:8880/Philbell/775623143/2849300
-#EXTINF:-1,Our League 02: Castleford Tigers vs Hull KR  Mon May 17th
-http://globalsystems.me:8880/Philbell/775623143/2849299
-#EXTINF:-1,Our League 03: St Helens vs Salford Red Devils  Mon May 17th
-http://globalsystems.me:8880/Philbell/775623143/2849298
-#EXTINF:-1,Our League 04: Leigh Centurions vs Wigan Warriors  Mon May 17th
-http://globalsystems.me:8880/Philbell/775623143/2849297
-#EXTINF:-1,Sky Sports News HD
-http://globalsystems.me:8880/Philbell/775623143/2847440
-#EXTINF:-1,Sky Sports News FHD
-http://globalsystems.me:8880/Philbell/775623143/2249113
-#EXTINF:-1,Sky Sports News UHD
-http://globalsystems.me:8880/Philbell/775623143/2249114
 #EXTINF:-1,Sky Sports Main Event HD
-http://globalsystems.me:8880/Philbell/775623143/2847448
-#EXTINF:-1,Sky Sports Main Event FHD
-http://globalsystems.me:8880/Philbell/775623143/2249162
-#EXTINF:-1,Sky Sports Main Event UHD
-http://globalsystems.me:8880/Philbell/775623143/2249115
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18161
+#EXTINF:-1,Sky Sports Main Event SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/49390
 #EXTINF:-1,Sky Sports Premier League HD
-http://globalsystems.me:8880/Philbell/775623143/2847442
-#EXTINF:-1,Sky Sports Premier League FHD
-http://globalsystems.me:8880/Philbell/775623143/2249116
-#EXTINF:-1,Sky Sports Premier League UHD
-http://globalsystems.me:8880/Philbell/775623143/2249117
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18160
+#EXTINF:-1,Sky Sports Premier league SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/50401
 #EXTINF:-1,Sky Sports Football HD
-http://globalsystems.me:8880/Philbell/775623143/2847437
-#EXTINF:-1,Sky Sports Football FHD
-http://globalsystems.me:8880/Philbell/775623143/2249118
-#EXTINF:-1,Sky Sports Football UHD
-http://globalsystems.me:8880/Philbell/775623143/2249119
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20444
+#EXTINF:-1,Sky Sports Football SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/54865
 #EXTINF:-1,Sky Sports Cricket HD
-http://globalsystems.me:8880/Philbell/775623143/2847435
-#EXTINF:-1,Sky Sports Cricket FHD
-http://globalsystems.me:8880/Philbell/775623143/2249120
-#EXTINF:-1,Sky Sports Cricket UHD
-http://globalsystems.me:8880/Philbell/775623143/2249121
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18162
+#EXTINF:-1,Sky Sports Cricket SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/54487
 #EXTINF:-1,Sky Sports Golf HD
-http://globalsystems.me:8880/Philbell/775623143/2847438
-#EXTINF:-1,Sky Sports Golf FHD
-http://globalsystems.me:8880/Philbell/775623143/2249122
-#EXTINF:-1,Sky Sports Golf UHD
-http://globalsystems.me:8880/Philbell/775623143/2249123
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18159
+#EXTINF:-1,Sky Sports Golf SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/54864
 #EXTINF:-1,Sky Sports F1 HD
-http://globalsystems.me:8880/Philbell/775623143/2847436
-#EXTINF:-1,Sky Sports F1 FHD
-http://globalsystems.me:8880/Philbell/775623143/2249124
-#EXTINF:-1,Sky Sports F1 UHD
-http://globalsystems.me:8880/Philbell/775623143/2249125
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18157
+#EXTINF:-1,Sky Sports F1 SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/54866
 #EXTINF:-1,Sky Sports Action HD
-http://globalsystems.me:8880/Philbell/775623143/2847441
-#EXTINF:-1,Sky Sports Action FHD
-http://globalsystems.me:8880/Philbell/775623143/2249126
-#EXTINF:-1,Sky Sports Action UHD
-http://globalsystems.me:8880/Philbell/775623143/2249127
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18158
+#EXTINF:-1,Sky Sports Action SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/54867
 #EXTINF:-1,Sky Sports Arena HD
-http://globalsystems.me:8880/Philbell/775623143/2847434
-#EXTINF:-1,Sky Sports Arena FHD
-http://globalsystems.me:8880/Philbell/775623143/2249128
-#EXTINF:-1,Sky Sports Arena UHD
-http://globalsystems.me:8880/Philbell/775623143/2249129
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20445
+#EXTINF:-1,Sky Sports Arena SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/57840
+#EXTINF:-1,Sky Sports News HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18213
 #EXTINF:-1,Sky Sports Mix HD
-http://globalsystems.me:8880/Philbell/775623143/2847439
-#EXTINF:-1,Sky Sports Mix FHD
-http://globalsystems.me:8880/Philbell/775623143/2249130
-#EXTINF:-1,Sky Sports Mix UHD
-http://globalsystems.me:8880/Philbell/775623143/2249131
-#EXTINF:-1,Sky Sports Racing HD
-http://globalsystems.me:8880/Philbell/775623143/2847443
-#EXTINF:-1,Sky Sports Racing FHD
-http://globalsystems.me:8880/Philbell/775623143/2249132
-#EXTINF:-1,Sky Sports Racing UHD
-http://globalsystems.me:8880/Philbell/775623143/2249133
-#EXTINF:-1,Racing TV HD
-http://globalsystems.me:8880/Philbell/775623143/2848648
-#EXTINF:-1,Racing TV FHD
-http://globalsystems.me:8880/Philbell/775623143/2249134
-#EXTINF:-1,Racing TV UHD
-http://globalsystems.me:8880/Philbell/775623143/2249135
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20239
+#EXTINF:-1,Sky Sports Mix SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/75810
 #EXTINF:-1,BT Sport 1 HD
-http://globalsystems.me:8880/Philbell/775623143/2847444
-#EXTINF:-1,BT Sport 1 FHD
-http://globalsystems.me:8880/Philbell/775623143/2249136
-#EXTINF:-1,BT Sport 1 UHD
-http://globalsystems.me:8880/Philbell/775623143/2249137
-#EXTINF:-1,BT Sport 2 HD
-http://globalsystems.me:8880/Philbell/775623143/2847445
-#EXTINF:-1,BT Sport 2 FHD
-http://globalsystems.me:8880/Philbell/775623143/2249138
-#EXTINF:-1,BT Sport 2 UHD
-http://globalsystems.me:8880/Philbell/775623143/2249139
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18191
+#EXTINF:-1,BT Sport 1 SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/36225
+#EXTINF:-1,UFC Fight Pass
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/75960
+#EXTINF:-1,BT Sport 2 HD**
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/32701
+#EXTINF:-1,BT Sport 2 SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18190
 #EXTINF:-1,BT Sport 3 HD
-http://globalsystems.me:8880/Philbell/775623143/2847446
-#EXTINF:-1,BT Sport 3 FHD
-http://globalsystems.me:8880/Philbell/775623143/2249140
-#EXTINF:-1,BT Sport 3 UHD
-http://globalsystems.me:8880/Philbell/775623143/2249141
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18208
+#EXTINF:-1,BT Sport 3 SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/41228
+#EXTINF:-1,BT Sport Extra 1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22678
+#EXTINF:-1,BT Sport Extra 2
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22679
+#EXTINF:-1,BT Sport Extra 3
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22681
+#EXTINF:-1,BT Sport Extra 4
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22682
+#EXTINF:-1,BT Sport Extra 5
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/41227
 #EXTINF:-1,BT Sport ESPN HD
-http://globalsystems.me:8880/Philbell/775623143/2847447
-#EXTINF:-1,BT Sport ESPN FHD
-http://globalsystems.me:8880/Philbell/775623143/2249142
-#EXTINF:-1,BT Sport ESPN UHD
-http://globalsystems.me:8880/Philbell/775623143/2249143
-#EXTINF:-1,Premier Sport 1 SD
-http://globalsystems.me:8880/Philbell/775623143/2848651
-#EXTINF:-1,Premier Sport 1 HD
-http://globalsystems.me:8880/Philbell/775623143/2249144
-#EXTINF:-1,Premier Sport 2 SD
-http://globalsystems.me:8880/Philbell/775623143/2848652
-#EXTINF:-1,Premier Sport 2 HD
-http://globalsystems.me:8880/Philbell/775623143/2249145
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18186
+#EXTINF:-1,At The Races
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20432
+#EXTINF:-1,At The Races UK
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/36229
+#EXTINF:-1,MUTV HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19668
+#EXTINF:-1,Chelsea TV HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20240
+#EXTINF:-1,Premier Sports HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18163
+#EXTINF:-1,LFCTV HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20144
+#EXTINF:-1,Racing UK HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18214
+#EXTINF:-1,Racing UK SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/66665
+#EXTINF:-1,Motors TV HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22060
+#EXTINF:-1,Free Sports
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/33548
+#EXTINF:-1,Fight Sports TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/25273
+#EXTINF:-1,Redbull TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27374
+#EXTINF:-1,Nautical Channel
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27422
+#EXTINF:-1,Horse & Country
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27421
+#EXTINF:-1,Box Nation HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18222
+#EXTINF:-1,Box Nation SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/24589
+#EXTINF:-1,Celtic TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22057
+#EXTINF:-1,Rangers TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22050
+#EXTINF:-1,Sky Sports Box Office HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/32382
+#EXTINF:-1,Sky Cinema Premiere HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16333
+#EXTINF:-1,Sky Cinema Premiere SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20258
+#EXTINF:-1,Sky Cinema Greats HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16340
+#EXTINF:-1,Sky Cinema Disney HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20238
+#EXTINF:-1,Sky Cinema Family HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16335
+#EXTINF:-1,Sky Cinema Action HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16338
+#EXTINF:-1,Sky Cinema Comedy HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16337
+#EXTINF:-1,Sky Cinema Thriller HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16332
+#EXTINF:-1,Sky Cinema Drama HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16336
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16339
+#EXTINF:-1,Sky Cinema Select HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16334
+#EXTINF:-1,FILM4 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16838
+#EXTINF:-1,TCM HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20164
+#EXTINF:-1,TCM + 1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21363
+#EXTINF:-1,Horror Channel
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16631
+#EXTINF:-1,Sony Movie
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22640
+#EXTINF:-1,Sony Movie+1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28317
+#EXTINF:-1,Sony Crime
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28318
+#EXTINF:-1,Sony Action
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22095
+#EXTINF:-1,True Movies HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22515
+#EXTINF:-1,True Entertainment
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27415
+#EXTINF:-1,ROK
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21397
+#EXTINF:-1,CBS Drama
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16844
+#EXTINF:-1,Box Office 1 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18200
+#EXTINF:-1,Box Office 2 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16828
+#EXTINF:-1,Box Office 3 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19353
+#EXTINF:-1,Box Office 4 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19355
+#EXTINF:-1,Box Office 5 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28575
+#EXTINF:-1,Box Office 6 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28574
+#EXTINF:-1,Discovery HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18189
+#EXTINF:-1,Discovery SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/29163
+#EXTINF:-1,Animal Planet HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16328
+#EXTINF:-1,Animal Planet SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/26041
+#EXTINF:-1,National Geographic HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16330
+#EXTINF:-1,National Geographic Wild HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16329
+#EXTINF:-1,History HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18199
+#EXTINF:-1,History SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/64349
+#EXTINF:-1,H2 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20157
+#EXTINF:-1,Eden HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20161
+#EXTINF:-1,Discovery History
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18197
+#EXTINF:-1,Yesterday
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16622
+#EXTINF:-1,Discovery Investigation
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20158
+#EXTINF:-1,Crime Investigation HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19490
+#EXTINF:-1,Crime Investigation SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/58171
+#EXTINF:-1,Discovery Science
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18220
+#EXTINF:-1,Discovery Turbo
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18203
+#EXTINF:-1,Travel Channel
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18204
+#EXTINF:-1,Cartoon Network HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16632
+#EXTINF:-1,Cartoonito
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22056
+#EXTINF:-1,Boomerang HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19476
+#EXTINF:-1,Boomerang +1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27414
+#EXTINF:-1,Nickelodeon HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21933
+#EXTINF:-1,Nickelodeon SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/36252
+#EXTINF:-1,Pop TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22053
+#EXTINF:-1,Pop TV+ 1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22835
+#EXTINF:-1,Nicktoons
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18205
+#EXTINF:-1,Disney XD HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16839
+#EXTINF:-1,Disney Channel HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18188
+#EXTINF:-1,Disney Channel BU
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/36253
+#EXTINF:-1,Disney Junior HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18187
+#EXTINF:-1,Cbeebies HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18206
+#EXTINF:-1,Pop Max
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20159
+#EXTINF:-1,Nick Junior HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18215
+#EXTINF:-1,Nick Junior Too
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20193
+#EXTINF:-1,Tiny Pop
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19475
+#EXTINF:-1,Baby TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18223
+#EXTINF:-1,Baby Nursery Rhymes
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/25919
+#EXTINF:-1,Kids TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22674
+#EXTINF:-1,Kids Zone
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/26221
+#EXTINF:-1,Kids Tom And Jerry
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/26092
+#EXTINF:-1,PJ Masks
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/25272
+#EXTINF:-1,Peppa
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22677
+#EXTINF:-1,Paw Patrol
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22676
+#EXTINF:-1,BBC One HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18196
+#EXTINF:-1,BBC One HD*
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/25433
+#EXTINF:-1,BBC One Wales
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28590
+#EXTINF:-1,BBC One Scotland HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28310
+#EXTINF:-1,BBC One West
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28297
+#EXTINF:-1,BBC One Yorks
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28298
+#EXTINF:-1,BBC One South
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28300
+#EXTINF:-1,BBC One South East
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28301
+#EXTINF:-1,BBC One South West
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28302
+#EXTINF:-1,BBC One Cambridge
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28305
+#EXTINF:-1,BBC One Channel Islands
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28293
+#EXTINF:-1,BBC One East
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28294
+#EXTINF:-1,BBC One East Midlands
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28295
+#EXTINF:-1,BBC One East Yorkshire
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28299
+#EXTINF:-1,BBC One London
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28312
+#EXTINF:-1,BBC One North East
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28303
+#EXTINF:-1,BBC One North West
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28304
+#EXTINF:-1,BBC One Northern Ireland HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28311
+#EXTINF:-1,BBC One Oxford
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28296
+#EXTINF:-1,BBC Two HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18195
+#EXTINF:-1,BBC Two Northen Ireland
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28308
+#EXTINF:-1,BBC Two Scotland
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28307
+#EXTINF:-1,BBC Two Wales
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28309
+#EXTINF:-1,BBC Red Button
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/23285
+#EXTINF:-1,ITV FHD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18184
+#EXTINF:-1,ITV HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/33229
+#EXTINF:-1,ITV SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/24973
+#EXTINF:-1,ITV +1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22684
+#EXTINF:-1,Channel 4 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18582
+#EXTINF:-1,Channel4 SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/24976
+#EXTINF:-1,Channel 4+1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27412
+#EXTINF:-1,Channel5 FHD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27413
+#EXTINF:-1,Channel5 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16841
+#EXTINF:-1,Sky1 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18180
+#EXTINF:-1,Sky1 SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/24975
+#EXTINF:-1,Sky Witness HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20261
+#EXTINF:-1,Sky Atlantic HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18178
+#EXTINF:-1,4Seven HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22091
+#EXTINF:-1,W HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19477
+#EXTINF:-1,Gold TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18198
+#EXTINF:-1,Gold TV*
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/36348
+#EXTINF:-1,Dave HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16840
+#EXTINF:-1,Comedy Central HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18175
+#EXTINF:-1,Comedy Central extra
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20156
+#EXTINF:-1,Universal HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18478
+#EXTINF:-1,Syfy HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16617
+#EXTINF:-1,Syfy HD*
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22092
+#EXTINF:-1,BBC Four HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18193
+#EXTINF:-1,ITV2 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18183
+#EXTINF:-1,ITV2 +1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22099
+#EXTINF:-1,ITV3 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18182
+#EXTINF:-1,ITV4 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/64343
+#EXTINF:-1,ITV4 +1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22098
+#EXTINF:-1,London Live
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22059
+#EXTINF:-1,Sky Arts HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18192
+#EXTINF:-1,ITV Be
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19745
+#EXTINF:-1,Fox HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16825
+#EXTINF:-1,TLC
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19670
+#EXTINF:-1,Alibi HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18577
+#EXTINF:-1,E4 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16836
+#EXTINF:-1,E4 + 1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28313
+#EXTINF:-1,More4 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18216
+#EXTINF:-1,Quest
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16835
+#EXTINF:-1,Quest Red +1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22685
+#EXTINF:-1,Challenge TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18919
+#EXTINF:-1,CBS Reality
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16843
+#EXTINF:-1,CBS Action
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16842
+#EXTINF:-1,E!*
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/25874
+#EXTINF:-1,E!
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18217
+#EXTINF:-1,Pick tv
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19746
+#EXTINF:-1,S4C
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20260
+#EXTINF:-1,Drama
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18963
+#EXTINF:-1,Spike HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18212
+#EXTINF:-1,Sky2 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18179
+#EXTINF:-1,Home & Health
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20205
+#EXTINF:-1,BBC Three HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19973
+#EXTINF:-1,CBBC HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21425
+#EXTINF:-1,Food Network
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/16621
+#EXTINF:-1,Good Food HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/55191
+#EXTINF:-1,Viceland
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28314
+#EXTINF:-1,Blaze
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27438
+#EXTINF:-1,Dmax
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18218
+#EXTINF:-1,STV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22102
+#EXTINF:-1,Uk lifetime
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20160
+#EXTINF:-1,Really
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22667
+#EXTINF:-1,BET
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22680
+#EXTINF:-1,My5
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22061
+#EXTINF:-1,5 Star
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21398
+#EXTINF:-1,5Star +1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21399
+#EXTINF:-1,5USA
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21400
+#EXTINF:-1,5 USA + 1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22058
+#EXTINF:-1,RTE NEWS
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20089
+#EXTINF:-1,RTE 1 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20204
+#EXTINF:-1,RTE 2 HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20203
+#EXTINF:-1,RTE Junior
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20237
+#EXTINF:-1,TV3
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20084
+#EXTINF:-1,TG 4
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18595
+#EXTINF:-1,3E HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/19669
+#EXTINF:-1,Two HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20429
+#EXTINF:-1,DW TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22668
+#EXTINF:-1,[LIVE] Coronavirus Pandemic: Real Time Counter, World Map, News
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/86591
+#EXTINF:-1,Sky News Live HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18164
+#EXTINF:-1,Sky News Live SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/33551
+#EXTINF:-1,BBC News HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/28306
+#EXTINF:-1,BBC News SD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/84617
+#EXTINF:-1,BBC News Arabic
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20082
+#EXTINF:-1,BBC Parliament
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20115
+#EXTINF:-1,BBC Alba
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21424
+#EXTINF:-1,Russia Today
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/110047
+#EXTINF:-1,Press TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/27561
+#EXTINF:-1,Reuters
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20110
+#EXTINF:-1,FRANCE 24
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20112
+#EXTINF:-1,CBSN News
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20113
+#EXTINF:-1,Fox News
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20114
+#EXTINF:-1,Al Jazeera English
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20116
+#EXTINF:-1,Arise News
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20117
+#EXTINF:-1,NewsMax
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20119
+#EXTINF:-1,CNN NEWS
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20120
+#EXTINF:-1,Bloomberg
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20121
+#EXTINF:-1,QVC UK
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/54659
+#EXTINF:-1,MTV HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/20198
+#EXTINF:-1,MTV Music
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22049
+#EXTINF:-1,MTV Dance
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18581
+#EXTINF:-1,MTV Classic
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/21934
+#EXTINF:-1,MTV Base
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18579
+#EXTINF:-1,MTV Rocks
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18580
+#EXTINF:-1,MTV Live HD
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18583
+#EXTINF:-1,MTV Hits
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18210
+#EXTINF:-1,MTV OMG
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22063
+#EXTINF:-1,Kiss
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22062
+#EXTINF:-1,VH1
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/18578
+#EXTINF:-1,4Music
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22090
+#EXTINF:-1,VH1 Classic
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22093
+#EXTINF:-1,Kerrang! TV
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22096
+#EXTINF:-1,Chart Show Hits
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22104
+#EXTINF:-1,Channel AKA
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/22103
+#EXTINF:-1,The Vault
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/26044
+#EXTINF:-1,Music Box
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/26043
+#EXTINF:-1,Box Hits
+http://exchangesat.com:8080/kiNgdiAbloaWQ/DrfGtYhjYA/26042

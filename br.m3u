@@ -1,1427 +1,2081 @@
 #EXTM3U
-#EXTINF:-1,GLOBO RJ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3
-#EXTINF:-1,GLOBO RJ FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/1
-#EXTINF:-1,GLOBO RJ SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6
-#EXTINF:-1,GLOBO RJ HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4236
-#EXTINF:-1,GLOBO RJ FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4541
-#EXTINF:-1,GLOBO SP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8
-#EXTINF:-1,GLOBO SP FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7
-#EXTINF:-1,GLOBO SP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/10
-#EXTINF:-1,GLOBO SP HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4309
-#EXTINF:-1,GLOBO SP FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4315
-#EXTINF:-1,GLOBO TV GAZETA VITORIA ES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4209
-#EXTINF:-1,GLOBO TV GAZETA VITORIA ES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4208
-#EXTINF:-1,GLOBO TV GAZETA VITORIA ES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4534
-#EXTINF:-1,GLOBO GAZETA SUL ES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3619
-#EXTINF:-1,GLOBO GAZETA SUL ES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/22
-#EXTINF:-1,GLOBO GAZETA SUL ES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8586
-#EXTINF:-1,GLOBO CENTRO AMERICA CUIABA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6809
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6256
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/50
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3763
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7688
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7687
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7686
-#EXTINF:-1,GLOBO RBS TV PELOTAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7682
-#EXTINF:-1,GLOBO RBS TV PELOTAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7681
-#EXTINF:-1,GLOBO RBS TV PELOTAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7680
-#EXTINF:-1,GLOBO NORDESTE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4318
-#EXTINF:-1,GLOBO NORDESTE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/30
-#EXTINF:-1,GLOBO NORDESTE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4540
-#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7720
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/12
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/13
-#EXTINF:-1,GLOBO RPC CURITIBA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5498
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3658
-#EXTINF:-1,GLOBO MINAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/19
-#EXTINF:-1,GLOBO MINAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/18
-#EXTINF:-1,GLOBO MINAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/21
-#EXTINF:-1,GLOBO ANHANGUERA GOIANIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/17
-#EXTINF:-1,GLOBO ANHANGUERA GOIANIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4539
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7626
-#EXTINF:-1,GLOBO VERDES MARES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3661
-#EXTINF:-1,GLOBO BRASILIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4077
-#EXTINF:-1,GLOBO BRASILIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/27
-#EXTINF:-1,GLOBO TV BAHIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4538
-#EXTINF:-1,GLOBO TV BAHIA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7715
-#EXTINF:-1,GLOBO TV BAHIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3662
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4231
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7718
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4232
-#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7690
-#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7691
-#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7689
-#EXTINF:-1,GLOBO NSC TV CHAPECO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7735
-#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7736
-#EXTINF:-1,GLOBO NSC TV CHAPECO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7734
-#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7684
-#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7685
-#EXTINF:-1,GLOBO NSC TV JOINVILLE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7683
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/35
-#EXTINF:-1,GLOBO TV TEM BAURU SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/36
-#EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7708
-#EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37
-#EXTINF:-1,GLOBO BRASILIA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7721
-#EXTINF:-1,GLOBO EPTV ARARAQUARA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7742
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7741
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7702
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7703
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7701
-#EXTINF:-1,GLOBO INTER TV DOS VALES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7699
-#EXTINF:-1,GLOBO INTER TV DOS VALES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7700
-#EXTINF:-1,GLOBO INTER TV DOS VALES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7698
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7696
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7697
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7695
-#EXTINF:-1,GLOBO INTER TV NATAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7740
-#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7693
-#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7694
-#EXTINF:-1,GLOBO INTER TV SERRA MAR SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7692
-#EXTINF:-1,GLOBO MINAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7719
-#EXTINF:-1,GLOBO REDE AM. MANAUS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7739
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7731
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7732
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7733
-#EXTINF:-1,GLOBO RPC MARINGA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11983
-#EXTINF:-1,GLOBO RPC MARINGA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11982
-#EXTINF:-1,GLOBO RPC MARINGA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11984
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7716
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7738
-#EXTINF:-1,GLOBO TV CABO BRANCO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7678
-#EXTINF:-1,GLOBO TV CABO BRANCO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7679
-#EXTINF:-1,GLOBO TV CABO BRANCO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7677
-#EXTINF:-1,GLOBO TV CLUBE TERESINA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7728
-#EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7729
-#EXTINF:-1,GLOBO TV CLUBE TERESINA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7730
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7705
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7706
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7707
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7737
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7713
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7714
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7712
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7710
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7711
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7709
-#EXTINF:-1,GLOBO TV RIO SUL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7675
-#EXTINF:-1,GLOBO TV RIO SUL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7676
-#EXTINF:-1,GLOBO TV RIO SUL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7674
-#EXTINF:-1,GLOBO TV SANTA CRUZ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7672
-#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7673
-#EXTINF:-1,GLOBO TV SANTA CRUZ SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7671
-#EXTINF:-1,GLOBO TV SERGIPE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7722
-#EXTINF:-1,GLOBO TV SERGIPE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7723
-#EXTINF:-1,GLOBO TV SERGIPE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7724
-#EXTINF:-1,GLOBO USA PREMIUM HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60
-#EXTINF:-1,GLOBOSAT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/431
-#EXTINF:-1,GLOBOSAT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7657
-#EXTINF:-1,GLOBOSAT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4104
-#EXTINF:-1,GLOBOSAT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/433
-#EXTINF:-1,RECORDTV SP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/66
-#EXTINF:-1,RECORDTV SP FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/64
-#EXTINF:-1,RECORDTV SP HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4094
-#EXTINF:-1,RECORDTV SP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/69
-#EXTINF:-1,RECORDTV SP SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5512
-#EXTINF:-1,RECORDTV MG HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4257
-#EXTINF:-1,RECORDTV MG SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4258
-#EXTINF:-1,RECORDTV RJ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4255
-#EXTINF:-1,RECORDTV RJ SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4256
-#EXTINF:-1,RECORDTV GOIANIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57292
-#EXTINF:-1,RECORDTV GOIANIA H265 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7421
-#EXTINF:-1,RECORDTV BA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5516
-#EXTINF:-1,RECORDTV BA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5515
-#EXTINF:-1,BAND FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/73
-#EXTINF:-1,BAND HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/75
-#EXTINF:-1,BAND HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4096
-#EXTINF:-1,BAND SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/78
-#EXTINF:-1,BAND SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4097
-#EXTINF:-1,BAND RJ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6812
-#EXTINF:-1,BAND BAHIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7412
-#EXTINF:-1,BAND GOIANIA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7420
-#EXTINF:-1,SBT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/79
-#EXTINF:-1,SBT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/82
-#EXTINF:-1,SBT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4098
-#EXTINF:-1,SBT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/85
-#EXTINF:-1,SBT RS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4099
-#EXTINF:-1,SBT RJ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6810
-#EXTINF:-1,SBT ES TV TRIBUNA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8581
-#EXTINF:-1,SBT ES TV TRIBUNA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8582
-#EXTINF:-1,SBT ES TV TRIBUNA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8580
-#EXTINF:-1,SBT GOIAS SERRA DOURADA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57293
-#EXTINF:-1,SBT GOIAS SERRA DOURADA H265 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7419
-#EXTINF:-1,REDE TV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/89
-#EXTINF:-1,REDE TV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6257
-#EXTINF:-1,REDE TV HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5524
-#EXTINF:-1,REDE TV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/90
-#EXTINF:-1,REDE TV SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4101
-#EXTINF:-1,TV CULTURA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/92
-#EXTINF:-1,TV CULTURA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7660
-#EXTINF:-1,TV CULTURA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7659
-#EXTINF:-1,TV ESCOLA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/95
-#EXTINF:-1,AGRO CANAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4234
-#EXTINF:-1,CANAL RURAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61663
-#EXTINF:-1,TV GAZETA SP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/96
-#EXTINF:-1,TV GAZETA SP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61666
-#EXTINF:-1,REDE BRASIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/97
-#EXTINF:-1,TERRA VIVA ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4313
-#EXTINF:-1,TERRA VIVA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/101
-#EXTINF:-1,TV JUSTICA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6259
-#EXTINF:-1,TV CAMARA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6258
-#EXTINF:-1,TV SENADO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6270
-#EXTINF:-1,FUTURA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7644
-#EXTINF:-1,FUTURA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7645
-#EXTINF:-1,FUTURA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6243
-#EXTINF:-1,CURTA! HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7640
-#EXTINF:-1,CURTA! FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7641
-#EXTINF:-1,CURTA! SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6242
-#EXTINF:-1,CARIOCA 01 2021
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61652
-#EXTINF:-1,CARIOCA FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57179
-#EXTINF:-1,CARIOCA HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57180
-#EXTINF:-1,CARIOCA 02 2021
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61651
-#EXTINF:-1,CARIOCA 03 2021
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61650
-#EXTINF:-1,CONMEBOL TV 1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57514
-#EXTINF:-1,CONMEBOL TV 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57515
-#EXTINF:-1,CONMEBOL TV 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57516
-#EXTINF:-1,CONMEBOL TV 4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57517
-#EXTINF:-1,FACEBOOK WATCH
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6793
-#EXTINF:-1,ESTADIO TNT SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37782
-#EXTINF:-1,FORMULA 1 TV
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57181
-#EXTINF:-1,DAZN1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/12639
-#EXTINF:-1,DAZN1 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6610
-#EXTINF:-1,DAZN2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/12640
-#EXTINF:-1,DAZN2 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6618
-#EXTINF:-1,DAZN3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37779
-#EXTINF:-1,DAZN3 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57178
-#EXTINF:-1,DAZN4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37780
-#EXTINF:-1,DAZN4 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61660
-#EXTINF:-1,DAZN5
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37781
-#EXTINF:-1,EI PLUS 1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6305
-#EXTINF:-1,EI PLUS 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8590
-#EXTINF:-1,EI PLUS 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60728
-#EXTINF:-1,EI PLUS 4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60729
-#EXTINF:-1,EI PLUS 5
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60730
-#EXTINF:-1,EI PLUS 6
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60731
-#EXTINF:-1,SPORTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/115
-#EXTINF:-1,SPORTV HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4058
-#EXTINF:-1,SPORTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/114
-#EXTINF:-1,SPORTV FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5414
-#EXTINF:-1,SPORTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/118
-#EXTINF:-1,SPORTV SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4059
-#EXTINF:-1,SPORTV 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/121
-#EXTINF:-1,SPORTV 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4060
-#EXTINF:-1,SPORTV 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/120
-#EXTINF:-1,SPORTV 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/123
-#EXTINF:-1,SPORTV 2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4061
-#EXTINF:-1,SPORTV 3 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/125
-#EXTINF:-1,SPORTV 3 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4062
-#EXTINF:-1,SPORTV 3 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/124
-#EXTINF:-1,SPORTV 3 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/127
-#EXTINF:-1,SPORTV 3 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4063
-#EXTINF:-1,FOX SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/130
-#EXTINF:-1,FOX SPORTS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4065
-#EXTINF:-1,FOX SPORTS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/128
-#EXTINF:-1,FOX SPORTS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/134
-#EXTINF:-1,FOX SPORTS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4066
-#EXTINF:-1,FOX SPORTS 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/137
-#EXTINF:-1,FOX SPORTS 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4067
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4064
-#EXTINF:-1,FOX SPORTS 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/140
-#EXTINF:-1,FOX SPORTS 2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4068
-#EXTINF:-1,COMBATE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/142
-#EXTINF:-1,COMBATE HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4056
-#EXTINF:-1,COMBATE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/141
-#EXTINF:-1,COMBATE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/145
-#EXTINF:-1,COMBATE SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4057
-#EXTINF:-1,ESPN BRASIL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/149
-#EXTINF:-1,ESPN BRASIL HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4069
-#EXTINF:-1,ESPN BRASIL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/148
-#EXTINF:-1,ESPN BRASIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/152
-#EXTINF:-1,ESPN BRASIL SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4070
-#EXTINF:-1,ESPN HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/154
-#EXTINF:-1,ESPN HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4071
-#EXTINF:-1,ESPN FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/153
-#EXTINF:-1,ESPN SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/157
-#EXTINF:-1,ESPN SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4072
-#EXTINF:-1,ESPN2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/159
-#EXTINF:-1,ESPN2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4073
-#EXTINF:-1,ESPN2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7642
-#EXTINF:-1,ESPN2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/161
-#EXTINF:-1,ESPN2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4074
-#EXTINF:-1,ESPN EXTRA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4075
-#EXTINF:-1,ESPN EXTRA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5499
-#EXTINF:-1,ESPN EXTRA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4076
-#EXTINF:-1,BAND CAMPINAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7407
-#EXTINF:-1,BAND SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/180
-#EXTINF:-1,BAND SPORTS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4078
-#EXTINF:-1,BAND SPORTS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/179
-#EXTINF:-1,BAND SPORTS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/182
-#EXTINF:-1,BAND SPORTS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4079
-#EXTINF:-1,OFF HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/183
-#EXTINF:-1,OFF HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4080
-#EXTINF:-1,OFF FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2237
-#EXTINF:-1,OFF SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/184
-#EXTINF:-1,OFF SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4081
-#EXTINF:-1,FISH TV H265 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/185
-#EXTINF:-1,FISH TV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/186
-#EXTINF:-1,PREMIERE CLUBES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/189
-#EXTINF:-1,PREMIERE CLUBES HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4084
-#EXTINF:-1,PREMIERE CLUBES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/188
-#EXTINF:-1,PREMIERE CLUBES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/192
-#EXTINF:-1,PREMIERE CLUBES SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4085
-#EXTINF:-1,PREMIERE 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/195
-#EXTINF:-1,PREMIERE 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4087
-#EXTINF:-1,PREMIERE 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/194
-#EXTINF:-1,PREMIERE 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/198
-#EXTINF:-1,PREMIERE 2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4086
-#EXTINF:-1,PREMIERE 3 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/201
-#EXTINF:-1,PREMIERE 3 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4089
-#EXTINF:-1,PREMIERE 3 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/200
-#EXTINF:-1,PREMIERE 3 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/203
-#EXTINF:-1,PREMIERE 3 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4088
-#EXTINF:-1,PREMIERE 4 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/206
-#EXTINF:-1,PREMIERE 4 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4091
-#EXTINF:-1,PREMIERE 4 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/205
-#EXTINF:-1,PREMIERE 4 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/208
-#EXTINF:-1,PREMIERE 4 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4090
-#EXTINF:-1,PREMIERE 5 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/210
-#EXTINF:-1,PREMIERE 5 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4092
-#EXTINF:-1,PREMIERE 5 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/209
-#EXTINF:-1,PREMIERE 5 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/211
-#EXTINF:-1,PREMIERE 5 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4093
-#EXTINF:-1,PREMIERE 6 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/215
-#EXTINF:-1,PREMIERE 6 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/214
-#EXTINF:-1,PREMIERE 6 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/216
-#EXTINF:-1,PREMIERE 7 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/219
-#EXTINF:-1,PREMIERE 7 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5496
-#EXTINF:-1,PREMIERE 7 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/220
-#EXTINF:-1,PREMIERE 8 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5508
-#EXTINF:-1,TELECINE PREMIUM HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/238
-#EXTINF:-1,TELECINE PREMIUM HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5525
-#EXTINF:-1,TELECINE PREMIUM FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/237
-#EXTINF:-1,TELECINE PREMIUM SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/241
-#EXTINF:-1,TELECINE PREMIUM SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5526
-#EXTINF:-1,TELECINE ACTION HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/245
-#EXTINF:-1,TELECINE ACTION HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5527
-#EXTINF:-1,TELECINE ACTION FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/244
-#EXTINF:-1,TELECINE ACTION SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/248
-#EXTINF:-1,TELECINE ACTION SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5528
-#EXTINF:-1,TELECINE PIPOCA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/251
-#EXTINF:-1,TELECINE PIPOCA HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5529
-#EXTINF:-1,TELECINE PIPOCA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/250
-#EXTINF:-1,TELECINE PIPOCA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/253
-#EXTINF:-1,TELECINE PIPOCA SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5530
-#EXTINF:-1,TELECINE FUN HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/255
-#EXTINF:-1,TELECINE FUN HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5531
-#EXTINF:-1,TELECINE FUN FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/254
-#EXTINF:-1,TELECINE FUN SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/257
-#EXTINF:-1,TELECINE FUN SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5532
-#EXTINF:-1,TELECINE TOUCH HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/260
-#EXTINF:-1,TELECINE TOUCH HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5533
-#EXTINF:-1,TELECINE TOUCH FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/259
-#EXTINF:-1,TELECINE TOUCH SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/263
-#EXTINF:-1,TELECINE TOUCH SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5534
-#EXTINF:-1,TELECINE CULT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/266
-#EXTINF:-1,TELECINE CULT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5535
-#EXTINF:-1,TELECINE CULT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/265
-#EXTINF:-1,TELECINE CULT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/268
-#EXTINF:-1,TELECINE CULT SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5536
-#EXTINF:-1,MEGAPIX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/270
-#EXTINF:-1,MEGAPIX HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5538
-#EXTINF:-1,MEGAPIX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/269
-#EXTINF:-1,MEGAPIX FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5537
-#EXTINF:-1,MEGAPIX SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/273
-#EXTINF:-1,MEGAPIX SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5539
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/275
-#EXTINF:-1,UNIVERSAL CHANNEL HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5540
-#EXTINF:-1,UNIVERSAL CHANNEL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/274
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/277
-#EXTINF:-1,UNIVERSAL CHANNEL SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5541
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/279
-#EXTINF:-1,STUDIO UNIVERSAL HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5542
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/278
-#EXTINF:-1,STUDIO UNIVERSAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/282
-#EXTINF:-1,STUDIO UNIVERSAL SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5543
-#EXTINF:-1,SYFY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/284
-#EXTINF:-1,SYFY HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5544
-#EXTINF:-1,SYFY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/283
-#EXTINF:-1,SYFY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/286
-#EXTINF:-1,SYFY SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5545
-#EXTINF:-1,CANAL BRASIL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4130
-#EXTINF:-1,CANAL BRASIL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7658
-#EXTINF:-1,CANAL BRASIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/289
-#EXTINF:-1,HBO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/292
-#EXTINF:-1,HBO HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5546
-#EXTINF:-1,HBO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/291
-#EXTINF:-1,HBO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/296
-#EXTINF:-1,HBO SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5547
-#EXTINF:-1,HBO 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/299
-#EXTINF:-1,HBO 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5548
-#EXTINF:-1,HBO 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/298
-#EXTINF:-1,HBO 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/301
-#EXTINF:-1,HBO 2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5549
-#EXTINF:-1,HBO PLUS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/304
-#EXTINF:-1,HBO PLUS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5550
-#EXTINF:-1,HBO PLUS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/303
-#EXTINF:-1,HBO PLUS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/307
-#EXTINF:-1,HBO PLUS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5551
-#EXTINF:-1,HBO FAMILY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/311
-#EXTINF:-1,HBO FAMILY HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5552
-#EXTINF:-1,HBO FAMILY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/310
-#EXTINF:-1,HBO FAMILY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/314
-#EXTINF:-1,HBO FAMILY SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5553
-#EXTINF:-1,HBO SIGNATURE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/316
-#EXTINF:-1,HBO SIGNATURE HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5554
-#EXTINF:-1,HBO SIGNATURE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/315
-#EXTINF:-1,HBO SIGNATURE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/319
-#EXTINF:-1,HBO SIGNATURE SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5555
-#EXTINF:-1,CINE SKY PLAY 1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57586
-#EXTINF:-1,CINE SKY PLAY 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57587
-#EXTINF:-1,CINE SKY PLAY 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57588
-#EXTINF:-1,CINE SKY PLAY 4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57589
-#EXTINF:-1,CINE SKY PLAY 5
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57590
-#EXTINF:-1,CINE SKY PLAY 6
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57591
-#EXTINF:-1,CINE SKY PLAY 7
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57592
-#EXTINF:-1,CINE SKY PLAY 8
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57593
-#EXTINF:-1,CINE SKY PLAY 9
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57594
-#EXTINF:-1,A&E HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/379
-#EXTINF:-1,A&E HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5562
-#EXTINF:-1,A&E FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/378
-#EXTINF:-1,A&E SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/382
-#EXTINF:-1,A&E SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5563
-#EXTINF:-1,AMC HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/392
-#EXTINF:-1,AMC FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/391
-#EXTINF:-1,AMC SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/395
-#EXTINF:-1,AXN HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/398
-#EXTINF:-1,AXN FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/397
-#EXTINF:-1,AXN SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/400
-#EXTINF:-1,CINEMAX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/371
-#EXTINF:-1,CINEMAX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/370
-#EXTINF:-1,CINEMAX SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/373
-#EXTINF:-1,CANAL SONY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/356
-#EXTINF:-1,CANAL SONY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/355
-#EXTINF:-1,CANAL SONY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/358
-#EXTINF:-1,FOX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/340
-#EXTINF:-1,FOX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/338
-#EXTINF:-1,FOX SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/343
-#EXTINF:-1,FOX LIFE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/350
-#EXTINF:-1,FOX LIFE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7643
-#EXTINF:-1,FOX LIFE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/351
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/345
-#EXTINF:-1,FOX PREMIUM 1 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/344
-#EXTINF:-1,FOX PREMIUM 1 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4134
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/348
-#EXTINF:-1,FOX PREMIUM 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/347
-#EXTINF:-1,FOX PREMIUM 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4131
-#EXTINF:-1,COMEDY CENTRAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/387
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6241
-#EXTINF:-1,COMEDY CENTRAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/389
-#EXTINF:-1,FX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/353
-#EXTINF:-1,FX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/352
-#EXTINF:-1,FX SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/354
-#EXTINF:-1,HBO EXTREME HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/329
-#EXTINF:-1,HBO EXTREME HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5556
-#EXTINF:-1,HBO EXTREME FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/328
-#EXTINF:-1,HBO EXTREME SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/331
-#EXTINF:-1,HBO EXTREME ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5557
-#EXTINF:-1,HBO POP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/325
-#EXTINF:-1,HBO POP HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5558
-#EXTINF:-1,HBO POP FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/324
-#EXTINF:-1,HBO POP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/327
-#EXTINF:-1,HBO POP SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5559
-#EXTINF:-1,HBO MUNDI HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/321
-#EXTINF:-1,HBO MUNDI HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5560
-#EXTINF:-1,HBO MUNDI FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7647
-#EXTINF:-1,HBO MUNDI SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/323
-#EXTINF:-1,MAX SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5561
-#EXTINF:-1,SPACE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/368
-#EXTINF:-1,SPACE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/367
-#EXTINF:-1,SPACE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/369
-#EXTINF:-1,PARAMOUNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/376
-#EXTINF:-1,PARAMOUNT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/375
-#EXTINF:-1,PARAMOUNT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/377
-#EXTINF:-1,TBS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/385
-#EXTINF:-1,TBS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/384
-#EXTINF:-1,TBS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/386
-#EXTINF:-1,TNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/361
-#EXTINF:-1,TNT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57356
-#EXTINF:-1,TNT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/360
-#EXTINF:-1,TNT FHD ALT H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57360
-#EXTINF:-1,TNT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/362
-#EXTINF:-1,TNT SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57358
-#EXTINF:-1,TNT SERIES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/364
-#EXTINF:-1,TNT SERIES HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57357
-#EXTINF:-1,TNT SERIES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4132
-#EXTINF:-1,TNT SERIES FHD ALT H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57361
-#EXTINF:-1,TNT SERIES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/366
-#EXTINF:-1,TNT SERIES SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57359
-#EXTINF:-1,TCM SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/402
-#EXTINF:-1,TCM SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8318
-#EXTINF:-1,TV DIARIO FORTALEZA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6239
-#EXTINF:-1,TV DIARIO FORTALEZA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7663
-#EXTINF:-1,TV DIARIO FORTALEZA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6240
-#EXTINF:-1,WARNER CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/335
-#EXTINF:-1,WARNER CHANNEL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4133
-#EXTINF:-1,WARNER CHANNEL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/337
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/405
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4106
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/404
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/408
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4107
-#EXTINF:-1,DISCOVERY TURBO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/413
-#EXTINF:-1,DISCOVERY TURBO HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4108
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/411
-#EXTINF:-1,DISCOVERY TURBO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/415
-#EXTINF:-1,DISCOVERY TURBO SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4109
-#EXTINF:-1,TLC HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/417
-#EXTINF:-1,TLC HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4110
-#EXTINF:-1,TLC FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/416
-#EXTINF:-1,TLC SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/420
-#EXTINF:-1,TLC SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4111
-#EXTINF:-1,VIVA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/422
-#EXTINF:-1,VIVA HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4112
-#EXTINF:-1,VIVA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5497
-#EXTINF:-1,VIVA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/424
-#EXTINF:-1,VIVA SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4113
-#EXTINF:-1,GNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/426
-#EXTINF:-1,GNT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4114
-#EXTINF:-1,GNT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2509
-#EXTINF:-1,GNT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/429
-#EXTINF:-1,GNT SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4115
-#EXTINF:-1,WOOHOO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/435
-#EXTINF:-1,WOOHOO HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4116
-#EXTINF:-1,WOOHOO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7655
-#EXTINF:-1,WOOHOO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/436
-#EXTINF:-1,WOOHOO SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4117
-#EXTINF:-1,LIFETIME HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/438
-#EXTINF:-1,LIFETIME HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4118
-#EXTINF:-1,LIFETIME FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7646
-#EXTINF:-1,LIFETIME SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/440
-#EXTINF:-1,LIFETIME SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4119
-#EXTINF:-1,E! HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/442
-#EXTINF:-1,E! FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/441
-#EXTINF:-1,E! SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/444
-#EXTINF:-1,E! SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4121
-#EXTINF:-1,FOOD NETWORK HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/446
-#EXTINF:-1,FOOD NETWORK HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4122
-#EXTINF:-1,FOOD NETWORK FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/445
-#EXTINF:-1,FOOD NETWORK SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/447
-#EXTINF:-1,FOOD NETWORK SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4123
-#EXTINF:-1,PLAYTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/448
-#EXTINF:-1,TRUTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4103
-#EXTINF:-1,TRUTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7652
-#EXTINF:-1,TRUTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/451
-#EXTINF:-1,MULTISHOW HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/454
-#EXTINF:-1,MULTISHOW FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/453
-#EXTINF:-1,MULTISHOW SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/457
-#EXTINF:-1,BIS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/459
-#EXTINF:-1,BIS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/458
-#EXTINF:-1,BIS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/460
-#EXTINF:-1,MTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/461
-#EXTINF:-1,MTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/462
-#EXTINF:-1,MTV LIVE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4135
-#EXTINF:-1,MTV LIVE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7648
-#EXTINF:-1,MTV LIVE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4136
-#EXTINF:-1,MTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/464
-#EXTINF:-1,VH1 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/465
-#EXTINF:-1,VH1 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7654
-#EXTINF:-1,VH1 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3663
-#EXTINF:-1,VH1 MEGAHITS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/467
-#EXTINF:-1,PRIME BOX BRAZIL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4137
-#EXTINF:-1,PRIME BOX BRAZIL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7651
-#EXTINF:-1,PRIME BOX BRAZIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/469
-#EXTINF:-1,TV UNIVESP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/56897
-#EXTINF:-1,TV UNIVESP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/56898
-#EXTINF:-1,TV CULTURA EDUCACAO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/56899
-#EXTINF:-1,TV CULTURA EDUCACAO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/56900
-#EXTINF:-1,DOG TV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61604
-#EXTINF:-1,ANIMAL PLANET HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/475
-#EXTINF:-1,ANIMAL PLANET FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/474
-#EXTINF:-1,ANIMAL PLANET SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/477
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/480
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/479
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/481
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/484
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/482
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/486
-#EXTINF:-1,DISCOVERY THEATER HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/489
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5463
-#EXTINF:-1,DISCOVERY THEATER SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/491
-#EXTINF:-1,DISCOVERY WORLD HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/494
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/493
-#EXTINF:-1,DISCOVERY WORLD SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/496
-#EXTINF:-1,HGTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/498
-#EXTINF:-1,HGTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/497
-#EXTINF:-1,HGTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/500
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/503
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4317
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/504
-#EXTINF:-1,NAT GEO WILD HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/506
-#EXTINF:-1,NAT GEO WILD FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/505
-#EXTINF:-1,NAT GEO WILD SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/507
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/509
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/508
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/512
-#EXTINF:-1,HISTORY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/515
-#EXTINF:-1,HISTORY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/514
-#EXTINF:-1,HISTORY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/517
-#EXTINF:-1,H2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/519
-#EXTINF:-1,H2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/518
-#EXTINF:-1,H2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/521
-#EXTINF:-1,ARTE 1 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/523
-#EXTINF:-1,ARTE 1 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7639
-#EXTINF:-1,ARTE 1 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/524
-#EXTINF:-1,RECORD ES TV VITORIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8578
-#EXTINF:-1,RECORD ES TV VITORIA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8579
-#EXTINF:-1,RECORD ES TV VITORIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8577
-#EXTINF:-1,GLOBO NEWS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/526
-#EXTINF:-1,GLOBO NEWS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/525
-#EXTINF:-1,GLOBO NEWS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4124
-#EXTINF:-1,GLOBO NEWS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/528
-#EXTINF:-1,GLOBO NEWS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4125
-#EXTINF:-1,BAND NEWS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/531
-#EXTINF:-1,BAND NEWS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4126
-#EXTINF:-1,BAND NEWS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/530
-#EXTINF:-1,BAND NEWS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/532
-#EXTINF:-1,BAND NEWS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4127
-#EXTINF:-1,RECORDTV RS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5522
-#EXTINF:-1,RECORDTV RS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5523
-#EXTINF:-1,RECORDTV RS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5521
-#EXTINF:-1,RECORDTV BAHIA TV CABRALIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7414
-#EXTINF:-1,RECORDTV TV BELEM HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7411
-#EXTINF:-1,RECORDTV MG PARANAIBA UBERLANDIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7410
-#EXTINF:-1,RECORDTV TV LITORAL SANTOS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7409
-#EXTINF:-1,RECORDTV SAO JOSE DO RIO PRETO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7408
-#EXTINF:-1,RECORDTV DF HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5519
-#EXTINF:-1,RECORDTV DF FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5520
-#EXTINF:-1,RECORDTV DF SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5518
-#EXTINF:-1,RECORD NEWS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/534
-#EXTINF:-1,RECORD NEWS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4128
-#EXTINF:-1,RECORD NEWS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/533
-#EXTINF:-1,RECORD NEWS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/536
-#EXTINF:-1,RECORD NEWS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4129
-#EXTINF:-1,GLOOB HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/538
-#EXTINF:-1,GLOOB FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/537
-#EXTINF:-1,GLOOB SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/540
-#EXTINF:-1,GLOOBINHO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4536
-#EXTINF:-1,GLOOBINHO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4535
-#EXTINF:-1,GLOOBINHO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4537
-#EXTINF:-1,NAT GEO KIDS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/544
-#EXTINF:-1,NAT GEO KIDS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/543
-#EXTINF:-1,NAT GEO KIDS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/545
-#EXTINF:-1,DISCOVERY KIDS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/553
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/552
-#EXTINF:-1,DISCOVERY KIDS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/555
-#EXTINF:-1,LOADING HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57182
-#EXTINF:-1,LOADING SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61638
-#EXTINF:-1,PLAYKIDS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4253
-#EXTINF:-1,PLAYKIDS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7662
-#EXTINF:-1,PLAYKIDS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4254
-#EXTINF:-1,BABY TV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/546
-#EXTINF:-1,TV RA TIM BUM HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/548
-#EXTINF:-1,TV RA TIM BUM FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7653
-#EXTINF:-1,TV RA TIM BUM SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/549
-#EXTINF:-1,BOOMERANG HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/558
-#EXTINF:-1,BOOMERANG FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/557
-#EXTINF:-1,BOOMERANG SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/561
-#EXTINF:-1,CARTOON NETWORK HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/564
-#EXTINF:-1,CARTOON NETWORK FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/562
-#EXTINF:-1,CARTOON NETWORK SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/567
-#EXTINF:-1,TOONCAST HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/570
-#EXTINF:-1,TOONCAST SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/569
-#EXTINF:-1,NICK JR HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/572
-#EXTINF:-1,NICK JR FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/571
-#EXTINF:-1,NICK JR SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/574
-#EXTINF:-1,NICK HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/576
-#EXTINF:-1,NICK FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/575
-#EXTINF:-1,NICK SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/577
-#EXTINF:-1,ZOOMOO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/550
-#EXTINF:-1,DISNEY CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/579
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/578
-#EXTINF:-1,DISNEY CHANNEL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/581
-#EXTINF:-1,DISNEY JUNIOR HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/584
-#EXTINF:-1,DISNEY JUNIOR FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/583
-#EXTINF:-1,DISNEY JUNIOR SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/586
-#EXTINF:-1,DISNEY XD HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/587
-#EXTINF:-1,DISNEY XD SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/588
-#EXTINF:-1,CANCAO NOVA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/590
-#EXTINF:-1,CANCAO NOVA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/591
-#EXTINF:-1,TV EVANGELIZAR SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/55346
-#EXTINF:-1,REDE VIDA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7615
-#EXTINF:-1,REDE VIDA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7661
-#EXTINF:-1,REDE VIDA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/593
-#EXTINF:-1,TV APARECIDA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/594
-#EXTINF:-1,TV NOVO TEMPO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/596
-#EXTINF:-1,GOSPEL MOVIES TELEVISION SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/598
-#EXTINF:-1,IGREJA MUNDIAL DO PODER DE DEUS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/599
-#EXTINF:-1,X BOB ESPONJA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6176
-#EXTINF:-1,X OS SIMPSONS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6175
-#EXTINF:-1,X LARVA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6172
-#EXTINF:-1,X TURMA DA MONICA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6178
-#EXTINF:-1,X THE BACKYARDIGANS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6179
-#EXTINF:-1,X SCOOBY DOO
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7051
-#EXTINF:-1,X CORAGEM, O CAO COVARDE
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7050
-#EXTINF:-1,X PICA PAU
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6182
-#EXTINF:-1,X MICKEY MOUSE
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6183
-#EXTINF:-1,X HORA DE AVENTURA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6190
-#EXTINF:-1,X PEPPA PIG
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6189
-#EXTINF:-1,X PATRULHA CANINA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6192
-#EXTINF:-1,X PJ MASKS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6191
-#EXTINF:-1,X DRAGON BALL MAJIN BOO
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6177
-#EXTINF:-1,X DRAGON BALL SUPER
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6670
-#EXTINF:-1,X DRAGON BALL GT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6276
-#EXTINF:-1,X DRAGON BALL SAGA DOS ANDROIDES
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6277
-#EXTINF:-1,X DRAGON BALL Z SAGA DE FREEZA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6275
-#EXTINF:-1,X IRMAO DO JOREL
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6285
-#EXTINF:-1,X NARUTO
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6279
-#EXTINF:-1,X POKEMON SUN AND MOON
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6282
-#EXTINF:-1,X SHOW DA LUNA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6283
-#EXTINF:-1,X SOUTH PARK
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6284
-#EXTINF:-1,X SHOWS EXCLUSIVO
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6260
-#EXTINF:-1,X FAMILY
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6261
-#EXTINF:-1,X ACTION
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6262
-#EXTINF:-1,X KIDS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6263
-#EXTINF:-1,X DC COMICS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6264
-#EXTINF:-1,X MARVEL
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6265
-#EXTINF:-1,X TERROR
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6266
-#EXTINF:-1,X CHAVES
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6294
-#EXTINF:-1,X CSI
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6288
-#EXTINF:-1,X DOIS HOMENS E MEIO
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6293
-#EXTINF:-1,X DOIS HOMENS E MEIO (VERSAO ANTIGA)
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6303
-#EXTINF:-1,X THE BIG BANG THEORY
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6302
-#EXTINF:-1,X UM MALUCO NO PEDACO
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6605
-#EXTINF:-1,X EU A PATROA E AS CRIANCAS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6299
-#EXTINF:-1,X MR. BEAN
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6297
-#EXTINF:-1,X OS TRAPALHOES 2017
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6287
-#EXTINF:-1,X PATATI PATATA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6296
-#EXTINF:-1,X TO DE GRACA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6291
-#EXTINF:-1,X TODO MUNDO ODEIA O CHRIS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6290
-#EXTINF:-1,X TOMA LA DA CA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6298
-#EXTINF:-1,X VAI QUE COLA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6301
-#EXTINF:-1,X XUXA SO PARA BAIXINHOS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6295
-#EXTINF:-1,X CVZ - ASGARD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6274
-#EXTINF:-1,X CVZ - POSEIDON
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6273
-#EXTINF:-1,SECULO 21 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2227
-#EXTINF:-1,MUSIC BOX BRAZIL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7650
-#EXTINF:-1,MUSIC BOX BRAZIL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7649
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/468
-#EXTINF:-1,TV GIDEOES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3823
-#EXTINF:-1,CANAL DO BOI SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3669
-#EXTINF:-1,REDE SUPER SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4037
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5447
-#EXTINF:-1,ELEVEN SPORTS 2 HD PT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5446
-#EXTINF:-1,ELEVEN SPORTS 3 HD PT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5445
-#EXTINF:-1,ELEVEN SPORTS 4 HD PT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5444
-#EXTINF:-1,ELEVEN SPORTS 5 HD PT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5443
+#EXTINF:-1,A&E FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4088
+#EXTINF:-1,A&E FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6701
+#EXTINF:-1,A&E HD¹
+http://srvtv.online:2082/User501234/MVt25589/6882
+#EXTINF:-1,A&E SD¹
+http://srvtv.online:2082/User501234/MVt25589/6883
+#EXTINF:-1,A&E HD DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6819
+#EXTINF:-1,A&E HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4125
+#EXTINF:-1,A&E HD²
+http://srvtv.online:2082/User501234/MVt25589/4122
+#EXTINF:-1,A&E SD²
+http://srvtv.online:2082/User501234/MVt25589/4123
+#EXTINF:-1,ABU DABI SPORT 1 HD²
+http://srvtv.online:2082/User501234/MVt25589/4596
+#EXTINF:-1,ABU DABI SPORT 2 HD²
+http://srvtv.online:2082/User501234/MVt25589/4597
+#EXTINF:-1,ABU DABI SPORT 3 HD²
+http://srvtv.online:2082/User501234/MVt25589/4598
+#EXTINF:-1,ABU DABI SPORT 4 HD²
+http://srvtv.online:2082/User501234/MVt25589/4599
+#EXTINF:-1,ABU DABI SPORT 5 HD²
+http://srvtv.online:2082/User501234/MVt25589/4600
+#EXTINF:-1,AGRO CANAL HD¹
+http://srvtv.online:2082/User501234/MVt25589/6826
+#EXTINF:-1,AMC FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6736
+#EXTINF:-1,AMC FHD²
+http://srvtv.online:2082/User501234/MVt25589/4089
+#EXTINF:-1,AMC HD¹
+http://srvtv.online:2082/User501234/MVt25589/6928
+#EXTINF:-1,AMC HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4128
+#EXTINF:-1,AMC HD²
+http://srvtv.online:2082/User501234/MVt25589/4126
+#EXTINF:-1,AMC SD²
+http://srvtv.online:2082/User501234/MVt25589/4127
+#EXTINF:-1,AMC SD²
+http://srvtv.online:2082/User501234/MVt25589/4129
+#EXTINF:-1,AMC SD¹
+http://srvtv.online:2082/User501234/MVt25589/6929
+#EXTINF:-1,ANIMAL PLANET 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6633
+#EXTINF:-1,ANIMAL PLANET FHD²
+http://srvtv.online:2082/User501234/MVt25589/3912
+#EXTINF:-1,ANIMAL PLANET FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6669
+#EXTINF:-1,ANIMAL PLANET HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3935
+#EXTINF:-1,ANIMAL PLANET HD²
+http://srvtv.online:2082/User501234/MVt25589/3934
+#EXTINF:-1,ANIMAL PLANET HD¹
+http://srvtv.online:2082/User501234/MVt25589/6848
+#EXTINF:-1,ANIMAL PLANET SD²
+http://srvtv.online:2082/User501234/MVt25589/3936
+#EXTINF:-1,ANIMAL PLANET SD¹
+http://srvtv.online:2082/User501234/MVt25589/6849
+#EXTINF:-1,APARECIDA HD²
+http://srvtv.online:2082/User501234/MVt25589/4606
+#EXTINF:-1,APARECIDA SD²
+http://srvtv.online:2082/User501234/MVt25589/4605
+#EXTINF:-1,ARTE 1 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6688
+#EXTINF:-1,ARTE 1 HD²
+http://srvtv.online:2082/User501234/MVt25589/3992
+#EXTINF:-1,ARTE 1 HD¹
+http://srvtv.online:2082/User501234/MVt25589/6875
+#EXTINF:-1,ARTE 1 SD²
+http://srvtv.online:2082/User501234/MVt25589/3993
+#EXTINF:-1,AXN FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4091
+#EXTINF:-1,AXN FHD²
+http://srvtv.online:2082/User501234/MVt25589/4090
+#EXTINF:-1,AXN FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6717
+#EXTINF:-1,AXN HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4131
+#EXTINF:-1,AXN HD²
+http://srvtv.online:2082/User501234/MVt25589/4130
+#EXTINF:-1,AXN HD¹
+http://srvtv.online:2082/User501234/MVt25589/6941
+#EXTINF:-1,AXN SD²
+http://srvtv.online:2082/User501234/MVt25589/4132
+#EXTINF:-1,AXN SD¹
+http://srvtv.online:2082/User501234/MVt25589/6942
+#EXTINF:-1,BABY TV HD¹
+http://srvtv.online:2082/User501234/MVt25589/6984
+#EXTINF:-1,BABY TV HD²
+http://srvtv.online:2082/User501234/MVt25589/4222
+#EXTINF:-1,BABY TV SD²
+http://srvtv.online:2082/User501234/MVt25589/4223
+#EXTINF:-1,BABY TV SD¹
+http://srvtv.online:2082/User501234/MVt25589/6985
+#EXTINF:-1,BAND CAMPINAS HD²
+http://srvtv.online:2082/User501234/MVt25589/3817
+#EXTINF:-1,BAND CAMPINAS SD²
+http://srvtv.online:2082/User501234/MVt25589/3816
+#EXTINF:-1,BAND FHD²
+http://srvtv.online:2082/User501234/MVt25589/3809
+#EXTINF:-1,BAND HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3820
+#EXTINF:-1,BAND HD²
+http://srvtv.online:2082/User501234/MVt25589/3819
+#EXTINF:-1,BAND NEWS FHD²
+http://srvtv.online:2082/User501234/MVt25589/4270
+#EXTINF:-1,BAND NEWS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6763
+#EXTINF:-1,BAND NEWS HD²
+http://srvtv.online:2082/User501234/MVt25589/4279
+#EXTINF:-1,BAND NEWS HD¹
+http://srvtv.online:2082/User501234/MVt25589/7022
+#EXTINF:-1,BAND NEWS SD²
+http://srvtv.online:2082/User501234/MVt25589/4277
+#EXTINF:-1,BAND NEWS SD²
+http://srvtv.online:2082/User501234/MVt25589/4280
+#EXTINF:-1,BAND SD²
+http://srvtv.online:2082/User501234/MVt25589/3821
+#EXTINF:-1,BAND SD¹
+http://srvtv.online:2082/User501234/MVt25589/6831
+#EXTINF:-1,BAND SPORTS FHD²
+http://srvtv.online:2082/User501234/MVt25589/4531
+#EXTINF:-1,BAND SPORTS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6703
+#EXTINF:-1,BAND SPORTS HD²
+http://srvtv.online:2082/User501234/MVt25589/4554
+#EXTINF:-1,BAND SPORTS HD¹
+http://srvtv.online:2082/User501234/MVt25589/6918
+#EXTINF:-1,BAND SPORTS SD²
+http://srvtv.online:2082/User501234/MVt25589/4552
+#EXTINF:-1,BAND 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6626
+#EXTINF:-1,BAND SPORTS SD¹
+http://srvtv.online:2082/User501234/MVt25589/6919
+#EXTINF:-1,BAND HD¹
+http://srvtv.online:2082/User501234/MVt25589/6830
+#EXTINF:-1,BIS FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3981
+#EXTINF:-1,BIS FHD²
+http://srvtv.online:2082/User501234/MVt25589/3980
+#EXTINF:-1,BIS HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3998
+#EXTINF:-1,BIS HD²
+http://srvtv.online:2082/User501234/MVt25589/3999
+#EXTINF:-1,BIS SD²
+http://srvtv.online:2082/User501234/MVt25589/3996
+#EXTINF:-1,BLOOMBERG INTERNATIONAL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6754
+#EXTINF:-1,BOA VONTADE HD²
+http://srvtv.online:2082/User501234/MVt25589/4615
+#EXTINF:-1,BOA VONTADE TV SD¹
+http://srvtv.online:2082/User501234/MVt25589/7088
+#EXTINF:-1,BOOMERANG FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6755
+#EXTINF:-1,BOOMBERANG HD¹
+http://srvtv.online:2082/User501234/MVt25589/6997
+#EXTINF:-1,BOOMERANG SD¹
+http://srvtv.online:2082/User501234/MVt25589/6998
+#EXTINF:-1,BOOMERANG FHD²
+http://srvtv.online:2082/User501234/MVt25589/4209
+#EXTINF:-1,BOOMERANG HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4219
+#EXTINF:-1,BOOMERANG HD²
+http://srvtv.online:2082/User501234/MVt25589/4218
+#EXTINF:-1,BOOMERANG SD²
+http://srvtv.online:2082/User501234/MVt25589/4220
+#EXTINF:-1,CANAL BRASIL FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4094
+#EXTINF:-1,CANAL BRASIL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6653
+#EXTINF:-1,CANAL BRASIL HD²
+http://srvtv.online:2082/User501234/MVt25589/4139
+#EXTINF:-1,CANAL BRASIL HD¹
+http://srvtv.online:2082/User501234/MVt25589/6840
+#EXTINF:-1,CANAL BRASIL SD²
+http://srvtv.online:2082/User501234/MVt25589/4140
+#EXTINF:-1,CANAL BRASIL SD¹
+http://srvtv.online:2082/User501234/MVt25589/6881
+#EXTINF:-1,DISCOVERY CHANNEL SD¹
+http://srvtv.online:2082/User501234/MVt25589/6857
+#EXTINF:-1,CANAL DO BOI FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6657
+#EXTINF:-1,CANAL DO BOI SD²
+http://srvtv.online:2082/User501234/MVt25589/3855
+#EXTINF:-1,CANAL FUTURA HD²
+http://srvtv.online:2082/User501234/MVt25589/3862
+#EXTINF:-1,CANAL FUTURA SD²
+http://srvtv.online:2082/User501234/MVt25589/3860
+#EXTINF:-1,CANAL PROMESSAS FHD²
+http://srvtv.online:2082/User501234/MVt25589/4601
+#EXTINF:-1,CANAL RURAL SD¹
+http://srvtv.online:2082/User501234/MVt25589/6827
+#EXTINF:-1,CANAL SONY FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4093
+#EXTINF:-1,CANAL SONY FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6725
+#EXTINF:-1,CANAL SONY FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6734
+#EXTINF:-1,CANAL SONY HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4135
+#EXTINF:-1,CANAL SONY HD²
+http://srvtv.online:2082/User501234/MVt25589/4134
+#EXTINF:-1,CANAL SONY HD¹
+http://srvtv.online:2082/User501234/MVt25589/6960
+#EXTINF:-1,CANAL SONY SD²
+http://srvtv.online:2082/User501234/MVt25589/4137
+#EXTINF:-1,CANAL SONY SD¹
+http://srvtv.online:2082/User501234/MVt25589/6961
+#EXTINF:-1,CANCAO NOVA FHD²
+http://srvtv.online:2082/User501234/MVt25589/4602
+#EXTINF:-1,CANÇAO NOVA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7089
+#EXTINF:-1,CARTOON 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6636
+#EXTINF:-1,CARTOON HD¹
+http://srvtv.online:2082/User501234/MVt25589/6999
+#EXTINF:-1,CARTOON NETWORK FHD²
+http://srvtv.online:2082/User501234/MVt25589/4211
+#EXTINF:-1,CARTOON NETWORK FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6752
+#EXTINF:-1,CARTOON NETWORK SD²
+http://srvtv.online:2082/User501234/MVt25589/4226
+#EXTINF:-1,CARTOON NETWORK SD¹
+http://srvtv.online:2082/User501234/MVt25589/7000
+#EXTINF:-1,CINEMAX dual audio FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6724
+#EXTINF:-1,CINEMAX FHD²
+http://srvtv.online:2082/User501234/MVt25589/4095
+#EXTINF:-1,CINEMAX HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4143
+#EXTINF:-1,CINEMAX HD²
+http://srvtv.online:2082/User501234/MVt25589/4142
+#EXTINF:-1,CINEMAX HD¹
+http://srvtv.online:2082/User501234/MVt25589/6944
+#EXTINF:-1,CINEMAX SD²
+http://srvtv.online:2082/User501234/MVt25589/4145
+#EXTINF:-1,cinemax sd¹
+http://srvtv.online:2082/User501234/MVt25589/6945
+#EXTINF:-1,CNN BRASIL FHD²
+http://srvtv.online:2082/User501234/MVt25589/4271
+#EXTINF:-1,CNN BRASIL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6697
+#EXTINF:-1,CNN BRASIL HD¹
+http://srvtv.online:2082/User501234/MVt25589/7014
+#EXTINF:-1,CNN BRASIL SD²
+http://srvtv.online:2082/User501234/MVt25589/4281
+#EXTINF:-1,CNN BRASIL SD¹
+http://srvtv.online:2082/User501234/MVt25589/7015
+#EXTINF:-1,CNN ESPANHOL SD²
+http://srvtv.online:2082/User501234/MVt25589/4282
+#EXTINF:-1,CNN INTERNACIONAL SD²
+http://srvtv.online:2082/User501234/MVt25589/4283
+#EXTINF:-1,CNN INTERNACIONAL SD¹
+http://srvtv.online:2082/User501234/MVt25589/7016
+#EXTINF:-1,COMBATE 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6627
+#EXTINF:-1,COMBATE FHD DUAL AUDIO H265¹
+http://srvtv.online:2082/User501234/MVt25589/6818
+#EXTINF:-1,COMBATE FHD²
+http://srvtv.online:2082/User501234/MVt25589/4530
+#EXTINF:-1,COMBATE FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6704
+#EXTINF:-1,COMBATE HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4549
+#EXTINF:-1,COMBATE HD²
+http://srvtv.online:2082/User501234/MVt25589/4548
+#EXTINF:-1,COMBATE HD¹
+http://srvtv.online:2082/User501234/MVt25589/6908
+#EXTINF:-1,COMBATE SD²
+http://srvtv.online:2082/User501234/MVt25589/4551
+#EXTINF:-1,COMBATE SD¹
+http://srvtv.online:2082/User501234/MVt25589/6909
+#EXTINF:-1,COMEDY CENTRAL FHD²
+http://srvtv.online:2082/User501234/MVt25589/3989
+#EXTINF:-1,COMEDY CENTRAL HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4034
+#EXTINF:-1,COMEDY CENTRAL SD²
+http://srvtv.online:2082/User501234/MVt25589/4033
+#EXTINF:-1,COMEDY FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6700
+#EXTINF:-1,COMEDY HD¹
+http://srvtv.online:2082/User501234/MVt25589/6879
+#EXTINF:-1,COMEDY SD¹
+http://srvtv.online:2082/User501234/MVt25589/6880
+#EXTINF:-1,CULTURA HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3853
+#EXTINF:-1,CULTURA HD²
+http://srvtv.online:2082/User501234/MVt25589/3854
+#EXTINF:-1,CULTURA SD²
+http://srvtv.online:2082/User501234/MVt25589/3852
+#EXTINF:-1,CURTA HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3856
+#EXTINF:-1,CURTA! HD²
+http://srvtv.online:2082/User501234/MVt25589/3859
+#EXTINF:-1,CURTA! SD²
+http://srvtv.online:2082/User501234/MVt25589/3857
+#EXTINF:-1,DAZN FHD²
+http://srvtv.online:2082/User501234/MVt25589/4676
+#EXTINF:-1,DAZN HD¹
+http://srvtv.online:2082/User501234/MVt25589/6806
+#EXTINF:-1,DAZN²
+http://srvtv.online:2082/User501234/MVt25589/4677
+#EXTINF:-1,DISCOVERY CHANNEL 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6630
+#EXTINF:-1,DISCOVERY CHANNEL FHD²
+http://srvtv.online:2082/User501234/MVt25589/3913
+#EXTINF:-1,DISCOVERY CHANNEL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6676
+#EXTINF:-1,DISCOVERY CHANNEL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6679
+#EXTINF:-1,DISCOVERY CHANNEL HD DUAL ²
+http://srvtv.online:2082/User501234/MVt25589/3939
+#EXTINF:-1,DISCOVERY CHANNEL HD²
+http://srvtv.online:2082/User501234/MVt25589/3938
+#EXTINF:-1,DISCOVERY CHANNEL HD¹
+http://srvtv.online:2082/User501234/MVt25589/6856
+#EXTINF:-1,DISCOVERY CHANNEL SD²
+http://srvtv.online:2082/User501234/MVt25589/3940
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD²
+http://srvtv.online:2082/User501234/MVt25589/3915
+#EXTINF:-1,DISCOVERY CIVILIZATION SD²
+http://srvtv.online:2082/User501234/MVt25589/3978
+#EXTINF:-1,DISCOVERY H&H FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3917
+#EXTINF:-1,DISCOVERY H&H FHD²
+http://srvtv.online:2082/User501234/MVt25589/3916
+#EXTINF:-1,DISCOVERY H&H FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6678
+#EXTINF:-1,DISCOVERY H&H HD²
+http://srvtv.online:2082/User501234/MVt25589/3942
+#EXTINF:-1,DISCOVERY H&H HD¹
+http://srvtv.online:2082/User501234/MVt25589/6854
+#EXTINF:-1,DISCOVERY H&H SD²
+http://srvtv.online:2082/User501234/MVt25589/3944
+#EXTINF:-1,DISCOVERY H&H SD¹
+http://srvtv.online:2082/User501234/MVt25589/6855
+#EXTINF:-1,DISCOVERY KIDS FHD²
+http://srvtv.online:2082/User501234/MVt25589/4212
+#EXTINF:-1,DISCOVERY KIDS HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4228
+#EXTINF:-1,DISCOVERY KIDS HD²
+http://srvtv.online:2082/User501234/MVt25589/4227
+#EXTINF:-1,DISCOVERY KIDS HD¹
+http://srvtv.online:2082/User501234/MVt25589/6993
+#EXTINF:-1,DISCOVERY KIDS SD²
+http://srvtv.online:2082/User501234/MVt25589/4230
+#EXTINF:-1,DISCOVERY KIDS SD¹
+http://srvtv.online:2082/User501234/MVt25589/6994
+#EXTINF:-1,DISCOVERY SCIENCE DUAL SD¹
+http://srvtv.online:2082/User501234/MVt25589/6864
+#EXTINF:-1,DISCOVERY SCIENCE FHD²
+http://srvtv.online:2082/User501234/MVt25589/3918
+#EXTINF:-1,DISCOVERY SCIENCE FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6677
+#EXTINF:-1,DISCOVERY SCIENCE HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3947
+#EXTINF:-1,DISCOVERY SCIENCE HD²
+http://srvtv.online:2082/User501234/MVt25589/3946
+#EXTINF:-1,DISCOVERY SCIENCE HD¹
+http://srvtv.online:2082/User501234/MVt25589/6863
+#EXTINF:-1,DISCOVERY SCIENCE SD²
+http://srvtv.online:2082/User501234/MVt25589/3948
+#EXTINF:-1,DISCOVERY TEATHER FHD²
+http://srvtv.online:2082/User501234/MVt25589/3919
+#EXTINF:-1,DISCOVERY THEATER FHD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6798
+#EXTINF:-1,DISCOVERY THEATER FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6674
+#EXTINF:-1,DISCOVERY THEATER HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3950
+#EXTINF:-1,DISCOVERY THEATER HD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6799
+#EXTINF:-1,DISCOVERY THEATER HD²
+http://srvtv.online:2082/User501234/MVt25589/3949
+#EXTINF:-1,DISCOVERY THEATER HD¹
+http://srvtv.online:2082/User501234/MVt25589/6861
+#EXTINF:-1,DISCOVERY THEATER SD²
+http://srvtv.online:2082/User501234/MVt25589/3951
+#EXTINF:-1,DISCOVERY THEATER DUAL AUDIO SD¹ 
+http://srvtv.online:2082/User501234/MVt25589/6862
+#EXTINF:-1,DISCOVERY TURBO FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3922
+#EXTINF:-1,DISCOVERY TURBO FHD²
+http://srvtv.online:2082/User501234/MVt25589/3921
+#EXTINF:-1,DISCOVERY TURBO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6670
+#EXTINF:-1,DISCOVERY TURBO HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3953
+#EXTINF:-1,DISCOVERY TURBO HD²
+http://srvtv.online:2082/User501234/MVt25589/3952
+#EXTINF:-1,DISCOVERY TURBO HD¹
+http://srvtv.online:2082/User501234/MVt25589/6859
+#EXTINF:-1,DISCOVERY TURBO SD²
+http://srvtv.online:2082/User501234/MVt25589/3954
+#EXTINF:-1,DISCOVERY TURBO SD¹
+http://srvtv.online:2082/User501234/MVt25589/6860
+#EXTINF:-1,DISCOVERY WORLD DUAL SD¹
+http://srvtv.online:2082/User501234/MVt25589/6865
+#EXTINF:-1,DISCOVERY WORLD FHD²
+http://srvtv.online:2082/User501234/MVt25589/3923
+#EXTINF:-1,DISCOVERY WORLD FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6675
+#EXTINF:-1,DISCOVERY WORLD HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3956
+#EXTINF:-1,DISCOVERY WORLD HD²
+http://srvtv.online:2082/User501234/MVt25589/3955
+#EXTINF:-1,DISCOVERY WORLD HD¹
+http://srvtv.online:2082/User501234/MVt25589/6858
+#EXTINF:-1,DISCOVERY WORLD SD²
+http://srvtv.online:2082/User501234/MVt25589/3957
+#EXTINF:-1,DISCOVERY-H&H HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3943
+#EXTINF:-1,DISNEY CHANNEL FHD²
+http://srvtv.online:2082/User501234/MVt25589/4213
+#EXTINF:-1,DISNEY CHANNEL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6760
+#EXTINF:-1,DISNEY CHANNEL HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4234
+#EXTINF:-1,DISNEY CHANNEL HD²
+http://srvtv.online:2082/User501234/MVt25589/4231
+#EXTINF:-1,DISNEY CHANNEL HD¹
+http://srvtv.online:2082/User501234/MVt25589/6991
+#EXTINF:-1,DISNEY CHANNEL SD²
+http://srvtv.online:2082/User501234/MVt25589/4236
+#EXTINF:-1,DISNEY CHANNEL SD¹
+http://srvtv.online:2082/User501234/MVt25589/6992
+#EXTINF:-1,DISNEY JR FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6756
+#EXTINF:-1,DISNEY JR HD¹
+http://srvtv.online:2082/User501234/MVt25589/6987
+#EXTINF:-1,DISNEY JR SD¹
+http://srvtv.online:2082/User501234/MVt25589/6988
+#EXTINF:-1,DISNEY JUNIOR FHD²
+http://srvtv.online:2082/User501234/MVt25589/4214
+#EXTINF:-1,DISNEY JUNIOR HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4240
+#EXTINF:-1,DISNEY JUNIOR HD²
+http://srvtv.online:2082/User501234/MVt25589/4239
+#EXTINF:-1,DISNEY JUNIOR SD²
+http://srvtv.online:2082/User501234/MVt25589/4242
+#EXTINF:-1,DISNEY SD¹
+http://srvtv.online:2082/User501234/MVt25589/6986
+#EXTINF:-1,DISNEY XD FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6757
+#EXTINF:-1,DISNEY XD HD²
+http://srvtv.online:2082/User501234/MVt25589/4245
+#EXTINF:-1,DISNEY XD HD¹
+http://srvtv.online:2082/User501234/MVt25589/6989
+#EXTINF:-1,DISNEY XD SD²
+http://srvtv.online:2082/User501234/MVt25589/4246
+#EXTINF:-1,DISNEY XD SD¹
+http://srvtv.online:2082/User501234/MVt25589/6990
+#EXTINF:-1,DOG TV FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6702
+#EXTINF:-1,DOG TV HD¹
+http://srvtv.online:2082/User501234/MVt25589/6878
+#EXTINF:-1,DW DEUTSCHE WELLE SD²
+http://srvtv.online:2082/User501234/MVt25589/4076
+#EXTINF:-1,DW ESPANHOL SD²
+http://srvtv.online:2082/User501234/MVt25589/4077
+#EXTINF:-1,dw sd¹
+http://srvtv.online:2082/User501234/MVt25589/6893
+#EXTINF:-1,E CHANNEL HD¹
+http://srvtv.online:2082/User501234/MVt25589/6876
+#EXTINF:-1,E! HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4004
+#EXTINF:-1,E! HD²
+http://srvtv.online:2082/User501234/MVt25589/4003
+#EXTINF:-1,E! SD²
+http://srvtv.online:2082/User501234/MVt25589/4002
+#EXTINF:-1,EIPLUS 2 HD²
+http://srvtv.online:2082/User501234/MVt25589/4680
+#EXTINF:-1,EIPLUS 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/4679
+#EXTINF:-1,EIPLUS 3 HD²
+http://srvtv.online:2082/User501234/MVt25589/4682
+#EXTINF:-1,EIPLUS 3 SD²
+http://srvtv.online:2082/User501234/MVt25589/4681
+#EXTINF:-1,EIPLUS 4 HD²
+http://srvtv.online:2082/User501234/MVt25589/4684
+#EXTINF:-1,EIPLUS 4 SD²
+http://srvtv.online:2082/User501234/MVt25589/4683
+#EXTINF:-1,EIPLUS 5 HD²
+http://srvtv.online:2082/User501234/MVt25589/4686
+#EXTINF:-1,EIPLUS 5 SD²
+http://srvtv.online:2082/User501234/MVt25589/4685
+#EXTINF:-1,EIPLUS 6 HD²
+http://srvtv.online:2082/User501234/MVt25589/4688
+#EXTINF:-1,EIPLUS 6 SD²
+http://srvtv.online:2082/User501234/MVt25589/4687
+#EXTINF:-1,EIPLUS HD ²
+http://srvtv.online:2082/User501234/MVt25589/4689
+#EXTINF:-1,EIPLUS SD²
+http://srvtv.online:2082/User501234/MVt25589/4678
+#EXTINF:-1,ESPN  BRASIL HD¹
+http://srvtv.online:2082/User501234/MVt25589/6922
+#EXTINF:-1,ESPN 2 FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4537
+#EXTINF:-1,ESPN 2 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4538
+#EXTINF:-1,ESPN 2 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6705
+#EXTINF:-1,ESPN 2 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4570
+#EXTINF:-1,ESPN 2 HD¹
+http://srvtv.online:2082/User501234/MVt25589/6923
+#EXTINF:-1,ESPN 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/4569
+#EXTINF:-1,ESPN 2 DUAL SD¹
+http://srvtv.online:2082/User501234/MVt25589/6926
+#EXTINF:-1,ESPN 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6640
+#EXTINF:-1,ESPN BRASIL FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4532
+#EXTINF:-1,ESPN BRASIL FHD²
+http://srvtv.online:2082/User501234/MVt25589/4533
+#EXTINF:-1,ESPN BRASIL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6707
+#EXTINF:-1,ESPN BRASIL HDD¹
+http://srvtv.online:2082/User501234/MVt25589/6921
+#EXTINF:-1,ESPN BRASIL HD²
+http://srvtv.online:2082/User501234/MVt25589/4560
+#EXTINF:-1,ESPN BRASIL SD²
+http://srvtv.online:2082/User501234/MVt25589/4557
+#EXTINF:-1,ESPN BRASIL SD²
+http://srvtv.online:2082/User501234/MVt25589/4561
+#EXTINF:-1,ESPN EXTRA DUAL AUDIO SD¹
+http://srvtv.online:2082/User501234/MVt25589/6927
+#EXTINF:-1,ESPN EXTRA FHD²
+http://srvtv.online:2082/User501234/MVt25589/4534
+#EXTINF:-1,ESPN EXTRA FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6708
+#EXTINF:-1,ESPN EXTRA HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4563
+#EXTINF:-1,ESPN EXTRA HD²
+http://srvtv.online:2082/User501234/MVt25589/4564
+#EXTINF:-1,ESPN EXTRA HD¹
+http://srvtv.online:2082/User501234/MVt25589/6924
+#EXTINF:-1,ESPN EXTRA SD²
+http://srvtv.online:2082/User501234/MVt25589/4565
+#EXTINF:-1,ESPN FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4535
+#EXTINF:-1,ESPN FHD²
+http://srvtv.online:2082/User501234/MVt25589/4536
+#EXTINF:-1,ESPN FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6706
+#EXTINF:-1,ESPN HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4562
+#EXTINF:-1,ESPN HD²
+http://srvtv.online:2082/User501234/MVt25589/4567
+#EXTINF:-1,ESPN HD¹
+http://srvtv.online:2082/User501234/MVt25589/6820
+#EXTINF:-1,ESPN HD¹
+http://srvtv.online:2082/User501234/MVt25589/6920
+#EXTINF:-1,ESPN SD²
+http://srvtv.online:2082/User501234/MVt25589/4556
+#EXTINF:-1,ESPN SD²
+http://srvtv.online:2082/User501234/MVt25589/4568
+#EXTINF:-1,espn sd¹
+http://srvtv.online:2082/User501234/MVt25589/6925
+#EXTINF:-1,ESPORTE INTERATIVO HD²
+http://srvtv.online:2082/User501234/MVt25589/4692
+#EXTINF:-1,ESPORTE INTERATIVO HD²
+http://srvtv.online:2082/User501234/MVt25589/4693
+#EXTINF:-1,ESPORTE INTERATIVO ²
+http://srvtv.online:2082/User501234/MVt25589/4690
+#EXTINF:-1,ESPORTE INTERATIVO ²
+http://srvtv.online:2082/User501234/MVt25589/4691
+#EXTINF:-1,FASHION FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6690
+#EXTINF:-1,FASHION TV HD¹
+http://srvtv.online:2082/User501234/MVt25589/6899
+#EXTINF:-1,FILM & ARTS FHD²
+http://srvtv.online:2082/User501234/MVt25589/4097
+#EXTINF:-1,FILM & ARTS SD²
+http://srvtv.online:2082/User501234/MVt25589/4147
+#EXTINF:-1,FILM ARTS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6728
+#EXTINF:-1,FILM ARTS HD²
+http://srvtv.online:2082/User501234/MVt25589/4146
+#EXTINF:-1,filmes artes sd¹
+http://srvtv.online:2082/User501234/MVt25589/6948
+#EXTINF:-1,FISH FHD²
+http://srvtv.online:2082/User501234/MVt25589/3990
+#EXTINF:-1,FISH HD¹
+http://srvtv.online:2082/User501234/MVt25589/6852
+#EXTINF:-1,FISH TV FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6682
+#EXTINF:-1,FISH TV HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4038
+#EXTINF:-1,FISH TV HD²
+http://srvtv.online:2082/User501234/MVt25589/4037
+#EXTINF:-1,FISH TV SD²
+http://srvtv.online:2082/User501234/MVt25589/4035
+#EXTINF:-1,FISH TV SD¹
+http://srvtv.online:2082/User501234/MVt25589/6853
+#EXTINF:-1,FOOD NETWORK FHD²
+http://srvtv.online:2082/User501234/MVt25589/3983
+#EXTINF:-1,FOOD NETWORK FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6699
+#EXTINF:-1,FOOD NETWORK HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4006
+#EXTINF:-1,FOOD NETWORK HD²
+http://srvtv.online:2082/User501234/MVt25589/4005
+#EXTINF:-1,FOOD NETWORK HD¹
+http://srvtv.online:2082/User501234/MVt25589/6887
+#EXTINF:-1,FOOD NETWORK SD²
+http://srvtv.online:2082/User501234/MVt25589/4007
+#EXTINF:-1,FOOD NETWORK SD¹
+http://srvtv.online:2082/User501234/MVt25589/6888
+#EXTINF:-1,FOOD NETWORK²
+http://srvtv.online:2082/User501234/MVt25589/3982
+#EXTINF:-1,STAR CHANNEL 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6652
+#EXTINF:-1,STAR CHANNEL FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4098
+#EXTINF:-1,STAR CHANNEL FHD²
+http://srvtv.online:2082/User501234/MVt25589/4099
+#EXTINF:-1,STAR CHANNEL HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4150
+#EXTINF:-1,STAR CHANNEL HD²
+http://srvtv.online:2082/User501234/MVt25589/4148
+#EXTINF:-1,STAR CHANNEL SD²
+http://srvtv.online:2082/User501234/MVt25589/4149
+#EXTINF:-1,STAR CHANNEL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6709
+#EXTINF:-1,STAR CHANNEL HD¹
+http://srvtv.online:2082/User501234/MVt25589/6934
+#EXTINF:-1,STAR LIFE FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4101
+#EXTINF:-1,STAR LIFE FHD²
+http://srvtv.online:2082/User501234/MVt25589/4100
+#EXTINF:-1,STAR LIFE FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6718
+#EXTINF:-1,STAR LIFE HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4153
+#EXTINF:-1,STAR LIFE HD²
+http://srvtv.online:2082/User501234/MVt25589/4152
+#EXTINF:-1,STAR LIFE HD¹
+http://srvtv.online:2082/User501234/MVt25589/6931
+#EXTINF:-1,STAR LIFE SD²
+http://srvtv.online:2082/User501234/MVt25589/4154
+#EXTINF:-1,STAR LIFE SD¹
+http://srvtv.online:2082/User501234/MVt25589/6932
+#EXTINF:-1,STAR PREMIUM DUAL AUDIO SD¹
+http://srvtv.online:2082/User501234/MVt25589/6936
+#EXTINF:-1,STAR PREMIUM 1 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4102
+#EXTINF:-1,STAR PREMIUM 1 HD  H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6816
+#EXTINF:-1,STAR PREMIUM 1 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4157
+#EXTINF:-1,STAR PREMIUM 1 HD LEGENDADO 
+http://srvtv.online:2082/User501234/MVt25589/6802
+#EXTINF:-1,STAR PREMIUM 1 HD²
+http://srvtv.online:2082/User501234/MVt25589/4156
+#EXTINF:-1,STAR PREMIUM 1 HD¹
+http://srvtv.online:2082/User501234/MVt25589/6937
+#EXTINF:-1,STAR PREMIUM 1 SD²
+http://srvtv.online:2082/User501234/MVt25589/4158
+#EXTINF:-1,STAR PREMIUM SD¹
+http://srvtv.online:2082/User501234/MVt25589/6939
+#EXTINF:-1,STAR PREMIUM 2 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4103
+#EXTINF:-1,STAR PREMIUM 2 HD DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6817
+#EXTINF:-1,STAR PREMIUM 2 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4160
+#EXTINF:-1,STAR PREMIUM 2 HD²
+http://srvtv.online:2082/User501234/MVt25589/4159
+#EXTINF:-1,STAR PREMIUM 2 HD¹
+http://srvtv.online:2082/User501234/MVt25589/6938
+#EXTINF:-1,STAR PREMIUM 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/4161
+#EXTINF:-1,STAR PREMIUM FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6719
+#EXTINF:-1,STAR PREMIUM FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6720
+#EXTINF:-1,STAR PREMIUM HD 2 LEGENDADO 
+http://srvtv.online:2082/User501234/MVt25589/6803
+#EXTINF:-1,STAR CHANNEL SD¹
+http://srvtv.online:2082/User501234/MVt25589/6935
+#EXTINF:-1,FOX SPORTS 2 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6638
+#EXTINF:-1,FOX SPORTS 2 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4539
+#EXTINF:-1,FOX SPORTS 2 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4577
+#EXTINF:-1,FOX SPORTS 2 HD²
+http://srvtv.online:2082/User501234/MVt25589/4576
+#EXTINF:-1,FOX SPORTS 2 HD¹
+http://srvtv.online:2082/User501234/MVt25589/6905
+#EXTINF:-1,FOX SPORTS 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/4575
+#EXTINF:-1,FOX SPORTS 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6631
+#EXTINF:-1,FOX SPORTS FHD H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6825
+#EXTINF:-1,FOX SPORTS FHD²
+http://srvtv.online:2082/User501234/MVt25589/4542
+#EXTINF:-1,FOX SPORTS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6710
+#EXTINF:-1,FOX SPORTS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6711
+#EXTINF:-1,FOX SPORTS HD DUAL
+http://srvtv.online:2082/User501234/MVt25589/4580
+#EXTINF:-1,FOX SPORTS HD²
+http://srvtv.online:2082/User501234/MVt25589/4579
+#EXTINF:-1,FOX SPORTS HD¹
+http://srvtv.online:2082/User501234/MVt25589/6904
+#EXTINF:-1,FOX SPORTS SD²
+http://srvtv.online:2082/User501234/MVt25589/4573
+#EXTINF:-1,Fox Sports SD¹
+http://srvtv.online:2082/User501234/MVt25589/6906
+#EXTINF:-1,FX FHD DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6810
+#EXTINF:-1,FX FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4105
+#EXTINF:-1,FX FHD²
+http://srvtv.online:2082/User501234/MVt25589/4104
+#EXTINF:-1,FX FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6714
+#EXTINF:-1,FX HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4163
+#EXTINF:-1,FX HD¹
+http://srvtv.online:2082/User501234/MVt25589/6933
+#EXTINF:-1,FX HD²
+http://srvtv.online:2082/User501234/MVt25589/4162
+#EXTINF:-1,FX SD²
+http://srvtv.online:2082/User501234/MVt25589/4164
+#EXTINF:-1,FX SD¹
+http://srvtv.online:2082/User501234/MVt25589/6907
+#EXTINF:-1,GAZETA 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6646
+#EXTINF:-1,GLOBO  FLORIANOPOLIS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6737
+#EXTINF:-1,GLOBO  FLORIANOPOLIS HD¹
+http://srvtv.online:2082/User501234/MVt25589/7047
+#EXTINF:-1,GLOBO  FORTALEZA HD¹
+http://srvtv.online:2082/User501234/MVt25589/7041
+#EXTINF:-1,GLOBO  MANAUS SD¹
+http://srvtv.online:2082/User501234/MVt25589/7071
+#EXTINF:-1,GLOBO  NSC JOINVILLE  HD¹ SC
+http://srvtv.online:2082/User501234/MVt25589/7086
+#EXTINF:-1,GLOBO ACRE HD²
+http://srvtv.online:2082/User501234/MVt25589/4506
+#EXTINF:-1,GLOBO ACRE SD²
+http://srvtv.online:2082/User501234/MVt25589/4505
+#EXTINF:-1,GLOBO BAHIA HD²
+http://srvtv.online:2082/User501234/MVt25589/4469
+#EXTINF:-1,GLOBO BELEM HD²
+http://srvtv.online:2082/User501234/MVt25589/4471
+#EXTINF:-1,GLOBO BELEM HD¹
+http://srvtv.online:2082/User501234/MVt25589/7053
+#EXTINF:-1,GLOBO BELEM SD²
+http://srvtv.online:2082/User501234/MVt25589/4470
+#EXTINF:-1,GLOBO BELEM SD¹
+http://srvtv.online:2082/User501234/MVt25589/7054
+#EXTINF:-1,GLOBO BH HD¹
+http://srvtv.online:2082/User501234/MVt25589/7050
+#EXTINF:-1,GLOBO BH SD¹
+http://srvtv.online:2082/User501234/MVt25589/7051
+#EXTINF:-1,GLOBO BOA VISTA HD²
+http://srvtv.online:2082/User501234/MVt25589/4473
+#EXTINF:-1,GLOBO BOA VISTA SD²
+http://srvtv.online:2082/User501234/MVt25589/4472
+#EXTINF:-1,GLOBO BRASILIA FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4462
+#EXTINF:-1,GLOBO BRASILIA HD²
+http://srvtv.online:2082/User501234/MVt25589/4474
+#EXTINF:-1,GLOBO BRASILIA HD¹
+http://srvtv.online:2082/User501234/MVt25589/7048
+#EXTINF:-1,GLOBO BRASILIA SD²
+http://srvtv.online:2082/User501234/MVt25589/4475
+#EXTINF:-1,GLOBO BRASILIA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7049
+#EXTINF:-1,GLOBO CEARA HD²
+http://srvtv.online:2082/User501234/MVt25589/4476
+#EXTINF:-1,GLOBO CEARA SD²
+http://srvtv.online:2082/User501234/MVt25589/4477
+#EXTINF:-1,GLOBO CURITIBA HD²
+http://srvtv.online:2082/User501234/MVt25589/4478
+#EXTINF:-1,GLOBO CURITIBA HD¹
+http://srvtv.online:2082/User501234/MVt25589/7045
+#EXTINF:-1,globo curitiba sd¹
+http://srvtv.online:2082/User501234/MVt25589/7046
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD²
+http://srvtv.online:2082/User501234/MVt25589/4480
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD²
+http://srvtv.online:2082/User501234/MVt25589/4479
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD¹
+http://srvtv.online:2082/User501234/MVt25589/7065
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD²
+http://srvtv.online:2082/User501234/MVt25589/4483
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD¹
+http://srvtv.online:2082/User501234/MVt25589/7067
+#EXTINF:-1,GLOBO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6741
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD²
+http://srvtv.online:2082/User501234/MVt25589/4485
+#EXTINF:-1,GLOBO FLORIANOPOLIS SD²
+http://srvtv.online:2082/User501234/MVt25589/4484
+#EXTINF:-1,GLOBO FORTALEZA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7042
+#EXTINF:-1,GLOBO GAZETA SUL ALEGRE ES HD¹
+http://srvtv.online:2082/User501234/MVt25589/7082
+#EXTINF:-1,GLOBO GAZETA SUL ALEGRE ES SD¹
+http://srvtv.online:2082/User501234/MVt25589/7083
+#EXTINF:-1,GLOBO GOIANIA HD²
+http://srvtv.online:2082/User501234/MVt25589/4487
+#EXTINF:-1,GLOBO GOIANIA HD¹
+http://srvtv.online:2082/User501234/MVt25589/7061
+#EXTINF:-1,GLOBO GOIANIA SD²
+http://srvtv.online:2082/User501234/MVt25589/4486
+#EXTINF:-1,GLOBO HD 2 RJ dual audio¹
+http://srvtv.online:2082/User501234/MVt25589/7059
+#EXTINF:-1,GLOBO HD SP¹
+http://srvtv.online:2082/User501234/MVt25589/7043
+#EXTINF:-1,GLOBO INTER TV CABUGI SD²
+http://srvtv.online:2082/User501234/MVt25589/4488
+#EXTINF:-1,GLOBO INTER TV CABUGI SD¹
+http://srvtv.online:2082/User501234/MVt25589/7069
+#EXTINF:-1,GLOBO MACAPA HD²
+http://srvtv.online:2082/User501234/MVt25589/4490
+#EXTINF:-1,GLOBO MACAPA SD²
+http://srvtv.online:2082/User501234/MVt25589/4489
+#EXTINF:-1,GLOBO MANAUS HD¹
+http://srvtv.online:2082/User501234/MVt25589/7070
+#EXTINF:-1,GLOBO MATO GROSSO HD¹
+http://srvtv.online:2082/User501234/MVt25589/7055
+#EXTINF:-1,GLOBO MINAS HD²
+http://srvtv.online:2082/User501234/MVt25589/4491
+#EXTINF:-1,GLOBO MINAS SD²
+http://srvtv.online:2082/User501234/MVt25589/4492
+#EXTINF:-1,GLOBO NATAL HD²
+http://srvtv.online:2082/User501234/MVt25589/4494
+#EXTINF:-1,GLOBO NATAL SD²
+http://srvtv.online:2082/User501234/MVt25589/4493
+#EXTINF:-1,GLOBO NEWS FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4464
+#EXTINF:-1,GLOBO NEWS FHD²
+http://srvtv.online:2082/User501234/MVt25589/4463
+#EXTINF:-1,GLOBO NEWS HD²
+http://srvtv.online:2082/User501234/MVt25589/4275
+#EXTINF:-1,GLOBO NEWS HD¹
+http://srvtv.online:2082/User501234/MVt25589/7080
+#EXTINF:-1,GLOBO NEWS SD²
+http://srvtv.online:2082/User501234/MVt25589/4272
+#EXTINF:-1,GLOBO NEWS SD¹
+http://srvtv.online:2082/User501234/MVt25589/7081
+#EXTINF:-1,GLOBO NORDESTE HD²
+http://srvtv.online:2082/User501234/MVt25589/4495
+#EXTINF:-1,GLOBO NORDESTE SD²
+http://srvtv.online:2082/User501234/MVt25589/4496
+#EXTINF:-1,GLOBO NORDESTE SD¹
+http://srvtv.online:2082/User501234/MVt25589/7068
+#EXTINF:-1,GLOBO NSC JOINVILLE SD¹ 
+http://srvtv.online:2082/User501234/MVt25589/7087
+#EXTINF:-1,GLOBO PORTO ALEGRE  HD¹
+http://srvtv.online:2082/User501234/MVt25589/7056
+#EXTINF:-1,GLOBO PORTO VELHO HD²
+http://srvtv.online:2082/User501234/MVt25589/4498
+#EXTINF:-1,GLOBO PORTO VELHO SD²
+http://srvtv.online:2082/User501234/MVt25589/4497
+#EXTINF:-1,GLOBO RBS POA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7057
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD²
+http://srvtv.online:2082/User501234/MVt25589/4499
+#EXTINF:-1,GLOBO RBS TV PO FHD²
+http://srvtv.online:2082/User501234/MVt25589/4465
+#EXTINF:-1,GLOBO RECIFE HD²
+http://srvtv.online:2082/User501234/MVt25589/4501
+#EXTINF:-1,GLOBO RECIFE SD²
+http://srvtv.online:2082/User501234/MVt25589/4500
+#EXTINF:-1,GLOBO REDE AMAZONICA HD²
+http://srvtv.online:2082/User501234/MVt25589/4503
+#EXTINF:-1,GLOBO REDE AMAZONICA SD²
+http://srvtv.online:2082/User501234/MVt25589/4502
+#EXTINF:-1,GLOBO RIO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6740
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL HD²
+http://srvtv.online:2082/User501234/MVt25589/4508
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL SD²
+http://srvtv.online:2082/User501234/MVt25589/4507
+#EXTINF:-1,GLOBO RIO HD²
+http://srvtv.online:2082/User501234/MVt25589/4509
+#EXTINF:-1,GLOBO RIO HD¹
+http://srvtv.online:2082/User501234/MVt25589/7058
+#EXTINF:-1,GLOBO RIO SD²
+http://srvtv.online:2082/User501234/MVt25589/4504
+#EXTINF:-1,GLOBO RIO SD¹
+http://srvtv.online:2082/User501234/MVt25589/7060
+#EXTINF:-1,GLOBO RJ FHD²
+http://srvtv.online:2082/User501234/MVt25589/4466
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD²
+http://srvtv.online:2082/User501234/MVt25589/4510
+#EXTINF:-1,GLOBO SALVADOR HD¹
+http://srvtv.online:2082/User501234/MVt25589/7072
+#EXTINF:-1,globo salvador sd¹
+http://srvtv.online:2082/User501234/MVt25589/7073
+#EXTINF:-1,GLOBO SAO LUIS MA HD¹
+http://srvtv.online:2082/User501234/MVt25589/7052
+#EXTINF:-1,GLOBO sd¹ GOIAS
+http://srvtv.online:2082/User501234/MVt25589/7079
+#EXTINF:-1,GLOBO SJRP SD²
+http://srvtv.online:2082/User501234/MVt25589/4511
+#EXTINF:-1,GLOBO SP FHD²
+http://srvtv.online:2082/User501234/MVt25589/4468
+#EXTINF:-1,GLOBO SP HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4513
+#EXTINF:-1,GLOBO SP HD²
+http://srvtv.online:2082/User501234/MVt25589/4514
+#EXTINF:-1,GLOBO SP SD²
+http://srvtv.online:2082/User501234/MVt25589/4515
+#EXTINF:-1,GLOBO SP SD¹
+http://srvtv.online:2082/User501234/MVt25589/7044
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7062
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA²
+http://srvtv.online:2082/User501234/MVt25589/4516
+#EXTINF:-1,GLOBO TV BAHIA SD²
+http://srvtv.online:2082/User501234/MVt25589/4517
+#EXTINF:-1,GLOBO TV BAHIA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7074
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7075
+#EXTINF:-1,GLOBO TV CENTRO AMICA CUIB SD²
+http://srvtv.online:2082/User501234/MVt25589/4518
+#EXTINF:-1,GLOBO TV CLUBE PI HD¹
+http://srvtv.online:2082/User501234/MVt25589/7084
+#EXTINF:-1,GLOBO TV CLUBE PI SD¹
+http://srvtv.online:2082/User501234/MVt25589/7085
+#EXTINF:-1,GLOBO TV DIARIO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6738
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD²
+http://srvtv.online:2082/User501234/MVt25589/4519
+#EXTINF:-1,GLOBO TV RIO SUL SD²
+http://srvtv.online:2082/User501234/MVt25589/4520
+#EXTINF:-1,GLOBO TV TEM BAURU SD²
+http://srvtv.online:2082/User501234/MVt25589/4521
+#EXTINF:-1,GLOBO TV TEM BAURU SD¹
+http://srvtv.online:2082/User501234/MVt25589/7063
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD²
+http://srvtv.online:2082/User501234/MVt25589/4522
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7064
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD²
+http://srvtv.online:2082/User501234/MVt25589/4523
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD¹
+http://srvtv.online:2082/User501234/MVt25589/7077
+#EXTINF:-1,GLOBO TV VANGUARDA S JOSDOS CAMPOS SD²
+http://srvtv.online:2082/User501234/MVt25589/4524
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS SD¹
+http://srvtv.online:2082/User501234/MVt25589/7076
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD²
+http://srvtv.online:2082/User501234/MVt25589/4525
+#EXTINF:-1,GLOBO VITORIA HD²
+http://srvtv.online:2082/User501234/MVt25589/4527
+#EXTINF:-1,GLOBO VITORIA SD²
+http://srvtv.online:2082/User501234/MVt25589/4526
+#EXTINF:-1,GLOOB FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6758
+#EXTINF:-1,GLOOB HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4264
+#EXTINF:-1,GLOOB HD²
+http://srvtv.online:2082/User501234/MVt25589/4263
+#EXTINF:-1,GLOOB HD¹
+http://srvtv.online:2082/User501234/MVt25589/6995
+#EXTINF:-1,GLOOB SD²
+http://srvtv.online:2082/User501234/MVt25589/4266
+#EXTINF:-1,GLOOB SD¹
+http://srvtv.online:2082/User501234/MVt25589/6996
+#EXTINF:-1,GLOOBINHO FHD²
+http://srvtv.online:2082/User501234/MVt25589/4217
+#EXTINF:-1,GLOOBINHO HD²
+http://srvtv.online:2082/User501234/MVt25589/4267
+#EXTINF:-1,GLOOBINHO SD²
+http://srvtv.online:2082/User501234/MVt25589/4268
+#EXTINF:-1,GNT FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6691
+#EXTINF:-1,GNT HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3984
+#EXTINF:-1,GNT HD²
+http://srvtv.online:2082/User501234/MVt25589/4010
+#EXTINF:-1,GNT SD²
+http://srvtv.online:2082/User501234/MVt25589/4012
+#EXTINF:-1,gnt sd¹
+http://srvtv.online:2082/User501234/MVt25589/6884
+#EXTINF:-1,HISTORY 2 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6742
+#EXTINF:-1,HISTORY 2 HD¹
+http://srvtv.online:2082/User501234/MVt25589/6870
+#EXTINF:-1,HISTORY 2 SD¹
+http://srvtv.online:2082/User501234/MVt25589/6871
+#EXTINF:-1,HBO  FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6743
+#EXTINF:-1,HBO  HD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6791
+#EXTINF:-1,HBO + DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6808
+#EXTINF:-1,HBO + FHD²
+http://srvtv.online:2082/User501234/MVt25589/3865
+#EXTINF:-1,HBO + HD LEGENDADO
+http://srvtv.online:2082/User501234/MVt25589/6790
+#EXTINF:-1,HBO + HD²
+http://srvtv.online:2082/User501234/MVt25589/3882
+#EXTINF:-1,HBO + HD¹
+http://srvtv.online:2082/User501234/MVt25589/6971
+#EXTINF:-1,HBO + SD²
+http://srvtv.online:2082/User501234/MVt25589/3884
+#EXTINF:-1,HBO 2 FHD²
+http://srvtv.online:2082/User501234/MVt25589/3867
+#EXTINF:-1,HBO 2 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6744
+#EXTINF:-1,HBO 2 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3901
+#EXTINF:-1,HBO 2 HD¹
+http://srvtv.online:2082/User501234/MVt25589/6972
+#EXTINF:-1,HBO 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/3886
+#EXTINF:-1,HBO 2 SD¹
+http://srvtv.online:2082/User501234/MVt25589/6975
+#EXTINF:-1,HBO 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6644
+#EXTINF:-1,HBO FAMILY FHD²
+http://srvtv.online:2082/User501234/MVt25589/3869
+#EXTINF:-1,HBO FAMILY FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6748
+#EXTINF:-1,HBO FAMILY HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3889
+#EXTINF:-1,HBO FAMILY HD²
+http://srvtv.online:2082/User501234/MVt25589/3888
+#EXTINF:-1,HBO FAMILY HD¹
+http://srvtv.online:2082/User501234/MVt25589/6981
+#EXTINF:-1,HBO FAMILY SD²
+http://srvtv.online:2082/User501234/MVt25589/3891
+#EXTINF:-1,HBO FAMILY SD¹
+http://srvtv.online:2082/User501234/MVt25589/6982
+#EXTINF:-1,HBO FHD DUAL AUDIO  H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6807
+#EXTINF:-1,HBO FHD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6792
+#EXTINF:-1,HBO FHD²
+http://srvtv.online:2082/User501234/MVt25589/3871
+#EXTINF:-1,HBO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6745
+#EXTINF:-1,HBO HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3893
+#EXTINF:-1,HBO HD²
+http://srvtv.online:2082/User501234/MVt25589/3892
+#EXTINF:-1,HBO HD¹
+http://srvtv.online:2082/User501234/MVt25589/6970
+#EXTINF:-1,HBO MUNDI FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3875
+#EXTINF:-1,HBO MUNDI FHD²
+http://srvtv.online:2082/User501234/MVt25589/3874
+#EXTINF:-1,HBO MUNDI FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6749
+#EXTINF:-1,HBO MUNDI HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3894
+#EXTINF:-1,HBO MUNDI HD LEG $
+http://srvtv.online:2082/User501234/MVt25589/6804
+#EXTINF:-1,HBO MUNDI HD²
+http://srvtv.online:2082/User501234/MVt25589/3902
+#EXTINF:-1,HBO MUNDI SD LEG $
+http://srvtv.online:2082/User501234/MVt25589/6805
+#EXTINF:-1,HBO MUNDI SD²
+http://srvtv.online:2082/User501234/MVt25589/3903
+#EXTINF:-1,HBO MUNDI ¹
+http://srvtv.online:2082/User501234/MVt25589/6973
+#EXTINF:-1,HBO PLUS + FHD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6793
+#EXTINF:-1,HBO PLUS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6746
+#EXTINF:-1,HBO PLUS SD¹
+http://srvtv.online:2082/User501234/MVt25589/6976
+#EXTINF:-1,HBO POP DUAL  AUDIO FHD¹  H.265
+http://srvtv.online:2082/User501234/MVt25589/6809
+#EXTINF:-1,HBO POP FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3879
+#EXTINF:-1,HBO POP FHD²
+http://srvtv.online:2082/User501234/MVt25589/3878
+#EXTINF:-1,HBO POP FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6751
+#EXTINF:-1,HBO POP HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3895
+#EXTINF:-1,HBO POP HD²
+http://srvtv.online:2082/User501234/MVt25589/3909
+#EXTINF:-1,HBO POP SD²
+http://srvtv.online:2082/User501234/MVt25589/3910
+#EXTINF:-1,HBO POP SD¹
+http://srvtv.online:2082/User501234/MVt25589/6983
+#EXTINF:-1,HBO SD²
+http://srvtv.online:2082/User501234/MVt25589/3881
+#EXTINF:-1,HBO SD¹
+http://srvtv.online:2082/User501234/MVt25589/6974
+#EXTINF:-1,HBO SIGNATURA HD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6789
+#EXTINF:-1,HBO SIGNATURE FHD²
+http://srvtv.online:2082/User501234/MVt25589/3873
+#EXTINF:-1,HBO SIGNATURE FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6747
+#EXTINF:-1,HBO SIGNATURE HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3897
+#EXTINF:-1,HBO SIGNATURE HD²
+http://srvtv.online:2082/User501234/MVt25589/3896
+#EXTINF:-1,HBO SIGNATURE HD¹
+http://srvtv.online:2082/User501234/MVt25589/6979
+#EXTINF:-1,HBO SIGNATURE SD²
+http://srvtv.online:2082/User501234/MVt25589/3898
+#EXTINF:-1,HBO SIGNATURE SD¹
+http://srvtv.online:2082/User501234/MVt25589/6980
+#EXTINF:-1,HBO XTREAM 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6650
+#EXTINF:-1,HBO XTREME FHD²
+http://srvtv.online:2082/User501234/MVt25589/3877
+#EXTINF:-1,HBO XTREME FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6750
+#EXTINF:-1,HBO XTREME HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3906
+#EXTINF:-1,HBO XTREME HD²
+http://srvtv.online:2082/User501234/MVt25589/3905
+#EXTINF:-1,HBO XTREME HD¹
+http://srvtv.online:2082/User501234/MVt25589/6977
+#EXTINF:-1,HBO XTREME SD²
+http://srvtv.online:2082/User501234/MVt25589/3907
+#EXTINF:-1,HBO XTREME SD¹
+http://srvtv.online:2082/User501234/MVt25589/6978
+#EXTINF:-1,HBO+ HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3900
+#EXTINF:-1,HGTV FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6687
+#EXTINF:-1,HGTV HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4056
+#EXTINF:-1,HGTV HD¹
+http://srvtv.online:2082/User501234/MVt25589/6877
+#EXTINF:-1,HISTORY 2 FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3925
+#EXTINF:-1,HISTORY 2 FHD²
+http://srvtv.online:2082/User501234/MVt25589/3924
+#EXTINF:-1,HISTORY 2 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3958
+#EXTINF:-1,HISTORY 2 HD²
+http://srvtv.online:2082/User501234/MVt25589/3959
+#EXTINF:-1,HISTORY 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/3960
+#EXTINF:-1,HISTORY 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/3961
+#EXTINF:-1,HISTORY CHANNEL FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3927
+#EXTINF:-1,HISTORY CHANNEL FHD²
+http://srvtv.online:2082/User501234/MVt25589/3926
+#EXTINF:-1,HISTORY CHANNEL HD²
+http://srvtv.online:2082/User501234/MVt25589/3962
+#EXTINF:-1,HISTORY CHANNEL SD²
+http://srvtv.online:2082/User501234/MVt25589/3964
+#EXTINF:-1,HISTORY FHD H.265  dual audio¹
+http://srvtv.online:2082/User501234/MVt25589/6821
+#EXTINF:-1,HISTORY HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3963
+#EXTINF:-1,HISTORY HD¹
+http://srvtv.online:2082/User501234/MVt25589/6850
+#EXTINF:-1,HISTORY SD¹
+http://srvtv.online:2082/User501234/MVt25589/6851
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY FHD H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6822
+#EXTINF:-1,ID HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3979
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY HD¹
+http://srvtv.online:2082/User501234/MVt25589/6872
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY SD¹
+http://srvtv.online:2082/User501234/MVt25589/6873
+#EXTINF:-1,ideal sd¹
+http://srvtv.online:2082/User501234/MVt25589/6889
+#EXTINF:-1,IDEAL TV FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6696
+#EXTINF:-1,INTERNATIONAL NEWS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6767
+#EXTINF:-1,INVESTIGAO DISCOVERY FHD²
+http://srvtv.online:2082/User501234/MVt25589/3928
+#EXTINF:-1,INVESTIGAO DISCOVERY HD²
+http://srvtv.online:2082/User501234/MVt25589/3966
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY SD²
+http://srvtv.online:2082/User501234/MVt25589/3967
+#EXTINF:-1,LIFE TIME FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6689
+#EXTINF:-1,life time sd¹
+http://srvtv.online:2082/User501234/MVt25589/6890
+#EXTINF:-1,LIFETIME FHD²
+http://srvtv.online:2082/User501234/MVt25589/3985
+#EXTINF:-1,LIFETIME HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4014
+#EXTINF:-1,LIFETIME HD²
+http://srvtv.online:2082/User501234/MVt25589/4013
+#EXTINF:-1,LIFETIME SD²
+http://srvtv.online:2082/User501234/MVt25589/4015
+#EXTINF:-1,LIKE HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4086
+#EXTINF:-1,LIVE 1¹
+http://srvtv.online:2082/User501234/MVt25589/6900
+#EXTINF:-1,LIVE 2 ES¹
+http://srvtv.online:2082/User501234/MVt25589/6902
+#EXTINF:-1,LIVE 2¹
+http://srvtv.online:2082/User501234/MVt25589/6901
+#EXTINF:-1,LOVE NATURAL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6683
+#EXTINF:-1,LOVE NATURE HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4087
+#EXTINF:-1,MAIS GLOBO SAT FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6739
+#EXTINF:-1,MAIS GLOBOSAT HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4061
+#EXTINF:-1,MAIS GLOBOSAT HD²
+http://srvtv.online:2082/User501234/MVt25589/4060
+#EXTINF:-1,MAIS GLOBOSAT SD²
+http://srvtv.online:2082/User501234/MVt25589/4058
+#EXTINF:-1,MAIS GLOBOSAT SD¹
+http://srvtv.online:2082/User501234/MVt25589/7078
+#EXTINF:-1,MAX FHD DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6813
+#EXTINF:-1,MAX PRIME DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6812
+#EXTINF:-1,MAX PRIME FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6721
+#EXTINF:-1,MAX UP SD¹
+http://srvtv.online:2082/User501234/MVt25589/6930
+#EXTINF:-1,MAX UP FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6730
+#EXTINF:-1,MAXPRIME HD¹
+http://srvtv.online:2082/User501234/MVt25589/6966
+#EXTINF:-1,MEGA PIX 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6637
+#EXTINF:-1,MEGA PIX DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6811
+#EXTINF:-1,MEGA PIX FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6732
+#EXTINF:-1,MEGA PIX HD¹
+http://srvtv.online:2082/User501234/MVt25589/6946
+#EXTINF:-1,MEGA TV FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6731
+#EXTINF:-1,mega tv sd¹
+http://srvtv.online:2082/User501234/MVt25589/6962
+#EXTINF:-1,MEGAPIX FHD²
+http://srvtv.online:2082/User501234/MVt25589/4106
+#EXTINF:-1,MEGAPIX HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4167
+#EXTINF:-1,MEGAPIX HD²
+http://srvtv.online:2082/User501234/MVt25589/4166
+#EXTINF:-1,MEGAPIX SD²
+http://srvtv.online:2082/User501234/MVt25589/4168
+#EXTINF:-1,MEGAPIX sd¹
+http://srvtv.online:2082/User501234/MVt25589/6947
+#EXTINF:-1,MIAMI TV HD¹
+http://srvtv.online:2082/User501234/MVt25589/6874
+#EXTINF:-1,MTV FHD²
+http://srvtv.online:2082/User501234/MVt25589/3986
+#EXTINF:-1,MTV HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4018
+#EXTINF:-1,MTV HD²
+http://srvtv.online:2082/User501234/MVt25589/4017
+#EXTINF:-1,MTV LIVE HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4019
+#EXTINF:-1,MTV SD²
+http://srvtv.online:2082/User501234/MVt25589/4021
+#EXTINF:-1,MULTISHOW 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6635
+#EXTINF:-1,MULTISHOW FHD²
+http://srvtv.online:2082/User501234/MVt25589/3988
+#EXTINF:-1,MULTISHOW HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4024
+#EXTINF:-1,MULTISHOW HD²
+http://srvtv.online:2082/User501234/MVt25589/4023
+#EXTINF:-1,MULTISHOW SD²
+http://srvtv.online:2082/User501234/MVt25589/4026
+#EXTINF:-1,MULTISHOW SD¹
+http://srvtv.online:2082/User501234/MVt25589/6886
+#EXTINF:-1,MUSIC BOX BRAZIL HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4063
+#EXTINF:-1,MUSIC BOX BRAZIL SD²
+http://srvtv.online:2082/User501234/MVt25589/4062
+#EXTINF:-1,NATGEO WILD SD¹
+http://srvtv.online:2082/User501234/MVt25589/6867
+#EXTINF:-1,NATGEO 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6639
+#EXTINF:-1,NATGEO FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3933
+#EXTINF:-1,NATGEO FHD²
+http://srvtv.online:2082/User501234/MVt25589/3932
+#EXTINF:-1,NATGEO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6671
+#EXTINF:-1,NATGEO HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3974
+#EXTINF:-1,NATGEO HD²
+http://srvtv.online:2082/User501234/MVt25589/3973
+#EXTINF:-1,NATGEO HD¹
+http://srvtv.online:2082/User501234/MVt25589/6866
+#EXTINF:-1,NATGEO KIDS FHD²
+http://srvtv.online:2082/User501234/MVt25589/4215
+#EXTINF:-1,NATGEO KIDS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6753
+#EXTINF:-1,NATGEO KIDS HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4249
+#EXTINF:-1,NATGEO KIDS HD²
+http://srvtv.online:2082/User501234/MVt25589/4248
+#EXTINF:-1,NATGEO KIDS HD¹
+http://srvtv.online:2082/User501234/MVt25589/7008
+#EXTINF:-1,NATGEO KIDS SD²
+http://srvtv.online:2082/User501234/MVt25589/4250
+#EXTINF:-1,NATGEO SD²
+http://srvtv.online:2082/User501234/MVt25589/3976
+#EXTINF:-1,NATGEO WILD FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/3931
+#EXTINF:-1,NATGEO WILD FHD²
+http://srvtv.online:2082/User501234/MVt25589/3930
+#EXTINF:-1,NATGEO WILD FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6680
+#EXTINF:-1,NATGEO WILD HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3970
+#EXTINF:-1,NATGEO WILD HD²
+http://srvtv.online:2082/User501234/MVt25589/3969
+#EXTINF:-1,NATGEO WILD HD¹
+http://srvtv.online:2082/User501234/MVt25589/6868
+#EXTINF:-1,NATGEO WILD SD²
+http://srvtv.online:2082/User501234/MVt25589/3971
+#EXTINF:-1,NATGEO SD¹
+http://srvtv.online:2082/User501234/MVt25589/6869
+#EXTINF:-1,NHK HD²
+http://srvtv.online:2082/User501234/MVt25589/4039
+#EXTINF:-1,NHK SD²
+http://srvtv.online:2082/User501234/MVt25589/4040
+#EXTINF:-1,NHK SD¹
+http://srvtv.online:2082/User501234/MVt25589/7018
+#EXTINF:-1,NHK WORLD HD²
+http://srvtv.online:2082/User501234/MVt25589/4041
+#EXTINF:-1,NHK WORLD HD¹
+http://srvtv.online:2082/User501234/MVt25589/7017
+#EXTINF:-1,NHK WORLD JAPAN HD²
+http://srvtv.online:2082/User501234/MVt25589/4042
+#EXTINF:-1,NICK  JR HD¹
+http://srvtv.online:2082/User501234/MVt25589/7003
+#EXTINF:-1,NICK JR  HD¹
+http://srvtv.online:2082/User501234/MVt25589/7002
+#EXTINF:-1,NICK JR FHD²
+http://srvtv.online:2082/User501234/MVt25589/4216
+#EXTINF:-1,NICK JR FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6759
+#EXTINF:-1,NICK JR HD²
+http://srvtv.online:2082/User501234/MVt25589/4252
+#EXTINF:-1,NICK JR SD²
+http://srvtv.online:2082/User501234/MVt25589/4254
+#EXTINF:-1,NICK JR SD¹
+http://srvtv.online:2082/User501234/MVt25589/7004
+#EXTINF:-1,NICKELODEON FHD²
+http://srvtv.online:2082/User501234/MVt25589/3991
+#EXTINF:-1,NICKELODEON HD²
+http://srvtv.online:2082/User501234/MVt25589/4055
+#EXTINF:-1,NICKELODEON SD²
+http://srvtv.online:2082/User501234/MVt25589/4053
+#EXTINF:-1,NICKELODEON FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6762
+#EXTINF:-1,NICKELODEON SD¹
+http://srvtv.online:2082/User501234/MVt25589/7001
+#EXTINF:-1,OFF FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6693
+#EXTINF:-1,OFF HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4031
+#EXTINF:-1,OFF HD²
+http://srvtv.online:2082/User501234/MVt25589/4030
+#EXTINF:-1,OFF HD¹
+http://srvtv.online:2082/User501234/MVt25589/6891
+#EXTINF:-1,OFF SD²
+http://srvtv.online:2082/User501234/MVt25589/4028
+#EXTINF:-1,off sd¹
+http://srvtv.online:2082/User501234/MVt25589/6892
+#EXTINF:-1,PARAMOUNT CHANNEL FHD²
+http://srvtv.online:2082/User501234/MVt25589/4108
+#EXTINF:-1,PARAMOUNT CHANNEL HD²
+http://srvtv.online:2082/User501234/MVt25589/4170
+#EXTINF:-1,PARAMOUNT CHANNEL SD²
+http://srvtv.online:2082/User501234/MVt25589/4173
+#EXTINF:-1,PARAMOUNT HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4171
+#EXTINF:-1,PLAY TV SD²
+http://srvtv.online:2082/User501234/MVt25589/4032
+#EXTINF:-1,PLAYKIDS SD²
+http://srvtv.online:2082/User501234/MVt25589/4269
+#EXTINF:-1,polishop sd¹
+http://srvtv.online:2082/User501234/MVt25589/6894
+#EXTINF:-1,PREMIERE SD¹
+http://srvtv.online:2082/User501234/MVt25589/7025
+#EXTINF:-1,PREMIER 2 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6770
+#EXTINF:-1,PREMIERE 2 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4621
+#EXTINF:-1,PREMIERE 2 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4639
+#EXTINF:-1,PREMIERE  2 HD¹
+http://srvtv.online:2082/User501234/MVt25589/7026
+#EXTINF:-1,PREMIERE 2 HD²
+http://srvtv.online:2082/User501234/MVt25589/4638
+#EXTINF:-1,PREMIERE 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/4636
+#EXTINF:-1,PREMIERE 2 SD¹
+http://srvtv.online:2082/User501234/MVt25589/7027
+#EXTINF:-1,PREMIER 3 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6771
+#EXTINF:-1,PREMIER HD 3¹
+http://srvtv.online:2082/User501234/MVt25589/7028
+#EXTINF:-1,PREMIERE 3 SD¹
+http://srvtv.online:2082/User501234/MVt25589/7029
+#EXTINF:-1,PREMIERE 3 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4623
+#EXTINF:-1,PREMIERE 3 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4644
+#EXTINF:-1,PREMIERE 3 HD²
+http://srvtv.online:2082/User501234/MVt25589/4642
+#EXTINF:-1,PREMIERE 3 SD²
+http://srvtv.online:2082/User501234/MVt25589/4640
+#EXTINF:-1,PREMIERE 4 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6772
+#EXTINF:-1,PREMIERE 4 SD¹
+http://srvtv.online:2082/User501234/MVt25589/7031
+#EXTINF:-1,PREMIERE 4 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4625
+#EXTINF:-1,PREMIERE 4 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4649
+#EXTINF:-1,PREMIERE 4 HD²
+http://srvtv.online:2082/User501234/MVt25589/4647
+#EXTINF:-1,PREMIERE 4 SD²
+http://srvtv.online:2082/User501234/MVt25589/4646
+#EXTINF:-1,PREMIER HD 4¹
+http://srvtv.online:2082/User501234/MVt25589/7030
+#EXTINF:-1,PREMIER 5 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6773
+#EXTINF:-1,PREMIER HD 5¹
+http://srvtv.online:2082/User501234/MVt25589/7032
+#EXTINF:-1,PREMIERE 5 SD¹
+http://srvtv.online:2082/User501234/MVt25589/7033
+#EXTINF:-1,PREMIERE 5 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4626
+#EXTINF:-1,PREMIERE 5 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4653
+#EXTINF:-1,PREMIERE 5 HD²
+http://srvtv.online:2082/User501234/MVt25589/4652
+#EXTINF:-1,PREMIERE 5 SD²
+http://srvtv.online:2082/User501234/MVt25589/4651
+#EXTINF:-1,PREMIER 6 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6774
+#EXTINF:-1,PREMIER HD 6¹
+http://srvtv.online:2082/User501234/MVt25589/7034
+#EXTINF:-1,premier 6 sd¹
+http://srvtv.online:2082/User501234/MVt25589/7035
+#EXTINF:-1,PREMIERE 6 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4629
+#EXTINF:-1,PREMIERE 6 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4657
+#EXTINF:-1,PREMIERE 6 HD²
+http://srvtv.online:2082/User501234/MVt25589/4656
+#EXTINF:-1,PREMIER 7 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6775
+#EXTINF:-1,premier 7 sd ¹
+http://srvtv.online:2082/User501234/MVt25589/7036
+#EXTINF:-1,PREMIERE 7 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4630
+#EXTINF:-1,PREMIERE 7 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4661
+#EXTINF:-1,PREMIERE 7 HD²
+http://srvtv.online:2082/User501234/MVt25589/4660
+#EXTINF:-1,PREMIERE 7 SD²
+http://srvtv.online:2082/User501234/MVt25589/4659
+#EXTINF:-1,PREMIERE 8 SD²
+http://srvtv.online:2082/User501234/MVt25589/4662
+#EXTINF:-1,premier 8 sd¹
+http://srvtv.online:2082/User501234/MVt25589/7037
+#EXTINF:-1,PREMIERE CLUBES FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6769
+#EXTINF:-1,PREMIERE CLUBE HD¹
+http://srvtv.online:2082/User501234/MVt25589/7038
+#EXTINF:-1,PREMIERE CLUBES 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6629
+#EXTINF:-1,PREMIERE CLUBES FHD  H.265¹
+http://srvtv.online:2082/User501234/MVt25589/7040
+#EXTINF:-1,PREMIERE CLUBES FHD²
+http://srvtv.online:2082/User501234/MVt25589/4619
+#EXTINF:-1,PREMIERE CLUBES HD³
+http://srvtv.online:2082/User501234/MVt25589/4633
+#EXTINF:-1,PREMIERE CLUBES HD²
+http://srvtv.online:2082/User501234/MVt25589/4632
+#EXTINF:-1,PREMIERE CLUBES SD*
+http://srvtv.online:2082/User501234/MVt25589/4635
+#EXTINF:-1,PREMIERE CLUBES SD²
+http://srvtv.online:2082/User501234/MVt25589/4634
+#EXTINF:-1,PREMIERE CLUBES SD¹
+http://srvtv.online:2082/User501234/MVt25589/7039
+#EXTINF:-1,PRIME BOX BRAZIL HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4075
+#EXTINF:-1,PRIME BOX BRAZIL HD²
+http://srvtv.online:2082/User501234/MVt25589/4074
+#EXTINF:-1,PRIME BOX BRAZIL SD²
+http://srvtv.online:2082/User501234/MVt25589/4073
+#EXTINF:-1,PRIME BOX SD¹
+http://srvtv.online:2082/User501234/MVt25589/6917
+#EXTINF:-1,RECORD 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6628
+#EXTINF:-1,RECORD BAHIA HD²
+http://srvtv.online:2082/User501234/MVt25589/3825
+#EXTINF:-1,RECORD BAHIA SD²
+http://srvtv.online:2082/User501234/MVt25589/3824
+#EXTINF:-1,RECORD BELEM SD²
+http://srvtv.online:2082/User501234/MVt25589/3826
+#EXTINF:-1,RECORD BRASILIA HD²
+http://srvtv.online:2082/User501234/MVt25589/3828
+#EXTINF:-1,RECORD BRASILIA SD²
+http://srvtv.online:2082/User501234/MVt25589/3827
+#EXTINF:-1,RECORD FHD²
+http://srvtv.online:2082/User501234/MVt25589/3811
+#EXTINF:-1,RECORD FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6764
+#EXTINF:-1,RECORD GOIAS SD²
+http://srvtv.online:2082/User501234/MVt25589/3829
+#EXTINF:-1,RECORD HD RJ¹
+http://srvtv.online:2082/User501234/MVt25589/6839
+#EXTINF:-1,RECORD HD SP¹
+http://srvtv.online:2082/User501234/MVt25589/6836
+#EXTINF:-1,RECORD HD²
+http://srvtv.online:2082/User501234/MVt25589/3830
+#EXTINF:-1,RECORD MG HD¹
+http://srvtv.online:2082/User501234/MVt25589/6838
+#EXTINF:-1,RECORD MINAS HD²
+http://srvtv.online:2082/User501234/MVt25589/3833
+#EXTINF:-1,RECORD MINAS SD²
+http://srvtv.online:2082/User501234/MVt25589/3832
+#EXTINF:-1,RECORD NEWS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6765
+#EXTINF:-1,RECORD NEWS HD²
+http://srvtv.online:2082/User501234/MVt25589/4285
+#EXTINF:-1,RECORD NEWS SD²
+http://srvtv.online:2082/User501234/MVt25589/4284
+#EXTINF:-1,RECORD NEWS SD¹
+http://srvtv.online:2082/User501234/MVt25589/7024
+#EXTINF:-1,RECORD PARANA HD¹
+http://srvtv.online:2082/User501234/MVt25589/6835
+#EXTINF:-1,RECORD RIO HD²
+http://srvtv.online:2082/User501234/MVt25589/3835
+#EXTINF:-1,RECORD RIO SD²
+http://srvtv.online:2082/User501234/MVt25589/3834
+#EXTINF:-1,RECORD RS HD²
+http://srvtv.online:2082/User501234/MVt25589/3837
+#EXTINF:-1,RECORD RS SD²
+http://srvtv.online:2082/User501234/MVt25589/3836
+#EXTINF:-1,RECORD SD²
+http://srvtv.online:2082/User501234/MVt25589/3823
+#EXTINF:-1,RECORD SP SD¹
+http://srvtv.online:2082/User501234/MVt25589/6837
+#EXTINF:-1,RED BULL TV  FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6715
+#EXTINF:-1,REDE CNT SD²
+http://srvtv.online:2082/User501234/MVt25589/4616
+#EXTINF:-1,REDE GENESIS HD²
+http://srvtv.online:2082/User501234/MVt25589/4617
+#EXTINF:-1,REDE GOSPEL FHD²
+http://srvtv.online:2082/User501234/MVt25589/4603
+#EXTINF:-1,REDE GOSPEL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6777
+#EXTINF:-1,rede gospel sd¹
+http://srvtv.online:2082/User501234/MVt25589/7091
+#EXTINF:-1,REDE MASSA HD²
+http://srvtv.online:2082/User501234/MVt25589/3847
+#EXTINF:-1,REDE TV 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6643
+#EXTINF:-1,REDE TV FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6656
+#EXTINF:-1,REDE TV HD¹
+http://srvtv.online:2082/User501234/MVt25589/6829
+#EXTINF:-1,REDE VIDA HD²
+http://srvtv.online:2082/User501234/MVt25589/4610
+#EXTINF:-1,REDE VIDA SD²
+http://srvtv.online:2082/User501234/MVt25589/4609
+#EXTINF:-1,REDETV 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6645
+#EXTINF:-1,REDETV FHD²
+http://srvtv.online:2082/User501234/MVt25589/3812
+#EXTINF:-1,REDETV HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3840
+#EXTINF:-1,REDETV HD²
+http://srvtv.online:2082/User501234/MVt25589/3839
+#EXTINF:-1,REDETV SD²
+http://srvtv.online:2082/User501234/MVt25589/3838
+#EXTINF:-1,RICTV MARINGA FHD²
+http://srvtv.online:2082/User501234/MVt25589/3813
+#EXTINF:-1,RIT SD¹
+http://srvtv.online:2082/User501234/MVt25589/7092
+#EXTINF:-1,RPC HD²
+http://srvtv.online:2082/User501234/MVt25589/4528
+#EXTINF:-1,sbn sd¹
+http://srvtv.online:2082/User501234/MVt25589/7093
+#EXTINF:-1,SBT  SP FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6766
+#EXTINF:-1,SBT 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6632
+#EXTINF:-1,SBT FHD²
+http://srvtv.online:2082/User501234/MVt25589/3814
+#EXTINF:-1,SBT GOIANIA HD²
+http://srvtv.online:2082/User501234/MVt25589/3842
+#EXTINF:-1,SBT HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3844
+#EXTINF:-1,SBT HD²
+http://srvtv.online:2082/User501234/MVt25589/3843
+#EXTINF:-1,SBT INTERIOR FHD ²
+http://srvtv.online:2082/User501234/MVt25589/3815
+#EXTINF:-1,SBT PARANA SD¹
+http://srvtv.online:2082/User501234/MVt25589/6834
+#EXTINF:-1,SBT PERNAMBUCO HD²
+http://srvtv.online:2082/User501234/MVt25589/3845
+#EXTINF:-1,SBT SD²
+http://srvtv.online:2082/User501234/MVt25589/3841
+#EXTINF:-1,SBT SD²
+http://srvtv.online:2082/User501234/MVt25589/3846
+#EXTINF:-1,SBT SP HD¹
+http://srvtv.online:2082/User501234/MVt25589/6832
+#EXTINF:-1,SBT SP SD¹
+http://srvtv.online:2082/User501234/MVt25589/6833
+#EXTINF:-1,SHOP TIME HD¹
+http://srvtv.online:2082/User501234/MVt25589/6895
+#EXTINF:-1,shoptime sd¹
+http://srvtv.online:2082/User501234/MVt25589/6896
+#EXTINF:-1,SIC INTERNACIONAL SD²
+http://srvtv.online:2082/User501234/MVt25589/4085
+#EXTINF:-1,SIC SD¹
+http://srvtv.online:2082/User501234/MVt25589/7019
+#EXTINF:-1,SKY NEWS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6768
+#EXTINF:-1,SMITHSONIAN FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6686
+#EXTINF:-1,SMITHSONIAN HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/3977
+#EXTINF:-1,SMITHSONIAN HD¹
+http://srvtv.online:2082/User501234/MVt25589/6903
+#EXTINF:-1,SPACE 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6641
+#EXTINF:-1,SPACE DUAL AUDO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6814
+#EXTINF:-1,SPACE FHD²
+http://srvtv.online:2082/User501234/MVt25589/4109
+#EXTINF:-1,SPACE FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6723
+#EXTINF:-1,SPACE HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4175
+#EXTINF:-1,SPACE HD²
+http://srvtv.online:2082/User501234/MVt25589/4174
+#EXTINF:-1,SPACE HD¹
+http://srvtv.online:2082/User501234/MVt25589/6958
+#EXTINF:-1,SPACE SD²
+http://srvtv.online:2082/User501234/MVt25589/4176
+#EXTINF:-1,SPACE SD¹
+http://srvtv.online:2082/User501234/MVt25589/6959
+#EXTINF:-1,SPORTV 2 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4543
+#EXTINF:-1,SPORTV 2 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4584
+#EXTINF:-1,SPORTV 2 HD²
+http://srvtv.online:2082/User501234/MVt25589/4585
+#EXTINF:-1,SPORTV 2 SD²
+http://srvtv.online:2082/User501234/MVt25589/4586
+#EXTINF:-1,SPORTV 2 SD¹
+http://srvtv.online:2082/User501234/MVt25589/6914
+#EXTINF:-1,SPORTV 3 FHD²
+http://srvtv.online:2082/User501234/MVt25589/4544
+#EXTINF:-1,SPORTV 3 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4589
+#EXTINF:-1,SPORTV 3 HD²
+http://srvtv.online:2082/User501234/MVt25589/4588
+#EXTINF:-1,SPORTV 3 HD²
+http://srvtv.online:2082/User501234/MVt25589/4590
+#EXTINF:-1,SPORTV 3 SD²
+http://srvtv.online:2082/User501234/MVt25589/4587
+#EXTINF:-1,SPORTV 3 SD²
+http://srvtv.online:2082/User501234/MVt25589/4591
+#EXTINF:-1,SPORTV 3 SD¹
+http://srvtv.online:2082/User501234/MVt25589/6915
+#EXTINF:-1,SPORTV 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6634
+#EXTINF:-1,SPORTV ALT SD¹
+http://srvtv.online:2082/User501234/MVt25589/6916
+#EXTINF:-1,SPORTV FHD 3 H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6824
+#EXTINF:-1,SPORTV FHD H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6823
+#EXTINF:-1,SPORTV FHD²
+http://srvtv.online:2082/User501234/MVt25589/4546
+#EXTINF:-1,SPORTV FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6712
+#EXTINF:-1,SPORTV FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6713
+#EXTINF:-1,SPORTV 2 HD¹
+http://srvtv.online:2082/User501234/MVt25589/6911
+#EXTINF:-1,SPORTV HD 3¹
+http://srvtv.online:2082/User501234/MVt25589/6912
+#EXTINF:-1,SPORTV HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4593
+#EXTINF:-1,SPORTV HD²
+http://srvtv.online:2082/User501234/MVt25589/4592
+#EXTINF:-1,SPORTV HD²
+http://srvtv.online:2082/User501234/MVt25589/4594
+#EXTINF:-1,SPORTV HD¹
+http://srvtv.online:2082/User501234/MVt25589/6910
+#EXTINF:-1,SPORTV SD²
+http://srvtv.online:2082/User501234/MVt25589/4581
+#EXTINF:-1,SPORTV SD²
+http://srvtv.online:2082/User501234/MVt25589/4595
+#EXTINF:-1,SPORTV SD¹
+http://srvtv.online:2082/User501234/MVt25589/6913
+#EXTINF:-1,STUDIO UNIVERSAL   HD¹
+http://srvtv.online:2082/User501234/MVt25589/6967
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4112
+#EXTINF:-1,STUDIO UNIVERSAL FHD²
+http://srvtv.online:2082/User501234/MVt25589/4111
+#EXTINF:-1,STUDIO UNIVERSAL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6733
+#EXTINF:-1,STUDIO UNIVERSAL HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4179
+#EXTINF:-1,STUDIO UNIVERSAL HD²
+http://srvtv.online:2082/User501234/MVt25589/4178
+#EXTINF:-1,STUDIO UNIVERSAL SD²
+http://srvtv.online:2082/User501234/MVt25589/4181
+#EXTINF:-1,UNIVERSAL TV SD¹
+http://srvtv.online:2082/User501234/MVt25589/6940
+#EXTINF:-1,SYFY FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4114
+#EXTINF:-1,SYFY FHD LEG $
+http://srvtv.online:2082/User501234/MVt25589/6786
+#EXTINF:-1,SYFY FHD²
+http://srvtv.online:2082/User501234/MVt25589/4113
+#EXTINF:-1,SYFY FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6726
+#EXTINF:-1,SYFY HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4183
+#EXTINF:-1,SYFY HD LEGENDADO
+http://srvtv.online:2082/User501234/MVt25589/6787
+#EXTINF:-1,SYFY HD²
+http://srvtv.online:2082/User501234/MVt25589/4182
+#EXTINF:-1,SYFY HD¹
+http://srvtv.online:2082/User501234/MVt25589/6949
+#EXTINF:-1,SYFY SD²
+http://srvtv.online:2082/User501234/MVt25589/4184
+#EXTINF:-1,SYFY SD²
+http://srvtv.online:2082/User501234/MVt25589/4185
+#EXTINF:-1,syfy sd¹
+http://srvtv.online:2082/User501234/MVt25589/6950
+#EXTINF:-1,TBS FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6727
+#EXTINF:-1,TBS HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4187
+#EXTINF:-1,TBS HD²
+http://srvtv.online:2082/User501234/MVt25589/4186
+#EXTINF:-1,TBS HD¹
+http://srvtv.online:2082/User501234/MVt25589/6951
+#EXTINF:-1,TBS SD²
+http://srvtv.online:2082/User501234/MVt25589/4188
+#EXTINF:-1,tbs sd¹
+http://srvtv.online:2082/User501234/MVt25589/6952
+#EXTINF:-1,TCM HD²
+http://srvtv.online:2082/User501234/MVt25589/4080
+#EXTINF:-1,TCM SD²
+http://srvtv.online:2082/User501234/MVt25589/4079
+#EXTINF:-1,tcm sd¹
+http://srvtv.online:2082/User501234/MVt25589/6943
+#EXTINF:-1,TELECINE ACTION FHD²
+http://srvtv.online:2082/User501234/MVt25589/4287
+#EXTINF:-1,TELECINE ACTION FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6778
+#EXTINF:-1,TELECINE ACTION FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6779
+#EXTINF:-1,TELECINE ACTION HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4297
+#EXTINF:-1,TELECINE ACTION HD²
+http://srvtv.online:2082/User501234/MVt25589/4303
+#EXTINF:-1,TELECINE ACTION HD¹
+http://srvtv.online:2082/User501234/MVt25589/7096
+#EXTINF:-1,TELECINE ACTION SD²
+http://srvtv.online:2082/User501234/MVt25589/4304
+#EXTINF:-1,TELECINE ACTION SD¹
+http://srvtv.online:2082/User501234/MVt25589/7097
+#EXTINF:-1,TELECINE CULT FHD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6797
+#EXTINF:-1,TELECINE CULT FHD²
+http://srvtv.online:2082/User501234/MVt25589/4288
+#EXTINF:-1,TELECINE CULT FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6785
+#EXTINF:-1,TELECINE CULT HD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6796
+#EXTINF:-1,TELECINE CULT HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4298
+#EXTINF:-1,TELECINE CULT HD²
+http://srvtv.online:2082/User501234/MVt25589/4306
+#EXTINF:-1,TELECINE CULT HD¹
+http://srvtv.online:2082/User501234/MVt25589/7098
+#EXTINF:-1,TELECINE CULT SD²
+http://srvtv.online:2082/User501234/MVt25589/4307
+#EXTINF:-1,TELECINE CULT SD¹
+http://srvtv.online:2082/User501234/MVt25589/7099
+#EXTINF:-1,TELECINE FUN FHD DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/7110
+#EXTINF:-1,TELECINE FUN FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4291
+#EXTINF:-1,TELECINE FUN FHD²
+http://srvtv.online:2082/User501234/MVt25589/4290
+#EXTINF:-1,TELECINE FUN FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6784
+#EXTINF:-1,TELECINE FUN HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4299
+#EXTINF:-1,TELECINE FUN HD²
+http://srvtv.online:2082/User501234/MVt25589/4309
+#EXTINF:-1,TELECINE FUN HD¹
+http://srvtv.online:2082/User501234/MVt25589/7100
+#EXTINF:-1,TELECINE FUN SD²
+http://srvtv.online:2082/User501234/MVt25589/4311
+#EXTINF:-1,TELECINE FUN SD¹
+http://srvtv.online:2082/User501234/MVt25589/7101
+#EXTINF:-1,TELECINE PIPOCA  FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6783
+#EXTINF:-1,TELECINE PIPOCA 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6651
+#EXTINF:-1,TELECINE PIPOCA DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/7111
+#EXTINF:-1,TELECINE PIPOCA DUAL AUDIO SD¹
+http://srvtv.online:2082/User501234/MVt25589/7107
+#EXTINF:-1,TELECINE PIPOCA FHD H265²
+http://srvtv.online:2082/User501234/MVt25589/4293
+#EXTINF:-1,TELECINE PIPOCA FHD²
+http://srvtv.online:2082/User501234/MVt25589/4292
+#EXTINF:-1,TELECINE PIPOCA HD¹
+http://srvtv.online:2082/User501234/MVt25589/7106
+#EXTINF:-1,TELECINE PIPOCA HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4300
+#EXTINF:-1,TELECINE PIPOCA HD²
+http://srvtv.online:2082/User501234/MVt25589/4312
+#EXTINF:-1,TELECINE PIPOCA SD²
+http://srvtv.online:2082/User501234/MVt25589/4313
+#EXTINF:-1,TELECINE PREMIUM 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6642
+#EXTINF:-1,TELECINE PREMIUM FHD DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/7109
+#EXTINF:-1,TELECINE PREMIUM FHD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6795
+#EXTINF:-1,TELECINE PREMIUM FHD²
+http://srvtv.online:2082/User501234/MVt25589/4294
+#EXTINF:-1,TELECINE PREMIUM FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6782
+#EXTINF:-1,TELECINE PREMIUM HD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6794
+#EXTINF:-1,TELECINE PREMIUM HD¹
+http://srvtv.online:2082/User501234/MVt25589/7104
+#EXTINF:-1,TELECINE PREMIUM HD²
+http://srvtv.online:2082/User501234/MVt25589/4315
+#EXTINF:-1,TELECINE PREMIUM HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4301
+#EXTINF:-1,TELECINE PREMIUM SD¹
+http://srvtv.online:2082/User501234/MVt25589/7105
+#EXTINF:-1,TELECINE PREMIUM SD²
+http://srvtv.online:2082/User501234/MVt25589/4317
+#EXTINF:-1,TELECINE TOUCH FHD²
+http://srvtv.online:2082/User501234/MVt25589/4296
+#EXTINF:-1,TELECINE TOUCH FHD² 
+http://srvtv.online:2082/User501234/MVt25589/4318
+#EXTINF:-1,TELECINE TOUCH FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6780
+#EXTINF:-1,TELECINE TOUCH FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6781
+#EXTINF:-1,TELECINE TOUCH HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4302
+#EXTINF:-1,TELECINE TOUCH HD¹
+http://srvtv.online:2082/User501234/MVt25589/7102
+#EXTINF:-1,TELECINE TOUCH HD²
+http://srvtv.online:2082/User501234/MVt25589/4319
+#EXTINF:-1,TELECINE TOUCH SD¹
+http://srvtv.online:2082/User501234/MVt25589/7103
+#EXTINF:-1,TELECINE TOUCH SD²
+http://srvtv.online:2082/User501234/MVt25589/4321
+#EXTINF:-1,TLC FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6684
+#EXTINF:-1,TLC HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4190
+#EXTINF:-1,TLC HD²
+http://srvtv.online:2082/User501234/MVt25589/4189
+#EXTINF:-1,TLC HD¹
+http://srvtv.online:2082/User501234/MVt25589/7108
+#EXTINF:-1,TLC SD²
+http://srvtv.online:2082/User501234/MVt25589/4191
+#EXTINF:-1,TLC SD¹
+http://srvtv.online:2082/User501234/MVt25589/6964
+#EXTINF:-1,TNT 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6648
+#EXTINF:-1,TNT DUAL AUDIO SD¹
+http://srvtv.online:2082/User501234/MVt25589/6957
+#EXTINF:-1,TNT DUAL AUDIO SD¹
+http://srvtv.online:2082/User501234/MVt25589/6963
+#EXTINF:-1,TNT FHD²
+http://srvtv.online:2082/User501234/MVt25589/4115
+#EXTINF:-1,TNT FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6685
+#EXTINF:-1,TNT HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4194
+#EXTINF:-1,TNT HD²
+http://srvtv.online:2082/User501234/MVt25589/4193
+#EXTINF:-1,TNT HD¹
+http://srvtv.online:2082/User501234/MVt25589/6954
+#EXTINF:-1,TNT SD²
+http://srvtv.online:2082/User501234/MVt25589/4195
+#EXTINF:-1,TNT SD¹
+http://srvtv.online:2082/User501234/MVt25589/6953
+#EXTINF:-1,TNT SERIES 4K¹
+http://srvtv.online:2082/User501234/MVt25589/6649
+#EXTINF:-1,TNT SERIES FHD DUAL AUDIO H.265¹
+http://srvtv.online:2082/User501234/MVt25589/6815
+#EXTINF:-1,TNT SERIES FHD²
+http://srvtv.online:2082/User501234/MVt25589/4117
+#EXTINF:-1,TNT SERIES FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6722
+#EXTINF:-1,TNT SERIES HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4200
+#EXTINF:-1,TNT SERIES HD²
+http://srvtv.online:2082/User501234/MVt25589/4199
+#EXTINF:-1,TNT SERIES HD¹
+http://srvtv.online:2082/User501234/MVt25589/6955
+#EXTINF:-1,TNT SERIES SD²
+http://srvtv.online:2082/User501234/MVt25589/4197
+#EXTINF:-1,TNT SERIES SD¹
+http://srvtv.online:2082/User501234/MVt25589/6956
+#EXTINF:-1,TOONCAST HD²
+http://srvtv.online:2082/User501234/MVt25589/4255
+#EXTINF:-1,TOONCAST HD¹
+http://srvtv.online:2082/User501234/MVt25589/7013
+#EXTINF:-1,TOONCAST SD²
+http://srvtv.online:2082/User501234/MVt25589/4256
+#EXTINF:-1,TOP TV HD²
+http://srvtv.online:2082/User501234/MVt25589/4068
+#EXTINF:-1,TRACE BRAZUKA FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6698
+#EXTINF:-1,TRAVEL BOX BRAZIL HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4081
+#EXTINF:-1,TRAVEL BOX FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6695
+#EXTINF:-1,TRUTV SD²
+http://srvtv.online:2082/User501234/MVt25589/4043
+#EXTINF:-1,tv aparecida sd¹
+http://srvtv.online:2082/User501234/MVt25589/7094
+#EXTINF:-1,TV BRASIL HD²
+http://srvtv.online:2082/User501234/MVt25589/4082
+#EXTINF:-1,TV CABO BRANCO HD²
+http://srvtv.online:2082/User501234/MVt25589/4529
+#EXTINF:-1,TV CAIUA HD ²
+http://srvtv.online:2082/User501234/MVt25589/4083
+#EXTINF:-1,TV CULTURA FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6654
+#EXTINF:-1,TV CULTURA HD¹
+http://srvtv.online:2082/User501234/MVt25589/7020
+#EXTINF:-1,TV CULTURA SD¹
+http://srvtv.online:2082/User501234/MVt25589/7021
+#EXTINF:-1,TV EVANGELIZAR SD²
+http://srvtv.online:2082/User501234/MVt25589/4611
+#EXTINF:-1,TV FONTE HD²
+http://srvtv.online:2082/User501234/MVt25589/3849
+#EXTINF:-1,TV GAZETA FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6655
+#EXTINF:-1,TV GAZETA HD²
+http://srvtv.online:2082/User501234/MVt25589/3848
+#EXTINF:-1,TV GUARULHOS HD²
+http://srvtv.online:2082/User501234/MVt25589/3850
+#EXTINF:-1,TV NOVO TEMPO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6776
+#EXTINF:-1,TV NOVO TEMPO HD²
+http://srvtv.online:2082/User501234/MVt25589/4612
+#EXTINF:-1,TV NOVO TEMPO HD²
+http://srvtv.online:2082/User501234/MVt25589/4613
+#EXTINF:-1,tv novo tempo sd¹
+http://srvtv.online:2082/User501234/MVt25589/7090
+#EXTINF:-1,TV PAI ETERNO FHD²
+http://srvtv.online:2082/User501234/MVt25589/4604
+#EXTINF:-1,TV PAI ETERNO HD
+http://srvtv.online:2082/User501234/MVt25589/4607
+#EXTINF:-1,TV PAI ETERNO SD²
+http://srvtv.online:2082/User501234/MVt25589/4608
+#EXTINF:-1,TV PAMPA RS  HD¹
+http://srvtv.online:2082/User501234/MVt25589/6828
+#EXTINF:-1,TV RATIBUM SD¹
+http://srvtv.online:2082/User501234/MVt25589/7006
+#EXTINF:-1,TV RATIMBUM FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6761
+#EXTINF:-1,TV RATIMBUM HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4259
+#EXTINF:-1,TV RATIMBUM HD²
+http://srvtv.online:2082/User501234/MVt25589/4258
+#EXTINF:-1,TV RATIMBUM HD¹
+http://srvtv.online:2082/User501234/MVt25589/7005
+#EXTINF:-1,TV RATIMBUM SD²
+http://srvtv.online:2082/User501234/MVt25589/4261
+#EXTINF:-1,TV RECOMEÇO¹
+http://srvtv.online:2082/User501234/MVt25589/7095
+#EXTINF:-1,TV TAROBA HD²
+http://srvtv.online:2082/User501234/MVt25589/4084
+#EXTINF:-1,TV UP SD²
+http://srvtv.online:2082/User501234/MVt25589/3851
+#EXTINF:-1,UNIVERSAL CHANNEL FHD LEG $
+http://srvtv.online:2082/User501234/MVt25589/6800
+#EXTINF:-1,UNIVERSAL CHANNEL HD LEGENDADO $
+http://srvtv.online:2082/User501234/MVt25589/6801
+#EXTINF:-1,UNIVERSAL TV  FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6735
+#EXTINF:-1,UNIVERSAL TV FHD²
+http://srvtv.online:2082/User501234/MVt25589/4118
+#EXTINF:-1,UNIVERSAL TV HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4202
+#EXTINF:-1,UNIVERSAL TV HD²
+http://srvtv.online:2082/User501234/MVt25589/4201
+#EXTINF:-1,UNIVERSAL TV HD¹
+http://srvtv.online:2082/User501234/MVt25589/6968
+#EXTINF:-1,UNIVERSAL TV SD²
+http://srvtv.online:2082/User501234/MVt25589/4203
+#EXTINF:-1,UNIVERSAL TV SD¹
+http://srvtv.online:2082/User501234/MVt25589/6969
+#EXTINF:-1,VEM E VTV 1 SD²
+http://srvtv.online:2082/User501234/MVt25589/4614
+#EXTINF:-1,VH1 FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6681
+#EXTINF:-1,VH1 HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4066
+#EXTINF:-1,VH1 HD²
+http://srvtv.online:2082/User501234/MVt25589/4065
+#EXTINF:-1,VH1 MEGAHITS SD²
+http://srvtv.online:2082/User501234/MVt25589/4067
+#EXTINF:-1,VH1 SD²
+http://srvtv.online:2082/User501234/MVt25589/4064
+#EXTINF:-1,vh1 sd¹
+http://srvtv.online:2082/User501234/MVt25589/6965
+#EXTINF:-1,VIVA FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6692
+#EXTINF:-1,VIVA HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4052
+#EXTINF:-1,VIVA HD²
+http://srvtv.online:2082/User501234/MVt25589/4051
+#EXTINF:-1,VIVA SD²
+http://srvtv.online:2082/User501234/MVt25589/4049
+#EXTINF:-1,VIVA SD¹
+http://srvtv.online:2082/User501234/MVt25589/6885
+#EXTINF:-1,WARNER CHANNEL FHD²
+http://srvtv.online:2082/User501234/MVt25589/4120
+#EXTINF:-1,WARNER CHANNEL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6672
+#EXTINF:-1,WARNER CHANNEL HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4206
+#EXTINF:-1,WARNER CHANNEL HD LEG $
+http://srvtv.online:2082/User501234/MVt25589/6788
+#EXTINF:-1,WARNER CHANNEL HD²
+http://srvtv.online:2082/User501234/MVt25589/4205
+#EXTINF:-1,WARNER CHANNEL HD¹
+http://srvtv.online:2082/User501234/MVt25589/7010
+#EXTINF:-1,WARNER CHANNEL SD²
+http://srvtv.online:2082/User501234/MVt25589/4207
+#EXTINF:-1,WARNER CHANNEL SD¹
+http://srvtv.online:2082/User501234/MVt25589/7011
+#EXTINF:-1,WARNER CHANNEL FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6673
+#EXTINF:-1,WOHOO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6729
+#EXTINF:-1,WOOHOO HD DUAL²
+http://srvtv.online:2082/User501234/MVt25589/4047
+#EXTINF:-1,WOOHOO HD²
+http://srvtv.online:2082/User501234/MVt25589/4046
+#EXTINF:-1,WOOHOO SD²
+http://srvtv.online:2082/User501234/MVt25589/4045
+#EXTINF:-1,WOOHOO SD¹
+http://srvtv.online:2082/User501234/MVt25589/7007
+#EXTINF:-1,ZOOMO FHD¹
+http://srvtv.online:2082/User501234/MVt25589/6694
+#EXTINF:-1,ZOOMO HD¹
+http://srvtv.online:2082/User501234/MVt25589/7012
