@@ -1,109 +1,271 @@
 #EXTM3U
-#EXTINF:-1,NPO 1
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/795
-#EXTINF:-1,NPO 2
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/796
-#EXTINF:-1,NPO 3
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/797
-#EXTINF:-1,RTL 4
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/798
-#EXTINF:-1,SBS 6
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/799
-#EXTINF:-1,RTL 7
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/800
-#EXTINF:-1,NET 5
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/801
-#EXTINF:-1,RTL 8
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/802
-#EXTINF:-1,VERONICA  /DISNEY XD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/803
-#EXTINF:-1,TLC
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/804
-#EXTINF:-1,SBS 9
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/805
-#EXTINF:-1,SPIKE
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/806
-#EXTINF:-1,RTL Z
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/807
-#EXTINF:-1,E! ENTERTA
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/808
-#EXTINF:-1,FOX
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/809
-#EXTINF:-1,24 K
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/810
-#EXTINF:-1,DISCOVERY
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/811
-#EXTINF:-1,HISTORY
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/812
-#EXTINF:-1,ANIMAL PLANET
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/813
-#EXTINF:-1,NAT GEOGRAPHIC WILD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/814
-#EXTINF:-1,DISCOVERY SCIENCE
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/815
+#EXTINF:-1,NPO 1 4K+
+http://pprotv.net:80/887766/887766/20662
+#EXTINF:-1,NPO 2 4K+
+http://pprotv.net:80/887766/887766/20663
+#EXTINF:-1,NPO 3 4K+
+http://pprotv.net:80/887766/887766/20664
+#EXTINF:-1,RTL 4 4K+
+http://pprotv.net:80/887766/887766/20665
+#EXTINF:-1,RTL 5 4K+
+http://pprotv.net:80/887766/887766/20666
+#EXTINF:-1,SBS 6 4K+
+http://pprotv.net:80/887766/887766/20667
+#EXTINF:-1,RTL 7 4K+
+http://pprotv.net:80/887766/887766/20668
+#EXTINF:-1,RTL 8 4K+
+http://pprotv.net:80/887766/887766/20669
+#EXTINF:-1,VERONICA / DISNEY XD 4K+
+http://pprotv.net:80/887766/887766/20670
+#EXTINF:-1,NET 5 4K+
+http://pprotv.net:80/887766/887766/20671
+#EXTINF:-1,SBS 9 4K+
+http://pprotv.net:80/887766/887766/20672
+#EXTINF:-1,FOX 4K+
+http://pprotv.net:80/887766/887766/20673
+#EXTINF:-1,RTL Z 4K+
+http://pprotv.net:80/887766/887766/20674
+#EXTINF:-1,SPIKE 4K+
+http://pprotv.net:80/887766/887766/20675
+#EXTINF:-1,MEZZO
+http://pprotv.net:80/887766/887766/20676
+#EXTINF:-1,MTV MUSIC 24
+http://pprotv.net:80/887766/887766/20677
+#EXTINF:-1,SLAM!
+http://pprotv.net:80/887766/887766/20678
+#EXTINF:-1,TV 538
+http://pprotv.net:80/887766/887766/20679
+#EXTINF:-1,TV ORANJE
+http://pprotv.net:80/887766/887766/20680
+#EXTINF:-1,DANCE TRIPPIN HD
+http://pprotv.net:80/887766/887766/20681
+#EXTINF:-1,FAMILY 7
+http://pprotv.net:80/887766/887766/20682
+#EXTINF:-1,NPO POLITIEK
+http://pprotv.net:80/887766/887766/20683
+#EXTINF:-1,NPO NIEUWS
+http://pprotv.net:80/887766/887766/20684
+#EXTINF:-1,MTV BRANDNEW
+http://pprotv.net:80/887766/887766/20685
+#EXTINF:-1,FASHION TV HD
+http://pprotv.net:80/887766/887766/20686
+#EXTINF:-1,Insight 4K+
+http://pprotv.net:80/887766/887766/20687
+#EXTINF:-1,SHORTS TV 4K+
+http://pprotv.net:80/887766/887766/20688
+#EXTINF:-1,192 TV
+http://pprotv.net:80/887766/887766/20689
+#EXTINF:-1,100% NL TV
+http://pprotv.net:80/887766/887766/20690
+#EXTINF:-1,MyZen 4K+
+http://pprotv.net:80/887766/887766/20691
+#EXTINF:-1,TLC 4K+
+http://pprotv.net:80/887766/887766/20692
+#EXTINF:-1,E! ENTERTAINMENT 4K+
+http://pprotv.net:80/887766/887766/20693
+#EXTINF:-1,RTL LOUNGE HD
+http://pprotv.net:80/887766/887766/20694
+#EXTINF:-1,RTL CRIME HD
+http://pprotv.net:80/887766/887766/20695
+#EXTINF:-1,BBC FIRST 4K+
+http://pprotv.net:80/887766/887766/20696
+#EXTINF:-1,MTV 4K+
+http://pprotv.net:80/887766/887766/20697
+#EXTINF:-1,XITE 4K+
+http://pprotv.net:80/887766/887766/20698
+#EXTINF:-1,HISTORY 4K+
+http://pprotv.net:80/887766/887766/20699
 #EXTINF:-1,DISCOVERY WORLD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/816
-#EXTINF:-1,RTL LOUNGE
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/817
-#EXTINF:-1,RTL CRIME
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/818
-#EXTINF:-1,BOOMERANG
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/819
-#EXTINF:-1,NICK JUNIOR
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/820
+http://pprotv.net:80/887766/887766/20700
+#EXTINF:-1,DISCOVERY SCIENCE 4K+
+http://pprotv.net:80/887766/887766/20701
+#EXTINF:-1,Discovery Showcase 4K+
+http://pprotv.net:80/887766/887766/20702
 #EXTINF:-1,CRIME & INVESTIGATION
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/821
-#EXTINF:-1,DISNEY CHANNEL
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/823
-#EXTINF:-1,NICK MUSIC
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/824
-#EXTINF:-1,BABY TV
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/825
-#EXTINF:-1,NICK TOONS
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/826
-#EXTINF:-1,NICKELODEON
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/827
-#EXTINF:-1,PEBBLE TV
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/828
-#EXTINF:-1,RTL TELEKIDS
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/829
-#EXTINF:-1,SHORTS TV
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/830
-#EXTINF:-1,FOX SPORTS 1 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/831
-#EXTINF:-1,FOX SPORTS 2 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/832
-#EXTINF:-1,FOX SPORTS 3 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/833
-#EXTINF:-1,FOX SPORTS 4 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/834
-#EXTINF:-1,FOX SPORTS 5 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/835
-#EXTINF:-1,FOX SPORTS 6 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/836
-#EXTINF:-1,ZIGGO SPORT SELECT 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/837
-#EXTINF:-1,FILM1 PREMIERE 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/840
-#EXTINF:-1,FILM1 ACTION 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/841
-#EXTINF:-1,FILM1 DRAMA 4K+
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/842
+http://pprotv.net:80/887766/887766/20703
+#EXTINF:-1,DISCOVERY ID 4K+
+http://pprotv.net:80/887766/887766/20704
+#EXTINF:-1,ANIMAL PLANET 4K+
+http://pprotv.net:80/887766/887766/20705
+#EXTINF:-1,DISCOVERY CHANNEL 4K+
+http://pprotv.net:80/887766/887766/20706
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K+
+http://pprotv.net:80/887766/887766/20707
+#EXTINF:-1,Love Nature 4K+
+http://pprotv.net:80/887766/887766/20708
+#EXTINF:-1,NAT GEO WILD 4K+
+http://pprotv.net:80/887766/887766/20709
+#EXTINF:-1,24KITCHEN 4K+
+http://pprotv.net:80/887766/887766/20710
+#EXTINF:-1,COMEDY CENTRAL 4K+
+http://pprotv.net:80/887766/887766/20711
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://pprotv.net:80/887766/887766/20712
+#EXTINF:-1,FOX SPORTS 1 HD
+http://pprotv.net:80/887766/887766/20713
+#EXTINF:-1,FOX SPORTS 2 HD
+http://pprotv.net:80/887766/887766/20715
+#EXTINF:-1,FOX SPORTS 3 HD
+http://pprotv.net:80/887766/887766/20718
+#EXTINF:-1,FOX SPORTS 4 HD
+http://pprotv.net:80/887766/887766/20719
+#EXTINF:-1,FOX SPORTS 5 HD
+http://pprotv.net:80/887766/887766/20721
+#EXTINF:-1,FOX SPORTS 6 HD
+http://pprotv.net:80/887766/887766/20724
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://pprotv.net:80/887766/887766/20725
 #EXTINF:-1,ZIGGO VOETBAL HD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/843
+http://pprotv.net:80/887766/887766/20726
 #EXTINF:-1,ZIGGO RACING HD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/844
+http://pprotv.net:80/887766/887766/20727
 #EXTINF:-1,ZIGGO SPORT GOLF HD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/845
+http://pprotv.net:80/887766/887766/20728
 #EXTINF:-1,ZIGGO DOCU HD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/846
+http://pprotv.net:80/887766/887766/20729
 #EXTINF:-1,ZIGGO EXTRA HD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/847
-#EXTINF:-1,COMEDY CENTRAL HD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/848
-#EXTINF:-1,D
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/849
-#EXTINF:-1,FAM
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/850
-#EXTINF:-1,ZIGGO DOCU HD
-http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/851
+http://pprotv.net:80/887766/887766/20730
+#EXTINF:-1,FOX SPORTS 1 4K+
+http://pprotv.net:80/887766/887766/20737
+#EXTINF:-1,FOX SPORTS 2 4K+
+http://pprotv.net:80/887766/887766/20738
+#EXTINF:-1,FOX SPORTS 3 4K+
+http://pprotv.net:80/887766/887766/20739
+#EXTINF:-1,FOX SPORTS 4 4K+
+http://pprotv.net:80/887766/887766/20740
+#EXTINF:-1,FOX SPORTS 5 4K+
+http://pprotv.net:80/887766/887766/20741
+#EXTINF:-1,FOX SPORTS 6 4K+
+http://pprotv.net:80/887766/887766/20742
+#EXTINF:-1,ZIGGO SPORT SELECT 4K+
+http://pprotv.net:80/887766/887766/20743
+#EXTINF:-1,ZIGGO SPORT VOETBAL 4K+
+http://pprotv.net:80/887766/887766/20744
+#EXTINF:-1,ZIGGO SPORT RACING 4K+
+http://pprotv.net:80/887766/887766/20745
+#EXTINF:-1,ZIGGO SPORT GOLF 4K+
+http://pprotv.net:80/887766/887766/20746
+#EXTINF:-1,ZIGGO SPORT DOCU 4K+
+http://pprotv.net:80/887766/887766/20747
+#EXTINF:-1,ZIGGO SPORT EXTRA 4K+
+http://pprotv.net:80/887766/887766/20748
+#EXTINF:-1,Horse & Country TV
+http://pprotv.net:80/887766/887766/20755
+#EXTINF:-1,REDBOX CONCERT
+http://pprotv.net:80/887766/887766/20757
+#EXTINF:-1,REDBOX NIEUWE FILMS
+http://pprotv.net:80/887766/887766/20758
+#EXTINF:-1,REDBOX ACTIE 3
+http://pprotv.net:80/887766/887766/20759
+#EXTINF:-1,REDBOX ACTIE 2
+http://pprotv.net:80/887766/887766/20760
+#EXTINF:-1,REDBOX ACTIE 1
+http://pprotv.net:80/887766/887766/20761
+#EXTINF:-1,REDBOX ANIMATIE 3
+http://pprotv.net:80/887766/887766/20762
+#EXTINF:-1,REDBOX ANIMATIE 2
+http://pprotv.net:80/887766/887766/20763
+#EXTINF:-1,REDBOX ANIMATIE 1
+http://pprotv.net:80/887766/887766/20764
+#EXTINF:-1,REDBOX DRAMA 2
+http://pprotv.net:80/887766/887766/20765
+#EXTINF:-1,REDBOX DRAMA 1
+http://pprotv.net:80/887766/887766/20766
+#EXTINF:-1,REDBOX HORROR 2
+http://pprotv.net:80/887766/887766/20767
+#EXTINF:-1,REDBOX HORROR 1
+http://pprotv.net:80/887766/887766/20768
+#EXTINF:-1,REDBOX KOMEDIE 1
+http://pprotv.net:80/887766/887766/20769
+#EXTINF:-1,REDBOX SCI FI 2
+http://pprotv.net:80/887766/887766/20770
+#EXTINF:-1,REDBOX SCI FI 1
+http://pprotv.net:80/887766/887766/20771
+#EXTINF:-1,REDBOX THRILLER 3
+http://pprotv.net:80/887766/887766/20773
+#EXTINF:-1,REDBOX THRILLER 2
+http://pprotv.net:80/887766/887766/20774
+#EXTINF:-1,REDBOX THRILLER 1
+http://pprotv.net:80/887766/887766/20775
+#EXTINF:-1,FILM1 PREMIERE 4K+
+http://pprotv.net:80/887766/887766/20780
+#EXTINF:-1,FILM1 ACTION 4K+
+http://pprotv.net:80/887766/887766/20781
+#EXTINF:-1,FILM1 FAMILY 4K+
+http://pprotv.net:80/887766/887766/20782
+#EXTINF:-1,FILM1 DRAMA 4K+
+http://pprotv.net:80/887766/887766/20783
+#EXTINF:-1,BABY TV
+http://pprotv.net:80/887766/887766/20784
+#EXTINF:-1,BOOMERANG
+http://pprotv.net:80/887766/887766/20785
+#EXTINF:-1,KETNET
+http://pprotv.net:80/887766/887766/20786
+#EXTINF:-1,NICK JR.
+http://pprotv.net:80/887766/887766/20787
+#EXTINF:-1,NICK MUSIC
+http://pprotv.net:80/887766/887766/20788
+#EXTINF:-1,NICKTOONS
+http://pprotv.net:80/887766/887766/20789
+#EXTINF:-1,NPO ZAPPELIN XTRA / NPO BEST
+http://pprotv.net:80/887766/887766/20790
+#EXTINF:-1,PEBBLE TV
+http://pprotv.net:80/887766/887766/20791
+#EXTINF:-1,RTL TELEKIDS 4K+
+http://pprotv.net:80/887766/887766/20792
+#EXTINF:-1,DISNEY CHANNEL
+http://pprotv.net:80/887766/887766/20794
+#EXTINF:-1,NICKELODEON 4K+
+http://pprotv.net:80/887766/887766/20795
+#EXTINF:-1,CARTOON NETWORK 4K+
+http://pprotv.net:80/887766/887766/20796
+#EXTINF:-1,AT5
+http://pprotv.net:80/887766/887766/20797
+#EXTINF:-1,L1MBURG
+http://pprotv.net:80/887766/887766/20798
+#EXTINF:-1,ONS
+http://pprotv.net:80/887766/887766/20799
+#EXTINF:-1,RTV UTRECHT
+http://pprotv.net:80/887766/887766/20800
+#EXTINF:-1,TV WEST
+http://pprotv.net:80/887766/887766/20801
+#EXTINF:-1,TV OOST
+http://pprotv.net:80/887766/887766/20802
+#EXTINF:-1,TV NOORD
+http://pprotv.net:80/887766/887766/20803
+#EXTINF:-1,TV GELDERLAND
+http://pprotv.net:80/887766/887766/20804
+#EXTINF:-1,TV DRENTHE
+http://pprotv.net:80/887766/887766/20805
+#EXTINF:-1,OMROEP BRABANT
+http://pprotv.net:80/887766/887766/20806
+#EXTINF:-1,OMROEP FLEVOLAND
+http://pprotv.net:80/887766/887766/20807
+#EXTINF:-1,OMROEP FRYSLAN
+http://pprotv.net:80/887766/887766/20808
+#EXTINF:-1,OMROEP ZEELAND
+http://pprotv.net:80/887766/887766/20809
+#EXTINF:-1,TV RIJNMOND
+http://pprotv.net:80/887766/887766/20810
+#EXTINF:-1,TV Noord-Holland
+http://pprotv.net:80/887766/887766/20811
+#EXTINF:-1,Breda NU
+http://pprotv.net:80/887766/887766/20812
+#EXTINF:-1,Den Haag TV
+http://pprotv.net:80/887766/887766/20813
+#EXTINF:-1,Omroep P&M
+http://pprotv.net:80/887766/887766/20814
+#EXTINF:-1,Omroep Tilburg
+http://pprotv.net:80/887766/887766/20815
+#EXTINF:-1,RTV Arnhem
+http://pprotv.net:80/887766/887766/20816
+#EXTINF:-1,RTV Maastricht
+http://pprotv.net:80/887766/887766/20817
+#EXTINF:-1,RTV Westerwolde
+http://pprotv.net:80/887766/887766/20818
+#EXTINF:-1,Stingray Classica
+http://pprotv.net:80/887766/887766/20819
+#EXTINF:-1,Stingray Cmusic
+http://pprotv.net:80/887766/887766/20820
+#EXTINF:-1,iConcerts 4K+
+http://pprotv.net:80/887766/887766/20821
