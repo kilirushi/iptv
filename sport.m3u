@@ -1,27 +1,83 @@
 #EXTM3U
-#EXTINF:-1,Sports 1 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-1Ay_o0izVaombNTcfB_eBH/ts
-#EXTINF:-1,Sports 2 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-10TSQTUDdrjk8xWjw8bfwL/ts
-#EXTINF:-1,Sports 3 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-12NoGKfbdClFJVN4XYLMxp/ts
-#EXTINF:-1,Sports 4 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-25IyurcL4mwgP0UVWuWTtW/ts
-#EXTINF:-1,Sports 5 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-0YmZVJGyoZVm22WQoElbKO/ts
-#EXTINF:-1,Sports 6 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-2rtNukh9YXCBwraMK-Xyrr/ts
-#EXTINF:-1,Sports 7 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-0A2iOBQmurr7sSkwZYW93S/ts
-#EXTINF:-1,Sports Premium 1 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-0LmCDe29gEJVUwJPQfw0r2/ts
-#EXTINF:-1,Sports Premium 2 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-1MEVZIvpTs2IATebee-5C2/ts
-#EXTINF:-1,Sports Premium 3 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-2wz8PO7PE3QUJcteQu1nTu/ts
-#EXTINF:-1,Sports English 1 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-06MD9gCsoHeeoh-J25HB42/ts
-#EXTINF:-1,Sports English 2 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-1mFB9GTVwftjGLle2139fF/ts
-#EXTINF:-1,Sports English 3 HD
-http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-0LIfOzsyiGTYZfCqDzgN3l/ts
+#EXTINF:-1,4K | BE SPORTS 1 PREMIUM (HEVC)
+http://pprotv.net:80/887766/887766/102
+#EXTINF:-1,4K | BE SPORTS 2 PREMIUM (HEVC)
+http://pprotv.net:80/887766/887766/103
+#EXTINF:-1,4K | BE SPORTS 3 PREMIUM (HEVC)
+http://pprotv.net:80/887766/887766/104
+#EXTINF:-1,4K | BE SPORTS 1 (HEVC)
+http://pprotv.net:80/887766/887766/95
+#EXTINF:-1,4K | BE SPORTS 2 (HEVC)
+http://pprotv.net:80/887766/887766/96
+#EXTINF:-1,4K | BE SPORTS 3 (HEVC)
+http://pprotv.net:80/887766/887766/97
+#EXTINF:-1,4K | BE SPORTS 4 (HEVC)
+http://pprotv.net:80/887766/887766/98
+#EXTINF:-1,4K | BE SPORTS 5 (HEVC)
+http://pprotv.net:80/887766/887766/99
+#EXTINF:-1,4K | BE SPORTS 6 (HEVC)
+http://pprotv.net:80/887766/887766/100
+#EXTINF:-1,4K | BE SPORTS 7 (HEVC)
+http://pprotv.net:80/887766/887766/101
+#EXTINF:-1,HD | BE SPORTS 1 PREMIUM
+http://pprotv.net:80/887766/887766/119
+#EXTINF:-1,HD | BE SPORTS 2 PREMIUM
+http://pprotv.net:80/887766/887766/121
+#EXTINF:-1,HD | BE SPORTS 3 PREMIUM
+http://pprotv.net:80/887766/887766/123
+#EXTINF:-1,HD | BE SPORTS 1  
+http://pprotv.net:80/887766/887766/105
+#EXTINF:-1,HD | BE SPORTS 2
+http://pprotv.net:80/887766/887766/107
+#EXTINF:-1,HD | BE SPORTS 3
+http://pprotv.net:80/887766/887766/109
+#EXTINF:-1,HD | BE SPORTS 4
+http://pprotv.net:80/887766/887766/111
+#EXTINF:-1,HD | BE SPORTS 5
+http://pprotv.net:80/887766/887766/113
+#EXTINF:-1,HD | BE SPORTS 6
+http://pprotv.net:80/887766/887766/115
+#EXTINF:-1,HD | BE SPORTS 7
+http://pprotv.net:80/887766/887766/117
+#EXTINF:-1,SD | BE SPORTS 1 PREMIUM
+http://pprotv.net:80/887766/887766/120
+#EXTINF:-1,SD | BE SPORTS 2 PREMIUM
+http://pprotv.net:80/887766/887766/122
+#EXTINF:-1,SD | BE SPORTS 3 PREMIUM
+http://pprotv.net:80/887766/887766/124
+#EXTINF:-1,SD | BE SPORTS 1  
+http://pprotv.net:80/887766/887766/106
+#EXTINF:-1,SD | BE SPORTS 2
+http://pprotv.net:80/887766/887766/108
+#EXTINF:-1,SD | BE SPORTS 3
+http://pprotv.net:80/887766/887766/110
+#EXTINF:-1,SD | BE SPORTS 4
+http://pprotv.net:80/887766/887766/112
+#EXTINF:-1,SD | BE SPORTS 5
+http://pprotv.net:80/887766/887766/114
+#EXTINF:-1,SD | BE SPORTS 6
+http://pprotv.net:80/887766/887766/116
+#EXTINF:-1,SD | BE SPORTS 7
+http://pprotv.net:80/887766/887766/118
+#EXTINF:-1,UHD | BE SPORTS 1 PREMIUM
+http://pprotv.net:80/887766/887766/86014
+#EXTINF:-1,UHD | BE SPORTS 2 PREMIUM
+http://pprotv.net:80/887766/887766/86015
+#EXTINF:-1,UHD | BE SPORTS 3 PREMIUM
+http://pprotv.net:80/887766/887766/86016
+#EXTINF:-1,UHD | BE SPORTS 1
+http://pprotv.net:80/887766/887766/86017
+#EXTINF:-1,UHD | BE SPORTS 2
+http://pprotv.net:80/887766/887766/86018
+#EXTINF:-1,UHD | BE SPORTS 3
+http://pprotv.net:80/887766/887766/86019
+#EXTINF:-1,UHD | BE SPORTS 4
+http://pprotv.net:80/887766/887766/86020
+#EXTINF:-1,UHD | BE SPORTS 5
+http://pprotv.net:80/887766/887766/86021
+#EXTINF:-1,UHD | BE SPORTS 6
+http://pprotv.net:80/887766/887766/86022
+#EXTINF:-1,UHD | BE SPORTS 7
+http://pprotv.net:80/887766/887766/86023
+#EXTINF:-1,UHD | BE SPORTS EXTRA
+http://pprotv.net:80/887766/887766/86024
