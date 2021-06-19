@@ -1,471 +1,765 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://directtv1.xyz:80/18501/18501/49687
-#EXTINF:-1,ACC NETWORK HD
-http://directtv1.xyz:80/18501/18501/49874
-#EXTINF:-1,Action Max FHD
-http://directtv1.xyz:80/18501/18501/147541
-#EXTINF:-1,AMC HD
-http://directtv1.xyz:80/18501/18501/49715
-#EXTINF:-1,American Heroes Channel HD
-http://directtv1.xyz:80/18501/18501/49872
-#EXTINF:-1,Animal Planet East HD
-http://directtv1.xyz:80/18501/18501/49716
-#EXTINF:-1,Antenna TV
-http://directtv1.xyz:80/18501/18501/49718
-#EXTINF:-1,AWE HD
-http://directtv1.xyz:80/18501/18501/49873
-#EXTINF:-1,AXS TV HD
-http://directtv1.xyz:80/18501/18501/49720
-#EXTINF:-1,Baby First HD
-http://directtv1.xyz:80/18501/18501/49722
-#EXTINF:-1,Baby TV
-http://directtv1.xyz:80/18501/18501/49721
-#EXTINF:-1,BBC America HD
-http://directtv1.xyz:80/18501/18501/49727
-#EXTINF:-1,BBC World News
-http://directtv1.xyz:80/18501/18501/49728
-#EXTINF:-1,BET East HD
-http://directtv1.xyz:80/18501/18501/49725
-#EXTINF:-1,BET HER HD
-http://directtv1.xyz:80/18501/18501/49689
+#EXTINF:-1,A&E
+http://web24.live:8080/Sally1/Sally1/39200
+#EXTINF:-1,ABC
+http://web24.live:8080/Sally1/Sally1/1116
+#EXTINF:-1,ADULT SWIM (8PM TO 6AM)
+http://web24.live:8080/Sally1/Sally1/7251
+#EXTINF:-1,AMC
+http://web24.live:8080/Sally1/Sally1/1114
+#EXTINF:-1,AMC PRESENTS
+http://web24.live:8080/Sally1/Sally1/46494
+#EXTINF:-1,AMC+
+http://web24.live:8080/Sally1/Sally1/45137
+#EXTINF:-1,AMERICAN HEROES
+http://web24.live:8080/Sally1/Sally1/1113
+#EXTINF:-1,ANIMAL PLANET
+http://web24.live:8080/Sally1/Sally1/1111
+#EXTINF:-1,ANIMAL PLANET (WEST)
+http://web24.live:8080/Sally1/Sally1/54736
+#EXTINF:-1,ANTENNA TV
+http://web24.live:8080/Sally1/Sally1/1110
+#EXTINF:-1,ASPIRE TV
+http://web24.live:8080/Sally1/Sally1/6495
+#EXTINF:-1,AWE
+http://web24.live:8080/Sally1/Sally1/1109
+#EXTINF:-1,AWE ENCORE
+http://web24.live:8080/Sally1/Sally1/54487
+#EXTINF:-1,AXS TV
+http://web24.live:8080/Sally1/Sally1/6494
+#EXTINF:-1,BBC AMERICA
+http://web24.live:8080/Sally1/Sally1/1106
+#EXTINF:-1,BET
+http://web24.live:8080/Sally1/Sally1/1101
+#EXTINF:-1,BET HER
+http://web24.live:8080/Sally1/Sally1/1103
 #EXTINF:-1,BET JAMS
-http://directtv1.xyz:80/18501/18501/49724
-#EXTINF:-1,BET SOUL HD
-http://directtv1.xyz:80/18501/18501/49723
-#EXTINF:-1,BET West HD
-http://directtv1.xyz:80/18501/18501/49726
-#EXTINF:-1,Big Ten Network HD
-http://directtv1.xyz:80/18501/18501/49686
-#EXTINF:-1,Bloomberg TV HD
-http://directtv1.xyz:80/18501/18501/49729
-#EXTINF:-1,Boomerang HD
-http://directtv1.xyz:80/18501/18501/49730
+http://web24.live:8080/Sally1/Sally1/1102
+#EXTINF:-1,BET SOUL
+http://web24.live:8080/Sally1/Sally1/6663
 #EXTINF:-1,BOUNCE TV
-http://directtv1.xyz:80/18501/18501/49875
-#EXTINF:-1,Bravo East HD
-http://directtv1.xyz:80/18501/18501/49731
-#EXTINF:-1,Bravo HD
-http://directtv1.xyz:80/18501/18501/146162
-#EXTINF:-1,Bravo West HD
-http://directtv1.xyz:80/18501/18501/49732
+http://web24.live:8080/Sally1/Sally1/6496
+#EXTINF:-1,BRAVO (EAST)
+http://web24.live:8080/Sally1/Sally1/1091
+#EXTINF:-1,BRAVO (WEST)
+http://web24.live:8080/Sally1/Sally1/1090
 #EXTINF:-1,BUZZR
-http://directtv1.xyz:80/18501/18501/49733
-#EXTINF:-1,C-Span 1 HD
-http://directtv1.xyz:80/18501/18501/146160
-#EXTINF:-1,C-SPAN 2 HD
-http://directtv1.xyz:80/18501/18501/49734
-#EXTINF:-1,C-Span 3 HD
-http://directtv1.xyz:80/18501/18501/146161
-#EXTINF:-1,CARTOON NETWORK HD
-http://directtv1.xyz:80/18501/18501/49736
-#EXTINF:-1,CHEDDAR Business
-http://directtv1.xyz:80/18501/18501/49737
-#EXTINF:-1,Cinemax FHD
-http://directtv1.xyz:80/18501/18501/147552
-#EXTINF:-1,CMT HD
-http://directtv1.xyz:80/18501/18501/49743
-#EXTINF:-1,CNBC HD
-http://directtv1.xyz:80/18501/18501/49742
-#EXTINF:-1,CNBC World HD
-http://directtv1.xyz:80/18501/18501/49741
-#EXTINF:-1,CNN INTERNATIONAL HD
-http://directtv1.xyz:80/18501/18501/49755
-#EXTINF:-1,COMEDY CENTRAL HD
-http://directtv1.xyz:80/18501/18501/49754
-#EXTINF:-1,Comet TV
-http://directtv1.xyz:80/18501/18501/49752
-#EXTINF:-1,Cooking Channel HD
-http://directtv1.xyz:80/18501/18501/49751
-#EXTINF:-1,COZI TV HD
-http://directtv1.xyz:80/18501/18501/49749
-#EXTINF:-1,CW HD
-http://directtv1.xyz:80/18501/18501/49747
-#EXTINF:-1,Destination America
-http://directtv1.xyz:80/18501/18501/49746
-#EXTINF:-1,Discovery Channel HD
-http://directtv1.xyz:80/18501/18501/49745
-#EXTINF:-1,DISCOVERY EAST
-http://directtv1.xyz:80/18501/18501/49765
-#EXTINF:-1,DISCOVERY FAMILIA CHANNEL
-http://directtv1.xyz:80/18501/18501/49767
-#EXTINF:-1,DISCOVERY LIFE HD
-http://directtv1.xyz:80/18501/18501/49768
-#EXTINF:-1,Discovery Science HD
-http://directtv1.xyz:80/18501/18501/49761
-#EXTINF:-1,Discovery Velocity HD
-http://directtv1.xyz:80/18501/18501/49870
-#EXTINF:-1,Disney Channel HD
-http://directtv1.xyz:80/18501/18501/49760
-#EXTINF:-1,DISNEY Junior HD
-http://directtv1.xyz:80/18501/18501/49758
-#EXTINF:-1,Disney XD East
-http://directtv1.xyz:80/18501/18501/49756
-#EXTINF:-1,Disney XD HD
-http://directtv1.xyz:80/18501/18501/49784
-#EXTINF:-1,DIY NETWORK HD
-http://directtv1.xyz:80/18501/18501/49785
-#EXTINF:-1,E! Entertainment
-http://directtv1.xyz:80/18501/18501/49788
-#EXTINF:-1,Epix 2 HD
-http://directtv1.xyz:80/18501/18501/145976
-#EXTINF:-1,EPIX DRIVE
-http://directtv1.xyz:80/18501/18501/49789
-#EXTINF:-1,Epix HD
-http://directtv1.xyz:80/18501/18501/49790
-#EXTINF:-1,Fight Network
-http://directtv1.xyz:80/18501/18501/49793
-#EXTINF:-1,Food Network HD
-http://directtv1.xyz:80/18501/18501/49795
-#EXTINF:-1,Fox Business HD
-http://directtv1.xyz:80/18501/18501/49796
-#EXTINF:-1,Fox College Sports Atlantic
-http://directtv1.xyz:80/18501/18501/148953
-#EXTINF:-1,Fox College Sports Central
-http://directtv1.xyz:80/18501/18501/148954
-#EXTINF:-1,Fox College Sports Pacific
-http://directtv1.xyz:80/18501/18501/148955
-#EXTINF:-1,Fox HD
-http://directtv1.xyz:80/18501/18501/150834
-#EXTINF:-1,FOX Life
-http://directtv1.xyz:80/18501/18501/49797
-#EXTINF:-1,Fox News HD
-http://directtv1.xyz:80/18501/18501/49798
-#EXTINF:-1,Fox Sports 1 HD
-http://directtv1.xyz:80/18501/18501/148706
-#EXTINF:-1,Fox Sports 2 HD
-http://directtv1.xyz:80/18501/18501/148707
-#EXTINF:-1,FOX SPORTS ARIZONA HD
-http://directtv1.xyz:80/18501/18501/148927
-#EXTINF:-1,FOX SPORTS ARIZONA PLUS HD
-http://directtv1.xyz:80/18501/18501/148928
-#EXTINF:-1,FOX SPORTS CAROLINAS HD
-http://directtv1.xyz:80/18501/18501/148929
-#EXTINF:-1,FOX SPORTS OHIO CINCINNATI
-http://directtv1.xyz:80/18501/18501/148930
-#EXTINF:-1,FOX SPORTS DEPORTES HD
-http://directtv1.xyz:80/18501/18501/148931
-#EXTINF:-1,FOX SPORTS DETROIT HD
-http://directtv1.xyz:80/18501/18501/148932
-#EXTINF:-1,FOX SPORTS FLORIDA HD
-http://directtv1.xyz:80/18501/18501/148933
-#EXTINF:-1,FOX SPORTS MID WEST HD
-http://directtv1.xyz:80/18501/18501/148935
-#EXTINF:-1,FOX SPORTS NEWS HD
-http://directtv1.xyz:80/18501/18501/148936
-#EXTINF:-1,FOX SPORTS NORTH CAROLINAS
-http://directtv1.xyz:80/18501/18501/148937
-#EXTINF:-1,Fox Sports NORTH HD
-http://directtv1.xyz:80/18501/18501/148938
-#EXTINF:-1,FOX SPORTS OHIO HD
-http://directtv1.xyz:80/18501/18501/148939
-#EXTINF:-1,FOX SPORTS OKLAHOMA HD
-http://directtv1.xyz:80/18501/18501/148940
-#EXTINF:-1,FOX SPORTS PRIME TICKET HD
-http://directtv1.xyz:80/18501/18501/148941
-#EXTINF:-1,FOX SPORTS SAN ANTONIO HD
-http://directtv1.xyz:80/18501/18501/148942
-#EXTINF:-1,FOX SPORTS SAN DIEGO HD
-http://directtv1.xyz:80/18501/18501/148943
-#EXTINF:-1,FOX SPORTS SOUTH CAROLINA HD
-http://directtv1.xyz:80/18501/18501/148944
-#EXTINF:-1,FOX SPORTS SOUTH HD
-http://directtv1.xyz:80/18501/18501/148945
-#EXTINF:-1,FOX SPORTS SOUTHEAST HD
-http://directtv1.xyz:80/18501/18501/148947
-#EXTINF:-1,FOX SPORTS SOUTHWEST HD
-http://directtv1.xyz:80/18501/18501/148948
-#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO HD
-http://directtv1.xyz:80/18501/18501/148949
-#EXTINF:-1,FOX SPORTS SUN HD
-http://directtv1.xyz:80/18501/18501/148950
-#EXTINF:-1,FOX SPORTS TENNESSEE HD
-http://directtv1.xyz:80/18501/18501/148951
-#EXTINF:-1,FOX SPORTS WISCONSIN
-http://directtv1.xyz:80/18501/18501/148952
-#EXTINF:-1,Freeform HD
-http://directtv1.xyz:80/18501/18501/49783
-#EXTINF:-1,FREEFORM West
-http://directtv1.xyz:80/18501/18501/49782
-#EXTINF:-1,FUSE HD
-http://directtv1.xyz:80/18501/18501/49781
-#EXTINF:-1,Fusion HD
-http://directtv1.xyz:80/18501/18501/49780
-#EXTINF:-1,FX East HD
-http://directtv1.xyz:80/18501/18501/147555
-#EXTINF:-1,FX HD
-http://directtv1.xyz:80/18501/18501/49777
-#EXTINF:-1,FX Movies CHannel HD
-http://directtv1.xyz:80/18501/18501/49775
-#EXTINF:-1,FX West HD
-http://directtv1.xyz:80/18501/18501/147556
-#EXTINF:-1,FXX East HD
-http://directtv1.xyz:80/18501/18501/147553
-#EXTINF:-1,FXX HD
-http://directtv1.xyz:80/18501/18501/49774
-#EXTINF:-1,FXX West HD
-http://directtv1.xyz:80/18501/18501/147554
-#EXTINF:-1,FYI HD
-http://directtv1.xyz:80/18501/18501/49779
+http://web24.live:8080/Sally1/Sally1/1087
+#EXTINF:-1,CBS
+http://web24.live:8080/Sally1/Sally1/1045
+#EXTINF:-1,CHARGE!
+http://web24.live:8080/Sally1/Sally1/41816
+#EXTINF:-1,CIRCLE
+http://web24.live:8080/Sally1/Sally1/54488
+#EXTINF:-1,CLEO TV
+http://web24.live:8080/Sally1/Sally1/41233
+#EXTINF:-1,CMT
+http://web24.live:8080/Sally1/Sally1/1036
+#EXTINF:-1,CMT (WEST)
+http://web24.live:8080/Sally1/Sally1/54738
+#EXTINF:-1,COMEDY CENTRAL
+http://web24.live:8080/Sally1/Sally1/40658
+#EXTINF:-1,COMEDY CENTRAL (WEST)
+http://web24.live:8080/Sally1/Sally1/54737
+#EXTINF:-1,COMET TV
+http://web24.live:8080/Sally1/Sally1/1031
+#EXTINF:-1,COOKING CHANNEL
+http://web24.live:8080/Sally1/Sally1/1030
+#EXTINF:-1,COURT TV
+http://web24.live:8080/Sally1/Sally1/40771
+#EXTINF:-1,COWBOY CHANNEL
+http://web24.live:8080/Sally1/Sally1/6510
+#EXTINF:-1,COZI TV
+http://web24.live:8080/Sally1/Sally1/1029
+#EXTINF:-1,CRIME & INVESTIGATION
+http://web24.live:8080/Sally1/Sally1/1028
+#EXTINF:-1,CURIOSITY STREAM
+http://web24.live:8080/Sally1/Sally1/54268
+#EXTINF:-1,CW PIX 11
+http://web24.live:8080/Sally1/Sally1/10433
+#EXTINF:-1,DESTINATION AMERICA
+http://web24.live:8080/Sally1/Sally1/1025
+#EXTINF:-1,DISCOVERY CHANNEL
+http://web24.live:8080/Sally1/Sally1/1024
+#EXTINF:-1,DISCOVERY FAMILY
+http://web24.live:8080/Sally1/Sally1/1023
+#EXTINF:-1,DISCOVERY LIFE
+http://web24.live:8080/Sally1/Sally1/1022
+#EXTINF:-1,DISCOVERY SCIENCE
+http://web24.live:8080/Sally1/Sally1/1021
+#EXTINF:-1,DIY NETWORK
+http://web24.live:8080/Sally1/Sally1/1013
+#EXTINF:-1,DOG TV
+http://web24.live:8080/Sally1/Sally1/40145
+#EXTINF:-1,E!
+http://web24.live:8080/Sally1/Sally1/1008
+#EXTINF:-1,E! (WEST)
+http://web24.live:8080/Sally1/Sally1/1009
+#EXTINF:-1,FOOD NETWORK
+http://web24.live:8080/Sally1/Sally1/986
+#EXTINF:-1,FOOD NETWORK (WEST)
+http://web24.live:8080/Sally1/Sally1/54739
+#EXTINF:-1,FOX
+http://web24.live:8080/Sally1/Sally1/884
+#EXTINF:-1,FREEFORM
+http://web24.live:8080/Sally1/Sally1/882
+#EXTINF:-1,FUSE
+http://web24.live:8080/Sally1/Sally1/881
+#EXTINF:-1,FX
+http://web24.live:8080/Sally1/Sally1/878
+#EXTINF:-1,FXM
+http://web24.live:8080/Sally1/Sally1/877
+#EXTINF:-1,FXX
+http://web24.live:8080/Sally1/Sally1/875
+#EXTINF:-1,FYI NETWORK
+http://web24.live:8080/Sally1/Sally1/9877
 #EXTINF:-1,GAME SHOW NETWORK
-http://directtv1.xyz:80/18501/18501/49714
-#EXTINF:-1,GRIT TV
-http://directtv1.xyz:80/18501/18501/49772
-#EXTINF:-1,Hallmark Channel HD
-http://directtv1.xyz:80/18501/18501/146159
-#EXTINF:-1,Hallmark Drama HD
-http://directtv1.xyz:80/18501/18501/146163
-#EXTINF:-1,Hallmark Movies & Mysteries HD
-http://directtv1.xyz:80/18501/18501/146164
-#EXTINF:-1,HBO 2 HD
-http://directtv1.xyz:80/18501/18501/146165
-#EXTINF:-1,HBO Comedy HD
-http://directtv1.xyz:80/18501/18501/146166
-#EXTINF:-1,HBO East HD
-http://directtv1.xyz:80/18501/18501/146167
-#EXTINF:-1,HBO Family HD
-http://directtv1.xyz:80/18501/18501/146168
-#EXTINF:-1,HBO Signature HD
-http://directtv1.xyz:80/18501/18501/146170
-#EXTINF:-1,HBO West
-http://directtv1.xyz:80/18501/18501/146171
-#EXTINF:-1,HBO Zone HD
-http://directtv1.xyz:80/18501/18501/146172
-#EXTINF:-1,HDnet Movies HD
-http://directtv1.xyz:80/18501/18501/146173
-#EXTINF:-1,HGTV  East HD
-http://directtv1.xyz:80/18501/18501/49803
-#EXTINF:-1,HGTV HD
-http://directtv1.xyz:80/18501/18501/49801
+http://web24.live:8080/Sally1/Sally1/873
+#EXTINF:-1,GET TV
+http://web24.live:8080/Sally1/Sally1/10314
+#EXTINF:-1,GREAT AMERICAN COUNTRY (GAC)
+http://web24.live:8080/Sally1/Sally1/41811
+#EXTINF:-1,GRIT
+http://web24.live:8080/Sally1/Sally1/6414
+#EXTINF:-1,HALLMARK CHANNEL
+http://web24.live:8080/Sally1/Sally1/870
+#EXTINF:-1,HALLMARK DRAMA
+http://web24.live:8080/Sally1/Sally1/869
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES
+http://web24.live:8080/Sally1/Sally1/868
+#EXTINF:-1,HEROES AND ICONS
+http://web24.live:8080/Sally1/Sally1/42029
+#EXTINF:-1,HGTV
+http://web24.live:8080/Sally1/Sally1/862
 #EXTINF:-1,HISTORY
-http://directtv1.xyz:80/18501/18501/49804
-#EXTINF:-1,HLN HD
-http://directtv1.xyz:80/18501/18501/49806
-#EXTINF:-1,HSN 2 HD
-http://directtv1.xyz:80/18501/18501/146174
-#EXTINF:-1,IFC HD
-http://directtv1.xyz:80/18501/18501/49807
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://directtv1.xyz:80/18501/18501/49808
-#EXTINF:-1,ION FHD
-http://directtv1.xyz:80/18501/18501/49810
-#EXTINF:-1,JUSTICE CENTRAL HD
-http://directtv1.xyz:80/18501/18501/49811
-#EXTINF:-1,LAW AND CRIME HD
-http://directtv1.xyz:80/18501/18501/49812
-#EXTINF:-1,Lifetime HD
-http://directtv1.xyz:80/18501/18501/49813
-#EXTINF:-1,Lifetime Movie Network HD
-http://directtv1.xyz:80/18501/18501/145661
-#EXTINF:-1,More Max HD
-http://directtv1.xyz:80/18501/18501/146179
-#EXTINF:-1,Motor Trend HD
-http://directtv1.xyz:80/18501/18501/148703
-#EXTINF:-1,Movie Max HD
-http://directtv1.xyz:80/18501/18501/146177
-#EXTINF:-1,MoviePlex HD
-http://directtv1.xyz:80/18501/18501/146178
-#EXTINF:-1,MSG 2 HD
-http://directtv1.xyz:80/18501/18501/142631
-#EXTINF:-1,MSG 2 PLUS HD
-http://directtv1.xyz:80/18501/18501/146175
-#EXTINF:-1,MSG HD
-http://directtv1.xyz:80/18501/18501/49713
-#EXTINF:-1,MSG Plus HD
-http://directtv1.xyz:80/18501/18501/146176
-#EXTINF:-1,MSNBC HD
-http://directtv1.xyz:80/18501/18501/49815
-#EXTINF:-1,MTV 2 HD
-http://directtv1.xyz:80/18501/18501/49816
-#EXTINF:-1,MTV HD
-http://directtv1.xyz:80/18501/18501/49817
+http://web24.live:8080/Sally1/Sally1/860
+#EXTINF:-1,HISTORY 2
+http://web24.live:8080/Sally1/Sally1/13107
+#EXTINF:-1,HSN
+http://web24.live:8080/Sally1/Sally1/9291
+#EXTINF:-1,IFC
+http://web24.live:8080/Sally1/Sally1/858
+#EXTINF:-1,INSP
+http://web24.live:8080/Sally1/Sally1/7249
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://web24.live:8080/Sally1/Sally1/21016
+#EXTINF:-1,ION TV
+http://web24.live:8080/Sally1/Sally1/39202
+#EXTINF:-1,JUSTICE CENTRAL
+http://web24.live:8080/Sally1/Sally1/7604
+#EXTINF:-1,LAFF
+http://web24.live:8080/Sally1/Sally1/6498
+#EXTINF:-1,LAW AND CRIME
+http://web24.live:8080/Sally1/Sally1/854
+#EXTINF:-1,LIFETIME
+http://web24.live:8080/Sally1/Sally1/852
+#EXTINF:-1,LIFETIME MOVIES
+http://web24.live:8080/Sally1/Sally1/853
+#EXTINF:-1,LOGO
+http://web24.live:8080/Sally1/Sally1/851
+#EXTINF:-1,ME TV
+http://web24.live:8080/Sally1/Sally1/6446
+#EXTINF:-1,MOTORTREND
+http://web24.live:8080/Sally1/Sally1/842
+#EXTINF:-1,MTV
+http://web24.live:8080/Sally1/Sally1/7244
+#EXTINF:-1,MTV 2
+http://web24.live:8080/Sally1/Sally1/840
+#EXTINF:-1,MTV CLASSIC
+http://web24.live:8080/Sally1/Sally1/7717
+#EXTINF:-1,MTV LIVE
+http://web24.live:8080/Sally1/Sally1/6509
+#EXTINF:-1,MTV U
+http://web24.live:8080/Sally1/Sally1/41812
+#EXTINF:-1,MY 9
+http://web24.live:8080/Sally1/Sally1/834
+#EXTINF:-1,MY50
+http://web24.live:8080/Sally1/Sally1/828
 #EXTINF:-1,NASA TV
-http://directtv1.xyz:80/18501/18501/49819
-#EXTINF:-1,NAT GEO HD
-http://directtv1.xyz:80/18501/18501/49820
-#EXTINF:-1,NAT GEO WILD HD
-http://directtv1.xyz:80/18501/18501/49822
-#EXTINF:-1,NBC East HD
-http://directtv1.xyz:80/18501/18501/49823
-#EXTINF:-1,NBC Golf HD
-http://directtv1.xyz:80/18501/18501/148962
-#EXTINF:-1,NBC HD
-http://directtv1.xyz:80/18501/18501/49824
-#EXTINF:-1,NBC Sports Bay Area
-http://directtv1.xyz:80/18501/18501/58100
-#EXTINF:-1,NBC Sports Bay Area HD
-http://directtv1.xyz:80/18501/18501/148956
-#EXTINF:-1,NBC Sports Boston
-http://directtv1.xyz:80/18501/18501/58101
-#EXTINF:-1,NBC Sports California
-http://directtv1.xyz:80/18501/18501/58102
-#EXTINF:-1,NBC Sports California HD
-http://directtv1.xyz:80/18501/18501/148957
-#EXTINF:-1,NBC Sports Chicago
-http://directtv1.xyz:80/18501/18501/58103
-#EXTINF:-1,NBC SPORTS CHICAGO PLUS
-http://directtv1.xyz:80/18501/18501/148958
-#EXTINF:-1,NBC Sports Network HD
-http://directtv1.xyz:80/18501/18501/148959
-#EXTINF:-1,NBC Sports Northwest
-http://directtv1.xyz:80/18501/18501/58104
-#EXTINF:-1,NBC Sports Philadelphia
-http://directtv1.xyz:80/18501/18501/58105
-#EXTINF:-1,NBC Sports Washington
-http://directtv1.xyz:80/18501/18501/58106
-#EXTINF:-1,NBC Sports Washington HD
-http://directtv1.xyz:80/18501/18501/148961
-#EXTINF:-1,Nick Jr HD
-http://directtv1.xyz:80/18501/18501/49826
-#EXTINF:-1,Nick Music
-http://directtv1.xyz:80/18501/18501/49827
-#EXTINF:-1,Nickelodeon East
-http://directtv1.xyz:80/18501/18501/147584
-#EXTINF:-1,Nickelodeon HD
-http://directtv1.xyz:80/18501/18501/49828
-#EXTINF:-1,Nicktoons HD
-http://directtv1.xyz:80/18501/18501/49829
-#EXTINF:-1,ONE AMERICA NEWS NETWORK
-http://directtv1.xyz:80/18501/18501/49690
-#EXTINF:-1,Oprah Winfrey Network FHD
-http://directtv1.xyz:80/18501/18501/49833
-#EXTINF:-1,Outdoor Channel HD
-http://directtv1.xyz:80/18501/18501/49830
-#EXTINF:-1,Outer Max HD
-http://directtv1.xyz:80/18501/18501/146180
-#EXTINF:-1,Oxygen HD
-http://directtv1.xyz:80/18501/18501/49835
-#EXTINF:-1,PAC 12 NETWORK
-http://directtv1.xyz:80/18501/18501/49710
-#EXTINF:-1,PAC-12 ARIZONA
-http://directtv1.xyz:80/18501/18501/49709
-#EXTINF:-1,PBS KIDS
-http://directtv1.xyz:80/18501/18501/49836
-#EXTINF:-1,POP & Country
-http://directtv1.xyz:80/18501/18501/148964
-#EXTINF:-1,POP TV HD
-http://directtv1.xyz:80/18501/18501/49839
-#EXTINF:-1,Reelz HD
-http://directtv1.xyz:80/18501/18501/49840
-#EXTINF:-1,RFD TV HD
-http://directtv1.xyz:80/18501/18501/49841
-#EXTINF:-1,SEC NETWORK
-http://directtv1.xyz:80/18501/18501/49878
-#EXTINF:-1,Showtime 2 HD
-http://directtv1.xyz:80/18501/18501/147543
-#EXTINF:-1,Showtime East
-http://directtv1.xyz:80/18501/18501/147558
-#EXTINF:-1,Showtime Extreme HD
-http://directtv1.xyz:80/18501/18501/147544
-#EXTINF:-1,Showtime Family Zone HD
-http://directtv1.xyz:80/18501/18501/147545
-#EXTINF:-1,Showtime HD
-http://directtv1.xyz:80/18501/18501/147546
-#EXTINF:-1,Showtime Next HD
-http://directtv1.xyz:80/18501/18501/147547
-#EXTINF:-1,Showtime Showcase HD
-http://directtv1.xyz:80/18501/18501/147548
-#EXTINF:-1,Showtime SHOxBET
-http://directtv1.xyz:80/18501/18501/147549
-#EXTINF:-1,Showtime West HD
-http://directtv1.xyz:80/18501/18501/147550
-#EXTINF:-1,Showtime Women HD
-http://directtv1.xyz:80/18501/18501/147551
-#EXTINF:-1,Smithsonian Channel East
-http://directtv1.xyz:80/18501/18501/147560
-#EXTINF:-1,Smithsonian Channel HD
-http://directtv1.xyz:80/18501/18501/49844
-#EXTINF:-1,SPIKE (Paramount) HD
-http://directtv1.xyz:80/18501/18501/49845
-#EXTINF:-1,Starz Cinema HD
-http://directtv1.xyz:80/18501/18501/147525
-#EXTINF:-1,Starz Comedy HD
-http://directtv1.xyz:80/18501/18501/147526
-#EXTINF:-1,Starz East HD
-http://directtv1.xyz:80/18501/18501/147559
-#EXTINF:-1,Starz Edge HD
-http://directtv1.xyz:80/18501/18501/147527
-#EXTINF:-1,Starz Encore Action HD
-http://directtv1.xyz:80/18501/18501/147528
-#EXTINF:-1,Starz Encore Black HD
-http://directtv1.xyz:80/18501/18501/147529
-#EXTINF:-1,Starz Encore Classic HD
-http://directtv1.xyz:80/18501/18501/147530
-#EXTINF:-1,Starz Encore East HD
-http://directtv1.xyz:80/18501/18501/147561
-#EXTINF:-1,Starz Encore Espanol HD
-http://directtv1.xyz:80/18501/18501/147531
-#EXTINF:-1,Starz Encore Family HD
-http://directtv1.xyz:80/18501/18501/147532
-#EXTINF:-1,Starz Encore HD
-http://directtv1.xyz:80/18501/18501/147533
-#EXTINF:-1,Starz Encore Suspense HD
-http://directtv1.xyz:80/18501/18501/147534
-#EXTINF:-1,Starz Encore Westerns HD
-http://directtv1.xyz:80/18501/18501/147536
-#EXTINF:-1,Starz HD
-http://directtv1.xyz:80/18501/18501/147537
-#EXTINF:-1,STARZ IN BLACK HD
-http://directtv1.xyz:80/18501/18501/147538
-#EXTINF:-1,Starz Kids & Family HD
-http://directtv1.xyz:80/18501/18501/147539
-#EXTINF:-1,Starz West HD
-http://directtv1.xyz:80/18501/18501/147540
-#EXTINF:-1,Sundance HD
-http://directtv1.xyz:80/18501/18501/49691
-#EXTINF:-1,Syfy HD
-http://directtv1.xyz:80/18501/18501/49847
-#EXTINF:-1,Tastemade +
-http://directtv1.xyz:80/18501/18501/148963
-#EXTINF:-1,Tastmade HD
-http://directtv1.xyz:80/18501/18501/49848
-#EXTINF:-1,TBN Trinity Broadcasting Network
-http://directtv1.xyz:80/18501/18501/49708
-#EXTINF:-1,TBS HD
-http://directtv1.xyz:80/18501/18501/49849
-#EXTINF:-1,TCM Movies HD
-http://directtv1.xyz:80/18501/18501/49853
-#EXTINF:-1,Teen Nick HD
-http://directtv1.xyz:80/18501/18501/49854
-#EXTINF:-1,TENNIS CHANNEL HD
-http://directtv1.xyz:80/18501/18501/49706
-#EXTINF:-1,THE WEATHER CHANNEL HD
-http://directtv1.xyz:80/18501/18501/49704
-#EXTINF:-1,TLC HD
-http://directtv1.xyz:80/18501/18501/49856
-#EXTINF:-1,TNT HD
-http://directtv1.xyz:80/18501/18501/49858
-#EXTINF:-1,Travel Channel HD
-http://directtv1.xyz:80/18501/18501/49862
-#EXTINF:-1,TRU TV HD
-http://directtv1.xyz:80/18501/18501/49860
-#EXTINF:-1,TVONE
-http://directtv1.xyz:80/18501/18501/49701
-#EXTINF:-1,Universal Kids HD
-http://directtv1.xyz:80/18501/18501/49699
-#EXTINF:-1,Universal Kids HD
-http://directtv1.xyz:80/18501/18501/49863
-#EXTINF:-1,Universo
-http://directtv1.xyz:80/18501/18501/49864
-#EXTINF:-1,USA Network East HD
-http://directtv1.xyz:80/18501/18501/49867
-#EXTINF:-1,VH1 East HD
-http://directtv1.xyz:80/18501/18501/49697
-#EXTINF:-1,VH1 West HD
-http://directtv1.xyz:80/18501/18501/49698
+http://web24.live:8080/Sally1/Sally1/25275
+#EXTINF:-1,NAT GEO WILD
+http://web24.live:8080/Sally1/Sally1/825
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://web24.live:8080/Sally1/Sally1/824
+#EXTINF:-1,NBC
+http://web24.live:8080/Sally1/Sally1/778
+#EXTINF:-1,NEWSNATION (FORMERLY WGN AMERICA)
+http://web24.live:8080/Sally1/Sally1/688
+#EXTINF:-1,OUTDOOR CHANNEL
+http://web24.live:8080/Sally1/Sally1/6646
+#EXTINF:-1,OUTSIDE TV
+http://web24.live:8080/Sally1/Sally1/757
+#EXTINF:-1,OVATION
+http://web24.live:8080/Sally1/Sally1/42025
+#EXTINF:-1,OWN
+http://web24.live:8080/Sally1/Sally1/756
+#EXTINF:-1,OXYGEN
+http://web24.live:8080/Sally1/Sally1/754
+#EXTINF:-1,PARAMOUNT NETWORK
+http://web24.live:8080/Sally1/Sally1/751
+#EXTINF:-1,PBS
+http://web24.live:8080/Sally1/Sally1/6851
+#EXTINF:-1,PEOPLE TV
+http://web24.live:8080/Sally1/Sally1/6643
+#EXTINF:-1,PIXL
+http://web24.live:8080/Sally1/Sally1/6501
+#EXTINF:-1,POP
+http://web24.live:8080/Sally1/Sally1/749
+#EXTINF:-1,QVC
+http://web24.live:8080/Sally1/Sally1/748
+#EXTINF:-1,REVOLT
+http://web24.live:8080/Sally1/Sally1/747
+#EXTINF:-1,RFD TV
+http://web24.live:8080/Sally1/Sally1/6500
+#EXTINF:-1,SMITHSONIAN CHANNEL
+http://web24.live:8080/Sally1/Sally1/742
+#EXTINF:-1,SPORTSMAN CHANNEL
+http://web24.live:8080/Sally1/Sally1/6647
+#EXTINF:-1,START TV
+http://web24.live:8080/Sally1/Sally1/736
+#EXTINF:-1,SUNDANCE
+http://web24.live:8080/Sally1/Sally1/733
+#EXTINF:-1,SYFY
+http://web24.live:8080/Sally1/Sally1/731
+#EXTINF:-1,TASTEMADE
+http://web24.live:8080/Sally1/Sally1/40837
+#EXTINF:-1,TBS (EAST)
+http://web24.live:8080/Sally1/Sally1/728
+#EXTINF:-1,TBS (WEST)
+http://web24.live:8080/Sally1/Sally1/727
+#EXTINF:-1,TCM
+http://web24.live:8080/Sally1/Sally1/726
+#EXTINF:-1,TLC
+http://web24.live:8080/Sally1/Sally1/704
+#EXTINF:-1,TNT (EAST)
+http://web24.live:8080/Sally1/Sally1/703
+#EXTINF:-1,TNT (WEST)
+http://web24.live:8080/Sally1/Sally1/702
+#EXTINF:-1,TRAVEL CHANNEL
+http://web24.live:8080/Sally1/Sally1/701
+#EXTINF:-1,TRU TV
+http://web24.live:8080/Sally1/Sally1/699
+#EXTINF:-1,TV LAND
+http://web24.live:8080/Sally1/Sally1/698
+#EXTINF:-1,TV ONE
+http://web24.live:8080/Sally1/Sally1/6437
+#EXTINF:-1,UP TV
+http://web24.live:8080/Sally1/Sally1/41426
+#EXTINF:-1,USA NETWORK
+http://web24.live:8080/Sally1/Sally1/693
+#EXTINF:-1,USA NETWORK (WEST)
+http://web24.live:8080/Sally1/Sally1/694
+#EXTINF:-1,VH1
+http://web24.live:8080/Sally1/Sally1/691
 #EXTINF:-1,VICELAND
-http://directtv1.xyz:80/18501/18501/49696
-#EXTINF:-1,WE TV HD
-http://directtv1.xyz:80/18501/18501/49694
-#EXTINF:-1,Weather Nation HD
-http://directtv1.xyz:80/18501/18501/49871
-#EXTINF:-1,WGN America HD
-http://directtv1.xyz:80/18501/18501/49693
-#EXTINF:-1,World Fish Network HD
-http://directtv1.xyz:80/18501/18501/49877
-#EXTINF:-1,Cinemax West
-http://directtv1.xyz:80/18501/18501/147116
-#EXTINF:-1,CBS News
-http://directtv1.xyz:80/18501/18501/49738
-#EXTINF:-1,CBS HD
-http://directtv1.xyz:80/18501/18501/49739
+http://web24.live:8080/Sally1/Sally1/690
+#EXTINF:-1,WE TV
+http://web24.live:8080/Sally1/Sally1/689
+#EXTINF:-1,WE TV+
+http://web24.live:8080/Sally1/Sally1/46287
+#EXTINF:-1,ACC NETWORK
+http://web24.live:8080/Sally1/Sally1/1115
+#EXTINF:-1,ALTITUDE SPORTS
+http://web24.live:8080/Sally1/Sally1/47881
+#EXTINF:-1,ATT SPORTSNET PITTSBURGH
+http://web24.live:8080/Sally1/Sally1/44067
+#EXTINF:-1,ATT SPORTSNET SW
+http://web24.live:8080/Sally1/Sally1/40789
+#EXTINF:-1,BALLY SPORTS ARIZONA
+http://web24.live:8080/Sally1/Sally1/916
+#EXTINF:-1,BALLY SPORTS ARIZONA PLUS
+http://web24.live:8080/Sally1/Sally1/53536
+#EXTINF:-1,BALLY SPORTS DETROIT
+http://web24.live:8080/Sally1/Sally1/910
+#EXTINF:-1,BALLY SPORTS DETROIT PLUS
+http://web24.live:8080/Sally1/Sally1/53537
+#EXTINF:-1,BALLY SPORTS FLORIDA
+http://web24.live:8080/Sally1/Sally1/7218
+#EXTINF:-1,BALLY SPORTS GREAT LAKES
+http://web24.live:8080/Sally1/Sally1/889
+#EXTINF:-1,BALLY SPORTS INDIANA
+http://web24.live:8080/Sally1/Sally1/53240
+#EXTINF:-1,BALLY SPORTS INDIANA PLUS
+http://web24.live:8080/Sally1/Sally1/53538
+#EXTINF:-1,BALLY SPORTS KANSAS CITY
+http://web24.live:8080/Sally1/Sally1/53242
+#EXTINF:-1,BALLY SPORTS KANSAS CITY PLUS
+http://web24.live:8080/Sally1/Sally1/54261
+#EXTINF:-1,BALLY SPORTS MIDWEST
+http://web24.live:8080/Sally1/Sally1/905
+#EXTINF:-1,BALLY SPORTS MIDWEST PLUS
+http://web24.live:8080/Sally1/Sally1/54262
+#EXTINF:-1,BALLY SPORTS NEW ORLEANS
+http://web24.live:8080/Sally1/Sally1/47882
+#EXTINF:-1,BALLY SPORTS NEW ORLEANS PLUS
+http://web24.live:8080/Sally1/Sally1/54263
+#EXTINF:-1,BALLY SPORTS NORTH
+http://web24.live:8080/Sally1/Sally1/900
+#EXTINF:-1,BALLY SPORTS NORTH PLUS
+http://web24.live:8080/Sally1/Sally1/53539
+#EXTINF:-1,BALLY SPORTS OHIO (CLEVELAND)
+http://web24.live:8080/Sally1/Sally1/44260
+#EXTINF:-1,BALLY SPORTS OHIO PLUS
+http://web24.live:8080/Sally1/Sally1/54264
+#EXTINF:-1,BALLY SPORTS OKLAHOMA
+http://web24.live:8080/Sally1/Sally1/6642
+#EXTINF:-1,BALLY SPORTS OKLAHOMA PLUS
+http://web24.live:8080/Sally1/Sally1/53540
+#EXTINF:-1,BALLY SPORTS SAN DIEGO
+http://web24.live:8080/Sally1/Sally1/895
+#EXTINF:-1,BALLY SPORTS SAN DIEGO PLUS
+http://web24.live:8080/Sally1/Sally1/54265
+#EXTINF:-1,BALLY SPORTS SOCAL
+http://web24.live:8080/Sally1/Sally1/897
+#EXTINF:-1,BALLY SPORTS SOUTH
+http://web24.live:8080/Sally1/Sally1/893
+#EXTINF:-1,BALLY SPORTS SOUTH PLUS
+http://web24.live:8080/Sally1/Sally1/54266
+#EXTINF:-1,BALLY SPORTS SOUTHEAST
+http://web24.live:8080/Sally1/Sally1/892
+#EXTINF:-1,BALLY SPORTS SOUTHWEST
+http://web24.live:8080/Sally1/Sally1/890
+#EXTINF:-1,BALLY SPORTS SUN
+http://web24.live:8080/Sally1/Sally1/888
+#EXTINF:-1,BALLY SPORTS WEST
+http://web24.live:8080/Sally1/Sally1/886
+#EXTINF:-1,BALLY SPORTS WISCONSIN
+http://web24.live:8080/Sally1/Sally1/885
+#EXTINF:-1,BALLY SPORTS WISCONSIN PLUS
+http://web24.live:8080/Sally1/Sally1/54267
+#EXTINF:-1,BEIN SPORTS
+http://web24.live:8080/Sally1/Sally1/33786
+#EXTINF:-1,BEIN SPORTS LALIGA TV
+http://web24.live:8080/Sally1/Sally1/12037
+#EXTINF:-1,BIG TEN NETWORK
+http://web24.live:8080/Sally1/Sally1/6445
+#EXTINF:-1,CBS SPORTS NETWORK
+http://web24.live:8080/Sally1/Sally1/1046
+#EXTINF:-1,ELEVEN SPORTS NETWORK
+http://web24.live:8080/Sally1/Sally1/1007
+#EXTINF:-1,ESPN
+http://web24.live:8080/Sally1/Sally1/988
+#EXTINF:-1,ESPN (BACKUP)
+http://web24.live:8080/Sally1/Sally1/43846
+#EXTINF:-1,ESPN 2
+http://web24.live:8080/Sally1/Sally1/1002
+#EXTINF:-1,ESPN DEPORTES
+http://web24.live:8080/Sally1/Sally1/993
+#EXTINF:-1,ESPN NEWS
+http://web24.live:8080/Sally1/Sally1/991
+#EXTINF:-1,ESPN U
+http://web24.live:8080/Sally1/Sally1/989
+#EXTINF:-1,ESPORTS TV
+http://web24.live:8080/Sally1/Sally1/10496
+#EXTINF:-1,FIGHT NETWORK
+http://web24.live:8080/Sally1/Sally1/6422
+#EXTINF:-1,FLORACING
+http://web24.live:8080/Sally1/Sally1/48280
+#EXTINF:-1,FOX DEPORTES
+http://web24.live:8080/Sally1/Sally1/6423
+#EXTINF:-1,FOX SOCCER PLUS
+http://web24.live:8080/Sally1/Sally1/921
+#EXTINF:-1,FOX SPORTS 1
+http://web24.live:8080/Sally1/Sally1/918
+#EXTINF:-1,FOX SPORTS 2
+http://web24.live:8080/Sally1/Sally1/917
+#EXTINF:-1,GAME +
+http://web24.live:8080/Sally1/Sally1/41460
+#EXTINF:-1,GOL TV
+http://web24.live:8080/Sally1/Sally1/9246
+#EXTINF:-1,GOLF CHANNEL
+http://web24.live:8080/Sally1/Sally1/12353
+#EXTINF:-1,LAFC   LOS ANGELES FOOTBALL CLUB
+http://web24.live:8080/Sally1/Sally1/47458
+#EXTINF:-1,LONGHORN NETWORK
+http://web24.live:8080/Sally1/Sally1/848
+#EXTINF:-1,MARQUEE SPORTS NETWORK
+http://web24.live:8080/Sally1/Sally1/33413
+#EXTINF:-1,MASN
+http://web24.live:8080/Sally1/Sally1/42240
+#EXTINF:-1,MASN 2
+http://web24.live:8080/Sally1/Sally1/42241
+#EXTINF:-1,MAV TV
+http://web24.live:8080/Sally1/Sally1/847
+#EXTINF:-1,MLB |  NETWORK
+http://web24.live:8080/Sally1/Sally1/845
+#EXTINF:-1,MLB |  STRIKEZONE (TUES/FRI NIGHTS ONLY)
+http://web24.live:8080/Sally1/Sally1/33419
+#EXTINF:-1,MSG
+http://web24.live:8080/Sally1/Sally1/6234
+#EXTINF:-1,MSG 2
+http://web24.live:8080/Sally1/Sally1/6518
+#EXTINF:-1,MSG PLUS
+http://web24.live:8080/Sally1/Sally1/6517
+#EXTINF:-1,NBA TV
+http://web24.live:8080/Sally1/Sally1/823
+#EXTINF:-1,NBCSN
+http://web24.live:8080/Sally1/Sally1/768
+#EXTINF:-1,NBCSN BAY AREA
+http://web24.live:8080/Sally1/Sally1/777
+#EXTINF:-1,NBCSN BOSTON
+http://web24.live:8080/Sally1/Sally1/776
+#EXTINF:-1,NBCSN CALIFORNIA
+http://web24.live:8080/Sally1/Sally1/775
+#EXTINF:-1,NBCSN CHICAGO
+http://web24.live:8080/Sally1/Sally1/773
+#EXTINF:-1,NBCSN CHICAGO PLUS
+http://web24.live:8080/Sally1/Sally1/774
+#EXTINF:-1,NBCSN NORTHWEST
+http://web24.live:8080/Sally1/Sally1/772
+#EXTINF:-1,NBCSN PHILADELPHIA
+http://web24.live:8080/Sally1/Sally1/771
+#EXTINF:-1,NBCSN WASHINGTON
+http://web24.live:8080/Sally1/Sally1/769
+#EXTINF:-1,NESN
+http://web24.live:8080/Sally1/Sally1/764
+#EXTINF:-1,NESN PLUS
+http://web24.live:8080/Sally1/Sally1/6519
+#EXTINF:-1,NFL NETWORK
+http://web24.live:8080/Sally1/Sally1/6396
+#EXTINF:-1,NHL NETWORK
+http://web24.live:8080/Sally1/Sally1/760
+#EXTINF:-1,OLYMPIC CHANNEL
+http://web24.live:8080/Sally1/Sally1/759
+#EXTINF:-1,PAC 12 ARIZONA
+http://web24.live:8080/Sally1/Sally1/24505
+#EXTINF:-1,PAC 12 BAY AREA
+http://web24.live:8080/Sally1/Sally1/24506
+#EXTINF:-1,PAC 12 LOS ANGELES
+http://web24.live:8080/Sally1/Sally1/24507
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://web24.live:8080/Sally1/Sally1/24508
+#EXTINF:-1,PAC 12 NETWORK
+http://web24.live:8080/Sally1/Sally1/24509
+#EXTINF:-1,PAC 12 OREGON
+http://web24.live:8080/Sally1/Sally1/24511
+#EXTINF:-1,PAC 12 WASHINGTON
+http://web24.live:8080/Sally1/Sally1/24510
+#EXTINF:-1,SEC NETWORK
+http://web24.live:8080/Sally1/Sally1/6650
+#EXTINF:-1,SNY
+http://web24.live:8080/Sally1/Sally1/741
+#EXTINF:-1,SPECTRUM SPORTSNET LA DODGERS
+http://web24.live:8080/Sally1/Sally1/10509
+#EXTINF:-1,SPECTRUM SPORTSNET LA LAKERS
+http://web24.live:8080/Sally1/Sally1/12325
+#EXTINF:-1,SPORTS GRID
+http://web24.live:8080/Sally1/Sally1/52580
+#EXTINF:-1,STADIUM 1
+http://web24.live:8080/Sally1/Sally1/739
+#EXTINF:-1,STADIUM 2
+http://web24.live:8080/Sally1/Sally1/738
+#EXTINF:-1,STADIUM 3
+http://web24.live:8080/Sally1/Sally1/737
+#EXTINF:-1,TENNIS CHANNEL
+http://web24.live:8080/Sally1/Sally1/708
+#EXTINF:-1,TENNIS CHANNEL PLUS
+http://web24.live:8080/Sally1/Sally1/43493
+#EXTINF:-1,TVG 2
+http://web24.live:8080/Sally1/Sally1/40690
+#EXTINF:-1,TVG NETWORK
+http://web24.live:8080/Sally1/Sally1/6638
+#EXTINF:-1,UFC TV
+http://web24.live:8080/Sally1/Sally1/697
+#EXTINF:-1,VSIN
+http://web24.live:8080/Sally1/Sally1/43139
+#EXTINF:-1,WILLOW
+http://web24.live:8080/Sally1/Sally1/10510
+#EXTINF:-1,WORLD FISHING NETWORK
+http://web24.live:8080/Sally1/Sally1/6506
+#EXTINF:-1,WWE NETWORK
+http://web24.live:8080/Sally1/Sally1/687
+#EXTINF:-1,YES NETWORK
+http://web24.live:8080/Sally1/Sally1/686
+#EXTINF:-1,BEIN SPORTS XTRA
+http://web24.live:8080/Sally1/Sally1/54354
+#EXTINF:-1,ACCUWEATHER
+http://web24.live:8080/Sally1/Sally1/41819
+#EXTINF:-1,AL JAZEERA ENG
+http://web24.live:8080/Sally1/Sally1/6459
+#EXTINF:-1,BBC WORLD NEWS
+http://web24.live:8080/Sally1/Sally1/5129
+#EXTINF:-1,BLACK NEWS CHANNEL
+http://web24.live:8080/Sally1/Sally1/53591
+#EXTINF:-1,BLOOMBERG
+http://web24.live:8080/Sally1/Sally1/6635
+#EXTINF:-1,C SPAN
+http://web24.live:8080/Sally1/Sally1/42030
+#EXTINF:-1,C SPAN 2
+http://web24.live:8080/Sally1/Sally1/42031
+#EXTINF:-1,C SPAN 3
+http://web24.live:8080/Sally1/Sally1/53147
+#EXTINF:-1,CHEDDAR BUSINESS
+http://web24.live:8080/Sally1/Sally1/1044
+#EXTINF:-1,CHEDDAR NEWS
+http://web24.live:8080/Sally1/Sally1/1043
+#EXTINF:-1,CNBC
+http://web24.live:8080/Sally1/Sally1/1034
+#EXTINF:-1,CNBC WORLD
+http://web24.live:8080/Sally1/Sally1/1035
+#EXTINF:-1,CNN
+http://web24.live:8080/Sally1/Sally1/1033
+#EXTINF:-1,CNN (BACKUP)
+http://web24.live:8080/Sally1/Sally1/39204
+#EXTINF:-1,CNN INTERNATIONAL
+http://web24.live:8080/Sally1/Sally1/5090
+#EXTINF:-1,FOX BUSINESS
+http://web24.live:8080/Sally1/Sally1/928
+#EXTINF:-1,FOX NEWS
+http://web24.live:8080/Sally1/Sally1/922
+#EXTINF:-1,FOX NEWS (BACKUP)
+http://web24.live:8080/Sally1/Sally1/19432
+#EXTINF:-1,FREE SPEECH TV
+http://web24.live:8080/Sally1/Sally1/6634
+#EXTINF:-1,HLN
+http://web24.live:8080/Sally1/Sally1/859
+#EXTINF:-1,MSNBC
+http://web24.live:8080/Sally1/Sally1/841
+#EXTINF:-1,NEWS 12 BROOKLYN
+http://web24.live:8080/Sally1/Sally1/6454
+#EXTINF:-1,NEWS 12 CONNECTICUT
+http://web24.live:8080/Sally1/Sally1/6453
+#EXTINF:-1,NEWS 12 LONG ISLAND
+http://web24.live:8080/Sally1/Sally1/33567
+#EXTINF:-1,NEWS 12 NEW JERSEY
+http://web24.live:8080/Sally1/Sally1/40164
+#EXTINF:-1,NEWS 12 THE BRONX
+http://web24.live:8080/Sally1/Sally1/6455
+#EXTINF:-1,NEWS 12 WESTCHESTER
+http://web24.live:8080/Sally1/Sally1/13909
+#EXTINF:-1,NEWSMAX TV
+http://web24.live:8080/Sally1/Sally1/10513
+#EXTINF:-1,NEWSNATION* (FORMERLY WGN AMERICA)
+http://web24.live:8080/Sally1/Sally1/53092
+#EXTINF:-1,NEWSY
+http://web24.live:8080/Sally1/Sally1/10512
+#EXTINF:-1,ONE AMERICA NEWS NETWORK
+http://web24.live:8080/Sally1/Sally1/6415
+#EXTINF:-1,RT NEWS
+http://web24.live:8080/Sally1/Sally1/6447
+#EXTINF:-1,THE BLAZE
+http://web24.live:8080/Sally1/Sally1/6449
+#EXTINF:-1,THE WEATHER CHANNEL
+http://web24.live:8080/Sally1/Sally1/6225
+#EXTINF:-1,AMC RUSH
+http://web24.live:8080/Sally1/Sally1/53154
+#EXTINF:-1,CINEBOX 00 (INFO SCREEN)
+http://web24.live:8080/Sally1/Sally1/53592
+#EXTINF:-1,CINEBOX 01 (4K)
+http://web24.live:8080/Sally1/Sally1/53593
+#EXTINF:-1,CINEBOX 02 (4K)
+http://web24.live:8080/Sally1/Sally1/53594
+#EXTINF:-1,CINEBOX 03 (4K)
+http://web24.live:8080/Sally1/Sally1/53595
+#EXTINF:-1,CINEBOX 04
+http://web24.live:8080/Sally1/Sally1/53596
+#EXTINF:-1,CINEBOX 05
+http://web24.live:8080/Sally1/Sally1/53597
+#EXTINF:-1,CINEBOX 06
+http://web24.live:8080/Sally1/Sally1/53598
+#EXTINF:-1,CINEBOX 07
+http://web24.live:8080/Sally1/Sally1/53599
+#EXTINF:-1,CINEBOX 08
+http://web24.live:8080/Sally1/Sally1/53600
+#EXTINF:-1,CINEBOX 09
+http://web24.live:8080/Sally1/Sally1/53601
+#EXTINF:-1,CINEBOX 10
+http://web24.live:8080/Sally1/Sally1/53602
+#EXTINF:-1,CINEBOX 11
+http://web24.live:8080/Sally1/Sally1/53603
+#EXTINF:-1,CINEBOX 12
+http://web24.live:8080/Sally1/Sally1/53604
+#EXTINF:-1,CINEBOX 13
+http://web24.live:8080/Sally1/Sally1/53605
+#EXTINF:-1,CINEBOX 14
+http://web24.live:8080/Sally1/Sally1/53606
+#EXTINF:-1,CINEBOX 15
+http://web24.live:8080/Sally1/Sally1/53607
+#EXTINF:-1,CINEMAX (EAST)
+http://web24.live:8080/Sally1/Sally1/1039
+#EXTINF:-1,CINEMAX (WEST)
+http://web24.live:8080/Sally1/Sally1/47480
+#EXTINF:-1,CINEMAX 5STARMAX
+http://web24.live:8080/Sally1/Sally1/1041
+#EXTINF:-1,CINEMAX ACTION MAX (EAST)
+http://web24.live:8080/Sally1/Sally1/10430
+#EXTINF:-1,CINEMAX MOREMAX
+http://web24.live:8080/Sally1/Sally1/10318
+#EXTINF:-1,CINEMAX OUTERMAX
+http://web24.live:8080/Sally1/Sally1/10316
+#EXTINF:-1,CINEMAX THRILLERMAX
+http://web24.live:8080/Sally1/Sally1/26314
+#EXTINF:-1,EPIX
+http://web24.live:8080/Sally1/Sally1/1003
+#EXTINF:-1,EPIX (WEST)
+http://web24.live:8080/Sally1/Sally1/54471
+#EXTINF:-1,EPIX 2
+http://web24.live:8080/Sally1/Sally1/1006
+#EXTINF:-1,EPIX DRIVE IN
+http://web24.live:8080/Sally1/Sally1/6487
+#EXTINF:-1,EPIX HITS
+http://web24.live:8080/Sally1/Sally1/1004
+#EXTINF:-1,HBO (EAST)
+http://web24.live:8080/Sally1/Sally1/6462
+#EXTINF:-1,HBO (WEST)
+http://web24.live:8080/Sally1/Sally1/47481
+#EXTINF:-1,HBO 2 (EAST)
+http://web24.live:8080/Sally1/Sally1/24155
+#EXTINF:-1,HBO 2 (WEST)
+http://web24.live:8080/Sally1/Sally1/47483
+#EXTINF:-1,HBO COMEDY (EAST)
+http://web24.live:8080/Sally1/Sally1/867
+#EXTINF:-1,HBO COMEDY (WEST)
+http://web24.live:8080/Sally1/Sally1/47482
+#EXTINF:-1,HBO FAMILY (EAST)
+http://web24.live:8080/Sally1/Sally1/6489
+#EXTINF:-1,HBO FAMILY (WEST)
+http://web24.live:8080/Sally1/Sally1/47488
+#EXTINF:-1,HBO SIGNATURE (EAST)
+http://web24.live:8080/Sally1/Sally1/865
+#EXTINF:-1,HBO SIGNATURE (WEST)
+http://web24.live:8080/Sally1/Sally1/47489
+#EXTINF:-1,HBO ZONE (EAST)
+http://web24.live:8080/Sally1/Sally1/863
+#EXTINF:-1,HBO ZONE (WEST)
+http://web24.live:8080/Sally1/Sally1/47490
+#EXTINF:-1,HDNET MOVIES
+http://web24.live:8080/Sally1/Sally1/6493
+#EXTINF:-1,INDIEPLEX
+http://web24.live:8080/Sally1/Sally1/7607
+#EXTINF:-1,INDIEPLEX (WEST)
+http://web24.live:8080/Sally1/Sally1/53794
+#EXTINF:-1,MOVIEPLEX
+http://web24.live:8080/Sally1/Sally1/47491
+#EXTINF:-1,MOVIEPLEX (WEST)
+http://web24.live:8080/Sally1/Sally1/53795
+#EXTINF:-1,REELZ
+http://web24.live:8080/Sally1/Sally1/6502
+#EXTINF:-1,RETROPLEX
+http://web24.live:8080/Sally1/Sally1/47492
+#EXTINF:-1,RETROPLEX (WEST)
+http://web24.live:8080/Sally1/Sally1/53796
+#EXTINF:-1,SCREENPIX
+http://web24.live:8080/Sally1/Sally1/53797
+#EXTINF:-1,SCREENPIX ACTION
+http://web24.live:8080/Sally1/Sally1/53798
+#EXTINF:-1,SCREENPIX VOICES
+http://web24.live:8080/Sally1/Sally1/53799
+#EXTINF:-1,SCREENPIX WESTERNS
+http://web24.live:8080/Sally1/Sally1/53800
+#EXTINF:-1,SHOWTIME (EAST)
+http://web24.live:8080/Sally1/Sally1/6461
+#EXTINF:-1,SHOWTIME (WEST)
+http://web24.live:8080/Sally1/Sally1/47493
+#EXTINF:-1,SHOWTIME 2
+http://web24.live:8080/Sally1/Sally1/6480
+#EXTINF:-1,SHOWTIME 2 (WEST)
+http://web24.live:8080/Sally1/Sally1/54472
+#EXTINF:-1,SHOWTIME EXTREME
+http://web24.live:8080/Sally1/Sally1/6482
+#EXTINF:-1,SHOWTIME EXTREME (WEST)
+http://web24.live:8080/Sally1/Sally1/54473
+#EXTINF:-1,SHOWTIME FAMILY ZONE
+http://web24.live:8080/Sally1/Sally1/6481
+#EXTINF:-1,SHOWTIME FAMILY ZONE (WEST)
+http://web24.live:8080/Sally1/Sally1/54474
+#EXTINF:-1,SHOWTIME NEXT
+http://web24.live:8080/Sally1/Sally1/6485
+#EXTINF:-1,SHOWTIME NEXT (WEST)
+http://web24.live:8080/Sally1/Sally1/54475
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://web24.live:8080/Sally1/Sally1/6484
+#EXTINF:-1,SHOWTIME SHOWCASE (WEST)
+http://web24.live:8080/Sally1/Sally1/54476
+#EXTINF:-1,SHOWTIME WOMEN
+http://web24.live:8080/Sally1/Sally1/6486
+#EXTINF:-1,SHOWTIME WOMEN (WEST)
+http://web24.live:8080/Sally1/Sally1/54477
+#EXTINF:-1,SHOXBET (FORMERLY SHOWTIME BEYOND)
+http://web24.live:8080/Sally1/Sally1/6483
+#EXTINF:-1,SHOXBET (WEST)
+http://web24.live:8080/Sally1/Sally1/54478
+#EXTINF:-1,SONY MOVIE CHANNEL
+http://web24.live:8080/Sally1/Sally1/41813
+#EXTINF:-1,STARZ (EAST)
+http://web24.live:8080/Sally1/Sally1/6460
+#EXTINF:-1,STARZ (WEST)
+http://web24.live:8080/Sally1/Sally1/47494
+#EXTINF:-1,STARZ CINEMA (WEST)
+http://web24.live:8080/Sally1/Sally1/54479
+#EXTINF:-1,STARZ COMEDY
+http://web24.live:8080/Sally1/Sally1/6473
+#EXTINF:-1,STARZ COMEDY (WEST)
+http://web24.live:8080/Sally1/Sally1/54480
+#EXTINF:-1,STARZ EDGE
+http://web24.live:8080/Sally1/Sally1/6472
+#EXTINF:-1,STARZ EDGE (WEST)
+http://web24.live:8080/Sally1/Sally1/54481
+#EXTINF:-1,STARZ ENCORE (EAST)
+http://web24.live:8080/Sally1/Sally1/6471
+#EXTINF:-1,STARZ ENCORE (WEST)
+http://web24.live:8080/Sally1/Sally1/47495
+#EXTINF:-1,STARZ ENCORE ACTION
+http://web24.live:8080/Sally1/Sally1/7608
+#EXTINF:-1,STARZ ENCORE BLACK
+http://web24.live:8080/Sally1/Sally1/41818
+#EXTINF:-1,STARZ ENCORE CLASSIC
+http://web24.live:8080/Sally1/Sally1/6477
+#EXTINF:-1,STARZ ENCORE FAMILY
+http://web24.live:8080/Sally1/Sally1/6476
+#EXTINF:-1,STARZ ENCORE SUSPENSE
+http://web24.live:8080/Sally1/Sally1/6475
+#EXTINF:-1,STARZ ENCORE WESTERNS
+http://web24.live:8080/Sally1/Sally1/6468
+#EXTINF:-1,STARZ IN BLACK
+http://web24.live:8080/Sally1/Sally1/6469
+#EXTINF:-1,STARZ KIDS AND FAMILY
+http://web24.live:8080/Sally1/Sally1/6470
+#EXTINF:-1,TCM (TURNER CLASSIC MOVIES)
+http://web24.live:8080/Sally1/Sally1/47496
+#EXTINF:-1,THE MOVIE CHANNEL
+http://web24.live:8080/Sally1/Sally1/6474
+#EXTINF:-1, TVG
+http://web24.live:8080/Sally1/Sally1/52517
+#EXTINF:-1, TVG 2
+http://web24.live:8080/Sally1/Sally1/52518
+#EXTINF:-1,ELEVEN SPORTS
+http://web24.live:8080/Sally1/Sally1/43140
+#EXTINF:-1,BABY FIRST
+http://web24.live:8080/Sally1/Sally1/24748
+#EXTINF:-1,BABY TV
+http://web24.live:8080/Sally1/Sally1/1107
+#EXTINF:-1,BOOMERANG
+http://web24.live:8080/Sally1/Sally1/1092
+#EXTINF:-1,CARTOON NETWORK (EAST)
+http://web24.live:8080/Sally1/Sally1/1084
+#EXTINF:-1,CARTOON NETWORK (WEST)
+http://web24.live:8080/Sally1/Sally1/48279
+#EXTINF:-1,DISNEY CHANNEL (EAST)
+http://web24.live:8080/Sally1/Sally1/1019
+#EXTINF:-1,DISNEY JR (UNSTABLE)
+http://web24.live:8080/Sally1/Sally1/1016
+#EXTINF:-1,DISNEY JR (WEST)
+http://web24.live:8080/Sally1/Sally1/1017
+#EXTINF:-1,DISNEY XD
+http://web24.live:8080/Sally1/Sally1/1014
+#EXTINF:-1,DISNEY XD (WEST)
+http://web24.live:8080/Sally1/Sally1/1015
+#EXTINF:-1,NICK JR
+http://web24.live:8080/Sally1/Sally1/6310
+#EXTINF:-1,NICK MUSIC
+http://web24.live:8080/Sally1/Sally1/10432
+#EXTINF:-1,NICKELODEON
+http://web24.live:8080/Sally1/Sally1/6612
+#EXTINF:-1,NICKTOONS
+http://web24.live:8080/Sally1/Sally1/6633
+#EXTINF:-1,PBS KIDS
+http://web24.live:8080/Sally1/Sally1/6649
+#EXTINF:-1,TEEN NICK
+http://web24.live:8080/Sally1/Sally1/725
+#EXTINF:-1,TEEN NICK (WEST)
+http://web24.live:8080/Sally1/Sally1/54735
+#EXTINF:-1,UNIVERSAL KIDS
+http://web24.live:8080/Sally1/Sally1/695
+#EXTINF:-1,UNIVERSAL KIDS (WEST)
+http://web24.live:8080/Sally1/Sally1/696

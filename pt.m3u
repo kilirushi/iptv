@@ -1,311 +1,453 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 FHD
-http://directtv1.xyz:80/18501/18501/76804
-#EXTINF:-1,RTP 1
-http://directtv1.xyz:80/18501/18501/76805
-#EXTINF:-1,RTP 2 FHD
-http://directtv1.xyz:80/18501/18501/76806
-#EXTINF:-1,RTP 2
-http://directtv1.xyz:80/18501/18501/76807
-#EXTINF:-1,SIC FHD
-http://directtv1.xyz:80/18501/18501/76808
-#EXTINF:-1,SIC
-http://directtv1.xyz:80/18501/18501/76809
-#EXTINF:-1,TVI FHD
-http://directtv1.xyz:80/18501/18501/76810
-#EXTINF:-1,TVI
-http://directtv1.xyz:80/18501/18501/76811
-#EXTINF:-1,CMTV FHD
-http://directtv1.xyz:80/18501/18501/76812
-#EXTINF:-1,CMTV
-http://directtv1.xyz:80/18501/18501/76813
-#EXTINF:-1,TVI 24 FHD
-http://directtv1.xyz:80/18501/18501/76814
-#EXTINF:-1,TVI 24
-http://directtv1.xyz:80/18501/18501/76815
-#EXTINF:-1,SIC NOTICIAS FHD
-http://directtv1.xyz:80/18501/18501/76816
-#EXTINF:-1,SIC NOTICIAS
-http://directtv1.xyz:80/18501/18501/76817
-#EXTINF:-1,RTP 3
-http://directtv1.xyz:80/18501/18501/76818
-#EXTINF:-1,Porto Canal FHD
-http://directtv1.xyz:80/18501/18501/76819
-#EXTINF:-1,PORTO CANAL
-http://directtv1.xyz:80/18501/18501/76820
-#EXTINF:-1,A Bola TV FHD
-http://directtv1.xyz:80/18501/18501/76821
+#EXTINF:-1,PT: RTP 1
+http://servomaniak.top:25461/George/George123/71757
+#EXTINF:-1,PT: RTP 2
+http://servomaniak.top:25461/George/George123/71760
+#EXTINF:-1,PT: RTP 3
+http://servomaniak.top:25461/George/George123/71763
+#EXTINF:-1,PT: RTP ACORES
+http://servomaniak.top:25461/George/George123/71764
+#EXTINF:-1,PT: RTP AFRICA
+http://servomaniak.top:25461/George/George123/71765
+#EXTINF:-1,PT: RTP MEMORIA
+http://servomaniak.top:25461/George/George123/71767
+#EXTINF:-1,PT: RTP ARENA 
+http://servomaniak.top:25461/George/George123/71768
+#EXTINF:-1,PT: RECORD NEWS
+http://servomaniak.top:25461/George/George123/71769
+#EXTINF:-1,PT: TV RECORD
+http://servomaniak.top:25461/George/George123/71770
+#EXTINF:-1,PT: CMTV
+http://servomaniak.top:25461/George/George123/71774
+#EXTINF:-1,PT: TVI 
+http://servomaniak.top:25461/George/George123/71776
+#EXTINF:-1,PT: TVI 24
+http://servomaniak.top:25461/George/George123/71779
+#EXTINF:-1,PT: TVI FICCAO
+http://servomaniak.top:25461/George/George123/71782
+#EXTINF:-1,PT: TVI REALITY
+http://servomaniak.top:25461/George/George123/71784
+#EXTINF:-1,PT: TVI REALITY MOSAICO
+http://servomaniak.top:25461/George/George123/71786
+#EXTINF:-1,PT: SIC
+http://servomaniak.top:25461/George/George123/71787
+#EXTINF:-1,PT: SIC CARAS
+http://servomaniak.top:25461/George/George123/71790
+#EXTINF:-1,PT: SIC K
+http://servomaniak.top:25461/George/George123/71795
+#EXTINF:-1,PT: SIC MULHER
+http://servomaniak.top:25461/George/George123/71797
+#EXTINF:-1,PT: SIC NOTICIAS
+http://servomaniak.top:25461/George/George123/71799
+#EXTINF:-1,PT: SIC RADICAL
+http://servomaniak.top:25461/George/George123/71801
+#EXTINF:-1,PT: GLOBO 
+http://servomaniak.top:25461/George/George123/71805
+#EXTINF:-1,PT: GLOBO NOW
+http://servomaniak.top:25461/George/George123/71806
+#EXTINF:-1,PT: BBB-21 HD
+http://servomaniak.top:25461/George/George123/71807
+#EXTINF:-1,PT: ZAP Viva HD
+http://servomaniak.top:25461/George/George123/71808
+#EXTINF:-1,PT: ZAP Viva
+http://servomaniak.top:25461/George/George123/71809
+#EXTINF:-1,PT: TV ZIMBO
+http://servomaniak.top:25461/George/George123/71810
+#EXTINF:-1,PT: SAUDE + FHD
+http://servomaniak.top:25461/George/George123/71811
+#EXTINF:-1,PT: ESTUDO EM CASA
+http://servomaniak.top:25461/George/George123/71813
+#EXTINF:-1,PT: HORÁRIOS ESTUDO EM CASA
+http://servomaniak.top:25461/George/George123/71814
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://servomaniak.top:25461/George/George123/71815
+#EXTINF:-1,PT: AFRO MUSIC
+http://servomaniak.top:25461/George/George123/71816
+#EXTINF:-1,PT: AMC
+http://servomaniak.top:25461/George/George123/71817
+#EXTINF:-1,PT: AMC FHD
+http://servomaniak.top:25461/George/George123/71818
+#EXTINF:-1,PT: AR TV
+http://servomaniak.top:25461/George/George123/71819
+#EXTINF:-1,PT: AXN
+http://servomaniak.top:25461/George/George123/71820
+#EXTINF:-1,PT: AXN BLACK
+http://servomaniak.top:25461/George/George123/71821
+#EXTINF:-1,PT: AXN BLACK HD
+http://servomaniak.top:25461/George/George123/71822
+#EXTINF:-1,PT: AXN FHD
+http://servomaniak.top:25461/George/George123/71823
+#EXTINF:-1,PT: AXN MOVIES
+http://servomaniak.top:25461/George/George123/71824
+#EXTINF:-1,PT: AXN MOVIES FHD
+http://servomaniak.top:25461/George/George123/71825
+#EXTINF:-1,PT: AXN WHITE
+http://servomaniak.top:25461/George/George123/71826
+#EXTINF:-1,PT: AXN WHITE FHD
+http://servomaniak.top:25461/George/George123/71827
+#EXTINF:-1,PT: BABY TV
+http://servomaniak.top:25461/George/George123/71828
+#EXTINF:-1,PT: BBC ENTERTAINEMENT
+http://servomaniak.top:25461/George/George123/71829
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://servomaniak.top:25461/George/George123/71830
+#EXTINF:-1,PT: BENFICA TV 1
+http://servomaniak.top:25461/George/George123/71831
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://servomaniak.top:25461/George/George123/71832
+#EXTINF:-1,PT: BLAZE
+http://servomaniak.top:25461/George/George123/71833
+#EXTINF:-1,PT: BOOMERANG
+http://servomaniak.top:25461/George/George123/71834
+#EXTINF:-1,PT: CACA E PESCA
+http://servomaniak.top:25461/George/George123/71835
+#EXTINF:-1,PT: CACA E PESCA FHD
+http://servomaniak.top:25461/George/George123/71836
+#EXTINF:-1,PT: CACAVISION
+http://servomaniak.top:25461/George/George123/71837
+#EXTINF:-1,PT: Canal 180
+http://servomaniak.top:25461/George/George123/71838
+#EXTINF:-1,PT: CANAL BIGGS
+http://servomaniak.top:25461/George/George123/71839
+#EXTINF:-1,PT: Canal NOS FHD
+http://servomaniak.top:25461/George/George123/71840
+#EXTINF:-1,PT: CANAL PANDA
+http://servomaniak.top:25461/George/George123/71841
+#EXTINF:-1,PT: CANAL Q
+http://servomaniak.top:25461/George/George123/71842
+#EXTINF:-1,PT: Cancao Nova
+http://servomaniak.top:25461/George/George123/71843
+#EXTINF:-1,PT: CBS REALITY
+http://servomaniak.top:25461/George/George123/71845
+#EXTINF:-1,PT: CINEMUNDO
+http://servomaniak.top:25461/George/George123/71846
+#EXTINF:-1,PT: CINEMUNDO FHD
+http://servomaniak.top:25461/George/George123/71847
+#EXTINF:-1,PT: CNBC
+http://servomaniak.top:25461/George/George123/71848
+#EXTINF:-1,PT: CNN
+http://servomaniak.top:25461/George/George123/71849
+#EXTINF:-1,PT: COMBATE HD
+http://servomaniak.top:25461/George/George123/71850
+#EXTINF:-1,PT: CRIME INVESTIGATION
+http://servomaniak.top:25461/George/George123/71851
+#EXTINF:-1,PT: Deutche Welle
+http://servomaniak.top:25461/George/George123/71852
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://servomaniak.top:25461/George/George123/71853
+#EXTINF:-1,PT: DISCOVERY CHANNEL FHD
+http://servomaniak.top:25461/George/George123/71854
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://servomaniak.top:25461/George/George123/71855
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://servomaniak.top:25461/George/George123/71856
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://servomaniak.top:25461/George/George123/71857
+#EXTINF:-1,PT: E! ENTERTAINMENT FHD
+http://servomaniak.top:25461/George/George123/71858
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://servomaniak.top:25461/George/George123/71859
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://servomaniak.top:25461/George/George123/71860
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://servomaniak.top:25461/George/George123/71861
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://servomaniak.top:25461/George/George123/71862
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://servomaniak.top:25461/George/George123/71863
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://servomaniak.top:25461/George/George123/71864
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://servomaniak.top:25461/George/George123/71865
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://servomaniak.top:25461/George/George123/71866
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://servomaniak.top:25461/George/George123/71867
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://servomaniak.top:25461/George/George123/71868
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://servomaniak.top:25461/George/George123/71869
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://servomaniak.top:25461/George/George123/71870
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://servomaniak.top:25461/George/George123/71871
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://servomaniak.top:25461/George/George123/71872
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://servomaniak.top:25461/George/George123/71873
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://servomaniak.top:25461/George/George123/71874
+#EXTINF:-1,PT: ESPORTS 1 HD
+http://servomaniak.top:25461/George/George123/71875
+#EXTINF:-1,PT: FASHION TV HD
+http://servomaniak.top:25461/George/George123/71881
+#EXTINF:-1,PT: FOOD NETWORK HD
+http://servomaniak.top:25461/George/George123/71882
+#EXTINF:-1,PT: FOX
+http://servomaniak.top:25461/George/George123/71883
+#EXTINF:-1,PT: FOX COMEDY
+http://servomaniak.top:25461/George/George123/71884
+#EXTINF:-1,PT: FOX COMEDY FHD
+http://servomaniak.top:25461/George/George123/71885
+#EXTINF:-1,PT: FOX CRIME
+http://servomaniak.top:25461/George/George123/71886
+#EXTINF:-1,PT: FOX CRIME HD
+http://servomaniak.top:25461/George/George123/71887
+#EXTINF:-1,PT: FOX HD
+http://servomaniak.top:25461/George/George123/71888
+#EXTINF:-1,PT: FOX LIFE FHD
+http://servomaniak.top:25461/George/George123/71889
+#EXTINF:-1,PT: FOX MOVIES
+http://servomaniak.top:25461/George/George123/71890
+#EXTINF:-1,PT: FOX MOVIES FHD
+http://servomaniak.top:25461/George/George123/71891
+#EXTINF:-1,PT: FTV
+http://servomaniak.top:25461/George/George123/71892
+#EXTINF:-1,PT: FUEL TV
+http://servomaniak.top:25461/George/George123/71893
+#EXTINF:-1,PT: FUEL TV FHD
+http://servomaniak.top:25461/George/George123/71894
+#EXTINF:-1,PT: GINX
+http://servomaniak.top:25461/George/George123/71895
+#EXTINF:-1,PT: HISTORIA
+http://servomaniak.top:25461/George/George123/71896
+#EXTINF:-1,PT: HOLLYWOOD
+http://servomaniak.top:25461/George/George123/71897
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://servomaniak.top:25461/George/George123/71898
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
+http://servomaniak.top:25461/George/George123/71899
+#EXTINF:-1,PT: JIM JAM
+http://servomaniak.top:25461/George/George123/71900
+#EXTINF:-1,PT: KOMBAT SPORT
+http://servomaniak.top:25461/George/George123/71901
+#EXTINF:-1,PT: KURIAKOS KIDS HD  'PT
+http://servomaniak.top:25461/George/George123/71902
+#EXTINF:-1,PT: KURIAKOS TV 'PT
+http://servomaniak.top:25461/George/George123/71903
+#EXTINF:-1,PT: LOCALVISAO HD
+http://servomaniak.top:25461/George/George123/71904
+#EXTINF:-1,PT: MCM POP
+http://servomaniak.top:25461/George/George123/71905
+#EXTINF:-1,PT: MCM TOP
+http://servomaniak.top:25461/George/George123/71906
+#EXTINF:-1,PT: MEZZO
+http://servomaniak.top:25461/George/George123/71907
+#EXTINF:-1,PT: MOTORVISION HD
+http://servomaniak.top:25461/George/George123/71908
+#EXTINF:-1,PT: MTV
+http://servomaniak.top:25461/George/George123/71909
+#EXTINF:-1,PT: MTV FHD
+http://servomaniak.top:25461/George/George123/71910
+#EXTINF:-1,PT: MVM
+http://servomaniak.top:25461/George/George123/71911
+#EXTINF:-1,PT: MY CUISINE
+http://servomaniak.top:25461/George/George123/71912
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://servomaniak.top:25461/George/George123/71913
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC FHD
+http://servomaniak.top:25461/George/George123/71914
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD
+http://servomaniak.top:25461/George/George123/71915
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD HD
+http://servomaniak.top:25461/George/George123/71916
+#EXTINF:-1,PT: NBA TV
+http://servomaniak.top:25461/George/George123/71917
+#EXTINF:-1,PT: NBA TV FHD
+http://servomaniak.top:25461/George/George123/71918
+#EXTINF:-1,PT: NICKELODEON
+http://servomaniak.top:25461/George/George123/71919
+#EXTINF:-1,PT: NICK JR
+http://servomaniak.top:25461/George/George123/71920
+#EXTINF:-1,PT: NOS STUDIOS FHD
+http://servomaniak.top:25461/George/George123/71921
+#EXTINF:-1,PT: ODISSEIA
+http://servomaniak.top:25461/George/George123/71922
+#EXTINF:-1,PT: ODISSEIA FHD
+http://servomaniak.top:25461/George/George123/71923
+#EXTINF:-1,PT: OUTDOOR CHANNEL HD
+http://servomaniak.top:25461/George/George123/71924
+#EXTINF:-1,PT: PFC
+http://servomaniak.top:25461/George/George123/71925
+#EXTINF:-1,PT: PORTO CANAL
+http://servomaniak.top:25461/George/George123/71926
+#EXTINF:-1,PT: PORTO CANAL FHD
+http://servomaniak.top:25461/George/George123/71927
+#EXTINF:-1,PT: RT Doc
+http://servomaniak.top:25461/George/George123/71928
+#EXTINF:-1,PT: SANTUARIO DE FATIMA
+http://servomaniak.top:25461/George/George123/71929
+#EXTINF:-1,PT: SKY NEWS
+http://servomaniak.top:25461/George/George123/71930
+#EXTINF:-1,PT: SYFY
+http://servomaniak.top:25461/George/George123/71950
+#EXTINF:-1,PT: SYFY FHD
+http://servomaniak.top:25461/George/George123/71951
+#EXTINF:-1,PT: THE QYOU
+http://servomaniak.top:25461/George/George123/71952
+#EXTINF:-1,PT: TLC
+http://servomaniak.top:25461/George/George123/71953
+#EXTINF:-1,PT: TOROS TV
+http://servomaniak.top:25461/George/George123/71954
+#EXTINF:-1,PT: TPA
+http://servomaniak.top:25461/George/George123/71955
+#EXTINF:-1,PT: TRACE TOCA
+http://servomaniak.top:25461/George/George123/71956
+#EXTINF:-1,PT: TRACE URBAN
+http://servomaniak.top:25461/George/George123/71957
+#EXTINF:-1,PT: TRAVEL CHANNEL FHD
+http://servomaniak.top:25461/George/George123/71958
+#EXTINF:-1,PT: TVCINE 1
+http://servomaniak.top:25461/George/George123/71959
+#EXTINF:-1,PT: TVCINE 1 HD
+http://servomaniak.top:25461/George/George123/71960
+#EXTINF:-1,PT: TVCINE 2
+http://servomaniak.top:25461/George/George123/71961
+#EXTINF:-1,PT: TVCINE 2 HD
+http://servomaniak.top:25461/George/George123/71962
+#EXTINF:-1,PT: TVCINE 3
+http://servomaniak.top:25461/George/George123/71963
+#EXTINF:-1,PT: TVCINE 3 HD
+http://servomaniak.top:25461/George/George123/71964
+#EXTINF:-1,PT: TVCINE 4
+http://servomaniak.top:25461/George/George123/71965
+#EXTINF:-1,PT: TVCINE 4 HD
+http://servomaniak.top:25461/George/George123/71966
+#EXTINF:-1,PT: TV CINE ACTION FHD
+http://servomaniak.top:25461/George/George123/71968
+#EXTINF:-1,PT: TV CINE EDITION
+http://servomaniak.top:25461/George/George123/71969
+#EXTINF:-1,PT: TV CINE EDITION FHD
+http://servomaniak.top:25461/George/George123/71970
+#EXTINF:-1,PT: TV CINE EMOTION FHD
+http://servomaniak.top:25461/George/George123/71972
+#EXTINF:-1,PT: TV CINE TOP
+http://servomaniak.top:25461/George/George123/71973
+#EXTINF:-1,PT: TV CINE TOP FHD
+http://servomaniak.top:25461/George/George123/71974
+#EXTINF:-1,PT: TVC News
+http://servomaniak.top:25461/George/George123/71975
+#EXTINF:-1,PT: TVE INTERNACIONAL
+http://servomaniak.top:25461/George/George123/71976
+#EXTINF:-1,PT: TV GALICIA 'PT
+http://servomaniak.top:25461/George/George123/71977
+#EXTINF:-1,PT: TV SERIES
+http://servomaniak.top:25461/George/George123/71978
+#EXTINF:-1,PT: TV SERIES HD
+http://servomaniak.top:25461/George/George123/71979
+#EXTINF:-1,PT: VH1
+http://servomaniak.top:25461/George/George123/71980
+#EXTINF:-1,PT: ZAP Viva FHD
+http://servomaniak.top:25461/George/George123/71981
+#EXTINF:-1,PT: BBB-21 HD
+http://servomaniak.top:25461/George/George123/71982
+#EXTINF:-1,PT: ZAP Viva HD
+http://servomaniak.top:25461/George/George123/71983
+#EXTINF:-1,PT: ZAP Viva
+http://servomaniak.top:25461/George/George123/71984
+#EXTINF:-1,PT: TV ZIMBO
+http://servomaniak.top:25461/George/George123/71985
+#EXTINF:-1,PT: SAUDE + FHD
+http://servomaniak.top:25461/George/George123/71986
+#EXTINF:-1,PT: ESTUDO EM CASA
+http://servomaniak.top:25461/George/George123/71988
+#EXTINF:-1,PT: HORÁRIOS ESTUDO EM CASA
+http://servomaniak.top:25461/George/George123/71989
+#EXTINF:-1,PT: SPORTING TV
+http://servomaniak.top:25461/George/George123/71931
+#EXTINF:-1,PT: SPORTING TV FHD
+http://servomaniak.top:25461/George/George123/71932
+#EXTINF:-1,PT: SPORT TV
+http://servomaniak.top:25461/George/George123/71933
+#EXTINF:-1,PT: SPORT TV +
+http://servomaniak.top:25461/George/George123/71934
+#EXTINF:-1,PT: SPORT TV + FHD
+http://servomaniak.top:25461/George/George123/71935
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://servomaniak.top:25461/George/George123/71936
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://servomaniak.top:25461/George/George123/71937
+#EXTINF:-1,PT: SPORT TV 1 SD
+http://servomaniak.top:25461/George/George123/71938
+#EXTINF:-1,PT: SPORT TV 2
+http://servomaniak.top:25461/George/George123/71939
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://servomaniak.top:25461/George/George123/71940
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://servomaniak.top:25461/George/George123/71941
+#EXTINF:-1,PT: SPORT TV 3
+http://servomaniak.top:25461/George/George123/71942
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://servomaniak.top:25461/George/George123/71943
+#EXTINF:-1,PT: SPORT TV 4
+http://servomaniak.top:25461/George/George123/71944
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://servomaniak.top:25461/George/George123/71945
+#EXTINF:-1,PT: SPORT TV 4K
+http://servomaniak.top:25461/George/George123/71946
+#EXTINF:-1,PT: SPORT TV 5
+http://servomaniak.top:25461/George/George123/71947
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://servomaniak.top:25461/George/George123/71948
+#EXTINF:-1,PT: SPORT TV   HD
+http://servomaniak.top:25461/George/George123/71949
 #EXTINF:-1,A BOLA TV
-http://directtv1.xyz:80/18501/18501/76822
-#EXTINF:-1,TVI FICCAO
-http://directtv1.xyz:80/18501/18501/76823
-#EXTINF:-1,TVI Reality FHD
-http://directtv1.xyz:80/18501/18501/76824
-#EXTINF:-1,TVI REALITY
-http://directtv1.xyz:80/18501/18501/76825
-#EXTINF:-1,SIC MULHER FHD
-http://directtv1.xyz:80/18501/18501/76826
-#EXTINF:-1,SIC CARAS
-http://directtv1.xyz:80/18501/18501/76827
-#EXTINF:-1,SIC MULHER
-http://directtv1.xyz:80/18501/18501/76828
-#EXTINF:-1,SIC RADICAL FHD
-http://directtv1.xyz:80/18501/18501/76829
-#EXTINF:-1,SIC RADICAL
-http://directtv1.xyz:80/18501/18501/76830
-#EXTINF:-1,RTP ACORES
-http://directtv1.xyz:80/18501/18501/76831
-#EXTINF:-1,RTP MEMORIA
-http://directtv1.xyz:80/18501/18501/76833
-#EXTINF:-1,RTP AFRICA
-http://directtv1.xyz:80/18501/18501/76834
-#EXTINF:-1,Casa e Cozinha HD
-http://directtv1.xyz:80/18501/18501/76835
-#EXTINF:-1,CANAL Q
-http://directtv1.xyz:80/18501/18501/76836
-#EXTINF:-1,TV RECORD
-http://directtv1.xyz:80/18501/18501/76837
-#EXTINF:-1,Globo FHD
-http://directtv1.xyz:80/18501/18501/76838
-#EXTINF:-1,GLOBO
-http://directtv1.xyz:80/18501/18501/76839
-#EXTINF:-1,GLOBO NOW
-http://directtv1.xyz:80/18501/18501/76840
-#EXTINF:-1,CANAL PANDA
-http://directtv1.xyz:80/18501/18501/76841
-#EXTINF:-1,DISNEY CHANNEL
-http://directtv1.xyz:80/18501/18501/76842
-#EXTINF:-1,DISNEY JUNIOR
-http://directtv1.xyz:80/18501/18501/76843
-#EXTINF:-1,NICKELODEON
-http://directtv1.xyz:80/18501/18501/76844
-#EXTINF:-1,NICK JR
-http://directtv1.xyz:80/18501/18501/76845
-#EXTINF:-1,Canção Nova
-http://directtv1.xyz:80/18501/18501/76847
-#EXTINF:-1,BABY TV
-http://directtv1.xyz:80/18501/18501/76848
-#EXTINF:-1,JIM JAM
-http://directtv1.xyz:80/18501/18501/76849
-#EXTINF:-1,BIGGS
-http://directtv1.xyz:80/18501/18501/76850
-#EXTINF:-1,SIC K
-http://directtv1.xyz:80/18501/18501/76851
-#EXTINF:-1,TV CINE TOP FHD
-http://directtv1.xyz:80/18501/18501/76852
-#EXTINF:-1,TV CINE TOP
-http://directtv1.xyz:80/18501/18501/76853
-#EXTINF:-1,TV CINE EDITION FHD
-http://directtv1.xyz:80/18501/18501/76854
-#EXTINF:-1,TV CINE EDITION
-http://directtv1.xyz:80/18501/18501/76855
-#EXTINF:-1,TV CINE EMOTION FHD
-http://directtv1.xyz:80/18501/18501/76856
-#EXTINF:-1,TV CINE ACTION FHD
-http://directtv1.xyz:80/18501/18501/76858
-#EXTINF:-1,NOS STUDIOS FHD
-http://directtv1.xyz:80/18501/18501/76860
-#EXTINF:-1,HOLLYWOOD FHD
-http://directtv1.xyz:80/18501/18501/76861
-#EXTINF:-1,HOLLYWOOD
-http://directtv1.xyz:80/18501/18501/76862
-#EXTINF:-1,AXN HD
-http://directtv1.xyz:80/18501/18501/76863
-#EXTINF:-1,AXN
-http://directtv1.xyz:80/18501/18501/76864
-#EXTINF:-1,AXN WHITE HD
-http://directtv1.xyz:80/18501/18501/76865
-#EXTINF:-1,AXN WHITE
-http://directtv1.xyz:80/18501/18501/76866
-#EXTINF:-1,AXN MOVIES FHD
-http://directtv1.xyz:80/18501/18501/76867
-#EXTINF:-1,AXN MOVIES
-http://directtv1.xyz:80/18501/18501/76868
-#EXTINF:-1,AXN Black HD
-http://directtv1.xyz:80/18501/18501/104673
-#EXTINF:-1,FOX
-http://directtv1.xyz:80/18501/18501/76869
-#EXTINF:-1,FOX FHD
-http://directtv1.xyz:80/18501/18501/76870
-#EXTINF:-1,FOX MOVIES FHD
-http://directtv1.xyz:80/18501/18501/76871
-#EXTINF:-1,FOX MOVIES
-http://directtv1.xyz:80/18501/18501/76872
-#EXTINF:-1,FOX CRIME FHD
-http://directtv1.xyz:80/18501/18501/76873
-#EXTINF:-1,FOX COMEDY FHD
-http://directtv1.xyz:80/18501/18501/76874
-#EXTINF:-1,FOX COMEDY
-http://directtv1.xyz:80/18501/18501/76875
-#EXTINF:-1,FOX LIFE FHD
-http://directtv1.xyz:80/18501/18501/76876
-#EXTINF:-1,FOX LIFE
-http://directtv1.xyz:80/18501/18501/76877
-#EXTINF:-1,CINEMUNDO FHD
-http://directtv1.xyz:80/18501/18501/76878
-#EXTINF:-1,CINEMUNDO
-http://directtv1.xyz:80/18501/18501/76879
-#EXTINF:-1,SYFY HD
-http://directtv1.xyz:80/18501/18501/76880
-#EXTINF:-1,SYFY
-http://directtv1.xyz:80/18501/18501/76881
-#EXTINF:-1,AMC FHD
-http://directtv1.xyz:80/18501/18501/76882
-#EXTINF:-1,AMC
-http://directtv1.xyz:80/18501/18501/76883
-#EXTINF:-1,CANAL 11 FHD
-http://directtv1.xyz:80/18501/18501/76884
-#EXTINF:-1,SPORT TV NBA
-http://directtv1.xyz:80/18501/18501/76885
-#EXTINF:-1,SPORT TV + FHD
-http://directtv1.xyz:80/18501/18501/76886
-#EXTINF:-1,SPORT TV+
-http://directtv1.xyz:80/18501/18501/76887
-#EXTINF:-1,SPORT TV 1 FHD
-http://directtv1.xyz:80/18501/18501/76889
+http://servomaniak.top:25461/George/George123/17519
+#EXTINF:-1,BTV 1 HD
+http://servomaniak.top:25461/George/George123/17518
+#EXTINF:-1,SPORT TV+ HD
+http://servomaniak.top:25461/George/George123/17510
 #EXTINF:-1,SPORT TV 1 HD
-http://directtv1.xyz:80/18501/18501/76890
-#EXTINF:-1,SPORT TV 1 
-http://directtv1.xyz:80/18501/18501/76891
-#EXTINF:-1,SPORT TV 2 FHD
-http://directtv1.xyz:80/18501/18501/76892
+http://servomaniak.top:25461/George/George123/17507
 #EXTINF:-1,SPORT TV 2 HD
-http://directtv1.xyz:80/18501/18501/76893
-#EXTINF:-1,SPORT TV 2 
-http://directtv1.xyz:80/18501/18501/76894
-#EXTINF:-1,SPORT TV 3 FHD
-http://directtv1.xyz:80/18501/18501/76895
-#EXTINF:-1,SPORT TV 3 SD
-http://directtv1.xyz:80/18501/18501/76896
+http://servomaniak.top:25461/George/George123/17506
+#EXTINF:-1,SPORT TV 3 HD
+http://servomaniak.top:25461/George/George123/17505
 #EXTINF:-1,SPORT TV 4 HD
-http://directtv1.xyz:80/18501/18501/76897
-#EXTINF:-1,SPORT TV 4 
-http://directtv1.xyz:80/18501/18501/76898
-#EXTINF:-1,SPORT TV 5 HD
-http://directtv1.xyz:80/18501/18501/76899
-#EXTINF:-1,SPORT TV 5 
-http://directtv1.xyz:80/18501/18501/76900
-#EXTINF:-1,BTV HD
-http://directtv1.xyz:80/18501/18501/76901
-#EXTINF:-1,BTV 1 FHD
-http://directtv1.xyz:80/18501/18501/76902
-#EXTINF:-1,BTV 1
-http://directtv1.xyz:80/18501/18501/76903
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://directtv1.xyz:80/18501/18501/76904
+http://servomaniak.top:25461/George/George123/17504
+#EXTINF:-1,SPORT TV  5 HD
+http://servomaniak.top:25461/George/George123/17503
+#EXTINF:-1,SPORT TV NBA
+http://servomaniak.top:25461/George/George123/1830
 #EXTINF:-1,ELEVEN SPORTS 1 HD
-http://directtv1.xyz:80/18501/18501/76905
-#EXTINF:-1,ELEVEN SPORTS 1 SD
-http://directtv1.xyz:80/18501/18501/76906
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://directtv1.xyz:80/18501/18501/76907
+http://servomaniak.top:25461/George/George123/17497
 #EXTINF:-1,ELEVEN SPORTS 2 HD
-http://directtv1.xyz:80/18501/18501/76908
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://directtv1.xyz:80/18501/18501/76909
+http://servomaniak.top:25461/George/George123/17502
 #EXTINF:-1,ELEVEN SPORTS 3 HD
-http://directtv1.xyz:80/18501/18501/76910
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://directtv1.xyz:80/18501/18501/76911
+http://servomaniak.top:25461/George/George123/17501
 #EXTINF:-1,ELEVEN SPORTS 4 HD
-http://directtv1.xyz:80/18501/18501/76912
+http://servomaniak.top:25461/George/George123/17500
 #EXTINF:-1,ELEVEN SPORTS 5 HD
-http://directtv1.xyz:80/18501/18501/76913
+http://servomaniak.top:25461/George/George123/17499
 #EXTINF:-1,ELEVEN SPORTS 6 HD
-http://directtv1.xyz:80/18501/18501/76914
-#EXTINF:-1,Sporting Tv FHD
-http://directtv1.xyz:80/18501/18501/76915
-#EXTINF:-1,SPORTING TV
-http://directtv1.xyz:80/18501/18501/76916
-#EXTINF:-1,PFC
-http://directtv1.xyz:80/18501/18501/76920
-#EXTINF:-1,KOMBAT SPORT
-http://directtv1.xyz:80/18501/18501/76921
-#EXTINF:-1,MOTORVISION
-http://directtv1.xyz:80/18501/18501/76922
-#EXTINF:-1,Fuel TV FHD
-http://directtv1.xyz:80/18501/18501/76923
-#EXTINF:-1,FUEL TV
-http://directtv1.xyz:80/18501/18501/76924
-#EXTINF:-1,CACA E PESCA
-http://directtv1.xyz:80/18501/18501/76925
-#EXTINF:-1,CACAVISION
-http://directtv1.xyz:80/18501/18501/76926
-#EXTINF:-1,FTV
-http://directtv1.xyz:80/18501/18501/76927
-#EXTINF:-1,Ginx
-http://directtv1.xyz:80/18501/18501/76928
-#EXTINF:-1,TOROS TV
-http://directtv1.xyz:80/18501/18501/76929
-#EXTINF:-1,CRIME+INVESTIGATION
-http://directtv1.xyz:80/18501/18501/76930
-#EXTINF:-1,E! Entertainement FHD
-http://directtv1.xyz:80/18501/18501/76931
-#EXTINF:-1,E! ENTERTAINEMENT
-http://directtv1.xyz:80/18501/18501/76932
-#EXTINF:-1,TLC
-http://directtv1.xyz:80/18501/18501/76933
-#EXTINF:-1,DISCOVERY FHD
-http://directtv1.xyz:80/18501/18501/76934
-#EXTINF:-1,DISCOVERY CHANNEL
-http://directtv1.xyz:80/18501/18501/76935
-#EXTINF:-1,ID INVESTIGATION DISCOVERY
-http://directtv1.xyz:80/18501/18501/76936
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://directtv1.xyz:80/18501/18501/76937
-#EXTINF:-1,National Geographic
-http://directtv1.xyz:80/18501/18501/76938
-#EXTINF:-1,Nat Geo Wild HD
-http://directtv1.xyz:80/18501/18501/76939
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://directtv1.xyz:80/18501/18501/76940
-#EXTINF:-1,CBS REALITY
-http://directtv1.xyz:80/18501/18501/76941
-#EXTINF:-1,BBC ENTERTAINEMENT
-http://directtv1.xyz:80/18501/18501/76942
-#EXTINF:-1,BBC WORLD NEWS
-http://directtv1.xyz:80/18501/18501/76943
-#EXTINF:-1,24 KITCHEN FHD
-http://directtv1.xyz:80/18501/18501/76944
-#EXTINF:-1,Food Network
-http://directtv1.xyz:80/18501/18501/76945
-#EXTINF:-1,Blaze FHD
-http://directtv1.xyz:80/18501/18501/76946
-#EXTINF:-1,BLAZE
-http://directtv1.xyz:80/18501/18501/76947
-#EXTINF:-1,CNN
-http://directtv1.xyz:80/18501/18501/76948
-#EXTINF:-1,FOX News
-http://directtv1.xyz:80/18501/18501/76949
-#EXTINF:-1,ARTV
-http://directtv1.xyz:80/18501/18501/76952
-#EXTINF:-1,HISTORIA
-http://directtv1.xyz:80/18501/18501/76953
-#EXTINF:-1,Odisseia FHD
-http://directtv1.xyz:80/18501/18501/76954
-#EXTINF:-1,ODISSEIA
-http://directtv1.xyz:80/18501/18501/76955
-#EXTINF:-1,TRAVEL CHANNEL FHD
-http://directtv1.xyz:80/18501/18501/76956
-#EXTINF:-1,Deutsche Welle
-http://directtv1.xyz:80/18501/18501/76958
-#EXTINF:-1,CNBC
-http://directtv1.xyz:80/18501/18501/76959
-#EXTINF:-1,AFRO MUSIC
-http://directtv1.xyz:80/18501/18501/76960
-#EXTINF:-1,MCM POP
-http://directtv1.xyz:80/18501/18501/76961
-#EXTINF:-1,MTV FHD
-http://directtv1.xyz:80/18501/18501/76962
-#EXTINF:-1,MTV PORTUGAL
-http://directtv1.xyz:80/18501/18501/76963
-#EXTINF:-1,MEZZO
-http://directtv1.xyz:80/18501/18501/76964
-#EXTINF:-1,TRACE TOCA
-http://directtv1.xyz:80/18501/18501/76965
-#EXTINF:-1,TRACE URBAN
-http://directtv1.xyz:80/18501/18501/76966
-#EXTINF:-1,VH1
-http://directtv1.xyz:80/18501/18501/76967
-#EXTINF:-1,TV Galicia HD
-http://directtv1.xyz:80/18501/18501/76968
+http://servomaniak.top:25461/George/George123/17498
+#EXTINF:-1,CANAL 1 1 HD
+http://servomaniak.top:25461/George/George123/13990
+#EXTINF:-1,SPORTING TV HD
+http://servomaniak.top:25461/George/George123/17496
+#EXTINF:-1,KOMBAT SPORT  HD
+http://servomaniak.top:25461/George/George123/13987
+#EXTINF:-1,FIGHT NETWORK
+http://servomaniak.top:25461/George/George123/35270
+#EXTINF:-1,BABY TV
+http://servomaniak.top:25461/George/George123/35341
+#EXTINF:-1,BOOMERANG
+http://servomaniak.top:25461/George/George123/35342
+#EXTINF:-1,CANAL PANDA
+http://servomaniak.top:25461/George/George123/35343
+#EXTINF:-1,CANAL Q
+http://servomaniak.top:25461/George/George123/35344
+#EXTINF:-1,DISNEY CHANNEL
+http://servomaniak.top:25461/George/George123/35346
+#EXTINF:-1,DISNEY JUNIOR
+http://servomaniak.top:25461/George/George123/35347
+#EXTINF:-1,JIM JAM
+http://servomaniak.top:25461/George/George123/35348
+#EXTINF:-1,NICK JR.
+http://servomaniak.top:25461/George/George123/35349
+#EXTINF:-1,NICKELODEON
+http://servomaniak.top:25461/George/George123/35350
+#EXTINF:-1,PANDA BIGSS
+http://servomaniak.top:25461/George/George123/35351
+#EXTINF:-1,SIC KIDS
+http://servomaniak.top:25461/George/George123/35352
