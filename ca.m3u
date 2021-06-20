@@ -1,199 +1,695 @@
 #EXTM3U
-#EXTINF:-1,CA : CP 24 HD
-http://oqab.life:8080/live/5001/5001/2339.ts
-#EXTINF:-1,CA : ABC SPARK HD
-http://oqab.life:8080/live/5001/5001/2340.ts
-#EXTINF:-1,CA : A&E  HD
-http://oqab.life:8080/live/5001/5001/2341.ts
-#EXTINF:-1,CA : AMC  HD
-http://oqab.life:8080/live/5001/5001/2342.ts
-#EXTINF:-1,CA : ANIMAL PLANET  HD
-http://oqab.life:8080/live/5001/5001/2343.ts
-#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
-http://oqab.life:8080/live/5001/5001/2344.ts
-#EXTINF:-1,GLOBAL |HD
-http://oqab.life:8080/live/5001/5001/2345.ts
-#EXTINF:-1,CBC
-http://oqab.life:8080/live/5001/5001/2347.ts
-#EXTINF:-1,CBC NEWS
-http://oqab.life:8080/live/5001/5001/2348.ts
-#EXTINF:-1,CHCH
-http://oqab.life:8080/live/5001/5001/2349.ts
-#EXTINF:-1,City TORONTO
-http://oqab.life:8080/live/5001/5001/2350.ts
-#EXTINF:-1,CNN
-http://oqab.life:8080/live/5001/5001/2351.ts
-#EXTINF:-1,COMEDY
-http://oqab.life:8080/live/5001/5001/2352.ts
-#EXTINF:-1,CTV NEWS
-http://oqab.life:8080/live/5001/5001/2353.ts
-#EXTINF:-1,CW
-http://oqab.life:8080/live/5001/5001/2354.ts
-#EXTINF:-1,DISCOVERY
-http://oqab.life:8080/live/5001/5001/2355.ts
-#EXTINF:-1,DISNEY JR
-http://oqab.life:8080/live/5001/5001/2356.ts
-#EXTINF:-1,DISNEY XD
-http://oqab.life:8080/live/5001/5001/2357.ts
-#EXTINF:-1,DIY NETWORK
-http://oqab.life:8080/live/5001/5001/2358.ts
-#EXTINF:-1,Food Network
-http://oqab.life:8080/live/5001/5001/2359.ts
-#EXTINF:-1,Fox
-http://oqab.life:8080/live/5001/5001/2360.ts
-#EXTINF:-1,OMNI 1
-http://oqab.life:8080/live/5001/5001/2361.ts
-#EXTINF:-1,OMNI 2
-http://oqab.life:8080/live/5001/5001/2362.ts
-#EXTINF:-1,GLOBAL TORONTO
-http://oqab.life:8080/live/5001/5001/2363.ts
-#EXTINF:-1,YES TV
-http://oqab.life:8080/live/5001/5001/2364.ts
-#EXTINF:-1,CTV TORONTO
-http://oqab.life:8080/live/5001/5001/2365.ts
-#EXTINF:-1,CTV KITCHENER
-http://oqab.life:8080/live/5001/5001/2366.ts
-#EXTINF:-1,CTV TWO
-http://oqab.life:8080/live/5001/5001/2367.ts
-#EXTINF:-1,TVO
-http://oqab.life:8080/live/5001/5001/2368.ts
-#EXTINF:-1,CTV MONTREAL
-http://oqab.life:8080/live/5001/5001/2369.ts
-#EXTINF:-1,CBC MONTREAL
-http://oqab.life:8080/live/5001/5001/2370.ts
-#EXTINF:-1,CBC CALGARY
-http://oqab.life:8080/live/5001/5001/2371.ts
-#EXTINF:-1,CBC OTTAWA
-http://oqab.life:8080/live/5001/5001/2372.ts
-#EXTINF:-1,CBC VANCOUVER
-http://oqab.life:8080/live/5001/5001/2373.ts
-#EXTINF:-1,GLOBAL VANCOUVER
-http://oqab.life:8080/live/5001/5001/2374.ts
+#EXTINF:-1,A&E FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56364
+#EXTINF:-1,ABC Buffalo HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56366
+#EXTINF:-1,ABC Buffalo HD (WKBW)
+http://yeninesiliptv.com:8080/Muammer1/123456/56367
+#EXTINF:-1,ABC CHICAGO
+http://yeninesiliptv.com:8080/Muammer1/123456/56368
+#EXTINF:-1,ABC East HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56369
+#EXTINF:-1,ABC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56370
+#EXTINF:-1,ABC Spark HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56371
+#EXTINF:-1,ADULT SWIM HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56372
+#EXTINF:-1,AMC FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56373
+#EXTINF:-1,AMI HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56374
+#EXTINF:-1,AMI TÉLÉ
+http://yeninesiliptv.com:8080/Muammer1/123456/56375
+#EXTINF:-1,ANIMAL PLANET HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56376
+#EXTINF:-1,APTN HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56378
+#EXTINF:-1,ARTV (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56379
+#EXTINF:-1,BBC CANADA HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56380
+#EXTINF:-1,BBC NEWS HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56381
+#EXTINF:-1,BBC WORLD NEWS HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56382
+#EXTINF:-1,beIN Sports HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56383
+#EXTINF:-1,BET HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56384
+#EXTINF:-1,BET HD (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56385
+#EXTINF:-1,BNN HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56386
+#EXTINF:-1,BOOMERANG HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56387
+#EXTINF:-1,BRAVO HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56388
+#EXTINF:-1,C-PAC
+http://yeninesiliptv.com:8080/Muammer1/123456/56389
+#EXTINF:-1,C-PAC English
+http://yeninesiliptv.com:8080/Muammer1/123456/56390
+#EXTINF:-1,Cable Pulse 24 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56391
+#EXTINF:-1,Canada One
+http://yeninesiliptv.com:8080/Muammer1/123456/56392
+#EXTINF:-1,Canada Star TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56393
+#EXTINF:-1,CANAL D (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56394
+#EXTINF:-1,CANAL SAVOIR (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56395
+#EXTINF:-1,CANAL SAVOIR HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56396
+#EXTINF:-1,CARTOON NETWORK HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56397
+#EXTINF:-1,CASA
+http://yeninesiliptv.com:8080/Muammer1/123456/56399
+#EXTINF:-1,CASA (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56400
+#EXTINF:-1,CBC CALGARY HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56401
+#EXTINF:-1,CBC Central HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56402
+#EXTINF:-1,CBC Charlotte Town HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56403
+#EXTINF:-1,CBC Eastern HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56404
+#EXTINF:-1,CBC Federicton
+http://yeninesiliptv.com:8080/Muammer1/123456/56405
+#EXTINF:-1,CBC HALIFAX HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56406
+#EXTINF:-1,CBC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56407
+#EXTINF:-1,CBC MONTREAL (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56408
+#EXTINF:-1,CBC Montreal HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56409
+#EXTINF:-1,CBC New Network HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56410
+#EXTINF:-1,CBC NEWS HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56411
+#EXTINF:-1,CBC NEWS TORONTO HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56412
+#EXTINF:-1,CBC Neww Network HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56413
+#EXTINF:-1,CBC NOVA SCOTIA
+http://yeninesiliptv.com:8080/Muammer1/123456/56414
+#EXTINF:-1,CBC Oshawa
+http://yeninesiliptv.com:8080/Muammer1/123456/56415
+#EXTINF:-1,CBC OTTAWA HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56416
+#EXTINF:-1,CBC St. John s
+http://yeninesiliptv.com:8080/Muammer1/123456/56417
+#EXTINF:-1,CBC Toronto (CBLT)
+http://yeninesiliptv.com:8080/Muammer1/123456/56418
+#EXTINF:-1,CBC TORONTO FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56419
+#EXTINF:-1,CBC VANCOUVER HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56420
+#EXTINF:-1,CBC West HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56421
+#EXTINF:-1,CBC WINDSOR HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56422
+#EXTINF:-1,CBC WINNIPEG HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56423
+#EXTINF:-1,CBC YELLOWKNIFE HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56424
+#EXTINF:-1,CBS Buffalo HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56425
+#EXTINF:-1,CBS HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56426
+#EXTINF:-1,CHCH FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56427
+#EXTINF:-1,CHRGD HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56428
+#EXTINF:-1,CINE POP (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56429
+#EXTINF:-1,CITY CALGARY HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56430
+#EXTINF:-1,CITY MONTREAL
+http://yeninesiliptv.com:8080/Muammer1/123456/56431
+#EXTINF:-1,CITY TORONTO HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56432
+#EXTINF:-1,CITY TV HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56433
 #EXTINF:-1,CITY TV VANCOUVER
-http://oqab.life:8080/live/5001/5001/2375.ts
-#EXTINF:-1,HGTV
-http://oqab.life:8080/live/5001/5001/2376.ts
-#EXTINF:-1,BBC CANADA
-http://oqab.life:8080/live/5001/5001/2377.ts
-#EXTINF:-1,BNN BLOOMBERG
-http://oqab.life:8080/live/5001/5001/2378.ts
-#EXTINF:-1,COOKING CHANNEL
-http://oqab.life:8080/live/5001/5001/2379.ts
-#EXTINF:-1,COTTAGE LIFE
-http://oqab.life:8080/live/5001/5001/2380.ts
-#EXTINF:-1,DEJAVIEW
-http://oqab.life:8080/live/5001/5001/2381.ts
-#EXTINF:-1,DOCUMENTARY CHANNEL
-http://oqab.life:8080/live/5001/5001/2382.ts
-#EXTINF:-1,HBO
-http://oqab.life:8080/live/5001/5001/2383.ts
-#EXTINF:-1,HBO 2
-http://oqab.life:8080/live/5001/5001/2384.ts
-#EXTINF:-1,LOVE NATURE
-http://oqab.life:8080/live/5001/5001/2385.ts
-#EXTINF:-1,MUCH
-http://oqab.life:8080/live/5001/5001/2386.ts
-#EXTINF:-1,SMITHSONIAN CHANNEL
-http://oqab.life:8080/live/5001/5001/2387.ts
-#EXTINF:-1,VISION TV
-http://oqab.life:8080/live/5001/5001/2388.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://oqab.life:8080/live/5001/5001/2389.ts
-#EXTINF:-1,CITY TV TORONTO
-http://oqab.life:8080/live/5001/5001/2390.ts
-#EXTINF:-1,CITY TV CALGARY
-http://oqab.life:8080/live/5001/5001/2391.ts
+http://yeninesiliptv.com:8080/Muammer1/123456/56434
+#EXTINF:-1,Citytv Toronto
+http://yeninesiliptv.com:8080/Muammer1/123456/56435
+#EXTINF:-1,CMT CANADA
+http://yeninesiliptv.com:8080/Muammer1/123456/56436
+#EXTINF:-1,CMT HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56437
+#EXTINF:-1,CNBC Canada
+http://yeninesiliptv.com:8080/Muammer1/123456/56438
+#EXTINF:-1,CNBC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56439
+#EXTINF:-1,CNN HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56440
+#EXTINF:-1,CNN INTERNATIONAL HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56441
+#EXTINF:-1,COMEDY CENTRAL
+http://yeninesiliptv.com:8080/Muammer1/123456/56442
+#EXTINF:-1,COMEDY East
+http://yeninesiliptv.com:8080/Muammer1/123456/56443
+#EXTINF:-1,COMEDY HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56444
+#EXTINF:-1,COOKING Channel HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56445
+#EXTINF:-1,CORONA VIRUS INFO
+http://yeninesiliptv.com:8080/Muammer1/123456/56446
+#EXTINF:-1,Cottage Life FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56447
+#EXTINF:-1,CP 24 FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56448
+#EXTINF:-1,CPAC (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56449
+#EXTINF:-1,CPAC French
+http://yeninesiliptv.com:8080/Muammer1/123456/56450
+#EXTINF:-1,CRAVE 1 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56451
+#EXTINF:-1,CRAVE 2 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56452
+#EXTINF:-1,CRAVE 3 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56453
+#EXTINF:-1,CRAVE 4 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56454
+#EXTINF:-1,Crime+ Investigation HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56455
+#EXTINF:-1,CTV 2
+http://yeninesiliptv.com:8080/Muammer1/123456/56457
+#EXTINF:-1,CTV 2 VANCOUVER HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56458
+#EXTINF:-1,CTV CALGARY
+http://yeninesiliptv.com:8080/Muammer1/123456/56459
+#EXTINF:-1,CTV CENTRAL HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56460
+#EXTINF:-1,CTV Comedy East HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56461
+#EXTINF:-1,CTV COMEDY HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56462
+#EXTINF:-1,CTV DRAMA Channel
+http://yeninesiliptv.com:8080/Muammer1/123456/56463
+#EXTINF:-1,CTV EASTERN HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56464
+#EXTINF:-1,CTV HALIFAX
+http://yeninesiliptv.com:8080/Muammer1/123456/56465
+#EXTINF:-1,CTV HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56466
+#EXTINF:-1,CTV Kitchener HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56467
+#EXTINF:-1,CTV MONTREAL (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56469
+#EXTINF:-1,CTV MONTREAL HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56470
+#EXTINF:-1,CTV News Channel HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56471
+#EXTINF:-1,CTV NEWS NETWORK HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56472
+#EXTINF:-1,CTV OTTAWA
+http://yeninesiliptv.com:8080/Muammer1/123456/56473
+#EXTINF:-1,CTV sci-fi HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56474
+#EXTINF:-1,CTV SYFY
+http://yeninesiliptv.com:8080/Muammer1/123456/56475
+#EXTINF:-1,CTV TORONTO HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56476
+#EXTINF:-1,CTV Two Atlantic
+http://yeninesiliptv.com:8080/Muammer1/123456/56477
+#EXTINF:-1,CTV VANCOUVER HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56478
+#EXTINF:-1,CTV2 OTTAWA
+http://yeninesiliptv.com:8080/Muammer1/123456/56479
+#EXTINF:-1,DAYSTAR TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56480
+#EXTINF:-1,DEJAVIEW HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56481
+#EXTINF:-1,Discovery CANADA
+http://yeninesiliptv.com:8080/Muammer1/123456/56482
+#EXTINF:-1,Discovery Channel FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56484
+#EXTINF:-1,Discovery Science HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56486
+#EXTINF:-1,Discovery Velocity HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56488
+#EXTINF:-1,Disney (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56490
+#EXTINF:-1,Disney Channel HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56492
+#EXTINF:-1,Disney FRENCH
+http://yeninesiliptv.com:8080/Muammer1/123456/56494
+#EXTINF:-1,Disney JR HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56496
+#EXTINF:-1,Disney Junior (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56498
+#EXTINF:-1,Disney La Chaine (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56500
+#EXTINF:-1,Disney LA CHAÎNE
+http://yeninesiliptv.com:8080/Muammer1/123456/56502
+#EXTINF:-1,Disney XD HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56504
+#EXTINF:-1,DIY
+http://yeninesiliptv.com:8080/Muammer1/123456/56506
+#EXTINF:-1,DIY Network FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56507
+#EXTINF:-1,DOCUMENTARY Channel HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56508
+#EXTINF:-1,DTour HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56509
+#EXTINF:-1,E! FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56510
+#EXTINF:-1,EMCI TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56512
+#EXTINF:-1,EVASION
+http://yeninesiliptv.com:8080/Muammer1/123456/56513
+#EXTINF:-1,EVASION (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56514
+#EXTINF:-1,EWTN TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56515
+#EXTINF:-1,Family HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56516
+#EXTINF:-1,Family Jr HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56517
+#EXTINF:-1,FIGHT NETWORK FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56518
+#EXTINF:-1,FOOD NETWORK FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56519
+#EXTINF:-1,FOX Buffalo HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56520
+#EXTINF:-1,FOX FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56521
+#EXTINF:-1,FOX NEWS CANADA
+http://yeninesiliptv.com:8080/Muammer1/123456/56522
+#EXTINF:-1,FOX News HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56523
+#EXTINF:-1,FOX SPORTS Racing
+http://yeninesiliptv.com:8080/Muammer1/123456/56524
+#EXTINF:-1,FOXNADA
+http://yeninesiliptv.com:8080/Muammer1/123456/56525
+#EXTINF:-1,FX CANADA HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56526
+#EXTINF:-1,FX FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56527
+#EXTINF:-1,FXX HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56528
+#EXTINF:-1,FXX HD (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56529
+#EXTINF:-1,GAME HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56530
+#EXTINF:-1,Game Show HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56531
+#EXTINF:-1,GLOBAL BC
+http://yeninesiliptv.com:8080/Muammer1/123456/56532
+#EXTINF:-1,Global FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56533
 #EXTINF:-1,GLOBAL HALIFAX
-http://oqab.life:8080/live/5001/5001/2392.ts
-#EXTINF:-1,CBC WINDSOR
-http://oqab.life:8080/live/5001/5001/2393.ts
-#EXTINF:-1,CBC WINNIPEG
-http://oqab.life:8080/live/5001/5001/2394.ts
-#EXTINF:-1,CBC HALIFAX
-http://oqab.life:8080/live/5001/5001/2395.ts
-#EXTINF:-1,CBC REGINA
-http://oqab.life:8080/live/5001/5001/2396.ts
-#EXTINF:-1,CBC CHARLOTTETOWN
-http://oqab.life:8080/live/5001/5001/2397.ts
-#EXTINF:-1,DISNEY
-http://oqab.life:8080/live/5001/5001/2398.ts
-#EXTINF:-1,NICKTOONS
-http://oqab.life:8080/live/5001/5001/2399.ts
-#EXTINF:-1,TELETOON
-http://oqab.life:8080/live/5001/5001/2400.ts
-#EXTINF:-1,TREEHOUSE
-http://oqab.life:8080/live/5001/5001/2401.ts
-#EXTINF:-1,BOOMERANG
-http://oqab.life:8080/live/5001/5001/2402.ts
-#EXTINF:-1,GAME SHOW NETWORK
-http://oqab.life:8080/live/5001/5001/2403.ts
-#EXTINF:-1,THE SHOPPING CHANNEL
-http://oqab.life:8080/live/5001/5001/2404.ts
-#EXTINF:-1,E!
-http://oqab.life:8080/live/5001/5001/2405.ts
-#EXTINF:-1,BRAVO
-http://oqab.life:8080/live/5001/5001/2406.ts
-#EXTINF:-1,CPAC
-http://oqab.life:8080/live/5001/5001/2407.ts
-#EXTINF:-1,MTV
-http://oqab.life:8080/live/5001/5001/2408.ts
-#EXTINF:-1,MTV BASE HD
-http://oqab.life:8080/live/5001/5001/2409.ts
-#EXTINF:-1,CMT
-http://oqab.life:8080/live/5001/5001/2410.ts
-#EXTINF:-1,PARAMOUNT NETWORK
-http://oqab.life:8080/live/5001/5001/2411.ts
-#EXTINF:-1,SYFY
-http://oqab.life:8080/live/5001/5001/2412.ts
-#EXTINF:-1,LIFETIME
-http://oqab.life:8080/live/5001/5001/2413.ts
-#EXTINF:-1,LIFETIME MOVIE NETWORK
-http://oqab.life:8080/live/5001/5001/2414.ts
-#EXTINF:-1,CINEMAX (WEST)
-http://oqab.life:8080/live/5001/5001/2415.ts
-#EXTINF:-1,Super Ecran 1 FR
-http://oqab.life:8080/live/5001/5001/2416.ts
-#EXTINF:-1,Super Ecran 2 FR
-http://oqab.life:8080/live/5001/5001/2417.ts
-#EXTINF:-1,Super Ecran 3 FR
-http://oqab.life:8080/live/5001/5001/2418.ts
-#EXTINF:-1,Super Ecran 4 FR
-http://oqab.life:8080/live/5001/5001/2419.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://oqab.life:8080/live/5001/5001/2420.ts
-#EXTINF:-1,YTV CA
-http://oqab.life:8080/live/5001/5001/2421.ts
-#EXTINF:-1,NAT GEO
-http://oqab.life:8080/live/5001/5001/2422.ts
-#EXTINF:-1,NAT GEO WILD
-http://oqab.life:8080/live/5001/5001/2423.ts
-#EXTINF:-1,OLN
-http://oqab.life:8080/live/5001/5001/2424.ts
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://oqab.life:8080/live/5001/5001/2425.ts
-#EXTINF:-1,MTV ROCKS HD
-http://oqab.life:8080/live/5001/5001/2426.ts
-#EXTINF:-1,MTV LIVE HD
-http://oqab.life:8080/live/5001/5001/2427.ts
-#EXTINF:-1,TSN 1
-http://oqab.life:8080/live/5001/5001/2428.ts
-#EXTINF:-1,TSN 2
-http://oqab.life:8080/live/5001/5001/2429.ts
-#EXTINF:-1,TSN 3
-http://oqab.life:8080/live/5001/5001/2430.ts
-#EXTINF:-1,TSN 4
-http://oqab.life:8080/live/5001/5001/2431.ts
-#EXTINF:-1,TSN 5
-http://oqab.life:8080/live/5001/5001/2432.ts
-#EXTINF:-1,SPORTSNET ONTARIO
-http://oqab.life:8080/live/5001/5001/2433.ts
-#EXTINF:-1,MTV DANCE HD
-http://oqab.life:8080/live/5001/5001/2434.ts
-#EXTINF:-1,SPORTSNET 360
-http://oqab.life:8080/live/5001/5001/2435.ts
-#EXTINF:-1,SPORTSNET ONE
-http://oqab.life:8080/live/5001/5001/2436.ts
-#EXTINF:-1,SPORTSNET EAST
-http://oqab.life:8080/live/5001/5001/2437.ts
-#EXTINF:-1,SPORTSNET WEST
-http://oqab.life:8080/live/5001/5001/2438.ts
+http://yeninesiliptv.com:8080/Muammer1/123456/56534
+#EXTINF:-1,GLOBAL TORONTO HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56535
+#EXTINF:-1,Global Toronto HD [CIII]
+http://yeninesiliptv.com:8080/Muammer1/123456/56536
+#EXTINF:-1,GLOBAL VANCOUVER HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56537
+#EXTINF:-1,GOLF Channel HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56538
+#EXTINF:-1,Gospel Tv Canada
+http://yeninesiliptv.com:8080/Muammer1/123456/56539
+#EXTINF:-1,GSN FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56540
+#EXTINF:-1,GUSTO
+http://yeninesiliptv.com:8080/Muammer1/123456/56541
+#EXTINF:-1,H2 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56542
+#EXTINF:-1,HBO 1 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56543
+#EXTINF:-1,HBO 2 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56544
+#EXTINF:-1,HBO HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56545
+#EXTINF:-1,HG HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56546
+#EXTINF:-1,HGTV Canada
+http://yeninesiliptv.com:8080/Muammer1/123456/56547
+#EXTINF:-1,HISTORIA
+http://yeninesiliptv.com:8080/Muammer1/123456/56548
+#EXTINF:-1,HISTORIO (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56550
+#EXTINF:-1,History (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56552
+#EXTINF:-1,History 2
+http://yeninesiliptv.com:8080/Muammer1/123456/56554
+#EXTINF:-1,History Television
+http://yeninesiliptv.com:8080/Muammer1/123456/56556
+#EXTINF:-1,HLN FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56557
+#EXTINF:-1,ICE RDI
+http://yeninesiliptv.com:8080/Muammer1/123456/56558
+#EXTINF:-1,ICI MONTREAL (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56559
+#EXTINF:-1,ICI MONTREAL HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56560
+#EXTINF:-1,ICI Radio-Canada Télé
+http://yeninesiliptv.com:8080/Muammer1/123456/56561
+#EXTINF:-1,ICI RDI HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56562
+#EXTINF:-1,Ici TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56563
+#EXTINF:-1,ICI Télévision
+http://yeninesiliptv.com:8080/Muammer1/123456/56564
+#EXTINF:-1,ICI VANCOUVER (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56565
+#EXTINF:-1,IFC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56566
+#EXTINF:-1,IIPC TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56567
+#EXTINF:-1,Investigation Discovery HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56568
+#EXTINF:-1,KNOWLEDGE KIDS
+http://yeninesiliptv.com:8080/Muammer1/123456/56570
+#EXTINF:-1,LCN (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56571
+#EXTINF:-1,LCN HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56572
+#EXTINF:-1,Lifetime FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56573
+#EXTINF:-1,LIFETIME MOVIE NETWORK HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56574
+#EXTINF:-1,LOVE NATURE HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56575
+#EXTINF:-1,Makeful
+http://yeninesiliptv.com:8080/Muammer1/123456/56576
+#EXTINF:-1,MAV TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56577
+#EXTINF:-1,MAX (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56578
+#EXTINF:-1,MAX HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56579
+#EXTINF:-1,MEDIASET ITALIA
+http://yeninesiliptv.com:8080/Muammer1/123456/56580
+#EXTINF:-1,METEO (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56581
+#EXTINF:-1,Meteo Media
+http://yeninesiliptv.com:8080/Muammer1/123456/56582
+#EXTINF:-1,Meteo Media (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56583
+#EXTINF:-1,MLB Network HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56584
+#EXTINF:-1,MLB TV HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56585
+#EXTINF:-1,MOI & CIE (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56586
+#EXTINF:-1,MOVIETIME HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56587
+#EXTINF:-1,MSNBC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56588
+#EXTINF:-1,MTIME
+http://yeninesiliptv.com:8080/Muammer1/123456/56589
+#EXTINF:-1,MTV 2 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56590
+#EXTINF:-1,MTV HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56591
+#EXTINF:-1,MUCH HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56592
+#EXTINF:-1,Much Music HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56593
+#EXTINF:-1,MuchMusicHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56595
+#EXTINF:-1,MUSIQUE PLUS (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56596
+#EXTINF:-1,NAT GEO HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56597
+#EXTINF:-1,NAT GEO Wild HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56599
+#EXTINF:-1,NAT nal Savoir (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56601
+#EXTINF:-1,NBA HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56602
+#EXTINF:-1,NBC Buffalo HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56603
+#EXTINF:-1,NFL NETWORK HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56604
+#EXTINF:-1,NHL Network HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56605
+#EXTINF:-1,nickelodeon HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56606
+#EXTINF:-1,NICKTOONS HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56608
+#EXTINF:-1,NTV
+http://yeninesiliptv.com:8080/Muammer1/123456/56610
+#EXTINF:-1,OLN HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56611
+#EXTINF:-1,OMNI 1 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56612
+#EXTINF:-1,OMNI.2 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56613
+#EXTINF:-1,OWN HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56614
+#EXTINF:-1,PARAMOUNT
+http://yeninesiliptv.com:8080/Muammer1/123456/56615
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56616
+#EXTINF:-1,Pardesi TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56617
+#EXTINF:-1,PBS Buffalo HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56618
+#EXTINF:-1,PBS HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56619
+#EXTINF:-1,PEACH TREE HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56620
+#EXTINF:-1,Prime Canada TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56621
+#EXTINF:-1,PRISE
+http://yeninesiliptv.com:8080/Muammer1/123456/56622
+#EXTINF:-1,PRISE (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56623
+#EXTINF:-1,RDI
+http://yeninesiliptv.com:8080/Muammer1/123456/56624
+#EXTINF:-1,RDI (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56625
+#EXTINF:-1,RDS
+http://yeninesiliptv.com:8080/Muammer1/123456/56626
+#EXTINF:-1,RDS 2 (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56627
+#EXTINF:-1,RDS INFO
+http://yeninesiliptv.com:8080/Muammer1/123456/56628
+#EXTINF:-1,RDS INFO (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56629
+#EXTINF:-1,Salt & Light TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56630
+#EXTINF:-1,Series (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56631
+#EXTINF:-1,Series Plus
+http://yeninesiliptv.com:8080/Muammer1/123456/56632
+#EXTINF:-1,SERIS (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56633
+#EXTINF:-1,SHOPPING
+http://yeninesiliptv.com:8080/Muammer1/123456/56634
+#EXTINF:-1,Showcase HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56635
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://yeninesiliptv.com:8080/Muammer1/123456/56636
+#EXTINF:-1,Slice HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56637
+#EXTINF:-1,SMITHSONIAN Channel HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56638
+#EXTINF:-1,SNW West
+http://yeninesiliptv.com:8080/Muammer1/123456/56639
+#EXTINF:-1,SPACE
+http://yeninesiliptv.com:8080/Muammer1/123456/56640
+#EXTINF:-1,SPIKE TV / PARAMOUNT
+http://yeninesiliptv.com:8080/Muammer1/123456/56641
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://yeninesiliptv.com:8080/Muammer1/123456/56642
+#EXTINF:-1,SPIKE TV / PARAMOUNTNADA
+http://yeninesiliptv.com:8080/Muammer1/123456/56643
+#EXTINF:-1,Sportnet Ontario HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56644
+#EXTINF:-1,Sports Net 360
+http://yeninesiliptv.com:8080/Muammer1/123456/56645
+#EXTINF:-1,Sports Net One HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56646
+#EXTINF:-1,Sports Net Pacific HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56647
+#EXTINF:-1,Sports NET West HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56648
+#EXTINF:-1,SportsNet 360 FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56649
+#EXTINF:-1,SportsNet East HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56650
+#EXTINF:-1,SportsNet HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56651
+#EXTINF:-1,SportsNet New York HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56652
+#EXTINF:-1,SportsNet NY
+http://yeninesiliptv.com:8080/Muammer1/123456/56653
+#EXTINF:-1,SportsNet ONE HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56654
+#EXTINF:-1,SportsNet Ontario (Premier League)
+http://yeninesiliptv.com:8080/Muammer1/123456/56655
+#EXTINF:-1,SportsNet Ontario HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56656
+#EXTINF:-1,SportsNet Pacific FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56657
+#EXTINF:-1,SportsNet West FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56658
+#EXTINF:-1,SportsNet WORLD HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56659
+#EXTINF:-1,SSP Promotion Channel HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56660
+#EXTINF:-1,SUPER Channel 1
+http://yeninesiliptv.com:8080/Muammer1/123456/56661
+#EXTINF:-1,SUPER Channel FUSE
+http://yeninesiliptv.com:8080/Muammer1/123456/56662
+#EXTINF:-1,SUPER Channel VAULT
+http://yeninesiliptv.com:8080/Muammer1/123456/56663
+#EXTINF:-1,SUPER ECRAN 1
+http://yeninesiliptv.com:8080/Muammer1/123456/56664
+#EXTINF:-1,SUPER ECRAN 1 (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56665
+#EXTINF:-1,SUPER ECRAN 2
+http://yeninesiliptv.com:8080/Muammer1/123456/56666
+#EXTINF:-1,SUPER ECRAN 2 (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56667
+#EXTINF:-1,SUPER ECRAN 3
+http://yeninesiliptv.com:8080/Muammer1/123456/56668
+#EXTINF:-1,Super Ecran 3 (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56669
+#EXTINF:-1,SUPER ECRAN 4
+http://yeninesiliptv.com:8080/Muammer1/123456/56670
+#EXTINF:-1,Super Ecran 4 (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56671
+#EXTINF:-1,SYFY HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56672
+#EXTINF:-1,T + E
+http://yeninesiliptv.com:8080/Muammer1/123456/56673
+#EXTINF:-1,Tamil Vision
+http://yeninesiliptv.com:8080/Muammer1/123456/56674
+#EXTINF:-1,TCTV2
+http://yeninesiliptv.com:8080/Muammer1/123456/56675
+#EXTINF:-1,TELE QUEBEC (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56676
+#EXTINF:-1,TELE QUEBEC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56677
+#EXTINF:-1,TELE TOON (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56678
+#EXTINF:-1,TELE TOON FRENCH
+http://yeninesiliptv.com:8080/Muammer1/123456/56680
+#EXTINF:-1,TELETOON HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56681
+#EXTINF:-1,TFO (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56683
+#EXTINF:-1,THE SHOPPING NETWORK
+http://yeninesiliptv.com:8080/Muammer1/123456/56684
+#EXTINF:-1,THE WEATHER Channel HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56685
+#EXTINF:-1,THE WEATHER NETWORK HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56686
+#EXTINF:-1,TLC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56687
+#EXTINF:-1,TMN 1
+http://yeninesiliptv.com:8080/Muammer1/123456/56688
+#EXTINF:-1,TMN 1 (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56689
+#EXTINF:-1,TMN 2
+http://yeninesiliptv.com:8080/Muammer1/123456/56690
+#EXTINF:-1,TMN CRAVE 1 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56691
+#EXTINF:-1,Toronto 360 TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56692
+#EXTINF:-1,Travel ESCAPE
+http://yeninesiliptv.com:8080/Muammer1/123456/56693
+#EXTINF:-1,TREEHOUSE HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56695
+#EXTINF:-1,TSC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56696
+#EXTINF:-1,TSN 1 FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56697
+#EXTINF:-1,TSN 2 FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56699
+#EXTINF:-1,TSN 3 FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56701
+#EXTINF:-1,TSN 4 FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56703
+#EXTINF:-1,TSN 5 FHD
+http://yeninesiliptv.com:8080/Muammer1/123456/56705
+#EXTINF:-1,TSNET 360
+http://yeninesiliptv.com:8080/Muammer1/123456/56707
+#EXTINF:-1,TSNET Pacific HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56708
+#EXTINF:-1,Turner Classic Movies HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56709
+#EXTINF:-1,TV Francophonie
+http://yeninesiliptv.com:8080/Muammer1/123456/56710
+#EXTINF:-1,TV Ontario HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56711
+#EXTINF:-1,TV5 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56712
+#EXTINF:-1,TV5 Quebec (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56713
+#EXTINF:-1,TV5 QUEBEC HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56714
+#EXTINF:-1,TVA GATINEUA (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56715
+#EXTINF:-1,TVA MONTREAL
+http://yeninesiliptv.com:8080/Muammer1/123456/56716
+#EXTINF:-1,TVA Montreal (CFTM)
+http://yeninesiliptv.com:8080/Muammer1/123456/56717
+#EXTINF:-1,TVA SPORTS (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56718
+#EXTINF:-1,TVA SPORTS 1 HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56719
+#EXTINF:-1,TVA Sports 2
+http://yeninesiliptv.com:8080/Muammer1/123456/56720
+#EXTINF:-1,TVA SPORTS HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56721
+#EXTINF:-1,TVO HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56722
+#EXTINF:-1,Télé Culturelle médias Inc
+http://yeninesiliptv.com:8080/Muammer1/123456/56723
+#EXTINF:-1,Unis TV HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56724
+#EXTINF:-1,Uvagut TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56725
+#EXTINF:-1,VIE (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56726
+#EXTINF:-1,VISION TV HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56727
+#EXTINF:-1,W
+http://yeninesiliptv.com:8080/Muammer1/123456/56728
+#EXTINF:-1,W Network HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56729
+#EXTINF:-1,WEATHER NETWORK HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56730
+#EXTINF:-1,WFN
+http://yeninesiliptv.com:8080/Muammer1/123456/56731
+#EXTINF:-1,WGN
+http://yeninesiliptv.com:8080/Muammer1/123456/56732
+#EXTINF:-1,Wild TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56733
+#EXTINF:-1,WNLO Buffalo
+http://yeninesiliptv.com:8080/Muammer1/123456/56734
+#EXTINF:-1,WNYO Buffalo
+http://yeninesiliptv.com:8080/Muammer1/123456/56735
+#EXTINF:-1,World Fishing Network (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56736
+#EXTINF:-1,World Fishing TV
+http://yeninesiliptv.com:8080/Muammer1/123456/56737
+#EXTINF:-1,YES HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56738
+#EXTINF:-1,YES TV (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56739
+#EXTINF:-1,YES TV East
+http://yeninesiliptv.com:8080/Muammer1/123456/56740
+#EXTINF:-1,YOOPA (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56741
+#EXTINF:-1,YTV HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56742
+#EXTINF:-1,YTV HD (East)
+http://yeninesiliptv.com:8080/Muammer1/123456/56743
+#EXTINF:-1,Z TELE (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56744
+#EXTINF:-1,Z TELE HD
+http://yeninesiliptv.com:8080/Muammer1/123456/56745
+#EXTINF:-1,ZESTE (FR)
+http://yeninesiliptv.com:8080/Muammer1/123456/56746
