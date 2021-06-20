@@ -1,313 +1,135 @@
 #EXTM3U
-#EXTINF:-1,PAC12 Arizona
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106983
-#EXTINF:-1,PAC12 BayArea
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106984
-#EXTINF:-1,PAC12 LosAngeles
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106985
-#EXTINF:-1,PAC12 Mountain
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106986
-#EXTINF:-1,PAC12 Network
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106987
-#EXTINF:-1,PAC12 Oregon
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106988
-#EXTINF:-1,PAC12 Washington
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106989
-#EXTINF:-1,WWE Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106991
-#EXTINF:-1,WWE HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106992
-#EXTINF:-1,US: UFC Fight Pass
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107241
-#EXTINF:-1,Willow Cricket HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106993
-#EXTINF:-1,WGN 9 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106994
-#EXTINF:-1,VH1 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106995
-#EXTINF:-1,Velocity HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106996
-#EXTINF:-1,NFL Redzone HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106997
-#EXTINF:-1,NFL NOW HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106998
+##EXTINF:-1,TSN 1
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1042
+#EXTINF:-1,TSN 2
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1043
+#EXTINF:-1,TSN 3
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1044
+#EXTINF:-1, TSN 4
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1045
+#EXTINF:-1, TSN 5
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1046
+#EXTINF:-1,Bein Sports USA HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1066
+#EXTINF:-1,ESPN
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1053
+#EXTINF:-1,ESPN2
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1052
+#EXTINF:-1,FOX Sport 1
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1050
+#EXTINF:-1,FOX Sport 2
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1051
+#EXTINF:-1,Fox Sports Ohio HD -US
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1101
+#EXTINF:-1,FOX Soccer Plus-US HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1100
+#EXTINF:-1,NBA TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1047
+#EXTINF:-1,NBC GOLF
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1049
 #EXTINF:-1,NFL Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/106999
-#EXTINF:-1,USA Network
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107000
-#EXTINF:-1,Universal HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107001
-#EXTINF:-1,TV Land HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107002
-#EXTINF:-1,Trutv HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107003
-#EXTINF:-1,Travel Channel HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107004
-#EXTINF:-1,TNT HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107005
-#EXTINF:-1,TLC CHANNEL
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107006
-#EXTINF:-1,The Weather Channel HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107007
-#EXTINF:-1,Tennis HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107008
-#EXTINF:-1,SYFY HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107009
-#EXTINF:-1,Sundance HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107010
-#EXTINF:-1,Starz Edge HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107011
-#EXTINF:-1,Spike HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107012
-#EXTINF:-1,ShowTime East HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107013
-#EXTINF:-1,ShowTime Pacific HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107014
-#EXTINF:-1,SEC Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107015
-#EXTINF:-1,Reelz HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107016
-#EXTINF:-1,PBS HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107017
-#EXTINF:-1,Oxygen HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107018
-#EXTINF:-1,OWN HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107019
-#EXTINF:-1,Nicktoons HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107020
-#EXTINF:-1,NICKELODEON HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107021
-#EXTINF:-1,Nick JR HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107022
-#EXTINF:-1,NHL Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107023
-#EXTINF:-1,NBCSN HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107024
-#EXTINF:-1,NBC Golf HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107025
-#EXTINF:-1,NBA TV HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107026
-#EXTINF:-1,Nat Geo Wild HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107027
-#EXTINF:-1,NAT GEO HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107028
-#EXTINF:-1,MTV HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107029
-#EXTINF:-1,MSNBC HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107030
-#EXTINF:-1,More Max HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107031
-#EXTINF:-1,MLB Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107032
-#EXTINF:-1,LIFE TIME HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107033
-#EXTINF:-1,Investigation Discovery HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107034
-#EXTINF:-1,IFC HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107035
-#EXTINF:-1,History HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107036
-#EXTINF:-1,HBO Zone HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107037
-#EXTINF:-1,HBO Signature HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107038
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1054
+#EXTINF:-1,SportsNet 360
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2066
+#EXTINF:-1,SportsNet One HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2065
+#EXTINF:-1,Tennis Channel HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1105
+#EXTINF:-1,W*E Network HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1099
+#EXTINF:-1,Bloomberg
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1108
+#EXTINF:-1, HBO Family HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1058
 #EXTINF:-1,HBO HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107039
-#EXTINF:-1,HBO Comedy HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107040
-#EXTINF:-1,HALLMARK CHANNEL HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107041
-#EXTINF:-1,H2 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107042
-#EXTINF:-1,Home AND Health
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107043
-#EXTINF:-1,GSN HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107044
-#EXTINF:-1,Golf Channel HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107045
-#EXTINF:-1,FXX HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107046
-#EXTINF:-1,FX HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107047
-#EXTINF:-1,Freeform HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107048
-#EXTINF:-1,Fox News Channel HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107049
-#EXTINF:-1,FOX HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107050
-#EXTINF:-1,FOX Business Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107051
-#EXTINF:-1,Food Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107052
-#EXTINF:-1,ESPN U HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107053
-#EXTINF:-1,Espn Deportes HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107054
-#EXTINF:-1,ESPN 2 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107055
-#EXTINF:-1,ESPN HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107056
-#EXTINF:-1,E! HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107057
-#EXTINF:-1,DIY Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107058
-#EXTINF:-1,Disney Junior HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107059
-#EXTINF:-1,Disney Channel HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107060
-#EXTINF:-1,Discovery Velocity HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107061
-#EXTINF:-1,Discovery Science HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107062
-#EXTINF:-1,Discovery Family HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107063
-#EXTINF:-1,Discovery Channel HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107064
-#EXTINF:-1,Destination America HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107065
-#EXTINF:-1,CW HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107066
-#EXTINF:-1,Crime & Investigation HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107067
-#EXTINF:-1,Cooking Channel HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107068
-#EXTINF:-1,Comedy Central HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107069
-#EXTINF:-1,CNN HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107070
-#EXTINF:-1,CNBC HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107071
-#EXTINF:-1,CMT HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107072
-#EXTINF:-1,Cinemax Thriller Max HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107073
-#EXTINF:-1,Cinemax Moremax HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107074
-#EXTINF:-1,Cinemax 5
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107075
-#EXTINF:-1,CBS Sports Network
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107076
-#EXTINF:-1,CBS
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107077
-#EXTINF:-1,CBN HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107078
-#EXTINF:-1,C-SPAN 3 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107080
-#EXTINF:-1,C-SPAN 2 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107081
-#EXTINF:-1,C-SPAN 1 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107082
-#EXTINF:-1,BTN HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107083
-#EXTINF:-1,Bravo HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107084
-#EXTINF:-1,Boomerang HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107085
-#EXTINF:-1,Bloomberg HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107086
-#EXTINF:-1,Big Ten Network HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107087
-#EXTINF:-1,BET HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107088
-#EXTINF:-1,BBC America HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107089
-#EXTINF:-1,Animal Planet HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107090
-#EXTINF:-1,AFN Sports HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107091
-#EXTINF:-1,AFN Prime Pacific HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107092
-#EXTINF:-1,AFN Prime Atlantic HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107093
-#EXTINF:-1,Action Max HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107094
-#EXTINF:-1,ABC NEWS
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107095
-#EXTINF:-1,ABC HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107096
-#EXTINF:-1,A&E HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107097
-#EXTINF:-1,TBS HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107098
-#EXTINF:-1,HGTV HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107099
-#EXTINF:-1,HBO Family HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107100
-#EXTINF:-1,CNN HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107101
-#EXTINF:-1,BeIN SPORTS HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107102
-#EXTINF:-1,Bravo HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107103
-#EXTINF:-1,Discovery Channel HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107104
-#EXTINF:-1,ABC HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107105
-#EXTINF:-1,AMC HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107106
-#EXTINF:-1,Fox Sports 1 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107107
-#EXTINF:-1,Fox Sports 2 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107108
-#EXTINF:-1,NBC HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107109
-#EXTINF:-1,TSN 5 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107110
-#EXTINF:-1,TSN 4 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107111
-#EXTINF:-1,TSN 3 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107112
-#EXTINF:-1,TSN 2 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107113
-#EXTINF:-1,TSN 1 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107114
-#EXTINF:-1,Cinemax HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107115
-#EXTINF:-1,ABC 7 Sarasota FL [WWSB]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107117
-#EXTINF:-1,ABC [KGO-TV]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107130
-#EXTINF:-1,ABC [WFAA]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107131
-#EXTINF:-1,ABC [WFTV]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107132
-#EXTINF:-1,ABC [WKRN]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107133
-#EXTINF:-1,ABC [WTAE]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107134
-#EXTINF:-1,ABC [WXYZ-DETROIT]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107135
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1056
+#EXTINF:-1, HBO Zone HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1059
+#EXTINF:-1,A&E
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1083
 #EXTINF:-1,ABC
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107137
-#EXTINF:-1,NBC [WSMV]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107138
-#EXTINF:-1,NBC [WFLA]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107141
-#EXTINF:-1,NBC [WBTS]
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107143
-#EXTINF:-1,Sony
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107162
-#EXTINF:-1,Paramount Channel
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107164
-#EXTINF:-1,MTV
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107174
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1092
+#EXTINF:-1,ABC News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1091
+#EXTINF:-1,AMC
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1097
+#EXTINF:-1,Animal Planet HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1078
+#EXTINF:-1,Bravo HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1055
+#EXTINF:-1,Boomerang
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1085
+#EXTINF:-1,CBS HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1065
+#EXTINF:-1,Cinemax 5 StarMax
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1067
+#EXTINF:-1,Cinemax ActionMax East
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1069
+#EXTINF:-1,Cinemax East
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1068
+#EXTINF:-1,Cinemax Moremax
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1070
+#EXTINF:-1,CNBC
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1090
+#EXTINF:-1,CNN
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1107
+#EXTINF:-1,Comedy Central
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1094
+#EXTINF:-1,CW
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1071
+#EXTINF:-1,Discovery Channel HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1080
+#EXTINF:-1,Discovery Science HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1081
+#EXTINF:-1,DIY Network
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1079
+#EXTINF:-1,Food Network HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1084
+#EXTINF:-1,Fox HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1093
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1041
+#EXTINF:-1,FX
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1061
+#EXTINF:-1,FXX
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1086
+#EXTINF:-1,Hallmark Channel HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1088
+#EXTINF:-1,HBO Signature HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1057
+#EXTINF:-1,HISTORY
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1077
 #EXTINF:-1,Investigation Discovery
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107177
-#EXTINF:-1,History Channel
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107181
-#EXTINF:-1,HBO Family
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107185
-#EXTINF:-1,HBO 2
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107186
-#EXTINF:-1,HBO
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107187
-#EXTINF:-1,Disney XD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107217
-#EXTINF:-1,Discovery Turbo
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107220
-#EXTINF:-1,Discovery Science
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107222
-#EXTINF:-1,Discovery Channel
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107225
-#EXTINF:-1,BBC World News
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107236
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1082
+#EXTINF:-1,KTLA /CW
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1089
+#EXTINF:-1,National Geographic
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1076
+#EXTINF:-1,NHL Network
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1106
+#EXTINF:-1,Nickelodeon
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1064
+#EXTINF:-1,ShowTime 2 HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1060
+#EXTINF:-1,Showtime HD East
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1074
+#EXTINF:-1,Showtime Showcase
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1087
+#EXTINF:-1,Showtime West HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1063
+#EXTINF:-1,Spike
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1062
+#EXTINF:-1,STARZ CINEMA HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1075
+#EXTINF:-1,Starz Comedy
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1072
+#EXTINF:-1,STARZ EDGE HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1073
+#EXTINF:-1,TBS HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1098
+#EXTINF:-1,TNT
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1096
+#EXTINF:-1,TRU TV HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1104
+#EXTINF:-1,Subrang
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2867
