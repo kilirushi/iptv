@@ -5,6 +5,10 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UbUZw9E.png" group-title="Sports",ACC Network (720p)
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCDN.us" tvg-name="ACCDN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="Sports",ACCDN
+https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCDN.us" tvg-name="ACCDN" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Sports",ACCDN
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="Sports",Adventure Sports Network (XUMO)
@@ -59,8 +63,6 @@ http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 #EXTINF:-1 tvg-id="ChoppertownSTIRR.us" tvg-name="Choppertown (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Sports",Choppertown (STIRR) (720p)
 https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sports",Claro Sports (1080p)
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 tvg-id="CombatGo.us" tvg-name="Combat Go" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Sports",Combat Go (1080p)
 https://stream-us-east-1.getpublica.com/cl/59f740a5-3c7b-47bf-a845-27df203f8b2e/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-id="CycleWorld.us" tvg-name="Cycle World" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RZE3Pwf.png" group-title="Sports",Cycle World
@@ -84,13 +86,11 @@ https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
 #EXTINF:-1 tvg-id="ElevenSports.uk" tvg-name="Eleven Sports" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sports",Eleven Sports (720p)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN (720p)
-https://gma2.blab.email/fs2.m3u8
+http://164.68.124.111/fs2.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2 (720p)
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN News (720p)
-https://gma2.blab.email/espnews.m3u8
+http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN U (720p)
-https://gma2.blab.email/espnu.m3u8
+http://164.68.124.111/espnu.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Sports",Esport3 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="Sports",Esport3 (1080p)
@@ -193,7 +193,7 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
 #EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sports",Oman Sport (1080p)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport + (540p)
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport+ (540p) [Geo-blocked]
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" tvg-country="US" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c1efa49020443150ee563" group-title="Sports",Outside TV
 https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
