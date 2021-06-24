@@ -1,251 +1,629 @@
 #EXTM3U
-#EXTINF:-1,13 Ulica
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58764
+#EXTINF:-1, Comedy Central Extra HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11096
+#EXTINF:-1,13 Ulica FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10903
+#EXTINF:-1,13 Ulica HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10904
 #EXTINF:-1,4Fun Dance
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58765
-#EXTINF:-1,4Fun Gold
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58766
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10905
+#EXTINF:-1,4Fun Gold Hits
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10906
+#EXTINF:-1,4Fun Hits
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17790
+#EXTINF:-1,4Fun Kids
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10907
 #EXTINF:-1,4Fun TV
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58767
-#EXTINF:-1,ALE Kino
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58730
-#EXTINF:-1,AMC
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58768
-#EXTINF:-1,Animal Planet
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58769
-#EXTINF:-1,AXN
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58731
-#EXTINF:-1,AXN Spin
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58770
-#EXTINF:-1,BBC First
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58732
-#EXTINF:-1,Boomerang
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58771
-#EXTINF:-1,Canal
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58733
-#EXTINF:-1,CANAL   DISCOVERY
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58736
-#EXTINF:-1,Canal   Seriale
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58739
-#EXTINF:-1,Canal   Sport 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58735
-#EXTINF:-1,Canal  Family
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58737
-#EXTINF:-1,Canal  Sport
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58734
-#EXTINF:-1,Canal Now
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58772
-#EXTINF:-1,Canal Premium
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58773
-#EXTINF:-1,CBS  Reality
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58774
-#EXTINF:-1,Cinemax 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58776
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10908
+#EXTINF:-1,Active Family
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10909
+#EXTINF:-1,Adventure FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10910
+#EXTINF:-1,Adventure HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10911
+#EXTINF:-1,Ale Kino+ FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10913
+#EXTINF:-1,Ale Kino+ HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10912
+#EXTINF:-1,AMC FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10914
+#EXTINF:-1,AMC HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10915
+#EXTINF:-1,Animal Planet FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10917
+#EXTINF:-1,Animal Planet HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10916
+#EXTINF:-1,ATM Rozrywka
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10918
+#EXTINF:-1,AXN Black
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10920
+#EXTINF:-1,AXN FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10921
+#EXTINF:-1,AXN HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10919
+#EXTINF:-1,AXN Spin FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10922
+#EXTINF:-1,AXN Spin HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10923
+#EXTINF:-1,AXN White
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10924
+#EXTINF:-1,Baby TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10925
+#EXTINF:-1,BBC Brit FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10926
+#EXTINF:-1,BBC Brit HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10927
+#EXTINF:-1,BBC CBeebies
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10928
+#EXTINF:-1,BBC Earth HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10929
+#EXTINF:-1,BBC First FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10930
+#EXTINF:-1,BBC First HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10931
+#EXTINF:-1,BBC Lifestyle FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10933
+#EXTINF:-1,BBC Lifestyle HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10934
+#EXTINF:-1,Boomerang HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10936
+#EXTINF:-1,Cartoon Network FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10960
+#EXTINF:-1,Cartoon Network HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10961
+#EXTINF:-1,CBS Action
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17792
+#EXTINF:-1,CBS Reality fhd
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17849
+#EXTINF:-1,CBS Reality HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10964
+#EXTINF:-1,CI Polsat HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10965
+#EXTINF:-1,Cinemax 2 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10968
+#EXTINF:-1,Cinemax 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10967
+#EXTINF:-1,Cinemax FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10969
+#EXTINF:-1,Cinemax HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10966
 #EXTINF:-1,Comedy Central
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58741
-#EXTINF:-1,Crime Investigation
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58777
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10970
+#EXTINF:-1,Comedy Central Family
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10971
+#EXTINF:-1,Comedy Central HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10972
+#EXTINF:-1,Crime+ Investigation HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17794
 #EXTINF:-1,Da Vinci Learning
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58722
-#EXTINF:-1,Discovery Channel
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58778
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10973
+#EXTINF:-1,Disco Polo Music
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10974
+#EXTINF:-1,Discovery FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10976
+#EXTINF:-1,Discovery HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10975
 #EXTINF:-1,Discovery Historia
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58779
-#EXTINF:-1,Disney Channel
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58723
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10977
+#EXTINF:-1,Discovery Life HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10978
+#EXTINF:-1,Discovery Science FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10980
+#EXTINF:-1,Discovery Science HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10979
+#EXTINF:-1,Discovery Turbo Xtra HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10981
+#EXTINF:-1,DISNEY
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17786
+#EXTINF:-1,Disney Channel FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10982
+#EXTINF:-1,Disney Channel HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10983
 #EXTINF:-1,Disney Junior
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58780
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10984
 #EXTINF:-1,Disney XD
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58724
-#EXTINF:-1,Domo
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58781
-#EXTINF:-1,DTX
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58782
-#EXTINF:-1,Eleven Extra
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58742
-#EXTINF:-1,Eleven Sports 1
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58743
-#EXTINF:-1,Eleven Sports 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58783
-#EXTINF:-1,Eleven Sports 3
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58784
-#EXTINF:-1,Eleven Sports 4
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58785
-#EXTINF:-1,Epic Drama
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58786
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10985
+#EXTINF:-1,DOMO+ HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10986
+#EXTINF:-1,DTX FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10987
+#EXTINF:-1,DTX HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10988
+#EXTINF:-1,E! Entertainment FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10989
+#EXTINF:-1,E! Entertainment HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10990
+#EXTINF:-1,Eleven Extra HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17787
+#EXTINF:-1,Eleven Sport 1
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10991
+#EXTINF:-1,Eleven Sport 1 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10992
+#EXTINF:-1,Eleven Sport 2
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10993
+#EXTINF:-1,Eleven Sport 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10994
+#EXTINF:-1,Eleven Sport 3
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10995
+#EXTINF:-1,Eleven Sport 3 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10996
+#EXTINF:-1,Eleven Sport 4
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10997
+#EXTINF:-1,Eleven Sport 4 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10998
+#EXTINF:-1,Epic Drama FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10999
+#EXTINF:-1,Epic Drama HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11000
+#EXTINF:-1,Eska Rock TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11001
 #EXTINF:-1,Eska TV
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58718
-#EXTINF:-1,Eska Tv Extra
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58787
-#EXTINF:-1,Extreme Sports
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58788
-#EXTINF:-1,Fightbox
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58789
-#EXTINF:-1,FightKlub
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58790
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11002
+#EXTINF:-1,Eska TV Extra
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11003
+#EXTINF:-1,Extreme Sports FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11009
+#EXTINF:-1,Extreme Sports HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11010
+#EXTINF:-1,Fightbox FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11011
+#EXTINF:-1,Fightbox HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11012
+#EXTINF:-1,FightClub HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11013
+#EXTINF:-1,Filmbox Action
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11014
+#EXTINF:-1,Filmbox Action HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11015
 #EXTINF:-1,Filmbox Arthouse
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58791
-#EXTINF:-1,Filmbox Extra
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58792
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11016
+#EXTINF:-1,Filmbox Extra FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11017
+#EXTINF:-1,Filmbox Extra HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11018
 #EXTINF:-1,Filmbox Family
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58746
-#EXTINF:-1,Filmbox Premium
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58747
-#EXTINF:-1,Fokus TV
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58793
-#EXTINF:-1,Food Network
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58794
-#EXTINF:-1,Fox
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58795
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11019
+#EXTINF:-1,FilmBox Premium FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11020
+#EXTINF:-1,Filmbox Premium HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11021
+#EXTINF:-1,Fokus TV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11022
+#EXTINF:-1,Food Network FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11023
+#EXTINF:-1,Food Network HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11024
 #EXTINF:-1,Fox Comedy
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58796
-#EXTINF:-1,HBO
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58729
-#EXTINF:-1,HBO 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58749
-#EXTINF:-1,HBO 3
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58748
-#EXTINF:-1,History
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58797
-#EXTINF:-1,History 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58798
-#EXTINF:-1,ID
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58799
-#EXTINF:-1,JimJam
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58725
-#EXTINF:-1,Kino Polska
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58800
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11026
+#EXTINF:-1,Fox Comedy HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11027
+#EXTINF:-1,Fox FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11028
+#EXTINF:-1,FOX HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11029
+#EXTINF:-1,Gold TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11030
+#EXTINF:-1,Golf Channel FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11031
+#EXTINF:-1,Golf Channel HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11032
+#EXTINF:-1,H2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17781
+#EXTINF:-1,HBO 2 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11035
+#EXTINF:-1,HBO 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11034
+#EXTINF:-1,HBO 3 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11037
+#EXTINF:-1,HBO 3 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11036
+#EXTINF:-1,HBO FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11038
+#EXTINF:-1,HBO HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11039
+#EXTINF:-1,HGTV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11040
+#EXTINF:-1,History 2 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11042
+#EXTINF:-1,History 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11043
+#EXTINF:-1,History FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11044
+#EXTINF:-1,History HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11041
+#EXTINF:-1,ID HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11046
+#EXTINF:-1,Investigation Discovery FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11047
+#EXTINF:-1,Kino Polska FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11049
+#EXTINF:-1,Kino Polska HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11048
 #EXTINF:-1,Kino Polska Muzyka
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58801
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11050
 #EXTINF:-1,Kino TV
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58802
-#EXTINF:-1,Kuchnia
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58803
-#EXTINF:-1,Lifetime
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58804
-#EXTINF:-1,Mini Mini
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58726
-#EXTINF:-1,Motowizja
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58805
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11051
+#EXTINF:-1,Kino TV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11052
+#EXTINF:-1,KSW PPV FHD [Live During Events Only]
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17767
+#EXTINF:-1,Kuchnia+ FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11054
+#EXTINF:-1,Kuchnia+ HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11053
+#EXTINF:-1,Lifetime FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11055
+#EXTINF:-1,Lifetime HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11056
+#EXTINF:-1,Metro
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11057
+#EXTINF:-1,MiniMini+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11058
+#EXTINF:-1,MiniMini+ HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11059
+#EXTINF:-1,Motorwizja
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17808
+#EXTINF:-1,Motowizja FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11060
+#EXTINF:-1,Motowizja HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11061
+#EXTINF:-1,MTV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17812
+#EXTINF:-1,MTV Live HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11062
+#EXTINF:-1,MTV Music
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11063
+#EXTINF:-1,MTV Polska HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11064
 #EXTINF:-1,MTV Rocks
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58806
-#EXTINF:-1,Nat Geo People
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58807
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11065
+#EXTINF:-1,Music VOX TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11066
+#EXTINF:-1,Nat Geo
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11067
+#EXTINF:-1,Nat Geo HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11068
+#EXTINF:-1,Nat Geo People FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11070
+#EXTINF:-1,Nat Geo People HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11069
 #EXTINF:-1,Nat Geo Wild
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58751
-#EXTINF:-1,Nat Geographic
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58750
-#EXTINF:-1,Nsport
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58808
-#EXTINF:-1,Planet
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58809
-#EXTINF:-1,Polo TV
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58810
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11071
+#EXTINF:-1,Nat Geo Wild HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11072
+#EXTINF:-1,Nick Jr
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11073
+#EXTINF:-1,Nickelodeon
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11074
+#EXTINF:-1,NickToons HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11075
+#EXTINF:-1,Novela TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11076
+#EXTINF:-1,Novelas+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11077
+#EXTINF:-1,Nowa TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11078
+#EXTINF:-1,Nowa TV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11079
+#EXTINF:-1,nSport+ FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11081
+#EXTINF:-1,nSport+ HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11080
+#EXTINF:-1,Nuta TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11083
+#EXTINF:-1,Paramount Channel FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11084
+#EXTINF:-1,Paramount Channel HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11085
+#EXTINF:-1,Planete+ FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11087
+#EXTINF:-1,Planete+ HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11086
+#EXTINF:-1,PLAY HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17788
+#EXTINF:-1,Polo TV FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11088
+#EXTINF:-1,Polo TV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11089
+#EXTINF:-1,Polonia 1
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11090
 #EXTINF:-1,Polsat
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58710
-#EXTINF:-1,Polsat 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58756
-#EXTINF:-1,Polsat Cafe
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58708
-#EXTINF:-1,Polsat Doku
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58811
-#EXTINF:-1,Polsat News
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58752
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11091
+#EXTINF:-1,Polsat 2 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11093
+#EXTINF:-1,Polsat 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11092
+#EXTINF:-1,Polsat Cafe FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11095
+#EXTINF:-1,Polsat Cafe HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11094
+#EXTINF:-1,Polsat Doku FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11098
+#EXTINF:-1,Polsat Doku HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11097
+#EXTINF:-1,Polsat FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11099
+#EXTINF:-1,Polsat Film HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11101
+#EXTINF:-1,Polsat Games FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11102
+#EXTINF:-1,Polsat Games HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11103
+#EXTINF:-1,Polsat HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11104
+#EXTINF:-1,Polsat Jim Jam
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11105
+#EXTINF:-1,Polsat Music FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11106
+#EXTINF:-1,Polsat Music HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11107
 #EXTINF:-1,Polsat News 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58813
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11109
+#EXTINF:-1,Polsat News FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11110
+#EXTINF:-1,Polsat News HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11108
 #EXTINF:-1,Polsat Play
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58711
-#EXTINF:-1,Polsat Rodzina
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58814
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11111
+#EXTINF:-1,Polsat Play HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11112
+#EXTINF:-1,Polsat Rodzina FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11113
+#EXTINF:-1,Polsat Rodzina HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11114
 #EXTINF:-1,Polsat Romans
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58753
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11115
 #EXTINF:-1,Polsat Seriale
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58815
-#EXTINF:-1,Polsat Sport
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58712
-#EXTINF:-1,Polsat Sport Extra
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58754
-#EXTINF:-1,Polsat Sport Fight
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58816
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11116
+#EXTINF:-1,Polsat Sport Extra FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11118
+#EXTINF:-1,Polsat Sport Extra HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11117
+#EXTINF:-1,Polsat Sport FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11119
+#EXTINF:-1,Polsat Sport Fight FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11121
+#EXTINF:-1,Polsat Sport Fight HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11120
+#EXTINF:-1,Polsat Sport HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11122
 #EXTINF:-1,Polsat Sport News
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58755
-#EXTINF:-1,Polsat Sport Premium 1
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58817
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11123
+#EXTINF:-1,Polsat Sport News HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11124
+#EXTINF:-1,Polsat Sport Premium 1 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11126
+#EXTINF:-1,Polsat Sport Premium 1 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11125
 #EXTINF:-1,Polsat Sport Premium 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58818
-#EXTINF:-1,Polsat Super
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58819
-#EXTINF:-1,Polsat Viasat Explore
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58820
-#EXTINF:-1,Polsat Viasat History
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58821
-#EXTINF:-1,polsat Viasat Nature
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58822
-#EXTINF:-1,Puls
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58823
-#EXTINF:-1,Puls2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58824
-#EXTINF:-1,Romance TV
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58825
-#EXTINF:-1,Sci-FI
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58826
-#EXTINF:-1,Stars
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58827
-#EXTINF:-1,Sundance
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58828
-#EXTINF:-1,Superstacja
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58829
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11127
+#EXTINF:-1,Polsat Sport Premium 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11128
+#EXTINF:-1,Polsat Sport Premium 3 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11129
+#EXTINF:-1,Polsat Sport Premium 4 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11130
+#EXTINF:-1,Polsat Sport Premium 5 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11131
+#EXTINF:-1,Polsat Sport Premium 6 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11132
+#EXTINF:-1,Polsat Viasat Explore FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11134
+#EXTINF:-1,Polsat Viasat Explore HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11133
+#EXTINF:-1,Polsat Viasat History HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11135
+#EXTINF:-1,Polsat Viasat Nature FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11137
+#EXTINF:-1,Polsat Viasat Nature HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11136
+#EXTINF:-1,Power TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11138
+#EXTINF:-1,Red Carpet TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11141
+#EXTINF:-1,Romance TV FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11142
+#EXTINF:-1,Romance TV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11143
+#EXTINF:-1,SciFi FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11145
+#EXTINF:-1,SciFi HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11144
+#EXTINF:-1,SciFi Universal
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17791
+#EXTINF:-1,Sport Klub FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11146
+#EXTINF:-1,Sport klub HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11147
+#EXTINF:-1,STARS TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11148
+#EXTINF:-1,Stopklatka TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11149
+#EXTINF:-1,StudioMed TV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11150
+#EXTINF:-1,Sundance  TV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11151
+#EXTINF:-1,Sundance TV FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11152
+#EXTINF:-1,Super Polsat FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11154
+#EXTINF:-1,Super Polsat HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11153
+#EXTINF:-1,Superstacja HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11155
+#EXTINF:-1,TELE 5 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11157
 #EXTINF:-1,TeleToon
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58727
-#EXTINF:-1,TNT
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58830
-#EXTINF:-1,Travel Channel
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58831
-#EXTINF:-1,TTV
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58832
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11158
+#EXTINF:-1,TeleTOON+ HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11159
+#EXTINF:-1,TLC FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11161
+#EXTINF:-1,TLC HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11160
+#EXTINF:-1,TNT FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11162
+#EXTINF:-1,TNT HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11163
+#EXTINF:-1,TO! TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17776
+#EXTINF:-1,TOP Kids
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11165
+#EXTINF:-1,Trace TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11166
+#EXTINF:-1,Travel Channel FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11167
+#EXTINF:-1,Travel Channel HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11168
+#EXTINF:-1,TTV FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11170
+#EXTINF:-1,TTV HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11169
+#EXTINF:-1,TV Kujawy
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17813
 #EXTINF:-1,TV Okazje
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58833
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11171
+#EXTINF:-1,TV Puls 2
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11173
+#EXTINF:-1,TV Puls 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11140
+#EXTINF:-1,TV Puls FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11174
+#EXTINF:-1,TV Puls HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11172
+#EXTINF:-1,TV Puls KIDS 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17833
 #EXTINF:-1,TV Republika
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58834
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11175
+#EXTINF:-1,TV Torun
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17814
+#EXTINF:-1,TV Trwam
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11176
 #EXTINF:-1,TV4
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58717
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11177
+#EXTINF:-1,TV4 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11178
+#EXTINF:-1,TV4 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11179
 #EXTINF:-1,TV6
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58835
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11180
+#EXTINF:-1,TV6 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11181
+#EXTINF:-1,TV6 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11182
 #EXTINF:-1,TVN
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58757
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11183
 #EXTINF:-1,TVN 24
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58719
-#EXTINF:-1,TVN 7
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58720
-#EXTINF:-1,TVN Fabula
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58836
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11184
+#EXTINF:-1,TVN 24 Bis
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11185
+#EXTINF:-1,TVN 24 BiS HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11186
+#EXTINF:-1,TVN 24 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11187
+#EXTINF:-1,TVN 24 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11188
+#EXTINF:-1,TVN 7 FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11190
+#EXTINF:-1,TVN 7 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11189
+#EXTINF:-1,TVN Fabula FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11192
+#EXTINF:-1,TVN Fabula HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11191
+#EXTINF:-1,TVN FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11193
+#EXTINF:-1,TVN HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11194
 #EXTINF:-1,TVN Style
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58758
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11195
+#EXTINF:-1,TVN Style HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11196
 #EXTINF:-1,TVN Turbo
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58713
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11197
+#EXTINF:-1,TVN Turbo FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11198
+#EXTINF:-1,TVN Turbo HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11199
 #EXTINF:-1,TVP
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58728
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11200
 #EXTINF:-1,TVP 1
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58714
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11201
+#EXTINF:-1,TVP 1 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11202
 #EXTINF:-1,TVP 2
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58715
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11203
+#EXTINF:-1,TVP 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11204
 #EXTINF:-1,TVP 3
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58716
-#EXTINF:-1,TVP abc
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58837
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11205
+#EXTINF:-1,TVP 3 Katowice
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11210
+#EXTINF:-1,TVP 3 Kielce
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11211
+#EXTINF:-1,TVP 3 Krakow
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11212
+#EXTINF:-1,TVP 3 Olsztyn
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11215
+#EXTINF:-1,TVP 3 Rzeszow
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11218
+#EXTINF:-1,TVP 3 Warszawa
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11220
+#EXTINF:-1,TVP ABC
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11222
+#EXTINF:-1,TVP Dokument HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11223
+#EXTINF:-1,TVP FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11224
+#EXTINF:-1,TVP HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11225
 #EXTINF:-1,TVP Historia
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58759
-#EXTINF:-1,TVP Info
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58762
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11226
+#EXTINF:-1,TVP INFO
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11227
+#EXTINF:-1,TVP Info FHD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11228
+#EXTINF:-1,TVP INFO HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11229
 #EXTINF:-1,TVP Kultura
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58760
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11230
+#EXTINF:-1,TVP Polonia
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11231
+#EXTINF:-1,TVP Polonia HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11232
 #EXTINF:-1,TVP Rozrywka
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58838
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11233
 #EXTINF:-1,TVP Seriale
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58763
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11234
 #EXTINF:-1,TVP Sport
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58761
-#EXTINF:-1,WPolsce PL
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58839
-#EXTINF:-1,Zoom
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/58840
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11235
+#EXTINF:-1,TVP Sport HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11236
+#EXTINF:-1,TVS
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11237
+#EXTINF:-1,TVT
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11238
+#EXTINF:-1,UNIVERSAL HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17817
+#EXTINF:-1,VH1
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11239
+#EXTINF:-1,VIVA POLSKA
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/17789
+#EXTINF:-1,VOD 205
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11240
+#EXTINF:-1,VOD 206
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11241
+#EXTINF:-1,VOD 207
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11242
+#EXTINF:-1,VOD 208
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11243
+#EXTINF:-1,Vox Music TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11244
+#EXTINF:-1,Water Planet
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11245
+#EXTINF:-1,WP
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11246
+#EXTINF:-1,wPolsce.pl
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11247
+#EXTINF:-1,Zoom TV
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11248
