@@ -1,595 +1,1945 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://dragoniptv.iptf.me:8080/123/123/35965
+#EXTINF:-1,A&E FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4100
+#EXTINF:-1,A&E FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63877
 #EXTINF:-1,A&E HD
-http://dragoniptv.iptf.me:8080/123/123/35964
-#EXTINF:-1,AMC
-http://dragoniptv.iptf.me:8080/123/123/35967
+http://dnsl.me:80/Kleber2021/2021kleber/4102
+#EXTINF:-1,A&E HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63977
+#EXTINF:-1,A&E SD
+http://dnsl.me:80/Kleber2021/2021kleber/4103
+#EXTINF:-1,All KPOP FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48604
+#EXTINF:-1,All Sports HD
+http://dnsl.me:80/Kleber2021/2021kleber/48606
+#EXTINF:-1,AllTV HD
+http://dnsl.me:80/Kleber2021/2021kleber/48605
+#EXTINF:-1,AllTV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64001
+#EXTINF:-1,AMC FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3704
+#EXTINF:-1,AMC FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63878
 #EXTINF:-1,AMC HD
-http://dragoniptv.iptf.me:8080/123/123/35966
-#EXTINF:-1,Animal Planet
-http://dragoniptv.iptf.me:8080/123/123/35969
+http://dnsl.me:80/Kleber2021/2021kleber/3705
+#EXTINF:-1,AMC HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64023
+#EXTINF:-1,AMC SD
+http://dnsl.me:80/Kleber2021/2021kleber/4364
+#EXTINF:-1,Animal Planet 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49536
+#EXTINF:-1,Animal Planet FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3600
+#EXTINF:-1,Animal Planet FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63879
 #EXTINF:-1,Animal Planet HD
-http://dragoniptv.iptf.me:8080/123/123/35968
-#EXTINF:-1,Arte 1
-http://dragoniptv.iptf.me:8080/123/123/35971
-#EXTINF:-1,ARTE 1 HD
-http://dragoniptv.iptf.me:8080/123/123/35970
-#EXTINF:-1,AXN
-http://dragoniptv.iptf.me:8080/123/123/35973
+http://dnsl.me:80/Kleber2021/2021kleber/3601
+#EXTINF:-1,Animal Planet HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64007
+#EXTINF:-1,Animal Planet SD
+http://dnsl.me:80/Kleber2021/2021kleber/4451
+#EXTINF:-1,Arte 1 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49270
+#EXTINF:-1,Arte 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/4453
+#EXTINF:-1,Arte 1 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64010
+#EXTINF:-1,Arte 1 SD
+http://dnsl.me:80/Kleber2021/2021kleber/49271
+#EXTINF:-1,AXN FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3706
+#EXTINF:-1,AXN FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63880
 #EXTINF:-1,AXN HD
-http://dragoniptv.iptf.me:8080/123/123/35972
-#EXTINF:-1,Baby TV
-http://dragoniptv.iptf.me:8080/123/123/35975
-#EXTINF:-1,Baby TV HD
-http://dragoniptv.iptf.me:8080/123/123/35974
-#EXTINF:-1,Band
-http://dragoniptv.iptf.me:8080/123/123/35980
-#EXTINF:-1,Band Campinas
-http://dragoniptv.iptf.me:8080/123/123/35977
-#EXTINF:-1,BAND HD
-http://dragoniptv.iptf.me:8080/123/123/35976
-#EXTINF:-1,Band News
-http://dragoniptv.iptf.me:8080/123/123/35979
-#EXTINF:-1,Band News HD
-http://dragoniptv.iptf.me:8080/123/123/35978
-#EXTINF:-1,Band Sport HD
-http://dragoniptv.iptf.me:8080/123/123/35981
-#EXTINF:-1,Band Sports
-http://dragoniptv.iptf.me:8080/123/123/35983
-#EXTINF:-1,BAND SPORTS HD
-http://dragoniptv.iptf.me:8080/123/123/35982
-#EXTINF:-1,BIS
-http://dragoniptv.iptf.me:8080/123/123/35986
+http://dnsl.me:80/Kleber2021/2021kleber/3707
+#EXTINF:-1,AXN HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64024
+#EXTINF:-1,AXN SD
+http://dnsl.me:80/Kleber2021/2021kleber/4362
+#EXTINF:-1,BabyTV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/25369
+#EXTINF:-1,BabyTV HD
+http://dnsl.me:80/Kleber2021/2021kleber/3866
+#EXTINF:-1,BabyTV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64085
+#EXTINF:-1,BabyTV SD
+http://dnsl.me:80/Kleber2021/2021kleber/25370
+#EXTINF:-1,Band Bahia HD
+http://dnsl.me:80/Kleber2021/2021kleber/48948
+#EXTINF:-1,Band BSB HD
+http://dnsl.me:80/Kleber2021/2021kleber/48940
+#EXTINF:-1,Band Campinas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49594
+#EXTINF:-1,Band Campinas HD
+http://dnsl.me:80/Kleber2021/2021kleber/48941
+#EXTINF:-1,Band Curitiba HD
+http://dnsl.me:80/Kleber2021/2021kleber/49590
+#EXTINF:-1,Band RJ FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48939
+#EXTINF:-1,Band RJ HD
+http://dnsl.me:80/Kleber2021/2021kleber/48942
+#EXTINF:-1,Band RS HD
+http://dnsl.me:80/Kleber2021/2021kleber/48943
+#EXTINF:-1,Band Sergipe HD
+http://dnsl.me:80/Kleber2021/2021kleber/48946
+#EXTINF:-1,Band SP FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62827
+#EXTINF:-1,Band SP HD
+http://dnsl.me:80/Kleber2021/2021kleber/48945
+#EXTINF:-1,Band Tv Goiânia FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63970
+#EXTINF:-1,Band TV Goiânia HD
+http://dnsl.me:80/Kleber2021/2021kleber/48938
+#EXTINF:-1,Band TV Taroba HD
+http://dnsl.me:80/Kleber2021/2021kleber/48947
+#EXTINF:-1,BandNews FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3558
+#EXTINF:-1,BandNews HD
+http://dnsl.me:80/Kleber2021/2021kleber/3559
+#EXTINF:-1,BandNews SD
+http://dnsl.me:80/Kleber2021/2021kleber/4563
+#EXTINF:-1,BandSports FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4030
+#EXTINF:-1,BandSports FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63881
+#EXTINF:-1,BandSports HD
+http://dnsl.me:80/Kleber2021/2021kleber/3572
+#EXTINF:-1,BandSports HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64068
+#EXTINF:-1,BandSports SD
+http://dnsl.me:80/Kleber2021/2021kleber/4504
+#EXTINF:-1,BIS FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4104
+#EXTINF:-1,BIS FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63882
 #EXTINF:-1,BIS HD
-http://dragoniptv.iptf.me:8080/123/123/35985
-#EXTINF:-1,Boomerang
-http://dragoniptv.iptf.me:8080/123/123/35988
+http://dnsl.me:80/Kleber2021/2021kleber/4106
+#EXTINF:-1,BIS HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63978
+#EXTINF:-1,BIS SD
+http://dnsl.me:80/Kleber2021/2021kleber/4107
+#EXTINF:-1,Boa Vontade FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48618
+#EXTINF:-1,Boas Novas HD
+http://dnsl.me:80/Kleber2021/2021kleber/48619
+#EXTINF:-1,Boomerang FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3862
+#EXTINF:-1,Boomerang FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63883
 #EXTINF:-1,Boomerang HD
-http://dragoniptv.iptf.me:8080/123/123/35987
-#EXTINF:-1,CAMPEONATO CATARINENSE JOGO 1
-http://dragoniptv.iptf.me:8080/123/123/35989
-#EXTINF:-1,Canal Brasil
-http://dragoniptv.iptf.me:8080/123/123/35992
+http://dnsl.me:80/Kleber2021/2021kleber/3863
+#EXTINF:-1,Boomerang HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64084
+#EXTINF:-1,Boomerang SD
+http://dnsl.me:80/Kleber2021/2021kleber/4534
+#EXTINF:-1,Campeonato Carioca 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49366
+#EXTINF:-1,Campeonato Carioca 1 SD
+http://dnsl.me:80/Kleber2021/2021kleber/49518
+#EXTINF:-1,Campeonato Carioca 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49367
+#EXTINF:-1,Campeonato Carioca 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/49517
+#EXTINF:-1,Campeonato Catarinense 1
+http://dnsl.me:80/Kleber2021/2021kleber/4031
+#EXTINF:-1,Campeonato Catarinense 2
+http://dnsl.me:80/Kleber2021/2021kleber/4032
+#EXTINF:-1,Campeonato Catarinense 3
+http://dnsl.me:80/Kleber2021/2021kleber/4033
+#EXTINF:-1,Campeonato Catarinense 4
+http://dnsl.me:80/Kleber2021/2021kleber/28862
+#EXTINF:-1,Campeonato Sergipano 1
+http://dnsl.me:80/Kleber2021/2021kleber/49535
+#EXTINF:-1,Campeonato Sergipano 2
+http://dnsl.me:80/Kleber2021/2021kleber/49534
+#EXTINF:-1,Canal Brasil FHD
+http://dnsl.me:80/Kleber2021/2021kleber/13215
+#EXTINF:-1,Canal Brasil FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63884
 #EXTINF:-1,Canal Brasil HD
-http://dragoniptv.iptf.me:8080/123/123/35991
-#EXTINF:-1,CANALASIL HD
-http://dragoniptv.iptf.me:8080/123/123/35990
+http://dnsl.me:80/Kleber2021/2021kleber/5977
+#EXTINF:-1,Canal Brasil HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64039
+#EXTINF:-1,Canal Brasil SD
+http://dnsl.me:80/Kleber2021/2021kleber/13214
+#EXTINF:-1,Canal do Boi SD
+http://dnsl.me:80/Kleber2021/2021kleber/48961
+#EXTINF:-1,Canal Rural FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49272
+#EXTINF:-1,Canal Sony FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3726
+#EXTINF:-1,Canal Sony FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63885
+#EXTINF:-1,Canal Sony HD
+http://dnsl.me:80/Kleber2021/2021kleber/3727
+#EXTINF:-1,Canal Sony HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64032
+#EXTINF:-1,Canal Sony SD
+http://dnsl.me:80/Kleber2021/2021kleber/4346
+#EXTINF:-1,Canção Nova FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48620
+#EXTINF:-1,Canção Nova HD
+http://dnsl.me:80/Kleber2021/2021kleber/48621
+#EXTINF:-1,Canção Nova SD
+http://dnsl.me:80/Kleber2021/2021kleber/49586
+#EXTINF:-1,Cartoon Network FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3860
+#EXTINF:-1,Cartoon Network FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63886
 #EXTINF:-1,Cartoon Network HD
-http://dragoniptv.iptf.me:8080/123/123/35993
-#EXTINF:-1,CHEF TV HD
-http://dragoniptv.iptf.me:8080/123/123/35995
-#EXTINF:-1,CINEMAX HD
-http://dragoniptv.iptf.me:8080/123/123/35996
-#EXTINF:-1,CNN Brasil
-http://dragoniptv.iptf.me:8080/123/123/35999
-#EXTINF:-1,CNN HD
-http://dragoniptv.iptf.me:8080/123/123/35998
-#EXTINF:-1,Combate
-http://dragoniptv.iptf.me:8080/123/123/36001
-#EXTINF:-1,COMBATE HD
-http://dragoniptv.iptf.me:8080/123/123/36000
-#EXTINF:-1,Comedy Central
-http://dragoniptv.iptf.me:8080/123/123/36003
-#EXTINF:-1,COMEDY CENTRAL HD
-http://dragoniptv.iptf.me:8080/123/123/36002
-#EXTINF:-1,CONMEBOL TV 1 HD
-http://dragoniptv.iptf.me:8080/123/123/36004
-#EXTINF:-1,CONMEBOL TV 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36005
-#EXTINF:-1,CONMEBOL TV 3 HD
-http://dragoniptv.iptf.me:8080/123/123/36006
-#EXTINF:-1,CONMEBOL TV 4 HD
-http://dragoniptv.iptf.me:8080/123/123/36007
-#EXTINF:-1,COPA DO NORDESTE
-http://dragoniptv.iptf.me:8080/123/123/36008
-#EXTINF:-1,COPA DO NORDESTE 2
-http://dragoniptv.iptf.me:8080/123/123/36009
-#EXTINF:-1,COPA DO NORDESTE 3
-http://dragoniptv.iptf.me:8080/123/123/36010
-#EXTINF:-1,Cultura
-http://dragoniptv.iptf.me:8080/123/123/36011
-#EXTINF:-1,CURTA!
-http://dragoniptv.iptf.me:8080/123/123/36013
-#EXTINF:-1,CURTA! HD
-http://dragoniptv.iptf.me:8080/123/123/36012
-#EXTINF:-1,Discovery Channel
-http://dragoniptv.iptf.me:8080/123/123/36015
+http://dnsl.me:80/Kleber2021/2021kleber/3861
+#EXTINF:-1,Cartoon Network HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64083
+#EXTINF:-1,Cartoon Network SD
+http://dnsl.me:80/Kleber2021/2021kleber/4536
+#EXTINF:-1,CATVE HD
+http://dnsl.me:80/Kleber2021/2021kleber/49273
+#EXTINF:-1,Central / Top TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/49274
+#EXTINF:-1,Chef TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/25372
+#EXTINF:-1,Chef TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/11677
+#EXTINF:-1,Chef TV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64000
+#EXTINF:-1,Chef TV SD
+http://dnsl.me:80/Kleber2021/2021kleber/49275
+#EXTINF:-1,Cine Comédia 01
+http://dnsl.me:80/Kleber2021/2021kleber/64173
+#EXTINF:-1,Cine Comédia 02
+http://dnsl.me:80/Kleber2021/2021kleber/64174
+#EXTINF:-1,Cine Comédia 03
+http://dnsl.me:80/Kleber2021/2021kleber/64175
+#EXTINF:-1,Cine Comédia 04
+http://dnsl.me:80/Kleber2021/2021kleber/64176
+#EXTINF:-1,Cine Comédia 05
+http://dnsl.me:80/Kleber2021/2021kleber/64177
+#EXTINF:-1,Cine Comédia 06
+http://dnsl.me:80/Kleber2021/2021kleber/64178
+#EXTINF:-1,Cine Pipoca 01
+http://dnsl.me:80/Kleber2021/2021kleber/64163
+#EXTINF:-1,Cine Pipoca 02
+http://dnsl.me:80/Kleber2021/2021kleber/64165
+#EXTINF:-1,Cine Pipoca 03
+http://dnsl.me:80/Kleber2021/2021kleber/64166
+#EXTINF:-1,Cine Pipoca 04
+http://dnsl.me:80/Kleber2021/2021kleber/64167
+#EXTINF:-1,Cine Pipoca 05
+http://dnsl.me:80/Kleber2021/2021kleber/64171
+#EXTINF:-1,Cine Pipoca 06
+http://dnsl.me:80/Kleber2021/2021kleber/64168
+#EXTINF:-1,Cine Pipoca 07
+http://dnsl.me:80/Kleber2021/2021kleber/64164
+#EXTINF:-1,Cine Pipoca 08
+http://dnsl.me:80/Kleber2021/2021kleber/64169
+#EXTINF:-1,Cine Pipoca 09
+http://dnsl.me:80/Kleber2021/2021kleber/64170
+#EXTINF:-1,Cine Pipoca 10
+http://dnsl.me:80/Kleber2021/2021kleber/64172
+#EXTINF:-1,Cine SKY 01
+http://dnsl.me:80/Kleber2021/2021kleber/64179
+#EXTINF:-1,Cine SKY 02
+http://dnsl.me:80/Kleber2021/2021kleber/64180
+#EXTINF:-1,Cine SKY 03
+http://dnsl.me:80/Kleber2021/2021kleber/64181
+#EXTINF:-1,Cine SKY 04
+http://dnsl.me:80/Kleber2021/2021kleber/64182
+#EXTINF:-1,Cine SKY 05
+http://dnsl.me:80/Kleber2021/2021kleber/64183
+#EXTINF:-1,Cine SKY 06
+http://dnsl.me:80/Kleber2021/2021kleber/64184
+#EXTINF:-1,Cine SKY 07
+http://dnsl.me:80/Kleber2021/2021kleber/64185
+#EXTINF:-1,Cine SKY 08
+http://dnsl.me:80/Kleber2021/2021kleber/64186
+#EXTINF:-1,Cine SKY 09
+http://dnsl.me:80/Kleber2021/2021kleber/64187
+#EXTINF:-1,Cine SKY 10
+http://dnsl.me:80/Kleber2021/2021kleber/64188
+#EXTINF:-1,Cinemax FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3708
+#EXTINF:-1,Cinemax FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63887
+#EXTINF:-1,Cinemax HD
+http://dnsl.me:80/Kleber2021/2021kleber/3709
+#EXTINF:-1,Cinemax HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64025
+#EXTINF:-1,Cinemax SD
+http://dnsl.me:80/Kleber2021/2021kleber/4360
+#EXTINF:-1,CNN Brasil FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3868
+#EXTINF:-1,CNN Brasil FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63966
+#EXTINF:-1,CNN Brasil HD
+http://dnsl.me:80/Kleber2021/2021kleber/8060
+#EXTINF:-1,CNN Brasil SD
+http://dnsl.me:80/Kleber2021/2021kleber/28864
+#EXTINF:-1,CNT ES FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49583
+#EXTINF:-1,CNT ES HD
+http://dnsl.me:80/Kleber2021/2021kleber/49584
+#EXTINF:-1,CNT ES SD
+http://dnsl.me:80/Kleber2021/2021kleber/49585
+#EXTINF:-1,COM Brasil TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48967
+#EXTINF:-1,COM Brasil TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/48968
+#EXTINF:-1,Combate 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49537
+#EXTINF:-1,Combate FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3669
+#EXTINF:-1,Combate FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63888
+#EXTINF:-1,Combate HD
+http://dnsl.me:80/Kleber2021/2021kleber/3670
+#EXTINF:-1,Combate HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64069
+#EXTINF:-1,Combate SD
+http://dnsl.me:80/Kleber2021/2021kleber/4506
+#EXTINF:-1,Comedy Central FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4110
+#EXTINF:-1,Comedy Central FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63889
+#EXTINF:-1,Comedy Central HD
+http://dnsl.me:80/Kleber2021/2021kleber/4112
+#EXTINF:-1,Comedy Central HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63979
+#EXTINF:-1,Comedy Central SD
+http://dnsl.me:80/Kleber2021/2021kleber/4113
+#EXTINF:-1,Conmebol TV 1 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/38561
+#EXTINF:-1,Conmebol TV 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/38498
+#EXTINF:-1,Conmebol TV 1 SD
+http://dnsl.me:80/Kleber2021/2021kleber/40644
+#EXTINF:-1,Conmebol TV 2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/38563
+#EXTINF:-1,Conmebol TV 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/38503
+#EXTINF:-1,Conmebol TV 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/40645
+#EXTINF:-1,Conmebol TV 3 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/38568
+#EXTINF:-1,Conmebol TV 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/38555
+#EXTINF:-1,Conmebol TV 3 SD
+http://dnsl.me:80/Kleber2021/2021kleber/40646
+#EXTINF:-1,Conmebol TV 4 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/38567
+#EXTINF:-1,Conmebol TV 4 HD
+http://dnsl.me:80/Kleber2021/2021kleber/38556
+#EXTINF:-1,Conmebol TV 4 SD
+http://dnsl.me:80/Kleber2021/2021kleber/40647
+#EXTINF:-1,Copa do Nordeste 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/25371
+#EXTINF:-1,Copa do Nordeste 1 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62609
+#EXTINF:-1,Copa do Nordeste 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/25387
+#EXTINF:-1,Copa do Nordeste 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62610
+#EXTINF:-1,Copa do Nordeste 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/25388
+#EXTINF:-1,Copa do Nordeste 3 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62611
+#EXTINF:-1,Copa do Nordeste 4 HD
+http://dnsl.me:80/Kleber2021/2021kleber/28861
+#EXTINF:-1,Copa do Nordeste 4 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62612
+#EXTINF:-1,Copa do Nordeste 5 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49530
+#EXTINF:-1,Copa do Nordeste 5 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62613
+#EXTINF:-1,Copa do Nordeste 6 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49531
+#EXTINF:-1,Copa do Nordeste 6 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62614
+#EXTINF:-1,Curta! FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4455
+#EXTINF:-1,Curta! HD
+http://dnsl.me:80/Kleber2021/2021kleber/4457
+#EXTINF:-1,Curta! HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63998
+#EXTINF:-1,Curta! SD
+http://dnsl.me:80/Kleber2021/2021kleber/4458
+#EXTINF:-1,DAZN 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/13946
+#EXTINF:-1,DAZN 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/48617
+#EXTINF:-1,DAZN 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/28877
+#EXTINF:-1,DAZN 4 HD
+http://dnsl.me:80/Kleber2021/2021kleber/8072
+#EXTINF:-1,Discovery Channel 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49538
+#EXTINF:-1,Discovery Channel FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4459
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63890
 #EXTINF:-1,Discovery Channel HD
-http://dragoniptv.iptf.me:8080/123/123/36014
-#EXTINF:-1,Discovery H&H
-http://dragoniptv.iptf.me:8080/123/123/36017
+http://dnsl.me:80/Kleber2021/2021kleber/4461
+#EXTINF:-1,Discovery Channel HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64011
+#EXTINF:-1,Discovery Channel SD
+http://dnsl.me:80/Kleber2021/2021kleber/4462
+#EXTINF:-1,Discovery H&H FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4463
+#EXTINF:-1,Discovery H&H FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63892
 #EXTINF:-1,Discovery H&H HD
-http://dragoniptv.iptf.me:8080/123/123/36016
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://dragoniptv.iptf.me:8080/123/123/36018
-#EXTINF:-1,DISCOVERY ID HD
-http://dragoniptv.iptf.me:8080/123/123/36019
-#EXTINF:-1,Discovery Kids
-http://dragoniptv.iptf.me:8080/123/123/36021
+http://dnsl.me:80/Kleber2021/2021kleber/4465
+#EXTINF:-1,Discovery H&H HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64012
+#EXTINF:-1,Discovery H&H SD
+http://dnsl.me:80/Kleber2021/2021kleber/4466
+#EXTINF:-1,Discovery Kids FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3852
+#EXTINF:-1,Discovery Kids FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63893
 #EXTINF:-1,Discovery Kids HD
-http://dragoniptv.iptf.me:8080/123/123/36020
-#EXTINF:-1,Discovery Science
-http://dragoniptv.iptf.me:8080/123/123/36023
+http://dnsl.me:80/Kleber2021/2021kleber/3853
+#EXTINF:-1,Discovery Kids HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64079
+#EXTINF:-1,Discovery Kids SD
+http://dnsl.me:80/Kleber2021/2021kleber/4538
+#EXTINF:-1,Discovery Science FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4467
+#EXTINF:-1,Discovery Science FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63894
 #EXTINF:-1,Discovery Science HD
-http://dragoniptv.iptf.me:8080/123/123/36022
-#EXTINF:-1,Discovery Theater
-http://dragoniptv.iptf.me:8080/123/123/36025
-#EXTINF:-1,DISCOVERY THEATER HD
-http://dragoniptv.iptf.me:8080/123/123/36024
-#EXTINF:-1,Discovery Turbo
-http://dragoniptv.iptf.me:8080/123/123/36027
+http://dnsl.me:80/Kleber2021/2021kleber/4469
+#EXTINF:-1,Discovery Science HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64013
+#EXTINF:-1,Discovery Science SD
+http://dnsl.me:80/Kleber2021/2021kleber/4470
+#EXTINF:-1,Discovery Theater FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4471
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63895
+#EXTINF:-1,Discovery Theater HD
+http://dnsl.me:80/Kleber2021/2021kleber/4473
+#EXTINF:-1,Discovery Theater HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64014
+#EXTINF:-1,Discovery Theater SD
+http://dnsl.me:80/Kleber2021/2021kleber/4474
+#EXTINF:-1,Discovery TLC FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4182
+#EXTINF:-1,Discovery TLC FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63959
+#EXTINF:-1,Discovery TLC HD
+http://dnsl.me:80/Kleber2021/2021kleber/4184
+#EXTINF:-1,Discovery TLC HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64009
+#EXTINF:-1,Discovery TLC SD
+http://dnsl.me:80/Kleber2021/2021kleber/25439
+#EXTINF:-1,Discovery Turbo FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4118
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63896
 #EXTINF:-1,Discovery Turbo HD
-http://dragoniptv.iptf.me:8080/123/123/36026
-#EXTINF:-1,Discovery World
-http://dragoniptv.iptf.me:8080/123/123/36029
+http://dnsl.me:80/Kleber2021/2021kleber/4120
+#EXTINF:-1,Discovery Turbo HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63980
+#EXTINF:-1,Discovery Turbo SD
+http://dnsl.me:80/Kleber2021/2021kleber/4121
+#EXTINF:-1,Discovery World FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4475
+#EXTINF:-1,Discovery World FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63897
 #EXTINF:-1,Discovery World HD
-http://dragoniptv.iptf.me:8080/123/123/36028
-#EXTINF:-1,Disney Channel
-http://dragoniptv.iptf.me:8080/123/123/36031
+http://dnsl.me:80/Kleber2021/2021kleber/4477
+#EXTINF:-1,Discovery World HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64015
+#EXTINF:-1,Discovery World SD
+http://dnsl.me:80/Kleber2021/2021kleber/4478
+#EXTINF:-1,Disney Channel FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3854
+#EXTINF:-1,Disney Channel FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63898
 #EXTINF:-1,Disney Channel HD
-http://dragoniptv.iptf.me:8080/123/123/36030
-#EXTINF:-1,DISNEY JR
-http://dragoniptv.iptf.me:8080/123/123/36033
-#EXTINF:-1,Disney Jr HD
-http://dragoniptv.iptf.me:8080/123/123/36032
-#EXTINF:-1,Disney XD
-http://dragoniptv.iptf.me:8080/123/123/36035
+http://dnsl.me:80/Kleber2021/2021kleber/3855
+#EXTINF:-1,Disney Channel HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64080
+#EXTINF:-1,Disney Channel SD
+http://dnsl.me:80/Kleber2021/2021kleber/4540
+#EXTINF:-1,Disney Junior FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3857
+#EXTINF:-1,Disney Junior FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63899
+#EXTINF:-1,Disney Junior HD
+http://dnsl.me:80/Kleber2021/2021kleber/3856
+#EXTINF:-1,Disney Junior HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64081
+#EXTINF:-1,Disney Junior SD
+http://dnsl.me:80/Kleber2021/2021kleber/4542
+#EXTINF:-1,Disney XD FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3858
 #EXTINF:-1,Disney XD HD
-http://dragoniptv.iptf.me:8080/123/123/36034
-#EXTINF:-1,DOG TV HD
-http://dragoniptv.iptf.me:8080/123/123/36036
-#EXTINF:-1,E!
-http://dragoniptv.iptf.me:8080/123/123/36038
+http://dnsl.me:80/Kleber2021/2021kleber/3859
+#EXTINF:-1,Disney XD HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64082
+#EXTINF:-1,Disney XD SD
+http://dnsl.me:80/Kleber2021/2021kleber/4544
+#EXTINF:-1,DogTV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4123
+#EXTINF:-1,DogTV HD
+http://dnsl.me:80/Kleber2021/2021kleber/4122
+#EXTINF:-1,E! FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4124
+#EXTINF:-1,E! FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63900
 #EXTINF:-1,E! HD
-http://dragoniptv.iptf.me:8080/123/123/36037
-#EXTINF:-1,ESPN 2
-http://dragoniptv.iptf.me:8080/123/123/36040
+http://dnsl.me:80/Kleber2021/2021kleber/4126
+#EXTINF:-1,E! HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63982
+#EXTINF:-1,E! SD
+http://dnsl.me:80/Kleber2021/2021kleber/4127
+#EXTINF:-1,Eleven Sports 1 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48592
+#EXTINF:-1,Eleven Sports 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/48593
+#EXTINF:-1,Eleven Sports 2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48594
+#EXTINF:-1,Eleven Sports 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/48595
+#EXTINF:-1,Eleven Sports 3 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48596
+#EXTINF:-1,Eleven Sports 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/48597
+#EXTINF:-1,Eleven Sports 4 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48598
+#EXTINF:-1,Eleven Sports 4 HD
+http://dnsl.me:80/Kleber2021/2021kleber/48599
+#EXTINF:-1,Eleven Sports 5 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48600
+#EXTINF:-1,Eleven Sports 5 HD
+http://dnsl.me:80/Kleber2021/2021kleber/48601
+#EXTINF:-1,Eleven Sports 6 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48602
+#EXTINF:-1,Eleven Sports 6 HD
+http://dnsl.me:80/Kleber2021/2021kleber/48603
+#EXTINF:-1,ESPN 2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3683
+#EXTINF:-1,ESPN 2 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63901
 #EXTINF:-1,ESPN 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36039
-#EXTINF:-1,ESPN BRASIL HD
-http://dragoniptv.iptf.me:8080/123/123/36042
-#EXTINF:-1,ESPN Brazil
-http://dragoniptv.iptf.me:8080/123/123/36043
-#EXTINF:-1,ESPN Extra
-http://dragoniptv.iptf.me:8080/123/123/36045
+http://dnsl.me:80/Kleber2021/2021kleber/3682
+#EXTINF:-1,ESPN 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4526
+#EXTINF:-1,ESPN Brasil FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3686
+#EXTINF:-1,ESPN Brasil FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/64136
+#EXTINF:-1,ESPN Brasil HD
+http://dnsl.me:80/Kleber2021/2021kleber/3687
+#EXTINF:-1,ESPN Brasil SD
+http://dnsl.me:80/Kleber2021/2021kleber/4528
+#EXTINF:-1,ESPN Extra FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4054
+#EXTINF:-1,ESPN Extra FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63903
 #EXTINF:-1,ESPN Extra HD
-http://dragoniptv.iptf.me:8080/123/123/36044
+http://dnsl.me:80/Kleber2021/2021kleber/28850
+#EXTINF:-1,ESPN Extra SD
+http://dnsl.me:80/Kleber2021/2021kleber/28851
+#EXTINF:-1,ESPN FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3678
+#EXTINF:-1,ESPN FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63904
 #EXTINF:-1,ESPN HD
-http://dragoniptv.iptf.me:8080/123/123/36041
-#EXTINF:-1,Fish TV
-http://dragoniptv.iptf.me:8080/123/123/36047
-#EXTINF:-1,FISH TV HD
-http://dragoniptv.iptf.me:8080/123/123/36046
-#EXTINF:-1,Food Network
-http://dragoniptv.iptf.me:8080/123/123/36049
-#EXTINF:-1,FOOD NETWORK HD
-http://dragoniptv.iptf.me:8080/123/123/36048
-#EXTINF:-1,FOX HD
-http://dragoniptv.iptf.me:8080/123/123/36050
-#EXTINF:-1,FOX LIFE HD
-http://dragoniptv.iptf.me:8080/123/123/36051
-#EXTINF:-1,FOX News
-http://dragoniptv.iptf.me:8080/123/123/36053
-#EXTINF:-1,FOX News HD
-http://dragoniptv.iptf.me:8080/123/123/36052
-#EXTINF:-1,FOX PREMIUM  2 HD
-http://dragoniptv.iptf.me:8080/123/123/36054
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://dragoniptv.iptf.me:8080/123/123/36055
-#EXTINF:-1,FOX Sports
-http://dragoniptv.iptf.me:8080/123/123/36060
-#EXTINF:-1,FOX SPORTS 1 HD
-http://dragoniptv.iptf.me:8080/123/123/36056
-#EXTINF:-1,FOX Sports 2
-http://dragoniptv.iptf.me:8080/123/123/36058
-#EXTINF:-1,FOX SPORTS 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36057
-#EXTINF:-1,FOX Sports HD
-http://dragoniptv.iptf.me:8080/123/123/36059
-#EXTINF:-1,Fx
-http://dragoniptv.iptf.me:8080/123/123/36062
+http://dnsl.me:80/Kleber2021/2021kleber/4053
+#EXTINF:-1,ESPN SD
+http://dnsl.me:80/Kleber2021/2021kleber/4532
+#EXTINF:-1,Estádio TNT Sports 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49370
+#EXTINF:-1,Estádio TNT Sports 1 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62615
+#EXTINF:-1,Estádio TNT Sports 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49371
+#EXTINF:-1,Estádio TNT Sports 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62616
+#EXTINF:-1,Estádio TNT Sports 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49372
+#EXTINF:-1,Estádio TNT Sports 3 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62617
+#EXTINF:-1,Estádio TNT Sports 4 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49373
+#EXTINF:-1,Estádio TNT Sports 4 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62618
+#EXTINF:-1,Estádio TNT Sports 5 HD
+http://dnsl.me:80/Kleber2021/2021kleber/49374
+#EXTINF:-1,Estádio TNT Sports 5 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62619
+#EXTINF:-1,Estádio TNT Sports 6 HD
+http://dnsl.me:80/Kleber2021/2021kleber/62620
+#EXTINF:-1,Estádio TNT Sports 6 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62621
+#EXTINF:-1,Estádio TNT Sports 7 HD
+http://dnsl.me:80/Kleber2021/2021kleber/62622
+#EXTINF:-1,Estádio TNT Sports 7 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62623
+#EXTINF:-1,Estádio TNT Sports 8 HD
+http://dnsl.me:80/Kleber2021/2021kleber/62624
+#EXTINF:-1,Estádio TNT Sports 8 SD
+http://dnsl.me:80/Kleber2021/2021kleber/62625
+#EXTINF:-1,Facebook Watch
+http://dnsl.me:80/Kleber2021/2021kleber/41465
+#EXTINF:-1,Facebook Watch²
+http://dnsl.me:80/Kleber2021/2021kleber/41466
+#EXTINF:-1,FashionTV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4128
+#EXTINF:-1,FashionTV HD
+http://dnsl.me:80/Kleber2021/2021kleber/49532
+#EXTINF:-1,FashionTV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64006
+#EXTINF:-1,Film & Arts FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62829
+#EXTINF:-1,Film & Arts HD
+http://dnsl.me:80/Kleber2021/2021kleber/62830
+#EXTINF:-1,Film & Arts HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64044
+#EXTINF:-1,Film & Arts SD
+http://dnsl.me:80/Kleber2021/2021kleber/62831
+#EXTINF:-1,Fish TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4129
+#EXTINF:-1,Fish TV FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63905
+#EXTINF:-1,Fish TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/4131
+#EXTINF:-1,Fish TV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63983
+#EXTINF:-1,Fish TV SD
+http://dnsl.me:80/Kleber2021/2021kleber/4132
+#EXTINF:-1,FlaTV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/10342
+#EXTINF:-1,FlaTV HD
+http://dnsl.me:80/Kleber2021/2021kleber/49516
+#EXTINF:-1,Food Network FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4133
+#EXTINF:-1,Food Network FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63906
+#EXTINF:-1,Food Network HD
+http://dnsl.me:80/Kleber2021/2021kleber/4135
+#EXTINF:-1,Food Network HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63984
+#EXTINF:-1,Food Network SD
+http://dnsl.me:80/Kleber2021/2021kleber/4136
+#EXTINF:-1,Formula 1 TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/56783
+#EXTINF:-1,Fox Sports 2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3692
+#EXTINF:-1,Fox Sports 2 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63910
+#EXTINF:-1,Fox Sports 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3693
+#EXTINF:-1,Fox Sports 2 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64070
+#EXTINF:-1,Fox Sports 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4508
+#EXTINF:-1,Fox Sports 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49539
+#EXTINF:-1,Fox Sports FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3694
+#EXTINF:-1,Fox Sports FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63911
+#EXTINF:-1,Fox Sports HD
+http://dnsl.me:80/Kleber2021/2021kleber/3695
+#EXTINF:-1,Fox Sports HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64071
+#EXTINF:-1,Fox Sports SD
+http://dnsl.me:80/Kleber2021/2021kleber/4510
+#EXTINF:-1,Futura FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49277
+#EXTINF:-1,Futura HD
+http://dnsl.me:80/Kleber2021/2021kleber/49278
+#EXTINF:-1,Futura SD
+http://dnsl.me:80/Kleber2021/2021kleber/49598
+#EXTINF:-1,FX FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3719
+#EXTINF:-1,FX FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63912
 #EXTINF:-1,FX HD
-http://dragoniptv.iptf.me:8080/123/123/36061
-#EXTINF:-1,GLOBO AMAZONICA MANAUS
-http://dragoniptv.iptf.me:8080/123/123/36063
-#EXTINF:-1,GLOBO BAHIA
-http://dragoniptv.iptf.me:8080/123/123/36064
-#EXTINF:-1,GLOBO BELEM HD
-http://dragoniptv.iptf.me:8080/123/123/36065
-#EXTINF:-1,GLOBO BRASILIA
-http://dragoniptv.iptf.me:8080/123/123/36066
-#EXTINF:-1,GLOBO BRASILIA HD
-http://dragoniptv.iptf.me:8080/123/123/36067
-#EXTINF:-1,GLOBO CAMPINAS HD
-http://dragoniptv.iptf.me:8080/123/123/36068
-#EXTINF:-1,GLOBO CENTRO AMERICA
-http://dragoniptv.iptf.me:8080/123/123/36069
-#EXTINF:-1,GLOBO CUIABA
-http://dragoniptv.iptf.me:8080/123/123/36070
-#EXTINF:-1,GLOBO CURITIBA HD
-http://dragoniptv.iptf.me:8080/123/123/36071
-#EXTINF:-1,GLOBO EPTV CAMPINAS
-http://dragoniptv.iptf.me:8080/123/123/36072
-#EXTINF:-1,GLOBO EPTV SAO CARLOS
-http://dragoniptv.iptf.me:8080/123/123/36074
-#EXTINF:-1,GLOBO FLORIANOPOLIS HD
-http://dragoniptv.iptf.me:8080/123/123/36076
-#EXTINF:-1,Globo HD
-http://dragoniptv.iptf.me:8080/123/123/36075
-#EXTINF:-1,GLOBO INTER TV Cabugi HD
-http://dragoniptv.iptf.me:8080/123/123/36077
-#EXTINF:-1,GLOBO MARANHأO HD
-http://dragoniptv.iptf.me:8080/123/123/36078
-#EXTINF:-1,GLOBO MATO GROSSO HD
-http://dragoniptv.iptf.me:8080/123/123/36079
-#EXTINF:-1,Globo MINAS
-http://dragoniptv.iptf.me:8080/123/123/36080
-#EXTINF:-1,GLOBO MINAS HD
-http://dragoniptv.iptf.me:8080/123/123/36081
-#EXTINF:-1,Globo News
-http://dragoniptv.iptf.me:8080/123/123/36083
+http://dnsl.me:80/Kleber2021/2021kleber/3720
+#EXTINF:-1,FX HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64029
+#EXTINF:-1,FX SD
+http://dnsl.me:80/Kleber2021/2021kleber/4352
+#EXTINF:-1,Globo 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49540
+#EXTINF:-1,Globo Amazônica - Manaus HD 
+http://dnsl.me:80/Kleber2021/2021kleber/48478
+#EXTINF:-1,Globo Amazônica - Manaus SD
+http://dnsl.me:80/Kleber2021/2021kleber/49600
+#EXTINF:-1,Globo Amazônica FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48520
+#EXTINF:-1,Globo Amazônica HD 
+http://dnsl.me:80/Kleber2021/2021kleber/48479
+#EXTINF:-1,Globo Anhanguera Goiânia HD
+http://dnsl.me:80/Kleber2021/2021kleber/40650
+#EXTINF:-1,Globo Anhanguera Goiânia SD
+http://dnsl.me:80/Kleber2021/2021kleber/25870
+#EXTINF:-1,Globo Bahia FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49588
+#EXTINF:-1,Globo Bahia HD
+http://dnsl.me:80/Kleber2021/2021kleber/49589
+#EXTINF:-1,Globo Centro America FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48480
+#EXTINF:-1,Globo Centro America HD
+http://dnsl.me:80/Kleber2021/2021kleber/48481
+#EXTINF:-1,Globo Centro America SD
+http://dnsl.me:80/Kleber2021/2021kleber/48482
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/16666
+#EXTINF:-1,Globo EPTV Campinas HD
+http://dnsl.me:80/Kleber2021/2021kleber/48484
+#EXTINF:-1,Globo EPTV Campinas SD
+http://dnsl.me:80/Kleber2021/2021kleber/48485
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48487
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://dnsl.me:80/Kleber2021/2021kleber/48488
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+http://dnsl.me:80/Kleber2021/2021kleber/48489
+#EXTINF:-1,Globo EPTV São Carlos HD
+http://dnsl.me:80/Kleber2021/2021kleber/48490
+#EXTINF:-1,Globo EPTV São Carlos SD
+http://dnsl.me:80/Kleber2021/2021kleber/34232
+#EXTINF:-1,Globo Goiânia SD
+http://dnsl.me:80/Kleber2021/2021kleber/25887
+#EXTINF:-1,Globo Integração MG FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62810
+#EXTINF:-1,Globo Integração MG HD
+http://dnsl.me:80/Kleber2021/2021kleber/62809
+#EXTINF:-1,Globo Inter do Vale FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62811
+#EXTINF:-1,Globo Inter do Vale HD
+http://dnsl.me:80/Kleber2021/2021kleber/62812
+#EXTINF:-1,Globo Inter PT FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48492
+#EXTINF:-1,Globo Inter PT HD
+http://dnsl.me:80/Kleber2021/2021kleber/48493
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48494
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48496
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://dnsl.me:80/Kleber2021/2021kleber/48497
+#EXTINF:-1,Globo Internacional HD
+http://dnsl.me:80/Kleber2021/2021kleber/16674
+#EXTINF:-1,Globo InterTV Cabugi FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48495
+#EXTINF:-1,Globo InterTV Cabugi HD
+http://dnsl.me:80/Kleber2021/2021kleber/48491
+#EXTINF:-1,Globo InterTV Cabugi SD
+http://dnsl.me:80/Kleber2021/2021kleber/25881
+#EXTINF:-1,Globo Manaus HD
+http://dnsl.me:80/Kleber2021/2021kleber/28894
+#EXTINF:-1,Globo Minas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48498
+#EXTINF:-1,Globo Minas FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63975
+#EXTINF:-1,Globo Minas HD
+http://dnsl.me:80/Kleber2021/2021kleber/48499
+#EXTINF:-1,Globo Minas SD
+http://dnsl.me:80/Kleber2021/2021kleber/48500
+#EXTINF:-1,Globo News FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3778
+#EXTINF:-1,Globo News FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63913
 #EXTINF:-1,Globo News HD
-http://dragoniptv.iptf.me:8080/123/123/36082
-#EXTINF:-1,Globo Nordeste
-http://dragoniptv.iptf.me:8080/123/123/36084
-#EXTINF:-1,GLOBO NORDESTE HD
-http://dragoniptv.iptf.me:8080/123/123/36085
-#EXTINF:-1,GLOBO NSC Florianopolis
-http://dragoniptv.iptf.me:8080/123/123/36086
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE
-http://dragoniptv.iptf.me:8080/123/123/36087
-#EXTINF:-1,GLOBO RBS TV POA HD
-http://dragoniptv.iptf.me:8080/123/123/36088
-#EXTINF:-1,Globo RJ
-http://dragoniptv.iptf.me:8080/123/123/36090
-#EXTINF:-1,GLOBO RJ HD
-http://dragoniptv.iptf.me:8080/123/123/36089
-#EXTINF:-1,GLOBO RPC CURITIBA
-http://dragoniptv.iptf.me:8080/123/123/36091
-#EXTINF:-1,Globo RPC Paranaense
-http://dragoniptv.iptf.me:8080/123/123/36092
-#EXTINF:-1,GLOBO RPC TV
-http://dragoniptv.iptf.me:8080/123/123/36093
-#EXTINF:-1,GLOBO SERGIPE
-http://dragoniptv.iptf.me:8080/123/123/36094
-#EXTINF:-1,Globo SP
-http://dragoniptv.iptf.me:8080/123/123/36096
-#EXTINF:-1,GLOBO SP HD
-http://dragoniptv.iptf.me:8080/123/123/36095
-#EXTINF:-1,GLOBO TV ANHANGUERA
-http://dragoniptv.iptf.me:8080/123/123/36098
-#EXTINF:-1,GLOBO TV Anhanguera Goiania
-http://dragoniptv.iptf.me:8080/123/123/36097
-#EXTINF:-1,GLOBO TV BAHIA HD
-http://dragoniptv.iptf.me:8080/123/123/36099
-#EXTINF:-1,GLOBO TV BELEM
-http://dragoniptv.iptf.me:8080/123/123/36100
-#EXTINF:-1,GLOBO TV FORTALEZA HD
-http://dragoniptv.iptf.me:8080/123/123/36101
-#EXTINF:-1,GLOBO TV MIRANTE
-http://dragoniptv.iptf.me:8080/123/123/36102
-#EXTINF:-1,GLOBO TV MORENA HD
-http://dragoniptv.iptf.me:8080/123/123/36103
-#EXTINF:-1,GLOBO TV TEM BAURU
-http://dragoniptv.iptf.me:8080/123/123/36104
+http://dnsl.me:80/Kleber2021/2021kleber/3779
+#EXTINF:-1,Globo News SD
+http://dnsl.me:80/Kleber2021/2021kleber/4568
+#EXTINF:-1,Globo Nordeste FHD
+http://dnsl.me:80/Kleber2021/2021kleber/25896
+#EXTINF:-1,Globo Nordeste HD
+http://dnsl.me:80/Kleber2021/2021kleber/48502
+#EXTINF:-1,Globo Nordeste SD
+http://dnsl.me:80/Kleber2021/2021kleber/48503
+#EXTINF:-1,Globo NOW
+http://dnsl.me:80/Kleber2021/2021kleber/48504
+#EXTINF:-1,Globo NSC Centro Oeste FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48505
+#EXTINF:-1,Globo NSC Florianopolis FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48506
+#EXTINF:-1,Globo NSC Florianopolis HD
+http://dnsl.me:80/Kleber2021/2021kleber/48507
+#EXTINF:-1,Globo NSC Florianopolis SD
+http://dnsl.me:80/Kleber2021/2021kleber/48508
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48509
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://dnsl.me:80/Kleber2021/2021kleber/48510
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48511
+#EXTINF:-1,Globo NSC TV Criciuma FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48512
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48513
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://dnsl.me:80/Kleber2021/2021kleber/43151
+#EXTINF:-1,Globo NSC TV Santa Catarina HD
+http://dnsl.me:80/Kleber2021/2021kleber/49578
+#EXTINF:-1,Globo Paraíba HD
+http://dnsl.me:80/Kleber2021/2021kleber/40663
+#EXTINF:-1,Globo RBS HD
+http://dnsl.me:80/Kleber2021/2021kleber/40655
+#EXTINF:-1,Globo RBS Porto Alegre SD
+http://dnsl.me:80/Kleber2021/2021kleber/25904
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48514
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://dnsl.me:80/Kleber2021/2021kleber/43154
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48515
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://dnsl.me:80/Kleber2021/2021kleber/40670
+#EXTINF:-1,Globo RBS TV POA FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48516
+#EXTINF:-1,Globo RBS TV POA HD
+http://dnsl.me:80/Kleber2021/2021kleber/48517
+#EXTINF:-1,Globo RBS TV POA SD
+http://dnsl.me:80/Kleber2021/2021kleber/48518
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48519
+#EXTINF:-1,Globo RJ FHD
+http://dnsl.me:80/Kleber2021/2021kleber/25910
+#EXTINF:-1,Globo RJ HD
+http://dnsl.me:80/Kleber2021/2021kleber/48522
+#EXTINF:-1,Globo RJ SD
+http://dnsl.me:80/Kleber2021/2021kleber/48523
+#EXTINF:-1,Globo RPC Curitiba FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48526
+#EXTINF:-1,Globo RPC Curitiba HD
+http://dnsl.me:80/Kleber2021/2021kleber/48527
+#EXTINF:-1,Globo RPC Curitiba SD
+http://dnsl.me:80/Kleber2021/2021kleber/48528
+#EXTINF:-1,Globo RPC Foz do Iguaçu FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48524
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+http://dnsl.me:80/Kleber2021/2021kleber/49614
+#EXTINF:-1,Globo RPC Maringa HD
+http://dnsl.me:80/Kleber2021/2021kleber/48525
+#EXTINF:-1,Globo RPC Paranavaí FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62814
+#EXTINF:-1,Globo RPC Paranavaí HD
+http://dnsl.me:80/Kleber2021/2021kleber/62813
+#EXTINF:-1,Globo RPC Paraná HD
+http://dnsl.me:80/Kleber2021/2021kleber/49579
+#EXTINF:-1,Globo RPC Ponta Grossa FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48529
+#EXTINF:-1,Globo S.J do Rio Preto SD 
+http://dnsl.me:80/Kleber2021/2021kleber/40636
+#EXTINF:-1,Globo Sergipe HD
+http://dnsl.me:80/Kleber2021/2021kleber/28881
+#EXTINF:-1,Globo SP FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48530
+#EXTINF:-1,Globo SP FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63973
+#EXTINF:-1,Globo SP HD
+http://dnsl.me:80/Kleber2021/2021kleber/48531
+#EXTINF:-1,Globo SP SD
+http://dnsl.me:80/Kleber2021/2021kleber/48532
+#EXTINF:-1,Globo TV Anhanguera  SD
+http://dnsl.me:80/Kleber2021/2021kleber/48533
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48565
+#EXTINF:-1,Globo TV Anhanguera FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63969
+#EXTINF:-1,Globo TV Anhanguera HD
+http://dnsl.me:80/Kleber2021/2021kleber/48566
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48535
+#EXTINF:-1,Globo TV Asa Branca HD
+http://dnsl.me:80/Kleber2021/2021kleber/40665
+#EXTINF:-1,Globo TV Bahia FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48536
+#EXTINF:-1,Globo TV Bahia HD
+http://dnsl.me:80/Kleber2021/2021kleber/48537
+#EXTINF:-1,Globo TV Bahia SD
+http://dnsl.me:80/Kleber2021/2021kleber/48538
+#EXTINF:-1,Globo TV Belem FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48539
+#EXTINF:-1,Globo TV Belem HD
+http://dnsl.me:80/Kleber2021/2021kleber/48540
+#EXTINF:-1,Globo TV Belem SD
+http://dnsl.me:80/Kleber2021/2021kleber/48541
+#EXTINF:-1,Globo TV Brasilia FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48542
+#EXTINF:-1,Globo TV Brasilia FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63974
+#EXTINF:-1,Globo TV Brasilia HD
+http://dnsl.me:80/Kleber2021/2021kleber/48543
+#EXTINF:-1,Globo TV Brasilia SD
+http://dnsl.me:80/Kleber2021/2021kleber/48544
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48545
+#EXTINF:-1,Globo TV Clube FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48546
+#EXTINF:-1,Globo TV Clube HD
+http://dnsl.me:80/Kleber2021/2021kleber/49610
+#EXTINF:-1,Globo TV Integração JF FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48547
+#EXTINF:-1,Globo TV Mirante FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48548
+#EXTINF:-1,Globo TV Mirante HD
+http://dnsl.me:80/Kleber2021/2021kleber/48549
+#EXTINF:-1,Globo TV Mirante SD
+http://dnsl.me:80/Kleber2021/2021kleber/48550
+#EXTINF:-1,Globo TV Morena - Ponta Pora HD
+http://dnsl.me:80/Kleber2021/2021kleber/49570
+#EXTINF:-1,Globo TV Morena FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48551
+#EXTINF:-1,Globo TV Morena HD
+http://dnsl.me:80/Kleber2021/2021kleber/48552
+#EXTINF:-1,Globo TV Morena SD
+http://dnsl.me:80/Kleber2021/2021kleber/48553
+#EXTINF:-1,Globo TV Recife FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48554
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48555
 #EXTINF:-1,Globo TV TEM SJRP
-http://dragoniptv.iptf.me:8080/123/123/36105
-#EXTINF:-1,Globo TV Tem Sorocaba
-http://dragoniptv.iptf.me:8080/123/123/36106
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
-http://dragoniptv.iptf.me:8080/123/123/36107
-#EXTINF:-1,GLOBO TV VANGUARDA S.J DOS CAMPOS
-http://dragoniptv.iptf.me:8080/123/123/36108
-#EXTINF:-1,GLOBO TV VERDES MARES
-http://dragoniptv.iptf.me:8080/123/123/36109
-#EXTINF:-1,Gloob
-http://dragoniptv.iptf.me:8080/123/123/36111
+http://dnsl.me:80/Kleber2021/2021kleber/48556
+#EXTINF:-1,Globo TV Tem Sorocaba HD
+http://dnsl.me:80/Kleber2021/2021kleber/48557
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://dnsl.me:80/Kleber2021/2021kleber/48558
+#EXTINF:-1,Globo TV Tribuna FHD
+http://dnsl.me:80/Kleber2021/2021kleber/40638
+#EXTINF:-1,Globo TV Tribuna HD
+http://dnsl.me:80/Kleber2021/2021kleber/48559
+#EXTINF:-1,Globo TV Tribuna SD
+http://dnsl.me:80/Kleber2021/2021kleber/48560
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos FHD
+http://dnsl.me:80/Kleber2021/2021kleber/45335
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos HD
+http://dnsl.me:80/Kleber2021/2021kleber/48561
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos SD
+http://dnsl.me:80/Kleber2021/2021kleber/25922
+#EXTINF:-1,Globo TV Verdes Mares FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48562
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://dnsl.me:80/Kleber2021/2021kleber/48563
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://dnsl.me:80/Kleber2021/2021kleber/48564
+#EXTINF:-1,Globo Vitória ES FHD
+http://dnsl.me:80/Kleber2021/2021kleber/40654
+#EXTINF:-1,Globo Vitória ES HD
+http://dnsl.me:80/Kleber2021/2021kleber/28879
+#EXTINF:-1,Gloob FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3849
+#EXTINF:-1,Gloob FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63914
 #EXTINF:-1,Gloob HD
-http://dragoniptv.iptf.me:8080/123/123/36110
-#EXTINF:-1,Gloobinho
-http://dragoniptv.iptf.me:8080/123/123/36113
+http://dnsl.me:80/Kleber2021/2021kleber/3850
+#EXTINF:-1,Gloob HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64077
+#EXTINF:-1,Gloob SD
+http://dnsl.me:80/Kleber2021/2021kleber/4546
+#EXTINF:-1,Gloobinho FHD
+http://dnsl.me:80/Kleber2021/2021kleber/13218
 #EXTINF:-1,Gloobinho HD
-http://dragoniptv.iptf.me:8080/123/123/36112
-#EXTINF:-1,GNT
-http://dragoniptv.iptf.me:8080/123/123/36115
+http://dnsl.me:80/Kleber2021/2021kleber/3851
+#EXTINF:-1,Gloobinho HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64078
+#EXTINF:-1,Gloobinho SD
+http://dnsl.me:80/Kleber2021/2021kleber/4548
+#EXTINF:-1,GNT FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4141
+#EXTINF:-1,GNT FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63915
 #EXTINF:-1,GNT HD
-http://dragoniptv.iptf.me:8080/123/123/36114
-#EXTINF:-1,H2
-http://dragoniptv.iptf.me:8080/123/123/36117
+http://dnsl.me:80/Kleber2021/2021kleber/4143
+#EXTINF:-1,GNT HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63986
+#EXTINF:-1,GNT SD
+http://dnsl.me:80/Kleber2021/2021kleber/4144
+#EXTINF:-1,Golf Channel FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62821
+#EXTINF:-1,Golf Channel HD
+http://dnsl.me:80/Kleber2021/2021kleber/62822
+#EXTINF:-1,H2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4479
+#EXTINF:-1,H2 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63916
 #EXTINF:-1,H2 HD
-http://dragoniptv.iptf.me:8080/123/123/36116
-#EXTINF:-1,HBO
-http://dragoniptv.iptf.me:8080/123/123/36129
-#EXTINF:-1,HBO 2
-http://dragoniptv.iptf.me:8080/123/123/36119
+http://dnsl.me:80/Kleber2021/2021kleber/4481
+#EXTINF:-1,H2 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64016
+#EXTINF:-1,H2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4482
+#EXTINF:-1,HBO 2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3823
+#EXTINF:-1,HBO 2 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63922
 #EXTINF:-1,HBO 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36118
-#EXTINF:-1,HBO Family
-http://dragoniptv.iptf.me:8080/123/123/36122
-#EXTINF:-1,HBO FAMILY HD
-http://dragoniptv.iptf.me:8080/123/123/36121
+http://dnsl.me:80/Kleber2021/2021kleber/3824
+#EXTINF:-1,HBO 2 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64051
+#EXTINF:-1,HBO 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4087
+#EXTINF:-1,HBO 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49542
+#EXTINF:-1,HBO Family FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3825
+#EXTINF:-1,HBO Family FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63918
+#EXTINF:-1,HBO Family HD
+http://dnsl.me:80/Kleber2021/2021kleber/3826
+#EXTINF:-1,HBO Family HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64052
+#EXTINF:-1,HBO Family SD
+http://dnsl.me:80/Kleber2021/2021kleber/4088
+#EXTINF:-1,HBO FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3827
+#EXTINF:-1,HBO FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63919
 #EXTINF:-1,HBO HD
-http://dragoniptv.iptf.me:8080/123/123/36120
-#EXTINF:-1,HBO Mundi
-http://dragoniptv.iptf.me:8080/123/123/36124
-#EXTINF:-1,HBO MUNDI HD
-http://dragoniptv.iptf.me:8080/123/123/36123
-#EXTINF:-1,HBO Plus
-http://dragoniptv.iptf.me:8080/123/123/36126
-#EXTINF:-1,HBO PLUS HD
-http://dragoniptv.iptf.me:8080/123/123/36125
-#EXTINF:-1,HBO POP
-http://dragoniptv.iptf.me:8080/123/123/36128
-#EXTINF:-1,HBO POP HD
-http://dragoniptv.iptf.me:8080/123/123/36127
-#EXTINF:-1,HBO Signature
-http://dragoniptv.iptf.me:8080/123/123/36131
-#EXTINF:-1,HBO SIGNATURE HD
-http://dragoniptv.iptf.me:8080/123/123/36130
-#EXTINF:-1,HBO Xtreme
-http://dragoniptv.iptf.me:8080/123/123/36133
-#EXTINF:-1,HBO XTREME HD
-http://dragoniptv.iptf.me:8080/123/123/36132
-#EXTINF:-1,HGTV
-http://dragoniptv.iptf.me:8080/123/123/36135
+http://dnsl.me:80/Kleber2021/2021kleber/3828
+#EXTINF:-1,HBO HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64053
+#EXTINF:-1,HBO Mundi FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3829
+#EXTINF:-1,HBO Mundi FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63926
+#EXTINF:-1,HBO Mundi HD
+http://dnsl.me:80/Kleber2021/2021kleber/3830
+#EXTINF:-1,HBO Mundi HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64054
+#EXTINF:-1,HBO Mundi SD
+http://dnsl.me:80/Kleber2021/2021kleber/4091
+#EXTINF:-1,HBO Plus FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3831
+#EXTINF:-1,HBO Plus FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63920
+#EXTINF:-1,HBO Plus HD
+http://dnsl.me:80/Kleber2021/2021kleber/3832
+#EXTINF:-1,HBO Plus HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64055
+#EXTINF:-1,HBO Plus SD
+http://dnsl.me:80/Kleber2021/2021kleber/4588
+#EXTINF:-1,HBO Pop FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3833
+#EXTINF:-1,HBO Pop FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63928
+#EXTINF:-1,HBO Pop HD
+http://dnsl.me:80/Kleber2021/2021kleber/3834
+#EXTINF:-1,HBO Pop HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64056
+#EXTINF:-1,HBO Pop SD
+http://dnsl.me:80/Kleber2021/2021kleber/4095
+#EXTINF:-1,HBO SD
+http://dnsl.me:80/Kleber2021/2021kleber/4584
+#EXTINF:-1,HBO Signature FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3835
+#EXTINF:-1,HBO Signature FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63921
+#EXTINF:-1,HBO Signature HD
+http://dnsl.me:80/Kleber2021/2021kleber/3836
+#EXTINF:-1,HBO Signature HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64057
+#EXTINF:-1,HBO Signature SD
+http://dnsl.me:80/Kleber2021/2021kleber/4097
+#EXTINF:-1,HBO Xtreme 4K
+http://dnsl.me:80/Kleber2021/2021kleber/57273
+#EXTINF:-1,HBO Xtreme FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4594
+#EXTINF:-1,HBO Xtreme FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63927
+#EXTINF:-1,HBO Xtreme HD
+http://dnsl.me:80/Kleber2021/2021kleber/3837
+#EXTINF:-1,HBO Xtreme HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64058
+#EXTINF:-1,HBO Xtreme SD
+http://dnsl.me:80/Kleber2021/2021kleber/4099
+#EXTINF:-1,HGTV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4483
+#EXTINF:-1,HGTV FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63891
 #EXTINF:-1,HGTV HD
-http://dragoniptv.iptf.me:8080/123/123/36134
-#EXTINF:-1,History
-http://dragoniptv.iptf.me:8080/123/123/36137
-#EXTINF:-1,History HD
-http://dragoniptv.iptf.me:8080/123/123/36136
-#EXTINF:-1,ID DISCOVERY
-http://dragoniptv.iptf.me:8080/123/123/36139
-#EXTINF:-1,ID Discovery HD
-http://dragoniptv.iptf.me:8080/123/123/36138
-#EXTINF:-1,Lifetime
-http://dragoniptv.iptf.me:8080/123/123/36141
-#EXTINF:-1,LIFETIME HD
-http://dragoniptv.iptf.me:8080/123/123/36140
-#EXTINF:-1,Mais Globosat
-http://dragoniptv.iptf.me:8080/123/123/36143
-#EXTINF:-1,Mais Globosat HD
-http://dragoniptv.iptf.me:8080/123/123/36142
-#EXTINF:-1,MegaPix
-http://dragoniptv.iptf.me:8080/123/123/36145
-#EXTINF:-1,MEGAPIX HD
-http://dragoniptv.iptf.me:8080/123/123/36144
-#EXTINF:-1,MTV
-http://dragoniptv.iptf.me:8080/123/123/36146
-#EXTINF:-1,Multishow
-http://dragoniptv.iptf.me:8080/123/123/36148
-#EXTINF:-1,MULTISHOW HD
-http://dragoniptv.iptf.me:8080/123/123/36147
-#EXTINF:-1,NAT GEO KIDS HD
-http://dragoniptv.iptf.me:8080/123/123/36149
-#EXTINF:-1,NAT GEO WILD HD
-http://dragoniptv.iptf.me:8080/123/123/36150
-#EXTINF:-1,NatGeo
-http://dragoniptv.iptf.me:8080/123/123/36152
+http://dnsl.me:80/Kleber2021/2021kleber/4485
+#EXTINF:-1,HGTV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64017
+#EXTINF:-1,HGTV SD
+http://dnsl.me:80/Kleber2021/2021kleber/4486
+#EXTINF:-1,History Channel FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4487
+#EXTINF:-1,History Channel FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63917
+#EXTINF:-1,History Channel HD
+http://dnsl.me:80/Kleber2021/2021kleber/4489
+#EXTINF:-1,History Channel HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64018
+#EXTINF:-1,History Channel SD
+http://dnsl.me:80/Kleber2021/2021kleber/4490
+#EXTINF:-1,ID: Investigacao Discovery FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4145
+#EXTINF:-1,ID: Investigacao Discovery FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63923
+#EXTINF:-1,ID: Investigacao Discovery HD
+http://dnsl.me:80/Kleber2021/2021kleber/4147
+#EXTINF:-1,ID: Investigacao Discovery HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64008
+#EXTINF:-1,ID: Investigacao Discovery SD
+http://dnsl.me:80/Kleber2021/2021kleber/4148
+#EXTINF:-1,Igreja Mundial FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48622
+#EXTINF:-1,Igreja Universal HD
+http://dnsl.me:80/Kleber2021/2021kleber/48623
+#EXTINF:-1,InterTV Cabo Frio HD
+http://dnsl.me:80/Kleber2021/2021kleber/49580
+#EXTINF:-1,InterTV RJ - Região Serrana FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49595
+#EXTINF:-1,InterTV RJ - Região Serrana HD
+http://dnsl.me:80/Kleber2021/2021kleber/49596
+#EXTINF:-1,ITV HD
+http://dnsl.me:80/Kleber2021/2021kleber/48969
+#EXTINF:-1,Jovem Pan News FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49279
+#EXTINF:-1,Lifetime FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4149
+#EXTINF:-1,Lifetime FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63924
+#EXTINF:-1,Lifetime HD
+http://dnsl.me:80/Kleber2021/2021kleber/4151
+#EXTINF:-1,Lifetime HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63987
+#EXTINF:-1,Lifetime SD
+http://dnsl.me:80/Kleber2021/2021kleber/4152
+#EXTINF:-1,Loading TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/40639
+#EXTINF:-1,Loading TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/49533
+#EXTINF:-1,Loading TV SD
+http://dnsl.me:80/Kleber2021/2021kleber/49608
+#EXTINF:-1,Love Nature FHD
+http://dnsl.me:80/Kleber2021/2021kleber/41312
+#EXTINF:-1,Mais GloboSat FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4153
+#EXTINF:-1,Mais GloboSat FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63925
+#EXTINF:-1,Mais GloboSat HD
+http://dnsl.me:80/Kleber2021/2021kleber/4155
+#EXTINF:-1,Mais GloboSat SD
+http://dnsl.me:80/Kleber2021/2021kleber/4156
+#EXTINF:-1,Mais na Tela FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62605
+#EXTINF:-1,Mais na Tela HD
+http://dnsl.me:80/Kleber2021/2021kleber/62606
+#EXTINF:-1,Mais na Tela HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64022
+#EXTINF:-1,Mais na Tela SD
+http://dnsl.me:80/Kleber2021/2021kleber/62607
+#EXTINF:-1,Master TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/48970
+#EXTINF:-1,Megapix 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49543
+#EXTINF:-1,Megapix FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3722
+#EXTINF:-1,Megapix FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63929
+#EXTINF:-1,Megapix HD
+http://dnsl.me:80/Kleber2021/2021kleber/3721
+#EXTINF:-1,Megapix HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64030
+#EXTINF:-1,Megapix SD
+http://dnsl.me:80/Kleber2021/2021kleber/4350
+#EXTINF:-1,Mosaico Premiere FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62823
+#EXTINF:-1,Mosaico Premiere HD
+http://dnsl.me:80/Kleber2021/2021kleber/62824
+#EXTINF:-1,MTV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4164
+#EXTINF:-1,MTV FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63930
+#EXTINF:-1,MTV HD
+http://dnsl.me:80/Kleber2021/2021kleber/4159
+#EXTINF:-1,MTV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63989
+#EXTINF:-1,MTV SD
+http://dnsl.me:80/Kleber2021/2021kleber/25581
+#EXTINF:-1,Multishow 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49544
+#EXTINF:-1,Multishow FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4165
+#EXTINF:-1,Multishow FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63931
+#EXTINF:-1,Multishow HD
+http://dnsl.me:80/Kleber2021/2021kleber/4167
+#EXTINF:-1,Multishow HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63990
+#EXTINF:-1,Multishow SD
+http://dnsl.me:80/Kleber2021/2021kleber/4168
+#EXTINF:-1,Music Box Brasil FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4169
+#EXTINF:-1,Music Box Brasil HD
+http://dnsl.me:80/Kleber2021/2021kleber/4170
+#EXTINF:-1,Music Box Brasil HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63991
+#EXTINF:-1,Music Box Brasil SD
+http://dnsl.me:80/Kleber2021/2021kleber/4171
+#EXTINF:-1,MyCujoo TV 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/56787
+#EXTINF:-1,MyCujoo TV 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/56788
+#EXTINF:-1,MyCujoo TV 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/56789
+#EXTINF:-1,NatGeo Kids FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3842
+#EXTINF:-1,NatGeo Kids FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63932
 #EXTINF:-1,NatGeo Kids HD
-http://dragoniptv.iptf.me:8080/123/123/36151
-#EXTINF:-1,NatGeo Wild
-http://dragoniptv.iptf.me:8080/123/123/36154
-#EXTINF:-1,NATGEO WILD HD
-http://dragoniptv.iptf.me:8080/123/123/36153
-#EXTINF:-1,National Geo
-http://dragoniptv.iptf.me:8080/123/123/36158
-#EXTINF:-1,National Geo HD
-http://dragoniptv.iptf.me:8080/123/123/36155
-#EXTINF:-1,National Geo Kids
-http://dragoniptv.iptf.me:8080/123/123/36157
-#EXTINF:-1,National Geo Kids HD
-http://dragoniptv.iptf.me:8080/123/123/36156
-#EXTINF:-1,Nick Jr
-http://dragoniptv.iptf.me:8080/123/123/36160
+http://dnsl.me:80/Kleber2021/2021kleber/3843
+#EXTINF:-1,NatGeo Kids HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64074
+#EXTINF:-1,NatGeo Kids SD
+http://dnsl.me:80/Kleber2021/2021kleber/4550
+#EXTINF:-1,National Geographic 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49545
+#EXTINF:-1,National Geographic FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4491
+#EXTINF:-1,National Geographic FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63933
+#EXTINF:-1,National Geographic HD
+http://dnsl.me:80/Kleber2021/2021kleber/4493
+#EXTINF:-1,National Geographic HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64019
+#EXTINF:-1,National Geographic SD
+http://dnsl.me:80/Kleber2021/2021kleber/4494
+#EXTINF:-1,National Geographic Wild FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4495
+#EXTINF:-1,National Geographic Wild FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63934
+#EXTINF:-1,National Geographic Wild HD
+http://dnsl.me:80/Kleber2021/2021kleber/4497
+#EXTINF:-1,National Geographic Wild HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64020
+#EXTINF:-1,National Geographic Wild SD
+http://dnsl.me:80/Kleber2021/2021kleber/4498
+#EXTINF:-1,NBA League Pass FHD
+http://dnsl.me:80/Kleber2021/2021kleber/46066
+#EXTINF:-1,NBA League Pass HD
+http://dnsl.me:80/Kleber2021/2021kleber/46067
+#EXTINF:-1,Nick Jr FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3845
+#EXTINF:-1,Nick Jr FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63935
 #EXTINF:-1,Nick Jr HD
-http://dragoniptv.iptf.me:8080/123/123/36159
-#EXTINF:-1,Nickelodeon
-http://dragoniptv.iptf.me:8080/123/123/36162
+http://dnsl.me:80/Kleber2021/2021kleber/3846
+#EXTINF:-1,Nick Jr HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64075
+#EXTINF:-1,Nick Jr SD
+http://dnsl.me:80/Kleber2021/2021kleber/4554
+#EXTINF:-1,Nickelodeon FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3847
+#EXTINF:-1,Nickelodeon FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63936
 #EXTINF:-1,Nickelodeon HD
-http://dragoniptv.iptf.me:8080/123/123/36161
-#EXTINF:-1,Off
-http://dragoniptv.iptf.me:8080/123/123/36164
+http://dnsl.me:80/Kleber2021/2021kleber/3848
+#EXTINF:-1,Nickelodeon HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64076
+#EXTINF:-1,Nickelodeon SD
+http://dnsl.me:80/Kleber2021/2021kleber/4555
+#EXTINF:-1,Nova Era FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48624
+#EXTINF:-1,Nova Manchete HD
+http://dnsl.me:80/Kleber2021/2021kleber/48610
+#EXTINF:-1,Nova Manchete HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64004
+#EXTINF:-1,Off FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4172
+#EXTINF:-1,Off FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63937
 #EXTINF:-1,Off HD
-http://dragoniptv.iptf.me:8080/123/123/36163
-#EXTINF:-1,Paramount
-http://dragoniptv.iptf.me:8080/123/123/36166
-#EXTINF:-1,Paramount HD
-http://dragoniptv.iptf.me:8080/123/123/36165
-#EXTINF:-1,PARAMOUT HD
-http://dragoniptv.iptf.me:8080/123/123/36167
-#EXTINF:-1,POLISHOP HD
-http://dragoniptv.iptf.me:8080/123/123/36168
-#EXTINF:-1,Premiere 2
-http://dragoniptv.iptf.me:8080/123/123/36170
-#EXTINF:-1,PREMIERE 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36169
-#EXTINF:-1,Premiere 3
-http://dragoniptv.iptf.me:8080/123/123/36172
-#EXTINF:-1,PREMIERE 3 HD
-http://dragoniptv.iptf.me:8080/123/123/36171
-#EXTINF:-1,Premiere 4
-http://dragoniptv.iptf.me:8080/123/123/36174
-#EXTINF:-1,PREMIERE 4 HD
-http://dragoniptv.iptf.me:8080/123/123/36173
-#EXTINF:-1,Premiere 5
-http://dragoniptv.iptf.me:8080/123/123/36176
-#EXTINF:-1,PREMIERE 5 HD
-http://dragoniptv.iptf.me:8080/123/123/36175
-#EXTINF:-1,PREMIERE 6
-http://dragoniptv.iptf.me:8080/123/123/36178
-#EXTINF:-1,PREMIERE 6 HD
-http://dragoniptv.iptf.me:8080/123/123/36177
-#EXTINF:-1,Premiere 7
-http://dragoniptv.iptf.me:8080/123/123/36180
-#EXTINF:-1,PREMIERE 7 HD
-http://dragoniptv.iptf.me:8080/123/123/36179
-#EXTINF:-1,Premiere Clubes 1
-http://dragoniptv.iptf.me:8080/123/123/36181
-#EXTINF:-1,PREMIERE CLUBES HD
-http://dragoniptv.iptf.me:8080/123/123/36182
-#EXTINF:-1,Ratimbum HD
-http://dragoniptv.iptf.me:8080/123/123/36183
-#EXTINF:-1,Record Campinas
-http://dragoniptv.iptf.me:8080/123/123/36185
-#EXTINF:-1,RECORD HD
-http://dragoniptv.iptf.me:8080/123/123/36184
-#EXTINF:-1,Record Manaus
-http://dragoniptv.iptf.me:8080/123/123/36186
-#EXTINF:-1,RECORD MG HD
-http://dragoniptv.iptf.me:8080/123/123/36187
-#EXTINF:-1,Record News
-http://dragoniptv.iptf.me:8080/123/123/36189
-#EXTINF:-1,RECORD NEWS HD
-http://dragoniptv.iptf.me:8080/123/123/36188
-#EXTINF:-1,Record Nordeste
-http://dragoniptv.iptf.me:8080/123/123/36190
-#EXTINF:-1,Record RJ
-http://dragoniptv.iptf.me:8080/123/123/36191
-#EXTINF:-1,RECORD RJ HD
-http://dragoniptv.iptf.me:8080/123/123/36192
-#EXTINF:-1,Record SP
-http://dragoniptv.iptf.me:8080/123/123/36194
-#EXTINF:-1,RECORD SP HD
-http://dragoniptv.iptf.me:8080/123/123/36193
-#EXTINF:-1,Record TV
-http://dragoniptv.iptf.me:8080/123/123/36196
-#EXTINF:-1,Record TV RS
-http://dragoniptv.iptf.me:8080/123/123/36195
-#EXTINF:-1,REDE BRASIL HD
-http://dragoniptv.iptf.me:8080/123/123/36197
-#EXTINF:-1,Rede TV
-http://dragoniptv.iptf.me:8080/123/123/36198
+http://dnsl.me:80/Kleber2021/2021kleber/4174
+#EXTINF:-1,Off HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63992
+#EXTINF:-1,Off SD
+http://dnsl.me:80/Kleber2021/2021kleber/4175
+#EXTINF:-1,Paramount Channel FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3723
+#EXTINF:-1,Paramount Channel FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63938
+#EXTINF:-1,Paramount Channel HD
+http://dnsl.me:80/Kleber2021/2021kleber/3724
+#EXTINF:-1,Paramount Channel HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64031
+#EXTINF:-1,Paramount Channel SD
+http://dnsl.me:80/Kleber2021/2021kleber/4348
+#EXTINF:-1,Play TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49280
+#EXTINF:-1,Play TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/49281
+#EXTINF:-1,Play TV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64005
+#EXTINF:-1,Play TV SD
+http://dnsl.me:80/Kleber2021/2021kleber/1547
+#EXTINF:-1,PlayKids FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4556
+#EXTINF:-1,PlayKids HD
+http://dnsl.me:80/Kleber2021/2021kleber/3841
+#EXTINF:-1,PlayKids HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64073
+#EXTINF:-1,PlayKids SD
+http://dnsl.me:80/Kleber2021/2021kleber/40642
+#EXTINF:-1,Polishop FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48971
+#EXTINF:-1,Polishop SD
+http://dnsl.me:80/Kleber2021/2021kleber/49599
+#EXTINF:-1,Power Couple Brasil HD
+http://dnsl.me:80/Kleber2021/2021kleber/63363
+#EXTINF:-1,Premiere 2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3871
+#EXTINF:-1,Premiere 2 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63939
+#EXTINF:-1,Premiere 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3872
+#EXTINF:-1,Premiere 2 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64059
+#EXTINF:-1,Premiere 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4512
+#EXTINF:-1,Premiere 3 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3873
+#EXTINF:-1,Premiere 3 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63940
+#EXTINF:-1,Premiere 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3874
+#EXTINF:-1,Premiere 3 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64060
+#EXTINF:-1,Premiere 3 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4514
+#EXTINF:-1,Premiere 4 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4056
+#EXTINF:-1,Premiere 4 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63941
+#EXTINF:-1,Premiere 4 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3875
+#EXTINF:-1,Premiere 4 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64061
+#EXTINF:-1,Premiere 4 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4516
+#EXTINF:-1,Premiere 5 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3876
+#EXTINF:-1,Premiere 5 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63942
+#EXTINF:-1,Premiere 5 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3877
+#EXTINF:-1,Premiere 5 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64062
+#EXTINF:-1,Premiere 5 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4518
+#EXTINF:-1,Premiere 6 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4057
+#EXTINF:-1,Premiere 6 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63943
+#EXTINF:-1,Premiere 6 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3878
+#EXTINF:-1,Premiere 6 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64063
+#EXTINF:-1,Premiere 6 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4520
+#EXTINF:-1,Premiere 7 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4058
+#EXTINF:-1,Premiere 7 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63944
+#EXTINF:-1,Premiere 7 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3879
+#EXTINF:-1,Premiere 7 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64064
+#EXTINF:-1,Premiere 7 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4522
+#EXTINF:-1,Premiere 8 HD
+http://dnsl.me:80/Kleber2021/2021kleber/18276
+#EXTINF:-1,Premiere Clubes 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49546
+#EXTINF:-1,Premiere Clubes FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3881
+#EXTINF:-1,Premiere Clubes FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63945
+#EXTINF:-1,Premiere Clubes HD
+http://dnsl.me:80/Kleber2021/2021kleber/3882
+#EXTINF:-1,Premiere Clubes HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64065
+#EXTINF:-1,Premiere Clubes SD
+http://dnsl.me:80/Kleber2021/2021kleber/4524
+#EXTINF:-1,Prime Box Brasil FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4177
+#EXTINF:-1,Prime Box Brasil HD
+http://dnsl.me:80/Kleber2021/2021kleber/4179
+#EXTINF:-1,Prime Box Brasil HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63993
+#EXTINF:-1,Prime Box Brasil SD
+http://dnsl.me:80/Kleber2021/2021kleber/4180
+#EXTINF:-1,RBI TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49282
+#EXTINF:-1,RBS TV Santa Maria FHD
+http://dnsl.me:80/Kleber2021/2021kleber/40653
+#EXTINF:-1,RBT Rede Brasil TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/48972
+#EXTINF:-1,Real Madrid TV SD
+http://dnsl.me:80/Kleber2021/2021kleber/11689
+#EXTINF:-1,Record 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49547
+#EXTINF:-1,Record BA HD
+http://dnsl.me:80/Kleber2021/2021kleber/48958
+#EXTINF:-1,Record BH Minas HD
+http://dnsl.me:80/Kleber2021/2021kleber/48906
+#EXTINF:-1,Record Brasilia HD
+http://dnsl.me:80/Kleber2021/2021kleber/48907
+#EXTINF:-1,Record ES HD
+http://dnsl.me:80/Kleber2021/2021kleber/48960
+#EXTINF:-1,Record Itapoan - Bahia HD
+http://dnsl.me:80/Kleber2021/2021kleber/48922
+#EXTINF:-1,Record Manaus HD
+http://dnsl.me:80/Kleber2021/2021kleber/48921
+#EXTINF:-1,Record News FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62826
+#EXTINF:-1,Record News HD
+http://dnsl.me:80/Kleber2021/2021kleber/3514
+#EXTINF:-1,Record News SD
+http://dnsl.me:80/Kleber2021/2021kleber/4570
+#EXTINF:-1,Record RJ HD
+http://dnsl.me:80/Kleber2021/2021kleber/48915
+#EXTINF:-1,Record RS HD
+http://dnsl.me:80/Kleber2021/2021kleber/48908
+#EXTINF:-1,Record Sao Jose Rio Preto HD
+http://dnsl.me:80/Kleber2021/2021kleber/48909
+#EXTINF:-1,Record Sergipe - Tv Atalaia HD
+http://dnsl.me:80/Kleber2021/2021kleber/48910
+#EXTINF:-1,Record SP FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63976
+#EXTINF:-1,Record SP HD
+http://dnsl.me:80/Kleber2021/2021kleber/48911
+#EXTINF:-1,Record TV Belém HD
+http://dnsl.me:80/Kleber2021/2021kleber/48959
+#EXTINF:-1,Record TV Cabralia HD Bahia
+http://dnsl.me:80/Kleber2021/2021kleber/48916
+#EXTINF:-1,Record TV Goiânia FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63967
+#EXTINF:-1,Record TV Goiânia HD
+http://dnsl.me:80/Kleber2021/2021kleber/49528
+#EXTINF:-1,Record TV Litoral Santos HD
+http://dnsl.me:80/Kleber2021/2021kleber/48913
+#EXTINF:-1,Record TV Minas HD
+http://dnsl.me:80/Kleber2021/2021kleber/48914
+#EXTINF:-1,Record Tv Parana HD
+http://dnsl.me:80/Kleber2021/2021kleber/48920
+#EXTINF:-1,Record TV Paranaíba - Uberlandia-MG HD
+http://dnsl.me:80/Kleber2021/2021kleber/48917
+#EXTINF:-1,Record TV Santa Catarina HD
+http://dnsl.me:80/Kleber2021/2021kleber/48919
+#EXTINF:-1,Record TV Thathi Campinas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49593
+#EXTINF:-1,Record TV Thathi Campinas HD
+http://dnsl.me:80/Kleber2021/2021kleber/49577
+#EXTINF:-1,Rede Familia FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48625
+#EXTINF:-1,Rede Genesis FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48626
+#EXTINF:-1,Rede Genesis SD
+http://dnsl.me:80/Kleber2021/2021kleber/48627
+#EXTINF:-1,Rede Minas
+http://dnsl.me:80/Kleber2021/2021kleber/49529
+#EXTINF:-1,Rede Super FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48628
+#EXTINF:-1,Rede Super SD
+http://dnsl.me:80/Kleber2021/2021kleber/48629
+#EXTINF:-1,Rede Século 21
+http://dnsl.me:80/Kleber2021/2021kleber/48630
+#EXTINF:-1,Rede TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48631
+#EXTINF:-1,Rede TV FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63968
 #EXTINF:-1,Rede TV HD
-http://dragoniptv.iptf.me:8080/123/123/36199
-#EXTINF:-1,REDE VIDA HD
-http://dragoniptv.iptf.me:8080/123/123/36200
-#EXTINF:-1,SBT
-http://dragoniptv.iptf.me:8080/123/123/36203
-#EXTINF:-1,SBT HD
-http://dragoniptv.iptf.me:8080/123/123/36201
-#EXTINF:-1,SBT PARANA
-http://dragoniptv.iptf.me:8080/123/123/36202
-#EXTINF:-1,Sony
-http://dragoniptv.iptf.me:8080/123/123/36205
-#EXTINF:-1,SONY HD
-http://dragoniptv.iptf.me:8080/123/123/36204
-#EXTINF:-1,SPACE
-http://dragoniptv.iptf.me:8080/123/123/36207
-#EXTINF:-1,SPACE HD
-http://dragoniptv.iptf.me:8080/123/123/36206
-#EXTINF:-1,SporTV 1
-http://dragoniptv.iptf.me:8080/123/123/36209
-#EXTINF:-1,SPORTV 1 HD
-http://dragoniptv.iptf.me:8080/123/123/36208
-#EXTINF:-1,SporTV 2
-http://dragoniptv.iptf.me:8080/123/123/36211
-#EXTINF:-1,SPORTV 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36210
-#EXTINF:-1,SporTV 3
-http://dragoniptv.iptf.me:8080/123/123/36213
-#EXTINF:-1,SPORTV 3 HD
-http://dragoniptv.iptf.me:8080/123/123/36212
-#EXTINF:-1,Star Channel
-http://dragoniptv.iptf.me:8080/123/123/36215
+http://dnsl.me:80/Kleber2021/2021kleber/48632
+#EXTINF:-1,Rede TV SD
+http://dnsl.me:80/Kleber2021/2021kleber/48633
+#EXTINF:-1,Rede Vida SD
+http://dnsl.me:80/Kleber2021/2021kleber/49368
+#EXTINF:-1,RIT TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48634
+#EXTINF:-1,RIT TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/49522
+#EXTINF:-1,Santuário de Fátima FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48636
+#EXTINF:-1,SBT 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49548
+#EXTINF:-1,SBT BA HD
+http://dnsl.me:80/Kleber2021/2021kleber/48949
+#EXTINF:-1,SBT BSB HD
+http://dnsl.me:80/Kleber2021/2021kleber/48925
+#EXTINF:-1,SBT ES FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48924
+#EXTINF:-1,SBT ES HD
+http://dnsl.me:80/Kleber2021/2021kleber/49573
+#EXTINF:-1,SBT ES SD
+http://dnsl.me:80/Kleber2021/2021kleber/49572
+#EXTINF:-1,SBT GO HD
+http://dnsl.me:80/Kleber2021/2021kleber/48950
+#EXTINF:-1,SBT Int SP FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48951
+#EXTINF:-1,SBT MA SD
+http://dnsl.me:80/Kleber2021/2021kleber/48952
+#EXTINF:-1,SBT MG TV Alterosa HD
+http://dnsl.me:80/Kleber2021/2021kleber/48935
+#EXTINF:-1,SBT MT HD
+http://dnsl.me:80/Kleber2021/2021kleber/48953
+#EXTINF:-1,SBT Parana HD
+http://dnsl.me:80/Kleber2021/2021kleber/48934
+#EXTINF:-1,SBT PI FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48954
+#EXTINF:-1,SBT PR HD
+http://dnsl.me:80/Kleber2021/2021kleber/48955
+#EXTINF:-1,SBT RJ FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48937
+#EXTINF:-1,SBT RJ HD
+http://dnsl.me:80/Kleber2021/2021kleber/48936
+#EXTINF:-1,SBT RS HD
+http://dnsl.me:80/Kleber2021/2021kleber/48926
+#EXTINF:-1,SBT Sergipe -Tv Aperiper HD
+http://dnsl.me:80/Kleber2021/2021kleber/48927
+#EXTINF:-1,SBT SP FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48956
+#EXTINF:-1,SBT SP HD
+http://dnsl.me:80/Kleber2021/2021kleber/48928
+#EXTINF:-1,SBT SP SD
+http://dnsl.me:80/Kleber2021/2021kleber/48957
+#EXTINF:-1,SBT TV Aratu Bahia HD
+http://dnsl.me:80/Kleber2021/2021kleber/48929
+#EXTINF:-1,SBT TV Serra Dourada FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63971
+#EXTINF:-1,SBT TV Serra Dourada HD
+http://dnsl.me:80/Kleber2021/2021kleber/48923
+#EXTINF:-1,SBT VTV Campinas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49592
+#EXTINF:-1,SBT VTV Campinas HD
+http://dnsl.me:80/Kleber2021/2021kleber/49591
+#EXTINF:-1,Shoptime HD
+http://dnsl.me:80/Kleber2021/2021kleber/49143
+#EXTINF:-1,Smithsonian Channel HD
+http://dnsl.me:80/Kleber2021/2021kleber/45691
+#EXTINF:-1,Space FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3728
+#EXTINF:-1,Space FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63946
+#EXTINF:-1,Space HD
+http://dnsl.me:80/Kleber2021/2021kleber/3729
+#EXTINF:-1,Space HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64033
+#EXTINF:-1,Space SD
+http://dnsl.me:80/Kleber2021/2021kleber/4344
+#EXTINF:-1,SporTV 2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3696
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63947
+#EXTINF:-1,SporTV 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3697
+#EXTINF:-1,SporTV 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/5991
+#EXTINF:-1,SporTV 3 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3698
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63948
+#EXTINF:-1,SporTV 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/3699
+#EXTINF:-1,SporTV 3 SD
+http://dnsl.me:80/Kleber2021/2021kleber/5992
+#EXTINF:-1,SporTV 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49549
+#EXTINF:-1,SporTV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3700
+#EXTINF:-1,SporTV FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63949
+#EXTINF:-1,SporTV HD
+http://dnsl.me:80/Kleber2021/2021kleber/11691
+#EXTINF:-1,SporTV SD
+http://dnsl.me:80/Kleber2021/2021kleber/28857
+#EXTINF:-1,Star Channel 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49550
+#EXTINF:-1,Star Channel FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3711
+#EXTINF:-1,Star Channel FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63907
 #EXTINF:-1,Star Channel HD
-http://dragoniptv.iptf.me:8080/123/123/36214
-#EXTINF:-1,Star Hits 1
-http://dragoniptv.iptf.me:8080/123/123/36217
+http://dnsl.me:80/Kleber2021/2021kleber/3712
+#EXTINF:-1,Star Channel HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64026
+#EXTINF:-1,Star Channel SD
+http://dnsl.me:80/Kleber2021/2021kleber/4356
+#EXTINF:-1,Star Hits 1 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3715
+#EXTINF:-1,Star Hits 1 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63908
 #EXTINF:-1,Star Hits 1 HD
-http://dragoniptv.iptf.me:8080/123/123/36216
+http://dnsl.me:80/Kleber2021/2021kleber/3716
+#EXTINF:-1,Star Hits 1 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64027
+#EXTINF:-1,Star Hits 1 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4358
+#EXTINF:-1,Star Hits 2 FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3717
+#EXTINF:-1,Star Hits 2 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63909
 #EXTINF:-1,Star Hits 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36218
-#EXTINF:-1,Star Life
-http://dragoniptv.iptf.me:8080/123/123/36220
-#EXTINF:-1,STAR LIFE HD
-http://dragoniptv.iptf.me:8080/123/123/36219
-#EXTINF:-1,Studio Universal
-http://dragoniptv.iptf.me:8080/123/123/36222
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://dragoniptv.iptf.me:8080/123/123/36221
-#EXTINF:-1,Syfy
-http://dragoniptv.iptf.me:8080/123/123/36224
-#EXTINF:-1,SYFY HD
-http://dragoniptv.iptf.me:8080/123/123/36223
-#EXTINF:-1,TBS
-http://dragoniptv.iptf.me:8080/123/123/36226
+http://dnsl.me:80/Kleber2021/2021kleber/3718
+#EXTINF:-1,Star Hits 2 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64028
+#EXTINF:-1,Star Hits 2 SD
+http://dnsl.me:80/Kleber2021/2021kleber/4354
+#EXTINF:-1,Star Life FHD
+http://dnsl.me:80/Kleber2021/2021kleber/5986
+#EXTINF:-1,Star Life HD
+http://dnsl.me:80/Kleber2021/2021kleber/4139
+#EXTINF:-1,Star Life HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63985
+#EXTINF:-1,Star Life SD
+http://dnsl.me:80/Kleber2021/2021kleber/4140
+#EXTINF:-1,Status do COVID-19
+http://dnsl.me:80/Kleber2021/2021kleber/4181
+#EXTINF:-1,Studio Universal FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3736
+#EXTINF:-1,Studio Universal FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63950
+#EXTINF:-1,Studio Universal HD
+http://dnsl.me:80/Kleber2021/2021kleber/3737
+#EXTINF:-1,Studio Universal HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64034
+#EXTINF:-1,Studio Universal SD
+http://dnsl.me:80/Kleber2021/2021kleber/4342
+#EXTINF:-1,Summer TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/48973
+#EXTINF:-1,Syfy FHD
+http://dnsl.me:80/Kleber2021/2021kleber/11173
+#EXTINF:-1,Syfy FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63951
+#EXTINF:-1,Syfy HD
+http://dnsl.me:80/Kleber2021/2021kleber/5996
+#EXTINF:-1,Syfy HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64040
+#EXTINF:-1,Syfy SD
+http://dnsl.me:80/Kleber2021/2021kleber/5997
+#EXTINF:-1,Taormina TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/48608
+#EXTINF:-1,TBS FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49283
+#EXTINF:-1,TBS FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63952
 #EXTINF:-1,TBS HD
-http://dragoniptv.iptf.me:8080/123/123/36225
-#EXTINF:-1,TC Pipoca HD
-http://dragoniptv.iptf.me:8080/123/123/36227
-#EXTINF:-1,TCM
-http://dragoniptv.iptf.me:8080/123/123/36229
+http://dnsl.me:80/Kleber2021/2021kleber/5998
+#EXTINF:-1,TBS HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64041
+#EXTINF:-1,TBS SD
+http://dnsl.me:80/Kleber2021/2021kleber/5999
+#EXTINF:-1,TCM FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49284
 #EXTINF:-1,TCM HD
-http://dragoniptv.iptf.me:8080/123/123/36228
-#EXTINF:-1,TELECINE ACTION HD
-http://dragoniptv.iptf.me:8080/123/123/36230
-#EXTINF:-1,Telecine Cult
-http://dragoniptv.iptf.me:8080/123/123/36233
-#EXTINF:-1,TELECINE CULT HD
-http://dragoniptv.iptf.me:8080/123/123/36232
-#EXTINF:-1,Telecine Fun
-http://dragoniptv.iptf.me:8080/123/123/36235
-#EXTINF:-1,TELECINE FUN HD
-http://dragoniptv.iptf.me:8080/123/123/36234
-#EXTINF:-1,Telecine Pipoca
-http://dragoniptv.iptf.me:8080/123/123/36237
-#EXTINF:-1,TELECINE PIPOCA HD
-http://dragoniptv.iptf.me:8080/123/123/36236
-#EXTINF:-1,Telecine Premium
-http://dragoniptv.iptf.me:8080/123/123/36239
-#EXTINF:-1,TELECINE PREMIUM HD
-http://dragoniptv.iptf.me:8080/123/123/36238
-#EXTINF:-1,Telecine Touch
-http://dragoniptv.iptf.me:8080/123/123/36241
-#EXTINF:-1,TELECINE TOUCH HD
-http://dragoniptv.iptf.me:8080/123/123/36240
-#EXTINF:-1,TLC
-http://dragoniptv.iptf.me:8080/123/123/36243
-#EXTINF:-1,TLC HD
-http://dragoniptv.iptf.me:8080/123/123/36242
-#EXTINF:-1,TNT
-http://dragoniptv.iptf.me:8080/123/123/36245
+http://dnsl.me:80/Kleber2021/2021kleber/25663
+#EXTINF:-1,TCM HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64042
+#EXTINF:-1,TCM SD
+http://dnsl.me:80/Kleber2021/2021kleber/3738
+#EXTINF:-1,Telecine Action FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3895
+#EXTINF:-1,Telecine Action FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63953
+#EXTINF:-1,Telecine Action HD
+http://dnsl.me:80/Kleber2021/2021kleber/3896
+#EXTINF:-1,Telecine Action HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64045
+#EXTINF:-1,Telecine Action SD
+http://dnsl.me:80/Kleber2021/2021kleber/4076
+#EXTINF:-1,Telecine Cult FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3897
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63954
+#EXTINF:-1,Telecine Cult HD
+http://dnsl.me:80/Kleber2021/2021kleber/3898
+#EXTINF:-1,Telecine Cult HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64046
+#EXTINF:-1,Telecine Cult SD
+http://dnsl.me:80/Kleber2021/2021kleber/4078
+#EXTINF:-1,Telecine Fun FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3899
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63955
+#EXTINF:-1,Telecine Fun HD
+http://dnsl.me:80/Kleber2021/2021kleber/3900
+#EXTINF:-1,Telecine Fun HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64047
+#EXTINF:-1,Telecine Fun SD
+http://dnsl.me:80/Kleber2021/2021kleber/4080
+#EXTINF:-1,Telecine Pipoca 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49551
+#EXTINF:-1,Telecine Pipoca FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3901
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63956
+#EXTINF:-1,Telecine Pipoca HD
+http://dnsl.me:80/Kleber2021/2021kleber/3902
+#EXTINF:-1,Telecine Pipoca HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64048
+#EXTINF:-1,Telecine Pipoca SD
+http://dnsl.me:80/Kleber2021/2021kleber/4082
+#EXTINF:-1,Telecine Premium 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49552
+#EXTINF:-1,Telecine Premium FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3903
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63957
+#EXTINF:-1,Telecine Premium HD
+http://dnsl.me:80/Kleber2021/2021kleber/3904
+#EXTINF:-1,Telecine Premium HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64049
+#EXTINF:-1,Telecine Premium SD
+http://dnsl.me:80/Kleber2021/2021kleber/4596
+#EXTINF:-1,Telecine Touch FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3905
+#EXTINF:-1,Telecine Touch FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63958
+#EXTINF:-1,Telecine Touch HD
+http://dnsl.me:80/Kleber2021/2021kleber/3906
+#EXTINF:-1,Telecine Touch HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64050
+#EXTINF:-1,Telecine Touch SD
+http://dnsl.me:80/Kleber2021/2021kleber/4578
+#EXTINF:-1,Terra Viva FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62608
+#EXTINF:-1,Terra Viva HD
+http://dnsl.me:80/Kleber2021/2021kleber/48974
+#EXTINF:-1,Terra Viva SD
+http://dnsl.me:80/Kleber2021/2021kleber/49602
+#EXTINF:-1,The KPOP FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48607
+#EXTINF:-1,TNT 4K
+http://dnsl.me:80/Kleber2021/2021kleber/57274
+#EXTINF:-1,TNT FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3739
+#EXTINF:-1,TNT FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63960
 #EXTINF:-1,TNT HD
-http://dragoniptv.iptf.me:8080/123/123/36244
-#EXTINF:-1,TNT Series
-http://dragoniptv.iptf.me:8080/123/123/36247
-#EXTINF:-1,TNT SERIES HD
-http://dragoniptv.iptf.me:8080/123/123/36246
-#EXTINF:-1,Tooncast
-http://dragoniptv.iptf.me:8080/123/123/36249
+http://dnsl.me:80/Kleber2021/2021kleber/3740
+#EXTINF:-1,TNT HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64035
+#EXTINF:-1,TNT SD
+http://dnsl.me:80/Kleber2021/2021kleber/4340
+#EXTINF:-1,TNT Series 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49553
+#EXTINF:-1,TNT Series FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3741
+#EXTINF:-1,TNT Series FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63961
+#EXTINF:-1,TNT Series HD
+http://dnsl.me:80/Kleber2021/2021kleber/3742
+#EXTINF:-1,TNT Series HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64036
+#EXTINF:-1,TNT Series SD
+http://dnsl.me:80/Kleber2021/2021kleber/4338
+#EXTINF:-1,Tooncast FHD
+http://dnsl.me:80/Kleber2021/2021kleber/5993
 #EXTINF:-1,Tooncast HD
-http://dragoniptv.iptf.me:8080/123/123/36248
-#EXTINF:-1,TV CULTURA HD
-http://dragoniptv.iptf.me:8080/123/123/36250
+http://dnsl.me:80/Kleber2021/2021kleber/8049
+#EXTINF:-1,Tooncast HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64088
+#EXTINF:-1,Tooncast SD
+http://dnsl.me:80/Kleber2021/2021kleber/3840
+#EXTINF:-1,Travel Box Brazil FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62828
+#EXTINF:-1,Travel Box Brazil HD
+http://dnsl.me:80/Kleber2021/2021kleber/4186
+#EXTINF:-1,Travel Box Brazil HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63994
+#EXTINF:-1,TruTV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49285
+#EXTINF:-1,TruTV HD
+http://dnsl.me:80/Kleber2021/2021kleber/4499
+#EXTINF:-1,TruTV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64021
+#EXTINF:-1,TruTV SD
+http://dnsl.me:80/Kleber2021/2021kleber/40628
+#EXTINF:-1,TV Aparecida FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48637
+#EXTINF:-1,TV Aparecida SD
+http://dnsl.me:80/Kleber2021/2021kleber/49603
+#EXTINF:-1,TV Brasil HD
+http://dnsl.me:80/Kleber2021/2021kleber/48975
+#EXTINF:-1,TV Camara SD
+http://dnsl.me:80/Kleber2021/2021kleber/48964
+#EXTINF:-1,TV Capixaba
+http://dnsl.me:80/Kleber2021/2021kleber/49582
+#EXTINF:-1,TV Coxa HD
+http://dnsl.me:80/Kleber2021/2021kleber/63365
+#EXTINF:-1,TV Cultura FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49587
+#EXTINF:-1,TV Cultura HD
+http://dnsl.me:80/Kleber2021/2021kleber/48981
+#EXTINF:-1,TV Cultura SD
+http://dnsl.me:80/Kleber2021/2021kleber/48962
+#EXTINF:-1,TV das Artes
+http://dnsl.me:80/Kleber2021/2021kleber/48978
+#EXTINF:-1,TV Diário FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49520
+#EXTINF:-1,TV Diário HD
+http://dnsl.me:80/Kleber2021/2021kleber/49519
+#EXTINF:-1,TV Diário SD
+http://dnsl.me:80/Kleber2021/2021kleber/49521
+#EXTINF:-1,TV Escola SD
+http://dnsl.me:80/Kleber2021/2021kleber/48966
+#EXTINF:-1,TV Evangelizar SD
+http://dnsl.me:80/Kleber2021/2021kleber/48638
+#EXTINF:-1,TV Furacao HD
+http://dnsl.me:80/Kleber2021/2021kleber/63366
+#EXTINF:-1,TV Gazeta 4K
+http://dnsl.me:80/Kleber2021/2021kleber/49554
+#EXTINF:-1,TV Gazeta Alagoas FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48567
+#EXTINF:-1,TV Gazeta Alagoas SD
+http://dnsl.me:80/Kleber2021/2021kleber/48568
+#EXTINF:-1,TV Gazeta FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48569
 #EXTINF:-1,TV Gazeta HD
-http://dragoniptv.iptf.me:8080/123/123/36251
-#EXTINF:-1,TV Ra Tim Bum
-http://dragoniptv.iptf.me:8080/123/123/36253
+http://dnsl.me:80/Kleber2021/2021kleber/48570
+#EXTINF:-1,TV Gazeta SP HD
+http://dnsl.me:80/Kleber2021/2021kleber/34172
+#EXTINF:-1,TV Gazeta Sul SD
+http://dnsl.me:80/Kleber2021/2021kleber/48571
+#EXTINF:-1,TV Gideoes HD
+http://dnsl.me:80/Kleber2021/2021kleber/48639
+#EXTINF:-1,TV Imaculada HD
+http://dnsl.me:80/Kleber2021/2021kleber/48640
+#EXTINF:-1,TV Justica SD
+http://dnsl.me:80/Kleber2021/2021kleber/48963
+#EXTINF:-1,TV Liberal Belém HD
+http://dnsl.me:80/Kleber2021/2021kleber/40633
+#EXTINF:-1,TV Liberal Belém SD
+http://dnsl.me:80/Kleber2021/2021kleber/49604
+#EXTINF:-1,TV Novo Tempo FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48641
+#EXTINF:-1,TV Novo Tempo HD
+http://dnsl.me:80/Kleber2021/2021kleber/48642
+#EXTINF:-1,TV Novo Tempo SD
+http://dnsl.me:80/Kleber2021/2021kleber/49607
+#EXTINF:-1,TV Pai Eterno FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48643
+#EXTINF:-1,TV Pai Eterno HD
+http://dnsl.me:80/Kleber2021/2021kleber/48644
+#EXTINF:-1,TV Pampa RS HD
+http://dnsl.me:80/Kleber2021/2021kleber/48976
 #EXTINF:-1,TV Ra Tim Bum HD
-http://dragoniptv.iptf.me:8080/123/123/36252
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://dragoniptv.iptf.me:8080/123/123/36254
-#EXTINF:-1,Universal TV
-http://dragoniptv.iptf.me:8080/123/123/36255
-#EXTINF:-1,VH1
-http://dragoniptv.iptf.me:8080/123/123/36256
+http://dnsl.me:80/Kleber2021/2021kleber/4560
+#EXTINF:-1,TV Ra Tim Bum HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64086
+#EXTINF:-1,TV Ra Tim Bum SD
+http://dnsl.me:80/Kleber2021/2021kleber/4561
+#EXTINF:-1,TV Rio Sul HD
+http://dnsl.me:80/Kleber2021/2021kleber/40660
+#EXTINF:-1,TV Rio Sul SD
+http://dnsl.me:80/Kleber2021/2021kleber/48572
+#EXTINF:-1,TV Santa Cruz FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48573
+#EXTINF:-1,TV Santa Cruz HD
+http://dnsl.me:80/Kleber2021/2021kleber/40657
+#EXTINF:-1,TV Santa Cruz SD
+http://dnsl.me:80/Kleber2021/2021kleber/48574
+#EXTINF:-1,TV Senado FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49605
+#EXTINF:-1,TV Senado SD
+http://dnsl.me:80/Kleber2021/2021kleber/49606
+#EXTINF:-1,TV Sergipe FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48575
+#EXTINF:-1,TV Sergipe SD
+http://dnsl.me:80/Kleber2021/2021kleber/48576
+#EXTINF:-1,TV Subae HD
+http://dnsl.me:80/Kleber2021/2021kleber/49571
+#EXTINF:-1,TV Tem Bauru FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48577
+#EXTINF:-1,TV Tem Bauru HD
+http://dnsl.me:80/Kleber2021/2021kleber/48578
+#EXTINF:-1,TV Tem Bauru SD
+http://dnsl.me:80/Kleber2021/2021kleber/48579
+#EXTINF:-1,TV TEM Itapetininga FHD
+http://dnsl.me:80/Kleber2021/2021kleber/64192
+#EXTINF:-1,TV TEM Itapetininga HD
+http://dnsl.me:80/Kleber2021/2021kleber/64193
+#EXTINF:-1,TV UAI HD
+http://dnsl.me:80/Kleber2021/2021kleber/48977
+#EXTINF:-1,TV Vitória ES FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49575
+#EXTINF:-1,TV Vitória ES HD
+http://dnsl.me:80/Kleber2021/2021kleber/49576
+#EXTINF:-1,TV Vitória ES SD
+http://dnsl.me:80/Kleber2021/2021kleber/49574
+#EXTINF:-1,TVE Bahia
+http://dnsl.me:80/Kleber2021/2021kleber/49377
+#EXTINF:-1,TVE FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48979
+#EXTINF:-1,TVE RS FHD
+http://dnsl.me:80/Kleber2021/2021kleber/48980
+#EXTINF:-1,TVNSports 1 HD
+http://dnsl.me:80/Kleber2021/2021kleber/64189
+#EXTINF:-1,TVNSports 2 HD
+http://dnsl.me:80/Kleber2021/2021kleber/64190
+#EXTINF:-1,TVNSports 3 HD
+http://dnsl.me:80/Kleber2021/2021kleber/64191
+#EXTINF:-1,Universal TV FHD
+http://dnsl.me:80/Kleber2021/2021kleber/28860
+#EXTINF:-1,Universal TV FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63962
+#EXTINF:-1,Universal TV HD
+http://dnsl.me:80/Kleber2021/2021kleber/3744
+#EXTINF:-1,Universal TV HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64037
+#EXTINF:-1,Universal TV SD
+http://dnsl.me:80/Kleber2021/2021kleber/4335
+#EXTINF:-1,VH1 FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63963
 #EXTINF:-1,VH1 HD
-http://dragoniptv.iptf.me:8080/123/123/36257
-#EXTINF:-1,Viva
-http://dragoniptv.iptf.me:8080/123/123/36259
-#EXTINF:-1,VIVA HD
-http://dragoniptv.iptf.me:8080/123/123/36258
-#EXTINF:-1,Warner Channel
-http://dragoniptv.iptf.me:8080/123/123/36261
-#EXTINF:-1,WARNER CHANNEL HD
-http://dragoniptv.iptf.me:8080/123/123/36260
-#EXTINF:-1,Woohoo
-http://dragoniptv.iptf.me:8080/123/123/36263
-#EXTINF:-1,Woohoo HD
-http://dragoniptv.iptf.me:8080/123/123/36262
-#EXTINF:-1,Zoomoo
-http://dragoniptv.iptf.me:8080/123/123/36265
-#EXTINF:-1,Zoomoo HD
-http://dragoniptv.iptf.me:8080/123/123/36264
+http://dnsl.me:80/Kleber2021/2021kleber/4190
+#EXTINF:-1,VH1 HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63995
+#EXTINF:-1,VH1 MegaHits FHD
+http://dnsl.me:80/Kleber2021/2021kleber/49286
+#EXTINF:-1,VH1 MegaHits HD
+http://dnsl.me:80/Kleber2021/2021kleber/8108
+#EXTINF:-1,VH1 MegaHits HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63999
+#EXTINF:-1,VH1 MegaHits SD
+http://dnsl.me:80/Kleber2021/2021kleber/4191
+#EXTINF:-1,Viva FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4193
+#EXTINF:-1,Viva HD
+http://dnsl.me:80/Kleber2021/2021kleber/4195
+#EXTINF:-1,Viva HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/63996
+#EXTINF:-1,Viva SD
+http://dnsl.me:80/Kleber2021/2021kleber/4196
+#EXTINF:-1,Warner Channel FHD
+http://dnsl.me:80/Kleber2021/2021kleber/3745
+#EXTINF:-1,Warner Channel FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63964
+#EXTINF:-1,Warner Channel HD
+http://dnsl.me:80/Kleber2021/2021kleber/4333
+#EXTINF:-1,Warner Channel HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64038
+#EXTINF:-1,Warner Channel SD
+http://dnsl.me:80/Kleber2021/2021kleber/4334
+#EXTINF:-1,WooHoo FHD
+http://dnsl.me:80/Kleber2021/2021kleber/4197
+#EXTINF:-1,WooHoo FHD [H265]
+http://dnsl.me:80/Kleber2021/2021kleber/63965
+#EXTINF:-1,WooHoo HD
+http://dnsl.me:80/Kleber2021/2021kleber/4199
+#EXTINF:-1,WooHoo SD
+http://dnsl.me:80/Kleber2021/2021kleber/4200
+#EXTINF:-1,Yeeaah HD
+http://dnsl.me:80/Kleber2021/2021kleber/48609
+#EXTINF:-1,Yeeaah HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64003
+#EXTINF:-1,ZooMoo FHD
+http://dnsl.me:80/Kleber2021/2021kleber/62825
+#EXTINF:-1,ZooMoo HD
+http://dnsl.me:80/Kleber2021/2021kleber/5995
+#EXTINF:-1,ZooMoo HD [Alter]
+http://dnsl.me:80/Kleber2021/2021kleber/64087
+#EXTINF:-1,ZooMoo SD
+http://dnsl.me:80/Kleber2021/2021kleber/3839

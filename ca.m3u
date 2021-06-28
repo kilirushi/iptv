@@ -1,585 +1,441 @@
 #EXTM3U
 #EXTINF:-1,A&E
-http://dragoniptv.iptf.me:8080/123/123/36266
-#EXTINF:-1,A&E HD
-http://dragoniptv.iptf.me:8080/123/123/36267
-#EXTINF:-1,ABC EAST
-http://dragoniptv.iptf.me:8080/123/123/36268
-#EXTINF:-1,ABC East HD
-http://dragoniptv.iptf.me:8080/123/123/36269
-#EXTINF:-1,ABC HD
-http://dragoniptv.iptf.me:8080/123/123/36270
-#EXTINF:-1,ABC SPARK
-http://dragoniptv.iptf.me:8080/123/123/36271
-#EXTINF:-1,ABC West
-http://dragoniptv.iptf.me:8080/123/123/36272
-#EXTINF:-1,Action
-http://dragoniptv.iptf.me:8080/123/123/36273
-#EXTINF:-1,ADDIK
-http://dragoniptv.iptf.me:8080/123/123/36274
-#EXTINF:-1,AHC
-http://dragoniptv.iptf.me:8080/123/123/36275
+http://209.222.101.100:25461/tv/tv/21814
+#EXTINF:-1,ABC_Buffalo_(WKBW)
+http://209.222.101.100:25461/tv/tv/21815
+#EXTINF:-1,ABC_Spark
+http://209.222.101.100:25461/tv/tv/21816
+#EXTINF:-1,Addik TV (FR)
+http://209.222.101.100:25461/tv/tv/21817
+#EXTINF:-1,Adult Swim
+http://209.222.101.100:25461/tv/tv/21818
 #EXTINF:-1,AMC
-http://dragoniptv.iptf.me:8080/123/123/36276
-#EXTINF:-1,ANIMAL PLANET
-http://dragoniptv.iptf.me:8080/123/123/36277
-#EXTINF:-1,Animal Planet HD
-http://dragoniptv.iptf.me:8080/123/123/36278
+http://209.222.101.100:25461/tv/tv/21819
+#EXTINF:-1,Amercian Heroes
+http://209.222.101.100:25461/tv/tv/21820
+#EXTINF:-1,AMI-tÃ©lÃ© FR
+http://209.222.101.100:25461/tv/tv/21821
+#EXTINF:-1,Animal Planet
+http://209.222.101.100:25461/tv/tv/21822
 #EXTINF:-1,APTN
-http://dragoniptv.iptf.me:8080/123/123/36279
-#EXTINF:-1,Assembl?e Nationale Qu?ebec
-http://dragoniptv.iptf.me:8080/123/123/36280
-#EXTINF:-1,BBC
-http://dragoniptv.iptf.me:8080/123/123/36281
-#EXTINF:-1,BBC EARTH
-http://dragoniptv.iptf.me:8080/123/123/36282
+http://209.222.101.100:25461/tv/tv/21823
+#EXTINF:-1,BBC Canada
+http://209.222.101.100:25461/tv/tv/21824
 #EXTINF:-1,BBC WORLD NEWS
-http://dragoniptv.iptf.me:8080/123/123/36283
+http://209.222.101.100:25461/tv/tv/21825
 #EXTINF:-1,BET
-http://dragoniptv.iptf.me:8080/123/123/36284
-#EXTINF:-1,BNN BLOOMBERG
-http://dragoniptv.iptf.me:8080/123/123/36285
+http://209.222.101.100:25461/tv/tv/21826
+#EXTINF:-1,BNN_Bloomberg
+http://209.222.101.100:25461/tv/tv/21827
 #EXTINF:-1,BOOK TV
-http://dragoniptv.iptf.me:8080/123/123/36286
-#EXTINF:-1,Bravo TV
-http://dragoniptv.iptf.me:8080/123/123/36287
-#EXTINF:-1,CABLE 14 ONTARIO
-http://dragoniptv.iptf.me:8080/123/123/36288
-#EXTINF:-1,CANADA ONE
-http://dragoniptv.iptf.me:8080/123/123/36289
-#EXTINF:-1,CANAL D
-http://dragoniptv.iptf.me:8080/123/123/36290
-#EXTINF:-1,CASA
-http://dragoniptv.iptf.me:8080/123/123/36293
+http://209.222.101.100:25461/tv/tv/21828
+#EXTINF:-1,CablePulse 24
+http://209.222.101.100:25461/tv/tv/21829
+#EXTINF:-1,Canal D (FR)
+http://209.222.101.100:25461/tv/tv/21830
+#EXTINF:-1,Canal Savoir
+http://209.222.101.100:25461/tv/tv/21831
+#EXTINF:-1,CARTOON NETWORK
+http://209.222.101.100:25461/tv/tv/21832
+#EXTINF:-1,Cartoon Network
+http://209.222.101.100:25461/tv/tv/21833
+#EXTINF:-1,CASA (FR)
+http://209.222.101.100:25461/tv/tv/21834
 #EXTINF:-1,CBC
-http://dragoniptv.iptf.me:8080/123/123/36294
-#EXTINF:-1,CBC CALGARY
-http://dragoniptv.iptf.me:8080/123/123/36295
-#EXTINF:-1,CBC CHARLOTTETOWN
-http://dragoniptv.iptf.me:8080/123/123/36296
-#EXTINF:-1,CBC EDMONTON
-http://dragoniptv.iptf.me:8080/123/123/36297
+http://209.222.101.100:25461/tv/tv/21835
+#EXTINF:-1,CBC Calgary
+http://209.222.101.100:25461/tv/tv/21836
+#EXTINF:-1,CACBC News Network
+http://209.222.101.100:25461/tv/tv/21837
+#EXTINF:-1,CBC Charlottetown
+http://209.222.101.100:25461/tv/tv/21838
+#EXTINF:-1,CBC Edmonton
+http://209.222.101.100:25461/tv/tv/21839
 #EXTINF:-1,CBC Fredericton
-http://dragoniptv.iptf.me:8080/123/123/36298
-#EXTINF:-1,CBC HALIFAX
-http://dragoniptv.iptf.me:8080/123/123/36299
-#EXTINF:-1,CBC HD
-http://dragoniptv.iptf.me:8080/123/123/36300
-#EXTINF:-1,CBC MONTREAL
-http://dragoniptv.iptf.me:8080/123/123/36301
+http://209.222.101.100:25461/tv/tv/21840
+#EXTINF:-1,CBC Halifax
+http://209.222.101.100:25461/tv/tv/21841
+#EXTINF:-1,CBC Montreal
+http://209.222.101.100:25461/tv/tv/21842
+#EXTINF:-1,CBC Montreal
+http://209.222.101.100:25461/tv/tv/21843
 #EXTINF:-1,CBC Montreal HD
-http://dragoniptv.iptf.me:8080/123/123/36302
-#EXTINF:-1,CBC NEWS
-http://dragoniptv.iptf.me:8080/123/123/36303
-#EXTINF:-1,CBC NOVA SCOTIA
-http://dragoniptv.iptf.me:8080/123/123/36304
+http://209.222.101.100:25461/tv/tv/21844
+#EXTINF:-1,CBC News Network
+http://209.222.101.100:25461/tv/tv/21845
+#EXTINF:-1,CBC Oshawa (CHEX2)
+http://209.222.101.100:25461/tv/tv/21846
 #EXTINF:-1,CBC OTTAWA
-http://dragoniptv.iptf.me:8080/123/123/36305
-#EXTINF:-1,CBC REGINA
-http://dragoniptv.iptf.me:8080/123/123/36306
-#EXTINF:-1,CBC ST.JOHNS
-http://dragoniptv.iptf.me:8080/123/123/36307
+http://209.222.101.100:25461/tv/tv/21847
+#EXTINF:-1,CBC Ottawa
+http://209.222.101.100:25461/tv/tv/21848
+#EXTINF:-1,CBC Regina
+http://209.222.101.100:25461/tv/tv/21849
+#EXTINF:-1,CBC St. John's (CBNT)
+http://209.222.101.100:25461/tv/tv/21850
+#EXTINF:-1,CBC St_John_s
+http://209.222.101.100:25461/tv/tv/21851
 #EXTINF:-1,CBC TORONTO
-http://dragoniptv.iptf.me:8080/123/123/36308
+http://209.222.101.100:25461/tv/tv/21852
+#EXTINF:-1,CBC Toronto
+http://209.222.101.100:25461/tv/tv/21853
+#EXTINF:-1,CBC Toronto (CBLT)
+http://209.222.101.100:25461/tv/tv/21854
 #EXTINF:-1,CBC VANCOUVER
-http://dragoniptv.iptf.me:8080/123/123/36309
-#EXTINF:-1,CBC WINDSOR
-http://dragoniptv.iptf.me:8080/123/123/36310
-#EXTINF:-1,CBC WINDSOR HD
-http://dragoniptv.iptf.me:8080/123/123/36311
-#EXTINF:-1,CBC WINNIPEG
-http://dragoniptv.iptf.me:8080/123/123/36312
-#EXTINF:-1,CBS
-http://dragoniptv.iptf.me:8080/123/123/36313
-#EXTINF:-1,CBS EAST
-http://dragoniptv.iptf.me:8080/123/123/36314
-#EXTINF:-1,CBS WEST
-http://dragoniptv.iptf.me:8080/123/123/36315
+http://209.222.101.100:25461/tv/tv/21855
+#EXTINF:-1,CBC Vancouver
+http://209.222.101.100:25461/tv/tv/21856
+#EXTINF:-1,CBC Windsor
+http://209.222.101.100:25461/tv/tv/21857
+#EXTINF:-1,CBC Winnipeg
+http://209.222.101.100:25461/tv/tv/21858
+#EXTINF:-1,CBC Yellowknife
+http://209.222.101.100:25461/tv/tv/21859
+#EXTINF:-1,CBC3
+http://209.222.101.100:25461/tv/tv/21860
+#EXTINF:-1,CBCLGARY
+http://209.222.101.100:25461/tv/tv/21861
 #EXTINF:-1,CHCH
-http://dragoniptv.iptf.me:8080/123/123/36316
-#EXTINF:-1,CINE POP
-http://dragoniptv.iptf.me:8080/123/123/36317
-#EXTINF:-1,CITY CALGARY
-http://dragoniptv.iptf.me:8080/123/123/36318
+http://209.222.101.100:25461/tv/tv/21862
+#EXTINF:-1,CinePOP (FR)
+http://209.222.101.100:25461/tv/tv/21863
 #EXTINF:-1,CITY MONTREAL
-http://dragoniptv.iptf.me:8080/123/123/36319
+http://209.222.101.100:25461/tv/tv/21864
 #EXTINF:-1,CITY TORONTO
-http://dragoniptv.iptf.me:8080/123/123/36320
-#EXTINF:-1,CITY TV
-http://dragoniptv.iptf.me:8080/123/123/36321
+http://209.222.101.100:25461/tv/tv/21865
 #EXTINF:-1,CITY VANCOUVER
-http://dragoniptv.iptf.me:8080/123/123/36322
+http://209.222.101.100:25461/tv/tv/21866
 #EXTINF:-1,CITYLGARY
-http://dragoniptv.iptf.me:8080/123/123/36323
+http://209.222.101.100:25461/tv/tv/21867
+#EXTINF:-1,Citytv Toronto
+http://209.222.101.100:25461/tv/tv/21868
 #EXTINF:-1,CMT
-http://dragoniptv.iptf.me:8080/123/123/36324
+http://209.222.101.100:25461/tv/tv/21869
 #EXTINF:-1,CNBC
-http://dragoniptv.iptf.me:8080/123/123/36325
+http://209.222.101.100:25461/tv/tv/21870
 #EXTINF:-1,CNN
-http://dragoniptv.iptf.me:8080/123/123/36326
-#EXTINF:-1,CNN HD
-http://dragoniptv.iptf.me:8080/123/123/36327
+http://209.222.101.100:25461/tv/tv/21871
 #EXTINF:-1,CNN INTERNATIONAL
-http://dragoniptv.iptf.me:8080/123/123/36328
-#EXTINF:-1,Comedy East
-http://dragoniptv.iptf.me:8080/123/123/36329
+http://209.222.101.100:25461/tv/tv/21872
 #EXTINF:-1,COOKING CHANNEL
-http://dragoniptv.iptf.me:8080/123/123/36330
+http://209.222.101.100:25461/tv/tv/21873
 #EXTINF:-1,COTTAGE LIFE
-http://dragoniptv.iptf.me:8080/123/123/36331
+http://209.222.101.100:25461/tv/tv/21874
 #EXTINF:-1,CP24
-http://dragoniptv.iptf.me:8080/123/123/36332
-#EXTINF:-1,CP24 HD
-http://dragoniptv.iptf.me:8080/123/123/36333
-#EXTINF:-1,CPAC
-http://dragoniptv.iptf.me:8080/123/123/36334
-#EXTINF:-1,CPAC HD
-http://dragoniptv.iptf.me:8080/123/123/36335
-#EXTINF:-1,CRAVE 1
-http://dragoniptv.iptf.me:8080/123/123/36336
-#EXTINF:-1,CRAVE 2
-http://dragoniptv.iptf.me:8080/123/123/36337
-#EXTINF:-1,CRAVE 3
-http://dragoniptv.iptf.me:8080/123/123/36338
-#EXTINF:-1,CRAVE 4
-http://dragoniptv.iptf.me:8080/123/123/36339
+http://209.222.101.100:25461/tv/tv/21875
+#EXTINF:-1,CP24 (Backup)
+http://209.222.101.100:25461/tv/tv/21876
+#EXTINF:-1,CPAC EN
+http://209.222.101.100:25461/tv/tv/21877
+#EXTINF:-1,CPAC FR
+http://209.222.101.100:25461/tv/tv/21878
+#EXTINF:-1,Crave 1
+http://209.222.101.100:25461/tv/tv/21879
+#EXTINF:-1,Crave 2
+http://209.222.101.100:25461/tv/tv/21880
+#EXTINF:-1,Crave 3
+http://209.222.101.100:25461/tv/tv/21881
+#EXTINF:-1,Crave 4
+http://209.222.101.100:25461/tv/tv/21882
+#EXTINF:-1,Crime & Investigation
+http://209.222.101.100:25461/tv/tv/21883
 #EXTINF:-1,CRIME INVESTIGATION
-http://dragoniptv.iptf.me:8080/123/123/36340
+http://209.222.101.100:25461/tv/tv/21884
 #EXTINF:-1,CTV
-http://dragoniptv.iptf.me:8080/123/123/36341
-#EXTINF:-1,CTV 2 OTTAWA
-http://dragoniptv.iptf.me:8080/123/123/36342
+http://209.222.101.100:25461/tv/tv/21885
 #EXTINF:-1,CTV 2 VANCOUVER
-http://dragoniptv.iptf.me:8080/123/123/36343
-#EXTINF:-1,CTV CALGARY
-http://dragoniptv.iptf.me:8080/123/123/36344
+http://209.222.101.100:25461/tv/tv/21886
 #EXTINF:-1,CTV COMEDY
-http://dragoniptv.iptf.me:8080/123/123/36345
-#EXTINF:-1,CTV DRAMA
-http://dragoniptv.iptf.me:8080/123/123/36346
+http://209.222.101.100:25461/tv/tv/21887
+#EXTINF:-1,CTV Drama
+http://209.222.101.100:25461/tv/tv/21888
 #EXTINF:-1,CTV HALIFAX
-http://dragoniptv.iptf.me:8080/123/123/36347
-#EXTINF:-1,CTV KITCHENER
-http://dragoniptv.iptf.me:8080/123/123/36348
-#EXTINF:-1,CTV LIFE
-http://dragoniptv.iptf.me:8080/123/123/36349
-#EXTINF:-1,CTV LONDON
-http://dragoniptv.iptf.me:8080/123/123/36350
+http://209.222.101.100:25461/tv/tv/21889
 #EXTINF:-1,CTV MONTREAL
-http://dragoniptv.iptf.me:8080/123/123/36351
-#EXTINF:-1,CTV NEWS
-http://dragoniptv.iptf.me:8080/123/123/36352
-#EXTINF:-1,CTV News Barrie
-http://dragoniptv.iptf.me:8080/123/123/36353
+http://209.222.101.100:25461/tv/tv/21890
+#EXTINF:-1,CTV News Live Events 1
+http://209.222.101.100:25461/tv/tv/21891
+#EXTINF:-1,CTV News Live Events 2
+http://209.222.101.100:25461/tv/tv/21892
+#EXTINF:-1,CTV News Live Events 3
+http://209.222.101.100:25461/tv/tv/21893
+#EXTINF:-1,CTV News Live Events 4
+http://209.222.101.100:25461/tv/tv/21894
 #EXTINF:-1,CTV NEWS NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36354
+http://209.222.101.100:25461/tv/tv/21895
 #EXTINF:-1,CTV OTTAWA
-http://dragoniptv.iptf.me:8080/123/123/36355
+http://209.222.101.100:25461/tv/tv/21896
 #EXTINF:-1,CTV SCI-FI
-http://dragoniptv.iptf.me:8080/123/123/36356
+http://209.222.101.100:25461/tv/tv/21897
 #EXTINF:-1,CTV TORONTO
-http://dragoniptv.iptf.me:8080/123/123/36357
+http://209.222.101.100:25461/tv/tv/21898
+#EXTINF:-1,CTV TORONTO (CFTO)
+http://209.222.101.100:25461/tv/tv/21899
 #EXTINF:-1,CTV VANCOUVER
-http://dragoniptv.iptf.me:8080/123/123/36358
-#EXTINF:-1,CTV WINNIPEG
-http://dragoniptv.iptf.me:8080/123/123/36359
+http://209.222.101.100:25461/tv/tv/21900
 #EXTINF:-1,CTV2 OTTAWA
-http://dragoniptv.iptf.me:8080/123/123/36360
-#EXTINF:-1,Curiosity Stream
-http://dragoniptv.iptf.me:8080/123/123/36361
-#EXTINF:-1,CW 11
-http://dragoniptv.iptf.me:8080/123/123/36362
-#EXTINF:-1,DAYSTAR
-http://dragoniptv.iptf.me:8080/123/123/36363
+http://209.222.101.100:25461/tv/tv/21901
+#EXTINF:-1,CTVLGARY
+http://209.222.101.100:25461/tv/tv/21902
+#EXTINF:-1,CTV_Two_Atlantic
+http://209.222.101.100:25461/tv/tv/21903
+#EXTINF:-1,DAYSTAR TV
+http://209.222.101.100:25461/tv/tv/21904
 #EXTINF:-1,DEJAVIEW
-http://dragoniptv.iptf.me:8080/123/123/36364
-#EXTINF:-1,DISCOVERY CHANNEL
-http://dragoniptv.iptf.me:8080/123/123/36365
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://dragoniptv.iptf.me:8080/123/123/36366
+http://209.222.101.100:25461/tv/tv/21905
+#EXTINF:-1,Discovery Channel
+http://209.222.101.100:25461/tv/tv/21906
 #EXTINF:-1,DISCOVERY SCIENCE
-http://dragoniptv.iptf.me:8080/123/123/36367
-#EXTINF:-1,DISNEY CHANNEL
-http://dragoniptv.iptf.me:8080/123/123/36368
-#EXTINF:-1,DISNEY FRENCH
-http://dragoniptv.iptf.me:8080/123/123/36369
-#EXTINF:-1,DISNEY JR
-http://dragoniptv.iptf.me:8080/123/123/36370
+http://209.222.101.100:25461/tv/tv/21907
+#EXTINF:-1,Disney Channel
+http://209.222.101.100:25461/tv/tv/21908
 #EXTINF:-1,Disney Junior
-http://dragoniptv.iptf.me:8080/123/123/36371
-#EXTINF:-1,DISNEY XD HD
-http://dragoniptv.iptf.me:8080/123/123/36372
-#EXTINF:-1,DIY
-http://dragoniptv.iptf.me:8080/123/123/36373
-#EXTINF:-1,DIY NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36374
-#EXTINF:-1,DOCUMENTARY
-http://dragoniptv.iptf.me:8080/123/123/36375
+http://209.222.101.100:25461/tv/tv/21909
+#EXTINF:-1,Disney Junior (FR)
+http://209.222.101.100:25461/tv/tv/21910
+#EXTINF:-1,DISNEY_XD
+http://209.222.101.100:25461/tv/tv/21911
+#EXTINF:-1,DIY Network
+http://209.222.101.100:25461/tv/tv/21912
 #EXTINF:-1,DTOUR
-http://dragoniptv.iptf.me:8080/123/123/36376
-#EXTINF:-1,E!
-http://dragoniptv.iptf.me:8080/123/123/36377
-#EXTINF:-1,E! HD
-http://dragoniptv.iptf.me:8080/123/123/36378
-#EXTINF:-1,EQUIDIA LIVE HD
-http://dragoniptv.iptf.me:8080/123/123/36379
-#EXTINF:-1,EVASION
-http://dragoniptv.iptf.me:8080/123/123/36380
-#EXTINF:-1,FAIRCHILD 2
-http://dragoniptv.iptf.me:8080/123/123/36381
-#EXTINF:-1,FAIRCHILD TV
-http://dragoniptv.iptf.me:8080/123/123/36382
-#EXTINF:-1,FAIRCHILD TV Mandarin
-http://dragoniptv.iptf.me:8080/123/123/36383
-#EXTINF:-1,FAIRCHILD TV West
-http://dragoniptv.iptf.me:8080/123/123/36384
+http://209.222.101.100:25461/tv/tv/21913
+#EXTINF:-1,E! Entertainment Television
+http://209.222.101.100:25461/tv/tv/21914
+#EXTINF:-1,Evasion (FR)
+http://209.222.101.100:25461/tv/tv/21915
+#EXTINF:-1,FAMILY
+http://209.222.101.100:25461/tv/tv/21916
 #EXTINF:-1,FAMILY CHRGD
-http://dragoniptv.iptf.me:8080/123/123/36385
-#EXTINF:-1,FAMILY JR
-http://dragoniptv.iptf.me:8080/123/123/36386
-#EXTINF:-1,FAMILY WEST
-http://dragoniptv.iptf.me:8080/123/123/36387
-#EXTINF:-1,FIGHT NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36388
-#EXTINF:-1,FOOD NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36389
-#EXTINF:-1,FOX EAST
-http://dragoniptv.iptf.me:8080/123/123/36390
-#EXTINF:-1,FOX HD
-http://dragoniptv.iptf.me:8080/123/123/36391
+http://209.222.101.100:25461/tv/tv/21917
+#EXTINF:-1,FAMILY_JR
+http://209.222.101.100:25461/tv/tv/21918
+#EXTINF:-1,Food Network
+http://209.222.101.100:25461/tv/tv/21919
 #EXTINF:-1,FOX NEWS
-http://dragoniptv.iptf.me:8080/123/123/36392
-#EXTINF:-1,FOX WEST
-http://dragoniptv.iptf.me:8080/123/123/36393
-#EXTINF:-1,Frissons TV HD
-http://dragoniptv.iptf.me:8080/123/123/36394
-#EXTINF:-1,FTV
-http://dragoniptv.iptf.me:8080/123/123/36395
-#EXTINF:-1,FX HD
-http://dragoniptv.iptf.me:8080/123/123/36396
+http://209.222.101.100:25461/tv/tv/21920
+#EXTINF:-1,FX
+http://209.222.101.100:25461/tv/tv/21921
 #EXTINF:-1,FXX
-http://dragoniptv.iptf.me:8080/123/123/36397
+http://209.222.101.100:25461/tv/tv/21922
 #EXTINF:-1,FYI
-http://dragoniptv.iptf.me:8080/123/123/36398
-#EXTINF:-1,GAME SHOW NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36399
+http://209.222.101.100:25461/tv/tv/21923
 #EXTINF:-1,Game TV
-http://dragoniptv.iptf.me:8080/123/123/36400
-#EXTINF:-1,GINX ESPORTS TV
-http://dragoniptv.iptf.me:8080/123/123/36401
-#EXTINF:-1,GLOBAL CALGARY
-http://dragoniptv.iptf.me:8080/123/123/36402
+http://209.222.101.100:25461/tv/tv/21924
+#EXTINF:-1,Game+
+http://209.222.101.100:25461/tv/tv/21925
 #EXTINF:-1,GLOBAL HALIFAX
-http://dragoniptv.iptf.me:8080/123/123/36403
-#EXTINF:-1,GLOBAL HD
-http://dragoniptv.iptf.me:8080/123/123/36404
-#EXTINF:-1,GLOBAL NEWS WINNIPEG
-http://dragoniptv.iptf.me:8080/123/123/36405
+http://209.222.101.100:25461/tv/tv/21926
+#EXTINF:-1,Global National
+http://209.222.101.100:25461/tv/tv/21927
 #EXTINF:-1,GLOBAL TORONTO
-http://dragoniptv.iptf.me:8080/123/123/36406
+http://209.222.101.100:25461/tv/tv/21928
+#EXTINF:-1,Global Toronto (CIII)
+http://209.222.101.100:25461/tv/tv/21929
 #EXTINF:-1,GLOBAL VANCOUVER
-http://dragoniptv.iptf.me:8080/123/123/36407
+http://209.222.101.100:25461/tv/tv/21930
 #EXTINF:-1,GOLF
-http://dragoniptv.iptf.me:8080/123/123/36408
+http://209.222.101.100:25461/tv/tv/21931
 #EXTINF:-1,GSN
-http://dragoniptv.iptf.me:8080/123/123/36409
+http://209.222.101.100:25461/tv/tv/21932
 #EXTINF:-1,GUSTO
-http://dragoniptv.iptf.me:8080/123/123/36410
+http://209.222.101.100:25461/tv/tv/21933
 #EXTINF:-1,H2
-http://dragoniptv.iptf.me:8080/123/123/36411
-#EXTINF:-1,HBO
-http://dragoniptv.iptf.me:8080/123/123/36412
+http://209.222.101.100:25461/tv/tv/21934
 #EXTINF:-1,HBO 1
-http://dragoniptv.iptf.me:8080/123/123/36413
+http://209.222.101.100:25461/tv/tv/21935
 #EXTINF:-1,HBO 2
-http://dragoniptv.iptf.me:8080/123/123/36414
+http://209.222.101.100:25461/tv/tv/21936
+#EXTINF:-1,Headline News
+http://209.222.101.100:25461/tv/tv/21937
 #EXTINF:-1,HGTV
-http://dragoniptv.iptf.me:8080/123/123/36415
-#EXTINF:-1,Historia
-http://dragoniptv.iptf.me:8080/123/123/36416
-#EXTINF:-1,HISTORY
-http://dragoniptv.iptf.me:8080/123/123/36417
+http://209.222.101.100:25461/tv/tv/21938
+#EXTINF:-1,Historia (FR)
+http://209.222.101.100:25461/tv/tv/21939
+#EXTINF:-1,History Channel
+http://209.222.101.100:25461/tv/tv/21940
 #EXTINF:-1,HLN
-http://dragoniptv.iptf.me:8080/123/123/36418
-#EXTINF:-1,Hollywood Suite 00s
-http://dragoniptv.iptf.me:8080/123/123/36419
-#EXTINF:-1,Hollywood Suite 70s
-http://dragoniptv.iptf.me:8080/123/123/36420
-#EXTINF:-1,Hollywood Suite 80s
-http://dragoniptv.iptf.me:8080/123/123/36421
-#EXTINF:-1,Hollywood Suite 90s
-http://dragoniptv.iptf.me:8080/123/123/36422
-#EXTINF:-1,ICI ARTV
-http://dragoniptv.iptf.me:8080/123/123/36423
-#EXTINF:-1,ICI Montreal
-http://dragoniptv.iptf.me:8080/123/123/36424
+http://209.222.101.100:25461/tv/tv/21941
+#EXTINF:-1,Hollywood Suite 90's
+http://209.222.101.100:25461/tv/tv/21942
+#EXTINF:-1,ICI ARTV (FR)
+http://209.222.101.100:25461/tv/tv/21943
+#EXTINF:-1,ICI Montreal (FR)
+http://209.222.101.100:25461/tv/tv/21944
 #EXTINF:-1,ICI RDI
-http://dragoniptv.iptf.me:8080/123/123/36425
-#EXTINF:-1,ICI TELE MONTREAL
-http://dragoniptv.iptf.me:8080/123/123/36426
-#EXTINF:-1,ICI VANCOUVER
-http://dragoniptv.iptf.me:8080/123/123/36427
+http://209.222.101.100:25461/tv/tv/21945
+#EXTINF:-1,ICI RDI (FR)
+http://209.222.101.100:25461/tv/tv/21946
+#EXTINF:-1,ICI TÃ©lÃ© (FR)
+http://209.222.101.100:25461/tv/tv/21947
+#EXTINF:-1,ICI Vancouver (FR)
+http://209.222.101.100:25461/tv/tv/21948
 #EXTINF:-1,ID
-http://dragoniptv.iptf.me:8080/123/123/36428
-#EXTINF:-1,IFC
-http://dragoniptv.iptf.me:8080/123/123/36429
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://dragoniptv.iptf.me:8080/123/123/36430
+http://209.222.101.100:25461/tv/tv/21949
 #EXTINF:-1,KNOWLEDGE KIDS
-http://dragoniptv.iptf.me:8080/123/123/36431
-#EXTINF:-1,KTLA
-http://dragoniptv.iptf.me:8080/123/123/36432
-#EXTINF:-1,LCN
-http://dragoniptv.iptf.me:8080/123/123/36433
-#EXTINF:-1,LIFETIME
-http://dragoniptv.iptf.me:8080/123/123/36434
-#EXTINF:-1,LIFETIME MOVIE NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36435
-#EXTINF:-1,LOVE NATURE
-http://dragoniptv.iptf.me:8080/123/123/36436
-#EXTINF:-1,Love Nature HD
-http://dragoniptv.iptf.me:8080/123/123/36437
-#EXTINF:-1,MakeFul
-http://dragoniptv.iptf.me:8080/123/123/36438
+http://209.222.101.100:25461/tv/tv/21950
+#EXTINF:-1,La chaÃ®ne Disney (FR))
+http://209.222.101.100:25461/tv/tv/21951
+#EXTINF:-1,LCN (FR)
+http://209.222.101.100:25461/tv/tv/21952
+#EXTINF:-1,Lifetime
+http://209.222.101.100:25461/tv/tv/21953
+#EXTINF:-1,Love Nature
+http://209.222.101.100:25461/tv/tv/21954
+#EXTINF:-1,Love Nature
+http://209.222.101.100:25461/tv/tv/21955
+#EXTINF:-1,Makeful
+http://209.222.101.100:25461/tv/tv/21956
 #EXTINF:-1,MAVTV
-http://dragoniptv.iptf.me:8080/123/123/36439
+http://209.222.101.100:25461/tv/tv/21957
 #EXTINF:-1,MAX
-http://dragoniptv.iptf.me:8080/123/123/36440
+http://209.222.101.100:25461/tv/tv/21958
 #EXTINF:-1,MEDIASET ITALIA
-http://dragoniptv.iptf.me:8080/123/123/36441
-#EXTINF:-1,Meteo
-http://dragoniptv.iptf.me:8080/123/123/36442
+http://209.222.101.100:25461/tv/tv/21959
+#EXTINF:-1,Metro Media (FR)
+http://209.222.101.100:25461/tv/tv/21960
 #EXTINF:-1,MIRACLE
-http://dragoniptv.iptf.me:8080/123/123/36443
-#EXTINF:-1,MOI CIE
-http://dragoniptv.iptf.me:8080/123/123/36444
-#EXTINF:-1,MOVIETIME HD
-http://dragoniptv.iptf.me:8080/123/123/36445
-#EXTINF:-1,MTIME
-http://dragoniptv.iptf.me:8080/123/123/36446
-#EXTINF:-1,MTV 1
-http://dragoniptv.iptf.me:8080/123/123/36447
+http://209.222.101.100:25461/tv/tv/21961
+#EXTINF:-1,MOI et CIE (FR)
+http://209.222.101.100:25461/tv/tv/21962
+#EXTINF:-1,MovieTime
+http://209.222.101.100:25461/tv/tv/21963
+#EXTINF:-1,MTV
+http://209.222.101.100:25461/tv/tv/21964
 #EXTINF:-1,MTV 2
-http://dragoniptv.iptf.me:8080/123/123/36448
-#EXTINF:-1,MTV 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36449
-#EXTINF:-1,MUCH MUSIC
-http://dragoniptv.iptf.me:8080/123/123/36450
-#EXTINF:-1,MUSIC PLUS
-http://dragoniptv.iptf.me:8080/123/123/36451
-#EXTINF:-1,NAT GEO
-http://dragoniptv.iptf.me:8080/123/123/36452
-#EXTINF:-1,NAT GEO WILD
-http://dragoniptv.iptf.me:8080/123/123/36453
-#EXTINF:-1,NBA TV
-http://dragoniptv.iptf.me:8080/123/123/36454
-#EXTINF:-1,NBC EAST
-http://dragoniptv.iptf.me:8080/123/123/36455
-#EXTINF:-1,NBC WEST
-http://dragoniptv.iptf.me:8080/123/123/36456
-#EXTINF:-1,NICK
-http://dragoniptv.iptf.me:8080/123/123/36457
-#EXTINF:-1,NICKTOONS HD
-http://dragoniptv.iptf.me:8080/123/123/36458
+http://209.222.101.100:25461/tv/tv/21965
+#EXTINF:-1,Much
+http://209.222.101.100:25461/tv/tv/21966
+#EXTINF:-1,MUCH_MUSIC
+http://209.222.101.100:25461/tv/tv/21967
+#EXTINF:-1,MUSIC PLUS (FR)
+http://209.222.101.100:25461/tv/tv/21968
+#EXTINF:-1,Musique Plus (FR)
+http://209.222.101.100:25461/tv/tv/21969
+#EXTINF:-1,Nat Geo Wild
+http://209.222.101.100:25461/tv/tv/21970
+#EXTINF:-1,NAT_GEO
+http://209.222.101.100:25461/tv/tv/21971
+#EXTINF:-1,Nickelodeon
+http://209.222.101.100:25461/tv/tv/21972
 #EXTINF:-1,NTV
-http://dragoniptv.iptf.me:8080/123/123/36459
+http://209.222.101.100:25461/tv/tv/21973
 #EXTINF:-1,OLN
-http://dragoniptv.iptf.me:8080/123/123/36460
-#EXTINF:-1,OMNI 1
-http://dragoniptv.iptf.me:8080/123/123/36461
-#EXTINF:-1,OMNI 2
-http://dragoniptv.iptf.me:8080/123/123/36462
+http://209.222.101.100:25461/tv/tv/21974
+#EXTINF:-1,OMNI_1
+http://209.222.101.100:25461/tv/tv/21975
+#EXTINF:-1,OMNI_2
+http://209.222.101.100:25461/tv/tv/21976
 #EXTINF:-1,ONE
-http://dragoniptv.iptf.me:8080/123/123/36463
-#EXTINF:-1,OUTTV
-http://dragoniptv.iptf.me:8080/123/123/36464
+http://209.222.101.100:25461/tv/tv/21977
 #EXTINF:-1,OWN
-http://dragoniptv.iptf.me:8080/123/123/36465
-#EXTINF:-1,PARAMOUNT NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36466
-#EXTINF:-1,PBS EAST
-http://dragoniptv.iptf.me:8080/123/123/36467
-#EXTINF:-1,PEACH TREE
-http://dragoniptv.iptf.me:8080/123/123/36468
+http://209.222.101.100:25461/tv/tv/21978
+#EXTINF:-1,PBS Buffalo (WNED)
+http://209.222.101.100:25461/tv/tv/21979
+#EXTINF:-1,PEACHTREE
+http://209.222.101.100:25461/tv/tv/21980
 #EXTINF:-1,PRISE
-http://dragoniptv.iptf.me:8080/123/123/36469
-#EXTINF:-1,Prise 2
-http://dragoniptv.iptf.me:8080/123/123/36470
-#EXTINF:-1,RDI
-http://dragoniptv.iptf.me:8080/123/123/36471
-#EXTINF:-1,RDS
-http://dragoniptv.iptf.me:8080/123/123/36472
-#EXTINF:-1,RDS 2
-http://dragoniptv.iptf.me:8080/123/123/36473
-#EXTINF:-1,RDS INFO
-http://dragoniptv.iptf.me:8080/123/123/36474
-#EXTINF:-1,Rogers TV Barrie
-http://dragoniptv.iptf.me:8080/123/123/36475
-#EXTINF:-1,SERIES
-http://dragoniptv.iptf.me:8080/123/123/36476
+http://209.222.101.100:25461/tv/tv/21981
+#EXTINF:-1,Prise 2 (FR)
+http://209.222.101.100:25461/tv/tv/21982
+#EXTINF:-1,RDS (FR)
+http://209.222.101.100:25461/tv/tv/21983
+#EXTINF:-1,RDS 2 (FR)
+http://209.222.101.100:25461/tv/tv/21984
+#EXTINF:-1,RDS INFO (FR)
+http://209.222.101.100:25461/tv/tv/21985
+#EXTINF:-1,Rogers TV FR
+http://209.222.101.100:25461/tv/tv/21986
 #EXTINF:-1,SERIES Plus
-http://dragoniptv.iptf.me:8080/123/123/36477
+http://209.222.101.100:25461/tv/tv/21987
+#EXTINF:-1,Series+ (FR)
+http://209.222.101.100:25461/tv/tv/21988
 #EXTINF:-1,SHOPPING
-http://dragoniptv.iptf.me:8080/123/123/36478
-#EXTINF:-1,SHOWCASE
-http://dragoniptv.iptf.me:8080/123/123/36479
+http://209.222.101.100:25461/tv/tv/21989
+#EXTINF:-1,Showcase
+http://209.222.101.100:25461/tv/tv/21990
 #EXTINF:-1,SILVER SCREEN CLASSICS
-http://dragoniptv.iptf.me:8080/123/123/36480
+http://209.222.101.100:25461/tv/tv/21991
 #EXTINF:-1,SLICE
-http://dragoniptv.iptf.me:8080/123/123/36481
-#EXTINF:-1,SMITHSONIAN CHANNEL
-http://dragoniptv.iptf.me:8080/123/123/36482
-#EXTINF:-1,SMITHSONIAN CHANNEL HD
-http://dragoniptv.iptf.me:8080/123/123/36483
-#EXTINF:-1,SPACE
-http://dragoniptv.iptf.me:8080/123/123/36484
-#EXTINF:-1,SPIKE TV PARAMOUNT
-http://dragoniptv.iptf.me:8080/123/123/36485
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://dragoniptv.iptf.me:8080/123/123/36486
-#EXTINF:-1,SPORTSNET 360
-http://dragoniptv.iptf.me:8080/123/123/36487
-#EXTINF:-1,Sportsnet 360 HD
-http://dragoniptv.iptf.me:8080/123/123/36488
-#EXTINF:-1,SPORTSNET EAST
-http://dragoniptv.iptf.me:8080/123/123/36489
-#EXTINF:-1,Sportsnet East HD
-http://dragoniptv.iptf.me:8080/123/123/36490
-#EXTINF:-1,SPORTSNET NY
-http://dragoniptv.iptf.me:8080/123/123/36491
-#EXTINF:-1,SPORTSNET ONE
-http://dragoniptv.iptf.me:8080/123/123/36492
-#EXTINF:-1,SPORTSNET ONE HD
-http://dragoniptv.iptf.me:8080/123/123/36493
-#EXTINF:-1,SPORTSNET ONTARIO
-http://dragoniptv.iptf.me:8080/123/123/36494
-#EXTINF:-1,Sportsnet Ontario HD
-http://dragoniptv.iptf.me:8080/123/123/36495
-#EXTINF:-1,SPORTSNET PACIFIC
-http://dragoniptv.iptf.me:8080/123/123/36496
-#EXTINF:-1,SPORTSNET WEST
-http://dragoniptv.iptf.me:8080/123/123/36497
-#EXTINF:-1,Sportsnet West HD
-http://dragoniptv.iptf.me:8080/123/123/36498
-#EXTINF:-1,SPORTSNET WORLD HD
-http://dragoniptv.iptf.me:8080/123/123/36499
-#EXTINF:-1,SUPER CHANNEL FUSE
-http://dragoniptv.iptf.me:8080/123/123/36500
-#EXTINF:-1,SUPER CHANNEL HEART & HOME
-http://dragoniptv.iptf.me:8080/123/123/36501
-#EXTINF:-1,SUPER CHANNEL VAULT
-http://dragoniptv.iptf.me:8080/123/123/36502
-#EXTINF:-1,SUPER ECRAN 1
-http://dragoniptv.iptf.me:8080/123/123/36503
-#EXTINF:-1,SUPER ECRAN 2
-http://dragoniptv.iptf.me:8080/123/123/36504
-#EXTINF:-1,SUPER ECRAN 3
-http://dragoniptv.iptf.me:8080/123/123/36505
-#EXTINF:-1,SUPER ECRAN 4
-http://dragoniptv.iptf.me:8080/123/123/36506
+http://209.222.101.100:25461/tv/tv/21992
+#EXTINF:-1,SPIKE TV / PARAMOUNT
+http://209.222.101.100:25461/tv/tv/21993
+#EXTINF:-1,Starz 1
+http://209.222.101.100:25461/tv/tv/21994
+#EXTINF:-1,Starz 2
+http://209.222.101.100:25461/tv/tv/21995
+#EXTINF:-1,Super Ecran 2 (FR)
+http://209.222.101.100:25461/tv/tv/21996
+#EXTINF:-1,Super Ecran 3 (FR)
+http://209.222.101.100:25461/tv/tv/21997
+#EXTINF:-1,Super Ecran 4 (FR)
+http://209.222.101.100:25461/tv/tv/21998
 #EXTINF:-1,TCM
-http://dragoniptv.iptf.me:8080/123/123/36507
-#EXTINF:-1,TELE QUEBEC
-http://dragoniptv.iptf.me:8080/123/123/36508
-#EXTINF:-1,Telemagino
-http://dragoniptv.iptf.me:8080/123/123/36540
-#EXTINF:-1,TELETOON
-http://dragoniptv.iptf.me:8080/123/123/36510
-#EXTINF:-1,TELETOON EAST
-http://dragoniptv.iptf.me:8080/123/123/36509
-#EXTINF:-1,TFO
-http://dragoniptv.iptf.me:8080/123/123/36511
-#EXTINF:-1,THE CW 11
-http://dragoniptv.iptf.me:8080/123/123/36512
-#EXTINF:-1,THE MOVIE NETWORK 1
-http://dragoniptv.iptf.me:8080/123/123/36513
-#EXTINF:-1,THE MOVIE NETWORK 2
-http://dragoniptv.iptf.me:8080/123/123/36514
-#EXTINF:-1,THE MOVIE NETWORK 3
-http://dragoniptv.iptf.me:8080/123/123/36515
-#EXTINF:-1,THE MOVIE NETWORK 4
-http://dragoniptv.iptf.me:8080/123/123/36516
-#EXTINF:-1,THE SHOPPING CHANNEL
-http://dragoniptv.iptf.me:8080/123/123/36517
-#EXTINF:-1,THE WEATHER CHANNEL
-http://dragoniptv.iptf.me:8080/123/123/36518
+http://209.222.101.100:25461/tv/tv/21999
+#EXTINF:-1,TCTV2
+http://209.222.101.100:25461/tv/tv/22000
+#EXTINF:-1,TELEMAGINO  (FR)
+http://209.222.101.100:25461/tv/tv/22001
+#EXTINF:-1,Teletoon (FR)
+http://209.222.101.100:25461/tv/tv/22002
+#EXTINF:-1,TFO_(FR)
+http://209.222.101.100:25461/tv/tv/22003
+#EXTINF:-1,THE_WEATHER_NETWORK
+http://209.222.101.100:25461/tv/tv/22004
 #EXTINF:-1,TLC
-http://dragoniptv.iptf.me:8080/123/123/36519
-#EXTINF:-1,TLC HD
-http://dragoniptv.iptf.me:8080/123/123/36520
-#EXTINF:-1,TLN
-http://dragoniptv.iptf.me:8080/123/123/36521
-#EXTINF:-1,TLN WEST
-http://dragoniptv.iptf.me:8080/123/123/36522
+http://209.222.101.100:25461/tv/tv/22005
 #EXTINF:-1,TRAVEL ESCAPE
-http://dragoniptv.iptf.me:8080/123/123/36523
-#EXTINF:-1,TREEHOUSE
-http://dragoniptv.iptf.me:8080/123/123/36524
-#EXTINF:-1,TSN 1
-http://dragoniptv.iptf.me:8080/123/123/36525
-#EXTINF:-1,TSN 1 HD
-http://dragoniptv.iptf.me:8080/123/123/36526
-#EXTINF:-1,TSN 2
-http://dragoniptv.iptf.me:8080/123/123/36527
-#EXTINF:-1,TSN 2 HD
-http://dragoniptv.iptf.me:8080/123/123/36528
-#EXTINF:-1,TSN 3
-http://dragoniptv.iptf.me:8080/123/123/36529
-#EXTINF:-1,TSN 3 HD
-http://dragoniptv.iptf.me:8080/123/123/36530
-#EXTINF:-1,TSN 4
-http://dragoniptv.iptf.me:8080/123/123/36531
-#EXTINF:-1,TSN 4 HD
-http://dragoniptv.iptf.me:8080/123/123/36532
-#EXTINF:-1,TSN 5
-http://dragoniptv.iptf.me:8080/123/123/36533
-#EXTINF:-1,TSN 5 HD
-http://dragoniptv.iptf.me:8080/123/123/36534
-#EXTINF:-1,TV5 Quebec
-http://dragoniptv.iptf.me:8080/123/123/36535
-#EXTINF:-1,TVA Gatineau
-http://dragoniptv.iptf.me:8080/123/123/36536
-#EXTINF:-1,TVA MONTREAL
-http://dragoniptv.iptf.me:8080/123/123/36537
-#EXTINF:-1,TVA Sports
-http://dragoniptv.iptf.me:8080/123/123/36538
+http://209.222.101.100:25461/tv/tv/22006
+#EXTINF:-1,Treehouse
+http://209.222.101.100:25461/tv/tv/22007
+#EXTINF:-1,TSC
+http://209.222.101.100:25461/tv/tv/22008
+#EXTINF:-1,TV Ontario
+http://209.222.101.100:25461/tv/tv/22009
+#EXTINF:-1,TV Rogers
+http://209.222.101.100:25461/tv/tv/22010
+#EXTINF:-1,TV5 (FR)
+http://209.222.101.100:25461/tv/tv/22011
+#EXTINF:-1,TV5 Quebec (FR)
+http://209.222.101.100:25461/tv/tv/22012
+#EXTINF:-1,TVA  Sports
+http://209.222.101.100:25461/tv/tv/22013
+#EXTINF:-1,TVA Montreal (CFTM)
+http://209.222.101.100:25461/tv/tv/22014
+#EXTINF:-1,TVA Sports 2
+http://209.222.101.100:25461/tv/tv/22015
 #EXTINF:-1,TVO
-http://dragoniptv.iptf.me:8080/123/123/36539
-#EXTINF:-1,UFC Fight Night Pass
-http://dragoniptv.iptf.me:8080/123/123/36541
-#EXTINF:-1,UFC NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36542
-#EXTINF:-1,Unis TV
-http://dragoniptv.iptf.me:8080/123/123/36543
-#EXTINF:-1,V Montreal HD
-http://dragoniptv.iptf.me:8080/123/123/36544
-#EXTINF:-1,Vie
-http://dragoniptv.iptf.me:8080/123/123/36545
+http://209.222.101.100:25461/tv/tv/22016
+#EXTINF:-1,TÃ©lÃ©-QuÃ©bec
+http://209.222.101.100:25461/tv/tv/22017
+#EXTINF:-1,Télé Québec (FR)
+http://209.222.101.100:25461/tv/tv/22018
+#EXTINF:-1,Télémagino (FR)
+http://209.222.101.100:25461/tv/tv/22019
+#EXTINF:-1,Unis_TV_(FR)
+http://209.222.101.100:25461/tv/tv/22020
+#EXTINF:-1,Vie (FR)
+http://209.222.101.100:25461/tv/tv/22021
 #EXTINF:-1,VISION
-http://dragoniptv.iptf.me:8080/123/123/36546
-#EXTINF:-1,VRAK TV
-http://dragoniptv.iptf.me:8080/123/123/36547
-#EXTINF:-1,W NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36548
-#EXTINF:-1,WEATHER NETWORK
-http://dragoniptv.iptf.me:8080/123/123/36549
+http://209.222.101.100:25461/tv/tv/22022
+#EXTINF:-1,VRAK TV (FR)
+http://209.222.101.100:25461/tv/tv/22023
 #EXTINF:-1,WFN
-http://dragoniptv.iptf.me:8080/123/123/36550
+http://209.222.101.100:25461/tv/tv/22024
 #EXTINF:-1,WGN
-http://dragoniptv.iptf.me:8080/123/123/36551
+http://209.222.101.100:25461/tv/tv/22025
 #EXTINF:-1,Wild TV
-http://dragoniptv.iptf.me:8080/123/123/36552
-#EXTINF:-1,WSBK
-http://dragoniptv.iptf.me:8080/123/123/36553
+http://209.222.101.100:25461/tv/tv/22026
+#EXTINF:-1,WNLO Buffalo (CW23)
+http://209.222.101.100:25461/tv/tv/22027
+#EXTINF:-1,W_NETWORK
+http://209.222.101.100:25461/tv/tv/22028
 #EXTINF:-1,YES TV
-http://dragoniptv.iptf.me:8080/123/123/36554
-#EXTINF:-1,YOOPA
-http://dragoniptv.iptf.me:8080/123/123/36555
+http://209.222.101.100:25461/tv/tv/22029
+#EXTINF:-1,YOOPA (FR)
+http://209.222.101.100:25461/tv/tv/22030
 #EXTINF:-1,YTV
-http://dragoniptv.iptf.me:8080/123/123/36556
-#EXTINF:-1,YTV E
-http://dragoniptv.iptf.me:8080/123/123/36557
-#EXTINF:-1,Z Tele
-http://dragoniptv.iptf.me:8080/123/123/36558
-#EXTINF:-1,Zeste
-http://dragoniptv.iptf.me:8080/123/123/36559
+http://209.222.101.100:25461/tv/tv/22031
+#EXTINF:-1,Z Tele (FR)
+http://209.222.101.100:25461/tv/tv/22032
+#EXTINF:-1,Zeste (FR)
+http://209.222.101.100:25461/tv/tv/22033
