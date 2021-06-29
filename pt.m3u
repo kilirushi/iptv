@@ -1,305 +1,123 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1043
-#EXTINF:-1,RTP 1 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3156
-#EXTINF:-1,RTP 2
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1044
-#EXTINF:-1,RTP 2 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3157
-#EXTINF:-1,RTP 3
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1045
-#EXTINF:-1,SIC HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1073
-#EXTINF:-1,TVI HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1052
-#EXTINF:-1,TVI FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3158
-#EXTINF:-1,TVI FICçãO
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1048
-#EXTINF:-1,PORTO CANAL
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1067
-#EXTINF:-1,PORTO CANAL FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23072
-#EXTINF:-1,RTP ACORES
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1984
-#EXTINF:-1,RTP AFRICA
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1986
-#EXTINF:-1,TCV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/5560
-#EXTINF:-1,LOCALVIS
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23082
-#EXTINF:-1,RTP INT.
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1985
-#EXTINF:-1,RTP MEMORIA
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1055
-#EXTINF:-1,TV GLOBO
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2696
-#EXTINF:-1,TV GLOBO FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23063
-#EXTINF:-1,TV GLOBO PREMIUM
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1431
-#EXTINF:-1,TV GLOBO INTERNATCIONAL
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2697
-#EXTINF:-1,TV GLOBO NOW HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23062
-#EXTINF:-1,TV RECORD HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3958
-#EXTINF:-1,TV RECORD FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23061
-#EXTINF:-1,TPA INTERNACIONAL
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3961
-#EXTINF:-1,SIC MULHER
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1068
-#EXTINF:-1,TVI REALITY
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1047
-#EXTINF:-1,SIC CARAS
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1069
-#EXTINF:-1,SIC CARAS FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23070
-#EXTINF:-1,SIC RADICAL
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1076
-#EXTINF:-1,SIC RADICAL FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3155
-#EXTINF:-1,BBC ENTRAITEMENT
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1996
-#EXTINF:-1,CANAL Q
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1080
+#EXTINF:-1,PT: TVCINE 1 HD
+http://starshare.live:8080/live/449988/449988/313.ts
+#EXTINF:-1,PT: SPORT TV1 HD
+http://starshare.live:8080/live/449988/449988/314.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://starshare.live:8080/live/449988/449988/315.ts
+#EXTINF:-1,PT: SPORT TV3 HD
+http://starshare.live:8080/live/449988/449988/316.ts
+#EXTINF:-1,PT: SPORT TV4 HD
+http://starshare.live:8080/live/449988/449988/317.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://starshare.live:8080/live/449988/449988/318.ts
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://starshare.live:8080/live/449988/449988/319.ts
+#EXTINF:-1,PT: CINEMUNDO HD
+http://starshare.live:8080/live/449988/449988/323.ts
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://starshare.live:8080/live/449988/449988/326.ts
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://starshare.live:8080/live/449988/449988/327.ts
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://starshare.live:8080/live/449988/449988/328.ts
+#EXTINF:-1,PT: ELEVEN SPORT 3 HD
+http://starshare.live:8080/live/449988/449988/329.ts
+#EXTINF:-1,PT: AXN BLACK
+http://starshare.live:8080/live/449988/449988/330.ts
+#EXTINF:-1,PT: AMC
+http://starshare.live:8080/live/449988/449988/331.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://starshare.live:8080/live/449988/449988/332.ts
+#EXTINF:-1,PT: SYFY
+http://starshare.live:8080/live/449988/449988/333.ts
+#EXTINF:-1,PT: TV SERIES
+http://starshare.live:8080/live/449988/449988/334.ts
+#EXTINF:-1,PT: FOX
+http://starshare.live:8080/live/449988/449988/335.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://starshare.live:8080/live/449988/449988/336.ts
+#EXTINF:-1,PT: FOX CRIME
+http://starshare.live:8080/live/449988/449988/337.ts
+#EXTINF:-1,PT: FOX LIFE
+http://starshare.live:8080/live/449988/449988/338.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://starshare.live:8080/live/449988/449988/339.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://starshare.live:8080/live/449988/449988/341.ts
+#EXTINF:-1,PT: NAT GEO WILD
+http://starshare.live:8080/live/449988/449988/342.ts
+#EXTINF:-1,PT: SPORT TV NBA
+http://starshare.live:8080/live/449988/449988/343.ts
+#EXTINF:-1,PT: AXN WHITE
+http://starshare.live:8080/live/449988/449988/344.ts
+#EXTINF:-1,PT: AXN
+http://starshare.live:8080/live/449988/449988/345.ts
+#EXTINF:-1,TVI FIC
+http://starshare.live:8080/live/449988/449988/1635.ts
+#EXTINF:-1,TV RECORD
+http://starshare.live:8080/live/449988/449988/1636.ts
+#EXTINF:-1,TV GALICIA
+http://starshare.live:8080/live/449988/449988/1637.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://starshare.live:8080/live/449988/449988/1638.ts
+#EXTINF:-1,TOROS TV
+http://starshare.live:8080/live/449988/449988/1639.ts
 #EXTINF:-1,TLC
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1991
-#EXTINF:-1,TRAVEL CHANNEL FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2399
-#EXTINF:-1,24 KITCHEN
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1992
-#EXTINF:-1,BLAZE FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1079
-#EXTINF:-1,E! ENTERTAINEMENT HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1085
-#EXTINF:-1,E! ENTERTAINMENT FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23093
-#EXTINF:-1,DISNEY CHANNEL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1081
-#EXTINF:-1,DISNEY JUNIOR
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1049
-#EXTINF:-1,NICKELODEON HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3955
-#EXTINF:-1,JIMJAM
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1090
-#EXTINF:-1,SIC KIDS
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1057
-#EXTINF:-1,CANAL PANDA HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3956
-#EXTINF:-1,PANDA BIGGS HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3957
-#EXTINF:-1,BABY TV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1082
-#EXTINF:-1,MY CUISINE PORTUGAL
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23078
-#EXTINF:-1,DISCOVERY
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1071
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23095
-#EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23094
-#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1056
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23076
-#EXTINF:-1,NAT GEO WILD HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3954
-#EXTINF:-1,NAT GEO WILD FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23077
-#EXTINF:-1,ODISSEIA
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1074
-#EXTINF:-1,ODISSEIA FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23074
-#EXTINF:-1,CANAL HISTORIA HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1091
-#EXTINF:-1,CAZA Y PESCA
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1083
-#EXTINF:-1,CAçA Y PESCA FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23098
+http://starshare.live:8080/live/449988/449988/1640.ts
+#EXTINF:-1,NICKELODEON
+http://starshare.live:8080/live/449988/449988/1641.ts
+#EXTINF:-1,MTV PT
+http://starshare.live:8080/live/449988/449988/1642.ts
+#EXTINF:-1,ELEVEN SPORTS 3
+http://starshare.live:8080/live/449988/449988/1644.ts
+#EXTINF:-1,ELEVEN SPORTS 2
+http://starshare.live:8080/live/449988/449988/1645.ts
+#EXTINF:-1,CANAL PANDA
+http://starshare.live:8080/live/449988/449988/1649.ts
+#EXTINF:-1,CANAL HISTORIA
+http://starshare.live:8080/live/449988/449988/1650.ts
 #EXTINF:-1,CACAVISION
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1898
-#EXTINF:-1,FASHION TV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2287
-#EXTINF:-1,FASHION TV FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23090
-#EXTINF:-1,SPORT TV+ HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1053
-#EXTINF:-1,SPORT TV 1 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1034
-#EXTINF:-1,SPORT TV 1 FULL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1889
-#EXTINF:-1,SPORT TV 2 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1035
-#EXTINF:-1,SPORT TV 2 FULL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1890
-#EXTINF:-1,SPORT TV 3 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1036
-#EXTINF:-1,SPORT TV 3 FULL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1891
-#EXTINF:-1,SPORT TV 4 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1037
-#EXTINF:-1,SPORT TV 4 FULL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/13009
-#EXTINF:-1,SPORT TV-4K UHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1892
-#EXTINF:-1,SPORT TV 5 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1861
-#EXTINF:-1,SPORT TV 5 FULL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/13008
-#EXTINF:-1,SPORT TV NBA HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1895
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/13007
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/9657
-#EXTINF:-1,ELEVEN SPORT 1 4K UHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23073
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/9656
-#EXTINF:-1,ELEVEN SPORT 2 4K UHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1075
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/9655
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/9654
-#EXTINF:-1,ELEVEN SPORTS 5 FULL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/9653
-#EXTINF:-1,ELEVEN SPORTS 6 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/9652
-#EXTINF:-1,BTV 1 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1893
-#EXTINF:-1,BTV 1 FULL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1894
-#EXTINF:-1,SPORTING TV HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1077
-#EXTINF:-1,SPORTING TV FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23068
-#EXTINF:-1,CANAL 11 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1072
-#EXTINF:-1,A BOLA TV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1078
-#EXTINF:-1,FUEL TV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2227
-#EXTINF:-1,FUEL TV FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23085
-#EXTINF:-1,KOMBAT SPORT
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1066
-#EXTINF:-1,FIGHT NETWORK FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23089
-#EXTINF:-1,TOROS FULL HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1897
-#EXTINF:-1,MOTORS TV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1989
-#EXTINF:-1,MOTORVISION
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1990
-#EXTINF:-1,MOTORVISION FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23080
-#EXTINF:-1,PFC TV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1967
-#EXTINF:-1,MTV PORTUGAL
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1907
-#EXTINF:-1,MTV PORTUGAL FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23079
-#EXTINF:-1,MCM POP
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1899
-#EXTINF:-1,TRACE URBAN PT FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23064
-#EXTINF:-1,VH1
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1908
-#EXTINF:-1,VH1 CLASSIC
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1988
-#EXTINF:-1,iCONCERTS FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23084
-#EXTINF:-1,MEZZO LIVE FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23081
-#EXTINF:-1,ZAP VIVA FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23060
-#EXTINF:-1,AFRO TV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2758
-#EXTINF:-1,BBC WORLD NEWS
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1995
-#EXTINF:-1,SKY NEWS
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1994
-#EXTINF:-1,BLOOMBERG
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1993
-#EXTINF:-1,TVE 24H
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1902
-#EXTINF:-1,TVI24
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2100
-#EXTINF:-1,CM TV
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1095
-#EXTINF:-1,BLAZE SD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23100
-#EXTINF:-1,CM TV FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23096
-#EXTINF:-1,SIC NOTICIAS
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1046
-#EXTINF:-1,SIC NOTICIAS HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23069
-#EXTINF:-1,HOLLYWOOD HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1070
-#EXTINF:-1,HOLLYWOOD FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23075
-#EXTINF:-1,AXN HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1063
-#EXTINF:-1,AXN BLACK HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1064
-#EXTINF:-1,AXN WHITE HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3960
-#EXTINF:-1,AMC HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1062
-#EXTINF:-1,AMC FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23101
-#EXTINF:-1,SYFY HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1088
-#EXTINF:-1,SYFY FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23066
-#EXTINF:-1,CASA & COZINHA FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23067
-#EXTINF:-1,FOX LIFE HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1051
-#EXTINF:-1,FOX LIFE FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23087
-#EXTINF:-1,FOX HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1050
-#EXTINF:-1,FOX CRIME HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1065
-#EXTINF:-1,FOX CRIME FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23088
-#EXTINF:-1,FOX COMEDY HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1086
-#EXTINF:-1,FOX MOVIES HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1054
-#EXTINF:-1,FOX MOVIES FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23086
-#EXTINF:-1,NOS STUDIO HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1084
-#EXTINF:-1,TV CINE 1 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1038
-#EXTINF:-1,TV CINE 1 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2209
-#EXTINF:-1,TV CINE 2 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1039
-#EXTINF:-1,TV CINE 2 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2210
-#EXTINF:-1,TV CINE 3 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1040
-#EXTINF:-1,TV CINE 3 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2211
-#EXTINF:-1,TV CINE 4 HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1041
-#EXTINF:-1,TV CINE 4 FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/2212
+http://starshare.live:8080/live/449988/449988/1651.ts
+#EXTINF:-1,CACA E PESCA HD
+http://starshare.live:8080/live/449988/449988/1652.ts
+#EXTINF:-1,Baby TV
+http://starshare.live:8080/live/449988/449988/1653.ts
+#EXTINF:-1,AMC
+http://starshare.live:8080/live/449988/449988/1654.ts
+#EXTINF:-1,TVI HD
+http://starshare.live:8080/live/449988/449988/1655.ts
+#EXTINF:-1,TVI FICCAO
+http://starshare.live:8080/live/449988/449988/1656.ts
+#EXTINF:-1,TVCINE 4 HD
+http://starshare.live:8080/live/449988/449988/1657.ts
+#EXTINF:-1,TVCINE 3 HD
+http://starshare.live:8080/live/449988/449988/1658.ts
+#EXTINF:-1,TVCINE 2 HD
+http://starshare.live:8080/live/449988/449988/1659.ts
 #EXTINF:-1,TV SERIES
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1042
-#EXTINF:-1,TV SERIES FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/4345
-#EXTINF:-1,CINEMUNDO HD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/3959
-#EXTINF:-1,CINEMUNDO FHD
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/23097
-#EXTINF:-1,CBS REALITY
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1092
+http://starshare.live:8080/live/449988/449988/1660.ts
+#EXTINF:-1,SPORTING TV
+http://starshare.live:8080/live/449988/449988/1661.ts
+#EXTINF:-1,SIC RADICAL
+http://starshare.live:8080/live/449988/449988/1662.ts
+#EXTINF:-1,SIC NOTICIAS
+http://starshare.live:8080/live/449988/449988/1663.ts
+#EXTINF:-1,SIC MULHER
+http://starshare.live:8080/live/449988/449988/1664.ts
+#EXTINF:-1,SIC HD
+http://starshare.live:8080/live/449988/449988/1665.ts
+#EXTINF:-1,SIC CARAS HD
+http://starshare.live:8080/live/449988/449988/1666.ts
+#EXTINF:-1,RTP MEMORIA
+http://starshare.live:8080/live/449988/449988/1667.ts
+#EXTINF:-1,RTP AFRICA
+http://starshare.live:8080/live/449988/449988/1669.ts
+#EXTINF:-1,RTP ACORES
+http://starshare.live:8080/live/449988/449988/1670.ts
+#EXTINF:-1,RTP 3
+http://starshare.live:8080/live/449988/449988/1671.ts
+#EXTINF:-1,RTP 2 HD
+http://starshare.live:8080/live/449988/449988/1672.ts
+#EXTINF:-1,RTP 1 HD
+http://starshare.live:8080/live/449988/449988/1673.ts
