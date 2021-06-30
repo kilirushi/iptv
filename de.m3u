@@ -1,631 +1,477 @@
 #EXTM3U
-#EXTINF:-1,Das Erste HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13166
-#EXTINF:-1,Das Erste [B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6262
-#EXTINF:-1,Das Erste DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6256
+#EXTINF:-1,DAS ERSTE FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3879
+#EXTINF:-1,ARD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19617
+#EXTINF:-1,ZDF
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19912
 #EXTINF:-1,ZDF FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6151
-#EXTINF:-1,ZDF HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/17011
-#EXTINF:-1,ZDF Neo HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/17304
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3889
+#EXTINF:-1,RTL FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3887
 #EXTINF:-1,RTL FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13565
-#EXTINF:-1,RTL FHD [B]
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683243
-#EXTINF:-1,RTL HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6216
-#EXTINF:-1,Sat.1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6210
-#EXTINF:-1,Sat.1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683455
-#EXTINF:-1,ProSieben FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6220
-#EXTINF:-1,ProSieben [B] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8235
-#EXTINF:-1,ProSieben HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683393
-#EXTINF:-1,ProSieben [B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13144
-#EXTINF:-1,VOX FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13553
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/39128
+#EXTINF:-1,SAT.1 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3884
+#EXTINF:-1,PROSIEBEN HD/FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3881
+#EXTINF:-1,PROSIEBEN FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9307
+#EXTINF:-1,VOX FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3888
 #EXTINF:-1,VOX HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6153
-#EXTINF:-1,VOXup DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679836
-#EXTINF:-1,Kabel 1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6242
-#EXTINF:-1,Kabel 1 Classic HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9151
-#EXTINF:-1,Kabel 1 Classic DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679844
-#EXTINF:-1,RTL 2 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6215
-#EXTINF:-1,RTL 2 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13136
-#EXTINF:-1,RTL Nitro FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6212
-#EXTINF:-1,RTL Nitro HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13137
-#EXTINF:-1,RTL Passion FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8219
-#EXTINF:-1,RTL Plus DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9152
-#EXTINF:-1,RTL Crime FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6214
-#EXTINF:-1,RTL Crime HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/17012
-#EXTINF:-1,Crime & Investigation FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6263
-#EXTINF:-1,Crime & Investigation HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8197
-#EXTINF:-1,RTL Living FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6150
-#EXTINF:-1,RTL Living HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6213
-#EXTINF:-1,Sat1 Emotion DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13135
-#EXTINF:-1,Sat1 Gold FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6209
-#EXTINF:-1,ProSieben Fun FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6219
-#EXTINF:-1,ProSieben Fun HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13145
-#EXTINF:-1,ProSieben Fun [B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13142
-#EXTINF:-1,ProSieben Maxx FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6218
-#EXTINF:-1,ProSieben Maxx HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683394
-#EXTINF:-1,Pro Sieben Maxx HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13143
-#EXTINF:-1,Pro Sieben Maxx FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8234
-#EXTINF:-1,Puls 24 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688788
-#EXTINF:-1,Puls 4 DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688789
-#EXTINF:-1,E! Entertainment FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13569
-#EXTINF:-1,E! Entertainment HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9137
-#EXTINF:-1,E! Entertainment DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5095
-#EXTINF:-1,SRF 1 DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6170
-#EXTINF:-1,MDR HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6238
-#EXTINF:-1,MDR Sachsen HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8240
-#EXTINF:-1,MDR Sachsen HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8239
-#EXTINF:-1,3Sat FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/16289
-#EXTINF:-1,3sat HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6265
-#EXTINF:-1,NDR HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6225
-#EXTINF:-1,HR FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13150
-#EXTINF:-1,HR HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6243
-#EXTINF:-1,HR Fernsehen HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8225
-#EXTINF:-1,RBB Berlin HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6217
-#EXTINF:-1,BR HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687568
-#EXTINF:-1,BR DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13168
-#EXTINF:-1,SWR HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6165
-#EXTINF:-1,WDR HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6152
-#EXTINF:-1,noa4 Hamburg FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688727
-#EXTINF:-1,Franken Fernsehen FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/677835
-#EXTINF:-1,BW Family TV FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6246
-#EXTINF:-1,BW Family TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23772
-#EXTINF:-1,QVC HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13140
-#EXTINF:-1,QVC Beauty & Style DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13141
-#EXTINF:-1,Sonnenklar TV FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13130
-#EXTINF:-1,Event - Covid Info FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679845
-#EXTINF:-1,------- Sports -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678834
-#EXTINF:-1,Sky Sport F1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687666
-#EXTINF:-1,Sky Sport F1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687667
-#EXTINF:-1,Sky Sports News FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13555
-#EXTINF:-1,Sky Sports News HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684431
-#EXTINF:-1,Sky Sport 1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684432
-#EXTINF:-1,Sky Sport 1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683895
-#EXTINF:-1,Sky Sport 1 DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9125
-#EXTINF:-1,Sky Sport 1 [B]
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684429
-#EXTINF:-1,Sky Sport 2 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7362
-#EXTINF:-1,Sky Sport 2 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683896
-#EXTINF:-1,Sky Sport 3 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13563
-#EXTINF:-1,Sky Sport 3 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6182
-#EXTINF:-1,Sky Sport 4 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13562
-#EXTINF:-1,Sky Sport 4 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9127
-#EXTINF:-1,Sky Sport 5 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13561
-#EXTINF:-1,Sky Sport 5 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9126
-#EXTINF:-1,Sky Sport 6 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6181
-#EXTINF:-1,Sky Sport 7 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6180
-#EXTINF:-1,Sky Sport 8 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6179
-#EXTINF:-1,Sky Sport 9 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6178
-#EXTINF:-1,Sky Sport 10 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6177
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684430
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683408
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683409
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13538
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/73136
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684005
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/62223
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time-B] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/135258
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/135671
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/62220
-#EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/91235
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/135335
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/62002
-#EXTINF:-1,Sky Sport Bundesliga 6 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/619225
-#EXTINF:-1,Sky Sport Bundesliga 7 [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6198
-#EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6197
-#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6196
-#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6195
-#EXTINF:-1,Sky Sport Austria 1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688793
-#EXTINF:-1,Sky Sport Austria 1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688795
-#EXTINF:-1,DAZN 1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/661090
-#EXTINF:-1,DAZN 1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/625243
-#EXTINF:-1,DAZN 1 [B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/661088
-#EXTINF:-1,DAZN 2 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/661089
-#EXTINF:-1,DAZN 2 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50775
-#EXTINF:-1,Sport1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6173
-#EXTINF:-1,Sport1 HD  DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8221
-#EXTINF:-1,Sport1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8226
-#EXTINF:-1,Sport1+ FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679847
-#EXTINF:-1,Sport1+ HD [B]
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679848
-#EXTINF:-1,eSports 1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687730
-#EXTINF:-1,Telekom Fußball 1 HD [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679821
-#EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679822
-#EXTINF:-1,Telekom Fußball 3 HD [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679823
-#EXTINF:-1,Telekom Fußball 4 HD [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679824
-#EXTINF:-1,Telekom Fußball 5 HD [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679825
-#EXTINF:-1,Telekom Fußball 6 HD [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679826
-#EXTINF:-1,Telekom Fußball 7 HD [Match Time] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679827
-#EXTINF:-1,Telekom Fußball 8 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688721
-#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679671
-#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679672
-#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679673
-#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679676
-#EXTINF:-1,Telekom Basketball 1 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679674
-#EXTINF:-1,Telekom Basketball 2 [Match Time] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679675
-#EXTINF:-1,Sport Digital FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8244
-#EXTINF:-1,Sport Digital HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6171
-#EXTINF:-1,Motorvision HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8222
-#EXTINF:-1,Auto Motor Sport FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9132
-#EXTINF:-1,FC Bayern TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9128
-#EXTINF:-1,------- Movies & Series -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678836
-#EXTINF:-1,Sky Action HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5093
-#EXTINF:-1,Sky Action DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6205
-#EXTINF:-1,Sky Cinema Special FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8217
-#EXTINF:-1,Sky Cinema Special HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6252
-#EXTINF:-1,Sky Cinema Thriller FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5089
-#EXTINF:-1,Sky Cinema Thriller HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7372
-#EXTINF:-1,Sky Cinema Thriller DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6193
-#EXTINF:-1,Sky Cinema Premieren FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6194
-#EXTINF:-1,Sky Cinema Premieren HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7373
-#EXTINF:-1,Sky Cinema Premieren +24 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6192
-#EXTINF:-1,Sky Cinema Premieren +24 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13133
-#EXTINF:-1,Sky Cinema Action HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7370
-#EXTINF:-1,Sky Cinema Action DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9146
-#EXTINF:-1,Sky Cinema Fun HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9144
-#EXTINF:-1,Sky Cinema Fun DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6190
-#EXTINF:-1,Sky Cinema Best Of FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7368
-#EXTINF:-1,Sky Cinema Best Of HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8223
-#EXTINF:-1,Sky Cinema Family FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9145
-#EXTINF:-1,Sky Cinema Family HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7369
-#EXTINF:-1,Sky Cinema Classics HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13131
-#EXTINF:-1,Sky Cinema Classics DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6186
-#EXTINF:-1,Sky Cinema Best of DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5088
-#EXTINF:-1,Sky Cinema Nostalgie HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688792
-#EXTINF:-1,Sky Cinema Comedy VIP HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688822
-#EXTINF:-1,Sky Crime VIP HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688821
-#EXTINF:-1,Sky Atlantic HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7367
-#EXTINF:-1,Sky Atlantic DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6204
-#EXTINF:-1,Sky Atlantic +1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13134
-#EXTINF:-1,Sky 13TH Street FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5098
-#EXTINF:-1,Sky 13TH Street HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7365
-#EXTINF:-1,Sky 13TH Street [B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8198
-#EXTINF:-1,Sky One FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9138
-#EXTINF:-1,One HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9147
-#EXTINF:-1,Fox FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13567
-#EXTINF:-1,Fox HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6245
-#EXTINF:-1,Fox DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23770
-#EXTINF:-1,Syfy FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7364
-#EXTINF:-1,Syfy HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5087
-#EXTINF:-1,Syfy DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6164
-#EXTINF:-1,Sky Krimi HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8220
-#EXTINF:-1,TNT Comedy FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6157
-#EXTINF:-1,TNT Comedy HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687541
-#EXTINF:-1,TNT Film FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6156
-#EXTINF:-1,TNT Film HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683894
-#EXTINF:-1,TNT Serie FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5084
-#EXTINF:-1,TNT Serie HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6155
-#EXTINF:-1,TNT Serie DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13154
-#EXTINF:-1,Universal FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5265
-#EXTINF:-1,Sony TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6167
-#EXTINF:-1,Kinowelt HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6240
-#EXTINF:-1,Kinowelt DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/672086
-#EXTINF:-1,Eagle Cinema Premiere FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681946
-#EXTINF:-1,Eagle Cinema Horror FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681942
-#EXTINF:-1,Eagle Cinema Thriller FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681950
-#EXTINF:-1,Eagle Cinema Sci-Fi FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681949
-#EXTINF:-1,Eagle Cinema Animation HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681939
-#EXTINF:-1,Eagle Cinema Mythologie HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681945
-#EXTINF:-1,Eagle Cinema Lächeln HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681944
-#EXTINF:-1,Eagle Cinema Geschichte HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681941
-#EXTINF:-1,Eagle Cinema Romantisch FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681948
-#EXTINF:-1,Sky Select 1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655131
-#EXTINF:-1,Sky Select 1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7375
-#EXTINF:-1,Sky Select 2 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655130
-#EXTINF:-1,Sky Select 2 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7376
-#EXTINF:-1,Sky Select 3 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655129
-#EXTINF:-1,Sky Select 3 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7377
-#EXTINF:-1,Sky Select 4 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655128
-#EXTINF:-1,Sky Select 4 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7378
-#EXTINF:-1,Sky Select 5 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8977
-#EXTINF:-1,Sky Select 5 HD [demnächst] DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655127
-#EXTINF:-1,Sky Select 6 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8976
-#EXTINF:-1,Sky Select 6 FHD (demnächst) DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655126
-#EXTINF:-1,Sky Select 7 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8975
-#EXTINF:-1,Sky Select 8 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8974
-#EXTINF:-1,PopCorn Select 1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23778
-#EXTINF:-1,PopCorn Select 2 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683536
-#EXTINF:-1,PopCorn Select 2 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23777
-#EXTINF:-1,PopCorn Select 3 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683537
-#EXTINF:-1,PopCorn Select 3 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23776
-#EXTINF:-1,PopCorn Select 4 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23775
-#EXTINF:-1,PopCorn Select 5 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683540
-#EXTINF:-1,HiperCinema 4K DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683524
-#EXTINF:-1,HyperCinema Boxset FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683534
-#EXTINF:-1,HyperCinema INFO FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683523
-#EXTINF:-1,HyperCinema 1 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683535
-#EXTINF:-1,HyperCinema 2 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683525
-#EXTINF:-1,HyperCinema 3 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683526
-#EXTINF:-1,HyperCinema 4 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683527
-#EXTINF:-1,HyperCinema 5 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683528
-#EXTINF:-1,HyperCinema 6 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683529
-#EXTINF:-1,HyperCinema 7 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683530
-#EXTINF:-1,HyperCinema 8 FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683531
-#EXTINF:-1,AXN FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5097
-#EXTINF:-1,AXN HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6259
-#EXTINF:-1,Comedy Central FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6154
-#EXTINF:-1,Romance TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13152
-#EXTINF:-1,Romance TV DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6211
-#EXTINF:-1,Sky Heimat Kanal HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678481
-#EXTINF:-1,Sky Heimat Kanal DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6188
-#EXTINF:-1,Sixx FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6207
-#EXTINF:-1,Servus TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6208
-#EXTINF:-1,Tele 5 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9150
-#EXTINF:-1,Bibel TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/677497
-#EXTINF:-1,FilMax Hits FHD VIP DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688717
-#EXTINF:-1,------- Documentary -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678919
-#EXTINF:-1,ZDF Info HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9148
-#EXTINF:-1,N24 Doku DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679837
-#EXTINF:-1,Kabel Eins Doku FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13147
-#EXTINF:-1,Kabel 1 Doku DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679843
-#EXTINF:-1,History Channel FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6244
-#EXTINF:-1,Spiegel Geschichte HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6174
-#EXTINF:-1,Spiegel TV Wissen HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9135
-#EXTINF:-1,Discovery FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13570
-#EXTINF:-1,Discovery HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5096
-#EXTINF:-1,DOXX HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679846
-#EXTINF:-1,Animal Planet FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8196
-#EXTINF:-1,Animal Planet HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13173
-#EXTINF:-1,National Geographic HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8194
-#EXTINF:-1,National Geographic DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6226
-#EXTINF:-1,Nat Geo wild FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6227
-#EXTINF:-1,Nat Geo Wild HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9136
-#EXTINF:-1,Nat Geo Wild DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5085
-#EXTINF:-1,HGTV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688723
-#EXTINF:-1,Welt der Wunder HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679838
-#EXTINF:-1,Welt der Wunder DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13129
-#EXTINF:-1,Anixe HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6264
-#EXTINF:-1,Dmax FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6249
-#EXTINF:-1,TLC HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8224
-#EXTINF:-1,Health TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688722
-#EXTINF:-1,Luxe TV FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/676714
-#EXTINF:-1,Sky Arte FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5091
-#EXTINF:-1,Sky Arte HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9139
-#EXTINF:-1,Sky Arte DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6261
-#EXTINF:-1,ARD Alpha HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13171
-#EXTINF:-1,Light Channel DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688724
-#EXTINF:-1,Waidwerk FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687566
-#EXTINF:-1,------- News -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678922
-#EXTINF:-1,Welt HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6228
-#EXTINF:-1,N-TV FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13149
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3964
+#EXTINF:-1,KABEL EINS FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3880
+#EXTINF:-1,SIXXX FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19490
+#EXTINF:-1,RTL 2 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3886
+#EXTINF:-1,RTL NITRO HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9308
+#EXTINF:-1,NITRO FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3872
+#EXTINF:-1,SUPER RTL FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3885
+#EXTINF:-1,TELE 5
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19487
+#EXTINF:-1,TLC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35736
+#EXTINF:-1,RTL PASSION FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3871
+#EXTINF:-1,RTL LIVING
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19692
+#EXTINF:-1,RTL CRIME FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3873
+#EXTINF:-1,SAT.1 GOLD FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3870
+#EXTINF:-1,SAT.1 EMOTIONS HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19491
+#EXTINF:-1,KABEL EINS CLASSIC HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35844
+#EXTINF:-1,HEIMATKANAL
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3864
+#EXTINF:-1,PRO 7 MAXX FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3883
+#EXTINF:-1,PRO7 FUN FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19492
+#EXTINF:-1,NITRO HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19700
+#EXTINF:-1,ONE HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19691
+#EXTINF:-1,S K Y 1
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/37461
+#EXTINF:-1,WELT HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19695
+#EXTINF:-1,N24 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9302
+#EXTINF:-1,PHOENIX HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19486
 #EXTINF:-1,N-TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8195
-#EXTINF:-1,N-TV DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13566
-#EXTINF:-1,Munchen TV DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6229
-#EXTINF:-1,Phoenix HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6221
-#EXTINF:-1,Tagesschau 24 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6163
-#EXTINF:-1,------- Children -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678923
-#EXTINF:-1,Super RTL FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13554
-#EXTINF:-1,Super RTL HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6166
-#EXTINF:-1,KiKa FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679839
-#EXTINF:-1,Kika HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6241
-#EXTINF:-1,Baby TV DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13169
-#EXTINF:-1,Toggo Plus HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5086
-#EXTINF:-1,Toggo Plus DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9133
-#EXTINF:-1,Boomerang HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6258
-#EXTINF:-1,Cartoon Network FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6257
-#EXTINF:-1,Disney Channel FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6253
-#EXTINF:-1,Disney Junior FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13568
-#EXTINF:-1,Disney Junior HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6251
-#EXTINF:-1,Junior HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6239
-#EXTINF:-1,Nickelodeon HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6224
-#EXTINF:-1,Fix & Foxi DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23771
-#EXTINF:-1,------- Music -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678925
-#EXTINF:-1,MTV FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/35466
-#EXTINF:-1,MTV +1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679793
-#EXTINF:-1,MTV 80s DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/638080
-#EXTINF:-1,Sky Classica DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6191
-#EXTINF:-1,Classica HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13167
-#EXTINF:-1,GoldStar TV DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683427
-#EXTINF:-1,Jukebox DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13148
-#EXTINF:-1,Deluxe Music HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6255
-#EXTINF:-1,Kronehit FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14200
-#EXTINF:-1,Pilatus Beatz TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688787
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13165
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9301
+#EXTINF:-1,N-TV HD+
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19630
+#EXTINF:-1,TAGESSCHAU 24
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19618
+#EXTINF:-1,WDR FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9305
+#EXTINF:-1,MDR HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/38790
+#EXTINF:-1,SWR HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/38791
+#EXTINF:-1,NDR HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/38789
+#EXTINF:-1,3SAT FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3877
+#EXTINF:-1,MUNCHEN TV FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19632
+#EXTINF:-1,ZDF INFO HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19689
+#EXTINF:-1,ZDF NEO HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19690
+#EXTINF:-1,DISCOVERY CHANNEL FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3845
+#EXTINF:-1,NAT GEO FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3847
+#EXTINF:-1,NAT GEO WILD FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19629
+#EXTINF:-1,NAT GEO WILD FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3846
+#EXTINF:-1,HISTORY FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19627
+#EXTINF:-1,ARTE FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3876
+#EXTINF:-1,SPIEGEL GESCHICHTE FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3865
+#EXTINF:-1,E! ENTERTAINMENT FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9300
+#EXTINF:-1,DMAX FHD/HD/SD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19702
+#EXTINF:-1,N24 DOKU
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19701
+#EXTINF:-1,TOGGO PLUS FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3863
+#EXTINF:-1,BOOMERANG
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3841
+#EXTINF:-1,DISNEY CHANNEL FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3842
+#EXTINF:-1,DISNEY JUNIOR FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3843
+#EXTINF:-1,DISNEY XD HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19623
+#EXTINF:-1,DISNEY XD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9303
+#EXTINF:-1,CARTOON NETWORK FHD/HD/SD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9304
+#EXTINF:-1,KIKA HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19625
+#EXTINF:-1,NICK/MTV+ HD+
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19621
+#EXTINF:-1,NICKELDEON FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19622
+#EXTINF:-1,SKY CINEMA PREMIEREN
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3856
+#EXTINF:-1,SKY CINEMA THRILLER
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3852
+#EXTINF:-1,SKY CINEMA PREMIEREN +24 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3853
+#EXTINF:-1,SKY CINEMA FAMILY FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3855
+#EXTINF:-1,SKY ACTION FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3858
+#EXTINF:-1,SKY ATLANTIC FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3859
+#EXTINF:-1,SKY CINEMA FUN
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3851
+#EXTINF:-1,SKY CINEMA CLASSICS FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3849
+#EXTINF:-1,SKY CINEMA CLASSICS
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3850
+#EXTINF:-1,DISNEY CINEMAGIC FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3844
+#EXTINF:-1,DISNEY CINEMAGIC HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19624
+#EXTINF:-1,UNIVERSAL TV HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19699
+#EXTINF:-1,SKY KRIMI
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3857
+#EXTINF:-1,13TH STREET FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3866
+#EXTINF:-1,SYFY HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19697
+#EXTINF:-1,FOX FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3878
+#EXTINF:-1,FOX/TNT SERIE FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3867
+#EXTINF:-1,KINOWELT HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19489
+#EXTINF:-1,ROMANCE TV
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19626
+#EXTINF:-1,TNT FILM FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3869
+#EXTINF:-1,TNT FILM HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19698
+#EXTINF:-1,TNT SERIE HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3868
+#EXTINF:-1,TNT COMEDY
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35120
+#EXTINF:-1,TNT COMEDY HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/37231
+#EXTINF:-1,ANIXE HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19696
+#EXTINF:-1,TELECLUB ACTION HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19484
+#EXTINF:-1,TELECLUB CINEMA FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19485
+#EXTINF:-1,SONY CHANNEL
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19693
+#EXTINF:-1,VIVA/COMEDY CENTRAL
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19488
+#EXTINF:-1,SKY SELECT 1
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3895
+#EXTINF:-1,SKY SELECT 2
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3894
+#EXTINF:-1,SKY SELECT 3
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3893
+#EXTINF:-1,SKY SELECT 4
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3892
+#EXTINF:-1,SKY SELECT 5
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3891
+#EXTINF:-1,SKY SELECT 6
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3890
+#EXTINF:-1,BOSS MOVIES 1 HD DE
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/25230
+#EXTINF:-1,BOSS MOVIES 2 HD DE
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/25231
+#EXTINF:-1,BOSS MOVIES 3 HD DE
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/25313
+#EXTINF:-1,BOSS MOVIES 4 HD DE
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/25314
+#EXTINF:-1,POPCORN SELECT 1 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3840
+#EXTINF:-1,POPCORN SELECT 2 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3839
+#EXTINF:-1,POPCORN SELECT 3 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3838
+#EXTINF:-1,POPCORN SELECT 4 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3837
+#EXTINF:-1,POPCORN SELECT 5 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3836
+#EXTINF:-1,KiNOBOX 1
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/72367
+#EXTINF:-1,KiNOBOX 2
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/72368
+#EXTINF:-1,KiNOBOX 3
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/72369
+#EXTINF:-1,KiNOBOX 4
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/72370
+#EXTINF:-1,KiNOBOX 5
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/72371
+#EXTINF:-1,KiNOBOX 6
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/72372
+#EXTINF:-1,KiNOBOX 7
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/72373
+#EXTINF:-1,CLASSICA
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3860
+#EXTINF:-1,JUKEBOX HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19620
+#EXTINF:-1,MTV/NICK HD +
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19616
+#EXTINF:-1,DELUXE MUSIC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19619
+#EXTINF:-1,DAZN 1 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19688
+#EXTINF:-1,DAZN 2 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19687
+#EXTINF:-1,SKY BUNDESLIGA 1 HD/FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19664
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35923
+#EXTINF:-1,SKY SPORT NEWS FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3899
+#EXTINF:-1,SKY SPORT 1 FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/25232
+#EXTINF:-1,SKY SPORT 1 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19675
+#EXTINF:-1,SKY SPORT 2 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/23843
+#EXTINF:-1,SKY SPORT 2 HD*
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/23844
+#EXTINF:-1,SKY SPORT 2 HD/FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35934
+#EXTINF:-1,SKY SPORT AUSTRIA FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3897
+#EXTINF:-1,SKY SPORT AUSTRIA FHD/HD *
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19682
+#EXTINF:-1,SPORTDIGITAL FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19677
+#EXTINF:-1,FC BAYERN TV
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/25233
+#EXTINF:-1,SPORT 1
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19679
+#EXTINF:-1,SPORT1 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19678
+#EXTINF:-1,SKY SPORT F1
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/24948
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 1 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/24210
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 2 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/24209
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 3 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/24208
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 4 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/24207
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 5 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/24206
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 6 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/24205
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 7 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/38127
+#EXTINF:-1,BUNDESLIGA 3.LIGA - 8 HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/38128
+#EXTINF:-1,MOTORVISION TV
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/9299
+#EXTINF:-1,MOTORVISION TV FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19676
+#EXTINF:-1,ORF SPORT FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19680
+#EXTINF:-1,SKY BUNDESLIGA 2 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19663
+#EXTINF:-1,SKY BUNDESLIGA 3 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19662
+#EXTINF:-1,SKY BUNDESLIGA 4 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19661
+#EXTINF:-1,SKY BUNDESLIGA 5 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19660
+#EXTINF:-1,SKY BUNDESLIGA 6 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19659
+#EXTINF:-1,SKY BUNDESLIGA 7 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19658
+#EXTINF:-1,SKY BUNDESLIGA 8 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19657
+#EXTINF:-1,SKY BUNDESLIGA 9 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19656
+#EXTINF:-1,SKY BUNDESLIGA 10 FHD/HD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19655
+#EXTINF:-1,SKY BUNDESLIGA 2 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35924
+#EXTINF:-1,SKY BUNDESLIGA 3 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35925
+#EXTINF:-1,SKY BUNDESLIGA 4 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35926
+#EXTINF:-1,SKY BUNDESLIGA 5 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35927
+#EXTINF:-1,SKY BUNDESLIGA 6 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35928
+#EXTINF:-1,SKY BUNDESLIGA 7 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35929
+#EXTINF:-1,SKY BUNDESLIGA 8 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35930
+#EXTINF:-1,SKY BUNDESLIGA 9 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35931
+#EXTINF:-1,SKY BUNDESLIGA 10 HD * (On Match Day)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/35932
+#EXTINF:-1,SKY SPORT 3 HD (ON MATCH DAY)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19673
+#EXTINF:-1,SKY SPORT 4 HD (ON MATCH DAY)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19672
+#EXTINF:-1,SKY SPORT 5 HD (ON MATCH DAY)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19671
+#EXTINF:-1,SKY SPORT 6 HD (ON MATCH DAY)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19670
+#EXTINF:-1,SKY SPORT 7 HD (ON MATCH DAY)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19669
+#EXTINF:-1,SKY SPORT 8 HD (ON MATCH DAY)
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/19668
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 1
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80799
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 2
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80800
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 3
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80801
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 4
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80802
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 5
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80803
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 6
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80804
+#EXTINF:-1,TELEKOM 3 BUNDESLIGA 7
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80805
+#EXTINF:-1,TELEKOM BBL SPORT 1
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80807
+#EXTINF:-1,TELEKOM BBL SPORT 2
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80808
+#EXTINF:-1,TELEKOM BBL SPORT 3
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80809
+#EXTINF:-1,TELEKOM DEL SPORT 1
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80811
+#EXTINF:-1,TELEKOM DEL SPORT 2
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80812
+#EXTINF:-1,TELEKOM DEL SPORT 3
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80813
+#EXTINF:-1,TELEKOM DEL SPORT 4
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80814
+#EXTINF:-1,TELEKOM DEL SPORT 5
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80815
+#EXTINF:-1,TELEKOM DEL SPORT 6
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/80816
+#EXTINF:-1,DAS ERSTE HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63560
+#EXTINF:-1,ZDF HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63561
+#EXTINF:-1,RTL HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63562
+#EXTINF:-1,RTL ZWEI HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63565
+#EXTINF:-1,VOX HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63567
+#EXTINF:-1,WELT HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63603
+#EXTINF:-1,SAT.1 HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63566
+#EXTINF:-1,SAT 1 GOLD HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63571
+#EXTINF:-1,SPIEGEL GESCHICHTE HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63601
+#EXTINF:-1,N-TV HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63599
+#EXTINF:-1,FOX HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63591
+#EXTINF:-1,NITRO HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63572
+#EXTINF:-1,PRO 7 MAXX HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63569
+#EXTINF:-1,PROSIEBEN HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63564
+#EXTINF:-1,SIXX HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63570
+#EXTINF:-1,13TH STREET HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63588
+#EXTINF:-1,HISTORY HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63596
+#EXTINF:-1,DISCOVERY HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63595
+#EXTINF:-1,DMAX HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63597
+#EXTINF:-1,KABEL EINS HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63568
+#EXTINF:-1,KIKA HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63592
+#EXTINF:-1,N24 DOKU HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63598
+#EXTINF:-1,NAT GEO HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63594
+#EXTINF:-1,NAT GEO WILD HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63593
+#EXTINF:-1,SKY ATLANTIC HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63582
+#EXTINF:-1,SKY ONE HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63573
+#EXTINF:-1,SKY SPORT NEWS HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63606
+#EXTINF:-1,SKY SPORT 1 HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63607
+#EXTINF:-1,SKY SPORT 2 HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63608
+#EXTINF:-1,SKY SPORT AUSTRIA 1 HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63612
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63610
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2 HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63611
+#EXTINF:-1,SPORT 1 HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63609
+#EXTINF:-1,DAZN 1 BAR HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63604
+#EXTINF:-1,DAZN 2 BAR HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63605
+#EXTINF:-1,SKY KRIMI HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63584
+#EXTINF:-1,SKY CINEMA  THRILLER HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63575
+#EXTINF:-1,SKY CINEMA ACTION HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63577
+#EXTINF:-1,SKY CINEMA BEST OF HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63581
+#EXTINF:-1,SKY CINEMA CLASSICS HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63580
+#EXTINF:-1,SKY CINEMA FAMILY HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63578
+#EXTINF:-1,SKY CINEMA FUN HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63583
+#EXTINF:-1,SKY CINEMA PREMIEREN 24 HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63576
+#EXTINF:-1,SKY CINEMA PREMIEREN HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63579
+#EXTINF:-1,SKY CINEMA SPECIAL HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63574
+#EXTINF:-1,SYFY HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63589
+#EXTINF:-1,TLC HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63602
+#EXTINF:-1,TNT COMEDY HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63585
+#EXTINF:-1,E! HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63590
+#EXTINF:-1,TNT SERIE HEVC
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/63587
