@@ -1,661 +1,827 @@
 #EXTM3U
-#EXTINF:-1,MTV 80s
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/176140
-#EXTINF:-1,BBC One
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55106
+#EXTINF:-1,BBC One SD
+http://globalsystems.me:8880/live/mizan/mizan/2848044.m3u8
+#EXTINF:-1,BBC One HD
+http://globalsystems.me:8880/live/mizan/mizan/2262241.m3u8
+#EXTINF:-1,BBC One FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262188.m3u8
+#EXTINF:-1,BBC Two SD
+http://globalsystems.me:8880/live/mizan/mizan/2848045.m3u8
 #EXTINF:-1,BBC Two HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/31971
-#EXTINF:-1,BBC Two
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53096
-#EXTINF:-1,ITV HD (London)
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/36958
-#EXTINF:-1,ITV HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/47643
-#EXTINF:-1,Channel 4 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42453
+http://globalsystems.me:8880/live/mizan/mizan/2262242.m3u8
+#EXTINF:-1,BBC Two FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262189.m3u8
+#EXTINF:-1,ITV1 SD
+http://globalsystems.me:8880/live/mizan/mizan/2848046.m3u8
+#EXTINF:-1,ITV 1 HD
+http://globalsystems.me:8880/live/mizan/mizan/2262243.m3u8
+#EXTINF:-1,ITV 1 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262190.m3u8
 #EXTINF:-1,Channel 4 SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37413
-#EXTINF:-1,Channel 5 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55107
+http://globalsystems.me:8880/live/mizan/mizan/2848051.m3u8
+#EXTINF:-1,Channel 4 HD
+http://globalsystems.me:8880/live/mizan/mizan/2262244.m3u8
+#EXTINF:-1,Channel 4 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262191.m3u8
 #EXTINF:-1,Channel 5 SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/166484
-#EXTINF:-1,Channel 5 +1
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/84830
+http://globalsystems.me:8880/live/mizan/mizan/2848052.m3u8
+#EXTINF:-1,Channel 5 HD
+http://globalsystems.me:8880/live/mizan/mizan/2262245.m3u8
+#EXTINF:-1,Channel 5 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262192.m3u8
+#EXTINF:-1,Sky One SD
+http://globalsystems.me:8880/live/mizan/mizan/2848053.m3u8
 #EXTINF:-1,Sky One HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/46832
+http://globalsystems.me:8880/live/mizan/mizan/2262246.m3u8
+#EXTINF:-1,Sky One FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262193.m3u8
+#EXTINF:-1,Sky Replay SD
+http://globalsystems.me:8880/live/mizan/mizan/2848054.m3u8
+#EXTINF:-1,Sky Replay HD
+http://globalsystems.me:8880/live/mizan/mizan/2262247.m3u8
+#EXTINF:-1,Sky Replay FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262194.m3u8
+#EXTINF:-1,Sky Comedy SD
+http://globalsystems.me:8880/live/mizan/mizan/2848057.m3u8
+#EXTINF:-1,Sky Comedy HD
+http://globalsystems.me:8880/live/mizan/mizan/2262195.m3u8
+#EXTINF:-1,Sky Comedy FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262196.m3u8
+#EXTINF:-1,Sky Atlantic SD
+http://globalsystems.me:8880/live/mizan/mizan/2848056.m3u8
 #EXTINF:-1,Sky Atlantic HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/92097
-#EXTINF:-1,Sky Arts HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/8156
-#EXTINF:-1,Sky Arts SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/95614
-#EXTINF:-1,Paramount Network
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/63820
-#EXTINF:-1,Comedy Central
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/52959
-#EXTINF:-1,Comedy Central SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55110
-#EXTINF:-1, Gold HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/108578
-#EXTINF:-1,Gold SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/102859
-#EXTINF:-1,MTV HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/8161
-#EXTINF:-1,Alibi HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37167
-#EXTINF:-1,Syfy HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/8150
-#EXTINF:-1,Drama SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/100450
+http://globalsystems.me:8880/live/mizan/mizan/2262248.m3u8
+#EXTINF:-1,Sky Atlantic FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262197.m3u8
+#EXTINF:-1,Sky Witness SD
+http://globalsystems.me:8880/live/mizan/mizan/2848055.m3u8
+#EXTINF:-1,Sky Witness HD
+http://globalsystems.me:8880/live/mizan/mizan/2262249.m3u8
+#EXTINF:-1,Sky Witness FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262198.m3u8
+#EXTINF:-1,ITV2 SD
+http://globalsystems.me:8880/live/mizan/mizan/2848047.m3u8
 #EXTINF:-1,ITV 2 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97276
-#EXTINF:-1,ITV 2 SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/57270
-#EXTINF:-1,ITV 3 SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/57269
+http://globalsystems.me:8880/live/mizan/mizan/2262250.m3u8
+#EXTINF:-1,ITV 2 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262199.m3u8
+#EXTINF:-1,ITV3 SD
+http://globalsystems.me:8880/live/mizan/mizan/2848048.m3u8
+#EXTINF:-1,ITV 3 HD
+http://globalsystems.me:8880/live/mizan/mizan/2262251.m3u8
+#EXTINF:-1,ITV 3 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262200.m3u8
+#EXTINF:-1,ITV4 SD
+http://globalsystems.me:8880/live/mizan/mizan/2848049.m3u8
 #EXTINF:-1,ITV 4 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38021
-#EXTINF:-1,ITV 4
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11346
-#EXTINF:-1,ITV Be. HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37412
-#EXTINF:-1,E4 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/111837
-#EXTINF:-1,W HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38020
-#EXTINF:-1,TLC SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/45767
-#EXTINF:-1,Food Network SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/54117
-#EXTINF:-1,Food Network HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11335
-#EXTINF:-1,BBC Four HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/8152
-#EXTINF:-1,Dave HD.
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/49538
+http://globalsystems.me:8880/live/mizan/mizan/2262252.m3u8
+#EXTINF:-1,ITV 4 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262201.m3u8
+#EXTINF:-1,ITVBe SD
+http://globalsystems.me:8880/live/mizan/mizan/2848050.m3u8
+#EXTINF:-1,ITVBE HD
+http://globalsystems.me:8880/live/mizan/mizan/2262202.m3u8
+#EXTINF:-1,ITVBE FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262253.m3u8
 #EXTINF:-1,Dave SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/84841
-#EXTINF:-1,Dave Ja Vu
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53404
-#EXTINF:-1,CBS Reality HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/9004
-#EXTINF:-1,CBS Drama HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/9226
-#EXTINF:-1,CBS Justice HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/9225
-#EXTINF:-1,CBS Justice SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53099
+http://globalsystems.me:8880/live/mizan/mizan/2848058.m3u8
+#EXTINF:-1,Dave HD
+http://globalsystems.me:8880/live/mizan/mizan/2262254.m3u8
+#EXTINF:-1,Dave FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262203.m3u8
+#EXTINF:-1,Gold SD
+http://globalsystems.me:8880/live/mizan/mizan/2848059.m3u8
+#EXTINF:-1,Gold HD
+http://globalsystems.me:8880/live/mizan/mizan/2262255.m3u8
+#EXTINF:-1,Gold FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262204.m3u8
+#EXTINF:-1,W SD
+http://globalsystems.me:8880/live/mizan/mizan/2848060.m3u8
+#EXTINF:-1,W HD
+http://globalsystems.me:8880/live/mizan/mizan/2262205.m3u8
+#EXTINF:-1,W FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262206.m3u8
+#EXTINF:-1,Alibi SD
+http://globalsystems.me:8880/live/mizan/mizan/2848061.m3u8
+#EXTINF:-1,Alibi HD
+http://globalsystems.me:8880/live/mizan/mizan/2262207.m3u8
+#EXTINF:-1,Alibi FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262208.m3u8
+#EXTINF:-1,Really SD
+http://globalsystems.me:8880/live/mizan/mizan/2848062.m3u8
 #EXTINF:-1,Really HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/9232
-#EXTINF:-1,Really SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/100444
-#EXTINF:-1,4 Seven HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37163
-#EXTINF:-1, 5 Star HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/26961
-#EXTINF:-1,5 STAR +1 SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53381
+http://globalsystems.me:8880/live/mizan/mizan/2262256.m3u8
+#EXTINF:-1,Really FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262209.m3u8
+#EXTINF:-1,E! SD
+http://globalsystems.me:8880/live/mizan/mizan/2848063.m3u8
+#EXTINF:-1,E! Entertainment HD
+http://globalsystems.me:8880/live/mizan/mizan/2262257.m3u8
+#EXTINF:-1,E! Entertainment FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262210.m3u8
+#EXTINF:-1,E4 SD
+http://globalsystems.me:8880/live/mizan/mizan/2848064.m3u8
+#EXTINF:-1,E4 HD
+http://globalsystems.me:8880/live/mizan/mizan/2262258.m3u8
+#EXTINF:-1,E4 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262211.m3u8
+#EXTINF:-1,More4 SD
+http://globalsystems.me:8880/live/mizan/mizan/2848065.m3u8
+#EXTINF:-1,MORE 4 HD
+http://globalsystems.me:8880/live/mizan/mizan/2262259.m3u8
+#EXTINF:-1,MORE 4 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262212.m3u8
+#EXTINF:-1,4seven SD
+http://globalsystems.me:8880/live/mizan/mizan/2848066.m3u8
+#EXTINF:-1,4Seven HD
+http://globalsystems.me:8880/live/mizan/mizan/2262260.m3u8
+#EXTINF:-1,4Seven FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262213.m3u8
+#EXTINF:-1,BBC Four HD
+http://globalsystems.me:8880/live/mizan/mizan/2262261.m3u8
+#EXTINF:-1,BBC Four FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262262.m3u8
+#EXTINF:-1,Logo TV HD
+http://globalsystems.me:8880/live/mizan/mizan/2262263.m3u8
+#EXTINF:-1,Logo TV FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262264.m3u8
+#EXTINF:-1,5STAR SD
+http://globalsystems.me:8880/live/mizan/mizan/2848068.m3u8
+#EXTINF:-1,5 STAR HD
+http://globalsystems.me:8880/live/mizan/mizan/2262265.m3u8
+#EXTINF:-1,5 STAR FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262214.m3u8
+#EXTINF:-1,5 USA HD
+http://globalsystems.me:8880/live/mizan/mizan/2262215.m3u8
+#EXTINF:-1,5 USA FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262216.m3u8
+#EXTINF:-1,5SELECT SD
+http://globalsystems.me:8880/live/mizan/mizan/2848067.m3u8
 #EXTINF:-1,5 Select HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/9237
-#EXTINF:-1,5 USA SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42672
-#EXTINF:-1,5 USA +1
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/75820
-#EXTINF:-1,5 Select HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/41512
-#EXTINF:-1,5 Select SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/48716
-#EXTINF:-1,Really SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11342
-#EXTINF:-1,Pick TV HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/94111
+http://globalsystems.me:8880/live/mizan/mizan/2262217.m3u8
+#EXTINF:-1,5 Select FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262218.m3u8
+#EXTINF:-1,CBS Reality
+http://globalsystems.me:8880/live/mizan/mizan/2262268.m3u8
+#EXTINF:-1,CBS Drama
+http://globalsystems.me:8880/live/mizan/mizan/2262269.m3u8
+#EXTINF:-1,CBS Justice
+http://globalsystems.me:8880/live/mizan/mizan/2262219.m3u8
+#EXTINF:-1,Fox SD
+http://globalsystems.me:8880/live/mizan/mizan/2848069.m3u8
+#EXTINF:-1,Fox HD
+http://globalsystems.me:8880/live/mizan/mizan/2577321.m3u8
+#EXTINF:-1,Fox FHD
+http://globalsystems.me:8880/live/mizan/mizan/2577322.m3u8
+#EXTINF:-1,TLC SD
+http://globalsystems.me:8880/live/mizan/mizan/2848070.m3u8
+#EXTINF:-1,TLC HD
+http://globalsystems.me:8880/live/mizan/mizan/2262270.m3u8
+#EXTINF:-1,TLC FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262220.m3u8
+#EXTINF:-1,SYFY SD
+http://globalsystems.me:8880/live/mizan/mizan/2848071.m3u8
+#EXTINF:-1,SyFy HD
+http://globalsystems.me:8880/live/mizan/mizan/2262271.m3u8
+#EXTINF:-1,SyFy FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262221.m3u8
 #EXTINF:-1,Quest SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53218
-#EXTINF:-1,QUEST +1
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/54192
-#EXTINF:-1,Quest Red
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/48694
-#EXTINF:-1,Quest Red +1
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/54193
-#EXTINF:-1,Challenge HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/21112
-#EXTINF:-1,Red Bull TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/100974
-#EXTINF:-1,MYTV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38102
-#EXTINF:-1,Hope Channel TV (Africa)
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/166612
-#EXTINF:-1,3ABN INTERNATIONAL
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/166611
-#EXTINF:-1,Sky News HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/10899
-#EXTINF:-1,Sky News SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/118807
-#EXTINF:-1,BBC World News SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/99544
-#EXTINF:-1,BBC World News HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/99543
-#EXTINF:-1,BBC News HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/10964
-#EXTINF:-1,BBC News SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42878
-#EXTINF:-1,BBC Parliment HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/112633
-#EXTINF:-1,RT News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/49277
-#EXTINF:-1,Bloomberg News HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/10925
-#EXTINF:-1,Al Jazeera Eng HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/84975
-#EXTINF:-1,France 24 (English)
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/47936
-#EXTINF:-1,CGTN News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/121440
-#EXTINF:-1,TVC News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/6043
-#EXTINF:-1,News Max
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/115544
-#EXTINF:-1,CNBC News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/46445
-#EXTINF:-1,CNN
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11074
-#EXTINF:-1,Fox News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38330
-#EXTINF:-1,Bloomberg Global Financial News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/172527
-#EXTINF:-1,TRT World
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38137
-#EXTINF:-1,Thane TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/129577
-#EXTINF:-1,Court TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/126500
-#EXTINF:-1,CGTN HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11883
-#EXTINF:-1,Arise News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38116
-#EXTINF:-1,NHK World News HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11075
-#EXTINF:-1,Sky Sports Main Event HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55160
-#EXTINF:-1,Sky Sports Main Event SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37982
-#EXTINF:-1,Sky Sports Premier League HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/51316
-#EXTINF:-1,Sky Sports Premier League SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55162
-#EXTINF:-1,Sky Sports Football HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/12451
-#EXTINF:-1,Sky Sports Football SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/91110
-#EXTINF:-1,Sky Sports Cricket HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55178
-#EXTINF:-1,Sky Sports Cricket SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37988
-#EXTINF:-1,UK:Sky Sports Golf HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/54115
-#EXTINF:-1,Sky Sports Golf SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/174542
-#EXTINF:-1,Sky Sports Action HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38165
-#EXTINF:-1,sky sports Action SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/174541
-#EXTINF:-1,Sky Sports Arena HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38161
-#EXTINF:-1,Sky Sports Arena SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55184
-#EXTINF:-1,Sky Sports Mix HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/174543
-#EXTINF:-1,Sky Sports F1 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/96500
-#EXTINF:-1,Sky Sports News HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38162
-#EXTINF:-1,Sky Sports News SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55182
-#EXTINF:-1,Racing TV HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38141
-#EXTINF:-1,Racing TV SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/96376
-#EXTINF:-1,BT Sport 1 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/36515
-#EXTINF:-1,BT Sport 1 SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/71240
-#EXTINF:-1,BT Sport 2 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37956
-#EXTINF:-1,BT Sport 3 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/32931
-#EXTINF:-1,BT Sport 3 SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/71242
-#EXTINF:-1,BT Sport Espn HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/10759
-#EXTINF:-1,BT Sport Extra 1 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/114097
-#EXTINF:-1,MUTV HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/26034
-#EXTINF:-1,LFC TV HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38017
-#EXTINF:-1,Chelsea FC
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/10770
-#EXTINF:-1,Boxnation HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38235
-#EXTINF:-1,Premier Sports 1 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/10767
-#EXTINF:-1,Premier Sports 2 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/48753
-#EXTINF:-1,Party Poker TV LIVE
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/172520
-#EXTINF:-1,WWE HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38216
-#EXTINF:-1,Fight Box HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42759
-#EXTINF:-1,UFC Fight Pass HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42675
-#EXTINF:-1,Sportystuff TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/165331
-#EXTINF:-1,Motor Trend
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/51305
-#EXTINF:-1,Horse & Country
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11365
-#EXTINF:-1,Talking Pictures
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11747
-#EXTINF:-1,Sky Cinema Premier HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53955
-#EXTINF:-1,Sky Cinema Premiere SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/85379
-#EXTINF:-1,Sky Cinema Comedy HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11376
-#EXTINF:-1,Sky Cinema Comedy SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/82068
-#EXTINF:-1,Sky Cinema Family HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11377
-#EXTINF:-1,Sky Cinema Family SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/82221
-#EXTINF:-1,Sky Cinema Action HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/46537
-#EXTINF:-1,Sky Cinema Action SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/85381
-#EXTINF:-1,Sky Cinema Thriller HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/23804
-#EXTINF:-1,Sky Cinema Thriller SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/114297
-#EXTINF:-1,Sky Cinema Drama HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/32667
-#EXTINF:-1,Sky.Cinema Drama
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/85382
-#EXTINF:-1,Sky Cinema Select HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/166479
-#EXTINF:-1,Sky Cinema Hits HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37157
-#EXTINF:-1,Showcase HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/46540
-#EXTINF:-1,Film 4 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/21369
-#EXTINF:-1,Film 4 SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/40330
+http://globalsystems.me:8880/live/mizan/mizan/2848072.m3u8
+#EXTINF:-1,Quest HD
+http://globalsystems.me:8880/live/mizan/mizan/2262272.m3u8
+#EXTINF:-1,Quest FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262222.m3u8
+#EXTINF:-1,Quest Red SD
+http://globalsystems.me:8880/live/mizan/mizan/2848073.m3u8
+#EXTINF:-1,Quest Red HD
+http://globalsystems.me:8880/live/mizan/mizan/2262223.m3u8
+#EXTINF:-1,Quest Red FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262224.m3u8
+#EXTINF:-1,Comedy Central SD
+http://globalsystems.me:8880/live/mizan/mizan/2848074.m3u8
+#EXTINF:-1,Comedy Central HD
+http://globalsystems.me:8880/live/mizan/mizan/2262273.m3u8
+#EXTINF:-1,Comedy Central FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262225.m3u8
+#EXTINF:-1,ComedyXtra SD
+http://globalsystems.me:8880/live/mizan/mizan/2848075.m3u8
+#EXTINF:-1,ComedyXtra HD
+http://globalsystems.me:8880/live/mizan/mizan/2262226.m3u8
+#EXTINF:-1,ComedyXtra FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262227.m3u8
+#EXTINF:-1,Drama SD
+http://globalsystems.me:8880/live/mizan/mizan/2848076.m3u8
+#EXTINF:-1,Drama HD
+http://globalsystems.me:8880/live/mizan/mizan/2262274.m3u8
+#EXTINF:-1,Drama FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262228.m3u8
+#EXTINF:-1,Paramount SD
+http://globalsystems.me:8880/live/mizan/mizan/2848077.m3u8
+#EXTINF:-1,Paramount HD
+http://globalsystems.me:8880/live/mizan/mizan/2262229.m3u8
+#EXTINF:-1,Paramount FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262230.m3u8
+#EXTINF:-1,Sky Arts SD
+http://globalsystems.me:8880/live/mizan/mizan/2848078.m3u8
+#EXTINF:-1,Sky Arts HD
+http://globalsystems.me:8880/live/mizan/mizan/2262275.m3u8
+#EXTINF:-1,Sky Arts FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262231.m3u8
 #EXTINF:-1,Horror Channel HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11872
-#EXTINF:-1,Sony Movies HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/26494
-#EXTINF:-1,Sony Movie HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53683
-#EXTINF:-1,Sony Movies SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/41662
-#EXTINF:-1,Sony Movies Action HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97779
-#EXTINF:-1,Sony Movies Action SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53767
-#EXTINF:-1,Sony Movies Action +1
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11869
-#EXTINF:-1,Showcase
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11855
-#EXTINF:-1,Cartoon Network HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/47658
-#EXTINF:-1,Cartoon Network SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97873
-#EXTINF:-1,Cartoonito HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37290
-#EXTINF:-1,Boomerang HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/65328
-#EXTINF:-1,Boomerang SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/39592
-#EXTINF:-1,Nickelodeon HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/12654
-#EXTINF:-1,Nickelodeon SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42766
-#EXTINF:-1,Nick JR.
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/51313
-#EXTINF:-1,Nick JR. SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97872
-#EXTINF:-1,Nick Jr 2 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/36599
-#EXTINF:-1,Nick Jr 2
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42764
-#EXTINF:-1,Baby TV SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55105
-#EXTINF:-1,Cbeebies
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55204
-#EXTINF:-1,Tiny Pop
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42284
-#EXTINF:-1,POP
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42285
-#EXTINF:-1,PoP +1
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53387
-#EXTINF:-1,POP MAX
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38326
-#EXTINF:-1,Discovery HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38288
-#EXTINF:-1,Discovery Science HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/9884
-#EXTINF:-1,Discovery Turbo HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38022
-#EXTINF:-1,Discovery Turbo SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/166482
+http://globalsystems.me:8880/live/mizan/mizan/2262276.m3u8
+#EXTINF:-1,Horror Channel FHD
+http://globalsystems.me:8880/live/mizan/mizan/2262232.m3u8
+#EXTINF:-1,BET
+http://globalsystems.me:8880/live/mizan/mizan/2262233.m3u8
+#EXTINF:-1,Pick
+http://globalsystems.me:8880/live/mizan/mizan/2262236.m3u8
+#EXTINF:-1,Challenge
+http://globalsystems.me:8880/live/mizan/mizan/2262238.m3u8
+#EXTINF:-1,BBC One E Mid
+http://globalsystems.me:8880/live/mizan/mizan/2863271.m3u8
+#EXTINF:-1,BBC One East E
+http://globalsystems.me:8880/live/mizan/mizan/2863272.m3u8
+#EXTINF:-1,BBC One East Midlands
+http://globalsystems.me:8880/live/mizan/mizan/2863273.m3u8
+#EXTINF:-1,BBC One N West
+http://globalsystems.me:8880/live/mizan/mizan/2863276.m3u8
+#EXTINF:-1,BBC One NE&C
+http://globalsystems.me:8880/live/mizan/mizan/2863274.m3u8
+#EXTINF:-1,BBC One NI
+http://globalsystems.me:8880/live/mizan/mizan/2863275.m3u8
+#EXTINF:-1,BBC One Oxford
+http://globalsystems.me:8880/live/mizan/mizan/2863277.m3u8
+#EXTINF:-1,BBC One S East
+http://globalsystems.me:8880/live/mizan/mizan/2863278.m3u8
+#EXTINF:-1,BBC One S West
+http://globalsystems.me:8880/live/mizan/mizan/2863279.m3u8
+#EXTINF:-1,BBC One Scotland
+http://globalsystems.me:8880/live/mizan/mizan/2863280.m3u8
+#EXTINF:-1,BBC One South
+http://globalsystems.me:8880/live/mizan/mizan/2863281.m3u8
+#EXTINF:-1,BBC One W Mid
+http://globalsystems.me:8880/live/mizan/mizan/2863282.m3u8
+#EXTINF:-1,BBC One Wales
+http://globalsystems.me:8880/live/mizan/mizan/2863283.m3u8
+#EXTINF:-1,BBC One Yk&Li
+http://globalsystems.me:8880/live/mizan/mizan/2863284.m3u8
+#EXTINF:-1,BBC One Yorks
+http://globalsystems.me:8880/live/mizan/mizan/2863285.m3u8
+#EXTINF:-1,BBC Two NI
+http://globalsystems.me:8880/live/mizan/mizan/2863286.m3u8
+#EXTINF:-1,BBC Two Wales
+http://globalsystems.me:8880/live/mizan/mizan/2863287.m3u8
+#EXTINF:-1,ITV Anglia East
+http://globalsystems.me:8880/live/mizan/mizan/2863291.m3u8
+#EXTINF:-1,ITV Anglia West
+http://globalsystems.me:8880/live/mizan/mizan/2863292.m3u8
+#EXTINF:-1,ITV Border England
+http://globalsystems.me:8880/live/mizan/mizan/2863293.m3u8
+#EXTINF:-1,ITV Border Scotland
+http://globalsystems.me:8880/live/mizan/mizan/2863305.m3u8
+#EXTINF:-1,ITV Central East
+http://globalsystems.me:8880/live/mizan/mizan/2863294.m3u8
+#EXTINF:-1,ITV Central West
+http://globalsystems.me:8880/live/mizan/mizan/2863295.m3u8
+#EXTINF:-1,ITV Granada
+http://globalsystems.me:8880/live/mizan/mizan/2863296.m3u8
+#EXTINF:-1,ITV London
+http://globalsystems.me:8880/live/mizan/mizan/2863290.m3u8
+#EXTINF:-1,ITV Meridian East
+http://globalsystems.me:8880/live/mizan/mizan/2863289.m3u8
+#EXTINF:-1,ITV Meridian East
+http://globalsystems.me:8880/live/mizan/mizan/2863306.m3u8
+#EXTINF:-1,ITV Meridian North
+http://globalsystems.me:8880/live/mizan/mizan/2863288.m3u8
+#EXTINF:-1,ITV Meridian South Coast
+http://globalsystems.me:8880/live/mizan/mizan/2863297.m3u8
+#EXTINF:-1,ITV Meridian Thames Valley
+http://globalsystems.me:8880/live/mizan/mizan/2863298.m3u8
+#EXTINF:-1,ITV Tyne Tees
+http://globalsystems.me:8880/live/mizan/mizan/2863299.m3u8
+#EXTINF:-1,ITV Wales
+http://globalsystems.me:8880/live/mizan/mizan/2863300.m3u8
+#EXTINF:-1,ITV Wales
+http://globalsystems.me:8880/live/mizan/mizan/2863307.m3u8
+#EXTINF:-1,ITV West Country East
+http://globalsystems.me:8880/live/mizan/mizan/2863301.m3u8
+#EXTINF:-1,ITV Westcountry West
+http://globalsystems.me:8880/live/mizan/mizan/2863302.m3u8
+#EXTINF:-1,ITV Yorkshire East
+http://globalsystems.me:8880/live/mizan/mizan/2863303.m3u8
+#EXTINF:-1,ITV Yorkshire West
+http://globalsystems.me:8880/live/mizan/mizan/2863304.m3u8
+#EXTINF:-1,STV
+http://globalsystems.me:8880/live/mizan/mizan/2863308.m3u8
+#EXTINF:-1,STV Central East
+http://globalsystems.me:8880/live/mizan/mizan/2863309.m3u8
+#EXTINF:-1,STV Central East
+http://globalsystems.me:8880/live/mizan/mizan/2863310.m3u8
+#EXTINF:-1,STV Central West
+http://globalsystems.me:8880/live/mizan/mizan/2863312.m3u8
+#EXTINF:-1,STV North
+http://globalsystems.me:8880/live/mizan/mizan/2863311.m3u8
+#EXTINF:-1,alibi+1
+http://globalsystems.me:8880/live/mizan/mizan/2848562.m3u8
+#EXTINF:-1,Animal Plnt+1
+http://globalsystems.me:8880/live/mizan/mizan/2848563.m3u8
+#EXTINF:-1,Boomerang+1
+http://globalsystems.me:8880/live/mizan/mizan/2848564.m3u8
+#EXTINF:-1,CBS Reality+1
+http://globalsystems.me:8880/live/mizan/mizan/2848565.m3u8
+#EXTINF:-1,Channel 5+1
+http://globalsystems.me:8880/live/mizan/mizan/2848566.m3u8
+#EXTINF:-1,Channel4+1
+http://globalsystems.me:8880/live/mizan/mizan/2848567.m3u8
+#EXTINF:-1,CNN+1
+http://globalsystems.me:8880/live/mizan/mizan/2848568.m3u8
+#EXTINF:-1,ComedyCent+1
+http://globalsystems.me:8880/live/mizan/mizan/2848569.m3u8
+#EXTINF:-1,Disc.History+1
+http://globalsystems.me:8880/live/mizan/mizan/2848570.m3u8
+#EXTINF:-1,Disc.Sci+1
+http://globalsystems.me:8880/live/mizan/mizan/2848571.m3u8
+#EXTINF:-1,Disc.Turbo+1
+http://globalsystems.me:8880/live/mizan/mizan/2848572.m3u8
+#EXTINF:-1,Discovery+1
+http://globalsystems.me:8880/live/mizan/mizan/2848573.m3u8
+#EXTINF:-1,DiscoveryTurbo+1
+http://globalsystems.me:8880/live/mizan/mizan/2848574.m3u8
+#EXTINF:-1,DMAX+1
+http://globalsystems.me:8880/live/mizan/mizan/2848575.m3u8
+#EXTINF:-1,Drama+1
+http://globalsystems.me:8880/live/mizan/mizan/2848576.m3u8
+#EXTINF:-1,E4+1
+http://globalsystems.me:8880/live/mizan/mizan/2848577.m3u8
+#EXTINF:-1,Eden+1
+http://globalsystems.me:8880/live/mizan/mizan/2848578.m3u8
+#EXTINF:-1,Film4+1
+http://globalsystems.me:8880/live/mizan/mizan/2848579.m3u8
+#EXTINF:-1,GOLD+1
+http://globalsystems.me:8880/live/mizan/mizan/2848580.m3u8
+#EXTINF:-1,HGTV+1
+http://globalsystems.me:8880/live/mizan/mizan/2848581.m3u8
+#EXTINF:-1,horror ch+1
+http://globalsystems.me:8880/live/mizan/mizan/2848582.m3u8
+#EXTINF:-1,InvestigationDiscovery+1
+http://globalsystems.me:8880/live/mizan/mizan/2848584.m3u8
+#EXTINF:-1,ITV Central West +1
+http://globalsystems.me:8880/live/mizan/mizan/2848585.m3u8
+#EXTINF:-1,ITV London +1
+http://globalsystems.me:8880/live/mizan/mizan/2848586.m3u8
+#EXTINF:-1,ITV+1
+http://globalsystems.me:8880/live/mizan/mizan/2848587.m3u8
+#EXTINF:-1,ITV2+1
+http://globalsystems.me:8880/live/mizan/mizan/2848588.m3u8
+#EXTINF:-1,ITV3+1
+http://globalsystems.me:8880/live/mizan/mizan/2848589.m3u8
+#EXTINF:-1,ITV3+1
+http://globalsystems.me:8880/live/mizan/mizan/2848590.m3u8
+#EXTINF:-1,ITV4+1
+http://globalsystems.me:8880/live/mizan/mizan/2848591.m3u8
+#EXTINF:-1,More4+1
+http://globalsystems.me:8880/live/mizan/mizan/2848592.m3u8
+#EXTINF:-1,Nick Jr+1
+http://globalsystems.me:8880/live/mizan/mizan/2848593.m3u8
+#EXTINF:-1,Nickelodeon+1
+http://globalsystems.me:8880/live/mizan/mizan/2848594.m3u8
+#EXTINF:-1,Pick+1
+http://globalsystems.me:8880/live/mizan/mizan/2848595.m3u8
+#EXTINF:-1,TCM Movies+1
+http://globalsystems.me:8880/live/mizan/mizan/2848598.m3u8
+#EXTINF:-1,TLC+1
+http://globalsystems.me:8880/live/mizan/mizan/2848599.m3u8
+#EXTINF:-1,5STAR+1
+http://globalsystems.me:8880/live/mizan/mizan/2848560.m3u8
+#EXTINF:-1,5USA+1
+http://globalsystems.me:8880/live/mizan/mizan/2848561.m3u8
+#EXTINF:-1,Sky Cinema Premier SD
+http://globalsystems.me:8880/live/mizan/mizan/2847493.m3u8
+#EXTINF:-1,Sky Cinema Premier FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261235.m3u8
+#EXTINF:-1,Sky Cinema Feel Good SD
+http://globalsystems.me:8880/live/mizan/mizan/2847495.m3u8
+#EXTINF:-1,Sky Cinema Feel Good HD
+http://globalsystems.me:8880/live/mizan/mizan/2261254.m3u8
+#EXTINF:-1,Sky Cinema Feel Good FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261236.m3u8
+#EXTINF:-1,Sky Cinema Hits SD
+http://globalsystems.me:8880/live/mizan/mizan/2847492.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://globalsystems.me:8880/live/mizan/mizan/2261255.m3u8
+#EXTINF:-1,Sky Cinema Greats SD
+http://globalsystems.me:8880/live/mizan/mizan/2847491.m3u8
+#EXTINF:-1,Sky Cinema Greats HD
+http://globalsystems.me:8880/live/mizan/mizan/2261256.m3u8
+#EXTINF:-1,Sky Cinema Family SD
+http://globalsystems.me:8880/live/mizan/mizan/2847490.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://globalsystems.me:8880/live/mizan/mizan/2261257.m3u8
+#EXTINF:-1,Sky Cinema Action SD
+http://globalsystems.me:8880/live/mizan/mizan/2847486.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://globalsystems.me:8880/live/mizan/mizan/2261258.m3u8
+#EXTINF:-1,Sky Cinema Comedy SD
+http://globalsystems.me:8880/live/mizan/mizan/2847488.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://globalsystems.me:8880/live/mizan/mizan/2261259.m3u8
+#EXTINF:-1,Sky Cinema Thriller SD
+http://globalsystems.me:8880/live/mizan/mizan/2847496.m3u8
+#EXTINF:-1,Sky Cinema Thriller HD
+http://globalsystems.me:8880/live/mizan/mizan/2261260.m3u8
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261242.m3u8
+#EXTINF:-1,Sky Cinema Drama SD
+http://globalsystems.me:8880/live/mizan/mizan/2847489.m3u8
+#EXTINF:-1,Sky Cinema Drama HD
+http://globalsystems.me:8880/live/mizan/mizan/2261243.m3u8
+#EXTINF:-1,Sky Cinema Drama FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261244.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi And Horror SD
+http://globalsystems.me:8880/live/mizan/mizan/2847494.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi And Horror HD
+http://globalsystems.me:8880/live/mizan/mizan/2261245.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi And Horror FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261246.m3u8
+#EXTINF:-1,Sky Cinema Animation SD
+http://globalsystems.me:8880/live/mizan/mizan/2847487.m3u8
+#EXTINF:-1,Sky Cinema Animation HD
+http://globalsystems.me:8880/live/mizan/mizan/2261247.m3u8
+#EXTINF:-1,Sky Cinema Animation FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261248.m3u8
+#EXTINF:-1,Disney+
+http://globalsystems.me:8880/live/mizan/mizan/2647029.m3u8
+#EXTINF:-1,Disney+ On Demand
+http://globalsystems.me:8880/live/mizan/mizan/2647030.m3u8
+#EXTINF:-1,Film 4 HD
+http://globalsystems.me:8880/live/mizan/mizan/2261249.m3u8
+#EXTINF:-1,Film 4 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261250.m3u8
+#EXTINF:-1,TCM
+http://globalsystems.me:8880/live/mizan/mizan/2261251.m3u8
+#EXTINF:-1,Talking Pictures
+http://globalsystems.me:8880/live/mizan/mizan/2261253.m3u8
+#EXTINF:-1,Sony Movies
+http://globalsystems.me:8880/live/mizan/mizan/2261261.m3u8
+#EXTINF:-1,Sky Store 1
+http://globalsystems.me:8880/live/mizan/mizan/2261266.m3u8
+#EXTINF:-1,Sky Store 2
+http://globalsystems.me:8880/live/mizan/mizan/2261267.m3u8
+#EXTINF:-1,Sky Store 3
+http://globalsystems.me:8880/live/mizan/mizan/2261268.m3u8
+#EXTINF:-1,Sky Store 4
+http://globalsystems.me:8880/live/mizan/mizan/2261269.m3u8
+#EXTINF:-1,Sky Store 5
+http://globalsystems.me:8880/live/mizan/mizan/2261270.m3u8
+#EXTINF:-1,Sky Sports News HD
+http://globalsystems.me:8880/live/mizan/mizan/2847440.m3u8
+#EXTINF:-1,Sky Sports News FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249113.m3u8
+#EXTINF:-1,Sky Sports News UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249114.m3u8
+#EXTINF:-1,Sky Sports Main Event HD
+http://globalsystems.me:8880/live/mizan/mizan/2847448.m3u8
+#EXTINF:-1,Sky Sports Main Event FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249162.m3u8
+#EXTINF:-1,Sky Sports Main Event UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249115.m3u8
+#EXTINF:-1,Sky Sports Premier League HD
+http://globalsystems.me:8880/live/mizan/mizan/2847442.m3u8
+#EXTINF:-1,Sky Sports Premier League FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249116.m3u8
+#EXTINF:-1,Sky Sports Premier League UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249117.m3u8
+#EXTINF:-1,Sky Sports Football HD
+http://globalsystems.me:8880/live/mizan/mizan/2847437.m3u8
+#EXTINF:-1,Sky Sports Football FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249118.m3u8
+#EXTINF:-1,Sky Sports Football UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249119.m3u8
+#EXTINF:-1,Sky Sports Cricket HD
+http://globalsystems.me:8880/live/mizan/mizan/2847435.m3u8
+#EXTINF:-1,Sky Sports Cricket FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249120.m3u8
+#EXTINF:-1,Sky Sports Cricket UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249121.m3u8
+#EXTINF:-1,Sky Sports Golf HD
+http://globalsystems.me:8880/live/mizan/mizan/2847438.m3u8
+#EXTINF:-1,Sky Sports Golf FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249122.m3u8
+#EXTINF:-1,Sky Sports Golf UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249123.m3u8
+#EXTINF:-1,Sky Sports F1 HD
+http://globalsystems.me:8880/live/mizan/mizan/2847436.m3u8
+#EXTINF:-1,Sky Sports F1 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249124.m3u8
+#EXTINF:-1,Sky Sports F1 UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249125.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://globalsystems.me:8880/live/mizan/mizan/2847441.m3u8
+#EXTINF:-1,Sky Sports Action FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249126.m3u8
+#EXTINF:-1,Sky Sports Action UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249127.m3u8
+#EXTINF:-1,Sky Sports Arena HD
+http://globalsystems.me:8880/live/mizan/mizan/2847434.m3u8
+#EXTINF:-1,Sky Sports Arena FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249128.m3u8
+#EXTINF:-1,Sky Sports Arena UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249129.m3u8
+#EXTINF:-1,Sky Sports Mix HD
+http://globalsystems.me:8880/live/mizan/mizan/2847439.m3u8
+#EXTINF:-1,Sky Sports Mix FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249130.m3u8
+#EXTINF:-1,Sky Sports Mix UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249131.m3u8
+#EXTINF:-1,Sky Sports Racing HD
+http://globalsystems.me:8880/live/mizan/mizan/2847443.m3u8
+#EXTINF:-1,Sky Sports Racing FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249132.m3u8
+#EXTINF:-1,Sky Sports Racing UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249133.m3u8
+#EXTINF:-1,Racing TV HD
+http://globalsystems.me:8880/live/mizan/mizan/2848648.m3u8
+#EXTINF:-1,Racing TV FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249134.m3u8
+#EXTINF:-1,Racing TV UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249135.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://globalsystems.me:8880/live/mizan/mizan/2847444.m3u8
+#EXTINF:-1,BT Sport 1 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249136.m3u8
+#EXTINF:-1,BT Sport 1 UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249137.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://globalsystems.me:8880/live/mizan/mizan/2847445.m3u8
+#EXTINF:-1,BT Sport 2 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249138.m3u8
+#EXTINF:-1,BT Sport 2 UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249139.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://globalsystems.me:8880/live/mizan/mizan/2847446.m3u8
+#EXTINF:-1,BT Sport 3 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249140.m3u8
+#EXTINF:-1,BT Sport 3 UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249141.m3u8
+#EXTINF:-1,BT Sport ESPN HD
+http://globalsystems.me:8880/live/mizan/mizan/2847447.m3u8
+#EXTINF:-1,BT Sport ESPN FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249142.m3u8
+#EXTINF:-1,BT Sport ESPN UHD
+http://globalsystems.me:8880/live/mizan/mizan/2249143.m3u8
+#EXTINF:-1,Premier Sport 1 SD
+http://globalsystems.me:8880/live/mizan/mizan/2848651.m3u8
+#EXTINF:-1,Premier Sport 1 HD
+http://globalsystems.me:8880/live/mizan/mizan/2249144.m3u8
+#EXTINF:-1,Premier Sport 2 SD
+http://globalsystems.me:8880/live/mizan/mizan/2848652.m3u8
+#EXTINF:-1,Premier Sport 2 HD
+http://globalsystems.me:8880/live/mizan/mizan/2249145.m3u8
+#EXTINF:-1,Free Sports HD
+http://globalsystems.me:8880/live/mizan/mizan/2249146.m3u8
+#EXTINF:-1,WWE Network HD
+http://globalsystems.me:8880/live/mizan/mizan/2249152.m3u8
+#EXTINF:-1,WWE Network FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249153.m3u8
+#EXTINF:-1,BoxNation HD
+http://globalsystems.me:8880/live/mizan/mizan/2249154.m3u8
+#EXTINF:-1,BoxNation FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249155.m3u8
+#EXTINF:-1,LaLiga TV HD
+http://globalsystems.me:8880/live/mizan/mizan/2249156.m3u8
+#EXTINF:-1,LaLiga TV FHD
+http://globalsystems.me:8880/live/mizan/mizan/2249157.m3u8
+#EXTINF:-1,Discovery Channel SD
+http://globalsystems.me:8880/live/mizan/mizan/2848665.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://globalsystems.me:8880/live/mizan/mizan/2261221.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261197.m3u8
+#EXTINF:-1,Discovery History SD
+http://globalsystems.me:8880/live/mizan/mizan/2848653.m3u8
 #EXTINF:-1,Discovery History HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/91470
-#EXTINF:-1,Discovery History  SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/166480
-#EXTINF:-1,Sky History HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/68673
+http://globalsystems.me:8880/live/mizan/mizan/2261222.m3u8
+#EXTINF:-1,Discovery History FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261223.m3u8
+#EXTINF:-1,Discovery Science SD
+http://globalsystems.me:8880/live/mizan/mizan/2848654.m3u8
+#EXTINF:-1,Discovery Science HD
+http://globalsystems.me:8880/live/mizan/mizan/2261224.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261225.m3u8
+#EXTINF:-1,Discovery Turbo SD
+http://globalsystems.me:8880/live/mizan/mizan/2848655.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://globalsystems.me:8880/live/mizan/mizan/2261226.m3u8
+#EXTINF:-1,Discovery Turbo FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261227.m3u8
 #EXTINF:-1,Sky History SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53650
+http://globalsystems.me:8880/live/mizan/mizan/2848658.m3u8
 #EXTINF:-1,Sky History HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/91473
-#EXTINF:-1,Animal Planet HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38095
-#EXTINF:-1,Animal Planet SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/111561
-#EXTINF:-1,ID SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/84968
-#EXTINF:-1,ID
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/10743
-#EXTINF:-1,National Geographic HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/9885
+http://globalsystems.me:8880/live/mizan/mizan/2261229.m3u8
+#EXTINF:-1,Sky History FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261199.m3u8
+#EXTINF:-1,H2 HD
+http://globalsystems.me:8880/live/mizan/mizan/2261200.m3u8
+#EXTINF:-1,H2 FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261201.m3u8
 #EXTINF:-1,National Geographic SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/166483
-#EXTINF:-1,National Geographic Wild HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38031
-#EXTINF:-1,National Geographic Wild SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42602
-#EXTINF:-1, Crime + Investigation HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38093
-#EXTINF:-1,DMAX HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/33890
-#EXTINF:-1,Travel XP
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11370
-#EXTINF:-1,Blaze SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/91111
-#EXTINF:-1,Blaze
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11877
-#EXTINF:-1,Yesterday
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/52430
-#EXTINF:-1,MTV 24 Music
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97702
-#EXTINF:-1,MTV Base HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/29485
-#EXTINF:-1,MTV Base SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97316
-#EXTINF:-1,MTV Hits HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/55101
-#EXTINF:-1,MTV Music HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37343
-#EXTINF:-1,MTV 90!s
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97317
-#EXTINF:-1,MTV Classic HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/45888
-#EXTINF:-1,Clubland TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11736
-#EXTINF:-1,Kerrang!
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/52408
-#EXTINF:-1,Hits Box
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/52404
-#EXTINF:-1,TRACE Vanilla HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/101193
-#EXTINF:-1,Box Hits
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/52406
-#EXTINF:-1,Box Hits SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/101191
-#EXTINF:-1,Box Upfront
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/50668
-#EXTINF:-1,VH1
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/36957
-#EXTINF:-1,VH1 Classic HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37401
-#EXTINF:-1,4 Music HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/37280
-#EXTINF:-1,NOW 70's
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11752
-#EXTINF:-1,Now 90's
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38103
-#EXTINF:-1,Kiss Radio
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38012
-#EXTINF:-1,Afro Music Channel SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97701
-#EXTINF:-1,NRJ Hits
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/97700
-#EXTINF:-1,iConcerts HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42758
-#EXTINF:-1,CHSTV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11858
-#EXTINF:-1,NTV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11886
-#EXTINF:-1,Hillsong
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38136
-#EXTINF:-1,iConcerts SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/128220
-#EXTINF:-1,Sikh Channel
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/83687
-#EXTINF:-1,PCNE Chinese
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11901
-#EXTINF:-1,RTE One HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53214
-#EXTINF:-1, RTE One SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/46327
-#EXTINF:-1,RTE Two HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53215
-#EXTINF:-1,RTE News NOW
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53217
-#EXTINF:-1,Virgin Media Two SD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/95943
-#EXTINF:-1,RTE Jr HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53216
-#EXTINF:-1,TG4 HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/45896
-#EXTINF:-1,EWTN Catholic
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/50663
-#EXTINF:-1,Hochanda
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38105
-#EXTINF:-1,Inspiration TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/50665
-#EXTINF:-1,Revelation
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/50666
-#EXTINF:-1,SonLife
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38132
-#EXTINF:-1,Pitaara
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/181199
-#EXTINF:-1,TBN UK
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38134
-#EXTINF:-1,Arirang TV HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/52375
-#EXTINF:-1,CBSN News HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/54825
-#EXTINF:-1,NBC News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/54816
-#EXTINF:-1,ABC NEWS
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/54817
-#EXTINF:-1,Spotlight TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/54258
-#EXTINF:-1,Republic Bharat
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53988
-#EXTINF:-1,Good News TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53992
-#EXTINF:-1,Heart Dance
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53991
+http://globalsystems.me:8880/live/mizan/mizan/2848660.m3u8
+#EXTINF:-1,National Geographic HD
+http://globalsystems.me:8880/live/mizan/mizan/2261230.m3u8
+#EXTINF:-1,National Geographic FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261202.m3u8
+#EXTINF:-1,Nat Geo Wild SD
+http://globalsystems.me:8880/live/mizan/mizan/2848661.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://globalsystems.me:8880/live/mizan/mizan/2261231.m3u8
+#EXTINF:-1,Nat Geo Wild FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261203.m3u8
+#EXTINF:-1,Animal Planet SD
+http://globalsystems.me:8880/live/mizan/mizan/2848662.m3u8
+#EXTINF:-1,Animal Planet HD
+http://globalsystems.me:8880/live/mizan/mizan/2261232.m3u8
+#EXTINF:-1,Animal Planet FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261204.m3u8
+#EXTINF:-1,Sky Nature SD
+http://globalsystems.me:8880/live/mizan/mizan/2848659.m3u8
+#EXTINF:-1,Sky Nature HD
+http://globalsystems.me:8880/live/mizan/mizan/2261205.m3u8
+#EXTINF:-1,Sky Nature FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261206.m3u8
+#EXTINF:-1,Eden SD
+http://globalsystems.me:8880/live/mizan/mizan/2848663.m3u8
+#EXTINF:-1,Eden HD
+http://globalsystems.me:8880/live/mizan/mizan/2261233.m3u8
+#EXTINF:-1,Eden FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261207.m3u8
+#EXTINF:-1,Crime And Investigation SD
+http://globalsystems.me:8880/live/mizan/mizan/2848664.m3u8
+#EXTINF:-1,Crime And Investigation HD
+http://globalsystems.me:8880/live/mizan/mizan/2261208.m3u8
+#EXTINF:-1,Crime And Investigation FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261209.m3u8
+#EXTINF:-1,Sky Crime SD
+http://globalsystems.me:8880/live/mizan/mizan/2848656.m3u8
+#EXTINF:-1,Sky Crime HD
+http://globalsystems.me:8880/live/mizan/mizan/2261210.m3u8
+#EXTINF:-1,Sky Crime FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261211.m3u8
+#EXTINF:-1,Sky Documentaries SD
+http://globalsystems.me:8880/live/mizan/mizan/2848657.m3u8
+#EXTINF:-1,Sky Documentaries HD
+http://globalsystems.me:8880/live/mizan/mizan/2261212.m3u8
+#EXTINF:-1,Sky Documentaries FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261213.m3u8
+#EXTINF:-1,Smithsonian Channel HD
+http://globalsystems.me:8880/live/mizan/mizan/2261214.m3u8
+#EXTINF:-1,Smithsonian Channel FHD
+http://globalsystems.me:8880/live/mizan/mizan/2261215.m3u8
+#EXTINF:-1,Food Network
+http://globalsystems.me:8880/live/mizan/mizan/2261217.m3u8
+#EXTINF:-1,HGTV
+http://globalsystems.me:8880/live/mizan/mizan/2261218.m3u8
 #EXTINF:-1,Forces TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11898
-#EXTINF:-1,Faith UK
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38115
-#EXTINF:-1,GOD Channel
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/49195
-#EXTINF:-1,Islam TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42898
-#EXTINF:-1,Islam Channel
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11292
-#EXTINF:-1,Islam Channel Urdu
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/14144
-#EXTINF:-1,IQRA Bangla
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11759
-#EXTINF:-1,IQRA TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/12582
-#EXTINF:-1,Ashrafi channel
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/103595
-#EXTINF:-1,Deen TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/162668
-#EXTINF:-1,Ahlebait TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11364
-#EXTINF:-1,Ahlulbayt TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11373
-#EXTINF:-1,Madani Channel
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11777
-#EXTINF:-1,Eman Channel
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11745
-#EXTINF:-1,Peace TV English
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/14128
-#EXTINF:-1,Peace TV Urdu
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11879
-#EXTINF:-1,MATV National
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/22527
-#EXTINF:-1,Noor TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11740
-#EXTINF:-1,TV ONE
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/12597
-#EXTINF:-1,mta-muslim tv
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11902
-#EXTINF:-1,Hidayat TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11758
-#EXTINF:-1,ATN
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11363
-#EXTINF:-1,Ary Digital
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/24462
-#EXTINF:-1,GEO Entertainment
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38180
-#EXTINF:-1,Geo TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11295
-#EXTINF:-1,GEO TEZ
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38509
-#EXTINF:-1,Hum TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42840
-#EXTINF:-1,Hum Sitary
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42515
-#EXTINF:-1,Hum News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/21855
-#EXTINF:-1,Hum Masala
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/14127
-#EXTINF:-1,Dunya News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11288
-#EXTINF:-1,New Vision TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11749
-#EXTINF:-1,Khushkhabri
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38104
-#EXTINF:-1,Channel 44
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/12595
-#EXTINF:-1,Takbeer TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/52535
-#EXTINF:-1,PTV Global
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11756
-#EXTINF:-1,Utsav GOLD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38301
-#EXTINF:-1,Sony Sab HD (UK)
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/42716
-#EXTINF:-1,Sony TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/9234
-#EXTINF:-1,Sony Max HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38062
-#EXTINF:-1,Sony Mix
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/21869
-#EXTINF:-1,Star Bharat HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38300
-#EXTINF:-1,Colors TV (UK)
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/270
-#EXTINF:-1,B4U Music
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11307
-#EXTINF:-1,B4U Movies
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/283
-#EXTINF:-1,Zee Cinema HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/38328
-#EXTINF:-1,& TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11291
-#EXTINF:-1,NDTV 24x7
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/13469
-#EXTINF:-1,ABP News
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11369
-#EXTINF:-1,AAJ Tak
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11303
-#EXTINF:-1,Aastha
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11322
-#EXTINF:-1,Akaal Channel
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11887
-#EXTINF:-1,Sangat
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11743
-#EXTINF:-1,Sanskar
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/35121
-#EXTINF:-1,PTC Punjabi
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11737
-#EXTINF:-1,Kanshi TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11354
-#EXTINF:-1,Sikh Channel
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11862
-#EXTINF:-1,Venus TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11757
-#EXTINF:-1,Zing
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11314
-#EXTINF:-1,Dunamis TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/53989
-#EXTINF:-1,Brit Asia TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11306
-#EXTINF:-1,Al ALISTIQAMA
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120509
-#EXTINF:-1,SAUDI AL QURAN TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120508
-#EXTINF:-1,Saudi Quran
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120507
-#EXTINF:-1,[BHR]  Bahrain quran
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120505
-#EXTINF:-1,[Quran] TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120503
-#EXTINF:-1,[Quran] Al Nas
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120500
-#EXTINF:-1,[Quran] AL RAHMA
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120499
-#EXTINF:-1,[Quran] AL Resala
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120498
-#EXTINF:-1,[Quran] Majd Quran
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120497
-#EXTINF:-1,[Quran] Alerth Alnbawi
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120496
-#EXTINF:-1,[Quran] ALISTIQAMA
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120495
-#EXTINF:-1,[Quran] Mecca
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120490
-#EXTINF:-1,Madinha For Sunnah
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120487
-#EXTINF:-1,Makkah live For Quran
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/120486
-#EXTINF:-1,British Muslim
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/11910
-#EXTINF:-1,Celebration TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/88596
-#EXTINF:-1,Lennon 80
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/126516
-#EXTINF:-1,Together
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/126509
-#EXTINF:-1,KTV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/126508
-#EXTINF:-1,TJC
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/126507
-#EXTINF:-1,A&E HD
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/104811
-#EXTINF:-1,A1 TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/100994
-#EXTINF:-1,Hi-Impact TV
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/101301
-#EXTINF:-1,FoodXp
-http://techking.uk:2095/tomasaranaex/ZBv5nzhthk6ApcWc/92334
+http://globalsystems.me:8880/live/mizan/mizan/2261219.m3u8
+#EXTINF:-1,Blaze
+http://globalsystems.me:8880/live/mizan/mizan/2261220.m3u8
+#EXTINF:-1,DMAX
+http://globalsystems.me:8880/live/mizan/mizan/2511887.m3u8
+#EXTINF:-1,MTV Music HD
+http://globalsystems.me:8880/live/mizan/mizan/2258261.m3u8
+#EXTINF:-1,MTV Music FHD
+http://globalsystems.me:8880/live/mizan/mizan/2258262.m3u8
+#EXTINF:-1,MTV Base HD
+http://globalsystems.me:8880/live/mizan/mizan/2258263.m3u8
+#EXTINF:-1,MTV Base FHD
+http://globalsystems.me:8880/live/mizan/mizan/2258264.m3u8
+#EXTINF:-1,MTV Hits HD
+http://globalsystems.me:8880/live/mizan/mizan/2258265.m3u8
+#EXTINF:-1,MTV Hits FHD
+http://globalsystems.me:8880/live/mizan/mizan/2258266.m3u8
+#EXTINF:-1,MTV Classics HD
+http://globalsystems.me:8880/live/mizan/mizan/2258358.m3u8
+#EXTINF:-1,MTV Classics FHD
+http://globalsystems.me:8880/live/mizan/mizan/2258421.m3u8
+#EXTINF:-1,MTV 90s HD
+http://globalsystems.me:8880/live/mizan/mizan/2258473.m3u8
+#EXTINF:-1,MTV 90s FHD
+http://globalsystems.me:8880/live/mizan/mizan/2258474.m3u8
+#EXTINF:-1,Clubland TV
+http://globalsystems.me:8880/live/mizan/mizan/2258267.m3u8
+#EXTINF:-1,The Box
+http://globalsystems.me:8880/live/mizan/mizan/2258268.m3u8
+#EXTINF:-1,Box Hits
+http://globalsystems.me:8880/live/mizan/mizan/2258269.m3u8
+#EXTINF:-1,Kiss
+http://globalsystems.me:8880/live/mizan/mizan/2258270.m3u8
+#EXTINF:-1,Magic
+http://globalsystems.me:8880/live/mizan/mizan/2258271.m3u8
+#EXTINF:-1,Kerrang
+http://globalsystems.me:8880/live/mizan/mizan/2258272.m3u8
+#EXTINF:-1,NOW 70s
+http://globalsystems.me:8880/live/mizan/mizan/2853707.m3u8
+#EXTINF:-1,NOW 80s
+http://globalsystems.me:8880/live/mizan/mizan/2258274.m3u8
+#EXTINF:-1,NOW 90s
+http://globalsystems.me:8880/live/mizan/mizan/2258275.m3u8
+#EXTINF:-1,Boomerang HD
+http://globalsystems.me:8880/live/mizan/mizan/2236915.m3u8
+#EXTINF:-1,Boomerang FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236916.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://globalsystems.me:8880/live/mizan/mizan/2236917.m3u8
+#EXTINF:-1,Cartoon Network FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236918.m3u8
+#EXTINF:-1,Cartoonito HD
+http://globalsystems.me:8880/live/mizan/mizan/2236919.m3u8
+#EXTINF:-1,Cartoonito FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236920.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://globalsystems.me:8880/live/mizan/mizan/2236921.m3u8
+#EXTINF:-1,Nickelodeon FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236922.m3u8
+#EXTINF:-1,Nick JR HD
+http://globalsystems.me:8880/live/mizan/mizan/2236923.m3u8
+#EXTINF:-1,Nick JR FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236924.m3u8
+#EXTINF:-1,NickToons HD
+http://globalsystems.me:8880/live/mizan/mizan/2236925.m3u8
+#EXTINF:-1,NickToons FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236926.m3u8
+#EXTINF:-1,Disney Channel
+http://globalsystems.me:8880/live/mizan/mizan/2236927.m3u8
+#EXTINF:-1,Disney XD
+http://globalsystems.me:8880/live/mizan/mizan/2236928.m3u8
+#EXTINF:-1,Disney JR HD
+http://globalsystems.me:8880/live/mizan/mizan/2236929.m3u8
+#EXTINF:-1,Cbeebies HD
+http://globalsystems.me:8880/live/mizan/mizan/2236931.m3u8
+#EXTINF:-1,Cbeebies FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236932.m3u8
+#EXTINF:-1,CBBC HD
+http://globalsystems.me:8880/live/mizan/mizan/2236933.m3u8
+#EXTINF:-1,CBBC FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236934.m3u8
+#EXTINF:-1,CITV HD
+http://globalsystems.me:8880/live/mizan/mizan/2236935.m3u8
+#EXTINF:-1,CITV FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236936.m3u8
+#EXTINF:-1,POP HD
+http://globalsystems.me:8880/live/mizan/mizan/2236939.m3u8
+#EXTINF:-1,POP FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236940.m3u8
+#EXTINF:-1,POP MAX HD
+http://globalsystems.me:8880/live/mizan/mizan/2236941.m3u8
+#EXTINF:-1,POP MAX FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236942.m3u8
+#EXTINF:-1,TINY POP HD
+http://globalsystems.me:8880/live/mizan/mizan/2236943.m3u8
+#EXTINF:-1,TINY POP FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236944.m3u8
+#EXTINF:-1,BBC News SD
+http://globalsystems.me:8880/live/mizan/mizan/2848649.m3u8
+#EXTINF:-1,BBC News HD
+http://globalsystems.me:8880/live/mizan/mizan/2236581.m3u8
+#EXTINF:-1,BBC News FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236582.m3u8
+#EXTINF:-1,Sky News SD
+http://globalsystems.me:8880/live/mizan/mizan/2848650.m3u8
+#EXTINF:-1,SKY News HD
+http://globalsystems.me:8880/live/mizan/mizan/2236583.m3u8
+#EXTINF:-1,SKY News FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236584.m3u8
+#EXTINF:-1,GB News
+http://globalsystems.me:8880/live/mizan/mizan/2863105.m3u8
+#EXTINF:-1,RTE News
+http://globalsystems.me:8880/live/mizan/mizan/2236585.m3u8
+#EXTINF:-1,BBC Parliament
+http://globalsystems.me:8880/live/mizan/mizan/2236586.m3u8
+#EXTINF:-1,CNN FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236587.m3u8
+#EXTINF:-1,Al Jazeera
+http://globalsystems.me:8880/live/mizan/mizan/2236589.m3u8
+#EXTINF:-1,MUTV HD
+http://globalsystems.me:8880/live/mizan/mizan/2236580.m3u8
+#EXTINF:-1,MUTV FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236577.m3u8
+#EXTINF:-1,LFCTV HD
+http://globalsystems.me:8880/live/mizan/mizan/2236578.m3u8
+#EXTINF:-1,LFCTV FHD
+http://globalsystems.me:8880/live/mizan/mizan/2236579.m3u8
+#EXTINF:-1,Create & Craft
+http://globalsystems.me:8880/live/mizan/mizan/2646794.m3u8
+#EXTINF:-1,Gems TV
+http://globalsystems.me:8880/live/mizan/mizan/2646799.m3u8
+#EXTINF:-1,Ideal Extra
+http://globalsystems.me:8880/live/mizan/mizan/2646793.m3u8
+#EXTINF:-1,Ideal World
+http://globalsystems.me:8880/live/mizan/mizan/2646792.m3u8
+#EXTINF:-1,QVC
+http://globalsystems.me:8880/live/mizan/mizan/2646795.m3u8
+#EXTINF:-1,QVC Beauty
+http://globalsystems.me:8880/live/mizan/mizan/2646796.m3u8
+#EXTINF:-1,QVC Extra
+http://globalsystems.me:8880/live/mizan/mizan/2646798.m3u8
+#EXTINF:-1,QVC Style
+http://globalsystems.me:8880/live/mizan/mizan/2646797.m3u8
