@@ -1,827 +1,461 @@
 #EXTM3U
-#EXTINF:-1,BBC One SD
-http://globalsystems.me:8880/live/mizan/mizan/2848044.m3u8
-#EXTINF:-1,BBC One HD
-http://globalsystems.me:8880/live/mizan/mizan/2262241.m3u8
-#EXTINF:-1,BBC One FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262188.m3u8
-#EXTINF:-1,BBC Two SD
-http://globalsystems.me:8880/live/mizan/mizan/2848045.m3u8
-#EXTINF:-1,BBC Two HD
-http://globalsystems.me:8880/live/mizan/mizan/2262242.m3u8
-#EXTINF:-1,BBC Two FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262189.m3u8
-#EXTINF:-1,ITV1 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848046.m3u8
-#EXTINF:-1,ITV 1 HD
-http://globalsystems.me:8880/live/mizan/mizan/2262243.m3u8
-#EXTINF:-1,ITV 1 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262190.m3u8
-#EXTINF:-1,Channel 4 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848051.m3u8
-#EXTINF:-1,Channel 4 HD
-http://globalsystems.me:8880/live/mizan/mizan/2262244.m3u8
-#EXTINF:-1,Channel 4 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262191.m3u8
-#EXTINF:-1,Channel 5 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848052.m3u8
-#EXTINF:-1,Channel 5 HD
-http://globalsystems.me:8880/live/mizan/mizan/2262245.m3u8
-#EXTINF:-1,Channel 5 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262192.m3u8
-#EXTINF:-1,Sky One SD
-http://globalsystems.me:8880/live/mizan/mizan/2848053.m3u8
-#EXTINF:-1,Sky One HD
-http://globalsystems.me:8880/live/mizan/mizan/2262246.m3u8
-#EXTINF:-1,Sky One FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262193.m3u8
-#EXTINF:-1,Sky Replay SD
-http://globalsystems.me:8880/live/mizan/mizan/2848054.m3u8
-#EXTINF:-1,Sky Replay HD
-http://globalsystems.me:8880/live/mizan/mizan/2262247.m3u8
-#EXTINF:-1,Sky Replay FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262194.m3u8
-#EXTINF:-1,Sky Comedy SD
-http://globalsystems.me:8880/live/mizan/mizan/2848057.m3u8
-#EXTINF:-1,Sky Comedy HD
-http://globalsystems.me:8880/live/mizan/mizan/2262195.m3u8
-#EXTINF:-1,Sky Comedy FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262196.m3u8
-#EXTINF:-1,Sky Atlantic SD
-http://globalsystems.me:8880/live/mizan/mizan/2848056.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://globalsystems.me:8880/live/mizan/mizan/2262248.m3u8
-#EXTINF:-1,Sky Atlantic FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262197.m3u8
-#EXTINF:-1,Sky Witness SD
-http://globalsystems.me:8880/live/mizan/mizan/2848055.m3u8
-#EXTINF:-1,Sky Witness HD
-http://globalsystems.me:8880/live/mizan/mizan/2262249.m3u8
-#EXTINF:-1,Sky Witness FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262198.m3u8
-#EXTINF:-1,ITV2 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848047.m3u8
-#EXTINF:-1,ITV 2 HD
-http://globalsystems.me:8880/live/mizan/mizan/2262250.m3u8
-#EXTINF:-1,ITV 2 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262199.m3u8
-#EXTINF:-1,ITV3 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848048.m3u8
-#EXTINF:-1,ITV 3 HD
-http://globalsystems.me:8880/live/mizan/mizan/2262251.m3u8
-#EXTINF:-1,ITV 3 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262200.m3u8
-#EXTINF:-1,ITV4 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848049.m3u8
-#EXTINF:-1,ITV 4 HD
-http://globalsystems.me:8880/live/mizan/mizan/2262252.m3u8
-#EXTINF:-1,ITV 4 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262201.m3u8
-#EXTINF:-1,ITVBe SD
-http://globalsystems.me:8880/live/mizan/mizan/2848050.m3u8
-#EXTINF:-1,ITVBE HD
-http://globalsystems.me:8880/live/mizan/mizan/2262202.m3u8
-#EXTINF:-1,ITVBE FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262253.m3u8
-#EXTINF:-1,Dave SD
-http://globalsystems.me:8880/live/mizan/mizan/2848058.m3u8
-#EXTINF:-1,Dave HD
-http://globalsystems.me:8880/live/mizan/mizan/2262254.m3u8
-#EXTINF:-1,Dave FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262203.m3u8
-#EXTINF:-1,Gold SD
-http://globalsystems.me:8880/live/mizan/mizan/2848059.m3u8
-#EXTINF:-1,Gold HD
-http://globalsystems.me:8880/live/mizan/mizan/2262255.m3u8
-#EXTINF:-1,Gold FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262204.m3u8
-#EXTINF:-1,W SD
-http://globalsystems.me:8880/live/mizan/mizan/2848060.m3u8
-#EXTINF:-1,W HD
-http://globalsystems.me:8880/live/mizan/mizan/2262205.m3u8
-#EXTINF:-1,W FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262206.m3u8
-#EXTINF:-1,Alibi SD
-http://globalsystems.me:8880/live/mizan/mizan/2848061.m3u8
-#EXTINF:-1,Alibi HD
-http://globalsystems.me:8880/live/mizan/mizan/2262207.m3u8
-#EXTINF:-1,Alibi FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262208.m3u8
-#EXTINF:-1,Really SD
-http://globalsystems.me:8880/live/mizan/mizan/2848062.m3u8
-#EXTINF:-1,Really HD
-http://globalsystems.me:8880/live/mizan/mizan/2262256.m3u8
-#EXTINF:-1,Really FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262209.m3u8
-#EXTINF:-1,E! SD
-http://globalsystems.me:8880/live/mizan/mizan/2848063.m3u8
-#EXTINF:-1,E! Entertainment HD
-http://globalsystems.me:8880/live/mizan/mizan/2262257.m3u8
-#EXTINF:-1,E! Entertainment FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262210.m3u8
-#EXTINF:-1,E4 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848064.m3u8
-#EXTINF:-1,E4 HD
-http://globalsystems.me:8880/live/mizan/mizan/2262258.m3u8
-#EXTINF:-1,E4 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262211.m3u8
-#EXTINF:-1,More4 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848065.m3u8
-#EXTINF:-1,MORE 4 HD
-http://globalsystems.me:8880/live/mizan/mizan/2262259.m3u8
-#EXTINF:-1,MORE 4 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262212.m3u8
-#EXTINF:-1,4seven SD
-http://globalsystems.me:8880/live/mizan/mizan/2848066.m3u8
-#EXTINF:-1,4Seven HD
-http://globalsystems.me:8880/live/mizan/mizan/2262260.m3u8
-#EXTINF:-1,4Seven FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262213.m3u8
-#EXTINF:-1,BBC Four HD
-http://globalsystems.me:8880/live/mizan/mizan/2262261.m3u8
-#EXTINF:-1,BBC Four FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262262.m3u8
-#EXTINF:-1,Logo TV HD
-http://globalsystems.me:8880/live/mizan/mizan/2262263.m3u8
-#EXTINF:-1,Logo TV FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262264.m3u8
-#EXTINF:-1,5STAR SD
-http://globalsystems.me:8880/live/mizan/mizan/2848068.m3u8
-#EXTINF:-1,5 STAR HD
-http://globalsystems.me:8880/live/mizan/mizan/2262265.m3u8
-#EXTINF:-1,5 STAR FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262214.m3u8
-#EXTINF:-1,5 USA HD
-http://globalsystems.me:8880/live/mizan/mizan/2262215.m3u8
-#EXTINF:-1,5 USA FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262216.m3u8
-#EXTINF:-1,5SELECT SD
-http://globalsystems.me:8880/live/mizan/mizan/2848067.m3u8
-#EXTINF:-1,5 Select HD
-http://globalsystems.me:8880/live/mizan/mizan/2262217.m3u8
-#EXTINF:-1,5 Select FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262218.m3u8
-#EXTINF:-1,CBS Reality
-http://globalsystems.me:8880/live/mizan/mizan/2262268.m3u8
-#EXTINF:-1,CBS Drama
-http://globalsystems.me:8880/live/mizan/mizan/2262269.m3u8
-#EXTINF:-1,CBS Justice
-http://globalsystems.me:8880/live/mizan/mizan/2262219.m3u8
-#EXTINF:-1,Fox SD
-http://globalsystems.me:8880/live/mizan/mizan/2848069.m3u8
-#EXTINF:-1,Fox HD
-http://globalsystems.me:8880/live/mizan/mizan/2577321.m3u8
-#EXTINF:-1,Fox FHD
-http://globalsystems.me:8880/live/mizan/mizan/2577322.m3u8
-#EXTINF:-1,TLC SD
-http://globalsystems.me:8880/live/mizan/mizan/2848070.m3u8
-#EXTINF:-1,TLC HD
-http://globalsystems.me:8880/live/mizan/mizan/2262270.m3u8
-#EXTINF:-1,TLC FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262220.m3u8
-#EXTINF:-1,SYFY SD
-http://globalsystems.me:8880/live/mizan/mizan/2848071.m3u8
-#EXTINF:-1,SyFy HD
-http://globalsystems.me:8880/live/mizan/mizan/2262271.m3u8
-#EXTINF:-1,SyFy FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262221.m3u8
-#EXTINF:-1,Quest SD
-http://globalsystems.me:8880/live/mizan/mizan/2848072.m3u8
-#EXTINF:-1,Quest HD
-http://globalsystems.me:8880/live/mizan/mizan/2262272.m3u8
-#EXTINF:-1,Quest FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262222.m3u8
-#EXTINF:-1,Quest Red SD
-http://globalsystems.me:8880/live/mizan/mizan/2848073.m3u8
-#EXTINF:-1,Quest Red HD
-http://globalsystems.me:8880/live/mizan/mizan/2262223.m3u8
-#EXTINF:-1,Quest Red FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262224.m3u8
-#EXTINF:-1,Comedy Central SD
-http://globalsystems.me:8880/live/mizan/mizan/2848074.m3u8
-#EXTINF:-1,Comedy Central HD
-http://globalsystems.me:8880/live/mizan/mizan/2262273.m3u8
-#EXTINF:-1,Comedy Central FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262225.m3u8
-#EXTINF:-1,ComedyXtra SD
-http://globalsystems.me:8880/live/mizan/mizan/2848075.m3u8
-#EXTINF:-1,ComedyXtra HD
-http://globalsystems.me:8880/live/mizan/mizan/2262226.m3u8
-#EXTINF:-1,ComedyXtra FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262227.m3u8
-#EXTINF:-1,Drama SD
-http://globalsystems.me:8880/live/mizan/mizan/2848076.m3u8
-#EXTINF:-1,Drama HD
-http://globalsystems.me:8880/live/mizan/mizan/2262274.m3u8
-#EXTINF:-1,Drama FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262228.m3u8
-#EXTINF:-1,Paramount SD
-http://globalsystems.me:8880/live/mizan/mizan/2848077.m3u8
-#EXTINF:-1,Paramount HD
-http://globalsystems.me:8880/live/mizan/mizan/2262229.m3u8
-#EXTINF:-1,Paramount FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262230.m3u8
-#EXTINF:-1,Sky Arts SD
-http://globalsystems.me:8880/live/mizan/mizan/2848078.m3u8
-#EXTINF:-1,Sky Arts HD
-http://globalsystems.me:8880/live/mizan/mizan/2262275.m3u8
-#EXTINF:-1,Sky Arts FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262231.m3u8
-#EXTINF:-1,Horror Channel HD
-http://globalsystems.me:8880/live/mizan/mizan/2262276.m3u8
-#EXTINF:-1,Horror Channel FHD
-http://globalsystems.me:8880/live/mizan/mizan/2262232.m3u8
-#EXTINF:-1,BET
-http://globalsystems.me:8880/live/mizan/mizan/2262233.m3u8
-#EXTINF:-1,Pick
-http://globalsystems.me:8880/live/mizan/mizan/2262236.m3u8
-#EXTINF:-1,Challenge
-http://globalsystems.me:8880/live/mizan/mizan/2262238.m3u8
-#EXTINF:-1,BBC One E Mid
-http://globalsystems.me:8880/live/mizan/mizan/2863271.m3u8
-#EXTINF:-1,BBC One East E
-http://globalsystems.me:8880/live/mizan/mizan/2863272.m3u8
-#EXTINF:-1,BBC One East Midlands
-http://globalsystems.me:8880/live/mizan/mizan/2863273.m3u8
-#EXTINF:-1,BBC One N West
-http://globalsystems.me:8880/live/mizan/mizan/2863276.m3u8
-#EXTINF:-1,BBC One NE&C
-http://globalsystems.me:8880/live/mizan/mizan/2863274.m3u8
-#EXTINF:-1,BBC One NI
-http://globalsystems.me:8880/live/mizan/mizan/2863275.m3u8
-#EXTINF:-1,BBC One Oxford
-http://globalsystems.me:8880/live/mizan/mizan/2863277.m3u8
-#EXTINF:-1,BBC One S East
-http://globalsystems.me:8880/live/mizan/mizan/2863278.m3u8
-#EXTINF:-1,BBC One S West
-http://globalsystems.me:8880/live/mizan/mizan/2863279.m3u8
-#EXTINF:-1,BBC One Scotland
-http://globalsystems.me:8880/live/mizan/mizan/2863280.m3u8
-#EXTINF:-1,BBC One South
-http://globalsystems.me:8880/live/mizan/mizan/2863281.m3u8
-#EXTINF:-1,BBC One W Mid
-http://globalsystems.me:8880/live/mizan/mizan/2863282.m3u8
-#EXTINF:-1,BBC One Wales
-http://globalsystems.me:8880/live/mizan/mizan/2863283.m3u8
-#EXTINF:-1,BBC One Yk&Li
-http://globalsystems.me:8880/live/mizan/mizan/2863284.m3u8
-#EXTINF:-1,BBC One Yorks
-http://globalsystems.me:8880/live/mizan/mizan/2863285.m3u8
-#EXTINF:-1,BBC Two NI
-http://globalsystems.me:8880/live/mizan/mizan/2863286.m3u8
-#EXTINF:-1,BBC Two Wales
-http://globalsystems.me:8880/live/mizan/mizan/2863287.m3u8
-#EXTINF:-1,ITV Anglia East
-http://globalsystems.me:8880/live/mizan/mizan/2863291.m3u8
-#EXTINF:-1,ITV Anglia West
-http://globalsystems.me:8880/live/mizan/mizan/2863292.m3u8
-#EXTINF:-1,ITV Border England
-http://globalsystems.me:8880/live/mizan/mizan/2863293.m3u8
-#EXTINF:-1,ITV Border Scotland
-http://globalsystems.me:8880/live/mizan/mizan/2863305.m3u8
-#EXTINF:-1,ITV Central East
-http://globalsystems.me:8880/live/mizan/mizan/2863294.m3u8
-#EXTINF:-1,ITV Central West
-http://globalsystems.me:8880/live/mizan/mizan/2863295.m3u8
-#EXTINF:-1,ITV Granada
-http://globalsystems.me:8880/live/mizan/mizan/2863296.m3u8
-#EXTINF:-1,ITV London
-http://globalsystems.me:8880/live/mizan/mizan/2863290.m3u8
-#EXTINF:-1,ITV Meridian East
-http://globalsystems.me:8880/live/mizan/mizan/2863289.m3u8
-#EXTINF:-1,ITV Meridian East
-http://globalsystems.me:8880/live/mizan/mizan/2863306.m3u8
-#EXTINF:-1,ITV Meridian North
-http://globalsystems.me:8880/live/mizan/mizan/2863288.m3u8
-#EXTINF:-1,ITV Meridian South Coast
-http://globalsystems.me:8880/live/mizan/mizan/2863297.m3u8
-#EXTINF:-1,ITV Meridian Thames Valley
-http://globalsystems.me:8880/live/mizan/mizan/2863298.m3u8
-#EXTINF:-1,ITV Tyne Tees
-http://globalsystems.me:8880/live/mizan/mizan/2863299.m3u8
-#EXTINF:-1,ITV Wales
-http://globalsystems.me:8880/live/mizan/mizan/2863300.m3u8
-#EXTINF:-1,ITV Wales
-http://globalsystems.me:8880/live/mizan/mizan/2863307.m3u8
-#EXTINF:-1,ITV West Country East
-http://globalsystems.me:8880/live/mizan/mizan/2863301.m3u8
-#EXTINF:-1,ITV Westcountry West
-http://globalsystems.me:8880/live/mizan/mizan/2863302.m3u8
-#EXTINF:-1,ITV Yorkshire East
-http://globalsystems.me:8880/live/mizan/mizan/2863303.m3u8
-#EXTINF:-1,ITV Yorkshire West
-http://globalsystems.me:8880/live/mizan/mizan/2863304.m3u8
-#EXTINF:-1,STV
-http://globalsystems.me:8880/live/mizan/mizan/2863308.m3u8
-#EXTINF:-1,STV Central East
-http://globalsystems.me:8880/live/mizan/mizan/2863309.m3u8
-#EXTINF:-1,STV Central East
-http://globalsystems.me:8880/live/mizan/mizan/2863310.m3u8
-#EXTINF:-1,STV Central West
-http://globalsystems.me:8880/live/mizan/mizan/2863312.m3u8
-#EXTINF:-1,STV North
-http://globalsystems.me:8880/live/mizan/mizan/2863311.m3u8
-#EXTINF:-1,alibi+1
-http://globalsystems.me:8880/live/mizan/mizan/2848562.m3u8
-#EXTINF:-1,Animal Plnt+1
-http://globalsystems.me:8880/live/mizan/mizan/2848563.m3u8
-#EXTINF:-1,Boomerang+1
-http://globalsystems.me:8880/live/mizan/mizan/2848564.m3u8
-#EXTINF:-1,CBS Reality+1
-http://globalsystems.me:8880/live/mizan/mizan/2848565.m3u8
-#EXTINF:-1,Channel 5+1
-http://globalsystems.me:8880/live/mizan/mizan/2848566.m3u8
-#EXTINF:-1,Channel4+1
-http://globalsystems.me:8880/live/mizan/mizan/2848567.m3u8
-#EXTINF:-1,CNN+1
-http://globalsystems.me:8880/live/mizan/mizan/2848568.m3u8
-#EXTINF:-1,ComedyCent+1
-http://globalsystems.me:8880/live/mizan/mizan/2848569.m3u8
-#EXTINF:-1,Disc.History+1
-http://globalsystems.me:8880/live/mizan/mizan/2848570.m3u8
-#EXTINF:-1,Disc.Sci+1
-http://globalsystems.me:8880/live/mizan/mizan/2848571.m3u8
-#EXTINF:-1,Disc.Turbo+1
-http://globalsystems.me:8880/live/mizan/mizan/2848572.m3u8
-#EXTINF:-1,Discovery+1
-http://globalsystems.me:8880/live/mizan/mizan/2848573.m3u8
-#EXTINF:-1,DiscoveryTurbo+1
-http://globalsystems.me:8880/live/mizan/mizan/2848574.m3u8
-#EXTINF:-1,DMAX+1
-http://globalsystems.me:8880/live/mizan/mizan/2848575.m3u8
-#EXTINF:-1,Drama+1
-http://globalsystems.me:8880/live/mizan/mizan/2848576.m3u8
-#EXTINF:-1,E4+1
-http://globalsystems.me:8880/live/mizan/mizan/2848577.m3u8
-#EXTINF:-1,Eden+1
-http://globalsystems.me:8880/live/mizan/mizan/2848578.m3u8
-#EXTINF:-1,Film4+1
-http://globalsystems.me:8880/live/mizan/mizan/2848579.m3u8
-#EXTINF:-1,GOLD+1
-http://globalsystems.me:8880/live/mizan/mizan/2848580.m3u8
-#EXTINF:-1,HGTV+1
-http://globalsystems.me:8880/live/mizan/mizan/2848581.m3u8
-#EXTINF:-1,horror ch+1
-http://globalsystems.me:8880/live/mizan/mizan/2848582.m3u8
-#EXTINF:-1,InvestigationDiscovery+1
-http://globalsystems.me:8880/live/mizan/mizan/2848584.m3u8
-#EXTINF:-1,ITV Central West +1
-http://globalsystems.me:8880/live/mizan/mizan/2848585.m3u8
-#EXTINF:-1,ITV London +1
-http://globalsystems.me:8880/live/mizan/mizan/2848586.m3u8
-#EXTINF:-1,ITV+1
-http://globalsystems.me:8880/live/mizan/mizan/2848587.m3u8
-#EXTINF:-1,ITV2+1
-http://globalsystems.me:8880/live/mizan/mizan/2848588.m3u8
-#EXTINF:-1,ITV3+1
-http://globalsystems.me:8880/live/mizan/mizan/2848589.m3u8
-#EXTINF:-1,ITV3+1
-http://globalsystems.me:8880/live/mizan/mizan/2848590.m3u8
-#EXTINF:-1,ITV4+1
-http://globalsystems.me:8880/live/mizan/mizan/2848591.m3u8
-#EXTINF:-1,More4+1
-http://globalsystems.me:8880/live/mizan/mizan/2848592.m3u8
-#EXTINF:-1,Nick Jr+1
-http://globalsystems.me:8880/live/mizan/mizan/2848593.m3u8
-#EXTINF:-1,Nickelodeon+1
-http://globalsystems.me:8880/live/mizan/mizan/2848594.m3u8
-#EXTINF:-1,Pick+1
-http://globalsystems.me:8880/live/mizan/mizan/2848595.m3u8
-#EXTINF:-1,TCM Movies+1
-http://globalsystems.me:8880/live/mizan/mizan/2848598.m3u8
-#EXTINF:-1,TLC+1
-http://globalsystems.me:8880/live/mizan/mizan/2848599.m3u8
-#EXTINF:-1,5STAR+1
-http://globalsystems.me:8880/live/mizan/mizan/2848560.m3u8
-#EXTINF:-1,5USA+1
-http://globalsystems.me:8880/live/mizan/mizan/2848561.m3u8
-#EXTINF:-1,Sky Cinema Premier SD
-http://globalsystems.me:8880/live/mizan/mizan/2847493.m3u8
-#EXTINF:-1,Sky Cinema Premier FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261235.m3u8
-#EXTINF:-1,Sky Cinema Feel Good SD
-http://globalsystems.me:8880/live/mizan/mizan/2847495.m3u8
-#EXTINF:-1,Sky Cinema Feel Good HD
-http://globalsystems.me:8880/live/mizan/mizan/2261254.m3u8
-#EXTINF:-1,Sky Cinema Feel Good FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261236.m3u8
-#EXTINF:-1,Sky Cinema Hits SD
-http://globalsystems.me:8880/live/mizan/mizan/2847492.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://globalsystems.me:8880/live/mizan/mizan/2261255.m3u8
-#EXTINF:-1,Sky Cinema Greats SD
-http://globalsystems.me:8880/live/mizan/mizan/2847491.m3u8
-#EXTINF:-1,Sky Cinema Greats HD
-http://globalsystems.me:8880/live/mizan/mizan/2261256.m3u8
-#EXTINF:-1,Sky Cinema Family SD
-http://globalsystems.me:8880/live/mizan/mizan/2847490.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://globalsystems.me:8880/live/mizan/mizan/2261257.m3u8
-#EXTINF:-1,Sky Cinema Action SD
-http://globalsystems.me:8880/live/mizan/mizan/2847486.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://globalsystems.me:8880/live/mizan/mizan/2261258.m3u8
-#EXTINF:-1,Sky Cinema Comedy SD
-http://globalsystems.me:8880/live/mizan/mizan/2847488.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://globalsystems.me:8880/live/mizan/mizan/2261259.m3u8
-#EXTINF:-1,Sky Cinema Thriller SD
-http://globalsystems.me:8880/live/mizan/mizan/2847496.m3u8
-#EXTINF:-1,Sky Cinema Thriller HD
-http://globalsystems.me:8880/live/mizan/mizan/2261260.m3u8
-#EXTINF:-1,Sky Cinema Thriller FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261242.m3u8
-#EXTINF:-1,Sky Cinema Drama SD
-http://globalsystems.me:8880/live/mizan/mizan/2847489.m3u8
-#EXTINF:-1,Sky Cinema Drama HD
-http://globalsystems.me:8880/live/mizan/mizan/2261243.m3u8
-#EXTINF:-1,Sky Cinema Drama FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261244.m3u8
-#EXTINF:-1,Sky Cinema Sci-Fi And Horror SD
-http://globalsystems.me:8880/live/mizan/mizan/2847494.m3u8
-#EXTINF:-1,Sky Cinema Sci-Fi And Horror HD
-http://globalsystems.me:8880/live/mizan/mizan/2261245.m3u8
-#EXTINF:-1,Sky Cinema Sci-Fi And Horror FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261246.m3u8
-#EXTINF:-1,Sky Cinema Animation SD
-http://globalsystems.me:8880/live/mizan/mizan/2847487.m3u8
-#EXTINF:-1,Sky Cinema Animation HD
-http://globalsystems.me:8880/live/mizan/mizan/2261247.m3u8
-#EXTINF:-1,Sky Cinema Animation FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261248.m3u8
-#EXTINF:-1,Disney+
-http://globalsystems.me:8880/live/mizan/mizan/2647029.m3u8
-#EXTINF:-1,Disney+ On Demand
-http://globalsystems.me:8880/live/mizan/mizan/2647030.m3u8
-#EXTINF:-1,Film 4 HD
-http://globalsystems.me:8880/live/mizan/mizan/2261249.m3u8
-#EXTINF:-1,Film 4 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261250.m3u8
-#EXTINF:-1,TCM
-http://globalsystems.me:8880/live/mizan/mizan/2261251.m3u8
-#EXTINF:-1,Talking Pictures
-http://globalsystems.me:8880/live/mizan/mizan/2261253.m3u8
-#EXTINF:-1,Sony Movies
-http://globalsystems.me:8880/live/mizan/mizan/2261261.m3u8
-#EXTINF:-1,Sky Store 1
-http://globalsystems.me:8880/live/mizan/mizan/2261266.m3u8
-#EXTINF:-1,Sky Store 2
-http://globalsystems.me:8880/live/mizan/mizan/2261267.m3u8
-#EXTINF:-1,Sky Store 3
-http://globalsystems.me:8880/live/mizan/mizan/2261268.m3u8
-#EXTINF:-1,Sky Store 4
-http://globalsystems.me:8880/live/mizan/mizan/2261269.m3u8
-#EXTINF:-1,Sky Store 5
-http://globalsystems.me:8880/live/mizan/mizan/2261270.m3u8
-#EXTINF:-1,Sky Sports News HD
-http://globalsystems.me:8880/live/mizan/mizan/2847440.m3u8
-#EXTINF:-1,Sky Sports News FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249113.m3u8
-#EXTINF:-1,Sky Sports News UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249114.m3u8
-#EXTINF:-1,Sky Sports Main Event HD
-http://globalsystems.me:8880/live/mizan/mizan/2847448.m3u8
-#EXTINF:-1,Sky Sports Main Event FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249162.m3u8
-#EXTINF:-1,Sky Sports Main Event UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249115.m3u8
-#EXTINF:-1,Sky Sports Premier League HD
-http://globalsystems.me:8880/live/mizan/mizan/2847442.m3u8
-#EXTINF:-1,Sky Sports Premier League FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249116.m3u8
-#EXTINF:-1,Sky Sports Premier League UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249117.m3u8
-#EXTINF:-1,Sky Sports Football HD
-http://globalsystems.me:8880/live/mizan/mizan/2847437.m3u8
-#EXTINF:-1,Sky Sports Football FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249118.m3u8
-#EXTINF:-1,Sky Sports Football UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249119.m3u8
-#EXTINF:-1,Sky Sports Cricket HD
-http://globalsystems.me:8880/live/mizan/mizan/2847435.m3u8
-#EXTINF:-1,Sky Sports Cricket FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249120.m3u8
-#EXTINF:-1,Sky Sports Cricket UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249121.m3u8
-#EXTINF:-1,Sky Sports Golf HD
-http://globalsystems.me:8880/live/mizan/mizan/2847438.m3u8
-#EXTINF:-1,Sky Sports Golf FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249122.m3u8
-#EXTINF:-1,Sky Sports Golf UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249123.m3u8
-#EXTINF:-1,Sky Sports F1 HD
-http://globalsystems.me:8880/live/mizan/mizan/2847436.m3u8
-#EXTINF:-1,Sky Sports F1 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249124.m3u8
-#EXTINF:-1,Sky Sports F1 UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249125.m3u8
-#EXTINF:-1,Sky Sports Action HD
-http://globalsystems.me:8880/live/mizan/mizan/2847441.m3u8
-#EXTINF:-1,Sky Sports Action FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249126.m3u8
-#EXTINF:-1,Sky Sports Action UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249127.m3u8
-#EXTINF:-1,Sky Sports Arena HD
-http://globalsystems.me:8880/live/mizan/mizan/2847434.m3u8
-#EXTINF:-1,Sky Sports Arena FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249128.m3u8
-#EXTINF:-1,Sky Sports Arena UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249129.m3u8
-#EXTINF:-1,Sky Sports Mix HD
-http://globalsystems.me:8880/live/mizan/mizan/2847439.m3u8
-#EXTINF:-1,Sky Sports Mix FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249130.m3u8
-#EXTINF:-1,Sky Sports Mix UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249131.m3u8
-#EXTINF:-1,Sky Sports Racing HD
-http://globalsystems.me:8880/live/mizan/mizan/2847443.m3u8
-#EXTINF:-1,Sky Sports Racing FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249132.m3u8
-#EXTINF:-1,Sky Sports Racing UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249133.m3u8
-#EXTINF:-1,Racing TV HD
-http://globalsystems.me:8880/live/mizan/mizan/2848648.m3u8
-#EXTINF:-1,Racing TV FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249134.m3u8
-#EXTINF:-1,Racing TV UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249135.m3u8
-#EXTINF:-1,BT Sport 1 HD
-http://globalsystems.me:8880/live/mizan/mizan/2847444.m3u8
-#EXTINF:-1,BT Sport 1 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249136.m3u8
-#EXTINF:-1,BT Sport 1 UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249137.m3u8
-#EXTINF:-1,BT Sport 2 HD
-http://globalsystems.me:8880/live/mizan/mizan/2847445.m3u8
-#EXTINF:-1,BT Sport 2 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249138.m3u8
-#EXTINF:-1,BT Sport 2 UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249139.m3u8
-#EXTINF:-1,BT Sport 3 HD
-http://globalsystems.me:8880/live/mizan/mizan/2847446.m3u8
-#EXTINF:-1,BT Sport 3 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249140.m3u8
-#EXTINF:-1,BT Sport 3 UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249141.m3u8
-#EXTINF:-1,BT Sport ESPN HD
-http://globalsystems.me:8880/live/mizan/mizan/2847447.m3u8
-#EXTINF:-1,BT Sport ESPN FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249142.m3u8
-#EXTINF:-1,BT Sport ESPN UHD
-http://globalsystems.me:8880/live/mizan/mizan/2249143.m3u8
-#EXTINF:-1,Premier Sport 1 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848651.m3u8
-#EXTINF:-1,Premier Sport 1 HD
-http://globalsystems.me:8880/live/mizan/mizan/2249144.m3u8
-#EXTINF:-1,Premier Sport 2 SD
-http://globalsystems.me:8880/live/mizan/mizan/2848652.m3u8
-#EXTINF:-1,Premier Sport 2 HD
-http://globalsystems.me:8880/live/mizan/mizan/2249145.m3u8
-#EXTINF:-1,Free Sports HD
-http://globalsystems.me:8880/live/mizan/mizan/2249146.m3u8
-#EXTINF:-1,WWE Network HD
-http://globalsystems.me:8880/live/mizan/mizan/2249152.m3u8
-#EXTINF:-1,WWE Network FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249153.m3u8
-#EXTINF:-1,BoxNation HD
-http://globalsystems.me:8880/live/mizan/mizan/2249154.m3u8
-#EXTINF:-1,BoxNation FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249155.m3u8
-#EXTINF:-1,LaLiga TV HD
-http://globalsystems.me:8880/live/mizan/mizan/2249156.m3u8
-#EXTINF:-1,LaLiga TV FHD
-http://globalsystems.me:8880/live/mizan/mizan/2249157.m3u8
-#EXTINF:-1,Discovery Channel SD
-http://globalsystems.me:8880/live/mizan/mizan/2848665.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://globalsystems.me:8880/live/mizan/mizan/2261221.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261197.m3u8
-#EXTINF:-1,Discovery History SD
-http://globalsystems.me:8880/live/mizan/mizan/2848653.m3u8
-#EXTINF:-1,Discovery History HD
-http://globalsystems.me:8880/live/mizan/mizan/2261222.m3u8
-#EXTINF:-1,Discovery History FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261223.m3u8
-#EXTINF:-1,Discovery Science SD
-http://globalsystems.me:8880/live/mizan/mizan/2848654.m3u8
-#EXTINF:-1,Discovery Science HD
-http://globalsystems.me:8880/live/mizan/mizan/2261224.m3u8
-#EXTINF:-1,Discovery Science FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261225.m3u8
-#EXTINF:-1,Discovery Turbo SD
-http://globalsystems.me:8880/live/mizan/mizan/2848655.m3u8
-#EXTINF:-1,Discovery Turbo HD
-http://globalsystems.me:8880/live/mizan/mizan/2261226.m3u8
-#EXTINF:-1,Discovery Turbo FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261227.m3u8
-#EXTINF:-1,Sky History SD
-http://globalsystems.me:8880/live/mizan/mizan/2848658.m3u8
-#EXTINF:-1,Sky History HD
-http://globalsystems.me:8880/live/mizan/mizan/2261229.m3u8
-#EXTINF:-1,Sky History FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261199.m3u8
-#EXTINF:-1,H2 HD
-http://globalsystems.me:8880/live/mizan/mizan/2261200.m3u8
-#EXTINF:-1,H2 FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261201.m3u8
-#EXTINF:-1,National Geographic SD
-http://globalsystems.me:8880/live/mizan/mizan/2848660.m3u8
-#EXTINF:-1,National Geographic HD
-http://globalsystems.me:8880/live/mizan/mizan/2261230.m3u8
-#EXTINF:-1,National Geographic FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261202.m3u8
-#EXTINF:-1,Nat Geo Wild SD
-http://globalsystems.me:8880/live/mizan/mizan/2848661.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://globalsystems.me:8880/live/mizan/mizan/2261231.m3u8
-#EXTINF:-1,Nat Geo Wild FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261203.m3u8
-#EXTINF:-1,Animal Planet SD
-http://globalsystems.me:8880/live/mizan/mizan/2848662.m3u8
-#EXTINF:-1,Animal Planet HD
-http://globalsystems.me:8880/live/mizan/mizan/2261232.m3u8
-#EXTINF:-1,Animal Planet FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261204.m3u8
-#EXTINF:-1,Sky Nature SD
-http://globalsystems.me:8880/live/mizan/mizan/2848659.m3u8
-#EXTINF:-1,Sky Nature HD
-http://globalsystems.me:8880/live/mizan/mizan/2261205.m3u8
-#EXTINF:-1,Sky Nature FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261206.m3u8
-#EXTINF:-1,Eden SD
-http://globalsystems.me:8880/live/mizan/mizan/2848663.m3u8
-#EXTINF:-1,Eden HD
-http://globalsystems.me:8880/live/mizan/mizan/2261233.m3u8
-#EXTINF:-1,Eden FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261207.m3u8
-#EXTINF:-1,Crime And Investigation SD
-http://globalsystems.me:8880/live/mizan/mizan/2848664.m3u8
-#EXTINF:-1,Crime And Investigation HD
-http://globalsystems.me:8880/live/mizan/mizan/2261208.m3u8
-#EXTINF:-1,Crime And Investigation FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261209.m3u8
-#EXTINF:-1,Sky Crime SD
-http://globalsystems.me:8880/live/mizan/mizan/2848656.m3u8
-#EXTINF:-1,Sky Crime HD
-http://globalsystems.me:8880/live/mizan/mizan/2261210.m3u8
-#EXTINF:-1,Sky Crime FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261211.m3u8
-#EXTINF:-1,Sky Documentaries SD
-http://globalsystems.me:8880/live/mizan/mizan/2848657.m3u8
-#EXTINF:-1,Sky Documentaries HD
-http://globalsystems.me:8880/live/mizan/mizan/2261212.m3u8
-#EXTINF:-1,Sky Documentaries FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261213.m3u8
-#EXTINF:-1,Smithsonian Channel HD
-http://globalsystems.me:8880/live/mizan/mizan/2261214.m3u8
-#EXTINF:-1,Smithsonian Channel FHD
-http://globalsystems.me:8880/live/mizan/mizan/2261215.m3u8
-#EXTINF:-1,Food Network
-http://globalsystems.me:8880/live/mizan/mizan/2261217.m3u8
-#EXTINF:-1,HGTV
-http://globalsystems.me:8880/live/mizan/mizan/2261218.m3u8
-#EXTINF:-1,Forces TV
-http://globalsystems.me:8880/live/mizan/mizan/2261219.m3u8
-#EXTINF:-1,Blaze
-http://globalsystems.me:8880/live/mizan/mizan/2261220.m3u8
-#EXTINF:-1,DMAX
-http://globalsystems.me:8880/live/mizan/mizan/2511887.m3u8
-#EXTINF:-1,MTV Music HD
-http://globalsystems.me:8880/live/mizan/mizan/2258261.m3u8
-#EXTINF:-1,MTV Music FHD
-http://globalsystems.me:8880/live/mizan/mizan/2258262.m3u8
-#EXTINF:-1,MTV Base HD
-http://globalsystems.me:8880/live/mizan/mizan/2258263.m3u8
-#EXTINF:-1,MTV Base FHD
-http://globalsystems.me:8880/live/mizan/mizan/2258264.m3u8
-#EXTINF:-1,MTV Hits HD
-http://globalsystems.me:8880/live/mizan/mizan/2258265.m3u8
-#EXTINF:-1,MTV Hits FHD
-http://globalsystems.me:8880/live/mizan/mizan/2258266.m3u8
-#EXTINF:-1,MTV Classics HD
-http://globalsystems.me:8880/live/mizan/mizan/2258358.m3u8
-#EXTINF:-1,MTV Classics FHD
-http://globalsystems.me:8880/live/mizan/mizan/2258421.m3u8
-#EXTINF:-1,MTV 90s HD
-http://globalsystems.me:8880/live/mizan/mizan/2258473.m3u8
-#EXTINF:-1,MTV 90s FHD
-http://globalsystems.me:8880/live/mizan/mizan/2258474.m3u8
-#EXTINF:-1,Clubland TV
-http://globalsystems.me:8880/live/mizan/mizan/2258267.m3u8
-#EXTINF:-1,The Box
-http://globalsystems.me:8880/live/mizan/mizan/2258268.m3u8
-#EXTINF:-1,Box Hits
-http://globalsystems.me:8880/live/mizan/mizan/2258269.m3u8
-#EXTINF:-1,Kiss
-http://globalsystems.me:8880/live/mizan/mizan/2258270.m3u8
-#EXTINF:-1,Magic
-http://globalsystems.me:8880/live/mizan/mizan/2258271.m3u8
-#EXTINF:-1,Kerrang
-http://globalsystems.me:8880/live/mizan/mizan/2258272.m3u8
-#EXTINF:-1,NOW 70s
-http://globalsystems.me:8880/live/mizan/mizan/2853707.m3u8
-#EXTINF:-1,NOW 80s
-http://globalsystems.me:8880/live/mizan/mizan/2258274.m3u8
-#EXTINF:-1,NOW 90s
-http://globalsystems.me:8880/live/mizan/mizan/2258275.m3u8
-#EXTINF:-1,Boomerang HD
-http://globalsystems.me:8880/live/mizan/mizan/2236915.m3u8
-#EXTINF:-1,Boomerang FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236916.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://globalsystems.me:8880/live/mizan/mizan/2236917.m3u8
-#EXTINF:-1,Cartoon Network FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236918.m3u8
-#EXTINF:-1,Cartoonito HD
-http://globalsystems.me:8880/live/mizan/mizan/2236919.m3u8
-#EXTINF:-1,Cartoonito FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236920.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://globalsystems.me:8880/live/mizan/mizan/2236921.m3u8
-#EXTINF:-1,Nickelodeon FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236922.m3u8
-#EXTINF:-1,Nick JR HD
-http://globalsystems.me:8880/live/mizan/mizan/2236923.m3u8
-#EXTINF:-1,Nick JR FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236924.m3u8
-#EXTINF:-1,NickToons HD
-http://globalsystems.me:8880/live/mizan/mizan/2236925.m3u8
-#EXTINF:-1,NickToons FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236926.m3u8
-#EXTINF:-1,Disney Channel
-http://globalsystems.me:8880/live/mizan/mizan/2236927.m3u8
-#EXTINF:-1,Disney XD
-http://globalsystems.me:8880/live/mizan/mizan/2236928.m3u8
-#EXTINF:-1,Disney JR HD
-http://globalsystems.me:8880/live/mizan/mizan/2236929.m3u8
-#EXTINF:-1,Cbeebies HD
-http://globalsystems.me:8880/live/mizan/mizan/2236931.m3u8
-#EXTINF:-1,Cbeebies FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236932.m3u8
-#EXTINF:-1,CBBC HD
-http://globalsystems.me:8880/live/mizan/mizan/2236933.m3u8
-#EXTINF:-1,CBBC FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236934.m3u8
-#EXTINF:-1,CITV HD
-http://globalsystems.me:8880/live/mizan/mizan/2236935.m3u8
-#EXTINF:-1,CITV FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236936.m3u8
-#EXTINF:-1,POP HD
-http://globalsystems.me:8880/live/mizan/mizan/2236939.m3u8
-#EXTINF:-1,POP FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236940.m3u8
-#EXTINF:-1,POP MAX HD
-http://globalsystems.me:8880/live/mizan/mizan/2236941.m3u8
-#EXTINF:-1,POP MAX FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236942.m3u8
-#EXTINF:-1,TINY POP HD
-http://globalsystems.me:8880/live/mizan/mizan/2236943.m3u8
-#EXTINF:-1,TINY POP FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236944.m3u8
-#EXTINF:-1,BBC News SD
-http://globalsystems.me:8880/live/mizan/mizan/2848649.m3u8
-#EXTINF:-1,BBC News HD
-http://globalsystems.me:8880/live/mizan/mizan/2236581.m3u8
-#EXTINF:-1,BBC News FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236582.m3u8
-#EXTINF:-1,Sky News SD
-http://globalsystems.me:8880/live/mizan/mizan/2848650.m3u8
-#EXTINF:-1,SKY News HD
-http://globalsystems.me:8880/live/mizan/mizan/2236583.m3u8
-#EXTINF:-1,SKY News FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236584.m3u8
-#EXTINF:-1,GB News
-http://globalsystems.me:8880/live/mizan/mizan/2863105.m3u8
-#EXTINF:-1,RTE News
-http://globalsystems.me:8880/live/mizan/mizan/2236585.m3u8
-#EXTINF:-1,BBC Parliament
-http://globalsystems.me:8880/live/mizan/mizan/2236586.m3u8
-#EXTINF:-1,CNN FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236587.m3u8
-#EXTINF:-1,Al Jazeera
-http://globalsystems.me:8880/live/mizan/mizan/2236589.m3u8
-#EXTINF:-1,MUTV HD
-http://globalsystems.me:8880/live/mizan/mizan/2236580.m3u8
+#EXTINF:-1,SKY ONE FHD
+http://ultimateiptv.me:8080/amira/amira123/9853
+#EXTINF:-1,SKY ATLANTIC FHD
+http://ultimateiptv.me:8080/amira/amira123/9867
+#EXTINF:-1,SKY CINEMA SELECT FHD
+http://ultimateiptv.me:8080/amira/amira123/9868
+#EXTINF:-1,SKY CINEMA  THRILLER FHD
+http://ultimateiptv.me:8080/amira/amira123/9872
+#EXTINF:-1,SKY CINEMA FAMILY FHD
+http://ultimateiptv.me:8080/amira/amira123/9873
+#EXTINF:-1,BT SPORT ESPN FHD
+http://ultimateiptv.me:8080/amira/amira123/9883
+#EXTINF:-1,BT SPORT 2 FHD
+http://ultimateiptv.me:8080/amira/amira123/9885
+#EXTINF:-1,BT SPORT 1 FHD
+http://ultimateiptv.me:8080/amira/amira123/9886
+#EXTINF:-1,SKY SPORTS MIX FHD
+http://ultimateiptv.me:8080/amira/amira123/9887
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://ultimateiptv.me:8080/amira/amira123/9888
+#EXTINF:-1,SKY SPORTS ACTION FHD
+http://ultimateiptv.me:8080/amira/amira123/9889
+#EXTINF:-1,SKY SPORTS CRICKET FHD
+http://ultimateiptv.me:8080/amira/amira123/9890
+#EXTINF:-1,SKY SPORTS NEWS FHD
+http://ultimateiptv.me:8080/amira/amira123/9895
+#EXTINF:-1,----------- SKY UK SPORT -----------
+http://ultimateiptv.me:8080/amira/amira123/4219
+#EXTINF:-1,SKY SPORTS F1 FHD
+http://ultimateiptv.me:8080/amira/amira123/4258
+#EXTINF:-1,SKY SPORTS 4 HD
+http://ultimateiptv.me:8080/amira/amira123/4259
+#EXTINF:-1,SKY SPORTS 5 HD
+http://ultimateiptv.me:8080/amira/amira123/4260
+#EXTINF:-1,AT THE RACES
+http://ultimateiptv.me:8080/amira/amira123/4170
+#EXTINF:-1,BEIN SPORTS 11 (ENGLISH)
+http://ultimateiptv.me:8080/amira/amira123/4156
+#EXTINF:-1,BOX NATION HD
+http://ultimateiptv.me:8080/amira/amira123/4178
+#EXTINF:-1,BOX NATION
+http://ultimateiptv.me:8080/amira/amira123/4177
+#EXTINF:-1,BT SPORT 1 FHD
+http://ultimateiptv.me:8080/amira/amira123/4198
+#EXTINF:-1,BT SPORT 1 HD
+http://ultimateiptv.me:8080/amira/amira123/4199
+#EXTINF:-1,BT SPORT 2 FHD
+http://ultimateiptv.me:8080/amira/amira123/4195
+#EXTINF:-1,BT SPORT 2 HD
+http://ultimateiptv.me:8080/amira/amira123/4196
+#EXTINF:-1,BT SPORT 3 FHD
+http://ultimateiptv.me:8080/amira/amira123/4193
+#EXTINF:-1,BT SPORT 3 HD
+http://ultimateiptv.me:8080/amira/amira123/4194
+#EXTINF:-1,BT SPORT ESPN FHD
+http://ultimateiptv.me:8080/amira/amira123/4191
+#EXTINF:-1,BT SPORT ESPN HD
+http://ultimateiptv.me:8080/amira/amira123/4192
+#EXTINF:-1,BT SPORT EXTRA 1
+http://ultimateiptv.me:8080/amira/amira123/4225
+#EXTINF:-1,BT SPORT EXTRA 2
+http://ultimateiptv.me:8080/amira/amira123/4224
+#EXTINF:-1,BT SPORT EXTRA 3
+http://ultimateiptv.me:8080/amira/amira123/4223
+#EXTINF:-1,BT SPORT EXTRA 4
+http://ultimateiptv.me:8080/amira/amira123/4222
+#EXTINF:-1,CHELSEA TV
+http://ultimateiptv.me:8080/amira/amira123/4184
+#EXTINF:-1,DUBAI RACING
+http://ultimateiptv.me:8080/amira/amira123/4169
+#EXTINF:-1,LIVERPOOL FC
+http://ultimateiptv.me:8080/amira/amira123/4186
+#EXTINF:-1,LIVERPOOL FC TV HD
+http://ultimateiptv.me:8080/amira/amira123/4185
+#EXTINF:-1,MOTORS TV
+http://ultimateiptv.me:8080/amira/amira123/4179
 #EXTINF:-1,MUTV FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236577.m3u8
-#EXTINF:-1,LFCTV HD
-http://globalsystems.me:8880/live/mizan/mizan/2236578.m3u8
-#EXTINF:-1,LFCTV FHD
-http://globalsystems.me:8880/live/mizan/mizan/2236579.m3u8
-#EXTINF:-1,Create & Craft
-http://globalsystems.me:8880/live/mizan/mizan/2646794.m3u8
-#EXTINF:-1,Gems TV
-http://globalsystems.me:8880/live/mizan/mizan/2646799.m3u8
-#EXTINF:-1,Ideal Extra
-http://globalsystems.me:8880/live/mizan/mizan/2646793.m3u8
-#EXTINF:-1,Ideal World
-http://globalsystems.me:8880/live/mizan/mizan/2646792.m3u8
-#EXTINF:-1,QVC
-http://globalsystems.me:8880/live/mizan/mizan/2646795.m3u8
-#EXTINF:-1,QVC Beauty
-http://globalsystems.me:8880/live/mizan/mizan/2646796.m3u8
-#EXTINF:-1,QVC Extra
-http://globalsystems.me:8880/live/mizan/mizan/2646798.m3u8
-#EXTINF:-1,QVC Style
-http://globalsystems.me:8880/live/mizan/mizan/2646797.m3u8
+http://ultimateiptv.me:8080/amira/amira123/4187
+#EXTINF:-1,MUTV HD
+http://ultimateiptv.me:8080/amira/amira123/4188
+#EXTINF:-1,PREMIER SPORTS HD
+http://ultimateiptv.me:8080/amira/amira123/4182
+#EXTINF:-1,RACING UK HD
+http://ultimateiptv.me:8080/amira/amira123/4171
+#EXTINF:-1,SKY SPORTS ACTION FHD
+http://ultimateiptv.me:8080/amira/amira123/4204
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://ultimateiptv.me:8080/amira/amira123/4205
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://ultimateiptv.me:8080/amira/amira123/4202
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://ultimateiptv.me:8080/amira/amira123/4203
+#EXTINF:-1,SKY SPORTS CRICKET  FHD
+http://ultimateiptv.me:8080/amira/amira123/4206
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://ultimateiptv.me:8080/amira/amira123/4207
+#EXTINF:-1,SKY SPORTS F1 FHD
+http://ultimateiptv.me:8080/amira/amira123/4180
+#EXTINF:-1,SKY SPORTS F1 HD
+http://ultimateiptv.me:8080/amira/amira123/4181
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://ultimateiptv.me:8080/amira/amira123/4211
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://ultimateiptv.me:8080/amira/amira123/4212
+#EXTINF:-1,SKY SPORTS GOLF FHD
+http://ultimateiptv.me:8080/amira/amira123/4209
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://ultimateiptv.me:8080/amira/amira123/4210
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://ultimateiptv.me:8080/amira/amira123/4215
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://ultimateiptv.me:8080/amira/amira123/4216
+#EXTINF:-1,SKY SPORTS MIX FHD
+http://ultimateiptv.me:8080/amira/amira123/4200
+#EXTINF:-1,SKY SPORTS MIX HD
+http://ultimateiptv.me:8080/amira/amira123/4201
+#EXTINF:-1,SKY SPORTS NEWS FHD
+http://ultimateiptv.me:8080/amira/amira123/4217
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://ultimateiptv.me:8080/amira/amira123/4218
+#EXTINF:-1,SKY SPORTS PREM LG FHD
+http://ultimateiptv.me:8080/amira/amira123/4213
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://ultimateiptv.me:8080/amira/amira123/4214
+#EXTINF:-1,FREE SPORTS HD
+http://ultimateiptv.me:8080/amira/amira123/11036
+#EXTINF:-1,SONY SIX SPORT
+http://ultimateiptv.me:8080/amira/amira123/4160
+#EXTINF:-1,TSN 2 HD (3PM KICK OFFS)
+http://ultimateiptv.me:8080/amira/amira123/4151
+#EXTINF:-1,TSN 3 HD (3PM KICK OFFS)
+http://ultimateiptv.me:8080/amira/amira123/4150
+#EXTINF:-1,TSN 4 HD (3PM KICK OFFS)
+http://ultimateiptv.me:8080/amira/amira123/4149
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://ultimateiptv.me:8080/amira/amira123/4158
+#EXTINF:-1,USA:FOX SPORTS 1 HD
+http://ultimateiptv.me:8080/amira/amira123/4159
+#EXTINF:-1,USA:FOX SPORTS 2 HD
+http://ultimateiptv.me:8080/amira/amira123/4157
+#EXTINF:-1,USA:NBC GOLF HD
+http://ultimateiptv.me:8080/amira/amira123/4208
+#EXTINF:-1,USA:SPORT TSN 4
+http://ultimateiptv.me:8080/amira/amira123/4154
+#EXTINF:-1,USA:SPORTSNET WORLD
+http://ultimateiptv.me:8080/amira/amira123/4153
+#EXTINF:-1,USA:TSN 1 HD
+http://ultimateiptv.me:8080/amira/amira123/4152
+#EXTINF:-1,USA:TSN 5 HD
+http://ultimateiptv.me:8080/amira/amira123/4148
+#EXTINF:-1,USA:WWE NETWORK
+http://ultimateiptv.me:8080/amira/amira123/4176
+#EXTINF:-1,ALJAZEERA NEWS ENGLISH
+http://ultimateiptv.me:8080/amira/amira123/10879
+#EXTINF:-1,BBC NEWS
+http://ultimateiptv.me:8080/amira/amira123/10883
+#EXTINF:-1,BBC WORLD NEWS
+http://ultimateiptv.me:8080/amira/amira123/10878
+#EXTINF:-1,BLOOMBERG  HD
+http://ultimateiptv.me:8080/amira/amira123/10882
+#EXTINF:-1,CNN INTERNATIONAL
+http://ultimateiptv.me:8080/amira/amira123/10877
+#EXTINF:-1,CNN INTERNATIONAL
+http://ultimateiptv.me:8080/amira/amira123/11041
+#EXTINF:-1,FRANCE 24 ENGLISH
+http://ultimateiptv.me:8080/amira/amira123/10880
+#EXTINF:-1,NHK WORLD HD
+http://ultimateiptv.me:8080/amira/amira123/10876
+#EXTINF:-1,SKY NEWS HD
+http://ultimateiptv.me:8080/amira/amira123/10884
+#EXTINF:-1,BBC WORLD NEWS
+http://ultimateiptv.me:8080/amira/amira123/11042
+#EXTINF:-1,ALJAZEERA NEWS ENGLISH
+http://ultimateiptv.me:8080/amira/amira123/11043
+#EXTINF:-1,FRANCE 24 ENGLISH
+http://ultimateiptv.me:8080/amira/amira123/11044
+#EXTINF:-1,BLOOMBERG US HD
+http://ultimateiptv.me:8080/amira/amira123/11046
+#EXTINF:-1,BBC NEWS
+http://ultimateiptv.me:8080/amira/amira123/11047
+#EXTINF:-1,SKY NEWS HD
+http://ultimateiptv.me:8080/amira/amira123/11048
+#EXTINF:-1,CNBC NEWS
+http://ultimateiptv.me:8080/amira/amira123/11009
+#EXTINF:-1,iCONCERTS
+http://ultimateiptv.me:8080/amira/amira123/11302
+#EXTINF:-1,MTV CLASSIC
+http://ultimateiptv.me:8080/amira/amira123/11258
+#EXTINF:-1,MTV LIVE
+http://ultimateiptv.me:8080/amira/amira123/9699
+#EXTINF:-1,MTV ROCK
+http://ultimateiptv.me:8080/amira/amira123/9698
+#EXTINF:-1,MTV BASE
+http://ultimateiptv.me:8080/amira/amira123/9696
+#EXTINF:-1,MTV DANCE
+http://ultimateiptv.me:8080/amira/amira123/9697
+#EXTINF:-1,MTV HITS
+http://ultimateiptv.me:8080/amira/amira123/9695
+#EXTINF:-1,MTV MUSIC
+http://ultimateiptv.me:8080/amira/amira123/9694
+#EXTINF:-1,MTV CLUB HD
+http://ultimateiptv.me:8080/amira/amira123/11011
+#EXTINF:-1,VH1 HD
+http://ultimateiptv.me:8080/amira/amira123/11286
+#EXTINF:-1,CHANNEL AKA
+http://ultimateiptv.me:8080/amira/amira123/11291
+#EXTINF:-1,4 MUSIC
+http://ultimateiptv.me:8080/amira/amira123/11293
+#EXTINF:-1,CARTOON NETWORK
+http://ultimateiptv.me:8080/amira/amira123/11057
+#EXTINF:-1,DISNEY CHANNEL
+http://ultimateiptv.me:8080/amira/amira123/11056
+#EXTINF:-1,DISNEY JUNIOR
+http://ultimateiptv.me:8080/amira/amira123/11058
+#EXTINF:-1,CARTOONITO
+http://ultimateiptv.me:8080/amira/amira123/11012
+#EXTINF:-1,DISNEY XD
+http://ultimateiptv.me:8080/amira/amira123/11055
+#EXTINF:-1,BABY TV
+http://ultimateiptv.me:8080/amira/amira123/11054
+#EXTINF:-1,NICK JR TOO
+http://ultimateiptv.me:8080/amira/amira123/11059
+#EXTINF:-1,NICK JUNIOR
+http://ultimateiptv.me:8080/amira/amira123/11060
+#EXTINF:-1,NICKELODEON
+http://ultimateiptv.me:8080/amira/amira123/11061
+#EXTINF:-1,NICK TOONS
+http://ultimateiptv.me:8080/amira/amira123/11062
+#EXTINF:-1,BOOMERANG
+http://ultimateiptv.me:8080/amira/amira123/11063
+#EXTINF:-1,CITV
+http://ultimateiptv.me:8080/amira/amira123/11050
+#EXTINF:-1,TINY POP
+http://ultimateiptv.me:8080/amira/amira123/11051
+#EXTINF:-1,POP HD
+http://ultimateiptv.me:8080/amira/amira123/11052
+#EXTINF:-1,RTE JUNIOR
+http://ultimateiptv.me:8080/amira/amira123/11053
+#EXTINF:-1,SKY CINEMA SELECT HD
+http://ultimateiptv.me:8080/amira/amira123/11236
+#EXTINF:-1,SKY CINEMA PREMIERE HD
+http://ultimateiptv.me:8080/amira/amira123/11237
+#EXTINF:-1,SKY CINEMA GREATS HD
+http://ultimateiptv.me:8080/amira/amira123/11238
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://ultimateiptv.me:8080/amira/amira123/11239
+#EXTINF:-1,SKY CINEMA DRAMA HD
+http://ultimateiptv.me:8080/amira/amira123/11240
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://ultimateiptv.me:8080/amira/amira123/11241
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://ultimateiptv.me:8080/amira/amira123/11242
+#EXTINF:-1,SKY CINEMA SHOWCASE HD
+http://ultimateiptv.me:8080/amira/amira123/11243
+#EXTINF:-1,SKY CINEMA SCFI HORROR
+http://ultimateiptv.me:8080/amira/amira123/11244
+#EXTINF:-1,SKY CINEMA THRILLER
+http://ultimateiptv.me:8080/amira/amira123/11285
+#EXTINF:-1,SKY CINEMA DISNEY
+http://ultimateiptv.me:8080/amira/amira123/11245
+#EXTINF:-1,DRAMA CHANNEL
+http://ultimateiptv.me:8080/amira/amira123/11250
+#EXTINF:-1,CINEMA HITS HD
+http://ultimateiptv.me:8080/amira/amira123/11259
+#EXTINF:-1,SKY CINEMA HITS
+http://ultimateiptv.me:8080/amira/amira123/265012816
+#EXTINF:-1,CHANNEL HORROR
+http://ultimateiptv.me:8080/amira/amira123/11255
+#EXTINF:-1,SONY MOVIES ACTION
+http://ultimateiptv.me:8080/amira/amira123/11007
+#EXTINF:-1,SKY MOVIES PREMIER HD
+http://ultimateiptv.me:8080/amira/amira123/11016
+#EXTINF:-1,MOVIES4MEN HD
+http://ultimateiptv.me:8080/amira/amira123/11254
+#EXTINF:-1,TRUE MOVIES
+http://ultimateiptv.me:8080/amira/amira123/11249
+#EXTINF:-1,AMC HD
+http://ultimateiptv.me:8080/amira/amira123/11247
+#EXTINF:-1,CBS DRAMA
+http://ultimateiptv.me:8080/amira/amira123/11252
+#EXTINF:-1,CBS ACTION
+http://ultimateiptv.me:8080/amira/amira123/11253
+#EXTINF:-1,TCM HD
+http://ultimateiptv.me:8080/amira/amira123/11246
+#EXTINF:-1,FILM 4 HD
+http://ultimateiptv.me:8080/amira/amira123/11248
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://ultimateiptv.me:8080/amira/amira123/11272
+#EXTINF:-1,COMEDY CENTRAL / VIVA UK
+http://ultimateiptv.me:8080/amira/amira123/11260
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://ultimateiptv.me:8080/amira/amira123/11262
+#EXTINF:-1,COMEDY CENTRAL HD
+http://ultimateiptv.me:8080/amira/amira123/11261
+#EXTINF:-1,TRUE ENTERTAINMENT
+http://ultimateiptv.me:8080/amira/amira123/11251
+#EXTINF:-1,CBEEBIES
+http://ultimateiptv.me:8080/amira/amira123/11064
+#EXTINF:-1,CBBC HD
+http://ultimateiptv.me:8080/amira/amira123/11152
+#EXTINF:-1,ITV 1 HD
+http://ultimateiptv.me:8080/amira/amira123/11178
+#EXTINF:-1,ITV +1 HD
+http://ultimateiptv.me:8080/amira/amira123/11179
+#EXTINF:-1,ITV 2 HD
+http://ultimateiptv.me:8080/amira/amira123/11180
+#EXTINF:-1,ITV 3 HD
+http://ultimateiptv.me:8080/amira/amira123/11181
+#EXTINF:-1,ITV 4 HD
+http://ultimateiptv.me:8080/amira/amira123/11183
+#EXTINF:-1,ITV BE
+http://ultimateiptv.me:8080/amira/amira123/11184
+#EXTINF:-1,4 SEVEN HD
+http://ultimateiptv.me:8080/amira/amira123/11185
+#EXTINF:-1,MORE 4 HD
+http://ultimateiptv.me:8080/amira/amira123/11186
+#EXTINF:-1,CHANNEL 4 HD
+http://ultimateiptv.me:8080/amira/amira123/11187
+#EXTINF:-1,CHANNEL 5 HD
+http://ultimateiptv.me:8080/amira/amira123/11188
+#EXTINF:-1,5 USA HD
+http://ultimateiptv.me:8080/amira/amira123/11189
+#EXTINF:-1,SKY ATLANTIC
+http://ultimateiptv.me:8080/amira/amira123/11191
+#EXTINF:-1,CBS REALITY
+http://ultimateiptv.me:8080/amira/amira123/11192
+#EXTINF:-1,SKY ARTS HD
+http://ultimateiptv.me:8080/amira/amira123/11193
+#EXTINF:-1,SKY 1 HD
+http://ultimateiptv.me:8080/amira/amira123/11194
+#EXTINF:-1,SKY 2 HD
+http://ultimateiptv.me:8080/amira/amira123/11195
+#EXTINF:-1,E4 HD
+http://ultimateiptv.me:8080/amira/amira123/11196
+#EXTINF:-1,E! ENTERTAINMENT
+http://ultimateiptv.me:8080/amira/amira123/11197
+#EXTINF:-1,SKY WITNESS HD
+http://ultimateiptv.me:8080/amira/amira123/11198
+#EXTINF:-1,GOLD HD
+http://ultimateiptv.me:8080/amira/amira123/11199
+#EXTINF:-1,5 SPIKE
+http://ultimateiptv.me:8080/amira/amira123/11200
+#EXTINF:-1,5 STAR
+http://ultimateiptv.me:8080/amira/amira123/11201
+#EXTINF:-1,5 SELECT
+http://ultimateiptv.me:8080/amira/amira123/11202
+#EXTINF:-1,BBC 1 HD
+http://ultimateiptv.me:8080/amira/amira123/11222
+#EXTINF:-1,BBC 2
+http://ultimateiptv.me:8080/amira/amira123/11223
+#EXTINF:-1,BBC 2 HD
+http://ultimateiptv.me:8080/amira/amira123/11224
+#EXTINF:-1,BBC 3 HD
+http://ultimateiptv.me:8080/amira/amira123/11225
+#EXTINF:-1,BBC 4 HD
+http://ultimateiptv.me:8080/amira/amira123/11226
+#EXTINF:-1,BBC PARLIAMENT
+http://ultimateiptv.me:8080/amira/amira123/11227
+#EXTINF:-1,BBC ALBA
+http://ultimateiptv.me:8080/amira/amira123/11228
+#EXTINF:-1,DAVE HD
+http://ultimateiptv.me:8080/amira/amira123/11229
+#EXTINF:-1,ALIBI HD
+http://ultimateiptv.me:8080/amira/amira123/11230
+#EXTINF:-1,LONDON LIVE
+http://ultimateiptv.me:8080/amira/amira123/11231
+#EXTINF:-1,TLC HD
+http://ultimateiptv.me:8080/amira/amira123/11232
+#EXTINF:-1,SYFY HD
+http://ultimateiptv.me:8080/amira/amira123/11233
+#EXTINF:-1,RTE 1 HD
+http://ultimateiptv.me:8080/amira/amira123/11234
+#EXTINF:-1,RTE 2 HD
+http://ultimateiptv.me:8080/amira/amira123/11235
+#EXTINF:-1,VIRGIN TWO
+http://ultimateiptv.me:8080/amira/amira123/11263
+#EXTINF:-1,TG4 HD
+http://ultimateiptv.me:8080/amira/amira123/11264
+#EXTINF:-1,UTV IE
+http://ultimateiptv.me:8080/amira/amira123/11265
+#EXTINF:-1,FOX HD
+http://ultimateiptv.me:8080/amira/amira123/11266
+#EXTINF:-1,EDEN HD
+http://ultimateiptv.me:8080/amira/amira123/11267
+#EXTINF:-1,VIRGIN ONE HD
+http://ultimateiptv.me:8080/amira/amira123/11268
+#EXTINF:-1,YESTERDAY
+http://ultimateiptv.me:8080/amira/amira123/11269
+#EXTINF:-1,VIRGIN THREE
+http://ultimateiptv.me:8080/amira/amira123/11273
+#EXTINF:-1,GOOD FOOD
+http://ultimateiptv.me:8080/amira/amira123/11274
+#EXTINF:-1,LIFE TIME
+http://ultimateiptv.me:8080/amira/amira123/11276
+#EXTINF:-1,QUEST HD
+http://ultimateiptv.me:8080/amira/amira123/11277
+#EXTINF:-1,PICK TV
+http://ultimateiptv.me:8080/amira/amira123/11278
+#EXTINF:-1,REALLY HD
+http://ultimateiptv.me:8080/amira/amira123/11279
+#EXTINF:-1,HORSE & COUNTRY
+http://ultimateiptv.me:8080/amira/amira123/11282
+#EXTINF:-1,S4C HD
+http://ultimateiptv.me:8080/amira/amira123/11283
+#EXTINF:-1,KISS TV
+http://ultimateiptv.me:8080/amira/amira123/11010
+#EXTINF:-1,BBC ENTERTAINMENT
+http://ultimateiptv.me:8080/amira/amira123/11014
+#EXTINF:-1,PARAMOUNT
+http://ultimateiptv.me:8080/amira/amira123/11015
+#EXTINF:-1,SKY LIVING
+http://ultimateiptv.me:8080/amira/amira123/11019
+#EXTINF:-1,TENNIS CHANNEL
+http://ultimateiptv.me:8080/amira/amira123/11033
+#EXTINF:-1,FINE LIVING
+http://ultimateiptv.me:8080/amira/amira123/11034
+#EXTINF:-1,FOX NEWS
+http://ultimateiptv.me:8080/amira/amira123/11035
+#EXTINF:-1,------- UK Documentaries -------
+http://ultimateiptv.me:8080/amira/amira123/11294
+#EXTINF:-1,BLAZE HD
+http://ultimateiptv.me:8080/amira/amira123/11067
+#EXTINF:-1,CHALLENGE TV
+http://ultimateiptv.me:8080/amira/amira123/11068
+#EXTINF:-1,TRAVEL CHANNEL
+http://ultimateiptv.me:8080/amira/amira123/11069
+#EXTINF:-1,ANIMAL PLANET HD
+http://ultimateiptv.me:8080/amira/amira123/11070
+#EXTINF:-1,DMAX UK
+http://ultimateiptv.me:8080/amira/amira123/11071
+#EXTINF:-1,DISCOVERY SCIENCE
+http://ultimateiptv.me:8080/amira/amira123/11072
+#EXTINF:-1,DISCOVERY SHED
+http://ultimateiptv.me:8080/amira/amira123/11073
+#EXTINF:-1,DISCOVERY TURBO
+http://ultimateiptv.me:8080/amira/amira123/11074
+#EXTINF:-1,DISCOVERY HISTORY
+http://ultimateiptv.me:8080/amira/amira123/11075
+#EXTINF:-1,DISCOVERY CHANNEL
+http://ultimateiptv.me:8080/amira/amira123/11295
+#EXTINF:-1,DISCOVERY HOME & HEATH
+http://ultimateiptv.me:8080/amira/amira123/11008
+#EXTINF:-1,CRIME & INVESTIGATION
+http://ultimateiptv.me:8080/amira/amira123/11296
+#EXTINF:-1,DISCOVERY INVESTIGATION
+http://ultimateiptv.me:8080/amira/amira123/11297
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://ultimateiptv.me:8080/amira/amira123/11298
+#EXTINF:-1,NAT GEO WILD
+http://ultimateiptv.me:8080/amira/amira123/11299
+#EXTINF:-1,CHALLANGE HD
+http://ultimateiptv.me:8080/amira/amira123/11013
+#EXTINF:-1,HISTORY CHANNEL
+http://ultimateiptv.me:8080/amira/amira123/11300
+#EXTINF:-1,FOOD NETWORK
+http://ultimateiptv.me:8080/amira/amira123/11281
+#EXTINF:-1,HOME
+http://ultimateiptv.me:8080/amira/amira123/11280
+#EXTINF:-1,H2 HD
+http://ultimateiptv.me:8080/amira/amira123/11301
