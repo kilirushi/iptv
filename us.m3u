@@ -1,211 +1,2631 @@
 #EXTM3U
-#EXTINF:-1,A&E FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4960
-#EXTINF:-1,A&E HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14399
-#EXTINF:-1,ABC News Feed HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6364
-#EXTINF:-1,ABC HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4925
-#EXTINF:-1,Discovery Life HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4933
-#EXTINF:-1,Discovery Family HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14396
-#EXTINF:-1,AMC HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4959
+#EXTINF:-1,A&E
+http://mains.services:2086/live/mikekoot/1757909/13558.ts
+#EXTINF:-1,A&E FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64160.ts
+#EXTINF:-1,ABC (KABC -LA SO CAL)
+http://mains.services:2086/live/mikekoot/1757909/90326.ts
+#EXTINF:-1,ABC (KAEF - EUREKA)
+http://mains.services:2086/live/mikekoot/1757909/101280.ts
+#EXTINF:-1,ABC (KAKE - WICHITA)
+http://mains.services:2086/live/mikekoot/1757909/101276.ts
+#EXTINF:-1,ABC (KATC-LAFAYETTE LA)
+http://mains.services:2086/live/mikekoot/1757909/98673.ts
+#EXTINF:-1,ABC (KATU - PORTLAND)
+http://mains.services:2086/live/mikekoot/1757909/100791.ts
+#EXTINF:-1,ABC (KBMY - BISMARCK)
+http://mains.services:2086/live/mikekoot/1757909/101259.ts
+#EXTINF:-1,ABC (KCRG - CEDAR RAPIDS)
+http://mains.services:2086/live/mikekoot/1757909/101273.ts
+#EXTINF:-1,ABC (KDNL-ST. LOUIS MO)
+http://mains.services:2086/live/mikekoot/1757909/90327.ts
+#EXTINF:-1,ABC (KERO - BAKERSFIELD)
+http://mains.services:2086/live/mikekoot/1757909/101279.ts
+#EXTINF:-1,ABC (KETV - OMAHA)
+http://mains.services:2086/live/mikekoot/1757909/101270.ts
+#EXTINF:-1,ABC (KFSN - FRESNO)
+http://mains.services:2086/live/mikekoot/1757909/100794.ts
+#EXTINF:-1,ABC (KGO- SAN FRANCISCO)
+http://mains.services:2086/live/mikekoot/1757909/98674.ts
+#EXTINF:-1,ABC (KGTV - SAN DIEGO)
+http://mains.services:2086/live/mikekoot/1757909/100802.ts
+#EXTINF:-1,ABC (KGUN - TUCSON)
+http://mains.services:2086/live/mikekoot/1757909/100793.ts
+#EXTINF:-1,ABC (KIII - CORPUS CHRISTI)
+http://mains.services:2086/live/mikekoot/1757909/100797.ts
+#EXTINF:-1,ABC (KITV - HONOLULU)
+http://mains.services:2086/live/mikekoot/1757909/100795.ts
+#EXTINF:-1,ABC (KMBC - KANSAS CITY)
+http://mains.services:2086/live/mikekoot/1757909/101278.ts
+#EXTINF:-1,ABC (KMGH-DENVER CO)
+http://mains.services:2086/live/mikekoot/1757909/90328.ts
+#EXTINF:-1,ABC (KNXV-PHOENIX AZ)
+http://mains.services:2086/live/mikekoot/1757909/90329.ts
+#EXTINF:-1,ABC (KOAT- ALBUQUERQUE NM)
+http://mains.services:2086/live/mikekoot/1757909/90637.ts
+#EXTINF:-1,ABC (KOCO- OKLAHOMA CITY OK)
+http://mains.services:2086/live/mikekoot/1757909/90330.ts
+#EXTINF:-1,ABC (KOMO- SEATTLE WA)
+http://mains.services:2086/live/mikekoot/1757909/90331.ts
+#EXTINF:-1,ABC (KRDO - COLORADO SPRINGS)
+http://mains.services:2086/live/mikekoot/1757909/101271.ts
+#EXTINF:-1,ABC (KRGV - WESLACO, TX)
+http://mains.services:2086/live/mikekoot/1757909/100790.ts
+#EXTINF:-1,ABC (KSAT -SAN ANTONIO)
+http://mains.services:2086/live/mikekoot/1757909/100883.ts
+#EXTINF:-1,ABC (KSFY - SIOUX FALLS)
+http://mains.services:2086/live/mikekoot/1757909/101263.ts
+#EXTINF:-1,ABC (KSPR - MISSOURI)
+http://mains.services:2086/live/mikekoot/1757909/100879.ts
+#EXTINF:-1,ABC (KSTP - ST. PAUL MN)
+http://mains.services:2086/live/mikekoot/1757909/90332.ts
+#EXTINF:-1,ABC (KTBS - SHREVEPORT)
+http://mains.services:2086/live/mikekoot/1757909/101269.ts
+#EXTINF:-1,ABC (KTNV- LAS VEGAS NV)
+http://mains.services:2086/live/mikekoot/1757909/90333.ts
+#EXTINF:-1,ABC (KTRK- HOUSTON SE TX)
+http://mains.services:2086/live/mikekoot/1757909/90334.ts
+#EXTINF:-1,ABC (KTVX - SALT LAKE CITY)
+http://mains.services:2086/live/mikekoot/1757909/100796.ts
+#EXTINF:-1,ABC (KVIA - EL PASO)
+http://mains.services:2086/live/mikekoot/1757909/101282.ts
+#EXTINF:-1,ABC (KVII - AMARILLO)
+http://mains.services:2086/live/mikekoot/1757909/101283.ts
+#EXTINF:-1,ABC (KVUE - AUSTIN)
+http://mains.services:2086/live/mikekoot/1757909/101281.ts
+#EXTINF:-1,ABC (KXTV - SACRAMENTO)
+http://mains.services:2086/live/mikekoot/1757909/100792.ts
+#EXTINF:-1,ABC (WAAY- HUNTSVILLE AL)
+http://mains.services:2086/live/mikekoot/1757909/90335.ts
+#EXTINF:-1,ABC (WABC-NEW YORK NY)
+http://mains.services:2086/live/mikekoot/1757909/90336.ts
+#EXTINF:-1,ABC (WABMDT2 - BIRMINGHAM)
+http://mains.services:2086/live/mikekoot/1757909/100800.ts
+#EXTINF:-1,ABC (WATE - KNOXVILLE)
+http://mains.services:2086/live/mikekoot/1757909/100803.ts
+#EXTINF:-1,ABC (WATN - MEMPHIS)
+http://mains.services:2086/live/mikekoot/1757909/101253.ts
+#EXTINF:-1,ABC (WBAY - GREEN BAY)
+http://mains.services:2086/live/mikekoot/1757909/101275.ts
+#EXTINF:-1,ABC (WCIV-DT - CHARLESTON)
+http://mains.services:2086/live/mikekoot/1757909/100801.ts
+#EXTINF:-1,ABC (WCPO- CINCINNATI OH)
+http://mains.services:2086/live/mikekoot/1757909/90337.ts
+#EXTINF:-1,ABC (WCVB- BOSTON MA)
+http://mains.services:2086/live/mikekoot/1757909/90338.ts
+#EXTINF:-1,ABC (WEAR - MOBILE)
+http://mains.services:2086/live/mikekoot/1757909/101264.ts
+#EXTINF:-1,ABC (WEWS-CLEVELAND OH)
+http://mains.services:2086/live/mikekoot/1757909/98913.ts
+#EXTINF:-1,ABC (WFAA- DALLAS/FORT WORTH TX)
+http://mains.services:2086/live/mikekoot/1757909/90339.ts
+#EXTINF:-1,ABC (WFTS - TAMPA)
+http://mains.services:2086/live/mikekoot/1757909/101009.ts
+#EXTINF:-1,ABC (WFTV - ORLANDO)
+http://mains.services:2086/live/mikekoot/1757909/100875.ts
+#EXTINF:-1,ABC (WGGB - SPRINGFIELD)
+http://mains.services:2086/live/mikekoot/1757909/101257.ts
+#EXTINF:-1,ABC (WHAS - LOUISVILLE)
+http://mains.services:2086/live/mikekoot/1757909/101261.ts
+#EXTINF:-1,ABC (WHBF - SAVANNA)
+http://mains.services:2086/live/mikekoot/1757909/101266.ts
+#EXTINF:-1,ABC (WICS - SPRINGFIELD)
+http://mains.services:2086/live/mikekoot/1757909/101277.ts
+#EXTINF:-1,ABC (WISN - MILWAUKEE)
+http://mains.services:2086/live/mikekoot/1757909/101274.ts
+#EXTINF:-1,ABC (WJLA- WASHINGTON DC)
+http://mains.services:2086/live/mikekoot/1757909/90340.ts
+#EXTINF:-1,ABC (WJXX - JACKSONVILLE)
+http://mains.services:2086/live/mikekoot/1757909/101284.ts
+#EXTINF:-1,ABC (WKBW - BUFFALO)
+http://mains.services:2086/live/mikekoot/1757909/100799.ts
+#EXTINF:-1,ABC (WKEF - DAYTON)
+http://mains.services:2086/live/mikekoot/1757909/101258.ts
+#EXTINF:-1,ABC (WKRN - NASHVILLE)
+http://mains.services:2086/live/mikekoot/1757909/101262.ts
+#EXTINF:-1,ABC (WLOS - GREENVILLE)
+http://mains.services:2086/live/mikekoot/1757909/101267.ts
+#EXTINF:-1,ABC (WLOX -GULFPORT MS)
+http://mains.services:2086/live/mikekoot/1757909/101096.ts
+#EXTINF:-1,ABC (WLS- CHICAGO IL)
+http://mains.services:2086/live/mikekoot/1757909/90341.ts
+#EXTINF:-1,ABC (WMAR- BALTIMORE MD)
+http://mains.services:2086/live/mikekoot/1757909/90342.ts
+#EXTINF:-1,ABC (WMTW-PORTLAND MAINE)
+http://mains.services:2086/live/mikekoot/1757909/98676.ts
+#EXTINF:-1,ABC (WMUR-MANCHESTER NH)
+http://mains.services:2086/live/mikekoot/1757909/90343.ts
+#EXTINF:-1,ABC (WOLO - COLUMBIA, SOUTH CAROLINA)
+http://mains.services:2086/live/mikekoot/1757909/99553.ts
+#EXTINF:-1,ABC (WOTV - BATTLE CREEK)
+http://mains.services:2086/live/mikekoot/1757909/101250.ts
+#EXTINF:-1,ABC (WPLG-MIAMI FL)
+http://mains.services:2086/live/mikekoot/1757909/90344.ts
+#EXTINF:-1,ABC (WPVI- PHILADELPHIA PA)
+http://mains.services:2086/live/mikekoot/1757909/90345.ts
+#EXTINF:-1,ABC (WQAD - SAVANNA)
+http://mains.services:2086/live/mikekoot/1757909/101265.ts
+#EXTINF:-1,ABC (WRIC - RICHMOND)
+http://mains.services:2086/live/mikekoot/1757909/101252.ts
+#EXTINF:-1,ABC (WRTV-INDIANAPOLIS IN)
+http://mains.services:2086/live/mikekoot/1757909/90346.ts
+#EXTINF:-1,ABC (WSB-ATLANTA GA)
+http://mains.services:2086/live/mikekoot/1757909/90347.ts
+#EXTINF:-1,ABC (WSOC-CHARLOTTE NC)
+http://mains.services:2086/live/mikekoot/1757909/90348.ts
+#EXTINF:-1,ABC (WSYR - SYRACUSE)
+http://mains.services:2086/live/mikekoot/1757909/101256.ts
+#EXTINF:-1,ABC (WSYX-COLUMBUS OHIO)
+http://mains.services:2086/live/mikekoot/1757909/98855.ts
+#EXTINF:-1,ABC (WTAE- PITTSBURGH PA)
+http://mains.services:2086/live/mikekoot/1757909/90349.ts
+#EXTINF:-1,ABC (WTEN - ALBANY)
+http://mains.services:2086/live/mikekoot/1757909/101203.ts
+#EXTINF:-1,ABC (WTNH - NEW HAVEN CT)
+http://mains.services:2086/live/mikekoot/1757909/100922.ts
+#EXTINF:-1,ABC (WTVC - CHATTANOOGA)
+http://mains.services:2086/live/mikekoot/1757909/101268.ts
+#EXTINF:-1,ABC (WTVD-DURHAM NC)
+http://mains.services:2086/live/mikekoot/1757909/98677.ts
+#EXTINF:-1,ABC (WTVM - COLUMBUS)
+http://mains.services:2086/live/mikekoot/1757909/101272.ts
+#EXTINF:-1,ABC (WTVQ - LEXINGTON)
+http://mains.services:2086/live/mikekoot/1757909/101260.ts
+#EXTINF:-1,ABC (WTXL - TALLAHASSEE)
+http://mains.services:2086/live/mikekoot/1757909/101255.ts
+#EXTINF:-1,ABC (WVEC-HAMPTON VA)
+http://mains.services:2086/live/mikekoot/1757909/101137.ts
+#EXTINF:-1,ABC (WWSB - SARASOTA)
+http://mains.services:2086/live/mikekoot/1757909/101254.ts
+#EXTINF:-1,ABC (WXLV - WINSTON-SALEM)
+http://mains.services:2086/live/mikekoot/1757909/100798.ts
+#EXTINF:-1,ABC (WXYZ- DETROIT MI)
+http://mains.services:2086/live/mikekoot/1757909/90350.ts
+#EXTINF:-1,ABC (WZVN-FORT MYERS FL)
+http://mains.services:2086/live/mikekoot/1757909/98678.ts
+#EXTINF:-1,ABC (WZZM - GRAND RAPIDS)
+http://mains.services:2086/live/mikekoot/1757909/101251.ts
+#EXTINF:-1,ACC NETWORK
+http://mains.services:2086/live/mikekoot/1757909/58373.ts
+#EXTINF:-1,ACCU WEATHER
+http://mains.services:2086/live/mikekoot/1757909/63468.ts
+#EXTINF:-1,ADULT SWIM
+http://mains.services:2086/live/mikekoot/1757909/15517.ts
+#EXTINF:-1,ADVENTURE SPORTS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/56018.ts
+#EXTINF:-1,AKC TV
+http://mains.services:2086/live/mikekoot/1757909/29211.ts
+#EXTINF:-1,ALTITUDE SPORTS
+http://mains.services:2086/live/mikekoot/1757909/99512.ts
 #EXTINF:-1,AMC
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6363
-#EXTINF:-1,Action Max FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4869
-#EXTINF:-1,Animal Planet HD VIP
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14393
-#EXTINF:-1,Animal Planet HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6362
-#EXTINF:-1,beIN Sports FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13759
-#EXTINF:-1,beiN Sports HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4902
-#EXTINF:-1,BBC America HD VIP
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14392
-#EXTINF:-1,Bet Her HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13764
-#EXTINF:-1,Big Ten Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6361
-#EXTINF:-1,Bloomberg FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4940
-#EXTINF:-1,Bravo HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4883
-#EXTINF:-1,CBS Sports Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14385
-#EXTINF:-1,CBS
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4885
-#EXTINF:-1,CBSN
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4939
-#EXTINF:-1,CNBC HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4956
-#EXTINF:-1,CNN HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4919
-#EXTINF:-1,CNN FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13750
-#EXTINF:-1,CNN [B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14377
+http://mains.services:2086/live/mikekoot/1757909/562.ts
+#EXTINF:-1,AMC ABSOLUTE REALITY
+http://mains.services:2086/live/mikekoot/1757909/100402.ts
+#EXTINF:-1,AMC FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64158.ts
+#EXTINF:-1,AMC IFC FILM PICKS
+http://mains.services:2086/live/mikekoot/1757909/100403.ts
+#EXTINF:-1,AMC PRESENTS
+http://mains.services:2086/live/mikekoot/1757909/100404.ts
+#EXTINF:-1,AMC RUSH
+http://mains.services:2086/live/mikekoot/1757909/100405.ts
+#EXTINF:-1,AMC SLIGHTLY OFF
+http://mains.services:2086/live/mikekoot/1757909/100406.ts
+#EXTINF:-1,AMERICAN HEROES
+http://mains.services:2086/live/mikekoot/1757909/14945.ts
+#EXTINF:-1,AMERICAN HEROES FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64155.ts
+#EXTINF:-1,ANIMAL PLANET
+http://mains.services:2086/live/mikekoot/1757909/262.ts
+#EXTINF:-1,ANIMAL PLANET FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64154.ts
+#EXTINF:-1,ANTENNA TV
+http://mains.services:2086/live/mikekoot/1757909/15489.ts
+#EXTINF:-1,AT&T SPORTSNET PITTSBURGH
+http://mains.services:2086/live/mikekoot/1757909/100058.ts
+#EXTINF:-1,AT&T SPORTSNET ROCKY MOUNTAINS
+http://mains.services:2086/live/mikekoot/1757909/100059.ts
+#EXTINF:-1,AT&T SPORTSNET SOUTHWEST
+http://mains.services:2086/live/mikekoot/1757909/100060.ts
+#EXTINF:-1,ATLANTA CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/13825.ts
+#EXTINF:-1,AWE
+http://mains.services:2086/live/mikekoot/1757909/21792.ts
+#EXTINF:-1,AWE FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64157.ts
+#EXTINF:-1,AXS TV
+http://mains.services:2086/live/mikekoot/1757909/18677.ts
+#EXTINF:-1,AXS TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64156.ts
+#EXTINF:-1,BABY TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64150.ts
+#EXTINF:-1,BALLY SPORTS ARIZONA
+http://mains.services:2086/live/mikekoot/1757909/13403.ts
+#EXTINF:-1,BALLY SPORTS ARIZONA PLUS
+http://mains.services:2086/live/mikekoot/1757909/99319.ts
+#EXTINF:-1,BALLY SPORTS CAROLINAS
+http://mains.services:2086/live/mikekoot/1757909/98914.ts
+#EXTINF:-1,BALLY SPORTS CINCINNATI
+http://mains.services:2086/live/mikekoot/1757909/100057.ts
+#EXTINF:-1,BALLY SPORTS DETROIT
+http://mains.services:2086/live/mikekoot/1757909/15064.ts
+#EXTINF:-1,BALLY SPORTS DETROIT PLUS
+http://mains.services:2086/live/mikekoot/1757909/99320.ts
+#EXTINF:-1,BALLY SPORTS FLORIDA
+http://mains.services:2086/live/mikekoot/1757909/15119.ts
+#EXTINF:-1,BALLY SPORTS GREAT LAKES
+http://mains.services:2086/live/mikekoot/1757909/101098.ts
+#EXTINF:-1,BALLY SPORTS INDIANA
+http://mains.services:2086/live/mikekoot/1757909/101099.ts
+#EXTINF:-1,BALLY SPORTS INDIANA PLUS
+http://mains.services:2086/live/mikekoot/1757909/101101.ts
+#EXTINF:-1,BALLY SPORTS KANSAS CITY
+http://mains.services:2086/live/mikekoot/1757909/101213.ts
+#EXTINF:-1,BALLY SPORTS KANSAS CITY PLUS
+http://mains.services:2086/live/mikekoot/1757909/101214.ts
+#EXTINF:-1,BALLY SPORTS MIDWEST
+http://mains.services:2086/live/mikekoot/1757909/15123.ts
+#EXTINF:-1,BALLY SPORTS MIDWEST PLUS
+http://mains.services:2086/live/mikekoot/1757909/101093.ts
+#EXTINF:-1,BALLY SPORTS NEW ORLEANS
+http://mains.services:2086/live/mikekoot/1757909/98915.ts
+#EXTINF:-1,BALLY SPORTS NEW ORLEANS PLUS
+http://mains.services:2086/live/mikekoot/1757909/101102.ts
+#EXTINF:-1,BALLY SPORTS NORTH
+http://mains.services:2086/live/mikekoot/1757909/3072.ts
+#EXTINF:-1,BALLY SPORTS NORTH PLUS
+http://mains.services:2086/live/mikekoot/1757909/101100.ts
+#EXTINF:-1,BALLY SPORTS OHIO
+http://mains.services:2086/live/mikekoot/1757909/8674.ts
+#EXTINF:-1,BALLY SPORTS OKLAHOMA
+http://mains.services:2086/live/mikekoot/1757909/45587.ts
+#EXTINF:-1,BALLY SPORTS OKLAHOMA PLUS
+http://mains.services:2086/live/mikekoot/1757909/101104.ts
+#EXTINF:-1,BALLY SPORTS SAN DIEGO
+http://mains.services:2086/live/mikekoot/1757909/15121.ts
+#EXTINF:-1,BALLY SPORTS SAN DIEGO PLUS
+http://mains.services:2086/live/mikekoot/1757909/99318.ts
+#EXTINF:-1,BALLY SPORTS SOCAL
+http://mains.services:2086/live/mikekoot/1757909/15421.ts
+#EXTINF:-1,BALLY SPORTS SOUTH
+http://mains.services:2086/live/mikekoot/1757909/15124.ts
+#EXTINF:-1,BALLY SPORTS SOUTH PLUS
+http://mains.services:2086/live/mikekoot/1757909/99321.ts
+#EXTINF:-1,BALLY SPORTS SOUTHEAST
+http://mains.services:2086/live/mikekoot/1757909/14897.ts
+#EXTINF:-1,BALLY SPORTS SOUTHWEST
+http://mains.services:2086/live/mikekoot/1757909/15422.ts
+#EXTINF:-1,BALLY SPORTS SUN (NORTH FLORIDA)
+http://mains.services:2086/live/mikekoot/1757909/15120.ts
+#EXTINF:-1,BALLY SPORTS SUN (SOUTH FLORIDA)
+http://mains.services:2086/live/mikekoot/1757909/100923.ts
+#EXTINF:-1,BALLY SPORTS TENNESSEE
+http://mains.services:2086/live/mikekoot/1757909/100048.ts
+#EXTINF:-1,BALLY SPORTS TENNESSEE PLUS
+http://mains.services:2086/live/mikekoot/1757909/101105.ts
+#EXTINF:-1,BALLY SPORTS WEST
+http://mains.services:2086/live/mikekoot/1757909/18659.ts
+#EXTINF:-1,BALLY SPORTS WISCONSIN
+http://mains.services:2086/live/mikekoot/1757909/15122.ts
+#EXTINF:-1,BALLY SPORTS WISCONSIN PLUS
+http://mains.services:2086/live/mikekoot/1757909/101103.ts
+#EXTINF:-1,BBC AMERICA FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64153.ts
+#EXTINF:-1,BEACH TV  PAWLEYS ISLAND
+http://mains.services:2086/live/mikekoot/1757909/52921.ts
+#EXTINF:-1,BEACH TV - 30A
+http://mains.services:2086/live/mikekoot/1757909/52923.ts
+#EXTINF:-1,BEACH TV GULF COAST
+http://mains.services:2086/live/mikekoot/1757909/98909.ts
+#EXTINF:-1,BEACH TV KEY TV
+http://mains.services:2086/live/mikekoot/1757909/98910.ts
+#EXTINF:-1,BEACH TV PANAMA CITY
+http://mains.services:2086/live/mikekoot/1757909/52922.ts
+#EXTINF:-1,BEIN SPORTS
+http://mains.services:2086/live/mikekoot/1757909/352.ts
+#EXTINF:-1,BET
+http://mains.services:2086/live/mikekoot/1757909/13559.ts
+#EXTINF:-1,BET FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64152.ts
+#EXTINF:-1,BET HER
+http://mains.services:2086/live/mikekoot/1757909/14069.ts
+#EXTINF:-1,BET HER FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64151.ts
+#EXTINF:-1,BET JAMS
+http://mains.services:2086/live/mikekoot/1757909/56110.ts
+#EXTINF:-1,BET SOUL
+http://mains.services:2086/live/mikekoot/1757909/56109.ts
+#EXTINF:-1,BIG TEN NETWORK
+http://mains.services:2086/live/mikekoot/1757909/428.ts
+#EXTINF:-1,BLACK NEWS CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/99659.ts
+#EXTINF:-1,BLEACHER REPORT 1
+http://mains.services:2086/live/mikekoot/1757909/37364.ts
+#EXTINF:-1,BLEACHER REPORT 10
+http://mains.services:2086/live/mikekoot/1757909/37355.ts
+#EXTINF:-1,BLEACHER REPORT 11
+http://mains.services:2086/live/mikekoot/1757909/37354.ts
+#EXTINF:-1,BLEACHER REPORT 12
+http://mains.services:2086/live/mikekoot/1757909/37353.ts
+#EXTINF:-1,BLEACHER REPORT 13
+http://mains.services:2086/live/mikekoot/1757909/37352.ts
+#EXTINF:-1,BLEACHER REPORT 14
+http://mains.services:2086/live/mikekoot/1757909/37351.ts
+#EXTINF:-1,BLEACHER REPORT 15
+http://mains.services:2086/live/mikekoot/1757909/37350.ts
+#EXTINF:-1,BLEACHER REPORT 16
+http://mains.services:2086/live/mikekoot/1757909/37349.ts
+#EXTINF:-1,BLEACHER REPORT 17
+http://mains.services:2086/live/mikekoot/1757909/37348.ts
+#EXTINF:-1,BLEACHER REPORT 18
+http://mains.services:2086/live/mikekoot/1757909/37347.ts
+#EXTINF:-1,BLEACHER REPORT 19
+http://mains.services:2086/live/mikekoot/1757909/37346.ts
+#EXTINF:-1,BLEACHER REPORT 2
+http://mains.services:2086/live/mikekoot/1757909/37363.ts
+#EXTINF:-1,BLEACHER REPORT 20
+http://mains.services:2086/live/mikekoot/1757909/37345.ts
+#EXTINF:-1,BLEACHER REPORT 3
+http://mains.services:2086/live/mikekoot/1757909/37362.ts
+#EXTINF:-1,BLEACHER REPORT 4
+http://mains.services:2086/live/mikekoot/1757909/37361.ts
+#EXTINF:-1,BLEACHER REPORT 5
+http://mains.services:2086/live/mikekoot/1757909/37360.ts
+#EXTINF:-1,BLEACHER REPORT 6
+http://mains.services:2086/live/mikekoot/1757909/37359.ts
+#EXTINF:-1,BLEACHER REPORT 7
+http://mains.services:2086/live/mikekoot/1757909/37358.ts
+#EXTINF:-1,BLEACHER REPORT 8
+http://mains.services:2086/live/mikekoot/1757909/37357.ts
+#EXTINF:-1,BLEACHER REPORT 9
+http://mains.services:2086/live/mikekoot/1757909/37356.ts
+#EXTINF:-1,BLOOMBERG TV
+http://mains.services:2086/live/mikekoot/1757909/4680.ts
+#EXTINF:-1,BLOOMBERG TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64149.ts
+#EXTINF:-1,BOUNCE TV
+http://mains.services:2086/live/mikekoot/1757909/14059.ts
+#EXTINF:-1,BRAVO
+http://mains.services:2086/live/mikekoot/1757909/315.ts
+#EXTINF:-1,BRAVO FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64147.ts
+#EXTINF:-1,BUZZR
+http://mains.services:2086/live/mikekoot/1757909/15511.ts
+#EXTINF:-1,BYU TV
+http://mains.services:2086/live/mikekoot/1757909/14068.ts
+#EXTINF:-1,CARTOON NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64139.ts
+#EXTINF:-1,CBN
+http://mains.services:2086/live/mikekoot/1757909/99405.ts
+#EXTINF:-1,CBS (KBOI- Boise)
+http://mains.services:2086/live/mikekoot/1757909/101050.ts
+#EXTINF:-1,CBS (KCAL- Los Angeles CA)
+http://mains.services:2086/live/mikekoot/1757909/90234.ts
+#EXTINF:-1,CBS (KCBS TV– Los Angeles CA)
+http://mains.services:2086/live/mikekoot/1757909/90233.ts
+#EXTINF:-1,CBS (KCCI) DES MOINES IOWA
+http://mains.services:2086/live/mikekoot/1757909/96768.ts
+#EXTINF:-1,CBS (KCNC– Denver CO)
+http://mains.services:2086/live/mikekoot/1757909/90230.ts
+#EXTINF:-1,CBS (KCOY) SANTA MARIA CALIFORNIA
+http://mains.services:2086/live/mikekoot/1757909/96769.ts
+#EXTINF:-1,CBS (KCTV– Kansas City MO)
+http://mains.services:2086/live/mikekoot/1757909/90255.ts
+#EXTINF:-1,CBS (KDKATV- Pittsburgh PA)
+http://mains.services:2086/live/mikekoot/1757909/90353.ts
+#EXTINF:-1,CBS (KELO- Sioux Falls SD)
+http://mains.services:2086/live/mikekoot/1757909/90254.ts
+#EXTINF:-1,CBS (KENS) SAN ANTONIO TEXAS
+http://mains.services:2086/live/mikekoot/1757909/96770.ts
+#EXTINF:-1,CBS (KEYE) AUSTIN TEXAS
+http://mains.services:2086/live/mikekoot/1757909/96771.ts
+#EXTINF:-1,CBS (KFMB– San Diego CA)
+http://mains.services:2086/live/mikekoot/1757909/90253.ts
+#EXTINF:-1,CBS (KFVS) CAPE GIRARDEAU MISSOURI
+http://mains.services:2086/live/mikekoot/1757909/96772.ts
+#EXTINF:-1,CBS (KGBT- HARLINGEN)
+http://mains.services:2086/live/mikekoot/1757909/100876.ts
+#EXTINF:-1,CBS (KGMB) HONOLULU HAWAII
+http://mains.services:2086/live/mikekoot/1757909/96773.ts
+#EXTINF:-1,CBS (KHOU- Houston TX)
+http://mains.services:2086/live/mikekoot/1757909/90354.ts
+#EXTINF:-1,CBS (KION) MONTEREY CALIFORNIA
+http://mains.services:2086/live/mikekoot/1757909/96774.ts
+#EXTINF:-1,CBS (KIRO- Seattle WA)
+http://mains.services:2086/live/mikekoot/1757909/90355.ts
+#EXTINF:-1,CBS (KKTV) COLORADO SPRINGS COLORADO
+http://mains.services:2086/live/mikekoot/1757909/96775.ts
+#EXTINF:-1,CBS (KLAS- Las Vegas NV)
+http://mains.services:2086/live/mikekoot/1757909/90356.ts
+#EXTINF:-1,CBS (KLJB) SAVANNA
+http://mains.services:2086/live/mikekoot/1757909/101299.ts
+#EXTINF:-1,CBS (KMOV- St. Louis MI)
+http://mains.services:2086/live/mikekoot/1757909/90357.ts
+#EXTINF:-1,CBS (KMTV– Omaha NE)
+http://mains.services:2086/live/mikekoot/1757909/90250.ts
+#EXTINF:-1,CBS (KOLD) TUCSON ARIZONA
+http://mains.services:2086/live/mikekoot/1757909/96776.ts
+#EXTINF:-1,CBS (KOLR - SPRINGFIELD)
+http://mains.services:2086/live/mikekoot/1757909/100880.ts
+#EXTINF:-1,CBS (KOVR– Sacramento CA)
+http://mains.services:2086/live/mikekoot/1757909/90226.ts
+#EXTINF:-1,CBS (KPHO- Phoenix AZ)
+http://mains.services:2086/live/mikekoot/1757909/90358.ts
+#EXTINF:-1,CBS (KPIX– San Francisco CA)
+http://mains.services:2086/live/mikekoot/1757909/90244.ts
+#EXTINF:-1,CBS (KREM) SPOKANE WASHINGTON
+http://mains.services:2086/live/mikekoot/1757909/96777.ts
+#EXTINF:-1,CBS (KRQEDT- Albuquerque/Santa Fe NM)
+http://mains.services:2086/live/mikekoot/1757909/90245.ts
+#EXTINF:-1,CBS (KSLA) SHREVEPORT LOUISIANA
+http://mains.services:2086/live/mikekoot/1757909/96778.ts
+#EXTINF:-1,CBS (KTHV- Little Rock/Pine Bluff AR)
+http://mains.services:2086/live/mikekoot/1757909/90246.ts
+#EXTINF:-1,CBS (KTVN) RENO NEVADA
+http://mains.services:2086/live/mikekoot/1757909/96779.ts
+#EXTINF:-1,CBS (KTVT- Fort Worth TX)
+http://mains.services:2086/live/mikekoot/1757909/90359.ts
+#EXTINF:-1,CBS (KTXA- Fort Worth TX)
+http://mains.services:2086/live/mikekoot/1757909/90360.ts
+#EXTINF:-1,CBS (KUTV- Salt Lake City/St. George UT)
+http://mains.services:2086/live/mikekoot/1757909/90243.ts
+#EXTINF:-1,CBS (KWCH– Wichita/Hutchinson KS)
+http://mains.services:2086/live/mikekoot/1757909/90242.ts
+#EXTINF:-1,CBS (KWTV- Oklahoma City OK)
+http://mains.services:2086/live/mikekoot/1757909/90361.ts
+#EXTINF:-1,CBS (KWTX) WACO TEXAS
+http://mains.services:2086/live/mikekoot/1757909/96780.ts
+#EXTINF:-1,CBS (KXMB) BISMARCK
+http://mains.services:2086/live/mikekoot/1757909/101297.ts
+#EXTINF:-1,CBS (KYW- Philadelphia PA)
+http://mains.services:2086/live/mikekoot/1757909/90362.ts
+#EXTINF:-1,CBS (WAKA DT– Montgomery/Selma AL)
+http://mains.services:2086/live/mikekoot/1757909/90241.ts
+#EXTINF:-1,CBS (WBBM– Chicago IL)
+http://mains.services:2086/live/mikekoot/1757909/90252.ts
+#EXTINF:-1,CBS (WBNS) COLUMBUS
+http://mains.services:2086/live/mikekoot/1757909/101296.ts
+#EXTINF:-1,CBS (WBTV- Charlotte NC)
+http://mains.services:2086/live/mikekoot/1757909/90364.ts
+#EXTINF:-1,CBS (WBZ- Boston MA)
+http://mains.services:2086/live/mikekoot/1757909/90365.ts
+#EXTINF:-1,CBS (WCBI- COLUMBUS)
+http://mains.services:2086/live/mikekoot/1757909/101094.ts
+#EXTINF:-1,CBS (WCBS- New York NY)
+http://mains.services:2086/live/mikekoot/1757909/90366.ts
+#EXTINF:-1,CBS (WCCO- Minneapolis MN)
+http://mains.services:2086/live/mikekoot/1757909/90367.ts
+#EXTINF:-1,CBS (WCSC- Charleston SC)
+http://mains.services:2086/live/mikekoot/1757909/90259.ts
+#EXTINF:-1,CBS (WCTV) THOMASVILLE
+http://mains.services:2086/live/mikekoot/1757909/101293.ts
+#EXTINF:-1,CBS (WDBJ) ROANOKE VIRGINIA
+http://mains.services:2086/live/mikekoot/1757909/96781.ts
+#EXTINF:-1,CBS (WDEF) CHATTANOOGA TENNESSEE
+http://mains.services:2086/live/mikekoot/1757909/96782.ts
+#EXTINF:-1,CBS (WDJT) MILWAUKEE WISCONSIN
+http://mains.services:2086/live/mikekoot/1757909/96783.ts
+#EXTINF:-1,CBS (WFMY) GREENSBORO NORTH CAROLINA
+http://mains.services:2086/live/mikekoot/1757909/96784.ts
+#EXTINF:-1,CBS (WFOR- Miami FL)
+http://mains.services:2086/live/mikekoot/1757909/90368.ts
+#EXTINF:-1,CBS (WFSB- Hartford, CT)
+http://mains.services:2086/live/mikekoot/1757909/100910.ts
+#EXTINF:-1,CBS (WGCL- Atlanta GA)
+http://mains.services:2086/live/mikekoot/1757909/90369.ts
+#EXTINF:-1,CBS (WHIO– Dayton OH)
+http://mains.services:2086/live/mikekoot/1757909/90218.ts
+#EXTINF:-1,CBS (WHNT- Huntsville)
+http://mains.services:2086/live/mikekoot/1757909/101135.ts
+#EXTINF:-1,CBS (WINK) FORT MYERS FLORIDA
+http://mains.services:2086/live/mikekoot/1757909/96785.ts
+#EXTINF:-1,CBS (WISC– Madison WI)
+http://mains.services:2086/live/mikekoot/1757909/90240.ts
+#EXTINF:-1,CBS (WIVB) BUFFALO NEW YORK
+http://mains.services:2086/live/mikekoot/1757909/96786.ts
+#EXTINF:-1,CBS (WJAX DT– Jacksonville FL)
+http://mains.services:2086/live/mikekoot/1757909/90221.ts
+#EXTINF:-1,CBS (WJTV - JACKSON)
+http://mains.services:2086/live/mikekoot/1757909/100882.ts
+#EXTINF:-1,CBS (WJZ– Baltimore MD)
+http://mains.services:2086/live/mikekoot/1757909/90283.ts
+#EXTINF:-1,CBS (WKBN) YOUNGSTOWN
+http://mains.services:2086/live/mikekoot/1757909/101356.ts
+#EXTINF:-1,CBS (WKBT) LA CROSSE WISCONSIN
+http://mains.services:2086/live/mikekoot/1757909/96787.ts
+#EXTINF:-1,CBS (WKMG) ORLANDO FLORIDA
+http://mains.services:2086/live/mikekoot/1757909/96788.ts
+#EXTINF:-1,CBS (WKRC- Cincinnati OH)
+http://mains.services:2086/live/mikekoot/1757909/90371.ts
+#EXTINF:-1,CBS (WKRG) MOBILE
+http://mains.services:2086/live/mikekoot/1757909/101298.ts
+#EXTINF:-1,CBS (WKYT– Lexington KY)
+http://mains.services:2086/live/mikekoot/1757909/90256.ts
+#EXTINF:-1,CBS (WLKY) LOUISVILLE KENTUCKY
+http://mains.services:2086/live/mikekoot/1757909/96789.ts
+#EXTINF:-1,CBS (WLNY- New York NY)
+http://mains.services:2086/live/mikekoot/1757909/90372.ts
+#EXTINF:-1,CBS (WLOX– GULFPORT MS)
+http://mains.services:2086/live/mikekoot/1757909/101097.ts
+#EXTINF:-1,CBS (WLTX) COLUMBIA SOUTH CAROLINA
+http://mains.services:2086/live/mikekoot/1757909/96790.ts
+#EXTINF:-1,CBS (WNEM) BAY CITY MICHIGAN
+http://mains.services:2086/live/mikekoot/1757909/96791.ts
+#EXTINF:-1,CBS (WOIO – Cleveland, OH)
+http://mains.services:2086/live/mikekoot/1757909/90238.ts
+#EXTINF:-1,CBS (WOIODT– Cleveland/Akron OH)
+http://mains.services:2086/live/mikekoot/1757909/90222.ts
+#EXTINF:-1,CBS (WPRI) PROVIDENCE RHODE ISLAND
+http://mains.services:2086/live/mikekoot/1757909/96792.ts
+#EXTINF:-1,CBS (WRDW) AUGUSTA GEORGIA
+http://mains.services:2086/live/mikekoot/1757909/96793.ts
+#EXTINF:-1,CBS (WREG) MEMPHIS
+http://mains.services:2086/live/mikekoot/1757909/101292.ts
+#EXTINF:-1,CBS (WRGB) ALBANY
+http://mains.services:2086/live/mikekoot/1757909/101204.ts
+#EXTINF:-1,CBS (WSHM) SPRINGFIELD
+http://mains.services:2086/live/mikekoot/1757909/101295.ts
+#EXTINF:-1,CBS (WSPA) SPARTANBURG SOUTH CAROLINA
+http://mains.services:2086/live/mikekoot/1757909/96794.ts
+#EXTINF:-1,CBS (WTKR- Hampton)
+http://mains.services:2086/live/mikekoot/1757909/101136.ts
+#EXTINF:-1,CBS (WTOL) TOLEDO OHIO
+http://mains.services:2086/live/mikekoot/1757909/96795.ts
+#EXTINF:-1,CBS (WTSP– Tampa FL)
+http://mains.services:2086/live/mikekoot/1757909/90220.ts
+#EXTINF:-1,CBS (WTTV- Indianapolis)
+http://mains.services:2086/live/mikekoot/1757909/101138.ts
+#EXTINF:-1,CBS (WTVF- Nashville TN)
+http://mains.services:2086/live/mikekoot/1757909/90373.ts
+#EXTINF:-1,CBS (WTVH) SYRACUSE
+http://mains.services:2086/live/mikekoot/1757909/101294.ts
+#EXTINF:-1,CBS (WTVR) RICHMOND
+http://mains.services:2086/live/mikekoot/1757909/101291.ts
+#EXTINF:-1,CBS (WUSA- Washington DC)
+http://mains.services:2086/live/mikekoot/1757909/90374.ts
+#EXTINF:-1,CBS (WVLT) KNOXVILLE TENNESSEE
+http://mains.services:2086/live/mikekoot/1757909/96796.ts
+#EXTINF:-1,CBS (WWAY) WILMINGTON NORTH CAROLINA
+http://mains.services:2086/live/mikekoot/1757909/96797.ts
+#EXTINF:-1,CBS (WWJ- Detroit)
+http://mains.services:2086/live/mikekoot/1757909/100618.ts
+#EXTINF:-1,CBS (WWL– New Orleans LA)
+http://mains.services:2086/live/mikekoot/1757909/90235.ts
+#EXTINF:-1,CBS (WWMT) GRAND RAPIDS
+http://mains.services:2086/live/mikekoot/1757909/101290.ts
+#EXTINF:-1,CBS (WYOU) SCRANTON PENNSYLVANIA
+http://mains.services:2086/live/mikekoot/1757909/96798.ts
+#EXTINF:-1,CBS NEWS BAY AREA
+http://mains.services:2086/live/mikekoot/1757909/98847.ts
+#EXTINF:-1,CBS NEWS BOSTON
+http://mains.services:2086/live/mikekoot/1757909/98838.ts
+#EXTINF:-1,CBS NEWS CHICAGO
+http://mains.services:2086/live/mikekoot/1757909/98842.ts
+#EXTINF:-1,CBS NEWS DALLAS FORT WORTH
+http://mains.services:2086/live/mikekoot/1757909/98844.ts
+#EXTINF:-1,CBS NEWS DENVER
+http://mains.services:2086/live/mikekoot/1757909/98845.ts
+#EXTINF:-1,CBS NEWS LOS ANGELES
+http://mains.services:2086/live/mikekoot/1757909/98846.ts
+#EXTINF:-1,CBS NEWS MINNESOTA
+http://mains.services:2086/live/mikekoot/1757909/98843.ts
+#EXTINF:-1,CBS NEWS NATIONAL
+http://mains.services:2086/live/mikekoot/1757909/98837.ts
+#EXTINF:-1,CBS NEWS NEW YORK
+http://mains.services:2086/live/mikekoot/1757909/98839.ts
+#EXTINF:-1,CBS NEWS PHILADELPHIA
+http://mains.services:2086/live/mikekoot/1757909/98840.ts
+#EXTINF:-1,CBS NEWS PITTSBURGH
+http://mains.services:2086/live/mikekoot/1757909/98841.ts
+#EXTINF:-1,CBS SPORTS HQ
+http://mains.services:2086/live/mikekoot/1757909/6730.ts
+#EXTINF:-1,CBS SPORTS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/220.ts
+#EXTINF:-1,CBS SPORTS NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64144.ts
+#EXTINF:-1,CHARGE
+http://mains.services:2086/live/mikekoot/1757909/46415.ts
+#EXTINF:-1,CHEDDAR
+http://mains.services:2086/live/mikekoot/1757909/17588.ts
+#EXTINF:-1,CHEDDAR BUSINESS
+http://mains.services:2086/live/mikekoot/1757909/47642.ts
+#EXTINF:-1,CHEDDAR BUSINESS FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64138.ts
+#EXTINF:-1,CHEDDAR NEWS
+http://mains.services:2086/live/mikekoot/1757909/15571.ts
+#EXTINF:-1,CHEDDAR NEWS FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64137.ts
+#EXTINF:-1,CHRISTIAN TELEVISION NETWORK
+http://mains.services:2086/live/mikekoot/1757909/99407.ts
+#EXTINF:-1,CINEMAX
+http://mains.services:2086/live/mikekoot/1757909/13560.ts
+#EXTINF:-1,CINEMAX EAST FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64136.ts
+#EXTINF:-1,CINEMAX MOREMAX
+http://mains.services:2086/live/mikekoot/1757909/14944.ts
+#EXTINF:-1,CINEMAX OUTERMAX
+http://mains.services:2086/live/mikekoot/1757909/45496.ts
+#EXTINF:-1,CLASSIC ARTS SHOWCASE
+http://mains.services:2086/live/mikekoot/1757909/8834.ts
+#EXTINF:-1,CLEO TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/101353.ts
+#EXTINF:-1,CMT
+http://mains.services:2086/live/mikekoot/1757909/13745.ts
+#EXTINF:-1,CMT FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64143.ts
+#EXTINF:-1,CNBC
+http://mains.services:2086/live/mikekoot/1757909/349.ts
+#EXTINF:-1,CNBC FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64142.ts
+#EXTINF:-1,CNBC WORLD
+http://mains.services:2086/live/mikekoot/1757909/14878.ts
+#EXTINF:-1,CNBC WORLD FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64141.ts
 #EXTINF:-1,CNN
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6359
-#EXTINF:-1,CW HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4955
-#EXTINF:-1,Cartoon Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14387
-#EXTINF:-1,CineMax East HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14380
-#EXTINF:-1,5Star Max HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4911
-#EXTINF:-1,CMT HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14383
-#EXTINF:-1,Comedy Central
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13823
-#EXTINF:-1,Comedy Central HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4882
-#EXTINF:-1,Investigation Discovery HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4879
-#EXTINF:-1,Discovery Science FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4887
-#EXTINF:-1,Disney Channel HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14369
-#EXTINF:-1,Disney XD FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14368
-#EXTINF:-1,ESPN HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14363
-#EXTINF:-1,ESPN News HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4935
+http://mains.services:2086/live/mikekoot/1757909/260.ts
+#EXTINF:-1,CNN FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64140.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://mains.services:2086/live/mikekoot/1757909/257.ts
+#EXTINF:-1,COMEDY CENTRAL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64135.ts
+#EXTINF:-1,COMEDY TV
+http://mains.services:2086/live/mikekoot/1757909/63643.ts
+#EXTINF:-1,COMET FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64163.ts
+#EXTINF:-1,COMET TV
+http://mains.services:2086/live/mikekoot/1757909/46403.ts
+#EXTINF:-1,CONTV
+http://mains.services:2086/live/mikekoot/1757909/56019.ts
+#EXTINF:-1,COOKING CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/211.ts
+#EXTINF:-1,COOKING CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64134.ts
+#EXTINF:-1,COURT TV
+http://mains.services:2086/live/mikekoot/1757909/99322.ts
+#EXTINF:-1,COZI TV
+http://mains.services:2086/live/mikekoot/1757909/14900.ts
+#EXTINF:-1,CRIME & INVESTIGATION
+http://mains.services:2086/live/mikekoot/1757909/13564.ts
+#EXTINF:-1,CSPAN 1
+http://mains.services:2086/live/mikekoot/1757909/388.ts
+#EXTINF:-1,CSPAN 1 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64146.ts
+#EXTINF:-1,CSPAN 2
+http://mains.services:2086/live/mikekoot/1757909/387.ts
+#EXTINF:-1,CSPAN 2 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64145.ts
+#EXTINF:-1,CTS AMERICA
+http://mains.services:2086/live/mikekoot/1757909/56144.ts
+#EXTINF:-1,CW
+http://mains.services:2086/live/mikekoot/1757909/319.ts
+#EXTINF:-1,CW (KBCW) SAN FRANCISCO CALIFORNIA
+http://mains.services:2086/live/mikekoot/1757909/90652.ts
+#EXTINF:-1,CW (KCOP TV 13- Los Angeles CA)
+http://mains.services:2086/live/mikekoot/1757909/90288.ts
+#EXTINF:-1,CW (KFRE) 59 FRESNO
+http://mains.services:2086/live/mikekoot/1757909/101344.ts
+#EXTINF:-1,CW (KMAX) SACRAMENTO CA
+http://mains.services:2086/live/mikekoot/1757909/98679.ts
+#EXTINF:-1,CW (KMYS) SAN ANTONIO TEXAS
+http://mains.services:2086/live/mikekoot/1757909/98854.ts
+#EXTINF:-1,CW (KOCB) OKLAHOMA CITY OK
+http://mains.services:2086/live/mikekoot/1757909/90377.ts
+#EXTINF:-1,CW (KSTW) TACOMA WASHINGTON
+http://mains.services:2086/live/mikekoot/1757909/90378.ts
+#EXTINF:-1,CW (KTLA 5) LOS ANGELES CALIFORNIA
+http://mains.services:2086/live/mikekoot/1757909/99429.ts
+#EXTINF:-1,CW (KVCW) LAS VEGAS NV
+http://mains.services:2086/live/mikekoot/1757909/90379.ts
+#EXTINF:-1,CW (MY WPWR) CHICAGO IL
+http://mains.services:2086/live/mikekoot/1757909/100912.ts
+#EXTINF:-1,CW (WBUI) 23 SPRINGFIELD
+http://mains.services:2086/live/mikekoot/1757909/101348.ts
+#EXTINF:-1,CW (WCIU) THE U - CHICAGO IL
+http://mains.services:2086/live/mikekoot/1757909/100911.ts
+#EXTINF:-1,CW (WCWF) 14 GREEN BAY
+http://mains.services:2086/live/mikekoot/1757909/101347.ts
+#EXTINF:-1,CW (WCWN) ALBANY
+http://mains.services:2086/live/mikekoot/1757909/101205.ts
+#EXTINF:-1,CW (WFLI) 53 CHATTANOOGA
+http://mains.services:2086/live/mikekoot/1757909/101349.ts
+#EXTINF:-1,CW (WKBD) DETROIT  MI
+http://mains.services:2086/live/mikekoot/1757909/90380.ts
+#EXTINF:-1,CW (WLFL) 22 RALEIGH
+http://mains.services:2086/live/mikekoot/1757909/101346.ts
+#EXTINF:-1,CW (WNAB) 58 NASHVILLE
+http://mains.services:2086/live/mikekoot/1757909/101352.ts
+#EXTINF:-1,CW (WNUV) BALTIMORE MD
+http://mains.services:2086/live/mikekoot/1757909/90381.ts
+#EXTINF:-1,CW (WPCW) PITTSBURGH PA
+http://mains.services:2086/live/mikekoot/1757909/90382.ts
+#EXTINF:-1,CW (WPIX) NEW YORK
+http://mains.services:2086/live/mikekoot/1757909/101067.ts
+#EXTINF:-1,CW (WPSG) PHILADELPHIA PN
+http://mains.services:2086/live/mikekoot/1757909/90383.ts
+#EXTINF:-1,CW (WTLF) 24 TALLAHASSEE
+http://mains.services:2086/live/mikekoot/1757909/101351.ts
+#EXTINF:-1,CW (WTOG) 44 TAMPA BAY
+http://mains.services:2086/live/mikekoot/1757909/101350.ts
+#EXTINF:-1,CW (WTTO) 21 BIRMINGHAM
+http://mains.services:2086/live/mikekoot/1757909/101345.ts
+#EXTINF:-1,CW (WUCW) MINNEAPOLIS MN
+http://mains.services:2086/live/mikekoot/1757909/90384.ts
+#EXTINF:-1,CW (WUPA) ATLANTA GA
+http://mains.services:2086/live/mikekoot/1757909/98681.ts
+#EXTINF:-1,CW (WWHO) COLUMBUS OHIO
+http://mains.services:2086/live/mikekoot/1757909/98853.ts
+#EXTINF:-1,CW 11
+http://mains.services:2086/live/mikekoot/1757909/15345.ts
+#EXTINF:-1,DANCESTAR TV
+http://mains.services:2086/live/mikekoot/1757909/36330.ts
+#EXTINF:-1,DC COUNCIL CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/36332.ts
+#EXTINF:-1,DESTINATION AMERICA
+http://mains.services:2086/live/mikekoot/1757909/14946.ts
+#EXTINF:-1,DESTINATION AMERICA FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64164.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/255.ts
+#EXTINF:-1,DISCOVERY CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64162.ts
+#EXTINF:-1,DISCOVERY FAMILY
+http://mains.services:2086/live/mikekoot/1757909/14879.ts
+#EXTINF:-1,DISCOVERY FAMILY FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64132.ts
+#EXTINF:-1,DISCOVERY LIFE
+http://mains.services:2086/live/mikekoot/1757909/14880.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://mains.services:2086/live/mikekoot/1757909/13565.ts
+#EXTINF:-1,DISCOVERY SCIENCE FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64044.ts
+#EXTINF:-1,DISNEY CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64131.ts
+#EXTINF:-1,DISNEY JUNIOR FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64130.ts
+#EXTINF:-1,DISNEY XD FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64129.ts
+#EXTINF:-1,DISTRICT KNOWLEDGE NETWORK
+http://mains.services:2086/live/mikekoot/1757909/15475.ts
+#EXTINF:-1,DIY NETWORK
+http://mains.services:2086/live/mikekoot/1757909/13568.ts
+#EXTINF:-1,DIY NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64133.ts
+#EXTINF:-1,DOCURAMA
+http://mains.services:2086/live/mikekoot/1757909/25779.ts
+#EXTINF:-1,DOG TV
+http://mains.services:2086/live/mikekoot/1757909/480.ts
+#EXTINF:-1,E  WEST
+http://mains.services:2086/live/mikekoot/1757909/15414.ts
+#EXTINF:-1,E!
+http://mains.services:2086/live/mikekoot/1757909/14942.ts
+#EXTINF:-1,E!  FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64128.ts
+#EXTINF:-1,ELEVEN SPORTS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/14899.ts
+#EXTINF:-1,EPIX
+http://mains.services:2086/live/mikekoot/1757909/13606.ts
+#EXTINF:-1,EPIX 2
+http://mains.services:2086/live/mikekoot/1757909/42473.ts
+#EXTINF:-1,EPIX 2 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64121.ts
+#EXTINF:-1,EPIX DRIVE IN
+http://mains.services:2086/live/mikekoot/1757909/56132.ts
+#EXTINF:-1,EPIX DRIVE IN FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64120.ts
+#EXTINF:-1,EPIX FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64122.ts
+#EXTINF:-1,EPIX HITS
+http://mains.services:2086/live/mikekoot/1757909/14941.ts
+#EXTINF:-1,EPIX HITS FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64119.ts
+#EXTINF:-1,ESPN
+http://mains.services:2086/live/mikekoot/1757909/13604.ts
+#EXTINF:-1,ESPN 2
+http://mains.services:2086/live/mikekoot/1757909/343.ts
+#EXTINF:-1,ESPN 2 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64126.ts
+#EXTINF:-1,ESPN FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64127.ts
+#EXTINF:-1,ESPN NEWS
+http://mains.services:2086/live/mikekoot/1757909/1702.ts
+#EXTINF:-1,ESPN NEWS FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64125.ts
 #EXTINF:-1,ESPN U
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/33498
-#EXTINF:-1,Fox Sports 1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14562
-#EXTINF:-1,Fox Sports 1
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/63735
-#EXTINF:-1,Fox Sports 2
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/63365
-#EXTINF:-1,Fox Sports 2 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/494259
-#EXTINF:-1,Fox Soccer Plus HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14408
-#EXTINF:-1,FX FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13763
-#EXTINF:-1,FX HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4942
-#EXTINF:-1,FXX FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13756
-#EXTINF:-1,FXX HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14353
-#EXTINF:-1,Fashion TV FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14362
-#EXTINF:-1,Fox FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13757
-#EXTINF:-1,Fox News HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14358
-#EXTINF:-1,Fox News [B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14357
-#EXTINF:-1,Fox News
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4943
-#EXTINF:-1,Bally Sports North HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14355
-#EXTINF:-1,HBO Comedy FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4921
-#EXTINF:-1,HBO Comedy HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13762
-#EXTINF:-1,HGTV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14348
+http://mains.services:2086/live/mikekoot/1757909/475.ts
+#EXTINF:-1,ESPN U FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64124.ts
+#EXTINF:-1,ET LIVE
+http://mains.services:2086/live/mikekoot/1757909/66733.ts
+#EXTINF:-1,EVINE TV
+http://mains.services:2086/live/mikekoot/1757909/18264.ts
+#EXTINF:-1,EWTN
+http://mains.services:2086/live/mikekoot/1757909/2897.ts
+#EXTINF:-1,FANTASY SPORTS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/21946.ts
+#EXTINF:-1,FM FUSE MUSIC
+http://mains.services:2086/live/mikekoot/1757909/63650.ts
+#EXTINF:-1,FOOD NETWORK
+http://mains.services:2086/live/mikekoot/1757909/195.ts
+#EXTINF:-1,FOOD NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64114.ts
+#EXTINF:-1,FOX (KABB San Antonio)
+http://mains.services:2086/live/mikekoot/1757909/100884.ts
+#EXTINF:-1,FOX (KBFX) Bakersfield
+http://mains.services:2086/live/mikekoot/1757909/101315.ts
+#EXTINF:-1,FOX (KBVU) Eureka
+http://mains.services:2086/live/mikekoot/1757909/101316.ts
+#EXTINF:-1,FOX (KCBA California Salinas)
+http://mains.services:2086/live/mikekoot/1757909/90657.ts
+#EXTINF:-1,FOX (KCIT) Amarillo
+http://mains.services:2086/live/mikekoot/1757909/101318.ts
+#EXTINF:-1,FOX (KCPQ -Seattle WA)
+http://mains.services:2086/live/mikekoot/1757909/90385.ts
+#EXTINF:-1,FOX (KDFI) DALLAS FORT WORTH
+http://mains.services:2086/live/mikekoot/1757909/100051.ts
+#EXTINF:-1,FOX (KDFW - Dallas TX)
+http://mains.services:2086/live/mikekoot/1757909/90386.ts
+#EXTINF:-1,FOX (KDVR - Denver CO)
+http://mains.services:2086/live/mikekoot/1757909/90387.ts
+#EXTINF:-1,FOX (KFOX) El Paso
+http://mains.services:2086/live/mikekoot/1757909/101317.ts
+#EXTINF:-1,FOX (KFTA Arkansas Fort Smith)
+http://mains.services:2086/live/mikekoot/1757909/90651.ts
+#EXTINF:-1,FOX (KFTA Fort Smith AR)
+http://mains.services:2086/live/mikekoot/1757909/90667.ts
+#EXTINF:-1,FOX (KFXA) Cedar Rapids
+http://mains.services:2086/live/mikekoot/1757909/101311.ts
+#EXTINF:-1,FOX (KFXK TYLER TX)
+http://mains.services:2086/live/mikekoot/1757909/90630.ts
+#EXTINF:-1,FOX (KFYR-DT) Bismarck
+http://mains.services:2086/live/mikekoot/1757909/101304.ts
+#EXTINF:-1,FOX (KLJB Davenport IA)
+http://mains.services:2086/live/mikekoot/1757909/90628.ts
+#EXTINF:-1,FOX (KMSP - St. Paul Minneapolis MN)
+http://mains.services:2086/live/mikekoot/1757909/90388.ts
+#EXTINF:-1,FOX (KMSS Shreveport LA)
+http://mains.services:2086/live/mikekoot/1757909/100775.ts
+#EXTINF:-1,FOX (KMYU) SALT LAKE CITY
+http://mains.services:2086/live/mikekoot/1757909/100049.ts
+#EXTINF:-1,FOX (KNIN Caldwell)
+http://mains.services:2086/live/mikekoot/1757909/101049.ts
+#EXTINF:-1,FOX (KOKH -  Oklahoma City OK)
+http://mains.services:2086/live/mikekoot/1757909/90389.ts
+#EXTINF:-1,FOX (KPTM) Omaha
+http://mains.services:2086/live/mikekoot/1757909/101309.ts
+#EXTINF:-1,FOX (KRBK - OSAGE BEACH)
+http://mains.services:2086/live/mikekoot/1757909/100881.ts
+#EXTINF:-1,FOX (KRIV - Houston TX)
+http://mains.services:2086/live/mikekoot/1757909/90390.ts
+#EXTINF:-1,FOX (KRQE Albuquerque NM)
+http://mains.services:2086/live/mikekoot/1757909/100074.ts
+#EXTINF:-1,FOX (KSAS) Wichita
+http://mains.services:2086/live/mikekoot/1757909/101313.ts
+#EXTINF:-1,FOX (KSAZ - Phoenix AZ)
+http://mains.services:2086/live/mikekoot/1757909/90391.ts
+#EXTINF:-1,FOX (KTBC- Austin TX)
+http://mains.services:2086/live/mikekoot/1757909/90136.ts
+#EXTINF:-1,FOX (KTTV- Los Angeles CA)
+http://mains.services:2086/live/mikekoot/1757909/90116.ts
+#EXTINF:-1,FOX (KTTW) Sioux Falls
+http://mains.services:2086/live/mikekoot/1757909/101306.ts
+#EXTINF:-1,FOX (KTVI- St. Louis MO)
+http://mains.services:2086/live/mikekoot/1757909/90393.ts
+#EXTINF:-1,FOX (KTVU- Bay Area CA)
+http://mains.services:2086/live/mikekoot/1757909/90140.ts
+#EXTINF:-1,FOX (KTXH) HOUSTON
+http://mains.services:2086/live/mikekoot/1757909/100050.ts
+#EXTINF:-1,FOX (KTXL California Sacramento)
+http://mains.services:2086/live/mikekoot/1757909/90655.ts
+#EXTINF:-1,FOX (KVVU-Las Vegas NV)
+http://mains.services:2086/live/mikekoot/1757909/90394.ts
+#EXTINF:-1,FOX (KXRM) Colorado Springs
+http://mains.services:2086/live/mikekoot/1757909/101310.ts
+#EXTINF:-1,FOX (MY WZDX Huntsville AL)
+http://mains.services:2086/live/mikekoot/1757909/90633.ts
+#EXTINF:-1,FOX (WACH - Columbia South Carolina)
+http://mains.services:2086/live/mikekoot/1757909/99441.ts
+#EXTINF:-1,FOX (WAGA - Atlanta GA)
+http://mains.services:2086/live/mikekoot/1757909/90395.ts
+#EXTINF:-1,FOX (WALA) Mobile
+http://mains.services:2086/live/mikekoot/1757909/101307.ts
+#EXTINF:-1,FOX (WBFF- Baltimore MD)
+http://mains.services:2086/live/mikekoot/1757909/90396.ts
+#EXTINF:-1,FOX (WBRC Birmingham AL)
+http://mains.services:2086/live/mikekoot/1757909/90632.ts
+#EXTINF:-1,FOX (WDAF) Kansas City Missouri
+http://mains.services:2086/live/mikekoot/1757909/96799.ts
+#EXTINF:-1,FOX (WDBD) Jackson Mississippi
+http://mains.services:2086/live/mikekoot/1757909/96800.ts
+#EXTINF:-1,FOX (WDKY) Lexington
+http://mains.services:2086/live/mikekoot/1757909/101305.ts
+#EXTINF:-1,FOX (WDRB) Louisville Kentucky
+http://mains.services:2086/live/mikekoot/1757909/96801.ts
+#EXTINF:-1,FOX (WFFF) Burlington Vermont
+http://mains.services:2086/live/mikekoot/1757909/96802.ts
+#EXTINF:-1,FOX (WFFT) Fort Wayne Indiana
+http://mains.services:2086/live/mikekoot/1757909/96803.ts
+#EXTINF:-1,FOX (WFLD - Chicago IL)
+http://mains.services:2086/live/mikekoot/1757909/90397.ts
+#EXTINF:-1,FOX (WFLX) West Palm Beach Florida
+http://mains.services:2086/live/mikekoot/1757909/96804.ts
+#EXTINF:-1,FOX (WFOX) Jacksonville Florida
+http://mains.services:2086/live/mikekoot/1757909/96805.ts
+#EXTINF:-1,FOX (WFTX) Cape Coral Florida
+http://mains.services:2086/live/mikekoot/1757909/96806.ts
+#EXTINF:-1,FOX (WFXB) Myrtle Beach South Carolina
+http://mains.services:2086/live/mikekoot/1757909/96807.ts
+#EXTINF:-1,FOX (WFXG) Augusta Georgia
+http://mains.services:2086/live/mikekoot/1757909/96808.ts
+#EXTINF:-1,FOX (WFXR) Roanoke Virginia
+http://mains.services:2086/live/mikekoot/1757909/96809.ts
+#EXTINF:-1,FOX (WFXT- Boston MA)
+http://mains.services:2086/live/mikekoot/1757909/90398.ts
+#EXTINF:-1,FOX (WGGB) Springfield Massachusetts
+http://mains.services:2086/live/mikekoot/1757909/96810.ts
+#EXTINF:-1,FOX (WGHP) High Point North Carolina
+http://mains.services:2086/live/mikekoot/1757909/96811.ts
+#EXTINF:-1,FOX (WGMB) Baton Rouge Louisiana
+http://mains.services:2086/live/mikekoot/1757909/96812.ts
+#EXTINF:-1,FOX (WHBQ) Memphis Tennessee
+http://mains.services:2086/live/mikekoot/1757909/96813.ts
+#EXTINF:-1,FOX (WHNS Greenville SC)
+http://mains.services:2086/live/mikekoot/1757909/90665.ts
+#EXTINF:-1,FOX (WITI Milwaukee WI)
+http://mains.services:2086/live/mikekoot/1757909/90664.ts
+#EXTINF:-1,FOX (WJBK- Detroit MI)
+http://mains.services:2086/live/mikekoot/1757909/90399.ts
+#EXTINF:-1,FOX (WJW CLEVELAND)
+http://mains.services:2086/live/mikekoot/1757909/91060.ts
+#EXTINF:-1,FOX (WJZY -Charlotte NC/SC)
+http://mains.services:2086/live/mikekoot/1757909/90400.ts
+#EXTINF:-1,FOX (WLAX) La Crosse Wisconsin
+http://mains.services:2086/live/mikekoot/1757909/96814.ts
+#EXTINF:-1,FOX (WLUK) Green Bay
+http://mains.services:2086/live/mikekoot/1757909/101312.ts
+#EXTINF:-1,FOX (WNAC) Providence Rhode Island
+http://mains.services:2086/live/mikekoot/1757909/96815.ts
+#EXTINF:-1,FOX (WNYW - New York NY)
+http://mains.services:2086/live/mikekoot/1757909/90401.ts
+#EXTINF:-1,FOX (WOFL- Orlando FL)
+http://mains.services:2086/live/mikekoot/1757909/90139.ts
+#EXTINF:-1,FOX (WOGX- Gainesville/Ocala FL)
+http://mains.services:2086/live/mikekoot/1757909/90132.ts
+#EXTINF:-1,FOX (WPGH-Pittsburgh PA )
+http://mains.services:2086/live/mikekoot/1757909/90402.ts
+#EXTINF:-1,FOX (WPMT) York Pennsylvania
+http://mains.services:2086/live/mikekoot/1757909/96816.ts
+#EXTINF:-1,FOX (WPWR - Chicago IL)
+http://mains.services:2086/live/mikekoot/1757909/99365.ts
+#EXTINF:-1,FOX (WRAZ) Raleigh North Carolina
+http://mains.services:2086/live/mikekoot/1757909/96817.ts
+#EXTINF:-1,FOX (WRBW) Orlando
+http://mains.services:2086/live/mikekoot/1757909/101301.ts
+#EXTINF:-1,FOX (WRLH) Richmond
+http://mains.services:2086/live/mikekoot/1757909/101300.ts
+#EXTINF:-1,FOX (WRSP) Springfield
+http://mains.services:2086/live/mikekoot/1757909/101314.ts
+#EXTINF:-1,FOX (WSVN- Miami FL)
+http://mains.services:2086/live/mikekoot/1757909/90403.ts
+#EXTINF:-1,FOX (WSYM) Lansing Michigan
+http://mains.services:2086/live/mikekoot/1757909/96818.ts
+#EXTINF:-1,FOX (WSYT) Syracuse New York
+http://mains.services:2086/live/mikekoot/1757909/96819.ts
+#EXTINF:-1,FOX (WTAT) Charleston South Carolina
+http://mains.services:2086/live/mikekoot/1757909/96820.ts
+#EXTINF:-1,FOX (WTIC HARTFORD CT)
+http://mains.services:2086/live/mikekoot/1757909/91152.ts
+#EXTINF:-1,FOX (WTNZ) Knoxville Tennessee
+http://mains.services:2086/live/mikekoot/1757909/96821.ts
+#EXTINF:-1,FOX (WTTE) Columbus
+http://mains.services:2086/live/mikekoot/1757909/101303.ts
+#EXTINF:-1,FOX (WTTG - Washington D.C)
+http://mains.services:2086/live/mikekoot/1757909/90404.ts
+#EXTINF:-1,FOX (WTVC-DT) Chattanooga
+http://mains.services:2086/live/mikekoot/1757909/101308.ts
+#EXTINF:-1,FOX (WTVT- Tampa/St. Petersburg FL)
+http://mains.services:2086/live/mikekoot/1757909/90130.ts
+#EXTINF:-1,FOX (WTWC-DT) Tallahassee
+http://mains.services:2086/live/mikekoot/1757909/101302.ts
+#EXTINF:-1,FOX (WTXF - Philadelphia PA)
+http://mains.services:2086/live/mikekoot/1757909/90405.ts
+#EXTINF:-1,FOX (WUPW) Toledo Ohio
+http://mains.services:2086/live/mikekoot/1757909/96822.ts
+#EXTINF:-1,FOX (WUTV Buffalo NY)
+http://mains.services:2086/live/mikekoot/1757909/91138.ts
+#EXTINF:-1,FOX (WVBT) Virginia Beach Virginia
+http://mains.services:2086/live/mikekoot/1757909/95278.ts
+#EXTINF:-1,FOX (WVUE - New Orleans LA)
+http://mains.services:2086/live/mikekoot/1757909/90406.ts
+#EXTINF:-1,FOX (WWCP) Johnstown Pennsylvania
+http://mains.services:2086/live/mikekoot/1757909/96823.ts
+#EXTINF:-1,FOX (WXIN - Indianapolis IN)
+http://mains.services:2086/live/mikekoot/1757909/90407.ts
+#EXTINF:-1,FOX (WXIX - Cincinnati OH)
+http://mains.services:2086/live/mikekoot/1757909/90408.ts
+#EXTINF:-1,FOX (WXMI) Grand Rapids Michigan
+http://mains.services:2086/live/mikekoot/1757909/96824.ts
+#EXTINF:-1,FOX (WXTX) Columbus Georgia
+http://mains.services:2086/live/mikekoot/1757909/96825.ts
+#EXTINF:-1,FOX (WXXA) Albany
+http://mains.services:2086/live/mikekoot/1757909/95522.ts
+#EXTINF:-1,FOX (WYFX) Youngstown Ohio
+http://mains.services:2086/live/mikekoot/1757909/96826.ts
+#EXTINF:-1,FOX (WYZZ) Bloomington Illinois
+http://mains.services:2086/live/mikekoot/1757909/96827.ts
+#EXTINF:-1,FOX (WZDX - Huntsville AL)
+http://mains.services:2086/live/mikekoot/1757909/90409.ts
+#EXTINF:-1,FOX (WZTV - Nashville TN)
+http://mains.services:2086/live/mikekoot/1757909/90410.ts
+#EXTINF:-1,FOX BUSINESS
+http://mains.services:2086/live/mikekoot/1757909/472.ts
+#EXTINF:-1,FOX BUSINESS NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64113.ts
+#EXTINF:-1,FOX DEPORTES
+http://mains.services:2086/live/mikekoot/1757909/15370.ts
+#EXTINF:-1,FOX NEWS CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/252.ts
+#EXTINF:-1,FOX NEWS CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64112.ts
+#EXTINF:-1,FOX SOCCER PLUS
+http://mains.services:2086/live/mikekoot/1757909/11926.ts
+#EXTINF:-1,FOX SPORTS 1
+http://mains.services:2086/live/mikekoot/1757909/188.ts
+#EXTINF:-1,FOX SPORTS 1 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64111.ts
+#EXTINF:-1,FOX SPORTS 2
+http://mains.services:2086/live/mikekoot/1757909/187.ts
+#EXTINF:-1,FOX SPORTS 2 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64110.ts
+#EXTINF:-1,FOX SPORTS SAN DIEGO PLUS
+http://mains.services:2086/live/mikekoot/1757909/44696.ts
+#EXTINF:-1,FRANCE 24
+http://mains.services:2086/live/mikekoot/1757909/21833.ts
+#EXTINF:-1,FREE SPEECH TV
+http://mains.services:2086/live/mikekoot/1757909/4411.ts
+#EXTINF:-1,FREEFORM
+http://mains.services:2086/live/mikekoot/1757909/320.ts
+#EXTINF:-1,FUSE
+http://mains.services:2086/live/mikekoot/1757909/15464.ts
+#EXTINF:-1,FUSE FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64109.ts
+#EXTINF:-1,FX
+http://mains.services:2086/live/mikekoot/1757909/324.ts
+#EXTINF:-1,FX MOVIE CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64117.ts
+#EXTINF:-1,FXM
+http://mains.services:2086/live/mikekoot/1757909/1271.ts
+#EXTINF:-1,FXX
+http://mains.services:2086/live/mikekoot/1757909/323.ts
+#EXTINF:-1,FXX FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64116.ts
+#EXTINF:-1,FYI FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64115.ts
+#EXTINF:-1,FYI NETWORK
+http://mains.services:2086/live/mikekoot/1757909/342.ts
+#EXTINF:-1,GAME SHOW NETWORK (GSN)
+http://mains.services:2086/live/mikekoot/1757909/13607.ts
+#EXTINF:-1,GET TV
+http://mains.services:2086/live/mikekoot/1757909/62322.ts
+#EXTINF:-1,GOD TV
+http://mains.services:2086/live/mikekoot/1757909/99406.ts
+#EXTINF:-1,GOL TV
+http://mains.services:2086/live/mikekoot/1757909/21905.ts
+#EXTINF:-1,GOL TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64107.ts
+#EXTINF:-1,GOLF CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/390.ts
+#EXTINF:-1,GOLF CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64105.ts
+#EXTINF:-1,GREAT AMERICAN COUNTRY FHD
+http://mains.services:2086/live/mikekoot/1757909/91075.ts
+#EXTINF:-1,GRIT
+http://mains.services:2086/live/mikekoot/1757909/15371.ts
+#EXTINF:-1,GSN FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64106.ts
+#EXTINF:-1,H2
+http://mains.services:2086/live/mikekoot/1757909/309.ts
+#EXTINF:-1,HALLMARK CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/341.ts
+#EXTINF:-1,HALLMARK CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64099.ts
+#EXTINF:-1,HALLMARK DRAMA
+http://mains.services:2086/live/mikekoot/1757909/14869.ts
+#EXTINF:-1,HALLMARK DRAMA FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64097.ts
+#EXTINF:-1,HALLMARK MOVIES
+http://mains.services:2086/live/mikekoot/1757909/14947.ts
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64098.ts
+#EXTINF:-1,HBO 2
+http://mains.services:2086/live/mikekoot/1757909/14949.ts
+#EXTINF:-1,HBO COMEDY
+http://mains.services:2086/live/mikekoot/1757909/15470.ts
+#EXTINF:-1,HBO EAST
+http://mains.services:2086/live/mikekoot/1757909/14948.ts
+#EXTINF:-1,HBO EAST FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64104.ts
+#EXTINF:-1,HBO FAMILY
+http://mains.services:2086/live/mikekoot/1757909/172.ts
+#EXTINF:-1,HBO FAMILY EAST FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64103.ts
+#EXTINF:-1,HBO LATINO FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64102.ts
+#EXTINF:-1,HBO SIGNATURE EAST
+http://mains.services:2086/live/mikekoot/1757909/2492.ts
+#EXTINF:-1,HBO ZONE
+http://mains.services:2086/live/mikekoot/1757909/15469.ts
+#EXTINF:-1,HDNET MOVIES
+http://mains.services:2086/live/mikekoot/1757909/56133.ts
+#EXTINF:-1,HEROES & ICONS
+http://mains.services:2086/live/mikekoot/1757909/15490.ts
 #EXTINF:-1,HGTV
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/10218
-#EXTINF:-1,History Channel HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4880
-#EXTINF:-1,Lifetime HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14343
-#EXTINF:-1,MLB Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14402
-#EXTINF:-1,MLB Network FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4868
-#EXTINF:-1,MSNBC HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14398
-#EXTINF:-1,MTV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14342
-#EXTINF:-1,NBA TV HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6355
-#EXTINF:-1,NBC Golf FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13753
-#EXTINF:-1,NBC Golf HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4953
-#EXTINF:-1,NBC Golf
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14410
-#EXTINF:-1,NBC Sports Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4952
-#EXTINF:-1,NBC Sports Network FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14403
-#EXTINF:-1,NHL Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4875
-#EXTINF:-1,Nat Geo Wild FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13745
-#EXTINF:-1,National Geographic FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4881
-#EXTINF:-1,National Geographic HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14339
-#EXTINF:-1,OWN HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13760
-#EXTINF:-1,Outdoor Channel HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14325
-#EXTINF:-1,PAC-12 Oregon
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4863
-#EXTINF:-1,Showtime HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4926
-#EXTINF:-1,Sportsnet 360 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4915
-#EXTINF:-1,Sportsnet Ontario HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14317
-#EXTINF:-1,Starz Cinema FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4898
-#EXTINF:-1,Starz Comedy FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4899
-#EXTINF:-1,Starz Edge FHD VIP
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4897
-#EXTINF:-1,TBS HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4908
-#EXTINF:-1,TLC FHD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13734
-#EXTINF:-1,TLC HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14397
+http://mains.services:2086/live/mikekoot/1757909/4212.ts
+#EXTINF:-1,HGTV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64101.ts
+#EXTINF:-1,HILLSONG CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/99411.ts
+#EXTINF:-1,HISTORY
+http://mains.services:2086/live/mikekoot/1757909/251.ts
+#EXTINF:-1,HISTORY CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64096.ts
+#EXTINF:-1,HLN
+http://mains.services:2086/live/mikekoot/1757909/14896.ts
+#EXTINF:-1,HLN FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64100.ts
+#EXTINF:-1,HSN
+http://mains.services:2086/live/mikekoot/1757909/15487.ts
+#EXTINF:-1,HSN 2
+http://mains.services:2086/live/mikekoot/1757909/57571.ts
+#EXTINF:-1,IFC
+http://mains.services:2086/live/mikekoot/1757909/611.ts
+#EXTINF:-1,IFC FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64095.ts
+#EXTINF:-1,INFO WARS
+http://mains.services:2086/live/mikekoot/1757909/13824.ts
+#EXTINF:-1,INSP
+http://mains.services:2086/live/mikekoot/1757909/99403.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://mains.services:2086/live/mikekoot/1757909/13608.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64094.ts
+#EXTINF:-1,ION TELEVISION
+http://mains.services:2086/live/mikekoot/1757909/1762.ts
+#EXTINF:-1,JUSTICE CENTRAL
+http://mains.services:2086/live/mikekoot/1757909/63642.ts
+#EXTINF:-1,LAFF TV
+http://mains.services:2086/live/mikekoot/1757909/99593.ts
+#EXTINF:-1,LAX SPORTS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/72584.ts
+#EXTINF:-1,LIFETIME
+http://mains.services:2086/live/mikekoot/1757909/15491.ts
+#EXTINF:-1,LIFETIME FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64093.ts
+#EXTINF:-1,LIFETIME MOVIE NETWORK
+http://mains.services:2086/live/mikekoot/1757909/338.ts
+#EXTINF:-1,LIFETIME MOVIE NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64092.ts
+#EXTINF:-1,LOGO TV
+http://mains.services:2086/live/mikekoot/1757909/56134.ts
+#EXTINF:-1,LONGHORN NETWORK
+http://mains.services:2086/live/mikekoot/1757909/13562.ts
+#EXTINF:-1,MARQUEE SPORTS NETWORK 
+http://mains.services:2086/live/mikekoot/1757909/91120.ts
+#EXTINF:-1,MASN
+http://mains.services:2086/live/mikekoot/1757909/99509.ts
+#EXTINF:-1,MASN 2
+http://mains.services:2086/live/mikekoot/1757909/99510.ts
+#EXTINF:-1,MAV TV
+http://mains.services:2086/live/mikekoot/1757909/1073.ts
+#EXTINF:-1,ME TV
+http://mains.services:2086/live/mikekoot/1757909/15539.ts
+#EXTINF:-1,MELLO
+http://mains.services:2086/live/mikekoot/1757909/1662.ts
+#EXTINF:-1,MLB ARIZONA DIAMONDBACKS
+http://mains.services:2086/live/mikekoot/1757909/50141.ts
+#EXTINF:-1,MLB ATLANTA BRAVES
+http://mains.services:2086/live/mikekoot/1757909/50140.ts
+#EXTINF:-1,MLB BALTIMORE ORIOLES
+http://mains.services:2086/live/mikekoot/1757909/50139.ts
+#EXTINF:-1,MLB BOSTON RED SOX
+http://mains.services:2086/live/mikekoot/1757909/98956.ts
+#EXTINF:-1,MLB CHICAGO CUBS
+http://mains.services:2086/live/mikekoot/1757909/50137.ts
+#EXTINF:-1,MLB CHICAGO WHITE SOX
+http://mains.services:2086/live/mikekoot/1757909/50136.ts
+#EXTINF:-1,MLB CINCINNATI REDS
+http://mains.services:2086/live/mikekoot/1757909/50135.ts
+#EXTINF:-1,MLB CLEVELAND INDIANS
+http://mains.services:2086/live/mikekoot/1757909/50134.ts
+#EXTINF:-1,MLB COLORADO ROCKIES
+http://mains.services:2086/live/mikekoot/1757909/50133.ts
+#EXTINF:-1,MLB DETROIT TIGERS
+http://mains.services:2086/live/mikekoot/1757909/50132.ts
+#EXTINF:-1,MLB HOUSTON ASTROS
+http://mains.services:2086/live/mikekoot/1757909/50131.ts
+#EXTINF:-1,MLB KANSAS CITY ROYALS
+http://mains.services:2086/live/mikekoot/1757909/50130.ts
+#EXTINF:-1,MLB LOS ANGELES ANGELS
+http://mains.services:2086/live/mikekoot/1757909/50129.ts
+#EXTINF:-1,MLB LOS ANGELES DODGERS
+http://mains.services:2086/live/mikekoot/1757909/50128.ts
+#EXTINF:-1,MLB MIAMI MARLINS
+http://mains.services:2086/live/mikekoot/1757909/50127.ts
+#EXTINF:-1,MLB MILWAUKEE BREWERS
+http://mains.services:2086/live/mikekoot/1757909/50126.ts
+#EXTINF:-1,MLB MINNESOTA TWINS
+http://mains.services:2086/live/mikekoot/1757909/50125.ts
+#EXTINF:-1,MLB NETWORK
+http://mains.services:2086/live/mikekoot/1757909/160.ts
+#EXTINF:-1,MLB NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64091.ts
+#EXTINF:-1,MLB NETWORK STRIKE ZONE USA (Tuesday and Friday nights only)
+http://mains.services:2086/live/mikekoot/1757909/14871.ts
+#EXTINF:-1,MLB NEW YORK METS
+http://mains.services:2086/live/mikekoot/1757909/50124.ts
+#EXTINF:-1,MLB NEW YORK YANKEES
+http://mains.services:2086/live/mikekoot/1757909/50123.ts
+#EXTINF:-1,MLB OAKLAND ATHLETICS
+http://mains.services:2086/live/mikekoot/1757909/50122.ts
+#EXTINF:-1,MLB PHILADELPHIA PHILLIES
+http://mains.services:2086/live/mikekoot/1757909/50121.ts
+#EXTINF:-1,MLB PITTSBURGH PIRATES
+http://mains.services:2086/live/mikekoot/1757909/50120.ts
+#EXTINF:-1,MLB SAN DIEGO PADRES
+http://mains.services:2086/live/mikekoot/1757909/50119.ts
+#EXTINF:-1,MLB SAN FRANCISCO GIANTS
+http://mains.services:2086/live/mikekoot/1757909/50118.ts
+#EXTINF:-1,MLB SEATTLE MARINERS
+http://mains.services:2086/live/mikekoot/1757909/50117.ts
+#EXTINF:-1,MLB ST LOUIS CARDINALS
+http://mains.services:2086/live/mikekoot/1757909/50116.ts
+#EXTINF:-1,MLB TAMPA BAY RAYS
+http://mains.services:2086/live/mikekoot/1757909/50115.ts
+#EXTINF:-1,MLB TEXAS RANGERS
+http://mains.services:2086/live/mikekoot/1757909/50114.ts
+#EXTINF:-1,MLB TORONTO BLUE JAYS
+http://mains.services:2086/live/mikekoot/1757909/50113.ts
+#EXTINF:-1,MLB WASHINGTON NATIONALS
+http://mains.services:2086/live/mikekoot/1757909/50112.ts
+#EXTINF:-1,MOTOR TREND
+http://mains.services:2086/live/mikekoot/1757909/13585.ts
+#EXTINF:-1,MOTOR TREND FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64087.ts
+#EXTINF:-1,MOVIEPLEX
+http://mains.services:2086/live/mikekoot/1757909/15374.ts
+#EXTINF:-1,MSG
+http://mains.services:2086/live/mikekoot/1757909/3113.ts
+#EXTINF:-1,MSG +
+http://mains.services:2086/live/mikekoot/1757909/86841.ts
+#EXTINF:-1,MSG 2
+http://mains.services:2086/live/mikekoot/1757909/18667.ts
+#EXTINF:-1,MSG PLUS
+http://mains.services:2086/live/mikekoot/1757909/18665.ts
+#EXTINF:-1,MSNBC
+http://mains.services:2086/live/mikekoot/1757909/337.ts
+#EXTINF:-1,MSNBC FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64090.ts
+#EXTINF:-1,MTV
+http://mains.services:2086/live/mikekoot/1757909/158.ts
+#EXTINF:-1,MTV 2
+http://mains.services:2086/live/mikekoot/1757909/15488.ts
+#EXTINF:-1,MTV 2 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64088.ts
+#EXTINF:-1,MTV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64089.ts
+#EXTINF:-1,MTV LIVE
+http://mains.services:2086/live/mikekoot/1757909/8848.ts
+#EXTINF:-1,MTV U
+http://mains.services:2086/live/mikekoot/1757909/56360.ts
+#EXTINF:-1,MY9
+http://mains.services:2086/live/mikekoot/1757909/1613.ts
+#EXTINF:-1,MYNET (KDFI) 27 Dallas–Fort Worth
+http://mains.services:2086/live/mikekoot/1757909/101332.ts
+#EXTINF:-1,MYNET (KMTW) 36 Wichita
+http://mains.services:2086/live/mikekoot/1757909/101329.ts
+#EXTINF:-1,MYNET (KMYU) 12 Salt Lake City
+http://mains.services:2086/live/mikekoot/1757909/101339.ts
+#EXTINF:-1,MYNET (KSMO) 62 Kansas City
+http://mains.services:2086/live/mikekoot/1757909/101330.ts
+#EXTINF:-1,MYNET (KTXH) 20 Houston
+http://mains.services:2086/live/mikekoot/1757909/101331.ts
+#EXTINF:-1,MYNET (KVCW-DT) Las Vegas
+http://mains.services:2086/live/mikekoot/1757909/101337.ts
+#EXTINF:-1,MYNET (WABM) 68 Birmingham
+http://mains.services:2086/live/mikekoot/1757909/101341.ts
+#EXTINF:-1,MYNET (WBFF-DT) 24 Baltimore
+http://mains.services:2086/live/mikekoot/1757909/101336.ts
+#EXTINF:-1,MYNET (WBFS) 33 Miami
+http://mains.services:2086/live/mikekoot/1757909/101335.ts
+#EXTINF:-1,MYNET (WCIV) 36 Charleston
+http://mains.services:2086/live/mikekoot/1757909/101342.ts
+#EXTINF:-1,MYNET (WMYA) 40 Greenville
+http://mains.services:2086/live/mikekoot/1757909/101327.ts
+#EXTINF:-1,MYNET (WNYO) 49 Buffalo
+http://mains.services:2086/live/mikekoot/1757909/101340.ts
+#EXTINF:-1,MYNET (WPWR) 50 Chicago
+http://mains.services:2086/live/mikekoot/1757909/101333.ts
+#EXTINF:-1,MYNET (WRDC) 28 Raleigh
+http://mains.services:2086/live/mikekoot/1757909/101343.ts
+#EXTINF:-1,MYNET (WRGT) Dayton
+http://mains.services:2086/live/mikekoot/1757909/101326.ts
+#EXTINF:-1,MYNET (WSBK) 38 Boston
+http://mains.services:2086/live/mikekoot/1757909/101334.ts
+#EXTINF:-1,MYNET (WSTR) 64 Cincinnati
+http://mains.services:2086/live/mikekoot/1757909/101338.ts
+#EXTINF:-1,MYNET (WSYX-DT) Columbus
+http://mains.services:2086/live/mikekoot/1757909/101325.ts
+#EXTINF:-1,MYNET (WTVZ) 33 Hampton
+http://mains.services:2086/live/mikekoot/1757909/101323.ts
+#EXTINF:-1,MYNET (WUXP) 30 Nashville
+http://mains.services:2086/live/mikekoot/1757909/101324.ts
+#EXTINF:-1,MYNET (WVTV-DT) 24 Milwaukee
+http://mains.services:2086/live/mikekoot/1757909/101328.ts
+#EXTINF:-1,NATIONAL GEO WILD FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64083.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/247.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64082.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://mains.services:2086/live/mikekoot/1757909/157.ts
+#EXTINF:-1,NBA ATLANTA HAWKS
+http://mains.services:2086/live/mikekoot/1757909/375.ts
+#EXTINF:-1,NBA BOSTON CELTICS
+http://mains.services:2086/live/mikekoot/1757909/380.ts
+#EXTINF:-1,NBA BROOKLYN NETS
+http://mains.services:2086/live/mikekoot/1757909/66873.ts
+#EXTINF:-1,NBA CHARLOTTE HORNETS
+http://mains.services:2086/live/mikekoot/1757909/374.ts
+#EXTINF:-1,NBA CHICAGO BULLS
+http://mains.services:2086/live/mikekoot/1757909/369.ts
+#EXTINF:-1,NBA CLEVELAND CAVALIERS
+http://mains.services:2086/live/mikekoot/1757909/379.ts
+#EXTINF:-1,NBA DALLAS MAVERICKS
+http://mains.services:2086/live/mikekoot/1757909/55035.ts
+#EXTINF:-1,NBA DENVER NUGGETS
+http://mains.services:2086/live/mikekoot/1757909/2893.ts
+#EXTINF:-1,NBA DETROIT PISTONS
+http://mains.services:2086/live/mikekoot/1757909/378.ts
+#EXTINF:-1,NBA GOLDEN STATE WARRIORS
+http://mains.services:2086/live/mikekoot/1757909/55030.ts
+#EXTINF:-1,NBA HOUSTON ROCKETS
+http://mains.services:2086/live/mikekoot/1757909/55036.ts
+#EXTINF:-1,NBA INDIANA PACERS
+http://mains.services:2086/live/mikekoot/1757909/377.ts
+#EXTINF:-1,NBA LOS ANGELES CLIPPERS
+http://mains.services:2086/live/mikekoot/1757909/55031.ts
+#EXTINF:-1,NBA LOS ANGELES LAKERS
+http://mains.services:2086/live/mikekoot/1757909/55032.ts
+#EXTINF:-1,NBA MEMPHIS GRIZZLIES
+http://mains.services:2086/live/mikekoot/1757909/55037.ts
+#EXTINF:-1,NBA MIAMI HEAT
+http://mains.services:2086/live/mikekoot/1757909/2896.ts
+#EXTINF:-1,NBA MILWAUKEE BUCKS
+http://mains.services:2086/live/mikekoot/1757909/376.ts
+#EXTINF:-1,NBA MINNESOTA TIMBERWOLVES
+http://mains.services:2086/live/mikekoot/1757909/2892.ts
+#EXTINF:-1,NBA NEW ORLEANS PELICANS
+http://mains.services:2086/live/mikekoot/1757909/55038.ts
+#EXTINF:-1,NBA NEW YORK KNICKS
+http://mains.services:2086/live/mikekoot/1757909/372.ts
+#EXTINF:-1,NBA OKLAHOMA CITY THUNDER
+http://mains.services:2086/live/mikekoot/1757909/2891.ts
+#EXTINF:-1,NBA ORLANDO MAGIC
+http://mains.services:2086/live/mikekoot/1757909/2895.ts
+#EXTINF:-1,NBA PHILADELPHIA 76ERS
+http://mains.services:2086/live/mikekoot/1757909/371.ts
+#EXTINF:-1,NBA PHOENIX SUNS
+http://mains.services:2086/live/mikekoot/1757909/55033.ts
+#EXTINF:-1,NBA PORTLAND TRAIL BLAZERS
+http://mains.services:2086/live/mikekoot/1757909/2890.ts
+#EXTINF:-1,NBA SACRAMENTO KINGS
+http://mains.services:2086/live/mikekoot/1757909/55034.ts
+#EXTINF:-1,NBA SAN ANTONIO SPURS
+http://mains.services:2086/live/mikekoot/1757909/55039.ts
+#EXTINF:-1,NBA TORONTO RAPTORS
+http://mains.services:2086/live/mikekoot/1757909/370.ts
+#EXTINF:-1,NBA TV
+http://mains.services:2086/live/mikekoot/1757909/336.ts
+#EXTINF:-1,NBA TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64086.ts
+#EXTINF:-1,NBA UTAH JAZZ
+http://mains.services:2086/live/mikekoot/1757909/55019.ts
+#EXTINF:-1,NBA WASHINGTON WIZARDS
+http://mains.services:2086/live/mikekoot/1757909/2894.ts
+#EXTINF:-1,NBC SPORTS BAY AREA
+http://mains.services:2086/live/mikekoot/1757909/13529.ts
+#EXTINF:-1,NBC SPORTS BOSTON
+http://mains.services:2086/live/mikekoot/1757909/13528.ts
+#EXTINF:-1,NBC SPORTS CALIFORNIA
+http://mains.services:2086/live/mikekoot/1757909/13733.ts
+#EXTINF:-1,NBC SPORTS CHICAGO
+http://mains.services:2086/live/mikekoot/1757909/13532.ts
+#EXTINF:-1,NBC SPORTS CHICAGO PLUS
+http://mains.services:2086/live/mikekoot/1757909/101092.ts
+#EXTINF:-1,NBC SPORTS NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64085.ts
+#EXTINF:-1,NBC SPORTS NORTHWEST
+http://mains.services:2086/live/mikekoot/1757909/13522.ts
+#EXTINF:-1,NBC SPORTS PHILADELPHIA
+http://mains.services:2086/live/mikekoot/1757909/13526.ts
+#EXTINF:-1,NBC SPORTS WASHINGTON
+http://mains.services:2086/live/mikekoot/1757909/13527.ts
+#EXTINF:-1,NBCSN (NBC SPORTS NETWORK)
+http://mains.services:2086/live/mikekoot/1757909/149.ts
+#EXTINF:-1,NESN
+http://mains.services:2086/live/mikekoot/1757909/3527.ts
+#EXTINF:-1,NESN BOSTON
+http://mains.services:2086/live/mikekoot/1757909/18671.ts
+#EXTINF:-1,NESN PLUS
+http://mains.services:2086/live/mikekoot/1757909/18668.ts
+#EXTINF:-1,NEW ORLEANS TELEVISION
+http://mains.services:2086/live/mikekoot/1757909/15486.ts
+#EXTINF:-1,NEWS12 BROOKLYN
+http://mains.services:2086/live/mikekoot/1757909/90507.ts
+#EXTINF:-1,NEWS12 CONNECTICUT
+http://mains.services:2086/live/mikekoot/1757909/90509.ts
+#EXTINF:-1,NEWS12 HUDSON VALLEY
+http://mains.services:2086/live/mikekoot/1757909/90510.ts
+#EXTINF:-1,NEWS12 LONG ISLAND
+http://mains.services:2086/live/mikekoot/1757909/90511.ts
+#EXTINF:-1,NEWS12 NEW JERSEY
+http://mains.services:2086/live/mikekoot/1757909/90512.ts
+#EXTINF:-1,NEWS12 THE BRONX
+http://mains.services:2086/live/mikekoot/1757909/90506.ts
+#EXTINF:-1,NEWS12 WESTCHESTER
+http://mains.services:2086/live/mikekoot/1757909/90508.ts
+#EXTINF:-1,NEWSMAX TV
+http://mains.services:2086/live/mikekoot/1757909/21942.ts
+#EXTINF:-1,NEWSNET
+http://mains.services:2086/live/mikekoot/1757909/48028.ts
+#EXTINF:-1,NEWSY
+http://mains.services:2086/live/mikekoot/1757909/62320.ts
+#EXTINF:-1,NFL ARIZONA CARDINALS
+http://mains.services:2086/live/mikekoot/1757909/28515.ts
+#EXTINF:-1,NFL ATLANTA FALCONS
+http://mains.services:2086/live/mikekoot/1757909/367.ts
+#EXTINF:-1,NFL BALTIMORE RAVENS
+http://mains.services:2086/live/mikekoot/1757909/55086.ts
+#EXTINF:-1,NFL BUFFALO BILLS
+http://mains.services:2086/live/mikekoot/1757909/55090.ts
+#EXTINF:-1,NFL CAROLINA PANTHERS
+http://mains.services:2086/live/mikekoot/1757909/365.ts
+#EXTINF:-1,NFL CHICAGO BEARS
+http://mains.services:2086/live/mikekoot/1757909/359.ts
+#EXTINF:-1,NFL CINCINNATI BENGALS
+http://mains.services:2086/live/mikekoot/1757909/55089.ts
+#EXTINF:-1,NFL CLEVELAND BROWNS
+http://mains.services:2086/live/mikekoot/1757909/55078.ts
+#EXTINF:-1,NFL DALLAS COWBOYS
+http://mains.services:2086/live/mikekoot/1757909/363.ts
+#EXTINF:-1,NFL DENVER BRONCOS
+http://mains.services:2086/live/mikekoot/1757909/55084.ts
+#EXTINF:-1,NFL DETROIT LIONS
+http://mains.services:2086/live/mikekoot/1757909/358.ts
+#EXTINF:-1,NFL GREEN BAY PACKERS
+http://mains.services:2086/live/mikekoot/1757909/360.ts
+#EXTINF:-1,NFL HOUSTON TEXANS
+http://mains.services:2086/live/mikekoot/1757909/55091.ts
+#EXTINF:-1,NFL INDIANAPOLIS COLTS
+http://mains.services:2086/live/mikekoot/1757909/55076.ts
+#EXTINF:-1,NFL JACKSONVILLE JAGUARS
+http://mains.services:2086/live/mikekoot/1757909/55093.ts
+#EXTINF:-1,NFL KANSAS CITY CHIEFS
+http://mains.services:2086/live/mikekoot/1757909/55087.ts
+#EXTINF:-1,NFL LAS VEGAS RAIDERS
+http://mains.services:2086/live/mikekoot/1757909/55083.ts
+#EXTINF:-1,NFL LOS ANGELES CHARGERS
+http://mains.services:2086/live/mikekoot/1757909/55094.ts
+#EXTINF:-1,NFL LOS ANGELES RAMS
+http://mains.services:2086/live/mikekoot/1757909/4754.ts
+#EXTINF:-1,NFL MIAMI DOLPHINS
+http://mains.services:2086/live/mikekoot/1757909/55085.ts
+#EXTINF:-1,NFL MINNESOTA VIKINGS
+http://mains.services:2086/live/mikekoot/1757909/357.ts
+#EXTINF:-1,NFL NETWORK
+http://mains.services:2086/live/mikekoot/1757909/308.ts
+#EXTINF:-1,NFL NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64168.ts
+#EXTINF:-1,NFL NEW ENGLAND PATRIOTS
+http://mains.services:2086/live/mikekoot/1757909/55080.ts
+#EXTINF:-1,NFL NEW ORLEANS SAINTS
+http://mains.services:2086/live/mikekoot/1757909/366.ts
+#EXTINF:-1,NFL NEW YORK GIANTS
+http://mains.services:2086/live/mikekoot/1757909/17395.ts
+#EXTINF:-1,NFL NEW YORK JETS
+http://mains.services:2086/live/mikekoot/1757909/55088.ts
+#EXTINF:-1,NFL PHILADELPHIA EAGLES
+http://mains.services:2086/live/mikekoot/1757909/361.ts
+#EXTINF:-1,NFL PITTSBURGH STEELERS
+http://mains.services:2086/live/mikekoot/1757909/55075.ts
+#EXTINF:-1,NFL REDZONE
+http://mains.services:2086/live/mikekoot/1757909/2913.ts
+#EXTINF:-1,NFL SAN FRANCISCO 49ERS
+http://mains.services:2086/live/mikekoot/1757909/364.ts
+#EXTINF:-1,NFL SEATTLE SEAHAWKS
+http://mains.services:2086/live/mikekoot/1757909/55077.ts
+#EXTINF:-1,NFL TAMPA BAY BUCCANEERS
+http://mains.services:2086/live/mikekoot/1757909/356.ts
+#EXTINF:-1,NFL TENNESSEE TITANS
+http://mains.services:2086/live/mikekoot/1757909/55092.ts
+#EXTINF:-1,NFL WASHINGTON FOOTBALL TEAM
+http://mains.services:2086/live/mikekoot/1757909/362.ts
+#EXTINF:-1,NHL ANAHEIM DUCKS
+http://mains.services:2086/live/mikekoot/1757909/55055.ts
+#EXTINF:-1,NHL ARIZONA COYOTES
+http://mains.services:2086/live/mikekoot/1757909/55054.ts
+#EXTINF:-1,NHL BOSTON BRUINS
+http://mains.services:2086/live/mikekoot/1757909/415.ts
+#EXTINF:-1,NHL BUFFALO SABRES
+http://mains.services:2086/live/mikekoot/1757909/414.ts
+#EXTINF:-1,NHL CALGARY FLAMES
+http://mains.services:2086/live/mikekoot/1757909/55053.ts
+#EXTINF:-1,NHL CAROLINA HURRICANES
+http://mains.services:2086/live/mikekoot/1757909/416.ts
+#EXTINF:-1,NHL CHICAGO BLACKHAWKS
+http://mains.services:2086/live/mikekoot/1757909/3441.ts
+#EXTINF:-1,NHL COLORADO AVALANCHE
+http://mains.services:2086/live/mikekoot/1757909/3994.ts
+#EXTINF:-1,NHL COLUMBUS BLUE JACKETS
+http://mains.services:2086/live/mikekoot/1757909/411.ts
+#EXTINF:-1,NHL DALLAS STARS
+http://mains.services:2086/live/mikekoot/1757909/3995.ts
+#EXTINF:-1,NHL DETROIT RED WINGS
+http://mains.services:2086/live/mikekoot/1757909/413.ts
+#EXTINF:-1,NHL EDMONTON OILERS
+http://mains.services:2086/live/mikekoot/1757909/55052.ts
+#EXTINF:-1,NHL FLORIDA PANTHERS
+http://mains.services:2086/live/mikekoot/1757909/13792.ts
+#EXTINF:-1,NHL LOS ANGELES KINGS
+http://mains.services:2086/live/mikekoot/1757909/55051.ts
+#EXTINF:-1,NHL MINNESOTA WILD
+http://mains.services:2086/live/mikekoot/1757909/3996.ts
+#EXTINF:-1,NHL MONTREAL CANADIENS
+http://mains.services:2086/live/mikekoot/1757909/3118.ts
+#EXTINF:-1,NHL NASHVILLE PREDATORS
+http://mains.services:2086/live/mikekoot/1757909/36451.ts
+#EXTINF:-1,NHL NETWORK
+http://mains.services:2086/live/mikekoot/1757909/147.ts
+#EXTINF:-1,NHL NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64084.ts
+#EXTINF:-1,NHL NEW JERSEY DEVILS
+http://mains.services:2086/live/mikekoot/1757909/410.ts
+#EXTINF:-1,NHL NEW YORK ISLANDERS
+http://mains.services:2086/live/mikekoot/1757909/409.ts
+#EXTINF:-1,NHL NEW YORK RANGERS
+http://mains.services:2086/live/mikekoot/1757909/408.ts
+#EXTINF:-1,NHL OTTAWA SENATORS
+http://mains.services:2086/live/mikekoot/1757909/3439.ts
+#EXTINF:-1,NHL PHILADELPHIA FLYERS
+http://mains.services:2086/live/mikekoot/1757909/406.ts
+#EXTINF:-1,NHL PITTSBURGH PENGUINS
+http://mains.services:2086/live/mikekoot/1757909/405.ts
+#EXTINF:-1,NHL SAN JOSE SHARKS
+http://mains.services:2086/live/mikekoot/1757909/55050.ts
+#EXTINF:-1,NHL ST LOUIS BLUES
+http://mains.services:2086/live/mikekoot/1757909/55057.ts
+#EXTINF:-1,NHL TAMPA BAY LIGHTNING
+http://mains.services:2086/live/mikekoot/1757909/3431.ts
+#EXTINF:-1,NHL TORONTO MAPLE LEAFS
+http://mains.services:2086/live/mikekoot/1757909/3440.ts
+#EXTINF:-1,NHL VANCOUVER CANUCKS
+http://mains.services:2086/live/mikekoot/1757909/55049.ts
+#EXTINF:-1,NHL VEGAS GOLDEN KNIGHTS
+http://mains.services:2086/live/mikekoot/1757909/55048.ts
+#EXTINF:-1,NHL WASHINGTON CAPITALS
+http://mains.services:2086/live/mikekoot/1757909/404.ts
+#EXTINF:-1,NHL WINNIPEG JETS
+http://mains.services:2086/live/mikekoot/1757909/55056.ts
+#EXTINF:-1,NICK JUNIOR FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64081.ts
+#EXTINF:-1,NICK TOONS FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64079.ts
+#EXTINF:-1,NICKELODEON EAST FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64080.ts
+#EXTINF:-1,NRB NETWORK
+http://mains.services:2086/live/mikekoot/1757909/4419.ts
+#EXTINF:-1,OLYMPIC CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/14975.ts
+#EXTINF:-1,ONE AMERICA NEWS ENCORE
+http://mains.services:2086/live/mikekoot/1757909/21945.ts
+#EXTINF:-1,ONE AMERICA NEWS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/21943.ts
+#EXTINF:-1,OUTDOOR CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/15360.ts
+#EXTINF:-1,OUTSIDE TV
+http://mains.services:2086/live/mikekoot/1757909/14872.ts
+#EXTINF:-1,OVATION
+http://mains.services:2086/live/mikekoot/1757909/15485.ts
+#EXTINF:-1,OVATION FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64077.ts
+#EXTINF:-1,OWN
+http://mains.services:2086/live/mikekoot/1757909/311.ts
+#EXTINF:-1,OWN FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64078.ts
+#EXTINF:-1,OXYGEN
+http://mains.services:2086/live/mikekoot/1757909/1229.ts
+#EXTINF:-1,OXYGEN FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64076.ts
+#EXTINF:-1,PAC 12 ARIZONA
+http://mains.services:2086/live/mikekoot/1757909/399.ts
+#EXTINF:-1,PAC 12 ARIZONA FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64074.ts
+#EXTINF:-1,PAC 12 BAY AREA
+http://mains.services:2086/live/mikekoot/1757909/398.ts
+#EXTINF:-1,PAC 12 BAY AREA FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64073.ts
+#EXTINF:-1,PAC 12 LA
+http://mains.services:2086/live/mikekoot/1757909/397.ts
+#EXTINF:-1,PAC 12 LOS ANGELES FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64072.ts
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://mains.services:2086/live/mikekoot/1757909/396.ts
+#EXTINF:-1,PAC 12 MOUNTAIN FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64071.ts
+#EXTINF:-1,PAC 12 NATIONAL
+http://mains.services:2086/live/mikekoot/1757909/395.ts
+#EXTINF:-1,PAC 12 OREGON
+http://mains.services:2086/live/mikekoot/1757909/394.ts
+#EXTINF:-1,PAC 12 OREGON FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64070.ts
+#EXTINF:-1,PAC 12 WASHINGTON
+http://mains.services:2086/live/mikekoot/1757909/393.ts
+#EXTINF:-1,PAC 12 WASHINGTON FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64069.ts
+#EXTINF:-1,PAC NETWORK
+http://mains.services:2086/live/mikekoot/1757909/55612.ts
+#EXTINF:-1,PARAMOUNT NETWORK
+http://mains.services:2086/live/mikekoot/1757909/246.ts
+#EXTINF:-1,PARAMOUNT NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64068.ts
+#EXTINF:-1,PBS
+http://mains.services:2086/live/mikekoot/1757909/1739.ts
+#EXTINF:-1,PIXL
+http://mains.services:2086/live/mikekoot/1757909/55946.ts
+#EXTINF:-1,POP
+http://mains.services:2086/live/mikekoot/1757909/15308.ts
+#EXTINF:-1,POP FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64075.ts
+#EXTINF:-1,POSITIV TV
+http://mains.services:2086/live/mikekoot/1757909/99598.ts
+#EXTINF:-1,PRIME TICKET FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64067.ts
+#EXTINF:-1,PURSUIT CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/21948.ts
+#EXTINF:-1,PURSUIT CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64066.ts
+#EXTINF:-1,QVC
+http://mains.services:2086/live/mikekoot/1757909/1206.ts
+#EXTINF:-1,QVC 2
+http://mains.services:2086/live/mikekoot/1757909/1207.ts
+#EXTINF:-1,REDBULL TV
+http://mains.services:2086/live/mikekoot/1757909/8450.ts
+#EXTINF:-1,REELZ
+http://mains.services:2086/live/mikekoot/1757909/15466.ts
+#EXTINF:-1,REELZ FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64064.ts
+#EXTINF:-1,RETRO PLEX
+http://mains.services:2086/live/mikekoot/1757909/57852.ts
+#EXTINF:-1,REVOLT
+http://mains.services:2086/live/mikekoot/1757909/15467.ts
+#EXTINF:-1,REVOLT FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64063.ts
+#EXTINF:-1,RFD TV
+http://mains.services:2086/live/mikekoot/1757909/91397.ts
+#EXTINF:-1,RIDE TV
+http://mains.services:2086/live/mikekoot/1757909/55614.ts
+#EXTINF:-1,ROOT SPORTS NORTHWEST
+http://mains.services:2086/live/mikekoot/1757909/99511.ts
+#EXTINF:-1,RT AMERICA
+http://mains.services:2086/live/mikekoot/1757909/4408.ts
+#EXTINF:-1,RT DOCUMENTARY
+http://mains.services:2086/live/mikekoot/1757909/21952.ts
+#EXTINF:-1,RT ENGLISH
+http://mains.services:2086/live/mikekoot/1757909/21951.ts
+#EXTINF:-1,RT NEWS
+http://mains.services:2086/live/mikekoot/1757909/17275.ts
+#EXTINF:-1,SAFE TV
+http://mains.services:2086/live/mikekoot/1757909/46381.ts
+#EXTINF:-1,SEC NETWORK
+http://mains.services:2086/live/mikekoot/1757909/1135.ts
+#EXTINF:-1,SEC NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64062.ts
+#EXTINF:-1,SHO X BET
+http://mains.services:2086/live/mikekoot/1757909/1603.ts
+#EXTINF:-1,SHOWTIME  NEXT
+http://mains.services:2086/live/mikekoot/1757909/56137.ts
+#EXTINF:-1,SHOWTIME 2
+http://mains.services:2086/live/mikekoot/1757909/331.ts
+#EXTINF:-1,SHOWTIME 2 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64040.ts
+#EXTINF:-1,SHOWTIME EAST
+http://mains.services:2086/live/mikekoot/1757909/332.ts
+#EXTINF:-1,SHOWTIME EAST FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64043.ts
+#EXTINF:-1,SHOWTIME EXTREME
+http://mains.services:2086/live/mikekoot/1757909/8843.ts
+#EXTINF:-1,SHOWTIME FAMILY ZONE
+http://mains.services:2086/live/mikekoot/1757909/56136.ts
+#EXTINF:-1,SHOWTIME FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64041.ts
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://mains.services:2086/live/mikekoot/1757909/1604.ts
+#EXTINF:-1,SHOWTIME SHOWCASE FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64171.ts
+#EXTINF:-1,SHOWTIME WEST
+http://mains.services:2086/live/mikekoot/1757909/8842.ts
+#EXTINF:-1,SHOWTIME WEST FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64042.ts
+#EXTINF:-1,SHOWTIME WOMEN
+http://mains.services:2086/live/mikekoot/1757909/55613.ts
+#EXTINF:-1,SIDEWALKS TV
+http://mains.services:2086/live/mikekoot/1757909/48027.ts
+#EXTINF:-1,SNY (SPORTSNET NEW YORK)
+http://mains.services:2086/live/mikekoot/1757909/8850.ts
+#EXTINF:-1,SONY MOVIE CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/21949.ts
+#EXTINF:-1,SOUTH EASTERN CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/15520.ts
+#EXTINF:-1,SPECTRUM SPORTSNET
+http://mains.services:2086/live/mikekoot/1757909/52331.ts
+#EXTINF:-1,SPECTRUM SPORTSNET LA
+http://mains.services:2086/live/mikekoot/1757909/98918.ts
+#EXTINF:-1,SPORTSMAN CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/15468.ts
+#EXTINF:-1,SPORTSMAN CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64039.ts
+#EXTINF:-1,STADIUM 1
+http://mains.services:2086/live/mikekoot/1757909/18816.ts
+#EXTINF:-1,STARZ  ENCORE BLACK
+http://mains.services:2086/live/mikekoot/1757909/56139.ts
+#EXTINF:-1,STARZ CINEMA
+http://mains.services:2086/live/mikekoot/1757909/328.ts
+#EXTINF:-1,STARZ CINEMA FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64060.ts
+#EXTINF:-1,STARZ COMEDY
+http://mains.services:2086/live/mikekoot/1757909/8844.ts
+#EXTINF:-1,STARZ COMEDY FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64059.ts
+#EXTINF:-1,STARZ EAST
+http://mains.services:2086/live/mikekoot/1757909/329.ts
+#EXTINF:-1,STARZ EAST FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64049.ts
+#EXTINF:-1,STARZ EDGE
+http://mains.services:2086/live/mikekoot/1757909/558.ts
+#EXTINF:-1,STARZ EDGE FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64058.ts
+#EXTINF:-1,STARZ ENCORE
+http://mains.services:2086/live/mikekoot/1757909/344.ts
+#EXTINF:-1,STARZ ENCORE ACTION
+http://mains.services:2086/live/mikekoot/1757909/8849.ts
+#EXTINF:-1,STARZ ENCORE ACTION FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64046.ts
+#EXTINF:-1,STARZ ENCORE BLACK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64054.ts
+#EXTINF:-1,STARZ ENCORE CLASSIC
+http://mains.services:2086/live/mikekoot/1757909/56140.ts
+#EXTINF:-1,STARZ ENCORE CLASSIC FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64053.ts
+#EXTINF:-1,STARZ ENCORE ESPANOL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64056.ts
+#EXTINF:-1,STARZ ENCORE FAMILY
+http://mains.services:2086/live/mikekoot/1757909/56009.ts
+#EXTINF:-1,STARZ ENCORE FAMILY FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64052.ts
+#EXTINF:-1,STARZ ENCORE FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64057.ts
+#EXTINF:-1,STARZ ENCORE SUSPENSE
+http://mains.services:2086/live/mikekoot/1757909/55999.ts
+#EXTINF:-1,STARZ ENCORE SUSPENSE FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64051.ts
+#EXTINF:-1,STARZ ENCORE WEST
+http://mains.services:2086/live/mikekoot/1757909/56007.ts
+#EXTINF:-1,STARZ ENCORE WESTERNS
+http://mains.services:2086/live/mikekoot/1757909/1601.ts
+#EXTINF:-1,STARZ ENCORE WESTERNS FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64055.ts
+#EXTINF:-1,STARZ FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64061.ts
+#EXTINF:-1,STARZ IN BLACK
+http://mains.services:2086/live/mikekoot/1757909/8845.ts
+#EXTINF:-1,STARZ IN BLACK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64047.ts
+#EXTINF:-1,STARZ KIDS & FAMILY
+http://mains.services:2086/live/mikekoot/1757909/1132.ts
+#EXTINF:-1,STARZ KIDS & FAMILY FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64045.ts
+#EXTINF:-1,STARZ WEST
+http://mains.services:2086/live/mikekoot/1757909/2490.ts
+#EXTINF:-1,STARZ WEST FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64048.ts
+#EXTINF:-1,SUNBURN TV
+http://mains.services:2086/live/mikekoot/1757909/36349.ts
+#EXTINF:-1,SUNDANCE TV
+http://mains.services:2086/live/mikekoot/1757909/1284.ts
+#EXTINF:-1,SUNDANCE TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64038.ts
+#EXTINF:-1,SYFY
+http://mains.services:2086/live/mikekoot/1757909/245.ts
+#EXTINF:-1,SYFY FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64037.ts
+#EXTINF:-1,TBD
+http://mains.services:2086/live/mikekoot/1757909/14052.ts
+#EXTINF:-1,TBN
+http://mains.services:2086/live/mikekoot/1757909/99804.ts
+#EXTINF:-1,TBS
+http://mains.services:2086/live/mikekoot/1757909/301.ts
+#EXTINF:-1,TBS FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64036.ts
+#EXTINF:-1,TEEN NICK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64030.ts
+#EXTINF:-1,TENNIS CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/327.ts
+#EXTINF:-1,TENNIS CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64029.ts
+#EXTINF:-1,THE COWBOY CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/55998.ts
+#EXTINF:-1,THE FIGHT NETWORK
+http://mains.services:2086/live/mikekoot/1757909/90642.ts
+#EXTINF:-1,THE OUTDOOR COOKING CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/13859.ts
+#EXTINF:-1,THE SHOPPING CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/14854.ts
+#EXTINF:-1,THE SMITHSONIAN CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/17722.ts
+#EXTINF:-1,THE WEATHER CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/400.ts
+#EXTINF:-1,THE WEATHER CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64028.ts
+#EXTINF:-1,THE WORD NETWORK
+http://mains.services:2086/live/mikekoot/1757909/99404.ts
+#EXTINF:-1,THRILLER MAX EAST
+http://mains.services:2086/live/mikekoot/1757909/8867.ts
 #EXTINF:-1,TLC
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4924
-#EXTINF:-1,TNT HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6354
-#EXTINF:-1,TNT FHD VIP
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4876
-#EXTINF:-1,TSN 1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6353
-#EXTINF:-1,TSN 2 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6352
-#EXTINF:-1,USA Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/4901
+http://mains.services:2086/live/mikekoot/1757909/119.ts
+#EXTINF:-1,TLC FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64034.ts
+#EXTINF:-1,TNT EAST
+http://mains.services:2086/live/mikekoot/1757909/298.ts
+#EXTINF:-1,TNT FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64033.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/326.ts
+#EXTINF:-1,TRAVEL CHANNEL FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64027.ts
+#EXTINF:-1,TRU TV
+http://mains.services:2086/live/mikekoot/1757909/312.ts
+#EXTINF:-1,TRU TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64026.ts
+#EXTINF:-1,TURNER CLASSIC MOVIES
+http://mains.services:2086/live/mikekoot/1757909/128.ts
+#EXTINF:-1,TURNER CLASSIC MOVIES FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64035.ts
+#EXTINF:-1,TV LAND
+http://mains.services:2086/live/mikekoot/1757909/325.ts
+#EXTINF:-1,TV LAND FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64032.ts
+#EXTINF:-1,TV ONE
+http://mains.services:2086/live/mikekoot/1757909/5987.ts
+#EXTINF:-1,TV ONE FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64031.ts
+#EXTINF:-1,TVG
+http://mains.services:2086/live/mikekoot/1757909/15049.ts
+#EXTINF:-1,TVG2
+http://mains.services:2086/live/mikekoot/1757909/15050.ts
+#EXTINF:-1,UFC FIGHT PASS
+http://mains.services:2086/live/mikekoot/1757909/99440.ts
+#EXTINF:-1,UNIVERSAL KIDS FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64024.ts
+#EXTINF:-1,UNIVERSITY OF CALIFORNIA TELEVISION
+http://mains.services:2086/live/mikekoot/1757909/15040.ts
+#EXTINF:-1,UP
+http://mains.services:2086/live/mikekoot/1757909/59383.ts
+#EXTINF:-1,USA NETWORK
+http://mains.services:2086/live/mikekoot/1757909/242.ts
+#EXTINF:-1,USA NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64025.ts
 #EXTINF:-1,VH1
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/11254
-#EXTINF:-1,VH1 HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6753
-#EXTINF:-1,WWE Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
-#EXTINF:-1,WWE Network [B] HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6347
-#EXTINF:-1,ESPN Sec Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/32382
-#EXTINF:-1,NESN HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/34415
-#EXTINF:-1,Reelz Channel HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/51014
-#EXTINF:-1,Oxygen HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/51015
-#EXTINF:-1,Tennis Channel HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7084
-#EXTINF:-1,MSG HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/623146
-#EXTINF:-1,Syfy HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/648340
-#EXTINF:-1,TV Land Classic HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655120
+http://mains.services:2086/live/mikekoot/1757909/402.ts
+#EXTINF:-1,VH1 FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64023.ts
+#EXTINF:-1,VICELAND
+http://mains.services:2086/live/mikekoot/1757909/477.ts
+#EXTINF:-1,VICELAND FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64022.ts
+#EXTINF:-1,VOICE OF AMERICA (EST)
+http://mains.services:2086/live/mikekoot/1757909/48026.ts
+#EXTINF:-1,VOICE OF AMERICA (PST)
+http://mains.services:2086/live/mikekoot/1757909/48025.ts
+#EXTINF:-1,WAPA AMERICA
+http://mains.services:2086/live/mikekoot/1757909/56142.ts
+#EXTINF:-1,WE TV
+http://mains.services:2086/live/mikekoot/1757909/470.ts
+#EXTINF:-1,WE TV FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64021.ts
+#EXTINF:-1,WEATHER NATION
+http://mains.services:2086/live/mikekoot/1757909/14047.ts
+#EXTINF:-1,WGN
+http://mains.services:2086/live/mikekoot/1757909/3194.ts
+#EXTINF:-1,WGN AMERICA
+http://mains.services:2086/live/mikekoot/1757909/1661.ts
+#EXTINF:-1,WGN9 CHICAGO
+http://mains.services:2086/live/mikekoot/1757909/100913.ts
+#EXTINF:-1,WILLOW CRICKET
+http://mains.services:2086/live/mikekoot/1757909/15502.ts
+#EXTINF:-1,WILLOWXTRA CRICKET
+http://mains.services:2086/live/mikekoot/1757909/55997.ts
+#EXTINF:-1,WNBA ATLANTA DREAM
+http://mains.services:2086/live/mikekoot/1757909/99303.ts
+#EXTINF:-1,WNBA CHICAGO SKY
+http://mains.services:2086/live/mikekoot/1757909/99304.ts
+#EXTINF:-1,WNBA CONNECTICUT SUN
+http://mains.services:2086/live/mikekoot/1757909/99305.ts
+#EXTINF:-1,WNBA DALLAS WINGS
+http://mains.services:2086/live/mikekoot/1757909/99309.ts
+#EXTINF:-1,WNBA INDIANA FEVER
+http://mains.services:2086/live/mikekoot/1757909/99306.ts
+#EXTINF:-1,WNBA LAS VEGAS ACES
+http://mains.services:2086/live/mikekoot/1757909/99310.ts
+#EXTINF:-1,WNBA LOS ANGELES SPARKS
+http://mains.services:2086/live/mikekoot/1757909/99311.ts
+#EXTINF:-1,WNBA MINNESOTA LYNX
+http://mains.services:2086/live/mikekoot/1757909/99312.ts
+#EXTINF:-1,WNBA NEW YORK LIBERTY
+http://mains.services:2086/live/mikekoot/1757909/99307.ts
+#EXTINF:-1,WNBA PHOENIX MERCURY
+http://mains.services:2086/live/mikekoot/1757909/99313.ts
+#EXTINF:-1,WNBA SEATTLE STORM
+http://mains.services:2086/live/mikekoot/1757909/99314.ts
+#EXTINF:-1,WNBA WASHINGTON MYSTICS
+http://mains.services:2086/live/mikekoot/1757909/99308.ts
+#EXTINF:-1,WORLD FISHING NETWORK
+http://mains.services:2086/live/mikekoot/1757909/53214.ts
+#EXTINF:-1,WORLD FISHING NETWORK FHD 1080
+http://mains.services:2086/live/mikekoot/1757909/64020.ts
+#EXTINF:-1,WWE NETWORK
+http://mains.services:2086/live/mikekoot/1757909/303.ts
+#EXTINF:-1,YES NETWORK
+http://mains.services:2086/live/mikekoot/1757909/1673.ts
+#EXTINF:-1,Z LIVING
+http://mains.services:2086/live/mikekoot/1757909/58109.ts
+#EXTINF:-1,US-720 : A&E
+http://mains.services:2086/live/mikekoot/1757909/95376.ts
+#EXTINF:-1,US-720 : ACC NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95513.ts
+#EXTINF:-1,US-720 : ACCU WEATHER
+http://mains.services:2086/live/mikekoot/1757909/95472.ts
+#EXTINF:-1,US-720 : ACTION MAX
+http://mains.services:2086/live/mikekoot/1757909/95504.ts
+#EXTINF:-1,US-720 : AMC
+http://mains.services:2086/live/mikekoot/1757909/95377.ts
+#EXTINF:-1,US-720 : AMERICAN HEROES
+http://mains.services:2086/live/mikekoot/1757909/95487.ts
+#EXTINF:-1,US-720 : ANIMAL PLANET
+http://mains.services:2086/live/mikekoot/1757909/95460.ts
+#EXTINF:-1,US-720 : ASPIRE
+http://mains.services:2086/live/mikekoot/1757909/95498.ts
+#EXTINF:-1,US-720 : AWE
+http://mains.services:2086/live/mikekoot/1757909/95488.ts
+#EXTINF:-1,US-720 : AXS TV
+http://mains.services:2086/live/mikekoot/1757909/95426.ts
+#EXTINF:-1,US-720 : BABY FIRST
+http://mains.services:2086/live/mikekoot/1757909/95469.ts
+#EXTINF:-1,US-720 : BBC AMERICA
+http://mains.services:2086/live/mikekoot/1757909/95399.ts
+#EXTINF:-1,US-720 : BBC WORLD NEWS
+http://mains.services:2086/live/mikekoot/1757909/95448.ts
+#EXTINF:-1,US-720 : BET
+http://mains.services:2086/live/mikekoot/1757909/95477.ts
+#EXTINF:-1,US-720 : BET HER
+http://mains.services:2086/live/mikekoot/1757909/95458.ts
+#EXTINF:-1,US-720 : BIG TEN NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95502.ts
+#EXTINF:-1,US-720 : BLOOMBERG TV
+http://mains.services:2086/live/mikekoot/1757909/95390.ts
+#EXTINF:-1,US-720 : BRAVO
+http://mains.services:2086/live/mikekoot/1757909/95404.ts
+#EXTINF:-1,US-720 : C-SPAN
+http://mains.services:2086/live/mikekoot/1757909/95468.ts
+#EXTINF:-1,US-720 : C-SPAN 2
+http://mains.services:2086/live/mikekoot/1757909/95466.ts
+#EXTINF:-1,US-720 : CARTOON NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95396.ts
+#EXTINF:-1,US-720 : CBS SPORTS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95503.ts
+#EXTINF:-1,US-720 : CHEDDAR BUSINESS
+http://mains.services:2086/live/mikekoot/1757909/95375.ts
+#EXTINF:-1,US-720 : CINEMAX EAST
+http://mains.services:2086/live/mikekoot/1757909/95387.ts
+#EXTINF:-1,US-720 : CMT
+http://mains.services:2086/live/mikekoot/1757909/95485.ts
+#EXTINF:-1,US-720 : CNBC
+http://mains.services:2086/live/mikekoot/1757909/95402.ts
+#EXTINF:-1,US-720 : CNN
+http://mains.services:2086/live/mikekoot/1757909/95386.ts
+#EXTINF:-1,US-720 : CNN EAST
+http://mains.services:2086/live/mikekoot/1757909/95519.ts
+#EXTINF:-1,US-720 : COMEDY CENTRAL
+http://mains.services:2086/live/mikekoot/1757909/95483.ts
+#EXTINF:-1,US-720 : COMEDY TV
+http://mains.services:2086/live/mikekoot/1757909/95446.ts
+#EXTINF:-1,US-720 : COOKING CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95430.ts
+#EXTINF:-1,US-720 : CRIME & INVESTIGATION
+http://mains.services:2086/live/mikekoot/1757909/95508.ts
+#EXTINF:-1,US-720 : DESTINATION AMERICA
+http://mains.services:2086/live/mikekoot/1757909/95439.ts
+#EXTINF:-1,US-720 : DISCOVERY CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95463.ts
+#EXTINF:-1,US-720 : DISCOVERY FAMILY CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95470.ts
+#EXTINF:-1,US-720 : DISCOVERY LIFE
+http://mains.services:2086/live/mikekoot/1757909/95457.ts
+#EXTINF:-1,US-720 : DISNEY CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95372.ts
+#EXTINF:-1,US-720 : DISNEY JUNIOR
+http://mains.services:2086/live/mikekoot/1757909/95369.ts
+#EXTINF:-1,US-720 : DISNEY XD
+http://mains.services:2086/live/mikekoot/1757909/95371.ts
+#EXTINF:-1,US-720 : DIY NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95428.ts
+#EXTINF:-1,US-720 : E!
+http://mains.services:2086/live/mikekoot/1757909/95405.ts
+#EXTINF:-1,US-720 : EPIX
+http://mains.services:2086/live/mikekoot/1757909/95367.ts
+#EXTINF:-1,US-720 : EPIX 2
+http://mains.services:2086/live/mikekoot/1757909/95366.ts
+#EXTINF:-1,US-720 : EPIX HITS
+http://mains.services:2086/live/mikekoot/1757909/95368.ts
+#EXTINF:-1,US-720 : ESPN
+http://mains.services:2086/live/mikekoot/1757909/95389.ts
+#EXTINF:-1,US-720 : ESPN 2
+http://mains.services:2086/live/mikekoot/1757909/95391.ts
+#EXTINF:-1,US-720 : ESPN DEPORTES
+http://mains.services:2086/live/mikekoot/1757909/95493.ts
+#EXTINF:-1,US-720 : ESPN NEWS
+http://mains.services:2086/live/mikekoot/1757909/95388.ts
+#EXTINF:-1,US-720 : ESPN U
+http://mains.services:2086/live/mikekoot/1757909/95397.ts
+#EXTINF:-1,US-720 : FM FUSE MUSIC
+http://mains.services:2086/live/mikekoot/1757909/95417.ts
+#EXTINF:-1,US-720 : FOOD NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95482.ts
+#EXTINF:-1,US-720 : FOX BUSINESS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95411.ts
+#EXTINF:-1,US-720 : FOX DEPORTES
+http://mains.services:2086/live/mikekoot/1757909/95492.ts
+#EXTINF:-1,US-720 : FOX NEWS CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95413.ts
+#EXTINF:-1,US-720 : FOX SPORTS 1
+http://mains.services:2086/live/mikekoot/1757909/95422.ts
+#EXTINF:-1,US-720 : FOX SPORTS 2
+http://mains.services:2086/live/mikekoot/1757909/95400.ts
+#EXTINF:-1,US-720 : FREEFORM
+http://mains.services:2086/live/mikekoot/1757909/95373.ts
+#EXTINF:-1,US-720 : FUSE TV
+http://mains.services:2086/live/mikekoot/1757909/95464.ts
+#EXTINF:-1,US-720 : FX
+http://mains.services:2086/live/mikekoot/1757909/95489.ts
+#EXTINF:-1,US-720 : FX MOVIE CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95462.ts
+#EXTINF:-1,US-720 : FXX
+http://mains.services:2086/live/mikekoot/1757909/95423.ts
+#EXTINF:-1,US-720 : FYI
+http://mains.services:2086/live/mikekoot/1757909/95384.ts
+#EXTINF:-1,US-720 : GALAVISION
+http://mains.services:2086/live/mikekoot/1757909/95416.ts
+#EXTINF:-1,US-720 : GAME SHOW NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95441.ts
+#EXTINF:-1,US-720 : GOLF CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95412.ts
+#EXTINF:-1,US-720 : GOLTV
+http://mains.services:2086/live/mikekoot/1757909/95495.ts
+#EXTINF:-1,US-720 : GREAT AMERICAN COUNTRY
+http://mains.services:2086/live/mikekoot/1757909/95514.ts
+#EXTINF:-1,US-720 : HALLMARK CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95427.ts
+#EXTINF:-1,US-720 : HALLMARK DRAMA
+http://mains.services:2086/live/mikekoot/1757909/95506.ts
+#EXTINF:-1,US-720 : HALLMARK MOVIES & MYSTERIES
+http://mains.services:2086/live/mikekoot/1757909/95429.ts
+#EXTINF:-1,US-720 : HBO 2 EAST
+http://mains.services:2086/live/mikekoot/1757909/95505.ts
+#EXTINF:-1,US-720 : HBO EAST
+http://mains.services:2086/live/mikekoot/1757909/95418.ts
+#EXTINF:-1,US-720 : HBO FAMILY EAST
+http://mains.services:2086/live/mikekoot/1757909/95420.ts
+#EXTINF:-1,US-720 : HBO LATINO
+http://mains.services:2086/live/mikekoot/1757909/95419.ts
+#EXTINF:-1,US-720 : HDNET MOVIES
+http://mains.services:2086/live/mikekoot/1757909/95512.ts
+#EXTINF:-1,US-720 : HGTV
+http://mains.services:2086/live/mikekoot/1757909/95479.ts
+#EXTINF:-1,US-720 : HISTORY
+http://mains.services:2086/live/mikekoot/1757909/95383.ts
+#EXTINF:-1,US-720 : HISTORY EN ESPANOL
+http://mains.services:2086/live/mikekoot/1757909/95494.ts
+#EXTINF:-1,US-720 : HLN
+http://mains.services:2086/live/mikekoot/1757909/95395.ts
+#EXTINF:-1,US-720 : HOME SHOPPING NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95517.ts
+#EXTINF:-1,US-720 : IFC
+http://mains.services:2086/live/mikekoot/1757909/95385.ts
+#EXTINF:-1,US-720 : INVESTIGATION DISCOVERY
+http://mains.services:2086/live/mikekoot/1757909/95471.ts
+#EXTINF:-1,US-720 : JUSTICE CENTRAL
+http://mains.services:2086/live/mikekoot/1757909/95442.ts
+#EXTINF:-1,US-720 : LIFETIME
+http://mains.services:2086/live/mikekoot/1757909/95382.ts
+#EXTINF:-1,US-720 : LIFETIME MOVIE NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95379.ts
+#EXTINF:-1,US-720 : LOGO TV
+http://mains.services:2086/live/mikekoot/1757909/95365.ts
+#EXTINF:-1,US-720 : MLB NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95447.ts
+#EXTINF:-1,US-720 : MOTORTREND
+http://mains.services:2086/live/mikekoot/1757909/95454.ts
+#EXTINF:-1,US-720 : MSNBC
+http://mains.services:2086/live/mikekoot/1757909/95410.ts
+#EXTINF:-1,US-720 : MTV
+http://mains.services:2086/live/mikekoot/1757909/95484.ts
+#EXTINF:-1,US-720 : MTV 2
+http://mains.services:2086/live/mikekoot/1757909/95394.ts
+#EXTINF:-1,US-720 : MTV LIVE
+http://mains.services:2086/live/mikekoot/1757909/95511.ts
+#EXTINF:-1,US-720 : NAT GEO WILD
+http://mains.services:2086/live/mikekoot/1757909/95443.ts
+#EXTINF:-1,US-720 : NATIONAL GEOGRAPHIC CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95408.ts
+#EXTINF:-1,US-720 : NBA TV
+http://mains.services:2086/live/mikekoot/1757909/95440.ts
+#EXTINF:-1,US-720 : NBC SPORTS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95403.ts
+#EXTINF:-1,US-720 : NBC UNIVERSO
+http://mains.services:2086/live/mikekoot/1757909/95414.ts
+#EXTINF:-1,US-720 : NHL NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95437.ts
+#EXTINF:-1,US-720 : NICK JR
+http://mains.services:2086/live/mikekoot/1757909/95475.ts
+#EXTINF:-1,US-720 : NICKELODEON EAST
+http://mains.services:2086/live/mikekoot/1757909/95481.ts
+#EXTINF:-1,US-720 : NICKTOONS
+http://mains.services:2086/live/mikekoot/1757909/95445.ts
+#EXTINF:-1,US-720 : OLYMPIC CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95473.ts
+#EXTINF:-1,US-720 : ONE AMERICAN NEWS NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95486.ts
+#EXTINF:-1,US-720 : OVATION
+http://mains.services:2086/live/mikekoot/1757909/95496.ts
+#EXTINF:-1,US-720 : OWN
+http://mains.services:2086/live/mikekoot/1757909/95451.ts
+#EXTINF:-1,US-720 : OXYGEN
+http://mains.services:2086/live/mikekoot/1757909/95415.ts
+#EXTINF:-1,US-720 : PARAMOUNT NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95476.ts
+#EXTINF:-1,US-720 : POP
+http://mains.services:2086/live/mikekoot/1757909/95500.ts
+#EXTINF:-1,US-720 : QVC
+http://mains.services:2086/live/mikekoot/1757909/95516.ts
+#EXTINF:-1,US-720 : QVC 2
+http://mains.services:2086/live/mikekoot/1757909/95515.ts
+#EXTINF:-1,US-720 : REELZ CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95501.ts
+#EXTINF:-1,US-720 : REVOLT
+http://mains.services:2086/live/mikekoot/1757909/95444.ts
+#EXTINF:-1,US-720 : RFD-TV
+http://mains.services:2086/live/mikekoot/1757909/95453.ts
+#EXTINF:-1,US-720 : SCIENCE
+http://mains.services:2086/live/mikekoot/1757909/95461.ts
+#EXTINF:-1,US-720 : SEC NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95424.ts
+#EXTINF:-1,US-720 : SHORTS TV
+http://mains.services:2086/live/mikekoot/1757909/95509.ts
+#EXTINF:-1,US-720 : SHOWTIME 2
+http://mains.services:2086/live/mikekoot/1757909/95491.ts
+#EXTINF:-1,US-720 : SHOWTIME EAST
+http://mains.services:2086/live/mikekoot/1757909/95432.ts
+#EXTINF:-1,US-720 : SHOWTIME EXTREME
+http://mains.services:2086/live/mikekoot/1757909/95490.ts
+#EXTINF:-1,US-720 : SMITHSONIAN CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95510.ts
+#EXTINF:-1,US-720 : SPORTSMAN CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95499.ts
+#EXTINF:-1,US-720 : STARZ EAST
+http://mains.services:2086/live/mikekoot/1757909/95401.ts
+#EXTINF:-1,US-720 : STARZ ENCORE ACTION
+http://mains.services:2086/live/mikekoot/1757909/95434.ts
+#EXTINF:-1,US-720 : STARZ ENCORE BLACK
+http://mains.services:2086/live/mikekoot/1757909/95450.ts
+#EXTINF:-1,US-720 : STARZ ENCORE CLASSIC
+http://mains.services:2086/live/mikekoot/1757909/95449.ts
+#EXTINF:-1,US-720 : STARZ ENCORE EAST
+http://mains.services:2086/live/mikekoot/1757909/95406.ts
+#EXTINF:-1,US-720 : STARZ ENCORE FAMILY
+http://mains.services:2086/live/mikekoot/1757909/95455.ts
+#EXTINF:-1,US-720 : STARZ ENCORE SUSPENSE
+http://mains.services:2086/live/mikekoot/1757909/95456.ts
+#EXTINF:-1,US-720 : STARZ ENCORE WEST
+http://mains.services:2086/live/mikekoot/1757909/95459.ts
+#EXTINF:-1,US-720 : STARZ ENCORE WESTERNS
+http://mains.services:2086/live/mikekoot/1757909/95452.ts
+#EXTINF:-1,US-720 : STARZ KIDS & FAMILY
+http://mains.services:2086/live/mikekoot/1757909/95421.ts
+#EXTINF:-1,US-720 : SUNDANCE TV
+http://mains.services:2086/live/mikekoot/1757909/95378.ts
+#EXTINF:-1,US-720 : SYFY
+http://mains.services:2086/live/mikekoot/1757909/95407.ts
+#EXTINF:-1,US-720 : TASTEMADE
+http://mains.services:2086/live/mikekoot/1757909/95520.ts
+#EXTINF:-1,US-720 : TBS
+http://mains.services:2086/live/mikekoot/1757909/95398.ts
+#EXTINF:-1,US-720 : TEEN NICK
+http://mains.services:2086/live/mikekoot/1757909/95433.ts
+#EXTINF:-1,US-720 : TENNIS CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95435.ts
+#EXTINF:-1,US-720 : THE WEATHER CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95436.ts
+#EXTINF:-1,US-720 : TLC
+http://mains.services:2086/live/mikekoot/1757909/95465.ts
+#EXTINF:-1,US-720 : TNT
+http://mains.services:2086/live/mikekoot/1757909/95393.ts
+#EXTINF:-1,US-720 : TRAVEL CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/95474.ts
+#EXTINF:-1,US-720 : TRU TV
+http://mains.services:2086/live/mikekoot/1757909/95425.ts
+#EXTINF:-1,US-720 : TUDN
+http://mains.services:2086/live/mikekoot/1757909/95467.ts
+#EXTINF:-1,US-720 : TURNER CLASSIC MOVIES
+http://mains.services:2086/live/mikekoot/1757909/95392.ts
+#EXTINF:-1,US-720 : TV LAND
+http://mains.services:2086/live/mikekoot/1757909/95480.ts
+#EXTINF:-1,US-720 : TV ONE
+http://mains.services:2086/live/mikekoot/1757909/95374.ts
+#EXTINF:-1,US-720 : TVG
+http://mains.services:2086/live/mikekoot/1757909/95438.ts
+#EXTINF:-1,US-720 : UNIVERSAL KIDS
+http://mains.services:2086/live/mikekoot/1757909/95431.ts
+#EXTINF:-1,US-720 : UNIVISION EAST
+http://mains.services:2086/live/mikekoot/1757909/95370.ts
+#EXTINF:-1,US-720 : UP
+http://mains.services:2086/live/mikekoot/1757909/95497.ts
+#EXTINF:-1,US-720 : USA NETWORK
+http://mains.services:2086/live/mikekoot/1757909/95409.ts
+#EXTINF:-1,US-720 : VH1
+http://mains.services:2086/live/mikekoot/1757909/95478.ts
+#EXTINF:-1,US-720 : VICE
+http://mains.services:2086/live/mikekoot/1757909/95381.ts
+#EXTINF:-1,US-720 : WE TV
+http://mains.services:2086/live/mikekoot/1757909/95380.ts
+#EXTINF:-1,NBC (KAIT) Jonesboro arkansas
+http://mains.services:2086/live/mikekoot/1757909/96828.ts
+#EXTINF:-1,NBC (KALB) Alexandria Louisiana
+http://mains.services:2086/live/mikekoot/1757909/96829.ts
+#EXTINF:-1,NBC (KAMR) Amarillo Texas
+http://mains.services:2086/live/mikekoot/1757909/96830.ts
+#EXTINF:-1,NBC (KARE - Minneapolis MI)
+http://mains.services:2086/live/mikekoot/1757909/90411.ts
+#EXTINF:-1,NBC (KARK) Little Rock Arkansas
+http://mains.services:2086/live/mikekoot/1757909/96831.ts
+#EXTINF:-1,NBC (KBJR) Superior Wisconsin
+http://mains.services:2086/live/mikekoot/1757909/96832.ts
+#EXTINF:-1,NBC (KBMT) Beaumont Texas
+http://mains.services:2086/live/mikekoot/1757909/96833.ts
+#EXTINF:-1,NBC (KCBD) Lubbock Texas
+http://mains.services:2086/live/mikekoot/1757909/96834.ts
+#EXTINF:-1,NBC (KCEN) Temple Texas
+http://mains.services:2086/live/mikekoot/1757909/96835.ts
+#EXTINF:-1,NBC (KCHY) Cheyenne Wyoming
+http://mains.services:2086/live/mikekoot/1757909/96836.ts
+#EXTINF:-1,NBC (KCRA California Sacramento)
+http://mains.services:2086/live/mikekoot/1757909/90656.ts
+#EXTINF:-1,NBC (KCWY) Casper Wyoming
+http://mains.services:2086/live/mikekoot/1757909/96837.ts
+#EXTINF:-1,NBC (KDLT) Sioux Falls South Dakota
+http://mains.services:2086/live/mikekoot/1757909/96838.ts
+#EXTINF:-1,NBC (KECI) Missoula Montana
+http://mains.services:2086/live/mikekoot/1757909/96839.ts
+#EXTINF:-1,NBC (KETK) Jacksonville Texas
+http://mains.services:2086/live/mikekoot/1757909/96840.ts
+#EXTINF:-1,NBC (KFOR) Oklahoma City Oklahoma
+http://mains.services:2086/live/mikekoot/1757909/96841.ts
+#EXTINF:-1,NBC (KFYR) Bismarck
+http://mains.services:2086/live/mikekoot/1757909/101288.ts
+#EXTINF:-1,NBC (KGET) Bakersfield California
+http://mains.services:2086/live/mikekoot/1757909/96842.ts
+#EXTINF:-1,NBC (KGNS) Laredo Texas
+http://mains.services:2086/live/mikekoot/1757909/96843.ts
+#EXTINF:-1,NBC (KGW) Portland Oregon
+http://mains.services:2086/live/mikekoot/1757909/96844.ts
+#EXTINF:-1,NBC (KHNL Honolulu Hi)
+http://mains.services:2086/live/mikekoot/1757909/90848.ts
+#EXTINF:-1,NBC (KING - Seattle WA)
+http://mains.services:2086/live/mikekoot/1757909/90412.ts
+#EXTINF:-1,NBC (KJRH) Tulsa Oklahoma
+http://mains.services:2086/live/mikekoot/1757909/96845.ts
+#EXTINF:-1,NBC (KKCO) Grand Junction Colorado
+http://mains.services:2086/live/mikekoot/1757909/96846.ts
+#EXTINF:-1,NBC (KLAF) Lafayette Louisiana
+http://mains.services:2086/live/mikekoot/1757909/96847.ts
+#EXTINF:-1,NBC (KMTR) Eugene Oregon
+http://mains.services:2086/live/mikekoot/1757909/96848.ts
+#EXTINF:-1,NBC (KNBC - Los Angeles CA)
+http://mains.services:2086/live/mikekoot/1757909/90413.ts
+#EXTINF:-1,NBC (KNDO) Yakima Washington
+http://mains.services:2086/live/mikekoot/1757909/96849.ts
+#EXTINF:-1,NBC (KNSD- San Diego CA)
+http://mains.services:2086/live/mikekoot/1757909/90118.ts
+#EXTINF:-1,NBC (KNTV- San Francisco CA) 
+http://mains.services:2086/live/mikekoot/1757909/90122.ts
+#EXTINF:-1,NBC (KNVN) Chico California
+http://mains.services:2086/live/mikekoot/1757909/96850.ts
+#EXTINF:-1,NBC (KOAA) Pueblo Colorado
+http://mains.services:2086/live/mikekoot/1757909/96851.ts
+#EXTINF:-1,NBC (KOB Albuquerque NM)
+http://mains.services:2086/live/mikekoot/1757909/90638.ts
+#EXTINF:-1,NBC (KOBI) Medford Oregon
+http://mains.services:2086/live/mikekoot/1757909/96852.ts
+#EXTINF:-1,NBC (KPLC) Lake Charles Louisiana
+http://mains.services:2086/live/mikekoot/1757909/96853.ts
+#EXTINF:-1,NBC (KPNX - Phoenix AZ)
+http://mains.services:2086/live/mikekoot/1757909/90414.ts
+#EXTINF:-1,NBC (KPRC - Houston TX)
+http://mains.services:2086/live/mikekoot/1757909/90415.ts
+#EXTINF:-1,NBC (KRBC) Abliene Texas
+http://mains.services:2086/live/mikekoot/1757909/96854.ts
+#EXTINF:-1,NBC (KRNV) Reno Nevada
+http://mains.services:2086/live/mikekoot/1757909/96855.ts
+#EXTINF:-1,NBC (KSBW) Salinas California
+http://mains.services:2086/live/mikekoot/1757909/96856.ts
+#EXTINF:-1,NBC (KSBY) San Luis Obispo California
+http://mains.services:2086/live/mikekoot/1757909/96857.ts
+#EXTINF:-1,NBC (KSDK - St. Louis MO)
+http://mains.services:2086/live/mikekoot/1757909/90416.ts
+#EXTINF:-1,NBC (KSEE) Fresno California
+http://mains.services:2086/live/mikekoot/1757909/96858.ts
+#EXTINF:-1,NBC (KSHB- Kansas City MO)
+http://mains.services:2086/live/mikekoot/1757909/90281.ts
+#EXTINF:-1,NBC (KSL) Salt Lake City Utah
+http://mains.services:2086/live/mikekoot/1757909/96859.ts
+#EXTINF:-1,NBC (KSNB) Superior Nebraska
+http://mains.services:2086/live/mikekoot/1757909/96860.ts
+#EXTINF:-1,NBC (KSNT) Topeka Kansas
+http://mains.services:2086/live/mikekoot/1757909/96861.ts
+#EXTINF:-1,NBC (KSNV - Las Vegas NV)
+http://mains.services:2086/live/mikekoot/1757909/90417.ts
+#EXTINF:-1,NBC (KTAL) Texarkana Louisiana
+http://mains.services:2086/live/mikekoot/1757909/96862.ts
+#EXTINF:-1,NBC (KTFT) Twin Falls Idaho
+http://mains.services:2086/live/mikekoot/1757909/96863.ts
+#EXTINF:-1,NBC (KTGF) Great Falls Montana
+http://mains.services:2086/live/mikekoot/1757909/96864.ts
+#EXTINF:-1,NBC (KTIV) Sioux City Iowa
+http://mains.services:2086/live/mikekoot/1757909/96865.ts
+#EXTINF:-1,NBC (KTSM) El Paso Texas
+http://mains.services:2086/live/mikekoot/1757909/96866.ts
+#EXTINF:-1,NBC (KTTC) Rochester Minnesota
+http://mains.services:2086/live/mikekoot/1757909/96867.ts
+#EXTINF:-1,NBC (KTUU) Anchorage Alaska
+http://mains.services:2086/live/mikekoot/1757909/96868.ts
+#EXTINF:-1,NBC (KTVB) Boise Idaho
+http://mains.services:2086/live/mikekoot/1757909/96869.ts
+#EXTINF:-1,NBC (KTVF) Fairbanks Alaska
+http://mains.services:2086/live/mikekoot/1757909/96870.ts
+#EXTINF:-1,NBC (KTVH) Helena Montana
+http://mains.services:2086/live/mikekoot/1757909/96871.ts
+#EXTINF:-1,NBC (KTVM) Butte Montana
+http://mains.services:2086/live/mikekoot/1757909/96872.ts
+#EXTINF:-1,NBC (KULR) Billings Montana
+http://mains.services:2086/live/mikekoot/1757909/96873.ts
+#EXTINF:-1,NBC (KUSA - Denver CO)
+http://mains.services:2086/live/mikekoot/1757909/90418.ts
+#EXTINF:-1,NBC (KVEO) Brownsville Texas
+http://mains.services:2086/live/mikekoot/1757909/96874.ts
+#EXTINF:-1,NBC (KVOA) Tucson Arizona
+http://mains.services:2086/live/mikekoot/1757909/96875.ts
+#EXTINF:-1,NBC (KWES) Odessa Texas
+http://mains.services:2086/live/mikekoot/1757909/96876.ts
+#EXTINF:-1,NBC (KWQC) Savanna
+http://mains.services:2086/live/mikekoot/1757909/101289.ts
+#EXTINF:-1,NBC (KWWL) Waterloo Iowa
+http://mains.services:2086/live/mikekoot/1757909/96877.ts
+#EXTINF:-1,NBC (KXAN) Austin Texas
+http://mains.services:2086/live/mikekoot/1757909/96878.ts
+#EXTINF:-1,NBC (KXAS - Fort Worth TX)
+http://mains.services:2086/live/mikekoot/1757909/90419.ts
+#EXTINF:-1,NBC (KYTV) Springfield Missouri
+http://mains.services:2086/live/mikekoot/1757909/96879.ts
+#EXTINF:-1,NBC (WAFF - Huntsville AL)
+http://mains.services:2086/live/mikekoot/1757909/90420.ts
+#EXTINF:-1,NBC (WALB) Albany Georgia
+http://mains.services:2086/live/mikekoot/1757909/96880.ts
+#EXTINF:-1,NBC (WAND) Decatur Illinois
+http://mains.services:2086/live/mikekoot/1757909/96881.ts
+#EXTINF:-1,NBC (WAVE) Louisville Kentucky
+http://mains.services:2086/live/mikekoot/1757909/96882.ts
+#EXTINF:-1,NBC (WAVY) Portsmouth Virginia
+http://mains.services:2086/live/mikekoot/1757909/96883.ts
+#EXTINF:-1,NBC (WBAL - Baltimore MD)
+http://mains.services:2086/live/mikekoot/1757909/90421.ts
+#EXTINF:-1,NBC (WBBH) Fort Myers Florida
+http://mains.services:2086/live/mikekoot/1757909/96884.ts
+#EXTINF:-1,NBC (WBGH) Binghamton New York
+http://mains.services:2086/live/mikekoot/1757909/96885.ts
+#EXTINF:-1,NBC (WBIR) Knoxville Tennessee
+http://mains.services:2086/live/mikekoot/1757909/96886.ts
+#EXTINF:-1,NBC (WBOY) Clarksburg West Virginia
+http://mains.services:2086/live/mikekoot/1757909/96887.ts
+#EXTINF:-1,NBC (WBRE) Wilkes Barre Pennsylvania
+http://mains.services:2086/live/mikekoot/1757909/96888.ts
+#EXTINF:-1,NBC (WBTS - Boston MA)
+http://mains.services:2086/live/mikekoot/1757909/90422.ts
+#EXTINF:-1,NBC (WCAU - Philadelphia PA)
+http://mains.services:2086/live/mikekoot/1757909/90423.ts
+#EXTINF:-1,NBC (WCBD-Charleston SC)
+http://mains.services:2086/live/mikekoot/1757909/90266.ts
+#EXTINF:-1,NBC (WCMH) Columbus
+http://mains.services:2086/live/mikekoot/1757909/101287.ts
+#EXTINF:-1,NBC (WCNC - Charlotte NC)
+http://mains.services:2086/live/mikekoot/1757909/90424.ts
+#EXTINF:-1,NBC (WCSH) Portland Maine
+http://mains.services:2086/live/mikekoot/1757909/96889.ts
+#EXTINF:-1,NBC (WDAM) Laurel Mississippi
+http://mains.services:2086/live/mikekoot/1757909/96890.ts
+#EXTINF:-1,NBC (WDIV - Detroit MI)
+http://mains.services:2086/live/mikekoot/1757909/90425.ts
+#EXTINF:-1,NBC (WDSU - New Orleans LA)
+http://mains.services:2086/live/mikekoot/1757909/90426.ts
+#EXTINF:-1,NBC (WDTN - Dayton OH)
+http://mains.services:2086/live/mikekoot/1757909/90276.ts
+#EXTINF:-1,NBC (WEAU) Eau Claire, Wisconsin
+http://mains.services:2086/live/mikekoot/1757909/96891.ts
+#EXTINF:-1,NBC (WECT) Wilmington North Carolina
+http://mains.services:2086/live/mikekoot/1757909/96892.ts
+#EXTINF:-1,NBC (WEEK) Peoria Illinois
+http://mains.services:2086/live/mikekoot/1757909/96893.ts
+#EXTINF:-1,NBC (WESH) Daytona Beach Florida
+http://mains.services:2086/live/mikekoot/1757909/96894.ts
+#EXTINF:-1,NBC (WETM) Elmira, New York
+http://mains.services:2086/live/mikekoot/1757909/96895.ts
+#EXTINF:-1,NBC (WEYI) Saginaw Michigan
+http://mains.services:2086/live/mikekoot/1757909/96896.ts
+#EXTINF:-1,NBC (WFLA) Tampa Florida
+http://mains.services:2086/live/mikekoot/1757909/96897.ts
+#EXTINF:-1,NBC (WFMJ) Youngstown Ohio
+http://mains.services:2086/live/mikekoot/1757909/96898.ts
+#EXTINF:-1,NBC (WGAL) Lancaster Pennsylvania
+http://mains.services:2086/live/mikekoot/1757909/96899.ts
+#EXTINF:-1,NBC (WGBA) Green Bay Wisconsin
+http://mains.services:2086/live/mikekoot/1757909/96900.ts
+#EXTINF:-1,NBC (WGEM) Quincy Illinois
+http://mains.services:2086/live/mikekoot/1757909/96901.ts
+#EXTINF:-1,NBC (WGRZ - Buffalo NY)
+http://mains.services:2086/live/mikekoot/1757909/90669.ts
+#EXTINF:-1,NBC (WHEC) Rochester New York
+http://mains.services:2086/live/mikekoot/1757909/96902.ts
+#EXTINF:-1,NBC (WHO-Des Moines/Ames IA)
+http://mains.services:2086/live/mikekoot/1757909/90280.ts
+#EXTINF:-1,NBC (WILX) Onondaga Michigan
+http://mains.services:2086/live/mikekoot/1757909/96903.ts
+#EXTINF:-1,NBC (WIS) Columbia South Carolina
+http://mains.services:2086/live/mikekoot/1757909/96904.ts
+#EXTINF:-1,NBC (WITN) Washington North Carolina
+http://mains.services:2086/live/mikekoot/1757909/96905.ts
+#EXTINF:-1,NBC (WJAC) Johnstown Pennsylvania
+http://mains.services:2086/live/mikekoot/1757909/96906.ts
+#EXTINF:-1,NBC (WJAR) Providence Rhode Island
+http://mains.services:2086/live/mikekoot/1757909/96907.ts
+#EXTINF:-1,NBC (WJHG) Panama City Florida
+http://mains.services:2086/live/mikekoot/1757909/96908.ts
+#EXTINF:-1,NBC (WKYC Cleveland )
+http://mains.services:2086/live/mikekoot/1757909/91061.ts
+#EXTINF:-1,NBC (WLBT) Jackson Mississippi
+http://mains.services:2086/live/mikekoot/1757909/96909.ts
+#EXTINF:-1,NBC (WLBZ) Bangor Maine
+http://mains.services:2086/live/mikekoot/1757909/96910.ts
+#EXTINF:-1,NBC (WLEX-Lexington KY)
+http://mains.services:2086/live/mikekoot/1757909/90272.ts
+#EXTINF:-1,NBC (WLTZ) Columbus Georgia
+http://mains.services:2086/live/mikekoot/1757909/96911.ts
+#EXTINF:-1,NBC (WLUC) Marquette Michigan
+http://mains.services:2086/live/mikekoot/1757909/96912.ts
+#EXTINF:-1,NBC (WLWT - Cincinnati OH)
+http://mains.services:2086/live/mikekoot/1757909/90427.ts
+#EXTINF:-1,NBC (WMAQ - Chicago IL)
+http://mains.services:2086/live/mikekoot/1757909/90428.ts
+#EXTINF:-1,NBC (WMBF) Myrtle Beach South Carolina
+http://mains.services:2086/live/mikekoot/1757909/96913.ts
+#EXTINF:-1,NBC (WMC) Memphis Tennessee
+http://mains.services:2086/live/mikekoot/1757909/96914.ts
+#EXTINF:-1,NBC (WMGT) Macon Georgia
+http://mains.services:2086/live/mikekoot/1757909/96915.ts
+#EXTINF:-1,NBC (WMTV-Madison WI)
+http://mains.services:2086/live/mikekoot/1757909/90273.ts
+#EXTINF:-1,NBC (WNBC - New York NY)
+http://mains.services:2086/live/mikekoot/1757909/90429.ts
+#EXTINF:-1,NBC (WNBW) Gainesville Florida
+http://mains.services:2086/live/mikekoot/1757909/96916.ts
+#EXTINF:-1,NBC (WNDU) South Bend Indiana
+http://mains.services:2086/live/mikekoot/1757909/96917.ts
+#EXTINF:-1,NBC (WNWO) Toledo Ohio
+http://mains.services:2086/live/mikekoot/1757909/96918.ts
+#EXTINF:-1,NBC (WNYT) Albany New York
+http://mains.services:2086/live/mikekoot/1757909/96919.ts
+#EXTINF:-1,NBC (WOAI San Antonio TX)
+http://mains.services:2086/live/mikekoot/1757909/90640.ts
+#EXTINF:-1,NBC (WOOD) Grand Rapids Michigan
+http://mains.services:2086/live/mikekoot/1757909/96920.ts
+#EXTINF:-1,NBC (WOWT) Omaha Nebraska
+http://mains.services:2086/live/mikekoot/1757909/96921.ts
+#EXTINF:-1,NBC (WPBN) Traverse City Michigan
+http://mains.services:2086/live/mikekoot/1757909/96922.ts
+#EXTINF:-1,NBC (WPMI) Mobile Alabama
+http://mains.services:2086/live/mikekoot/1757909/96923.ts
+#EXTINF:-1,NBC (WPTA) Fort Wayne Indiana
+http://mains.services:2086/live/mikekoot/1757909/96924.ts
+#EXTINF:-1,NBC (WPTV) West Palm Beach Florida
+http://mains.services:2086/live/mikekoot/1757909/96925.ts
+#EXTINF:-1,NBC (WPTZ) Plattsburgh New York
+http://mains.services:2086/live/mikekoot/1757909/96926.ts
+#EXTINF:-1,NBC (WPXI - Pittsburgh PA)
+http://mains.services:2086/live/mikekoot/1757909/90430.ts
+#EXTINF:-1,NBC (WRAL) Raleigh North Carolina
+http://mains.services:2086/live/mikekoot/1757909/96927.ts
+#EXTINF:-1,NBC (WRC - Washington DC)
+http://mains.services:2086/live/mikekoot/1757909/90431.ts
+#EXTINF:-1,NBC (WRCB) Chattanooga Tennessee
+http://mains.services:2086/live/mikekoot/1757909/96928.ts
+#EXTINF:-1,NBC (WREX) Rockford Illinois
+http://mains.services:2086/live/mikekoot/1757909/96929.ts
+#EXTINF:-1,NBC (WRGX) Dothan Alabama
+http://mains.services:2086/live/mikekoot/1757909/96930.ts
+#EXTINF:-1,NBC (WSAZ) Huntington West Virginia
+http://mains.services:2086/live/mikekoot/1757909/96931.ts
+#EXTINF:-1,NBC (WSFA- Montgomery/Selma AL)
+http://mains.services:2086/live/mikekoot/1757909/90269.ts
+#EXTINF:-1,NBC (WSLS) Roanoke Virginia
+http://mains.services:2086/live/mikekoot/1757909/96932.ts
+#EXTINF:-1,NBC (WSMV - Nashville TN)
+http://mains.services:2086/live/mikekoot/1757909/90432.ts
+#EXTINF:-1,NBC (WSMV) Nashville Tennessee
+http://mains.services:2086/live/mikekoot/1757909/96933.ts
+#EXTINF:-1,NBC (WSTM) Syracuse
+http://mains.services:2086/live/mikekoot/1757909/101286.ts
+#EXTINF:-1,NBC (WTHR - Indianapolis IN)
+http://mains.services:2086/live/mikekoot/1757909/90433.ts
+#EXTINF:-1,NBC (WTLV-Jacksonville FL)
+http://mains.services:2086/live/mikekoot/1757909/90268.ts
+#EXTINF:-1,NBC (WTMJ) Milwaukee Wisconsin
+http://mains.services:2086/live/mikekoot/1757909/96934.ts
+#EXTINF:-1,NBC (WTOV) Steubenville Ohio
+http://mains.services:2086/live/mikekoot/1757909/96935.ts
+#EXTINF:-1,NBC (WTVA - Tupelo MI)
+http://mains.services:2086/live/mikekoot/1757909/101095.ts
+#EXTINF:-1,NBC (WTVJ - Miami FL)
+http://mains.services:2086/live/mikekoot/1757909/90434.ts
+#EXTINF:-1,NBC (WTWC) Tallahassee
+http://mains.services:2086/live/mikekoot/1757909/101285.ts
+#EXTINF:-1,NBC (WTWO) Terre Haute Indiana
+http://mains.services:2086/live/mikekoot/1757909/96936.ts
+#EXTINF:-1,NBC (WUVP) Vineland New Jersey
+http://mains.services:2086/live/mikekoot/1757909/96937.ts
+#EXTINF:-1,NBC (WVIR) Charlottesville Virginia
+http://mains.services:2086/live/mikekoot/1757909/96938.ts
+#EXTINF:-1,NBC (WVIT- New Britain CT)
+http://mains.services:2086/live/mikekoot/1757909/90119.ts
+#EXTINF:-1,NBC (WVLA) Baton Rouge Louisiana
+http://mains.services:2086/live/mikekoot/1757909/96939.ts
+#EXTINF:-1,NBC (WVTM) Birmingham Alabama
+http://mains.services:2086/live/mikekoot/1757909/96940.ts
+#EXTINF:-1,NBC (WWBT- Richmond/Petersburg VA)
+http://mains.services:2086/live/mikekoot/1757909/90264.ts
+#EXTINF:-1,NBC (WWLP) Springfield Massachusetts
+http://mains.services:2086/live/mikekoot/1757909/96941.ts
+#EXTINF:-1,NBC (WXIA - Atlanta GA)
+http://mains.services:2086/live/mikekoot/1757909/90435.ts
+#EXTINF:-1,NBC (WXII) Winston Salem North Carolina
+http://mains.services:2086/live/mikekoot/1757909/96942.ts
+#EXTINF:-1,NBC (WXXV) Gulfport Mississippi
+http://mains.services:2086/live/mikekoot/1757909/96943.ts
+#EXTINF:-1,NBC (WYFF - Greenville SC)
+http://mains.services:2086/live/mikekoot/1757909/90666.ts
