@@ -53,6 +53,10 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-name="Best Cable Sports Perú" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 tvg-id="BTSports1.uk" tvg-name="BT Sports 1" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Sports",BT Sports 1
+http://116.202.245.40:9191/play/a03p
+#EXTINF:-1 tvg-id="BTSports2.uk" tvg-name="BT Sports 2" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Sports",BT Sports 2
+http://116.202.245.40:9191/play/a002
 #EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="NO" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" group-title="Sports",Canal Motor (720p)
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CaptitalOTBBetting.us" tvg-name="Captital OTB Betting" tvg-country="US" tvg-language="English" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="Sports",Captital OTB Betting (720p)
@@ -63,6 +67,8 @@ http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 #EXTINF:-1 tvg-id="ChoppertownSTIRR.us" tvg-name="Choppertown (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Sports",Choppertown (STIRR) (720p)
 https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="Claro Sports" tvg-country="LATAM" tvg-language="" tvg-logo="" group-title="Sports",Claro Sports
+http://209.91.213.10:8088/play/a024
 #EXTINF:-1 tvg-id="CombatGo.us" tvg-name="Combat Go" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Sports",Combat Go (1080p)
 https://stream-us-east-1.getpublica.com/cl/59f740a5-3c7b-47bf-a845-27df203f8b2e/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-id="CycleWorld.us" tvg-name="Cycle World" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RZE3Pwf.png" group-title="Sports",Cycle World
@@ -85,10 +91,18 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
 #EXTINF:-1 tvg-id="ElevenSports.uk" tvg-name="Eleven Sports" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sports",Eleven Sports (720p)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN (720p)
-http://164.68.124.111/fs2.m3u8
+#EXTINF:-1 tvg-id="ElevenSports1.uk" tvg-name="Eleven Sports 1" tvg-country="UK" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sports",Eleven Sports 1 (Portugal) (1080p)
+http://185.236.229.21:9981/play/a05v
+#EXTINF:-1 tvg-id="ElevenSports4.uk" tvg-name="Eleven Sports 4" tvg-country="UK" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sports",Eleven Sports 4 (Portugal) (1080p)
+http://185.236.229.21:9981/play/a05x
+#EXTINF:-1 tvg-id="ElevenSports5.uk" tvg-name="Eleven Sports 5" tvg-country="UK" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sports",Eleven Sports 5 (Portugal) (1080p)
+http://185.236.229.21:9981/play/a05y
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MDUgQU0maGFzaF92YWx1ZT02dkk5bitvVHJveEQ4eHFjNE5qYWdnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2 (720p)
 http://164.68.124.111/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN U (720p)
 http://164.68.124.111/espnu.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Sports",Esport3 (1080p)
@@ -303,13 +317,11 @@ https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/T2Opptd.jpg" group-title="Sports",Sports Grid
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="Sports Grid" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/T2Opptd.jpg" group-title="Sports",Sports Grid
-https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportsgrid.us" tvg-name="SportsGrid" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/T2Opptd.jpg" group-title="Sports",Sports Grid
 https://sportsgrid-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="Sports",Sports TV Plus (1080p)
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7gC2ip9.png" group-title="Sports",SportsGrid (1080p)
-https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/07072020/SportsGrid_190x190.png?raw=true" group-title="Sports",SportsGrid
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGridNetwork.us" tvg-name="SportsGrid Network" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SportsGrid_512x512.png?raw=true" group-title="Sports",SportsGrid Network (1080p)
@@ -327,7 +339,7 @@ https://live.serverside.ai/hls/0f7f0c30-e13d-41b6-9e15-9a9de7ef979f/master.m3u8?
 #EXTINF:-1 tvg-id="STTVFuelTV.us" tvg-name="ST-TV | Fuel TV" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMzFf/FuelTV_720x720.png" group-title="Sports",ST-TV | Fuel TV (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=516&avod=1&coppa=0&is_lat=0&us_privacy=1---&did=c764d0d40aaeeed6a62d38b638d34475&app_bundle=com.fueltv.ott&app_store_url=http://www.ottera.tv&app_domain=fuel.tv&app_name=fuel&custom_targeting=html5&custom_4=sportstribal&h=720&w=1280&content_channel=fuel&content_dist_name=sportstribal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&custom_6=1&custom_8=Fuel%20TV
 #EXTINF:-1 tvg-id="STTVHardKnocks.us" tvg-name="ST-TV | Hard Knocks" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjRf/HardKnocks_490x490.png" group-title="Sports",ST-TV | Hard Knocks (1080p)
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8?ads.channel_partner=Hard+Knocks&ads.channel_name=Hard+Knocks&ads.content_genre=MMA&gdpr=1&mute=false&ads.user_consent=&vid=1a906a22_20210305163348_D0CF72b&content_id=1a906a22_20210305163348_D0CF72b&ads.ip=194.35.233.10&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.150+Safari%2F537.36+OPR%2F74.0.3911.160&t=2021-03-05T16%3A33%3A48.000
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 #EXTINF:-1 tvg-id="STTVLaxSportsNetwork.us" tvg-name="ST-TV | Lax Sports Network" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjZf/LSN_720x720.png" group-title="Sports",ST-TV | Lax Sports Network (720p)
 https://live.serverside.ai/hls/4a34ba0f-2ffd-47cf-9f8d-5e91ede78e5a/master.m3u8?channel_partner=Lacrosse+Channel&channel_name=Lacrosse+Channel&content_genre=Lacrosse&api-key=50f33b8a-4a95-4f68-b83a-2f2b00c4251d&gdpr=1&mute=false&consent=&vid=11e1c5cf_20210305163000_D0CF72b&content_id=11e1c5cf_20210305163000_D0CF72b&ip=194.35.233.10&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.150+Safari%2F537.36+OPR%2F74.0.3911.160&t=2021-03-05T16%3A30%3A00.000
 #EXTINF:-1 tvg-id="STTVPac12Insider.us" tvg-name="ST-TV | Pac12 Insider" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjdf/PAC12_720x720.png" group-title="Sports",ST-TV | Pac12 Insider (720p)
@@ -335,27 +347,21 @@ https://pac12-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STTVPokerNightInAmerica.us" tvg-name="ST-TV | Poker Night In America" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMzJf/PokerNight_720x720.png" group-title="Sports",ST-TV | Poker Night In America (720p)
 https://rushstreet-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STTVSKITV.us" tvg-name="ST-TV | SKI TV" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjlf/SkiTV_400x400.png" group-title="Sports",ST-TV | SKI TV (1080p)
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8?ads.channel_partner=Ski+TV&ads.channel_name=Ski+TV&ads.content_genre=Skiiing&ads.content_title=SkiTV&gdpr=1&mute=false&ads.user_consent=&vid=97ee0bd6_20210305161929_D0CF72b&content_id=97ee0bd6_20210305161929_D0CF72b&ads.ip=194.35.233.10&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.150+Safari%2F537.36+OPR%2F74.0.3911.160&t=2021-03-05T16%3A19%3A29.000
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="STTVSportsGrid.us" tvg-name="ST-TV | SportsGrid" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="Sports",ST-TV | SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STTVUnbeatenCombat.us" tvg-name="ST-TV | Unbeaten Combat" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTU1MDBf/UnbeatenCombat_450x450.png" group-title="Sports",ST-TV | Unbeaten Combat (720p)
 https://d179m5eq83yziw.cloudfront.net/live3/unbeaten_tv/bitrate1-clear.isml/manifest.m3u8?t=2021-03-05T16%3A30%3A00.000
 #EXTINF:-1 tvg-id="STTVWorldPokerTour.us" tvg-name="ST-TV | World Poker Tour" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjVf/WPT_490x490.png" group-title="Sports",ST-TV | World Poker Tour (1080p)
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8?ads.channel_name=World+Poker+Tour&ads.channel_partner=World+Poker+Tour&ads.content_genre=Poker&mute=false&ads.user_consent=&vid=33137bc3_20210305160513_D0CF72b&content_id=33137bc3_20210305160513_D0CF72b&ip=194.35.233.10&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.150+Safari%2F537.36+OPR%2F74.0.3911.160&gdpr=1&t=2021-03-05T16%3A05%3A13.000
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Wti4u7W.png" group-title="Sports",Stadium (720p)
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-country="US" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Sports",Stadium (720p)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-country="US" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Sports",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 #EXTINF:-1 tvg-id="StadiumSTIRR.us" tvg-name="Stadium (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium (STIRR) (720p)
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="StadiumSTIRR.us" tvg-name="Stadium (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Sports",Stadium (STIRR) (720p)
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 tvg-id="StadiumHD.us" tvg-name="Stadium HD" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium HD
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF:-1 tvg-id="StadiumNetwork.us" tvg-name="Stadium Network" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="Sports",Stadium Network
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 #EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sports",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-id="STIRRSports.us" tvg-name="STIRR Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Sports",STIRR Sports (720p)
@@ -432,6 +438,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="Sports",Türkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-name="Unbeaten" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten
+https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="US SPORT Tennis Plus 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sports",US SPORT Tennis Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-id="Wired2Fish.us" tvg-name="Wired2Fish" tvg-country="US" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1769345cf61eb60b5893" group-title="Sports",Wired2Fish
