@@ -1,165 +1,453 @@
 #EXTM3U
-#EXTINF:-1,13TH STREET
-http://mains.services:2086/live/mikekoot/1757909/92398.ts
-#EXTINF:-1,3SAT
-http://mains.services:2086/live/mikekoot/1757909/92313.ts
-#EXTINF:-1,A&E
-http://mains.services:2086/live/mikekoot/1757909/92405.ts
-#EXTINF:-1,ANIMAL PLANET
-http://mains.services:2086/live/mikekoot/1757909/92366.ts
-#EXTINF:-1,ARTE
-http://mains.services:2086/live/mikekoot/1757909/92312.ts
-#EXTINF:-1,ATV
-http://mains.services:2086/live/mikekoot/1757909/92416.ts
-#EXTINF:-1,AXN
-http://mains.services:2086/live/mikekoot/1757909/92412.ts
-#EXTINF:-1,BOOMERANG
-http://mains.services:2086/live/mikekoot/1757909/92378.ts
-#EXTINF:-1,CARTOON NETWORK
-http://mains.services:2086/live/mikekoot/1757909/92376.ts
-#EXTINF:-1,CLASSICA
-http://mains.services:2086/live/mikekoot/1757909/92361.ts
-#EXTINF:-1,COMEDY CENTRAL
-http://mains.services:2086/live/mikekoot/1757909/92415.ts
-#EXTINF:-1,CRIME INVESTIGATION
-http://mains.services:2086/live/mikekoot/1757909/92369.ts
 #EXTINF:-1,DAS ERSTE
-http://mains.services:2086/live/mikekoot/1757909/92311.ts
-#EXTINF:-1,DAZN 1
-http://mains.services:2086/live/mikekoot/1757909/92343.ts
-#EXTINF:-1,DAZN 2
-http://mains.services:2086/live/mikekoot/1757909/92344.ts
-#EXTINF:-1,DISCOVERY
-http://mains.services:2086/live/mikekoot/1757909/92362.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://mains.services:2086/live/mikekoot/1757909/92374.ts
-#EXTINF:-1,DISNEY CINEMAGIC
-http://mains.services:2086/live/mikekoot/1757909/92373.ts
-#EXTINF:-1,DISNEY JR
-http://mains.services:2086/live/mikekoot/1757909/92372.ts
-#EXTINF:-1,DISNEY XD
-http://mains.services:2086/live/mikekoot/1757909/92371.ts
-#EXTINF:-1,DMAX
-http://mains.services:2086/live/mikekoot/1757909/92328.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://mains.services:2086/live/mikekoot/1757909/92363.ts
-#EXTINF:-1,FOX
-http://mains.services:2086/live/mikekoot/1757909/92397.ts
-#EXTINF:-1,HISTORY
-http://mains.services:2086/live/mikekoot/1757909/92364.ts
-#EXTINF:-1,HR
-http://mains.services:2086/live/mikekoot/1757909/92413.ts
-#EXTINF:-1,JUNIOR
-http://mains.services:2086/live/mikekoot/1757909/92379.ts
-#EXTINF:-1,KABEL 1 CLASSICS
-http://mains.services:2086/live/mikekoot/1757909/92325.ts
-#EXTINF:-1,KABEL 1 DOKU
-http://mains.services:2086/live/mikekoot/1757909/92404.ts
-#EXTINF:-1,KABEL EINS
-http://mains.services:2086/live/mikekoot/1757909/92324.ts
-#EXTINF:-1,KIKA
-http://mains.services:2086/live/mikekoot/1757909/92370.ts
-#EXTINF:-1,KINOWELT TV
-http://mains.services:2086/live/mikekoot/1757909/92400.ts
-#EXTINF:-1,MOTORVISION TV
-http://mains.services:2086/live/mikekoot/1757909/92360.ts
-#EXTINF:-1,N-TV
-http://mains.services:2086/live/mikekoot/1757909/92417.ts
-#EXTINF:-1,N24 HD DE
-http://mains.services:2086/live/mikekoot/1757909/92419.ts
-#EXTINF:-1,NAT GEO WILD
-http://mains.services:2086/live/mikekoot/1757909/92367.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://mains.services:2086/live/mikekoot/1757909/92365.ts
-#EXTINF:-1,NDR
-http://mains.services:2086/live/mikekoot/1757909/92411.ts
-#EXTINF:-1,NICKELODEON
-http://mains.services:2086/live/mikekoot/1757909/92377.ts
-#EXTINF:-1,ONE
-http://mains.services:2086/live/mikekoot/1757909/92329.ts
-#EXTINF:-1,ORF 1
-http://mains.services:2086/live/mikekoot/1757909/92409.ts
-#EXTINF:-1,ORF 2
-http://mains.services:2086/live/mikekoot/1757909/92410.ts
-#EXTINF:-1,PHOENIX
-http://mains.services:2086/live/mikekoot/1757909/92323.ts
-#EXTINF:-1,PROSIEBEN
-http://mains.services:2086/live/mikekoot/1757909/92319.ts
-#EXTINF:-1,PROSIEBEN MAXX
-http://mains.services:2086/live/mikekoot/1757909/92320.ts
-#EXTINF:-1,ROMANCE TV
-http://mains.services:2086/live/mikekoot/1757909/92402.ts
-#EXTINF:-1,RTL
-http://mains.services:2086/live/mikekoot/1757909/92315.ts
-#EXTINF:-1,RTL 2
-http://mains.services:2086/live/mikekoot/1757909/92316.ts
-#EXTINF:-1,RTL CRIME
-http://mains.services:2086/live/mikekoot/1757909/92401.ts
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38855
+#EXTINF:-1,ARTE HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38856
+#EXTINF:-1,ZDF HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38857
+#EXTINF:-1,ZDF INFO
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38858
+#EXTINF:-1,ZDF NEO
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38859
+#EXTINF:-1,RTL HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38860
+#EXTINF:-1,RTL TELVISION
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38861
+#EXTINF:-1,RTL PLUS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38863
 #EXTINF:-1,RTL NITRO
-http://mains.services:2086/live/mikekoot/1757909/92317.ts
-#EXTINF:-1,SAT 1
-http://mains.services:2086/live/mikekoot/1757909/92321.ts
-#EXTINF:-1,SAT 1
-http://mains.services:2086/live/mikekoot/1757909/92406.ts
-#EXTINF:-1,SAT 1 GOLD
-http://mains.services:2086/live/mikekoot/1757909/92322.ts
-#EXTINF:-1,SIXX
-http://mains.services:2086/live/mikekoot/1757909/92318.ts
-#EXTINF:-1,SKY 1
-http://mains.services:2086/live/mikekoot/1757909/92380.ts
-#EXTINF:-1,SKY ATLANTIC
-http://mains.services:2086/live/mikekoot/1757909/92391.ts
-#EXTINF:-1,SKY CINEMA
-http://mains.services:2086/live/mikekoot/1757909/92384.ts
-#EXTINF:-1,SKY CINEMA 1
-http://mains.services:2086/live/mikekoot/1757909/92381.ts
-#EXTINF:-1,SKY CINEMA 24
-http://mains.services:2086/live/mikekoot/1757909/92382.ts
-#EXTINF:-1,SKY CINEMA ACTION
-http://mains.services:2086/live/mikekoot/1757909/92390.ts
-#EXTINF:-1,SKY CINEMA COMEDY
-http://mains.services:2086/live/mikekoot/1757909/92389.ts
-#EXTINF:-1,SKY CINEMA COMIC HELDEN
-http://mains.services:2086/live/mikekoot/1757909/92388.ts
-#EXTINF:-1,SKY CINEMA FAMILY
-http://mains.services:2086/live/mikekoot/1757909/92386.ts
-#EXTINF:-1,SKY CINEMA HITS
-http://mains.services:2086/live/mikekoot/1757909/92385.ts
-#EXTINF:-1,SKY CINEMA NOSTALGIE
-http://mains.services:2086/live/mikekoot/1757909/92383.ts
-#EXTINF:-1,SKY KRIMI
-http://mains.services:2086/live/mikekoot/1757909/92392.ts
-#EXTINF:-1,SKY SPORT 1
-http://mains.services:2086/live/mikekoot/1757909/92331.ts
-#EXTINF:-1,SKY SPORT 2
-http://mains.services:2086/live/mikekoot/1757909/92332.ts
-#EXTINF:-1,SKY SPORT AUSTRIA
-http://mains.services:2086/live/mikekoot/1757909/92341.ts
-#EXTINF:-1,SKY SPORT AUSTRIA 2
-http://mains.services:2086/live/mikekoot/1757909/92342.ts
-#EXTINF:-1,SPORT 1
-http://mains.services:2086/live/mikekoot/1757909/92359.ts
-#EXTINF:-1,SPORTDIGITAL
-http://mains.services:2086/live/mikekoot/1757909/92358.ts
-#EXTINF:-1,SUPER RTL
-http://mains.services:2086/live/mikekoot/1757909/92375.ts
-#EXTINF:-1,SYFY
-http://mains.services:2086/live/mikekoot/1757909/92395.ts
-#EXTINF:-1,TELE 5
-http://mains.services:2086/live/mikekoot/1757909/92326.ts
-#EXTINF:-1,TNT COMEDY
-http://mains.services:2086/live/mikekoot/1757909/92394.ts
-#EXTINF:-1,TNT FILM
-http://mains.services:2086/live/mikekoot/1757909/92393.ts
-#EXTINF:-1,TNT SERIE
-http://mains.services:2086/live/mikekoot/1757909/92396.ts
-#EXTINF:-1,UNIVERSAL TV
-http://mains.services:2086/live/mikekoot/1757909/92414.ts
-#EXTINF:-1,VIVA COMEDY
-http://mains.services:2086/live/mikekoot/1757909/92403.ts
-#EXTINF:-1,VOX
-http://mains.services:2086/live/mikekoot/1757909/92399.ts
-#EXTINF:-1,WELT HD DE
-http://mains.services:2086/live/mikekoot/1757909/92420.ts
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38864
+#EXTINF:-1,RTL2
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38862
+#EXTINF:-1,SIXX HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38865
+#EXTINF:-1,PROSIEBEN HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38866
+#EXTINF:-1,SAT.1 GOLD HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38868
+#EXTINF:-1,VOX HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38869
+#EXTINF:-1,SAT.1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38867
+#EXTINF:-1,PHOENIX HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38870
+#EXTINF:-1,KABEL EINS HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38871
+#EXTINF:-1,KABEL EINS CLASSICS HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38872
+#EXTINF:-1,TELE 5 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38873
+#EXTINF:-1,ANIXE HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38874
+#EXTINF:-1,##|DE| MOVIES HD ##
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38875
+#EXTINF:-1,- KY 1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38876
+#EXTINF:-1,- KY ATLANTIC HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38877
+#EXTINF:-1,- KY CINEMA +1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38878
+#EXTINF:-1,- KY CINEMA +24 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38879
+#EXTINF:-1,- KY CINEMA ACTION
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38880
+#EXTINF:-1,KY - CINEMA COMEDY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38881
+#EXTINF:-1,KY - CINEMA EMOTION
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38882
+#EXTINF:-1,KY - CINEMA FAMILY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38883
+#EXTINF:-1,KY - CINEMA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38884
+#EXTINF:-1,KY - CINEMA HITS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38885
+#EXTINF:-1,KY - SKY KRIMI
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38886
+#EXTINF:-1,TNT COMEDY HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38887
+#EXTINF:-1,TNT FILM HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38888
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38889
+#EXTINF:-1,## |DE| SPORT ##
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38890
+#EXTINF:-1,KY - SPORT NEWS HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38891
+#EXTINF:-1,KY - SPORT 1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38892
+#EXTINF:-1,KY - BUNDESLIGA 1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38894
+#EXTINF:-1,- KY BUNDESLIGA 2 HD 
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38895
+#EXTINF:-1,KY BUNDESLIGA 3 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38896
+#EXTINF:-1,- KY BUNDESLIGA 4 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38897
+#EXTINF:-1,- KY BUNDESLIGA 5 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38898
+#EXTINF:-1,- KY BUNDESLIGA 6 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38899
+#EXTINF:-1,- KY BUNDESLIGA 7 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38900
+#EXTINF:-1,- KY BUNDESLIGA 8 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38901
+#EXTINF:-1,MOTORVISION TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38905
+#EXTINF:-1,SPORT1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38906
+#EXTINF:-1,## |DE| MUSIC ##
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38907
+#EXTINF:-1,JUKEBOX
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38908
+#EXTINF:-1,CLASSICA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38909
+#EXTINF:-1,MTV HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38910
+#EXTINF:-1,## |DE| DOCUMENT ##
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38911
+#EXTINF:-1,DISCOVERY HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38912
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38913
+#EXTINF:-1,HISTORY HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38914
+#EXTINF:-1,NAT GEO HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38915
+#EXTINF:-1,NAT GEO WILD HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38916
+#EXTINF:-1,TLC HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38917
+#EXTINF:-1,RTL LIVING
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38918
+#EXTINF:-1,SPIEGEL GESCHICHTE HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38919
+#EXTINF:-1,DELUXE MUSIC HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38920
+#EXTINF:-1,## |DE| REGIONAL ##
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38921
+#EXTINF:-1,HSE24 EXTRA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38922
+#EXTINF:-1,MDR HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38924
+#EXTINF:-1,MDR SACHSEN HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38925
+#EXTINF:-1,NDR HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38926
+#EXTINF:-1,DAZN 1 Bar HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39051
+#EXTINF:-1,DAZN 2 Bar HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39052
+#EXTINF:-1,###    SELECT   ###
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46858
+#EXTINF:-1,SELECT 1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46859
+#EXTINF:-1,SELECT 2
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46860
+#EXTINF:-1,SELECT 3
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46861
+#EXTINF:-1,SELECT 4
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46862
+#EXTINF:-1,SELECT 5
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46863
+#EXTINF:-1,SELECT 6
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46864
+#EXTINF:-1,----GERMANY HEVEC----
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64329
+#EXTINF:-1,DAS ERSTE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64330
 #EXTINF:-1,ZDF
-http://mains.services:2086/live/mikekoot/1757909/92314.ts
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64331
+#EXTINF:-1,RTL
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64332
+#EXTINF:-1,RTL ZWEI
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64333
+#EXTINF:-1,VOX
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64334
+#EXTINF:-1,N24
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64335
+#EXTINF:-1,WELT
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64336
+#EXTINF:-1,SAT.1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64337
+#EXTINF:-1,SAT 1 GOLD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64338
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64339
+#EXTINF:-1,N-TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64340
+#EXTINF:-1,FOX
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64341
+#EXTINF:-1,NITRO
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64342
+#EXTINF:-1,PRO 7 MAXX
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64343
+#EXTINF:-1,PROSIEBEN
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64344
+#EXTINF:-1,SIXX
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64345
+#EXTINF:-1,13TH STREET
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64346
+#EXTINF:-1,HISTORY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64347
+#EXTINF:-1,DISCOVERY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64348
+#EXTINF:-1,DMAX
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64349
+#EXTINF:-1,KABEL EINS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64350
+#EXTINF:-1,KIKA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64351
+#EXTINF:-1,N24 DOKU
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64352
+#EXTINF:-1,NAT GEO
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64353
+#EXTINF:-1,NAT GEO WILD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64354
+#EXTINF:-1,SKY ATLANTIC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64355
+#EXTINF:-1,SKY ONE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64356
+#EXTINF:-1,SKY SPORT NEWS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64357
+#EXTINF:-1,SKY SPORT 1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64358
+#EXTINF:-1,SKY SPORT 2
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64359
+#EXTINF:-1,SKY SPORT AUSTRIA 1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64360
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64361
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64362
+#EXTINF:-1,SPORT 1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64363
+#EXTINF:-1,DAZN 1 BAR
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64364
+#EXTINF:-1,DAZN 2 BAR
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64365
+#EXTINF:-1,SKY KRIMI
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64366
+#EXTINF:-1,SKY CINEMA  THRILLER
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64367
+#EXTINF:-1,SKY CINEMA ACTION
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64368
+#EXTINF:-1,SKY CINEMA BEST OF
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64369
+#EXTINF:-1,SKY CINEMA CLASSICS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64370
+#EXTINF:-1,SKY CINEMA FAMILY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64371
+#EXTINF:-1,SKY CINEMA FUN
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64372
+#EXTINF:-1,SKY CINEMA PREMIEREN 24
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64373
+#EXTINF:-1,SKY CINEMA PREMIEREN
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64374
+#EXTINF:-1,SKY CINEMA SPECIAL
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64375
+#EXTINF:-1,SYFY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64376
+#EXTINF:-1,TLC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64377
+#EXTINF:-1,TNT COMEDY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64378
+#EXTINF:-1,TNT FILM
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64379
+#EXTINF:-1,E!
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64380
+#EXTINF:-1,TNT SERIE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64381
+#EXTINF:-1,## PORTUGAL ##
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38927
+#EXTINF:-1,RTP 1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59258
+#EXTINF:-1,RTP 2 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59259
+#EXTINF:-1,RTP 3
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59260
+#EXTINF:-1,RTP MEMORIA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59265
+#EXTINF:-1,RTP Africa
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59262
+#EXTINF:-1,RTP Acores
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59261
+#EXTINF:-1,RTP International
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59263
+#EXTINF:-1,TVI24 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59298
+#EXTINF:-1,TVI
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59294
+#EXTINF:-1,TVI HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59296
+#EXTINF:-1,SIC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59266
+#EXTINF:-1,Sic Caras
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59267
+#EXTINF:-1,Sic HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59268
+#EXTINF:-1,SIC KIDS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59269
+#EXTINF:-1,CM TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59219
+#EXTINF:-1,Sport TV 1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59274
+#EXTINF:-1,Sport TV 2 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59275
+#EXTINF:-1,Sport TV 3 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59276
+#EXTINF:-1,Sport TV 4 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59277
+#EXTINF:-1,Sport TV 5 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59278
+#EXTINF:-1,Sport TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59279
+#EXTINF:-1,Sporting TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59280
+#EXTINF:-1,Fightox FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59228
+#EXTINF:-1,Kombat Sport
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59242
+#EXTINF:-1,Motorvision
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59247
+#EXTINF:-1,TV Cine Top
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59286
+#EXTINF:-1,TV Cine Edition
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59287
+#EXTINF:-1,TV Cine Emotion
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59288
+#EXTINF:-1,TV Cine Action
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59289
+#EXTINF:-1,TV Globo
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59290
+#EXTINF:-1,TV Record
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59291
+#EXTINF:-1,TV Record HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59292
+#EXTINF:-1,TV Series
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59293
+#EXTINF:-1,SIC MULHER
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59270
+#EXTINF:-1,SIC Noticias
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59271
+#EXTINF:-1,Sic Radical
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59272
+#EXTINF:-1,Sic Radical HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59273
+#EXTINF:-1,24 Kitchen HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59202
+#EXTINF:-1,A  E
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59203
+#EXTINF:-1,A Bola TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59204
+#EXTINF:-1,Afro Music
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59205
+#EXTINF:-1,AMC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59206
+#EXTINF:-1,AXN Movies
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59207
+#EXTINF:-1,AXN FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59208
+#EXTINF:-1,AXN White
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59209
+#EXTINF:-1,Baby TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59210
+#EXTINF:-1,Benfica TV1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59211
+#EXTINF:-1,Cacavision HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59212
+#EXTINF:-1,Canal Panda
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59213
+#EXTINF:-1,Canal Q
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59214
+#EXTINF:-1,Cartoon Network
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59215
+#EXTINF:-1,Caza E Pesca
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59216
+#EXTINF:-1,CBS Reality
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59217
+#EXTINF:-1,Cinemundo
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59218
+#EXTINF:-1,Discovery Channel
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59220
+#EXTINF:-1,Discovery Showcase FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59221
+#EXTINF:-1,Disney Channel
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59222
+#EXTINF:-1,Disney Junior
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59223
+#EXTINF:-1,E Entertainment
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59224
+#EXTINF:-1,Canal 11
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59227
+#EXTINF:-1,Fine Living
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59229
+#EXTINF:-1,Food Network
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59230
+#EXTINF:-1,Fox Comedy
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59231
+#EXTINF:-1,Fox Crime FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59232
+#EXTINF:-1,Fox HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59233
+#EXTINF:-1,Fox Life FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59234
+#EXTINF:-1,Fox Movies
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59235
+#EXTINF:-1,Fuel TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59236
+#EXTINF:-1,Globo Portugal
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59237
+#EXTINF:-1,Globo Premium
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59238
+#EXTINF:-1,Historia
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59239
+#EXTINF:-1,Hollywood
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59240
+#EXTINF:-1,JIM JAM
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59241
+#EXTINF:-1,MCM Pop
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59243
+#EXTINF:-1,MCM TOP
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59244
+#EXTINF:-1,Canal 11 FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59245
+#EXTINF:-1,Fight Network FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59246
+#EXTINF:-1,MTV Portugal
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59248
+#EXTINF:-1,My Cuisine
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59249
+#EXTINF:-1,Nat Geo Wild
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59250
+#EXTINF:-1,National Geographic FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59251
+#EXTINF:-1,Nickelodeon
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59252
+#EXTINF:-1,Odisseia
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59253
+#EXTINF:-1,PANDA BIGGS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59254
+#EXTINF:-1,PFC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59255
+#EXTINF:-1,Porto Canal
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59256
+#EXTINF:-1,Record News
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59257
+#EXTINF:-1,Sundance FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59281
+#EXTINF:-1,SyFy
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59282
+#EXTINF:-1,Syfy FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59283
+#EXTINF:-1,TLC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59284
+#EXTINF:-1,Travel Channel HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59285
+#EXTINF:-1,TVI FICIÂ¿Â½AO HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59295
+#EXTINF:-1,TVI REALITY HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59297
+#EXTINF:-1,VH1 SD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59299
+#EXTINF:-1,VH1 CLASSIC HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59300
