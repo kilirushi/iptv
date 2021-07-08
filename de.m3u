@@ -1,453 +1,631 @@
 #EXTM3U
-#EXTINF:-1,DAS ERSTE
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38855
-#EXTINF:-1,ARTE HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38856
+#EXTINF:-1,Das Erste HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13166
+#EXTINF:-1,Das Erste [B] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6262
+#EXTINF:-1,Das Erste
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6256
+#EXTINF:-1,ZDF FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6151
 #EXTINF:-1,ZDF HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38857
-#EXTINF:-1,ZDF INFO
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38858
-#EXTINF:-1,ZDF NEO
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38859
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/17011
+#EXTINF:-1,ZDF Neo HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/17304
+#EXTINF:-1,RTL FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13565
+#EXTINF:-1,RTL FHD [B]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683243
 #EXTINF:-1,RTL HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38860
-#EXTINF:-1,RTL TELVISION
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38861
-#EXTINF:-1,RTL PLUS
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38863
-#EXTINF:-1,RTL NITRO
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38864
-#EXTINF:-1,RTL2
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38862
-#EXTINF:-1,SIXX HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38865
-#EXTINF:-1,PROSIEBEN HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38866
-#EXTINF:-1,SAT.1 GOLD HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38868
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6216
+#EXTINF:-1,Sat.1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6210
+#EXTINF:-1,Sat.1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683455
+#EXTINF:-1,ProSieben FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6220
+#EXTINF:-1,ProSieben [B] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8235
+#EXTINF:-1,ProSieben HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683393
+#EXTINF:-1,ProSieben [B] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13144
+#EXTINF:-1,VOX FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13553
 #EXTINF:-1,VOX HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38869
-#EXTINF:-1,SAT.1 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38867
-#EXTINF:-1,PHOENIX HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38870
-#EXTINF:-1,KABEL EINS HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38871
-#EXTINF:-1,KABEL EINS CLASSICS HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38872
-#EXTINF:-1,TELE 5 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38873
-#EXTINF:-1,ANIXE HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38874
-#EXTINF:-1,##|DE| MOVIES HD ##
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38875
-#EXTINF:-1,- KY 1 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38876
-#EXTINF:-1,- KY ATLANTIC HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38877
-#EXTINF:-1,- KY CINEMA +1 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38878
-#EXTINF:-1,- KY CINEMA +24 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38879
-#EXTINF:-1,- KY CINEMA ACTION
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38880
-#EXTINF:-1,KY - CINEMA COMEDY
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38881
-#EXTINF:-1,KY - CINEMA EMOTION
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38882
-#EXTINF:-1,KY - CINEMA FAMILY
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38883
-#EXTINF:-1,KY - CINEMA HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38884
-#EXTINF:-1,KY - CINEMA HITS
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38885
-#EXTINF:-1,KY - SKY KRIMI
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38886
-#EXTINF:-1,TNT COMEDY HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38887
-#EXTINF:-1,TNT FILM HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38888
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38889
-#EXTINF:-1,## |DE| SPORT ##
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38890
-#EXTINF:-1,KY - SPORT NEWS HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38891
-#EXTINF:-1,KY - SPORT 1 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38892
-#EXTINF:-1,KY - BUNDESLIGA 1 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38894
-#EXTINF:-1,- KY BUNDESLIGA 2 HD 
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38895
-#EXTINF:-1,KY BUNDESLIGA 3 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38896
-#EXTINF:-1,- KY BUNDESLIGA 4 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38897
-#EXTINF:-1,- KY BUNDESLIGA 5 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38898
-#EXTINF:-1,- KY BUNDESLIGA 6 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38899
-#EXTINF:-1,- KY BUNDESLIGA 7 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38900
-#EXTINF:-1,- KY BUNDESLIGA 8 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38901
-#EXTINF:-1,MOTORVISION TV
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38905
-#EXTINF:-1,SPORT1 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38906
-#EXTINF:-1,## |DE| MUSIC ##
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38907
-#EXTINF:-1,JUKEBOX
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38908
-#EXTINF:-1,CLASSICA
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38909
-#EXTINF:-1,MTV HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38910
-#EXTINF:-1,## |DE| DOCUMENT ##
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38911
-#EXTINF:-1,DISCOVERY HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38912
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38913
-#EXTINF:-1,HISTORY HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38914
-#EXTINF:-1,NAT GEO HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38915
-#EXTINF:-1,NAT GEO WILD HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38916
-#EXTINF:-1,TLC HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38917
-#EXTINF:-1,RTL LIVING
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38918
-#EXTINF:-1,SPIEGEL GESCHICHTE HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38919
-#EXTINF:-1,DELUXE MUSIC HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38920
-#EXTINF:-1,## |DE| REGIONAL ##
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38921
-#EXTINF:-1,HSE24 EXTRA HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38922
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6153
+#EXTINF:-1,VOXup
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679836
+#EXTINF:-1,Kabel 1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6242
+#EXTINF:-1,Kabel 1 Classic HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9151
+#EXTINF:-1,Kabel 1 Classic
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679844
+#EXTINF:-1,RTL 2 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6215
+#EXTINF:-1,RTL 2 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13136
+#EXTINF:-1,RTL Nitro FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6212
+#EXTINF:-1,RTL Nitro HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13137
+#EXTINF:-1,RTL Passion FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8219
+#EXTINF:-1,RTL Plus
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9152
+#EXTINF:-1,RTL Crime FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6214
+#EXTINF:-1,RTL Crime HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/17012
+#EXTINF:-1,Crime & Investigation FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6263
+#EXTINF:-1,Crime & Investigation HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8197
+#EXTINF:-1,RTL Living FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6150
+#EXTINF:-1,RTL Living HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6213
+#EXTINF:-1,Sat1 Emotion
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13135
+#EXTINF:-1,Sat1 Gold FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6209
+#EXTINF:-1,ProSieben Fun FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6219
+#EXTINF:-1,ProSieben Fun HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13145
+#EXTINF:-1,ProSieben Fun [B] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13142
+#EXTINF:-1,ProSieben Maxx FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6218
+#EXTINF:-1,ProSieben Maxx HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683394
+#EXTINF:-1,Pro Sieben Maxx HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13143
+#EXTINF:-1,Pro Sieben Maxx FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8234
+#EXTINF:-1,Puls 24 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688788
+#EXTINF:-1,Puls 4
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688789
+#EXTINF:-1,E! Entertainment FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13569
+#EXTINF:-1,E! Entertainment HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9137
+#EXTINF:-1,E! Entertainment
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5095
+#EXTINF:-1,SRF 1
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6170
 #EXTINF:-1,MDR HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38924
-#EXTINF:-1,MDR SACHSEN HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38925
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6238
+#EXTINF:-1,MDR Sachsen HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8240
+#EXTINF:-1,MDR Sachsen HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8239
+#EXTINF:-1,3Sat FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/16289
+#EXTINF:-1,3sat HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6265
 #EXTINF:-1,NDR HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38926
-#EXTINF:-1,DAZN 1 Bar HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39051
-#EXTINF:-1,DAZN 2 Bar HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39052
-#EXTINF:-1,###    SELECT   ###
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46858
-#EXTINF:-1,SELECT 1
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46859
-#EXTINF:-1,SELECT 2
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46860
-#EXTINF:-1,SELECT 3
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46861
-#EXTINF:-1,SELECT 4
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46862
-#EXTINF:-1,SELECT 5
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46863
-#EXTINF:-1,SELECT 6
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/46864
-#EXTINF:-1,----GERMANY HEVEC----
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64329
-#EXTINF:-1,DAS ERSTE
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64330
-#EXTINF:-1,ZDF
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64331
-#EXTINF:-1,RTL
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64332
-#EXTINF:-1,RTL ZWEI
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64333
-#EXTINF:-1,VOX
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64334
-#EXTINF:-1,N24
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64335
-#EXTINF:-1,WELT
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64336
-#EXTINF:-1,SAT.1
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64337
-#EXTINF:-1,SAT 1 GOLD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64338
-#EXTINF:-1,SPIEGEL GESCHICHTE
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64339
-#EXTINF:-1,N-TV
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64340
-#EXTINF:-1,FOX
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64341
-#EXTINF:-1,NITRO
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64342
-#EXTINF:-1,PRO 7 MAXX
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64343
-#EXTINF:-1,PROSIEBEN
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64344
-#EXTINF:-1,SIXX
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64345
-#EXTINF:-1,13TH STREET
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64346
-#EXTINF:-1,HISTORY
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64347
-#EXTINF:-1,DISCOVERY
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64348
-#EXTINF:-1,DMAX
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64349
-#EXTINF:-1,KABEL EINS
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64350
-#EXTINF:-1,KIKA
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64351
-#EXTINF:-1,N24 DOKU
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64352
-#EXTINF:-1,NAT GEO
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64353
-#EXTINF:-1,NAT GEO WILD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64354
-#EXTINF:-1,SKY ATLANTIC
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64355
-#EXTINF:-1,SKY ONE
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64356
-#EXTINF:-1,SKY SPORT NEWS
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64357
-#EXTINF:-1,SKY SPORT 1
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64358
-#EXTINF:-1,SKY SPORT 2
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64359
-#EXTINF:-1,SKY SPORT AUSTRIA 1
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64360
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64361
-#EXTINF:-1,SKY SPORT BUNDESLIGA 2
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64362
-#EXTINF:-1,SPORT 1
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64363
-#EXTINF:-1,DAZN 1 BAR
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64364
-#EXTINF:-1,DAZN 2 BAR
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64365
-#EXTINF:-1,SKY KRIMI
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64366
-#EXTINF:-1,SKY CINEMA  THRILLER
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64367
-#EXTINF:-1,SKY CINEMA ACTION
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64368
-#EXTINF:-1,SKY CINEMA BEST OF
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64369
-#EXTINF:-1,SKY CINEMA CLASSICS
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64370
-#EXTINF:-1,SKY CINEMA FAMILY
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64371
-#EXTINF:-1,SKY CINEMA FUN
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64372
-#EXTINF:-1,SKY CINEMA PREMIEREN 24
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64373
-#EXTINF:-1,SKY CINEMA PREMIEREN
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64374
-#EXTINF:-1,SKY CINEMA SPECIAL
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64375
-#EXTINF:-1,SYFY
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64376
-#EXTINF:-1,TLC
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64377
-#EXTINF:-1,TNT COMEDY
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64378
-#EXTINF:-1,TNT FILM
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64379
-#EXTINF:-1,E!
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64380
-#EXTINF:-1,TNT SERIE
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/64381
-#EXTINF:-1,## PORTUGAL ##
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38927
-#EXTINF:-1,RTP 1
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59258
-#EXTINF:-1,RTP 2 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59259
-#EXTINF:-1,RTP 3
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59260
-#EXTINF:-1,RTP MEMORIA
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59265
-#EXTINF:-1,RTP Africa
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59262
-#EXTINF:-1,RTP Acores
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59261
-#EXTINF:-1,RTP International
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59263
-#EXTINF:-1,TVI24 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59298
-#EXTINF:-1,TVI
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59294
-#EXTINF:-1,TVI HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59296
-#EXTINF:-1,SIC
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59266
-#EXTINF:-1,Sic Caras
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59267
-#EXTINF:-1,Sic HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59268
-#EXTINF:-1,SIC KIDS
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59269
-#EXTINF:-1,CM TV
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59219
-#EXTINF:-1,Sport TV 1 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59274
-#EXTINF:-1,Sport TV 2 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59275
-#EXTINF:-1,Sport TV 3 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59276
-#EXTINF:-1,Sport TV 4 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59277
-#EXTINF:-1,Sport TV 5 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59278
-#EXTINF:-1,Sport TV
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59279
-#EXTINF:-1,Sporting TV
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59280
-#EXTINF:-1,Fightox FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59228
-#EXTINF:-1,Kombat Sport
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59242
-#EXTINF:-1,Motorvision
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59247
-#EXTINF:-1,TV Cine Top
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59286
-#EXTINF:-1,TV Cine Edition
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59287
-#EXTINF:-1,TV Cine Emotion
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59288
-#EXTINF:-1,TV Cine Action
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59289
-#EXTINF:-1,TV Globo
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59290
-#EXTINF:-1,TV Record
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59291
-#EXTINF:-1,TV Record HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59292
-#EXTINF:-1,TV Series
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59293
-#EXTINF:-1,SIC MULHER
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59270
-#EXTINF:-1,SIC Noticias
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59271
-#EXTINF:-1,Sic Radical
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59272
-#EXTINF:-1,Sic Radical HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59273
-#EXTINF:-1,24 Kitchen HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59202
-#EXTINF:-1,A  E
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59203
-#EXTINF:-1,A Bola TV
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59204
-#EXTINF:-1,Afro Music
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59205
-#EXTINF:-1,AMC
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59206
-#EXTINF:-1,AXN Movies
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59207
-#EXTINF:-1,AXN FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59208
-#EXTINF:-1,AXN White
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59209
-#EXTINF:-1,Baby TV
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59210
-#EXTINF:-1,Benfica TV1 HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59211
-#EXTINF:-1,Cacavision HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59212
-#EXTINF:-1,Canal Panda
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59213
-#EXTINF:-1,Canal Q
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59214
-#EXTINF:-1,Cartoon Network
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59215
-#EXTINF:-1,Caza E Pesca
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59216
-#EXTINF:-1,CBS Reality
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59217
-#EXTINF:-1,Cinemundo
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59218
-#EXTINF:-1,Discovery Channel
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59220
-#EXTINF:-1,Discovery Showcase FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59221
-#EXTINF:-1,Disney Channel
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59222
-#EXTINF:-1,Disney Junior
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59223
-#EXTINF:-1,E Entertainment
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59224
-#EXTINF:-1,Canal 11
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59227
-#EXTINF:-1,Fine Living
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59229
-#EXTINF:-1,Food Network
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59230
-#EXTINF:-1,Fox Comedy
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59231
-#EXTINF:-1,Fox Crime FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59232
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6225
+#EXTINF:-1,HR FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13150
+#EXTINF:-1,HR HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6243
+#EXTINF:-1,HR Fernsehen HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8225
+#EXTINF:-1,RBB Berlin HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6217
+#EXTINF:-1,BR HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687568
+#EXTINF:-1,BR
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13168
+#EXTINF:-1,SWR HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6165
+#EXTINF:-1,WDR HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6152
+#EXTINF:-1,noa4 Hamburg FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688727
+#EXTINF:-1,Franken Fernsehen FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/677835
+#EXTINF:-1,BW Family TV FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6246
+#EXTINF:-1,BW Family TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23772
+#EXTINF:-1,QVC HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13140
+#EXTINF:-1,QVC Beauty & Style
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13141
+#EXTINF:-1,Sonnenklar TV FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13130
+#EXTINF:-1,Event - Covid Info FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679845
+#EXTINF:-1,------- Sports -------
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678834
+#EXTINF:-1,Sky Sport F1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687666
+#EXTINF:-1,Sky Sport F1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687667
+#EXTINF:-1,Sky Sports News FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13555
+#EXTINF:-1,Sky Sports News HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684431
+#EXTINF:-1,Sky Sport 1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684432
+#EXTINF:-1,Sky Sport 1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683895
+#EXTINF:-1,Sky Sport 1
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9125
+#EXTINF:-1,Sky Sport 1 [B]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684429
+#EXTINF:-1,Sky Sport 2 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7362
+#EXTINF:-1,Sky Sport 2 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683896
+#EXTINF:-1,Sky Sport 3 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13563
+#EXTINF:-1,Sky Sport 3 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6182
+#EXTINF:-1,Sky Sport 4 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13562
+#EXTINF:-1,Sky Sport 4 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9127
+#EXTINF:-1,Sky Sport 5 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13561
+#EXTINF:-1,Sky Sport 5 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9126
+#EXTINF:-1,Sky Sport 6 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6181
+#EXTINF:-1,Sky Sport 7 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6180
+#EXTINF:-1,Sky Sport 8 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6179
+#EXTINF:-1,Sky Sport 9 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6178
+#EXTINF:-1,Sky Sport 10 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6177
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684430
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683408
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683409
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13538
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/73136
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/684005
+#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/62223
+#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time-B] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/135258
+#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/135671
+#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/62220
+#EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/91235
+#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/135335
+#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/62002
+#EXTINF:-1,Sky Sport Bundesliga 6 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/619225
+#EXTINF:-1,Sky Sport Bundesliga 7 [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6198
+#EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6197
+#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6196
+#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6195
+#EXTINF:-1,Sky Sport Austria 1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688793
+#EXTINF:-1,Sky Sport Austria 1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688795
+#EXTINF:-1,DAZN 1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/661090
+#EXTINF:-1,DAZN 1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/625243
+#EXTINF:-1,DAZN 1 [B] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/661088
+#EXTINF:-1,DAZN 2 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/661089
+#EXTINF:-1,DAZN 2 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50775
+#EXTINF:-1,Sport1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6173
+#EXTINF:-1,Sport1 HD 
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8221
+#EXTINF:-1,Sport1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8226
+#EXTINF:-1,Sport1+ FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679847
+#EXTINF:-1,Sport1+ HD [B]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679848
+#EXTINF:-1,eSports 1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687730
+#EXTINF:-1,Telekom Fußball 1 HD [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679821
+#EXTINF:-1,Telekom Fußball 2 HD [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679822
+#EXTINF:-1,Telekom Fußball 3 HD [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679823
+#EXTINF:-1,Telekom Fußball 4 HD [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679824
+#EXTINF:-1,Telekom Fußball 5 HD [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679825
+#EXTINF:-1,Telekom Fußball 6 HD [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679826
+#EXTINF:-1,Telekom Fußball 7 HD [Match Time]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679827
+#EXTINF:-1,Telekom Fußball 8 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688721
+#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679671
+#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679672
+#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679673
+#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679676
+#EXTINF:-1,Telekom Basketball 1 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679674
+#EXTINF:-1,Telekom Basketball 2 [Match Time] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679675
+#EXTINF:-1,Sport Digital FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8244
+#EXTINF:-1,Sport Digital HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6171
+#EXTINF:-1,Motorvision HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8222
+#EXTINF:-1,Auto Motor Sport FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9132
+#EXTINF:-1,FC Bayern TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9128
+#EXTINF:-1,------- Movies & Series -------
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678836
+#EXTINF:-1,Sky Action HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5093
+#EXTINF:-1,Sky Action
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6205
+#EXTINF:-1,Sky Cinema Special FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8217
+#EXTINF:-1,Sky Cinema Special HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6252
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5089
+#EXTINF:-1,Sky Cinema Thriller HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7372
+#EXTINF:-1,Sky Cinema Thriller
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6193
+#EXTINF:-1,Sky Cinema Premieren FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6194
+#EXTINF:-1,Sky Cinema Premieren HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7373
+#EXTINF:-1,Sky Cinema Premieren +24 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6192
+#EXTINF:-1,Sky Cinema Premieren +24 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13133
+#EXTINF:-1,Sky Cinema Action HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7370
+#EXTINF:-1,Sky Cinema Action
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9146
+#EXTINF:-1,Sky Cinema Fun HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9144
+#EXTINF:-1,Sky Cinema Fun
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6190
+#EXTINF:-1,Sky Cinema Best Of FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7368
+#EXTINF:-1,Sky Cinema Best Of HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8223
+#EXTINF:-1,Sky Cinema Family FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9145
+#EXTINF:-1,Sky Cinema Family HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7369
+#EXTINF:-1,Sky Cinema Classics HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13131
+#EXTINF:-1,Sky Cinema Classics
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6186
+#EXTINF:-1,Sky Cinema Best of
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5088
+#EXTINF:-1,Sky Cinema Nostalgie HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688792
+#EXTINF:-1,Sky Cinema Comedy VIP HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688822
+#EXTINF:-1,Sky Crime VIP HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688821
+#EXTINF:-1,Sky Atlantic HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7367
+#EXTINF:-1,Sky Atlantic
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6204
+#EXTINF:-1,Sky Atlantic +1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13134
+#EXTINF:-1,Sky 13TH Street FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5098
+#EXTINF:-1,Sky 13TH Street HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7365
+#EXTINF:-1,Sky 13TH Street [B] HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8198
+#EXTINF:-1,Sky One FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9138
+#EXTINF:-1,One HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9147
+#EXTINF:-1,Fox FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13567
 #EXTINF:-1,Fox HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59233
-#EXTINF:-1,Fox Life FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59234
-#EXTINF:-1,Fox Movies
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59235
-#EXTINF:-1,Fuel TV
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59236
-#EXTINF:-1,Globo Portugal
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59237
-#EXTINF:-1,Globo Premium
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59238
-#EXTINF:-1,Historia
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59239
-#EXTINF:-1,Hollywood
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59240
-#EXTINF:-1,JIM JAM
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59241
-#EXTINF:-1,MCM Pop
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59243
-#EXTINF:-1,MCM TOP
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59244
-#EXTINF:-1,Canal 11 FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59245
-#EXTINF:-1,Fight Network FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59246
-#EXTINF:-1,MTV Portugal
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59248
-#EXTINF:-1,My Cuisine
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59249
-#EXTINF:-1,Nat Geo Wild
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59250
-#EXTINF:-1,National Geographic FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59251
-#EXTINF:-1,Nickelodeon
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59252
-#EXTINF:-1,Odisseia
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59253
-#EXTINF:-1,PANDA BIGGS
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59254
-#EXTINF:-1,PFC
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59255
-#EXTINF:-1,Porto Canal
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59256
-#EXTINF:-1,Record News
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59257
-#EXTINF:-1,Sundance FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59281
-#EXTINF:-1,SyFy
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59282
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6245
+#EXTINF:-1,Fox
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23770
 #EXTINF:-1,Syfy FHD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59283
-#EXTINF:-1,TLC
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59284
-#EXTINF:-1,Travel Channel HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59285
-#EXTINF:-1,TVI FICIÂ¿Â½AO HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59295
-#EXTINF:-1,TVI REALITY HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59297
-#EXTINF:-1,VH1 SD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59299
-#EXTINF:-1,VH1 CLASSIC HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59300
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7364
+#EXTINF:-1,Syfy HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5087
+#EXTINF:-1,Syfy
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6164
+#EXTINF:-1,Sky Krimi HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8220
+#EXTINF:-1,TNT Comedy FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6157
+#EXTINF:-1,TNT Comedy HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687541
+#EXTINF:-1,TNT Film FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6156
+#EXTINF:-1,TNT Film HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683894
+#EXTINF:-1,TNT Serie FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5084
+#EXTINF:-1,TNT Serie HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6155
+#EXTINF:-1,TNT Serie
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13154
+#EXTINF:-1,Universal FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5265
+#EXTINF:-1,Sony TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6167
+#EXTINF:-1,Kinowelt HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6240
+#EXTINF:-1,Kinowelt
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/672086
+#EXTINF:-1,Eagle Cinema Premiere FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681946
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681942
+#EXTINF:-1,Eagle Cinema Thriller FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681950
+#EXTINF:-1,Eagle Cinema Sci-Fi FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681949
+#EXTINF:-1,Eagle Cinema Animation HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681939
+#EXTINF:-1,Eagle Cinema Mythologie HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681945
+#EXTINF:-1,Eagle Cinema Lächeln HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681944
+#EXTINF:-1,Eagle Cinema Geschichte HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681941
+#EXTINF:-1,Eagle Cinema Romantisch FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681948
+#EXTINF:-1,Sky Select 1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655131
+#EXTINF:-1,Sky Select 1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7375
+#EXTINF:-1,Sky Select 2 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655130
+#EXTINF:-1,Sky Select 2 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7376
+#EXTINF:-1,Sky Select 3 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655129
+#EXTINF:-1,Sky Select 3 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7377
+#EXTINF:-1,Sky Select 4 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655128
+#EXTINF:-1,Sky Select 4 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/7378
+#EXTINF:-1,Sky Select 5 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8977
+#EXTINF:-1,Sky Select 5 HD [demnächst]
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655127
+#EXTINF:-1,Sky Select 6 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8976
+#EXTINF:-1,Sky Select 6 FHD (demnächst)
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/655126
+#EXTINF:-1,Sky Select 7 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8975
+#EXTINF:-1,Sky Select 8 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8974
+#EXTINF:-1,PopCorn Select 1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23778
+#EXTINF:-1,PopCorn Select 2 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683536
+#EXTINF:-1,PopCorn Select 2 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23777
+#EXTINF:-1,PopCorn Select 3 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683537
+#EXTINF:-1,PopCorn Select 3 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23776
+#EXTINF:-1,PopCorn Select 4 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23775
+#EXTINF:-1,PopCorn Select 5 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683540
+#EXTINF:-1,HiperCinema 4K
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683524
+#EXTINF:-1,HyperCinema Boxset FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683534
+#EXTINF:-1,HyperCinema INFO FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683523
+#EXTINF:-1,HyperCinema 1 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683535
+#EXTINF:-1,HyperCinema 2 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683525
+#EXTINF:-1,HyperCinema 3 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683526
+#EXTINF:-1,HyperCinema 4 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683527
+#EXTINF:-1,HyperCinema 5 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683528
+#EXTINF:-1,HyperCinema 6 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683529
+#EXTINF:-1,HyperCinema 7 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683530
+#EXTINF:-1,HyperCinema 8 FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683531
+#EXTINF:-1,AXN FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5097
+#EXTINF:-1,AXN HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6259
+#EXTINF:-1,Comedy Central FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6154
+#EXTINF:-1,Romance TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13152
+#EXTINF:-1,Romance TV
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6211
+#EXTINF:-1,Sky Heimat Kanal HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678481
+#EXTINF:-1,Sky Heimat Kanal
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6188
+#EXTINF:-1,Sixx FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6207
+#EXTINF:-1,Servus TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6208
+#EXTINF:-1,Tele 5 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9150
+#EXTINF:-1,Bibel TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/677497
+#EXTINF:-1,FilMax Hits FHD VIP
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688717
+#EXTINF:-1,------- Documentary -------
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678919
+#EXTINF:-1,ZDF Info HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9148
+#EXTINF:-1,N24 Doku
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679837
+#EXTINF:-1,Kabel Eins Doku FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13147
+#EXTINF:-1,Kabel 1 Doku
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679843
+#EXTINF:-1,History Channel FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6244
+#EXTINF:-1,Spiegel Geschichte HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6174
+#EXTINF:-1,Spiegel TV Wissen HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9135
+#EXTINF:-1,Discovery FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13570
+#EXTINF:-1,Discovery HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5096
+#EXTINF:-1,DOXX HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679846
+#EXTINF:-1,Animal Planet FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8196
+#EXTINF:-1,Animal Planet HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13173
+#EXTINF:-1,National Geographic HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8194
+#EXTINF:-1,National Geographic
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6226
+#EXTINF:-1,Nat Geo wild FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6227
+#EXTINF:-1,Nat Geo Wild HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9136
+#EXTINF:-1,Nat Geo Wild
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5085
+#EXTINF:-1,HGTV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688723
+#EXTINF:-1,Weltr Wunder HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679838
+#EXTINF:-1,Weltr Wunder
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13129
+#EXTINF:-1,Anixe HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6264
+#EXTINF:-1,Dmax FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6249
+#EXTINF:-1,TLC HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8224
+#EXTINF:-1,Health TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688722
+#EXTINF:-1,Luxe TV FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/676714
+#EXTINF:-1,Sky Arte FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5091
+#EXTINF:-1,Sky Arte HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9139
+#EXTINF:-1,Sky Arte
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6261
+#EXTINF:-1,ARD Alpha HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13171
+#EXTINF:-1,Light Channel
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688724
+#EXTINF:-1,Waidwerk FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687566
+#EXTINF:-1,------- News -------
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678922
+#EXTINF:-1,Welt HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6228
+#EXTINF:-1,N-TV FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13149
+#EXTINF:-1,N-TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8195
+#EXTINF:-1,N-TV
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13566
+#EXTINF:-1,Munchen TV
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6229
+#EXTINF:-1,Phoenix HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6221
+#EXTINF:-1,Tagesschau 24 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6163
+#EXTINF:-1,------- Children -------
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678923
+#EXTINF:-1,Super RTL FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13554
+#EXTINF:-1,Super RTL HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6166
+#EXTINF:-1,KiKa FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679839
+#EXTINF:-1,Kika HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6241
+#EXTINF:-1,Baby TV
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13169
+#EXTINF:-1,Toggo Plus HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/5086
+#EXTINF:-1,Toggo Plus
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9133
+#EXTINF:-1,Boomerang HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6258
+#EXTINF:-1,Cartoon Network FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6257
+#EXTINF:-1,Disney Channel FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6253
+#EXTINF:-1,Disney Junior FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13568
+#EXTINF:-1,Disney Junior HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6251
+#EXTINF:-1,Junior HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6239
+#EXTINF:-1,Nickelodeon HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6224
+#EXTINF:-1,Fix & Foxi
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/23771
+#EXTINF:-1,------- Music -------
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678925
+#EXTINF:-1,MTV FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/35466
+#EXTINF:-1,MTV +1 HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/679793
+#EXTINF:-1,MTV 80s
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/638080
+#EXTINF:-1,Sky Classica
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6191
+#EXTINF:-1,Classica HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13167
+#EXTINF:-1,GoldStar TV
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683427
+#EXTINF:-1,Jukebox
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13148
+#EXTINF:-1,Deluxe Music HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6255
+#EXTINF:-1,Kronehit FHD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14200
+#EXTINF:-1,Pilatus Beatz TV HD
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688787
+#EXTINF:-1,Deutsches Musik Fernsehen
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/13165
