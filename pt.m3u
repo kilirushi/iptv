@@ -1,585 +1,235 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159164
-#EXTINF:-1,RTP 1 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159165
+#EXTINF:-1,RTP 1  HD
+http://ostora.net:2086/test/test/1932
 #EXTINF:-1,RTP 1
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159166
-#EXTINF:-1,TVI Reality Camera 4
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159167
+http://ostora.net:2086/test/test/1933
 #EXTINF:-1,RTP 2 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159169
-#EXTINF:-1,RTP 2 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159168
-#EXTINF:-1,RTP 3 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159269
-#EXTINF:-1,RTP 3 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159268
+http://ostora.net:2086/test/test/1934
+#EXTINF:-1,RTP 2
+http://ostora.net:2086/test/test/1935
 #EXTINF:-1,RTP 3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159267
-#EXTINF:-1,RTP Memória
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159170
-#EXTINF:-1,RTP Internacional
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159171
-#EXTINF:-1,RTP África
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159172
-#EXTINF:-1,RTP Madeira
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159173
-#EXTINF:-1,RTP Açores
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159174
-#EXTINF:-1,SIC FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159178
+http://ostora.net:2086/test/test/1936
+#EXTINF:-1,SIC HD
+http://ostora.net:2086/test/test/1937
 #EXTINF:-1,SIC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159175
-#EXTINF:-1,RECORD NEWS
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159176
-#EXTINF:-1,SIC ( Mobile )
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159177
-#EXTINF:-1,SIC Radical FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159180
-#EXTINF:-1,SIC Radical
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159179
-#EXTINF:-1,SIC Mulher FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159182
-#EXTINF:-1,SIC Mulher
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159181
-#EXTINF:-1,SIC Caras HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159184
-#EXTINF:-1,SIC Caras
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159183
-#EXTINF:-1,TVI FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159188
-#EXTINF:-1,TVI
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159185
+http://ostora.net:2086/test/test/1938
 #EXTINF:-1,TVI HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159186
-#EXTINF:-1,SIC K HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159187
-#EXTINF:-1,TVI Ficção FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159191
-#EXTINF:-1,TVI Ficção
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159189
-#EXTINF:-1,RTP Memória HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159190
-#EXTINF:-1,CTC HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159203
-#EXTINF:-1,TVCine Top FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159220
-#EXTINF:-1,TVCine Edition FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159223
-#EXTINF:-1,TVCine Emotion FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159226
-#EXTINF:-1,TVCine Action FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159229
-#EXTINF:-1,TVCine Top HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159219
-#EXTINF:-1,TVCine Edition HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159222
-#EXTINF:-1,TVCine Emotion HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159225
-#EXTINF:-1,TVCine Action HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159228
-#EXTINF:-1,TVCine Top
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159218
-#EXTINF:-1,TVCine Edition
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159221
-#EXTINF:-1,Hollywood FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159233
-#EXTINF:-1,Hollywood HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159232
-#EXTINF:-1,AMC FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159236
-#EXTINF:-1,AMC HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159235
-#EXTINF:-1,FOX Movies
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159253
-#EXTINF:-1,CineMundo FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159257
-#EXTINF:-1,CineMundo HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159256
-#EXTINF:-1,Syfy FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159231
-#EXTINF:-1,Syfy
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159230
-#EXTINF:-1,AXN FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159238
-#EXTINF:-1,AXN
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159237
-#EXTINF:-1,AXN BLACK FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159240
-#EXTINF:-1,AXN BLACK
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159239
-#EXTINF:-1,AXN WHITE FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159242
-#EXTINF:-1,AXN WHITE
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159241
-#EXTINF:-1,AXN MOVIES FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/235699
-#EXTINF:-1,FOX FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159245
-#EXTINF:-1,FOX
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159244
-#EXTINF:-1,NETFLIX HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159243
-#EXTINF:-1,FOX Comedy FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159247
-#EXTINF:-1,FOX Comedy
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159246
-#EXTINF:-1,FOX Crime FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159249
-#EXTINF:-1,Fox Crime HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159248
-#EXTINF:-1,FOX Life FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159252
-#EXTINF:-1,Fox Life HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159251
-#EXTINF:-1,E! ENTERTAINMENT FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159310
-#EXTINF:-1,E! ENTERTAINMENT HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159309
-#EXTINF:-1,Nos Studios FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159258
-#EXTINF:-1,TVI Reality HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159193
-#EXTINF:-1,TVI Reality
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159192
-#EXTINF:-1,TVI Reality Mosaico
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159194
-#EXTINF:-1,TVI Reality Camera 1
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159195
-#EXTINF:-1,TVI Reality Camera 2
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159196
-#EXTINF:-1,TVI Reality Camera 3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159197
-#EXTINF:-1,TVI Reality HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159198
-#EXTINF:-1,ARTV ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159296
-#EXTINF:-1,BBC ENTERTAINMENT [Multi-Lang] ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159297
-#EXTINF:-1,BLAZE FHD [Multi-Lang] ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159299
-#EXTINF:-1,BLAZE [Multi-Lang] ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159298
-#EXTINF:-1,CBS REALITY ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159300
-#EXTINF:-1,Canal Q ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159301
-#EXTINF:-1,24 Kitchen FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159295
-#EXTINF:-1,24 Kitchen HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159294
-#EXTINF:-1,Caça Vision ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159302
-#EXTINF:-1,Caça e Pesca FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159304
-#EXTINF:-1,Caça e Pesca ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159303
-#EXTINF:-1,DISCOVERY CHANNEL FHD [Multi-Lang] ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159306
-#EXTINF:-1,DISCOVERY CHANNEL ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159305
-#EXTINF:-1,Discovery Showcase HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159307
-#EXTINF:-1,Investigation Discovery FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159308
-#EXTINF:-1,Fashion TV
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159311
-#EXTINF:-1,História FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159313
-#EXTINF:-1,História
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159312
-#EXTINF:-1,LocalVisão TV HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159314
-#EXTINF:-1,MARVEL HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159315
-#EXTINF:-1,Fine Living FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159316
-#EXTINF:-1,Food Network FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159317
-#EXTINF:-1,National Geographic FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159319
-#EXTINF:-1,National Geographic
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159318
-#EXTINF:-1,Nat Geo Wild FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159322
-#EXTINF:-1,Nat Geo Wild HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159321
-#EXTINF:-1,Nat Geo Wild
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159320
-#EXTINF:-1,CRIME & INVESTIGATION ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159323
-#EXTINF:-1,Odisseia FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159325
-#EXTINF:-1,Odisseia
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159324
-#EXTINF:-1,TLC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159326
-#EXTINF:-1,Dog TV FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159327
-#EXTINF:-1,Zap Viva FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159328
-#EXTINF:-1,TPA
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159329
-#EXTINF:-1,TCV International
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159330
-#EXTINF:-1,TV Zimbo
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159331
-#EXTINF:-1,Travel Channel HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159332
-#EXTINF:-1,Toros TV
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159333
-#EXTINF:-1,SportTV+ FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159084
-#EXTINF:-1,SportTV+
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159083
-#EXTINF:-1,SportTV 1 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159090
-#EXTINF:-1,SportTV 2 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159095
-#EXTINF:-1,SportTV 3 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159100
-#EXTINF:-1,SportTV 4 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159105
-#EXTINF:-1,SportTV 5 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159111
-#EXTINF:-1,SportTV 1 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159089
-#EXTINF:-1,SportTV 2 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159094
-#EXTINF:-1,SportTV 3 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159099
-#EXTINF:-1,SportTV 4 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159104
-#EXTINF:-1,SportTV 5 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159110
-#EXTINF:-1,SportTV 1 SD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159086
-#EXTINF:-1,SportTV 1
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159085
-#EXTINF:-1,SportTV 2
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159091
-#EXTINF:-1,SportTV 3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159096
-#EXTINF:-1,SportTV 4
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159101
-#EXTINF:-1,SportTV 5
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159107
-#EXTINF:-1,SPORT TV 1 4K UHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159088
-#EXTINF:-1,SportTV 5 ( Baixa Internet )
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159109
-#EXTINF:-1,SportTV NBA FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159115
-#EXTINF:-1,SportTV NBA HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159114
-#EXTINF:-1,SportTV NBA
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159113
-#EXTINF:-1,BTV 1 FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159120
-#EXTINF:-1,BTV 1 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159117
-#EXTINF:-1,BTV 1
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159116
-#EXTINF:-1,BTV 1 ( Baixa Internet )
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159118
-#EXTINF:-1,BTV 1 4K
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159119
-#EXTINF:-1,ELEVEN SPORTS 1 FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159123
-#EXTINF:-1,ELEVEN SPORTS 2 FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159127
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159131
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159135
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159139
-#EXTINF:-1,ELEVEN SPORTS 6 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159143
-#EXTINF:-1,ELEVEN SPORTS 1 FHD 4:3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159124
-#EXTINF:-1,ELEVEN SPORTS 2 FHD 4:3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159128
-#EXTINF:-1,ELEVEN SPORTS 3 FHD 4:3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159132
-#EXTINF:-1,ELEVEN SPORTS 4 FHD 4:3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159136
-#EXTINF:-1,ELEVEN SPORTS 5 FHD 4:3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159140
-#EXTINF:-1,ELEVEN SPORTS 6 FHD 4:3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159144
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159122
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159126
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159130
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159134
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159138
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159142
-#EXTINF:-1,ELEVEN SPORTS 1 (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159121
-#EXTINF:-1,ELEVEN SPORTS 2 (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159125
-#EXTINF:-1,ELEVEN SPORTS 3 HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159129
-#EXTINF:-1,Casa e Cozinha FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159141
-#EXTINF:-1,CANAL 11 FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159147
-#EXTINF:-1,CANAL 11 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159146
-#EXTINF:-1,CANAL 11
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159145
-#EXTINF:-1,Sporting TV FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159149
-#EXTINF:-1,Sporting TV HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159148
-#EXTINF:-1,A Bola TV FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159152
-#EXTINF:-1,A Bola TV HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159151
-#EXTINF:-1,A Bola TV
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159150
-#EXTINF:-1,Real Madrid TV
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159153
-#EXTINF:-1,PFC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159157
-#EXTINF:-1,Motorvision TV
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159158
-#EXTINF:-1,SPORT TV 1 FHD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159159
-#EXTINF:-1,Fight Network FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159160
-#EXTINF:-1,Fuel TV FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159162
-#EXTINF:-1,Fuel TV
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159161
-#EXTINF:-1,Boomerang [ Brasil ]
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159205
-#EXTINF:-1,BABY TV ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159206
-#EXTINF:-1,JimJam
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159207
-#EXTINF:-1,CANAL PANDA ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159208
-#EXTINF:-1,Panda Biggs
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159209
-#EXTINF:-1,DISNEY JR [Multi-Lang] ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159210
-#EXTINF:-1,DISNEY CHANNEL [Multi-Lang] ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159211
-#EXTINF:-1,CARTOON NETWORK ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159212
-#EXTINF:-1,Nickelodeon
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159213
-#EXTINF:-1,Nick Jr.
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159214
-#EXTINF:-1,SIC Kids FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159216
-#EXTINF:-1,SIC Kids
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159215
-#EXTINF:-1,Kuriakos Kids
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159341
-#EXTINF:-1,SIC Notícias FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159262
-#EXTINF:-1,SIC Notícias
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159261
-#EXTINF:-1,TVI 24 FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159266
-#EXTINF:-1,TVI 24 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159265
+http://ostora.net:2086/test/test/1939
+#EXTINF:-1,TVI
+http://ostora.net:2086/test/test/1940
+#EXTINF:-1,SIC Noticias
+http://ostora.net:2086/test/test/1941
+#EXTINF:-1,SIC Radical
+http://ostora.net:2086/test/test/1942
+#EXTINF:-1,SIC Mulher
+http://ostora.net:2086/test/test/1943
+#EXTINF:-1,SIC K
+http://ostora.net:2086/test/test/1944
+#EXTINF:-1,SIC Caras
+http://ostora.net:2086/test/test/1945
+#EXTINF:-1,RTP Memoria
+http://ostora.net:2086/test/test/1946
+#EXTINF:-1,RTP Madeira
+http://ostora.net:2086/test/test/1947
+#EXTINF:-1,RTP Açores
+http://ostora.net:2086/test/test/1948
+#EXTINF:-1,RTP  africa
+http://ostora.net:2086/test/test/1949
+#EXTINF:-1,Porto Canal
+http://ostora.net:2086/test/test/1950
+#EXTINF:-1,ZAP Viva HD
+http://ostora.net:2086/test/test/1951
 #EXTINF:-1,TVI 24
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159263
-#EXTINF:-1,Canal Q HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159264
-#EXTINF:-1,CMTV FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159273
-#EXTINF:-1,CMTV HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159272
-#EXTINF:-1,CMTV ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159270
-#EXTINF:-1,RTP 3 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159271
-#EXTINF:-1,Porto Canal FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159275
-#EXTINF:-1,Porto Canal HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159274
-#EXTINF:-1,BBC WORLD NEWS [Multi-Lang] ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159277
-#EXTINF:-1,MTV FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159280
-#EXTINF:-1,MTV
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159279
-#EXTINF:-1,MTV DANCE
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159281
-#EXTINF:-1,MTV MUSIC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159282
-#EXTINF:-1,MTV ROCKS
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159283
-#EXTINF:-1,VH1
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159284
+http://ostora.net:2086/test/test/1952
+#EXTINF:-1,TVEi
+http://ostora.net:2086/test/test/1953
+#EXTINF:-1,24 Kitchen HD
+http://ostora.net:2086/test/test/1954
+#EXTINF:-1,TVI Reality
+http://ostora.net:2086/test/test/1955
+#EXTINF:-1,Cançao Nova
+http://ostora.net:2086/test/test/1956
+#EXTINF:-1,Casa e Cozinha HD
+http://ostora.net:2086/test/test/1957
+#EXTINF:-1,TVCine Top HD
+http://ostora.net:2086/test/test/1958
+#EXTINF:-1,TVCine Edition HD
+http://ostora.net:2086/test/test/1959
+#EXTINF:-1,TVCine Emotion HD
+http://ostora.net:2086/test/test/1960
+#EXTINF:-1,TVCine Action HD
+http://ostora.net:2086/test/test/1961
+#EXTINF:-1,Hollywood HD
+http://ostora.net:2086/test/test/1962
+#EXTINF:-1,Hollywood
+http://ostora.net:2086/test/test/1963
+#EXTINF:-1,Cinemundo
+http://ostora.net:2086/test/test/1964
+#EXTINF:-1,FOX Movies HD
+http://ostora.net:2086/test/test/1965
+#EXTINF:-1,FOX Life HD
+http://ostora.net:2086/test/test/1966
+#EXTINF:-1,FOX HD
+http://ostora.net:2086/test/test/1967
+#EXTINF:-1,FOX Crime HD
+http://ostora.net:2086/test/test/1968
+#EXTINF:-1,FOX Comedy
+http://ostora.net:2086/test/test/1969
+#EXTINF:-1,NOS Studios HD
+http://ostora.net:2086/test/test/1970
+#EXTINF:-1,AXN HD
+http://ostora.net:2086/test/test/1971
+#EXTINF:-1,AXN MOVIES HD
+http://ostora.net:2086/test/test/1972
+#EXTINF:-1,AXN White HD
+http://ostora.net:2086/test/test/1973
+#EXTINF:-1,AMC HD
+http://ostora.net:2086/test/test/1974
+#EXTINF:-1,AMC
+http://ostora.net:2086/test/test/1975
+#EXTINF:-1,SyFy
+http://ostora.net:2086/test/test/1976
+#EXTINF:-1,SPORT TV 1 HD
+http://ostora.net:2086/test/test/1977
+#EXTINF:-1,SPORT TV 1
+http://ostora.net:2086/test/test/1978
+#EXTINF:-1,SPORT TV 2 HD
+http://ostora.net:2086/test/test/1979
+#EXTINF:-1,SPORT TV 2
+http://ostora.net:2086/test/test/1980
+#EXTINF:-1,SPORT TV 3 HD
+http://ostora.net:2086/test/test/1981
+#EXTINF:-1,SPORT TV 3
+http://ostora.net:2086/test/test/1982
+#EXTINF:-1,SPORT TV 4 HD
+http://ostora.net:2086/test/test/1983
+#EXTINF:-1,SPORT TV 4
+http://ostora.net:2086/test/test/1984
+#EXTINF:-1,SPORT TV 5 HD
+http://ostora.net:2086/test/test/1985
+#EXTINF:-1,SPORT TV 5
+http://ostora.net:2086/test/test/1986
+#EXTINF:-1,SPORT TV +
+http://ostora.net:2086/test/test/1987
+#EXTINF:-1,Eleven Sports 1 HD
+http://ostora.net:2086/test/test/1988
+#EXTINF:-1,Eleven Sports 2 HD
+http://ostora.net:2086/test/test/1989
+#EXTINF:-1,Eleven Sports 3 HD
+http://ostora.net:2086/test/test/1990
+#EXTINF:-1,Eleven Sports 4 HD
+http://ostora.net:2086/test/test/1991
+#EXTINF:-1,Eleven Sports 5 HD
+http://ostora.net:2086/test/test/1992
+#EXTINF:-1,Eleven Sports 6
+http://ostora.net:2086/test/test/1993
+#EXTINF:-1,BTV HD
+http://ostora.net:2086/test/test/1994
+#EXTINF:-1,BTV
+http://ostora.net:2086/test/test/1995
+#EXTINF:-1,Sporting TV
+http://ostora.net:2086/test/test/1996
+#EXTINF:-1,Canal 11 HD
+http://ostora.net:2086/test/test/1997
+#EXTINF:-1,A Bola TV
+http://ostora.net:2086/test/test/1998
+#EXTINF:-1,NBA TV HD
+http://ostora.net:2086/test/test/2002
+#EXTINF:-1,Toros TV
+http://ostora.net:2086/test/test/2003
+#EXTINF:-1,Kombat Sport
+http://ostora.net:2086/test/test/2004
+#EXTINF:-1,PFC
+http://ostora.net:2086/test/test/2005
+#EXTINF:-1,Cacavision
+http://ostora.net:2086/test/test/2006
+#EXTINF:-1,Motorvision
+http://ostora.net:2086/test/test/2007
+#EXTINF:-1,National Geographic HD
+http://ostora.net:2086/test/test/2008
+#EXTINF:-1,National Geographic Wild
+http://ostora.net:2086/test/test/2009
+#EXTINF:-1,Discovery Channel
+http://ostora.net:2086/test/test/2010
+#EXTINF:-1,Travel Channel HD
+http://ostora.net:2086/test/test/2011
 #EXTINF:-1,Trace Urban
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159285
+http://ostora.net:2086/test/test/2012
+#EXTINF:-1,Odisseia
+http://ostora.net:2086/test/test/2013
+#EXTINF:-1,Trace Toca
+http://ostora.net:2086/test/test/2014
+#EXTINF:-1,TLC
+http://ostora.net:2086/test/test/2015
+#EXTINF:-1,HistÃ°ria
+http://ostora.net:2086/test/test/2016
+#EXTINF:-1,FTV
+http://ostora.net:2086/test/test/2017
+#EXTINF:-1,Blaze
+http://ostora.net:2086/test/test/2018
+#EXTINF:-1,MTV Portugal
+http://ostora.net:2086/test/test/2019
 #EXTINF:-1,MCM POP
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159286
-#EXTINF:-1,MCM TOP
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159287
+http://ostora.net:2086/test/test/2020
 #EXTINF:-1,Mezzo
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159288
-#EXTINF:-1,C-Music TV
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159289
-#EXTINF:-1,AFRO MUSIC ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159290
-#EXTINF:-1,iConcerts HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159291
-#EXTINF:-1,ON FM Portugal
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159292
-#EXTINF:-1,TV Globo
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159199
-#EXTINF:-1,TV Globo NOW
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159200
-#EXTINF:-1,TV Record HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159201
+http://ostora.net:2086/test/test/2021
+#EXTINF:-1,Afro Music
+http://ostora.net:2086/test/test/2022
+#EXTINF:-1,VH1
+http://ostora.net:2086/test/test/2023
+#EXTINF:-1,Disney JÅ“nior
+http://ostora.net:2086/test/test/2024
+#EXTINF:-1,Disney Channel
+http://ostora.net:2086/test/test/2025
+#EXTINF:-1,Jim Jam
+http://ostora.net:2086/test/test/2026
+#EXTINF:-1,Cartoon Network
+http://ostora.net:2086/test/test/2027
+#EXTINF:-1,Canal Panda
+http://ostora.net:2086/test/test/2028
+#EXTINF:-1,Baby TV
+http://ostora.net:2086/test/test/2029
+#EXTINF:-1,Canal Q
+http://ostora.net:2086/test/test/2030
+#EXTINF:-1,Biggs
+http://ostora.net:2086/test/test/2031
+#EXTINF:-1,Nick Jr.
+http://ostora.net:2086/test/test/2032
+#EXTINF:-1,Deutsche Welle (A)
+http://ostora.net:2086/test/test/2033
+#EXTINF:-1,CNN
+http://ostora.net:2086/test/test/2034
+#EXTINF:-1,CMTV
+http://ostora.net:2086/test/test/2037
+#EXTINF:-1,SKY News
+http://ostora.net:2086/test/test/2038
+#EXTINF:-1,France 24
+http://ostora.net:2086/test/test/2039
+#EXTINF:-1,TVI FicÃ§ao
+http://ostora.net:2086/test/test/2040
+#EXTINF:-1,TV5 Monde
+http://ostora.net:2086/test/test/2041
+#EXTINF:-1,TV Galicia
+http://ostora.net:2086/test/test/2042
+#EXTINF:-1,Crime Investigation
+http://ostora.net:2086/test/test/2043
+#EXTINF:-1,E! Entertainment
+http://ostora.net:2086/test/test/2044
+#EXTINF:-1,BBC World News
+http://ostora.net:2086/test/test/2045
+#EXTINF:-1,ID Investigation Discovery
+http://ostora.net:2086/test/test/2046
+#EXTINF:-1,Bloomberg
+http://ostora.net:2086/test/test/2047
+#EXTINF:-1,CASA E COZINHA
+http://ostora.net:2086/test/test/2048
 #EXTINF:-1,TV Record
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159202
-#EXTINF:-1,Santuario Fatima FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159335
-#EXTINF:-1,TV Fatima
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159334
-#EXTINF:-1,Canção Nova ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159336
-#EXTINF:-1,Kuriakos TV FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159339
-#EXTINF:-1,Kuriakos TV HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159338
-#EXTINF:-1,TIJI HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159337
-#EXTINF:-1,TV Maná HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159342
-#EXTINF:-1,Sobrenatural TV HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159343
-#EXTINF:-1,ARTV Parlamento
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159344
-#EXTINF:-1,DocuBox
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159345
-#EXTINF:-1,CANAL 180 ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159346
-#EXTINF:-1,Águeda Tv
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159347
-#EXTINF:-1,Ad Almada Tv
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/159348
-#EXTINF:-1,SPORT TV + HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230583
-#EXTINF:-1,SPORT TV 1 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230584
-#EXTINF:-1,SPORT TV 2 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230585
-#EXTINF:-1,SPORT TV 3 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230586
-#EXTINF:-1,Sport TV 4 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230587
-#EXTINF:-1,Sport TV 5 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230588
-#EXTINF:-1,A BOLA HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230589
-#EXTINF:-1,SPORT TV NBA HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231562
-#EXTINF:-1,ELEVEN SPORTS 1 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231563
-#EXTINF:-1,ELEVEN SPORTS 2 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231564
-#EXTINF:-1,ELEVEN SPORTS 3 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231565
-#EXTINF:-1,CANAL 11 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231566
-#EXTINF:-1,BENFICA TV HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231568
-#EXTINF:-1,RTP 1 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230560
-#EXTINF:-1,RTP 2 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230561
-#EXTINF:-1,SIC HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230562
-#EXTINF:-1,SIC CARAS HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231569
-#EXTINF:-1,SIC MULHER HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231570
-#EXTINF:-1,SIC NOTICIAS HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231571
-#EXTINF:-1,SIC RADICAL HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231572
-#EXTINF:-1,TVI HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230563
-#EXTINF:-1,TVI 24 HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231573
-#EXTINF:-1,TVI FICÇAO HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231574
-#EXTINF:-1,CMTV HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230564
-#EXTINF:-1,GLOBO HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230565
-#EXTINF:-1,BTV HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230566
-#EXTINF:-1,TVCINE TOP HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230567
-#EXTINF:-1,TVCINE EDITION HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230568
-#EXTINF:-1,TVCINE EMOTON HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230569
-#EXTINF:-1,TVCINE ACTION HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230570
-#EXTINF:-1,FOX HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230572
-#EXTINF:-1,FOX MOVIES HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230575
-#EXTINF:-1,FOX CRIME HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230576
-#EXTINF:-1,FOX COMEDY HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230577
-#EXTINF:-1,FOX LIFE HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231575
-#EXTINF:-1,AMC HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231576
-#EXTINF:-1,AXN HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230571
-#EXTINF:-1,AXN WHITE HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230573
-#EXTINF:-1,AXN MOVIES HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230574
-#EXTINF:-1,NOS STUDIOS HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230578
-#EXTINF:-1,HOLLYWOOD HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230579
-#EXTINF:-1,CINEMUNDO HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/230580
-#EXTINF:-1,TV SERIES HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231587
-#EXTINF:-1,SYFY HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231588
-#EXTINF:-1,24 KITCHEN HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231577
-#EXTINF:-1,CASA E COZINHA HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231578
-#EXTINF:-1,HISTORIA HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231579
-#EXTINF:-1,BLAZE HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231580
-#EXTINF:-1,DISCOVERY CHANNEL HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231581
-#EXTINF:-1,ID INVESTIGATION DISCOVERY HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231582
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231583
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231584
-#EXTINF:-1,ODISSEIA HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231585
-#EXTINF:-1,TRAVEL CHANNEL HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231586
-#EXTINF:-1,ZAP VIVA HD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/231589
+http://ostora.net:2086/test/test/2049
+#EXTINF:-1,Globo Now
+http://ostora.net:2086/test/test/2050
+#EXTINF:-1,Globo
+http://ostora.net:2086/test/test/2051
+#EXTINF:-1,Fuel tv
+http://ostora.net:2086/test/test/2052
+#EXTINF:-1,Nickelodeon
+http://ostora.net:2086/test/test/2053
