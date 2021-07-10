@@ -1,1273 +1,223 @@
 #EXTM3U
-#EXTINF:-1,GLOBO RJ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3
-#EXTINF:-1,GLOBO RJ FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/1
-#EXTINF:-1,GLOBO RJ SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6
-#EXTINF:-1,GLOBO RJ HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4236
-#EXTINF:-1,GLOBO RJ FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4541
-#EXTINF:-1,GLOBO SP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8
-#EXTINF:-1,GLOBO SP FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7
-#EXTINF:-1,GLOBO SP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/10
-#EXTINF:-1,GLOBO SP HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4309
-#EXTINF:-1,GLOBO SP FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4315
-#EXTINF:-1,GLOBO TV GAZETA VITORIA ES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4209
-#EXTINF:-1,GLOBO TV GAZETA VITORIA ES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4208
-#EXTINF:-1,GLOBO TV GAZETA VITORIA ES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4534
-#EXTINF:-1,GLOBO GAZETA SUL ES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3619
-#EXTINF:-1,GLOBO GAZETA SUL ES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/22
-#EXTINF:-1,GLOBO GAZETA SUL ES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8586
-#EXTINF:-1,GLOBO CENTRO AMERICA CUIABA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6809
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6256
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/50
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3763
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7688
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7687
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7686
-#EXTINF:-1,GLOBO RBS TV PELOTAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7682
-#EXTINF:-1,GLOBO RBS TV PELOTAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7681
-#EXTINF:-1,GLOBO RBS TV PELOTAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7680
-#EXTINF:-1,GLOBO NORDESTE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4318
-#EXTINF:-1,GLOBO NORDESTE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/30
-#EXTINF:-1,GLOBO NORDESTE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4540
-#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7720
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/12
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/13
-#EXTINF:-1,GLOBO RPC CURITIBA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5498
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3658
-#EXTINF:-1,GLOBO MINAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/19
-#EXTINF:-1,GLOBO MINAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/18
-#EXTINF:-1,GLOBO MINAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/21
-#EXTINF:-1,GLOBO ANHANGUERA GOIANIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/17
-#EXTINF:-1,GLOBO ANHANGUERA GOIANIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4539
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7626
-#EXTINF:-1,GLOBO VERDES MARES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3661
-#EXTINF:-1,GLOBO BRASILIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4077
-#EXTINF:-1,GLOBO BRASILIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/27
-#EXTINF:-1,GLOBO TV BAHIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4538
-#EXTINF:-1,GLOBO TV BAHIA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7715
-#EXTINF:-1,GLOBO TV BAHIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3662
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4231
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7718
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4232
-#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7690
-#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7691
-#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7689
-#EXTINF:-1,GLOBO NSC TV CHAPECO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7735
-#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7736
-#EXTINF:-1,GLOBO NSC TV CHAPECO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7734
-#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7684
-#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7685
-#EXTINF:-1,GLOBO NSC TV JOINVILLE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7683
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/35
-#EXTINF:-1,GLOBO TV TEM BAURU SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/36
-#EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7708
-#EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37
-#EXTINF:-1,GLOBO BRASILIA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7721
-#EXTINF:-1,GLOBO EPTV ARARAQUARA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7742
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7741
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7702
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7703
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7701
-#EXTINF:-1,GLOBO INTER TV DOS VALES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7699
-#EXTINF:-1,GLOBO INTER TV DOS VALES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7700
-#EXTINF:-1,GLOBO INTER TV DOS VALES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7698
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7696
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7697
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7695
-#EXTINF:-1,GLOBO INTER TV NATAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7740
-#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7693
-#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7694
-#EXTINF:-1,GLOBO INTER TV SERRA MAR SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7692
-#EXTINF:-1,GLOBO MINAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7719
-#EXTINF:-1,GLOBO REDE AM. MANAUS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7739
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7731
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7732
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7733
-#EXTINF:-1,GLOBO RPC MARINGA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11983
-#EXTINF:-1,GLOBO RPC MARINGA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11982
-#EXTINF:-1,GLOBO RPC MARINGA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11984
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7716
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7738
-#EXTINF:-1,GLOBO TV CABO BRANCO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7678
-#EXTINF:-1,GLOBO TV CABO BRANCO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7679
-#EXTINF:-1,GLOBO TV CABO BRANCO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7677
-#EXTINF:-1,GLOBO TV CLUBE TERESINA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7728
-#EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7729
-#EXTINF:-1,GLOBO TV CLUBE TERESINA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7730
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7705
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7706
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7707
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7737
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7713
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7714
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7712
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7710
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7711
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7709
-#EXTINF:-1,GLOBO TV RIO SUL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7675
-#EXTINF:-1,GLOBO TV RIO SUL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7676
-#EXTINF:-1,GLOBO TV RIO SUL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7674
-#EXTINF:-1,GLOBO TV SANTA CRUZ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7672
-#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7673
-#EXTINF:-1,GLOBO TV SANTA CRUZ SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7671
-#EXTINF:-1,GLOBO TV SERGIPE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7722
-#EXTINF:-1,GLOBO TV SERGIPE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7723
-#EXTINF:-1,GLOBO TV SERGIPE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7724
-#EXTINF:-1,GLOBO USA PREMIUM HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60
-#EXTINF:-1,GLOBOSAT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/431
-#EXTINF:-1,GLOBOSAT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7657
-#EXTINF:-1,GLOBOSAT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4104
-#EXTINF:-1,GLOBOSAT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/433
-#EXTINF:-1,RECORDTV SP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/66
-#EXTINF:-1,RECORDTV SP FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/64
-#EXTINF:-1,RECORDTV SP HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4094
-#EXTINF:-1,RECORDTV SP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/69
-#EXTINF:-1,RECORDTV SP SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5512
-#EXTINF:-1,RECORDTV MG HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4257
-#EXTINF:-1,RECORDTV MG SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4258
-#EXTINF:-1,RECORDTV RJ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4255
-#EXTINF:-1,RECORDTV RJ SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4256
-#EXTINF:-1,RECORDTV GOIANIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57292
-#EXTINF:-1,RECORDTV GOIANIA H265 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7421
-#EXTINF:-1,RECORDTV BA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5516
-#EXTINF:-1,RECORDTV BA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5515
-#EXTINF:-1,BAND FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/73
-#EXTINF:-1,BAND HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/75
-#EXTINF:-1,BAND HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4096
-#EXTINF:-1,BAND SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/78
-#EXTINF:-1,BAND SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4097
-#EXTINF:-1,BAND RJ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6812
-#EXTINF:-1,BAND BAHIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7412
-#EXTINF:-1,BAND GOIANIA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7420
-#EXTINF:-1,SBT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/79
-#EXTINF:-1,SBT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/82
-#EXTINF:-1,SBT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4098
-#EXTINF:-1,SBT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/85
-#EXTINF:-1,SBT RS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4099
-#EXTINF:-1,SBT RJ HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6810
-#EXTINF:-1,SBT ES TV TRIBUNA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8581
-#EXTINF:-1,SBT ES TV TRIBUNA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8582
-#EXTINF:-1,SBT ES TV TRIBUNA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8580
-#EXTINF:-1,SBT GOIAS SERRA DOURADA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57293
-#EXTINF:-1,SBT GOIAS SERRA DOURADA H265 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7419
-#EXTINF:-1,REDE TV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/89
-#EXTINF:-1,REDE TV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6257
-#EXTINF:-1,REDE TV HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5524
-#EXTINF:-1,REDE TV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/90
-#EXTINF:-1,REDE TV SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4101
-#EXTINF:-1,TV CULTURA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/92
-#EXTINF:-1,TV CULTURA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7660
-#EXTINF:-1,TV CULTURA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7659
-#EXTINF:-1,TV ESCOLA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/95
-#EXTINF:-1,AGRO CANAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4234
-#EXTINF:-1,CANAL RURAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61663
-#EXTINF:-1,TV GAZETA SP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/96
-#EXTINF:-1,TV GAZETA SP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61666
-#EXTINF:-1,REDE BRASIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/97
-#EXTINF:-1,TERRA VIVA ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4313
-#EXTINF:-1,TERRA VIVA
-http://tv1.cs10.tv:80/leopoldo/leopoldo/101
-#EXTINF:-1,TV JUSTICA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6259
-#EXTINF:-1,TV CAMARA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6258
-#EXTINF:-1,TV SENADO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6270
-#EXTINF:-1,FUTURA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7644
-#EXTINF:-1,FUTURA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7645
-#EXTINF:-1,FUTURA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6243
-#EXTINF:-1,CURTA! HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7640
-#EXTINF:-1,CURTA! FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7641
-#EXTINF:-1,CURTA! SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6242
-#EXTINF:-1,CARIOCA 01 2021
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61652
-#EXTINF:-1,CARIOCA FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57179
-#EXTINF:-1,CARIOCA HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57180
-#EXTINF:-1,CARIOCA 02 2021
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61651
-#EXTINF:-1,CARIOCA 03 2021
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61650
-#EXTINF:-1,CONMEBOL TV 1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57514
-#EXTINF:-1,CONMEBOL TV 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57515
-#EXTINF:-1,CONMEBOL TV 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57516
-#EXTINF:-1,CONMEBOL TV 4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57517
-#EXTINF:-1,FACEBOOK WATCH
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6793
-#EXTINF:-1,ESTADIO TNT SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37782
-#EXTINF:-1,FORMULA 1 TV
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57181
-#EXTINF:-1,DAZN1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/12639
-#EXTINF:-1,DAZN1 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6610
-#EXTINF:-1,DAZN2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/12640
-#EXTINF:-1,DAZN2 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6618
-#EXTINF:-1,DAZN3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37779
-#EXTINF:-1,DAZN3 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57178
-#EXTINF:-1,DAZN4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37780
-#EXTINF:-1,DAZN4 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61660
-#EXTINF:-1,DAZN5
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37781
-#EXTINF:-1,EI PLUS 1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6305
-#EXTINF:-1,EI PLUS 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8590
-#EXTINF:-1,EI PLUS 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60728
-#EXTINF:-1,EI PLUS 4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60729
-#EXTINF:-1,EI PLUS 5
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60730
-#EXTINF:-1,EI PLUS 6
-http://tv1.cs10.tv:80/leopoldo/leopoldo/60731
-#EXTINF:-1,SPORTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/115
-#EXTINF:-1,SPORTV HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4058
-#EXTINF:-1,SPORTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/114
-#EXTINF:-1,SPORTV FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5414
-#EXTINF:-1,SPORTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/118
-#EXTINF:-1,SPORTV SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4059
-#EXTINF:-1,SPORTV 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/121
-#EXTINF:-1,SPORTV 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4060
-#EXTINF:-1,SPORTV 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/120
-#EXTINF:-1,SPORTV 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/123
-#EXTINF:-1,SPORTV 2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4061
-#EXTINF:-1,SPORTV 3 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/125
-#EXTINF:-1,SPORTV 3 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4062
-#EXTINF:-1,SPORTV 3 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/124
-#EXTINF:-1,SPORTV 3 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/127
-#EXTINF:-1,SPORTV 3 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4063
-#EXTINF:-1,FOX SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/130
-#EXTINF:-1,FOX SPORTS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4065
-#EXTINF:-1,FOX SPORTS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/128
-#EXTINF:-1,FOX SPORTS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/134
-#EXTINF:-1,FOX SPORTS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4066
-#EXTINF:-1,FOX SPORTS 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/137
-#EXTINF:-1,FOX SPORTS 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4067
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4064
-#EXTINF:-1,FOX SPORTS 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/140
-#EXTINF:-1,FOX SPORTS 2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4068
-#EXTINF:-1,COMBATE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/142
-#EXTINF:-1,COMBATE HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4056
-#EXTINF:-1,COMBATE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/141
+#EXTINF:-1,A&E
+http://iptvparatodos.net:38953/julio0206/53327705/22761
+#EXTINF:-1,A FAZENDA
+http://iptvparatodos.net:38953/julio0206/53327705/91431
+#EXTINF:-1,AMC
+http://iptvparatodos.net:38953/julio0206/53327705/22644
+#EXTINF:-1,ANIMAL PLANET
+http://iptvparatodos.net:38953/julio0206/53327705/22760
+#EXTINF:-1,ARTE 1
+http://iptvparatodos.net:38953/julio0206/53327705/22648
+#EXTINF:-1,AXN
+http://iptvparatodos.net:38953/julio0206/53327705/22759
+#EXTINF:-1,BAND NEWS
+http://iptvparatodos.net:38953/julio0206/53327705/22756
+#EXTINF:-1,BAND SPORTS
+http://iptvparatodos.net:38953/julio0206/53327705/22757
+#EXTINF:-1,BIS
+http://iptvparatodos.net:38953/julio0206/53327705/22754
+#EXTINF:-1,BOOMERANG
+http://iptvparatodos.net:38953/julio0206/53327705/22753
+#EXTINF:-1,CANAL BRASIL
+http://iptvparatodos.net:38953/julio0206/53327705/22752
+#EXTINF:-1,CANAL SONY
+http://iptvparatodos.net:38953/julio0206/53327705/22751
+#EXTINF:-1,CARTOON NETWORK
+http://iptvparatodos.net:38953/julio0206/53327705/22749
+#EXTINF:-1,CINEMAX
+http://iptvparatodos.net:38953/julio0206/53327705/22748
+#EXTINF:-1,COMBATE
+http://iptvparatodos.net:38953/julio0206/53327705/22747
 #EXTINF:-1,COMBATE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/145
-#EXTINF:-1,COMBATE SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4057
-#EXTINF:-1,ESPN BRASIL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/149
-#EXTINF:-1,ESPN BRASIL HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4069
-#EXTINF:-1,ESPN BRASIL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/148
-#EXTINF:-1,ESPN BRASIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/152
-#EXTINF:-1,ESPN BRASIL SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4070
-#EXTINF:-1,ESPN HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/154
-#EXTINF:-1,ESPN HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4071
-#EXTINF:-1,ESPN FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/153
-#EXTINF:-1,ESPN SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/157
-#EXTINF:-1,ESPN SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4072
-#EXTINF:-1,ESPN2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/159
-#EXTINF:-1,ESPN2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4073
-#EXTINF:-1,ESPN2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7642
-#EXTINF:-1,ESPN2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/161
-#EXTINF:-1,ESPN2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4074
-#EXTINF:-1,ESPN EXTRA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4075
-#EXTINF:-1,ESPN EXTRA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5499
-#EXTINF:-1,ESPN EXTRA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4076
-#EXTINF:-1,BAND CAMPINAS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7407
-#EXTINF:-1,BAND SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/180
-#EXTINF:-1,BAND SPORTS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4078
-#EXTINF:-1,BAND SPORTS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/179
-#EXTINF:-1,BAND SPORTS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/182
-#EXTINF:-1,BAND SPORTS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4079
-#EXTINF:-1,OFF HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/183
-#EXTINF:-1,OFF HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4080
-#EXTINF:-1,OFF FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2237
-#EXTINF:-1,OFF SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/184
-#EXTINF:-1,OFF SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4081
-#EXTINF:-1,FISH TV H265 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/185
-#EXTINF:-1,FISH TV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/186
-#EXTINF:-1,PREMIERE CLUBES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/189
-#EXTINF:-1,PREMIERE CLUBES HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4084
-#EXTINF:-1,PREMIERE CLUBES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/188
-#EXTINF:-1,PREMIERE CLUBES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/192
-#EXTINF:-1,PREMIERE CLUBES SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4085
-#EXTINF:-1,PREMIERE 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/195
-#EXTINF:-1,PREMIERE 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4087
-#EXTINF:-1,PREMIERE 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/194
-#EXTINF:-1,PREMIERE 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/198
-#EXTINF:-1,PREMIERE 2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4086
-#EXTINF:-1,PREMIERE 3 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/201
-#EXTINF:-1,PREMIERE 3 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4089
-#EXTINF:-1,PREMIERE 3 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/200
-#EXTINF:-1,PREMIERE 3 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/203
-#EXTINF:-1,PREMIERE 3 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4088
-#EXTINF:-1,PREMIERE 4 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/206
-#EXTINF:-1,PREMIERE 4 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4091
-#EXTINF:-1,PREMIERE 4 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/205
-#EXTINF:-1,PREMIERE 4 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/208
-#EXTINF:-1,PREMIERE 4 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4090
-#EXTINF:-1,PREMIERE 5 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/210
-#EXTINF:-1,PREMIERE 5 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4092
-#EXTINF:-1,PREMIERE 5 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/209
-#EXTINF:-1,PREMIERE 5 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/211
-#EXTINF:-1,PREMIERE 5 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4093
-#EXTINF:-1,PREMIERE 6 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/215
-#EXTINF:-1,PREMIERE 6 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/214
-#EXTINF:-1,PREMIERE 6 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/216
-#EXTINF:-1,PREMIERE 7 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/219
-#EXTINF:-1,PREMIERE 7 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5496
-#EXTINF:-1,PREMIERE 7 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/220
-#EXTINF:-1,PREMIERE 8 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5508
-#EXTINF:-1,TELECINE PREMIUM HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/238
-#EXTINF:-1,TELECINE PREMIUM HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5525
-#EXTINF:-1,TELECINE PREMIUM FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/237
-#EXTINF:-1,TELECINE PREMIUM SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/241
-#EXTINF:-1,TELECINE PREMIUM SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5526
-#EXTINF:-1,TELECINE ACTION HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/245
-#EXTINF:-1,TELECINE ACTION HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5527
-#EXTINF:-1,TELECINE ACTION FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/244
-#EXTINF:-1,TELECINE ACTION SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/248
-#EXTINF:-1,TELECINE ACTION SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5528
-#EXTINF:-1,TELECINE PIPOCA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/251
-#EXTINF:-1,TELECINE PIPOCA HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5529
-#EXTINF:-1,TELECINE PIPOCA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/250
-#EXTINF:-1,TELECINE PIPOCA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/253
-#EXTINF:-1,TELECINE PIPOCA SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5530
-#EXTINF:-1,TELECINE FUN HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/255
-#EXTINF:-1,TELECINE FUN HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5531
-#EXTINF:-1,TELECINE FUN FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/254
-#EXTINF:-1,TELECINE FUN SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/257
-#EXTINF:-1,TELECINE FUN SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5532
-#EXTINF:-1,TELECINE TOUCH HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/260
-#EXTINF:-1,TELECINE TOUCH HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5533
-#EXTINF:-1,TELECINE TOUCH FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/259
-#EXTINF:-1,TELECINE TOUCH SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/263
-#EXTINF:-1,TELECINE TOUCH SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5534
-#EXTINF:-1,TELECINE CULT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/266
-#EXTINF:-1,TELECINE CULT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5535
-#EXTINF:-1,TELECINE CULT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/265
-#EXTINF:-1,TELECINE CULT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/268
-#EXTINF:-1,TELECINE CULT SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5536
-#EXTINF:-1,MEGAPIX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/270
-#EXTINF:-1,MEGAPIX HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5538
-#EXTINF:-1,MEGAPIX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/269
-#EXTINF:-1,MEGAPIX FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5537
-#EXTINF:-1,MEGAPIX SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/273
-#EXTINF:-1,MEGAPIX SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5539
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/275
-#EXTINF:-1,UNIVERSAL CHANNEL HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5540
-#EXTINF:-1,UNIVERSAL CHANNEL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/274
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/277
-#EXTINF:-1,UNIVERSAL CHANNEL SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5541
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/279
-#EXTINF:-1,STUDIO UNIVERSAL HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5542
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/278
-#EXTINF:-1,STUDIO UNIVERSAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/282
-#EXTINF:-1,STUDIO UNIVERSAL SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5543
-#EXTINF:-1,SYFY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/284
-#EXTINF:-1,SYFY HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5544
-#EXTINF:-1,SYFY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/283
-#EXTINF:-1,SYFY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/286
-#EXTINF:-1,SYFY SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5545
-#EXTINF:-1,CANAL BRASIL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4130
-#EXTINF:-1,CANAL BRASIL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7658
-#EXTINF:-1,CANAL BRASIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/289
-#EXTINF:-1,HBO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/292
-#EXTINF:-1,HBO HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5546
-#EXTINF:-1,HBO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/291
-#EXTINF:-1,HBO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/296
-#EXTINF:-1,HBO SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5547
-#EXTINF:-1,HBO 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/299
-#EXTINF:-1,HBO 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5548
-#EXTINF:-1,HBO 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/298
-#EXTINF:-1,HBO 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/301
-#EXTINF:-1,HBO 2 SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5549
-#EXTINF:-1,HBO PLUS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/304
-#EXTINF:-1,HBO PLUS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5550
-#EXTINF:-1,HBO PLUS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/303
-#EXTINF:-1,HBO PLUS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/307
-#EXTINF:-1,HBO PLUS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5551
-#EXTINF:-1,HBO FAMILY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/311
-#EXTINF:-1,HBO FAMILY HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5552
-#EXTINF:-1,HBO FAMILY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/310
-#EXTINF:-1,HBO FAMILY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/314
-#EXTINF:-1,HBO FAMILY SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5553
-#EXTINF:-1,HBO SIGNATURE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/316
-#EXTINF:-1,HBO SIGNATURE HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5554
-#EXTINF:-1,HBO SIGNATURE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/315
-#EXTINF:-1,HBO SIGNATURE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/319
-#EXTINF:-1,HBO SIGNATURE SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5555
-#EXTINF:-1,CINE SKY PLAY 1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57586
-#EXTINF:-1,CINE SKY PLAY 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57587
-#EXTINF:-1,CINE SKY PLAY 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57588
-#EXTINF:-1,CINE SKY PLAY 4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57589
-#EXTINF:-1,CINE SKY PLAY 5
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57590
-#EXTINF:-1,CINE SKY PLAY 6
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57591
-#EXTINF:-1,CINE SKY PLAY 7
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57592
-#EXTINF:-1,CINE SKY PLAY 8
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57593
-#EXTINF:-1,CINE SKY PLAY 9
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57594
-#EXTINF:-1,A&E HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/379
-#EXTINF:-1,A&E HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5562
-#EXTINF:-1,A&E FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/378
-#EXTINF:-1,A&E SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/382
-#EXTINF:-1,A&E SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5563
-#EXTINF:-1,AMC HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/392
-#EXTINF:-1,AMC FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/391
-#EXTINF:-1,AMC SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/395
-#EXTINF:-1,AXN HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/398
-#EXTINF:-1,AXN FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/397
-#EXTINF:-1,AXN SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/400
-#EXTINF:-1,CINEMAX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/371
-#EXTINF:-1,CINEMAX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/370
-#EXTINF:-1,CINEMAX SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/373
-#EXTINF:-1,CANAL SONY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/356
-#EXTINF:-1,CANAL SONY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/355
-#EXTINF:-1,CANAL SONY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/358
-#EXTINF:-1,FOX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/340
-#EXTINF:-1,FOX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/338
-#EXTINF:-1,FOX SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/343
-#EXTINF:-1,FOX LIFE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/350
-#EXTINF:-1,FOX LIFE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7643
-#EXTINF:-1,FOX LIFE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/351
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/345
-#EXTINF:-1,FOX PREMIUM 1 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/344
-#EXTINF:-1,FOX PREMIUM 1 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4134
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/348
-#EXTINF:-1,FOX PREMIUM 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/347
-#EXTINF:-1,FOX PREMIUM 2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4131
-#EXTINF:-1,COMEDY CENTRAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/387
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6241
-#EXTINF:-1,COMEDY CENTRAL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/389
-#EXTINF:-1,FX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/353
-#EXTINF:-1,FX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/352
-#EXTINF:-1,FX SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/354
-#EXTINF:-1,HBO EXTREME HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/329
-#EXTINF:-1,HBO EXTREME HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5556
-#EXTINF:-1,HBO EXTREME FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/328
-#EXTINF:-1,HBO EXTREME SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/331
-#EXTINF:-1,HBO EXTREME ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5557
-#EXTINF:-1,HBO POP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/325
-#EXTINF:-1,HBO POP HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5558
-#EXTINF:-1,HBO POP FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/324
-#EXTINF:-1,HBO POP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/327
-#EXTINF:-1,HBO POP SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5559
-#EXTINF:-1,HBO MUNDI HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/321
-#EXTINF:-1,HBO MUNDI HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5560
-#EXTINF:-1,HBO MUNDI FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7647
-#EXTINF:-1,HBO MUNDI SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/323
-#EXTINF:-1,MAX SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5561
-#EXTINF:-1,SPACE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/368
-#EXTINF:-1,SPACE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/367
-#EXTINF:-1,SPACE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/369
-#EXTINF:-1,PARAMOUNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/376
-#EXTINF:-1,PARAMOUNT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/375
-#EXTINF:-1,PARAMOUNT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/377
-#EXTINF:-1,TBS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/385
-#EXTINF:-1,TBS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/384
-#EXTINF:-1,TBS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/386
-#EXTINF:-1,TNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/361
-#EXTINF:-1,TNT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57356
-#EXTINF:-1,TNT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/360
-#EXTINF:-1,TNT FHD ALT H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57360
-#EXTINF:-1,TNT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/362
-#EXTINF:-1,TNT SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57358
-#EXTINF:-1,TNT SERIES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/364
-#EXTINF:-1,TNT SERIES HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57357
-#EXTINF:-1,TNT SERIES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4132
-#EXTINF:-1,TNT SERIES FHD ALT H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57361
-#EXTINF:-1,TNT SERIES SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/366
-#EXTINF:-1,TNT SERIES SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57359
-#EXTINF:-1,TCM SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/402
-#EXTINF:-1,TCM SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8318
-#EXTINF:-1,TV DIARIO FORTALEZA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6239
-#EXTINF:-1,TV DIARIO FORTALEZA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7663
-#EXTINF:-1,TV DIARIO FORTALEZA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6240
-#EXTINF:-1,WARNER CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/335
-#EXTINF:-1,WARNER CHANNEL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4133
-#EXTINF:-1,WARNER CHANNEL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/337
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/405
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4106
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/404
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/408
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4107
-#EXTINF:-1,DISCOVERY TURBO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/413
-#EXTINF:-1,DISCOVERY TURBO HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4108
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/411
-#EXTINF:-1,DISCOVERY TURBO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/415
-#EXTINF:-1,DISCOVERY TURBO SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4109
-#EXTINF:-1,TLC HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/417
-#EXTINF:-1,TLC HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4110
-#EXTINF:-1,TLC FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/416
-#EXTINF:-1,TLC SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/420
-#EXTINF:-1,TLC SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4111
-#EXTINF:-1,VIVA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/422
-#EXTINF:-1,VIVA HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4112
-#EXTINF:-1,VIVA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5497
-#EXTINF:-1,VIVA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/424
-#EXTINF:-1,VIVA SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4113
-#EXTINF:-1,GNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/426
-#EXTINF:-1,GNT HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4114
-#EXTINF:-1,GNT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2509
-#EXTINF:-1,GNT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/429
-#EXTINF:-1,GNT SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4115
-#EXTINF:-1,WOOHOO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/435
-#EXTINF:-1,WOOHOO HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4116
-#EXTINF:-1,WOOHOO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7655
-#EXTINF:-1,WOOHOO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/436
-#EXTINF:-1,WOOHOO SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4117
-#EXTINF:-1,LIFETIME HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/438
-#EXTINF:-1,LIFETIME HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4118
-#EXTINF:-1,LIFETIME FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7646
-#EXTINF:-1,LIFETIME SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/440
-#EXTINF:-1,LIFETIME SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4119
-#EXTINF:-1,E! HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/442
-#EXTINF:-1,E! FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/441
-#EXTINF:-1,E! SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/444
-#EXTINF:-1,E! SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4121
-#EXTINF:-1,FOOD NETWORK HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/446
-#EXTINF:-1,FOOD NETWORK HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4122
-#EXTINF:-1,FOOD NETWORK FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/445
-#EXTINF:-1,FOOD NETWORK SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/447
-#EXTINF:-1,FOOD NETWORK SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4123
-#EXTINF:-1,PLAYTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/448
-#EXTINF:-1,TRUTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4103
-#EXTINF:-1,TRUTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7652
-#EXTINF:-1,TRUTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/451
-#EXTINF:-1,MULTISHOW HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/454
-#EXTINF:-1,MULTISHOW FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/453
-#EXTINF:-1,MULTISHOW SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/457
-#EXTINF:-1,BIS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/459
-#EXTINF:-1,BIS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/458
-#EXTINF:-1,BIS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/460
-#EXTINF:-1,MTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/461
-#EXTINF:-1,MTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/462
-#EXTINF:-1,MTV LIVE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4135
-#EXTINF:-1,MTV LIVE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7648
-#EXTINF:-1,MTV LIVE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4136
-#EXTINF:-1,MTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/464
-#EXTINF:-1,VH1 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/465
-#EXTINF:-1,VH1 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7654
-#EXTINF:-1,VH1 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3663
-#EXTINF:-1,VH1 MEGAHITS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/467
-#EXTINF:-1,PRIME BOX BRAZIL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4137
-#EXTINF:-1,PRIME BOX BRAZIL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7651
-#EXTINF:-1,PRIME BOX BRAZIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/469
-#EXTINF:-1,TV UNIVESP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/56897
-#EXTINF:-1,TV UNIVESP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/56898
-#EXTINF:-1,TV CULTURA EDUCACAO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/56899
-#EXTINF:-1,TV CULTURA EDUCACAO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/56900
-#EXTINF:-1,DOG TV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61604
-#EXTINF:-1,ANIMAL PLANET HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/475
-#EXTINF:-1,ANIMAL PLANET FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/474
-#EXTINF:-1,ANIMAL PLANET SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/477
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/480
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/479
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/481
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/484
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/482
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/486
-#EXTINF:-1,DISCOVERY THEATER HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/489
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5463
-#EXTINF:-1,DISCOVERY THEATER SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/491
-#EXTINF:-1,DISCOVERY WORLD HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/494
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/493
-#EXTINF:-1,DISCOVERY WORLD SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/496
-#EXTINF:-1,HGTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/498
-#EXTINF:-1,HGTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/497
-#EXTINF:-1,HGTV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/500
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/503
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4317
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/504
-#EXTINF:-1,NAT GEO WILD HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/506
-#EXTINF:-1,NAT GEO WILD FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/505
-#EXTINF:-1,NAT GEO WILD SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/507
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/509
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/508
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/512
-#EXTINF:-1,HISTORY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/515
-#EXTINF:-1,HISTORY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/514
-#EXTINF:-1,HISTORY SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/517
-#EXTINF:-1,H2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/519
-#EXTINF:-1,H2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/518
-#EXTINF:-1,H2 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/521
-#EXTINF:-1,ARTE 1 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/523
-#EXTINF:-1,ARTE 1 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7639
-#EXTINF:-1,ARTE 1 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/524
-#EXTINF:-1,RECORD ES TV VITORIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8578
-#EXTINF:-1,RECORD ES TV VITORIA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8579
-#EXTINF:-1,RECORD ES TV VITORIA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/8577
-#EXTINF:-1,GLOBO NEWS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/526
-#EXTINF:-1,GLOBO NEWS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/525
-#EXTINF:-1,GLOBO NEWS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4124
-#EXTINF:-1,GLOBO NEWS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/528
-#EXTINF:-1,GLOBO NEWS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4125
-#EXTINF:-1,BAND NEWS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/531
-#EXTINF:-1,BAND NEWS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4126
-#EXTINF:-1,BAND NEWS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/530
-#EXTINF:-1,BAND NEWS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/532
-#EXTINF:-1,BAND NEWS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4127
-#EXTINF:-1,RECORDTV RS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5522
-#EXTINF:-1,RECORDTV RS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5523
-#EXTINF:-1,RECORDTV RS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5521
-#EXTINF:-1,RECORDTV BAHIA TV CABRALIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7414
-#EXTINF:-1,RECORDTV TV BELEM HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7411
-#EXTINF:-1,RECORDTV MG PARANAIBA UBERLANDIA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7410
-#EXTINF:-1,RECORDTV TV LITORAL SANTOS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7409
-#EXTINF:-1,RECORDTV SAO JOSE DO RIO PRETO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7408
-#EXTINF:-1,RECORDTV DF HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5519
-#EXTINF:-1,RECORDTV DF FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5520
-#EXTINF:-1,RECORDTV DF SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5518
-#EXTINF:-1,RECORD NEWS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/534
-#EXTINF:-1,RECORD NEWS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4128
-#EXTINF:-1,RECORD NEWS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/533
-#EXTINF:-1,RECORD NEWS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/536
-#EXTINF:-1,RECORD NEWS SD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4129
-#EXTINF:-1,GLOOB HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/538
-#EXTINF:-1,GLOOB FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/537
-#EXTINF:-1,GLOOB SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/540
-#EXTINF:-1,GLOOBINHO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4536
-#EXTINF:-1,GLOOBINHO FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4535
-#EXTINF:-1,GLOOBINHO SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4537
-#EXTINF:-1,NAT GEO KIDS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/544
-#EXTINF:-1,NAT GEO KIDS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/543
-#EXTINF:-1,NAT GEO KIDS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/545
-#EXTINF:-1,DISCOVERY KIDS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/553
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/552
-#EXTINF:-1,DISCOVERY KIDS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/555
-#EXTINF:-1,LOADING HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57182
-#EXTINF:-1,LOADING SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61638
-#EXTINF:-1,PLAYKIDS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4253
-#EXTINF:-1,PLAYKIDS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7662
-#EXTINF:-1,PLAYKIDS SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4254
-#EXTINF:-1,BABY TV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/546
-#EXTINF:-1,TV RA TIM BUM HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/548
-#EXTINF:-1,TV RA TIM BUM FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7653
-#EXTINF:-1,TV RA TIM BUM SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/549
-#EXTINF:-1,BOOMERANG HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/558
-#EXTINF:-1,BOOMERANG FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/557
-#EXTINF:-1,BOOMERANG SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/561
-#EXTINF:-1,CARTOON NETWORK HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/564
-#EXTINF:-1,CARTOON NETWORK FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/562
-#EXTINF:-1,CARTOON NETWORK SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/567
-#EXTINF:-1,TOONCAST HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/570
-#EXTINF:-1,TOONCAST SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/569
-#EXTINF:-1,NICK JR HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/572
-#EXTINF:-1,NICK JR FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/571
-#EXTINF:-1,NICK JR SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/574
-#EXTINF:-1,NICK HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/576
-#EXTINF:-1,NICK FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/575
-#EXTINF:-1,NICK SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/577
-#EXTINF:-1,ZOOMOO HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/550
+http://iptvparatodos.net:38953/julio0206/53327705/21920
+#EXTINF:-1,COMEDY CENTRAL
+http://iptvparatodos.net:38953/julio0206/53327705/22746
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptvparatodos.net:38953/julio0206/53327705/22745
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://iptvparatodos.net:38953/julio0206/53327705/22744
+#EXTINF:-1,DISCOVERY H/H
+http://iptvparatodos.net:38953/julio0206/53327705/22743
+#EXTINF:-1,DISCOVERY ID
+http://iptvparatodos.net:38953/julio0206/53327705/22742
+#EXTINF:-1,DISCOVERY KIDS
+http://iptvparatodos.net:38953/julio0206/53327705/22741
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptvparatodos.net:38953/julio0206/53327705/22740
+#EXTINF:-1,DISCOVERY THEATER
+http://iptvparatodos.net:38953/julio0206/53327705/22739
+#EXTINF:-1,DISCOVERY TURBO
+http://iptvparatodos.net:38953/julio0206/53327705/22738
+#EXTINF:-1,DISCOVERY WORLD
+http://iptvparatodos.net:38953/julio0206/53327705/22737
+#EXTINF:-1,DISNEY CH
+http://iptvparatodos.net:38953/julio0206/53327705/22736
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvparatodos.net:38953/julio0206/53327705/22735
+#EXTINF:-1,DISNEY XD
+http://iptvparatodos.net:38953/julio0206/53327705/22734
+#EXTINF:-1,E!
+http://iptvparatodos.net:38953/julio0206/53327705/22733
+#EXTINF:-1,ESPN 2
+http://iptvparatodos.net:38953/julio0206/53327705/22730
+#EXTINF:-1,ESPN EXTRA
+http://iptvparatodos.net:38953/julio0206/53327705/22731
+#EXTINF:-1,ESPN_
+http://iptvparatodos.net:38953/julio0206/53327705/22729
+#EXTINF:-1,FISH TV
+http://iptvparatodos.net:38953/julio0206/53327705/22726
+#EXTINF:-1,FOX
+http://iptvparatodos.net:38953/julio0206/53327705/22725
+#EXTINF:-1,STAR LIFE
+http://iptvparatodos.net:38953/julio0206/53327705/22724
+#EXTINF:-1,STAR HITS  1 BR_HD
+http://iptvparatodos.net:38953/julio0206/53327705/22641
+#EXTINF:-1,FOX PREMIUM 2 BR_HD
+http://iptvparatodos.net:38953/julio0206/53327705/22640
+#EXTINF:-1,FOX SPORTS
+http://iptvparatodos.net:38953/julio0206/53327705/22723
+#EXTINF:-1,FOX SPORTS 2
+http://iptvparatodos.net:38953/julio0206/53327705/22722
+#EXTINF:-1,FUTURA
+http://iptvparatodos.net:38953/julio0206/53327705/22721
+#EXTINF:-1,FX
+http://iptvparatodos.net:38953/julio0206/53327705/22720
+#EXTINF:-1,GAZETA
+http://iptvparatodos.net:38953/julio0206/53327705/22646
+#EXTINF:-1,GLOBO BRASILIA
+http://iptvparatodos.net:38953/julio0206/53327705/22675
+#EXTINF:-1,GLOBO GRANDE MINAS 
+http://iptvparatodos.net:38953/julio0206/53327705/22637
+#EXTINF:-1,Globo MINAS
+http://iptvparatodos.net:38953/julio0206/53327705/22719
+#EXTINF:-1,GLOBO NEWS
+http://iptvparatodos.net:38953/julio0206/53327705/22718
+#EXTINF:-1,GLOBO RJ
+http://iptvparatodos.net:38953/julio0206/53327705/22717
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://iptvparatodos.net:38953/julio0206/53327705/91457
+#EXTINF:-1,GLOBO SP
+http://iptvparatodos.net:38953/julio0206/53327705/22716
+#EXTINF:-1,GLOOB
+http://iptvparatodos.net:38953/julio0206/53327705/22715
+#EXTINF:-1,GNT
+http://iptvparatodos.net:38953/julio0206/53327705/22714
+#EXTINF:-1,H2
+http://iptvparatodos.net:38953/julio0206/53327705/22713
+#EXTINF:-1,HBO
+http://iptvparatodos.net:38953/julio0206/53327705/22712
+#EXTINF:-1,HBO FAMILY
+http://iptvparatodos.net:38953/julio0206/53327705/22711
+#EXTINF:-1,HBO PLUS
+http://iptvparatodos.net:38953/julio0206/53327705/22710
+#EXTINF:-1,HBO SIGNATURE
+http://iptvparatodos.net:38953/julio0206/53327705/22708
+#EXTINF:-1,HBO2
+http://iptvparatodos.net:38953/julio0206/53327705/22707
+#EXTINF:-1,HISTORY CHANNEL
+http://iptvparatodos.net:38953/julio0206/53327705/22706
+#EXTINF:-1,LIFETIME
+http://iptvparatodos.net:38953/julio0206/53327705/22638
+#EXTINF:-1,HBO EXTREME
+http://iptvparatodos.net:38953/julio0206/53327705/22704
+#EXTINF:-1,HBO POP
+http://iptvparatodos.net:38953/julio0206/53327705/22702
+#EXTINF:-1,MAIS GLOBOSAT
+http://iptvparatodos.net:38953/julio0206/53327705/91456
+#EXTINF:-1,MEGAPIX
+http://iptvparatodos.net:38953/julio0206/53327705/22701
+#EXTINF:-1,MULTISHOW
+http://iptvparatodos.net:38953/julio0206/53327705/22699
+#EXTINF:-1,NAT GEO
+http://iptvparatodos.net:38953/julio0206/53327705/22697
+#EXTINF:-1,NAT GEO KIDS
+http://iptvparatodos.net:38953/julio0206/53327705/22696
+#EXTINF:-1,NATGEO WILD
+http://iptvparatodos.net:38953/julio0206/53327705/22695
+#EXTINF:-1,NICK JR
+http://iptvparatodos.net:38953/julio0206/53327705/22693
+#EXTINF:-1,OFF
+http://iptvparatodos.net:38953/julio0206/53327705/22645
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://iptvparatodos.net:38953/julio0206/53327705/22690
+#EXTINF:-1,PLAY TV
+http://iptvparatodos.net:38953/julio0206/53327705/22689
+#EXTINF:-1,PREMIERE 1
+http://iptvparatodos.net:38953/julio0206/53327705/28418
+#EXTINF:-1,PREMIERE 2
+http://iptvparatodos.net:38953/julio0206/53327705/22687
+#EXTINF:-1,PREMIERE 3
+http://iptvparatodos.net:38953/julio0206/53327705/22686
+#EXTINF:-1,PREMIERE 4
+http://iptvparatodos.net:38953/julio0206/53327705/22685
+#EXTINF:-1,PREMIERE 5
+http://iptvparatodos.net:38953/julio0206/53327705/22684
+#EXTINF:-1,PREMIERE 6
+http://iptvparatodos.net:38953/julio0206/53327705/22683
+#EXTINF:-1,PREMIERE 7
+http://iptvparatodos.net:38953/julio0206/53327705/22682
+#EXTINF:-1,PREMIERE 8
+http://iptvparatodos.net:38953/julio0206/53327705/22681
+#EXTINF:-1,PREMIERE 9
+http://iptvparatodos.net:38953/julio0206/53327705/22680
+#EXTINF:-1,PREMIERE CLUBES
+http://iptvparatodos.net:38953/julio0206/53327705/22679
+#EXTINF:-1,RECORD
+http://iptvparatodos.net:38953/julio0206/53327705/22677
+#EXTINF:-1,RECORD NEWS
+http://iptvparatodos.net:38953/julio0206/53327705/22676
+#EXTINF:-1,REDE BRASIL TV
+http://iptvparatodos.net:38953/julio0206/53327705/22673
+#EXTINF:-1,REDE VIDA
+http://iptvparatodos.net:38953/julio0206/53327705/22674
+#EXTINF:-1,SBT
+http://iptvparatodos.net:38953/julio0206/53327705/22672
+#EXTINF:-1,SPACE
+http://iptvparatodos.net:38953/julio0206/53327705/22671
+#EXTINF:-1,SPOR-TV 2
+http://iptvparatodos.net:38953/julio0206/53327705/22669
+#EXTINF:-1,SPOR-TV 3
+http://iptvparatodos.net:38953/julio0206/53327705/22668
+#EXTINF:-1,STUDIO UNIVERSAL
+http://iptvparatodos.net:38953/julio0206/53327705/22667
+#EXTINF:-1,SYFY
+http://iptvparatodos.net:38953/julio0206/53327705/22643
+#EXTINF:-1,TBS
+http://iptvparatodos.net:38953/julio0206/53327705/22642
+#EXTINF:-1,TCM
+http://iptvparatodos.net:38953/julio0206/53327705/22666
+#EXTINF:-1,TELECINE ACTION
+http://iptvparatodos.net:38953/julio0206/53327705/22665
+#EXTINF:-1,TELECINE CULT
+http://iptvparatodos.net:38953/julio0206/53327705/22664
+#EXTINF:-1,TELECINE FUN
+http://iptvparatodos.net:38953/julio0206/53327705/22663
+#EXTINF:-1,TELECINE PIPOCA
+http://iptvparatodos.net:38953/julio0206/53327705/22662
+#EXTINF:-1,TELECINE PREMIUM
+http://iptvparatodos.net:38953/julio0206/53327705/22661
+#EXTINF:-1,TELECINE TOUCH
+http://iptvparatodos.net:38953/julio0206/53327705/22660
+#EXTINF:-1,TLC
+http://iptvparatodos.net:38953/julio0206/53327705/22659
+#EXTINF:-1,TNT
+http://iptvparatodos.net:38953/julio0206/53327705/22658
+#EXTINF:-1,TNT SERIES
+http://iptvparatodos.net:38953/julio0206/53327705/22657
+#EXTINF:-1,TOONCAST
+http://iptvparatodos.net:38953/julio0206/53327705/22656
+#EXTINF:-1,TRUTV
+http://iptvparatodos.net:38953/julio0206/53327705/22655
+#EXTINF:-1,TV CULTURA
+http://iptvparatodos.net:38953/julio0206/53327705/22654
+#EXTINF:-1,TV GUARULHOS SP
+http://iptvparatodos.net:38953/julio0206/53327705/22652
+#EXTINF:-1,UNIVERSAL
+http://iptvparatodos.net:38953/julio0206/53327705/22653
+#EXTINF:-1,VIVA
+http://iptvparatodos.net:38953/julio0206/53327705/22651
+#EXTINF:-1,WARNER CHANNEL
+http://iptvparatodos.net:38953/julio0206/53327705/22650
+#EXTINF:-1,WOOHOO
+http://iptvparatodos.net:38953/julio0206/53327705/22649
