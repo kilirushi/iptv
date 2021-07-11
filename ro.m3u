@@ -1,247 +1,393 @@
 #EXTM3U
-#EXTINF:-1,TVR 1
-http://rv.flysat.live:80/307210013157/307210013157/82326
-#EXTINF:-1,TVR 2
-http://rv.flysat.live:80/307210013157/307210013157/82325
+#EXTINF:-1,TVR 1 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200734
+#EXTINF:-1,TVR 1 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200735
+#EXTINF:-1,TVR 2 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200736
 #EXTINF:-1,TVR 3
-http://rv.flysat.live:80/307210013157/307210013157/82324
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200737
 #EXTINF:-1,TVR HD
-http://rv.flysat.live:80/307210013157/307210013157/82323
-#EXTINF:-1,ROMANIA TV
-http://rv.flysat.live:80/307210013157/307210013157/82322
-#EXTINF:-1,ANTENA 1
-http://rv.flysat.live:80/307210013157/307210013157/82321
-#EXTINF:-1,ANTENA 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/82320
-#EXTINF:-1,ANTENA 3
-http://rv.flysat.live:80/307210013157/307210013157/82319
-#EXTINF:-1,ANTENA 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/82318
-#EXTINF:-1,ANTENA STARS
-http://rv.flysat.live:80/307210013157/307210013157/82317
-#EXTINF:-1,ANTENA STARS HD
-http://rv.flysat.live:80/307210013157/307210013157/82316
-#EXTINF:-1,PRO TV HD
-http://rv.flysat.live:80/307210013157/307210013157/82315
-#EXTINF:-1,PRO TV
-http://rv.flysat.live:80/307210013157/307210013157/82314
-#EXTINF:-1,PRO X
-http://rv.flysat.live:80/307210013157/307210013157/82313
-#EXTINF:-1,PRO 2
-http://rv.flysat.live:80/307210013157/307210013157/82312
-#EXTINF:-1,PRO 2 FHD
-http://rv.flysat.live:80/307210013157/307210013157/82311
-#EXTINF:-1,DIGI WORLD HD
-http://rv.flysat.live:80/307210013157/307210013157/82310
-#EXTINF:-1,DIGI LIFE
-http://rv.flysat.live:80/307210013157/307210013157/82309
-#EXTINF:-1,DIGI 24 HD
-http://rv.flysat.live:80/307210013157/307210013157/82307
-#EXTINF:-1,AXN WHITE
-http://rv.flysat.live:80/307210013157/307210013157/82306
-#EXTINF:-1,AXN ROMANIA
-http://rv.flysat.live:80/307210013157/307210013157/82305
-#EXTINF:-1,AXN BLACK
-http://rv.flysat.live:80/307210013157/307210013157/82304
-#EXTINF:-1,B1 TV
-http://rv.flysat.live:80/307210013157/307210013157/82303
-#EXTINF:-1,DTX
-http://rv.flysat.live:80/307210013157/307210013157/82302
-#EXTINF:-1,FAVORIT TV
-http://rv.flysat.live:80/307210013157/307210013157/82301
-#EXTINF:-1,HAPPY CHANNEL HD
-http://rv.flysat.live:80/307210013157/307210013157/82300
-#EXTINF:-1,HBO Romania
-http://rv.flysat.live:80/307210013157/307210013157/82299
-#EXTINF:-1,HBO HD RO
-http://rv.flysat.live:80/307210013157/307210013157/82298
-#EXTINF:-1,HBO2
-http://rv.flysat.live:80/307210013157/307210013157/82297
-#EXTINF:-1,HBO 3 RO
-http://rv.flysat.live:80/307210013157/307210013157/82296
-#EXTINF:-1,HBO 3
-http://rv.flysat.live:80/307210013157/307210013157/82295
-#EXTINF:-1,HORA TV
-http://rv.flysat.live:80/307210013157/307210013157/82294
-#EXTINF:-1,JIMJAM
-http://rv.flysat.live:80/307210013157/307210013157/82293
-#EXTINF:-1,KANAL D
-http://rv.flysat.live:80/307210013157/307210013157/82292
-#EXTINF:-1,KISS TV
-http://rv.flysat.live:80/307210013157/307210013157/82291
-#EXTINF:-1,LOOK PLUS HD
-http://rv.flysat.live:80/307210013157/307210013157/82290
-#EXTINF:-1,LOOKPLUS
-http://rv.flysat.live:80/307210013157/307210013157/82289
-#EXTINF:-1,NATIONAL TV
-http://rv.flysat.live:80/307210013157/307210013157/82288
-#EXTINF:-1,PRIMA TV RO
-http://rv.flysat.live:80/307210013157/307210013157/82287
-#EXTINF:-1,REALITATEA TV
-http://rv.flysat.live:80/307210013157/307210013157/82286
-#EXTINF:-1,TARAF
-http://rv.flysat.live:80/307210013157/307210013157/82285
-#EXTINF:-1,TNT RO
-http://rv.flysat.live:80/307210013157/307210013157/82284
-#EXTINF:-1,NGRO
-http://rv.flysat.live:80/307210013157/307210013157/82283
-#EXTINF:-1,NATIONAL 24
-http://rv.flysat.live:80/307210013157/307210013157/82282
-#EXTINF:-1,FINE LIVING
-http://rv.flysat.live:80/307210013157/307210013157/82281
-#EXTINF:-1,ETNO
-http://rv.flysat.live:80/307210013157/307210013157/82280
-#EXTINF:-1,DUNA HD
-http://rv.flysat.live:80/307210013157/307210013157/82279
-#EXTINF:-1,DOCUBOX
-http://rv.flysat.live:80/307210013157/307210013157/82278
-#EXTINF:-1,DIVA
-http://rv.flysat.live:80/307210013157/307210013157/82277
-#EXTINF:-1,DAVINCI LEARNING
-http://rv.flysat.live:80/307210013157/307210013157/82276
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://rv.flysat.live:80/307210013157/307210013157/82275
-#EXTINF:-1,TV PAPRIKA
-http://rv.flysat.live:80/307210013157/307210013157/82274
-#EXTINF:-1,ZU TV
-http://rv.flysat.live:80/307210013157/307210013157/82273
-#EXTINF:-1,U TV
-http://rv.flysat.live:80/307210013157/307210013157/82272
-#EXTINF:-1,TV 1000
-http://rv.flysat.live:80/307210013157/307210013157/82271
-#EXTINF:-1,TV 1000 HD
-http://rv.flysat.live:80/307210013157/307210013157/82270
-#EXTINF:-1,SPERANTA TV
-http://rv.flysat.live:80/307210013157/307210013157/82269
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200738
+#EXTINF:-1,TVR International
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200739
+#EXTINF:-1,TVR Timisoara
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200740
+#EXTINF:-1,TVR Cluj
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200742
+#EXTINF:-1,TVR Craiova
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200743
+#EXTINF:-1,Pro TV FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200746
+#EXTINF:-1,Pro TV FHD HEVC
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200747
+#EXTINF:-1,Pro TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200748
+#EXTINF:-1,Pro International
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200749
+#EXTINF:-1,Pro 2 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200750
+#EXTINF:-1,Pro 2
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200751
+#EXTINF:-1,Pro Gold
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200752
+#EXTINF:-1,ProTV Chisinau FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200753
+#EXTINF:-1,Pro TV News
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200755
+#EXTINF:-1,Profit.ro
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200756
+#EXTINF:-1,Prima TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200757
+#EXTINF:-1,Kanal D FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200759
+#EXTINF:-1,Kanal D HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200760
+#EXTINF:-1,Kanal D
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200761
+#EXTINF:-1,Antena 1 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200763
+#EXTINF:-1,Antena 1 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200764
+#EXTINF:-1,Antena 1 FHD HEVC
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200765
+#EXTINF:-1,Happy Channel FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200768
+#EXTINF:-1,Happy Channel
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200769
+#EXTINF:-1,Antena Stars FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200770
+#EXTINF:-1,Antena Stars
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200771
+#EXTINF:-1,Antena Comedy
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200772
+#EXTINF:-1,Antena Monden
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200773
+#EXTINF:-1,Look Plus FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200776
+#EXTINF:-1,Look Plus HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200777
+#EXTINF:-1,National 24 Plus
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200778
+#EXTINF:-1,Nasul TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200780
+#EXTINF:-1,MOLDOVA 2
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200781
+#EXTINF:-1,Antena 3 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200783
+#EXTINF:-1,Antena 3
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200784
+#EXTINF:-1,National TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200785
+#EXTINF:-1,Digi 24 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200786
+#EXTINF:-1,Digi 24 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200787
+#EXTINF:-1,DIGI 24
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200788
+#EXTINF:-1,B1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200789
+#EXTINF:-1,Realitatea Plus TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200790
+#EXTINF:-1,Romania TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200791
+#EXTINF:-1,Digi Sport 4K
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200793
+#EXTINF:-1,Digi Sport 1 FHD [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200794
+#EXTINF:-1,Digi Sport 1 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200795
+#EXTINF:-1,DIGI Sport 1 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200796
+#EXTINF:-1,DIGI Sport 1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200797
+#EXTINF:-1,Digi Sport 2 FHD [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200798
+#EXTINF:-1,DIGI Sport 2 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200799
+#EXTINF:-1,DIGI Sport 2
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200800
+#EXTINF:-1,DIGI Sport 3 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200801
+#EXTINF:-1,DIGI Sport 3
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200802
+#EXTINF:-1,Digi Sport 4 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200803
+#EXTINF:-1,DIGI Sport 4
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200804
+#EXTINF:-1,Pro X FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200805
+#EXTINF:-1,Pro X HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200806
+#EXTINF:-1,Telekom Sport 1 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200807
+#EXTINF:-1,Telekom Sport 1 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200808
+#EXTINF:-1,Telekom Sport 1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200809
+#EXTINF:-1,Telekom Sport 2 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200810
+#EXTINF:-1,Telekom Sport 2
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200811
+#EXTINF:-1,Telekom Sport 3 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200812
+#EXTINF:-1,Telekom Sport 3
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200813
+#EXTINF:-1,Telekom Sport 4 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200814
+#EXTINF:-1,Telekom Sport 4
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200815
+#EXTINF:-1,Look Sport FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200818
+#EXTINF:-1,Look Sport 2 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200819
+#EXTINF:-1,Look Sport 3 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200820
+#EXTINF:-1,Auto Moto Sport
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200826
+#EXTINF:-1,TV Paprika HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200829
+#EXTINF:-1,E! Entertainment
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200831
+#EXTINF:-1,Digi Life FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200832
+#EXTINF:-1,Digi Life
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200833
 #EXTINF:-1,TLC
-http://rv.flysat.live:80/307210013157/307210013157/82268
-#EXTINF:-1,UTV HD
-http://rv.flysat.live:80/307210013157/307210013157/82267
-#EXTINF:-1,CROMTEL
-http://rv.flysat.live:80/307210013157/307210013157/82266
-#EXTINF:-1,SUNDANCE TV FHD [MULTI-SUB]
-http://rv.flysat.live:80/307210013157/307210013157/82265
-#EXTINF:-1,BOOMERANG
-http://rv.flysat.live:80/307210013157/307210013157/82263
-#EXTINF:-1,CARTOON
-http://rv.flysat.live:80/307210013157/307210013157/82262
-#EXTINF:-1,DISNEY CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/82260
-#EXTINF:-1,DISNEY JR
-http://rv.flysat.live:80/307210013157/307210013157/82259
-#EXTINF:-1,NICKELODEON
-http://rv.flysat.live:80/307210013157/307210013157/82258
-#EXTINF:-1,DISNEY RO
-http://rv.flysat.live:80/307210013157/307210013157/82257
-#EXTINF:-1,MINIMAX
-http://rv.flysat.live:80/307210013157/307210013157/82256
-#EXTINF:-1,CINEMAX 2
-http://rv.flysat.live:80/307210013157/307210013157/82254
-#EXTINF:-1,FILMBOX PREMIUM
-http://rv.flysat.live:80/307210013157/307210013157/82252
-#EXTINF:-1,FILMBOX EXTRA HD
-http://rv.flysat.live:80/307210013157/307210013157/82251
-#EXTINF:-1,FILM NOW
-http://rv.flysat.live:80/307210013157/307210013157/82249
-#EXTINF:-1,FILM CAFE
-http://rv.flysat.live:80/307210013157/307210013157/82248
-#EXTINF:-1,PRO GOLD
-http://rv.flysat.live:80/307210013157/307210013157/82247
-#EXTINF:-1,MEGAMAX
-http://rv.flysat.live:80/307210013157/307210013157/82245
-#EXTINF:-1,CINEMARATON
-http://rv.flysat.live:80/307210013157/307210013157/82244
-#EXTINF:-1,CBS REALITY
-http://rv.flysat.live:80/307210013157/307210013157/82243
-#EXTINF:-1,BOLLYWOOD TV
-http://rv.flysat.live:80/307210013157/307210013157/82242
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200834
+#EXTINF:-1,MTV Hits
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200835
+#EXTINF:-1,Food Network
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200836
+#EXTINF:-1,HGTV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200838
+#EXTINF:-1,Fishing and Hunting
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200839
+#EXTINF:-1,DIGI World FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200841
+#EXTINF:-1,DIGI World
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200842
+#EXTINF:-1,DIGI Animal World FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200843
+#EXTINF:-1,DIGI Animal World
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200844
+#EXTINF:-1,Discovery FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200845
+#EXTINF:-1,Discovery HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200846
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200847
+#EXTINF:-1,Discovery Showcase FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200848
+#EXTINF:-1,Discovery Turbo Xtra FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200849
+#EXTINF:-1,Discovery Science FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200850
+#EXTINF:-1,Discovery Science
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200851
+#EXTINF:-1,DocuBox FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200852
+#EXTINF:-1,DocuBox HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200853
+#EXTINF:-1,History FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200855
+#EXTINF:-1,History
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200856
+#EXTINF:-1,Nat Geo FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200857
+#EXTINF:-1,Nat Geo Wild FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200858
+#EXTINF:-1,Nat Geo Wild
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200859
+#EXTINF:-1,Animal Planet FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200860
+#EXTINF:-1,Animal Planet
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200861
+#EXTINF:-1,Travel Channel FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200862
+#EXTINF:-1,Travel Channel
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200863
+#EXTINF:-1,Travel Mix FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200864
+#EXTINF:-1,Viasat Explore FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200865
+#EXTINF:-1,Viasat Nature FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200866
+#EXTINF:-1,Viasat History FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200867
+#EXTINF:-1,Viasat History
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200868
+#EXTINF:-1,BBC Earth FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200872
+#EXTINF:-1,BBC Earth
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200873
+#EXTINF:-1,DIGI 4K
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200876
+#EXTINF:-1,Nick Jr
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200877
+#EXTINF:-1,CINETHRONIX
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200878
+#EXTINF:-1,Cinemaraton HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200880
+#EXTINF:-1,CineMaraton [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200881
+#EXTINF:-1,Diva TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200882
+#EXTINF:-1,TV 1000
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200883
+#EXTINF:-1,Comedy Central
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200884
+#EXTINF:-1,Epic Drama HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200885
+#EXTINF:-1,AXN Romania FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200886
+#EXTINF:-1,AXN Romania
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200887
+#EXTINF:-1,AXN White
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200888
+#EXTINF:-1,AXN Black
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200889
+#EXTINF:-1,AXN Spin
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200890
 #EXTINF:-1,AMC
-http://rv.flysat.live:80/307210013157/307210013157/82241
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200892
+#EXTINF:-1,Paramount Channel
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200893
+#EXTINF:-1,Film Cafe
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200894
+#EXTINF:-1,HBO 1 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200895
+#EXTINF:-1,HBO 1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200896
+#EXTINF:-1,HBO 2 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200897
+#EXTINF:-1,HBO 2
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200898
+#EXTINF:-1,HBO 3 FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200899
+#EXTINF:-1,HBO 3
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200900
+#EXTINF:-1,TNT HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200901
+#EXTINF:-1,Film BoxExtra FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200902
+#EXTINF:-1,Film Box
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200903
+#EXTINF:-1,FilmBox Family
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200904
+#EXTINF:-1,FilmBox Premium
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200905
+#EXTINF:-1,Film Now FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200906
+#EXTINF:-1,Film Now HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200907
+#EXTINF:-1,Film Now
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200908
+#EXTINF:-1,Cinemax FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200909
+#EXTINF:-1,Cinemax 2
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200911
+#EXTINF:-1,Bollywood TV HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200912
+#EXTINF:-1,Bollywood Classic
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200914
+#EXTINF:-1,Disney Jr
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200956
+#EXTINF:-1,Disney Channel
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200957
+#EXTINF:-1,Nickelodeon
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200958
+#EXTINF:-1,Nicktoons
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200959
+#EXTINF:-1,Minimax
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200962
+#EXTINF:-1,Boomerang
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200963
+#EXTINF:-1,Duck TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200964
+#EXTINF:-1,Jim Jam
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200965
+#EXTINF:-1,TARAF TV HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200967
+#EXTINF:-1,U TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200968
+#EXTINF:-1,KISS TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200969
+#EXTINF:-1,1 Music Channel
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200970
+#EXTINF:-1,MTV 80s
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200971
+#EXTINF:-1,Favorit TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200972
+#EXTINF:-1,Etno TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200973
+#EXTINF:-1,Hora TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200974
+#EXTINF:-1,MTV Dance
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200976
+#EXTINF:-1,Mooz Dance HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200977
+#EXTINF:-1,Alfa & Omega TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200979
+#EXTINF:-1,Credo TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200980
+#EXTINF:-1,Magic TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200981
+#EXTINF:-1,Neptun TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200982
+#EXTINF:-1,Zu TV HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200983
+#EXTINF:-1,COMEDY EST
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200984
+#EXTINF:-1,Trinitas FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200986
+#EXTINF:-1,Speranta
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/200987
+#EXTINF:-1,Look Sport 1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254124
+#EXTINF:-1,Look Sport 2
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254125
+#EXTINF:-1,Look Plus
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254127
+#EXTINF:-1,HBO 1 FHD [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254131
+#EXTINF:-1,HBO 1 [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254132
+#EXTINF:-1,HBO 2 [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254133
+#EXTINF:-1,Cinemax 2 [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254134
+#EXTINF:-1,Duck TV [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254135
+#EXTINF:-1,National Geographic FHD [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254137
+#EXTINF:-1,Fishing And Hunting [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254139
+#EXTINF:-1,Viasat Explorer [Multi-Lang]
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254141
+#EXTINF:-1,Busuioc TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254142
+#EXTINF:-1,MTV 90s
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254143
+#EXTINF:-1,LOVE NATURE FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254144
+#EXTINF:-1,LOVE NATURE HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254145
 #EXTINF:-1,AGRO TV
-http://rv.flysat.live:80/307210013157/307210013157/82240
-#EXTINF:-1,NAT GEO GRAPHIC RO
-http://rv.flysat.live:80/307210013157/307210013157/82238
-#EXTINF:-1,NAT GEO WILD HD
-http://rv.flysat.live:80/307210013157/307210013157/82237
-#EXTINF:-1,NAT GEO WILD
-http://rv.flysat.live:80/307210013157/307210013157/82236
-#EXTINF:-1,NAT GEO GRAPHIC HD
-http://rv.flysat.live:80/307210013157/307210013157/82235
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://rv.flysat.live:80/307210013157/307210013157/82234
-#EXTINF:-1,DISCOVERY CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/82233
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://rv.flysat.live:80/307210013157/307210013157/82232
-#EXTINF:-1,DISCOVERY RO
-http://rv.flysat.live:80/307210013157/307210013157/82231
-#EXTINF:-1,DISCOVERY SCIENCE
-http://rv.flysat.live:80/307210013157/307210013157/82230
-#EXTINF:-1,ANIMAL PLANET HD
-http://rv.flysat.live:80/307210013157/307210013157/82229
-#EXTINF:-1,ANIMAL PLANET
-http://rv.flysat.live:80/307210013157/307210013157/82228
-#EXTINF:-1,DIGI ANIMAL WORLD
-http://rv.flysat.live:80/307210013157/307210013157/82227
-#EXTINF:-1,VIASAT NATURE
-http://rv.flysat.live:80/307210013157/307210013157/82226
-#EXTINF:-1,VIASAT HISTORY
-http://rv.flysat.live:80/307210013157/307210013157/82225
-#EXTINF:-1,VIASAT EXPLORER
-http://rv.flysat.live:80/307210013157/307210013157/82224
-#EXTINF:-1,VIASAT EXPLORE
-http://rv.flysat.live:80/307210013157/307210013157/82223
-#EXTINF:-1,HISTORY
-http://rv.flysat.live:80/307210013157/307210013157/82222
-#EXTINF:-1,HISTORY HD
-http://rv.flysat.live:80/307210013157/307210013157/82221
-#EXTINF:-1,TRAVEL CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/82220
-#EXTINF:-1,FISHING & HUNTING
-http://rv.flysat.live:80/307210013157/307210013157/82219
-#EXTINF:-1,MUSIC CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/82217
-#EXTINF:-1,MTV ROCKS
-http://rv.flysat.live:80/307210013157/307210013157/82216
-#EXTINF:-1,MTV HITS
-http://rv.flysat.live:80/307210013157/307210013157/82215
-#EXTINF:-1,MTV DANCE
-http://rv.flysat.live:80/307210013157/307210013157/82213
-#EXTINF:-1,MOOZ DANCE HD
-http://rv.flysat.live:80/307210013157/307210013157/82212
-#EXTINF:-1,VH1 CLASSIC
-http://rv.flysat.live:80/307210013157/307210013157/82211
-#EXTINF:-1,DIGI SPORT 1 HD RO
-http://rv.flysat.live:80/307210013157/307210013157/82209
-#EXTINF:-1,DIGI SPORT 1
-http://rv.flysat.live:80/307210013157/307210013157/82208
-#EXTINF:-1,DIGI SPORT 2 HD RO
-http://rv.flysat.live:80/307210013157/307210013157/82207
-#EXTINF:-1,DIGI SPORT 2
-http://rv.flysat.live:80/307210013157/307210013157/82206
-#EXTINF:-1,DIGI SPORT 3
-http://rv.flysat.live:80/307210013157/307210013157/82205
-#EXTINF:-1,DIGI SPORT 4
-http://rv.flysat.live:80/307210013157/307210013157/82204
-#EXTINF:-1,EXTREME SPORTS CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/82203
-#EXTINF:-1,PRO TV INTERNATIONAL
-http://rv.flysat.live:80/307210013157/307210013157/82199
-#EXTINF:-1,AUTO MOTOR SPORT
-http://rv.flysat.live:80/307210013157/307210013157/82198
-#EXTINF:-1,FIGHTBOX
-http://rv.flysat.live:80/307210013157/307210013157/82197
-#EXTINF:-1,LOOK SPORT
-http://rv.flysat.live:80/307210013157/307210013157/82196
-#EXTINF:-1,LOOK SPORT HD
-http://rv.flysat.live:80/307210013157/307210013157/82195
-#EXTINF:-1,TELEKOM SPORT 1
-http://rv.flysat.live:80/307210013157/307210013157/82194
-#EXTINF:-1,TELEKOM SPORT 2
-http://rv.flysat.live:80/307210013157/307210013157/82193
-#EXTINF:-1,TELEKOM SPORT 3
-http://rv.flysat.live:80/307210013157/307210013157/82192
-#EXTINF:-1,TELEKOM SPORT 4
-http://rv.flysat.live:80/307210013157/307210013157/82191
-#EXTINF:-1,TELEKOM SPORT 5
-http://rv.flysat.live:80/307210013157/307210013157/82190
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254146
+#EXTINF:-1,Kronehit TV FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254147
+#EXTINF:-1,Gurinel TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254148
+#EXTINF:-1,CROMTEL TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254149
+#EXTINF:-1,BUCURESTI TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254150
+#EXTINF:-1,BUCOVINA TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254151
+#EXTINF:-1,ANTENA COMEDY PLAY HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254152
+#EXTINF:-1,HIT MUSIC CHANNEL
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254153
+#EXTINF:-1,FIRST MUSIC
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/254154

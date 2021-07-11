@@ -1,445 +1,711 @@
 #EXTM3U
-#EXTINF:-1,BBC ONE
-http://rv.flysat.live:80/307210013157/307210013157/167934
-#EXTINF:-1,BBC ONE *
-http://rv.flysat.live:80/307210013157/307210013157/167933
-#EXTINF:-1,BBC TWO
-http://rv.flysat.live:80/307210013157/307210013157/167932
-#EXTINF:-1,BBC TWO *
-http://rv.flysat.live:80/307210013157/307210013157/167931
-#EXTINF:-1,BBC THREE/CBeebies
-http://rv.flysat.live:80/307210013157/307210013157/167930
-#EXTINF:-1,BBC FOUR
-http://rv.flysat.live:80/307210013157/307210013157/167929
-#EXTINF:-1,ITV
-http://rv.flysat.live:80/307210013157/307210013157/167928
-#EXTINF:-1,ITV *
-http://rv.flysat.live:80/307210013157/307210013157/167927
-#EXTINF:-1,ITV 2
-http://rv.flysat.live:80/307210013157/307210013157/167926
-#EXTINF:-1,ITV 2 *
-http://rv.flysat.live:80/307210013157/307210013157/167925
-#EXTINF:-1,ITV 3
-http://rv.flysat.live:80/307210013157/307210013157/167924
-#EXTINF:-1,ITV 3 *
-http://rv.flysat.live:80/307210013157/307210013157/167923
-#EXTINF:-1,ITV 4
-http://rv.flysat.live:80/307210013157/307210013157/167922
-#EXTINF:-1,ITV 4 *
-http://rv.flysat.live:80/307210013157/307210013157/167921
-#EXTINF:-1,ITV Be.
-http://rv.flysat.live:80/307210013157/307210013157/167920
-#EXTINF:-1,CITV
-http://rv.flysat.live:80/307210013157/307210013157/167919
-#EXTINF:-1,CHANNEL 4
-http://rv.flysat.live:80/307210013157/307210013157/167918
-#EXTINF:-1,CHANNEL 4 *
-http://rv.flysat.live:80/307210013157/307210013157/167917
-#EXTINF:-1,CHANNEL 5
-http://rv.flysat.live:80/307210013157/307210013157/167916
-#EXTINF:-1,CHANNEL 5 *
-http://rv.flysat.live:80/307210013157/307210013157/167915
-#EXTINF:-1,BBC NEWS
-http://rv.flysat.live:80/307210013157/307210013157/167914
-#EXTINF:-1,BBC NEWS *
-http://rv.flysat.live:80/307210013157/307210013157/167913
-#EXTINF:-1,BBC WORLD NEWS
-http://rv.flysat.live:80/307210013157/307210013157/167912
-#EXTINF:-1,FOX NEWS
-http://rv.flysat.live:80/307210013157/307210013157/167910
-#EXTINF:-1,CNN
-http://rv.flysat.live:80/307210013157/307210013157/167909
-#EXTINF:-1,AL JAZEERA NEWS
-http://rv.flysat.live:80/307210013157/307210013157/167908
-#EXTINF:-1,LONDON LIVE
-http://rv.flysat.live:80/307210013157/307210013157/167907
-#EXTINF:-1,BBC FIRST
-http://rv.flysat.live:80/307210013157/307210013157/167906
-#EXTINF:-1,BBC SCOTLAND
-http://rv.flysat.live:80/307210013157/307210013157/167905
-#EXTINF:-1,BBC ONE (SCOTLAND)
-http://rv.flysat.live:80/307210013157/307210013157/167904
-#EXTINF:-1,BBC TWO (SCOTLAND)
-http://rv.flysat.live:80/307210013157/307210013157/167903
-#EXTINF:-1,BBC ALBA
-http://rv.flysat.live:80/307210013157/307210013157/167902
-#EXTINF:-1,BBC ONE NORTHERN IRELAND
-http://rv.flysat.live:80/307210013157/307210013157/167901
-#EXTINF:-1,BBC ONE WALES
-http://rv.flysat.live:80/307210013157/307210013157/167900
-#EXTINF:-1,BBC PARLIAMENT
-http://rv.flysat.live:80/307210013157/307210013157/167899
-#EXTINF:-1,BBC TWO NORTHERN IRELAND
-http://rv.flysat.live:80/307210013157/307210013157/167898
-#EXTINF:-1,BBC TWO WALES
-http://rv.flysat.live:80/307210013157/307210013157/167897
-#EXTINF:-1,EDEN
-http://rv.flysat.live:80/307210013157/307210013157/167896
-#EXTINF:-1,SONY CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/167895
-#EXTINF:-1,5 STAR
-http://rv.flysat.live:80/307210013157/307210013157/167894
-#EXTINF:-1,5 USA
-http://rv.flysat.live:80/307210013157/307210013157/167893
-#EXTINF:-1,DAVE
-http://rv.flysat.live:80/307210013157/307210013157/167892
-#EXTINF:-1,MORE 4
-http://rv.flysat.live:80/307210013157/307210013157/167891
-#EXTINF:-1,FILM 4
-http://rv.flysat.live:80/307210013157/307210013157/167890
-#EXTINF:-1,E4
-http://rv.flysat.live:80/307210013157/307210013157/167889
-#EXTINF:-1,E!
-http://rv.flysat.live:80/307210013157/307210013157/167888
-#EXTINF:-1,COMEDY CENTRAL
-http://rv.flysat.live:80/307210013157/307210013157/167887
-#EXTINF:-1,PICK
-http://rv.flysat.live:80/307210013157/307210013157/167886
-#EXTINF:-1,ALIBI
-http://rv.flysat.live:80/307210013157/307210013157/167885
-#EXTINF:-1,FOX
-http://rv.flysat.live:80/307210013157/307210013157/167884
-#EXTINF:-1,GOLD
-http://rv.flysat.live:80/307210013157/307210013157/167883
-#EXTINF:-1,REALLY
-http://rv.flysat.live:80/307210013157/307210013157/167882
-#EXTINF:-1,CBS DRAMA
-http://rv.flysat.live:80/307210013157/307210013157/167881
-#EXTINF:-1,CBS REALITY
-http://rv.flysat.live:80/307210013157/307210013157/167880
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/167879
-#EXTINF:-1,SYFY
-http://rv.flysat.live:80/307210013157/307210013157/167878
-#EXTINF:-1,AMC
-http://rv.flysat.live:80/307210013157/307210013157/167877
-#EXTINF:-1,TRUE CRIME
-http://rv.flysat.live:80/307210013157/307210013157/167876
-#EXTINF:-1,NBC SPORTS
-http://rv.flysat.live:80/307210013157/307210013157/167875
-#EXTINF:-1,TCM
-http://rv.flysat.live:80/307210013157/307210013157/167874
-#EXTINF:-1,QUEST
-http://rv.flysat.live:80/307210013157/307210013157/167873
-#EXTINF:-1,YESTERDAY
-http://rv.flysat.live:80/307210013157/307210013157/167872
-#EXTINF:-1,DRAMA
-http://rv.flysat.live:80/307210013157/307210013157/167871
-#EXTINF:-1,CHALLANGE
-http://rv.flysat.live:80/307210013157/307210013157/167870
-#EXTINF:-1,LIVING UK
-http://rv.flysat.live:80/307210013157/307210013157/167869
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://rv.flysat.live:80/307210013157/307210013157/167868
-#EXTINF:-1,SONY MOVIES
-http://rv.flysat.live:80/307210013157/307210013157/167867
-#EXTINF:-1,4SEVEN
-http://rv.flysat.live:80/307210013157/307210013157/167866
-#EXTINF:-1,BLOOMBERG NEWS
-http://rv.flysat.live:80/307210013157/307210013157/167865
-#EXTINF:-1,HOME
-http://rv.flysat.live:80/307210013157/307210013157/167864
-#EXTINF:-1,GOOD FOOD
-http://rv.flysat.live:80/307210013157/307210013157/167863
-#EXTINF:-1,BET
-http://rv.flysat.live:80/307210013157/307210013157/167862
-#EXTINF:-1,BBC ENTERTAINMENT
-http://rv.flysat.live:80/307210013157/307210013157/167861
-#EXTINF:-1,TRAVEL CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/167860
-#EXTINF:-1,HISTORY CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/167859
-#EXTINF:-1,H2
-http://rv.flysat.live:80/307210013157/307210013157/167858
-#EXTINF:-1,FOOD NETWORK
-http://rv.flysat.live:80/307210013157/307210013157/167857
-#EXTINF:-1,CRIME AND INVESTIGATION
-http://rv.flysat.live:80/307210013157/307210013157/167856
-#EXTINF:-1,ANIMAL PLANET
-http://rv.flysat.live:80/307210013157/307210013157/167855
-#EXTINF:-1,NAT GEO
-http://rv.flysat.live:80/307210013157/307210013157/167854
-#EXTINF:-1,NAT GEO WILD
-http://rv.flysat.live:80/307210013157/307210013157/167853
-#EXTINF:-1,DISCOVERY CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/167852
-#EXTINF:-1,DISCOVERY SCIENCE
-http://rv.flysat.live:80/307210013157/307210013157/167851
-#EXTINF:-1,DISCOVERY HISTORY
-http://rv.flysat.live:80/307210013157/307210013157/167850
-#EXTINF:-1,DISCOVERY SHED
-http://rv.flysat.live:80/307210013157/307210013157/167849
-#EXTINF:-1,DTX
-http://rv.flysat.live:80/307210013157/307210013157/167848
-#EXTINF:-1,FINE LIVING
-http://rv.flysat.live:80/307210013157/307210013157/167847
-#EXTINF:-1,UTV IRELAND
-http://rv.flysat.live:80/307210013157/307210013157/167846
 #EXTINF:-1,3E
-http://rv.flysat.live:80/307210013157/307210013157/167845
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399389
+#EXTINF:-1,4Music
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399390
+#EXTINF:-1,4seven
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399391
+#EXTINF:-1,4seven FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399392
 #EXTINF:-1,5 SELECT
-http://rv.flysat.live:80/307210013157/307210013157/167844
-#EXTINF:-1,BLAZE
-http://rv.flysat.live:80/307210013157/307210013157/167843
-#EXTINF:-1,CBS ACTION
-http://rv.flysat.live:80/307210013157/307210013157/167842
-#EXTINF:-1,CBS JUSTICE
-http://rv.flysat.live:80/307210013157/307210013157/167841
-#EXTINF:-1,CLUB MTV
-http://rv.flysat.live:80/307210013157/307210013157/167840
-#EXTINF:-1,CLUBLAND TV
-http://rv.flysat.live:80/307210013157/307210013157/167839
-#EXTINF:-1,CNBC NEWS
-http://rv.flysat.live:80/307210013157/307210013157/167838
-#EXTINF:-1,COMEDY CENTRAL EXTRA
-http://rv.flysat.live:80/307210013157/307210013157/167837
-#EXTINF:-1,DMAX HD
-http://rv.flysat.live:80/307210013157/307210013157/167836
-#EXTINF:-1,FIVE
-http://rv.flysat.live:80/307210013157/307210013157/167835
-#EXTINF:-1,FRANCE 24
-http://rv.flysat.live:80/307210013157/307210013157/167834
-#EXTINF:-1,HORROR CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/167833
-#EXTINF:-1,KERRANG TV
-http://rv.flysat.live:80/307210013157/307210013157/167832
-#EXTINF:-1,LIFE TIME HD
-http://rv.flysat.live:80/307210013157/307210013157/167831
-#EXTINF:-1,MAGIC TV
-http://rv.flysat.live:80/307210013157/307210013157/167830
-#EXTINF:-1,MOVIES4MEN
-http://rv.flysat.live:80/307210013157/307210013157/167829
-#EXTINF:-1,NOLLYWOOD
-http://rv.flysat.live:80/307210013157/307210013157/167828
-#EXTINF:-1,PBS AMERICA
-http://rv.flysat.live:80/307210013157/307210013157/167827
-#EXTINF:-1,QUEST RED
-http://rv.flysat.live:80/307210013157/307210013157/167826
-#EXTINF:-1,REAL LIVES
-http://rv.flysat.live:80/307210013157/307210013157/167825
-#EXTINF:-1,ROK TV
-http://rv.flysat.live:80/307210013157/307210013157/167824
-#EXTINF:-1,TRUE ENT
-http://rv.flysat.live:80/307210013157/307210013157/167823
-#EXTINF:-1,TRUE MOVIES 1
-http://rv.flysat.live:80/307210013157/307210013157/167822
-#EXTINF:-1,VICELAND HD
-http://rv.flysat.live:80/307210013157/307210013157/167821
-#EXTINF:-1,S4C
-http://rv.flysat.live:80/307210013157/307210013157/167820
-#EXTINF:-1,STV HD
-http://rv.flysat.live:80/307210013157/307210013157/167819
-#EXTINF:-1,AT THE RACES
-http://rv.flysat.live:80/307210013157/307210013157/167818
-#EXTINF:-1,TLC
-http://rv.flysat.live:80/307210013157/307210013157/167817
-#EXTINF:-1,TV3 IR HD
-http://rv.flysat.live:80/307210013157/307210013157/167816
-#EXTINF:-1,TV5
-http://rv.flysat.live:80/307210013157/307210013157/167815
-#EXTINF:-1,W HD
-http://rv.flysat.live:80/307210013157/307210013157/167814
-#EXTINF:-1,WATCH
-http://rv.flysat.live:80/307210013157/307210013157/167813
-#EXTINF:-1,VH 1 CLASSIC
-http://rv.flysat.live:80/307210013157/307210013157/167812
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399393
+#EXTINF:-1,5 spike
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399394
+#EXTINF:-1,5 Star
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399395
+#EXTINF:-1,5 Usa
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399396
+#EXTINF:-1,92 News (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399397
+#EXTINF:-1,AAJ TAK (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399398
+#EXTINF:-1,ABP NEWS (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399399
+#EXTINF:-1,Akaal Channel (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399400
+#EXTINF:-1,Alibi
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399401
+#EXTINF:-1,Al Jazeera English FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399402
+#EXTINF:-1,AMC From BT
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399403
+#EXTINF:-1,AMC HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399404
+#EXTINF:-1,And TV FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399405
+#EXTINF:-1,Animal Planet
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399406
+#EXTINF:-1,Animal Planet FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399407
+#EXTINF:-1,Animal Planet HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399408
+#EXTINF:-1,ARY Family (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399409
+#EXTINF:-1,ATN Bangla (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399410
+#EXTINF:-1,At The Races
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399411
+#EXTINF:-1,B4U Movies
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399412
+#EXTINF:-1,B4U MOVIES (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399413
+#EXTINF:-1,B4U Music (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399414
+#EXTINF:-1,B4U PLUS (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399415
+#EXTINF:-1,baby tv
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399416
+#EXTINF:-1,BBC 1
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399417
+#EXTINF:-1,BBC 1 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399418
+#EXTINF:-1,BBC 1 HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399419
+#EXTINF:-1,BBC 2
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399420
+#EXTINF:-1,BBC 2 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399421
+#EXTINF:-1,BBC 2 HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399422
+#EXTINF:-1,BBC 3
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399423
+#EXTINF:-1,BBC 4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399424
+#EXTINF:-1,BBC Alba
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399425
+#EXTINF:-1,BBC News FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399426
+#EXTINF:-1,BBC News HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399427
+#EXTINF:-1,BBC ONE
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399428
+#EXTINF:-1,BBC One Wales
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399429
+#EXTINF:-1,BBC Parliament
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399430
+#EXTINF:-1,BBC Scotland
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399431
+#EXTINF:-1,BBC Two Northern Ireland
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399432
+#EXTINF:-1,BBC Two Scotland
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399433
+#EXTINF:-1,BBC Two Wales
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399434
+#EXTINF:-1,BBC World News
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399435
+#EXTINF:-1,BET HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399436
+#EXTINF:-1,Blaze
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399437
+#EXTINF:-1,Bloomberg FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399438
+#EXTINF:-1,Bloomberg HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399439
+#EXTINF:-1,Boomerang
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399440
+#EXTINF:-1,BOX Hits
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399441
+#EXTINF:-1,Box Nation
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399442
+#EXTINF:-1,Box Nation FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399443
+#EXTINF:-1,British Muslim
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399444
+#EXTINF:-1,BT Sport 1
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399445
+#EXTINF:-1,BT Sport 1 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399446
+#EXTINF:-1,BT Sport 2
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399447
+#EXTINF:-1,BT Sport 2 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399448
+#EXTINF:-1,BT Sport 3
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399449
+#EXTINF:-1,BT Sport 3 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399450
+#EXTINF:-1,BT Sport ESPN
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399451
+#EXTINF:-1,BT Sport ESPN FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399452
+#EXTINF:-1,BT Sport Extra 1
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399453
+#EXTINF:-1,BT Sport Extra 2
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399454
+#EXTINF:-1,BT Sport Extra 3
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399455
+#EXTINF:-1,BT Sport Extra 4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399456
+#EXTINF:-1,Cartoonito
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399457
+#EXTINF:-1,Cartoon network FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399459
+#EXTINF:-1,CBBC FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399460
+#EXTINF:-1,CBeebies
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399461
+#EXTINF:-1,CBeebies FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399462
+#EXTINF:-1,CBS Action
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399463
+#EXTINF:-1,CBS Drama
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399464
+#EXTINF:-1,CBS Justice
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399465
+#EXTINF:-1,CBS Reality
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399466
+#EXTINF:-1,Challenge
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399467
+#EXTINF:-1,Channel 4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399468
+#EXTINF:-1,Channel 4 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399469
+#EXTINF:-1,CHANNEL 5
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399470
+#EXTINF:-1,Channel 5 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399471
+#EXTINF:-1,Chart Show Hits UK
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399472
+#EXTINF:-1,Chelsea TV HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399473
+#EXTINF:-1,CITV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399474
+#EXTINF:-1,C ITV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399475
+#EXTINF:-1,Clubland TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399476
+#EXTINF:-1,Club MTV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399477
+#EXTINF:-1,CNBC News
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399478
+#EXTINF:-1,CNN HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399479
+#EXTINF:-1,Colors
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399480
+#EXTINF:-1,Colors FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399482
+#EXTINF:-1,Colors Rishtey (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399483
+#EXTINF:-1,Comedy Central
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399484
+#EXTINF:-1,Comedy Central Extra
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399485
+#EXTINF:-1,Comedy Central FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399486
+#EXTINF:-1,Crime & Investigation HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399487
+#EXTINF:-1,Cruise 1st TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399488
+#EXTINF:-1,Dave
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399489
+#EXTINF:-1,DAVE JA VU
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399490
+#EXTINF:-1,Discovery
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399491
+#EXTINF:-1,Discovery FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399492
+#EXTINF:-1,Discovery History
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399493
+#EXTINF:-1,Discovery Science
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399494
+#EXTINF:-1,Discovery Shed
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399495
+#EXTINF:-1,Discovery Turbo
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399496
+#EXTINF:-1,Disney Channel HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399497
+#EXTINF:-1,Disney Junior
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399498
+#EXTINF:-1,Disney Junior FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399499
+#EXTINF:-1,Disney XD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399500
+#EXTINF:-1,DMAX
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399501
+#EXTINF:-1,Drama
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399502
+#EXTINF:-1,DUNYA NEWS (Pakistan)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399503
+#EXTINF:-1,E! Entertainment
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399504
+#EXTINF:-1,E! Entertainment FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399505
+#EXTINF:-1,E4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399506
+#EXTINF:-1,E4 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399507
+#EXTINF:-1,EDEN FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399508
+#EXTINF:-1,Eir Sport 1
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399509
+#EXTINF:-1,Eir Sport 1 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399510
+#EXTINF:-1,Eir Sport 2
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399511
+#EXTINF:-1,Eir Sport 2 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399512
+#EXTINF:-1,Film4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399517
+#EXTINF:-1,Film 4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399518
+#EXTINF:-1,Film4 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399519
+#EXTINF:-1,Fine Living Network
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399520
+#EXTINF:-1,Five
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399521
+#EXTINF:-1,Food Network
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399522
+#EXTINF:-1,Forces TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399523
+#EXTINF:-1,Fox
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399524
+#EXTINF:-1,Fox FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399525
+#EXTINF:-1,Fox News HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399526
+#EXTINF:-1,France 24
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399527
+#EXTINF:-1,Free Sports
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399528
+#EXTINF:-1,GEO KAHANI (Pakistan)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399529
+#EXTINF:-1,GEO NEWS (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399530
+#EXTINF:-1, GEO TV (Pakistan)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399531
+#EXTINF:-1,Gold
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399532
+#EXTINF:-1,Good Food
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399533
+#EXTINF:-1,H2 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399534
+#EXTINF:-1,History FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399535
+#EXTINF:-1,Home
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399536
+#EXTINF:-1,Home Health
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399537
+#EXTINF:-1,Horror Channel
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399538
+#EXTINF:-1,Horse and Country
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399539
+#EXTINF:-1,HUM Masala (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399541
+#EXTINF:-1,HUM NEWS (Pakistan)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399542
+#EXTINF:-1,Investigation Discovery
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399543
+#EXTINF:-1,IQRA Bangla (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399544
+#EXTINF:-1,Islam Channel (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399545
+#EXTINF:-1,Itv 1
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399546
+#EXTINF:-1,Itv 1 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399547
+#EXTINF:-1,Itv 2
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399548
+#EXTINF:-1,Itv 2 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399549
+#EXTINF:-1,Itv 3
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399550
+#EXTINF:-1,Itv 3 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399551
+#EXTINF:-1,Itv 4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399552
+#EXTINF:-1,Itv 4 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399553
+#EXTINF:-1,ITVBE
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399554
+#EXTINF:-1,ITV Box Office PPV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399555
+#EXTINF:-1,Kerrang TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399556
+#EXTINF:-1,Kiss
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399557
+#EXTINF:-1,KTV India (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399558
+#EXTINF:-1,LFC TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399559
+#EXTINF:-1,Life Time HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399560
+#EXTINF:-1,Liverpool FC TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399561
+#EXTINF:-1,London Live
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399562
+#EXTINF:-1,Love Nature FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399563
+#EXTINF:-1,Madani Channel
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399564
+#EXTINF:-1,Magic TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399565
+#EXTINF:-1,More 4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399566
+#EXTINF:-1,More 4 HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399567
+#EXTINF:-1,Motors
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399568
+#EXTINF:-1,Movies4Men
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399569
 #EXTINF:-1,MTV
-http://rv.flysat.live:80/307210013157/307210013157/167811
-#EXTINF:-1,MTV BASE
-http://rv.flysat.live:80/307210013157/307210013157/167810
-#EXTINF:-1,MTV CLASSIC
-http://rv.flysat.live:80/307210013157/307210013157/167809
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399570
+#EXTINF:-1,MTV Base
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399571
+#EXTINF:-1,MTV Classic
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399572
+#EXTINF:-1,MTV Dance
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399573
 #EXTINF:-1,MTV HD
-http://rv.flysat.live:80/307210013157/307210013157/167808
-#EXTINF:-1,MTV HITS
-http://rv.flysat.live:80/307210013157/307210013157/167807
-#EXTINF:-1,MTV LIVE FHD
-http://rv.flysat.live:80/307210013157/307210013157/167806
-#EXTINF:-1,MTV MUSIC
-http://rv.flysat.live:80/307210013157/307210013157/167805
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399574
+#EXTINF:-1,MTV Hits
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399575
+#EXTINF:-1,MTV Music
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399576
 #EXTINF:-1,MTV OMG
-http://rv.flysat.live:80/307210013157/307210013157/167804
-#EXTINF:-1,MTV ROCKS
-http://rv.flysat.live:80/307210013157/307210013157/167803
-#EXTINF:-1,NOW 90S
-http://rv.flysat.live:80/307210013157/307210013157/167802
-#EXTINF:-1,4MUSIC
-http://rv.flysat.live:80/307210013157/307210013157/167801
-#EXTINF:-1,BOX HITS
-http://rv.flysat.live:80/307210013157/307210013157/167800
-#EXTINF:-1,VH1 CLASSIC
-http://rv.flysat.live:80/307210013157/307210013157/167799
-#EXTINF:-1,POP (CHILDREN)
-http://rv.flysat.live:80/307210013157/307210013157/167798
-#EXTINF:-1,BABY TV
-http://rv.flysat.live:80/307210013157/307210013157/167797
-#EXTINF:-1,CARTOONITO
-http://rv.flysat.live:80/307210013157/307210013157/167796
-#EXTINF:-1,DISNEY CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/167795
-#EXTINF:-1,DISNEY JUNIOR
-http://rv.flysat.live:80/307210013157/307210013157/167794
-#EXTINF:-1,DISNEY XD
-http://rv.flysat.live:80/307210013157/307210013157/167793
-#EXTINF:-1,NICKELODEON
-http://rv.flysat.live:80/307210013157/307210013157/167792
-#EXTINF:-1,NICK JR
-http://rv.flysat.live:80/307210013157/307210013157/167791
-#EXTINF:-1,BOOMERANG
-http://rv.flysat.live:80/307210013157/307210013157/167790
-#EXTINF:-1,NICK JNR TOO
-http://rv.flysat.live:80/307210013157/307210013157/167789
-#EXTINF:-1,NICK TOONS
-http://rv.flysat.live:80/307210013157/307210013157/167788
-#EXTINF:-1,TINY POP
-http://rv.flysat.live:80/307210013157/307210013157/167787
-#EXTINF:-1,RTE NEWS NOW
-http://rv.flysat.live:80/307210013157/307210013157/167786
-#EXTINF:-1,RTE ONE
-http://rv.flysat.live:80/307210013157/307210013157/167785
-#EXTINF:-1,RTE TWO
-http://rv.flysat.live:80/307210013157/307210013157/167784
-#EXTINF:-1,S-K-Y NEWS
-http://rv.flysat.live:80/307210013157/307210013157/167783
-#EXTINF:-1,S-K-Y NEWS *
-http://rv.flysat.live:80/307210013157/307210013157/167782
-#EXTINF:-1,S-K-Y 1
-http://rv.flysat.live:80/307210013157/307210013157/167781
-#EXTINF:-1,S-K-Y  2
-http://rv.flysat.live:80/307210013157/307210013157/167780
-#EXTINF:-1,S-K-Y ATLANTIC
-http://rv.flysat.live:80/307210013157/307210013157/167779
-#EXTINF:-1,S-K-Y LIVING
-http://rv.flysat.live:80/307210013157/307210013157/167778
-#EXTINF:-1,S-K-Y DRAMA
-http://rv.flysat.live:80/307210013157/307210013157/167777
-#EXTINF:-1,S-K-Y ARTS
-http://rv.flysat.live:80/307210013157/307210013157/167776
-#EXTINF:-1,S-K-Y MOVIES PREMIER
-http://rv.flysat.live:80/307210013157/307210013157/167775
-#EXTINF:-1,S-K-Y MOVIES ACTION & ADVENTURE
-http://rv.flysat.live:80/307210013157/307210013157/167774
-#EXTINF:-1,S-K-Y MOVIES THRILLER
-http://rv.flysat.live:80/307210013157/307210013157/167773
-#EXTINF:-1,S-K-Y MOVIES COMEDY
-http://rv.flysat.live:80/307210013157/307210013157/167772
-#EXTINF:-1,S-K-Y MOVIES SCI-FI & HORROR
-http://rv.flysat.live:80/307210013157/307210013157/167771
-#EXTINF:-1,S-K-Y MOVIES DRAMA & ROMANCE
-http://rv.flysat.live:80/307210013157/307210013157/167770
-#EXTINF:-1,S-K-Y MOVIES DISNEY
-http://rv.flysat.live:80/307210013157/307210013157/167769
-#EXTINF:-1,S-K-Y MOVIES FAMILY
-http://rv.flysat.live:80/307210013157/307210013157/167768
-#EXTINF:-1,SKY MOVIES MODERN-GEANT
-http://rv.flysat.live:80/307210013157/307210013157/167767
-#EXTINF:-1,SKY MOVIES SELECT
-http://rv.flysat.live:80/307210013157/307210013157/167766
-#EXTINF:-1,SKY MOVIES SHOWCASE
-http://rv.flysat.live:80/307210013157/307210013157/167765
-#EXTINF:-1,WILLOW CRICKET
-http://rv.flysat.live:80/307210013157/307210013157/167764
-#EXTINF:-1,S-K-Y SPORTS NEWS
-http://rv.flysat.live:80/307210013157/307210013157/167761
-#EXTINF:-1,S-K-Y SPORTS NEWS *
-http://rv.flysat.live:80/307210013157/307210013157/167760
-#EXTINF:-1,S-K-Y SPORTS MAIN EVENT
-http://rv.flysat.live:80/307210013157/307210013157/167759
-#EXTINF:-1,S-K-Y SPORTS MAIN EVENT *
-http://rv.flysat.live:80/307210013157/307210013157/167758
-#EXTINF:-1,S-K-Y SPORTS PREMIER LEAGUE
-http://rv.flysat.live:80/307210013157/307210013157/167757
-#EXTINF:-1,S-K-Y SPORTS PREMIER LEAGUE *
-http://rv.flysat.live:80/307210013157/307210013157/167756
-#EXTINF:-1,S-K-Y SPORTS ACTION
-http://rv.flysat.live:80/307210013157/307210013157/167755
-#EXTINF:-1,S-K-Y SPORTS ARENA
-http://rv.flysat.live:80/307210013157/307210013157/167754
-#EXTINF:-1,S-K-Y SPORTS GOLF
-http://rv.flysat.live:80/307210013157/307210013157/167753
-#EXTINF:-1,S-K-Y SPORTS MIX
-http://rv.flysat.live:80/307210013157/307210013157/167752
-#EXTINF:-1,S-K-Y SPORTS CRICKET (HD)
-http://rv.flysat.live:80/307210013157/307210013157/167751
-#EXTINF:-1,S-K-Y SPORTS CRICKET *SD*
-http://rv.flysat.live:80/307210013157/307210013157/167750
-#EXTINF:-1,S-K-Y SPORTS F1
-http://rv.flysat.live:80/307210013157/307210013157/167749
-#EXTINF:-1,S-K-Y SPORTS F1 *
-http://rv.flysat.live:80/307210013157/307210013157/167748
-#EXTINF:-1,S-K-Y SPORTS F1 **
-http://rv.flysat.live:80/307210013157/307210013157/167747
-#EXTINF:-1,S-K-Y SPORTS FOOTBALL
-http://rv.flysat.live:80/307210013157/307210013157/167746
-#EXTINF:-1,S-K-Y SPORTS / GBI  RACING
-http://rv.flysat.live:80/307210013157/307210013157/167745
-#EXTINF:-1,SKY SPORT NHL HD
-http://rv.flysat.live:80/307210013157/307210013157/167744
-#EXTINF:-1,SKY WITNESS
-http://rv.flysat.live:80/307210013157/307210013157/167743
-#EXTINF:-1,BT SPORT / ESPN
-http://rv.flysat.live:80/307210013157/307210013157/167742
-#EXTINF:-1,BT SPORT 1
-http://rv.flysat.live:80/307210013157/307210013157/167741
-#EXTINF:-1,BT SPORT 1 *
-http://rv.flysat.live:80/307210013157/307210013157/167740
-#EXTINF:-1,BT SPORT 2
-http://rv.flysat.live:80/307210013157/307210013157/167739
-#EXTINF:-1,BT SPORT 2 *
-http://rv.flysat.live:80/307210013157/307210013157/167738
-#EXTINF:-1,BT SPORT 3
-http://rv.flysat.live:80/307210013157/307210013157/167737
-#EXTINF:-1,BT SPORT 3 *
-http://rv.flysat.live:80/307210013157/307210013157/167736
-#EXTINF:-1,BT SPORT EXTRA
-http://rv.flysat.live:80/307210013157/307210013157/167735
-#EXTINF:-1,BT SPORT EXTRA 1
-http://rv.flysat.live:80/307210013157/307210013157/167734
-#EXTINF:-1,BT SPORT EXTRA 2
-http://rv.flysat.live:80/307210013157/307210013157/167733
-#EXTINF:-1,BT SPORT EXTRA 3
-http://rv.flysat.live:80/307210013157/307210013157/167732
-#EXTINF:-1,BT SPORT EXTRA 4
-http://rv.flysat.live:80/307210013157/307210013157/167731
-#EXTINF:-1,PREMIER SPORTS 1
-http://rv.flysat.live:80/307210013157/307210013157/167730
-#EXTINF:-1,EIR SPORT 1
-http://rv.flysat.live:80/307210013157/307210013157/167729
-#EXTINF:-1,EIR SPORT 2
-http://rv.flysat.live:80/307210013157/307210013157/167728
-#EXTINF:-1,FREE SPORTS
-http://rv.flysat.live:80/307210013157/307210013157/167727
-#EXTINF:-1,RACING UK
-http://rv.flysat.live:80/307210013157/307210013157/167726
-#EXTINF:-1,RACING UK HD
-http://rv.flysat.live:80/307210013157/307210013157/167725
-#EXTINF:-1,BOX NATION
-http://rv.flysat.live:80/307210013157/307210013157/167724
-#EXTINF:-1,FIGHTBOX
-http://rv.flysat.live:80/307210013157/307210013157/167723
-#EXTINF:-1,SUPERSPORT 1
-http://rv.flysat.live:80/307210013157/307210013157/167722
-#EXTINF:-1,SUPERSPORT 2
-http://rv.flysat.live:80/307210013157/307210013157/167721
-#EXTINF:-1,SUPERSPORT 3
-http://rv.flysat.live:80/307210013157/307210013157/167720
-#EXTINF:-1,SUPERSPORT 4
-http://rv.flysat.live:80/307210013157/307210013157/167719
-#EXTINF:-1,SUPERSPORT 5
-http://rv.flysat.live:80/307210013157/307210013157/167718
-#EXTINF:-1,MOTORS
-http://rv.flysat.live:80/307210013157/307210013157/167717
-#EXTINF:-1,HORSE AND COUNTRY
-http://rv.flysat.live:80/307210013157/307210013157/167716
-#EXTINF:-1,LFCTV
-http://rv.flysat.live:80/307210013157/307210013157/167715
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399577
+#EXTINF:-1,MTV Rocks
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399578
 #EXTINF:-1,MUTV
-http://rv.flysat.live:80/307210013157/307210013157/167714
-#EXTINF:-1,BT SPORT BOX OFFICE PPV (Live Events Only)
-http://rv.flysat.live:80/307210013157/307210013157/167713
-#EXTINF:-1,UFC FIGHT PASS PPV
-http://rv.flysat.live:80/307210013157/307210013157/167712
-#EXTINF:-1,SKY/ITV BOX OFFICE (MATCH TIME)
-http://rv.flysat.live:80/307210013157/307210013157/167711
-#EXTINF:-1,ITV BOX OFFICE PPV
-http://rv.flysat.live:80/307210013157/307210013157/167710
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399579
+#EXTINF:-1,MUTV HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399580
+#EXTINF:-1,Nat Geo
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399581
+#EXTINF:-1,Nat Geo FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399582
+#EXTINF:-1,Nat Geo Wild FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399583
+#EXTINF:-1,Nat Geo Wild HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399584
+#EXTINF:-1,News 18 (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399585
+#EXTINF:-1,New Vision TV (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399586
+#EXTINF:-1,Nick
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399587
+#EXTINF:-1,Nickelodeon
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399588
+#EXTINF:-1,Nickelodeon FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399589
+#EXTINF:-1,Nick Jnr Too
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399590
+#EXTINF:-1,NICK JUNIOR
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399591
+#EXTINF:-1,NICK JUNIOR FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399592
+#EXTINF:-1,NICK TOONS
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399593
+#EXTINF:-1,Nollywood
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399594
+#EXTINF:-1,NOOR TV (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399595
+#EXTINF:-1,Now 80s
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399596
+#EXTINF:-1,Now 90s
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399597
+#EXTINF:-1,NTV (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399598
+#EXTINF:-1,Paramount Channel
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399599
+#EXTINF:-1,Paramount Channel FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399600
+#EXTINF:-1,PBS America
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399601
+#EXTINF:-1,PICK
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399602
+#EXTINF:-1,POP
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399603
+#EXTINF:-1,POP Max
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399604
+#EXTINF:-1,Premier Sports 1 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399605
+#EXTINF:-1,Premier Sports 1 HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399606
+#EXTINF:-1,Premier Sports 2 FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399607
+#EXTINF:-1,Premier Sports 2 HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399608
+#EXTINF:-1,PTC PUNJABI (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399609
+#EXTINF:-1,PTV GLOBAL (Pakistan)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399610
+#EXTINF:-1,Quest
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399611
+#EXTINF:-1,Quest Red
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399612
+#EXTINF:-1,QVC
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399613
+#EXTINF:-1,QVC Beauty
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399614
+#EXTINF:-1,QVC Extra
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399615
+#EXTINF:-1,QVC Style
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399616
+#EXTINF:-1,Racing
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399617
+#EXTINF:-1,Racing FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399618
+#EXTINF:-1,Real Lives
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399619
+#EXTINF:-1,Really
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399620
+#EXTINF:-1,Rishtey Cineplex
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399621
+#EXTINF:-1,ROK TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399622
+#EXTINF:-1,RT
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399623
+#EXTINF:-1,RT Documentary HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399624
+#EXTINF:-1,RTEjr
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399625
+#EXTINF:-1,RTE News Now
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399626
+#EXTINF:-1,RTE one
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399627
+#EXTINF:-1,Rte One FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399628
+#EXTINF:-1,Rte two
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399629
+#EXTINF:-1,Rte two FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399630
+#EXTINF:-1,S4C
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399631
+#EXTINF:-1,Sab TV (SET)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399632
+#EXTINF:-1,Samaa News (Pakistan)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399633
+#EXTINF:-1,Sangat (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399634
+#EXTINF:-1,SET Max
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399635
+#EXTINF:-1,SKY 1 HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399636
+#EXTINF:-1,Sky 2
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399637
+#EXTINF:-1,Sky Arts HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399638
+#EXTINF:-1,Sky Atlantic FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399639
+#EXTINF:-1,Sky Cinema Action FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399640
+#EXTINF:-1, Sky Cinema Comedy FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399641
+#EXTINF:-1,Sky Cinema Disney FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399642
+#EXTINF:-1,Sky Cinema Drama FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399643
+#EXTINF:-1,Sky Cinema Family FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399644
+#EXTINF:-1,Sky Cinema Greats FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399645
+#EXTINF:-1,Sky Cinema Hits FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399646
+#EXTINF:-1,Sky Cinema Premier FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399647
+#EXTINF:-1,Sky Cinema SciFi / Horror FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399648
+#EXTINF:-1,Sky Cinema Select FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399649
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399650
+#EXTINF:-1,Sky Comedy FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399651
+#EXTINF:-1,Sky Crime FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399652
+#EXTINF:-1,Sky Living
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399653
+#EXTINF:-1,Sky Movies Action & Adv
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399654
+#EXTINF:-1,Sky Movies Comedy
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399655
+#EXTINF:-1,Sky Movies Drama
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399656
+#EXTINF:-1,Sky Movies Family
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399657
+#EXTINF:-1,Sky Movies Modern-Geant
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399658
+#EXTINF:-1,Sky Movies Premiere
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399659
+#EXTINF:-1,Sky Movies Sci-Fi
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399660
+#EXTINF:-1,Sky Movies Select
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399661
+#EXTINF:-1,Sky Movies Showcase
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399662
+#EXTINF:-1,Sky Movies Thriller
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399663
+#EXTINF:-1,Sky News HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399664
+#EXTINF:-1,Sky One FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399665
+#EXTINF:-1,Sky One HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399666
+#EXTINF:-1,Sky Sports Action
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399667
+#EXTINF:-1,Sky Sports Action FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399668
+#EXTINF:-1,Sky Sports Action HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399669
+#EXTINF:-1,Sky Sports Arena
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399670
+#EXTINF:-1,Sky Sports Arena FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399671
+#EXTINF:-1,Sky Sports Arena HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399672
+#EXTINF:-1,Sky Sports Cricket
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399673
+#EXTINF:-1,Sky Sports Cricket FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399674
+#EXTINF:-1,Sky Sports Cricket HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399675
+#EXTINF:-1,Sky Sports F1
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399676
+#EXTINF:-1,Sky Sports F1 HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399677
+#EXTINF:-1,Sky Sports Football
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399678
+#EXTINF:-1,Sky Sports Football FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399679
+#EXTINF:-1,Sky Sports Football HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399680
+#EXTINF:-1,Sky Sports Golf
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399681
+#EXTINF:-1,Sky Sports Golf HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399682
+#EXTINF:-1,Sky Sports Main Events
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399683
+#EXTINF:-1,Sky Sports Main Events FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399684
+#EXTINF:-1,Sky Sports Main Events HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399685
+#EXTINF:-1,Sky Sports MIX
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399686
+#EXTINF:-1,Sky Sports MIX FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399687
+#EXTINF:-1,Sky Sports MIX HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399688
+#EXTINF:-1,Sky Sports News
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399689
+#EXTINF:-1,Sky Sports News FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399690
+#EXTINF:-1,Sky Sports PL
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399691
+#EXTINF:-1,Sky Sports Premier League
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399692
+#EXTINF:-1,Sky Sports Premier League HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399693
+#EXTINF:-1,Sky Sports Racing
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399694
+#EXTINF:-1,Sky Two
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399695
+#EXTINF:-1,Sky Witness FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399696
+#EXTINF:-1,Sky Witness HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399697
+#EXTINF:-1,Sony Channel
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399698
+#EXTINF:-1,Sony Channel FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399699
+#EXTINF:-1,Sony Channel HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399700
+#EXTINF:-1,SONY MAX (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399701
+#EXTINF:-1,SONY MAX (Indian) FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399702
+#EXTINF:-1,SONY MAX 2 (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399703
+#EXTINF:-1, Sony Movies
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399704
+#EXTINF:-1,Star Bharat
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399705
+#EXTINF:-1,STAR BHARAT (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399706
+#EXTINF:-1,STAR GOLD (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399707
+#EXTINF:-1,Star Jalsha
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399708
+#EXTINF:-1,STAR PLUS (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399709
+#EXTINF:-1,Starz TV FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399710
+#EXTINF:-1,STV HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399711
+#EXTINF:-1,Syfy
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399712
+#EXTINF:-1,Talking Pictures
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399713
+#EXTINF:-1,TCM FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399714
+#EXTINF:-1,TCM HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399715
+#EXTINF:-1,TG4
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399716
+#EXTINF:-1,The Box
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399717
+#EXTINF:-1,The Vault
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399718
+#EXTINF:-1,Tiny Pop
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399719
+#EXTINF:-1,TLC
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399720
+#EXTINF:-1,TLC FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399721
+#EXTINF:-1,TLC HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399722
+#EXTINF:-1,Trace Latina
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399723
+#EXTINF:-1,Trace Urban
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399724
+#EXTINF:-1,Travel Channel
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399725
+#EXTINF:-1,True Ent
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399726
+#EXTINF:-1,True Movies 24+
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399727
+#EXTINF:-1,True TV
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399728
+#EXTINF:-1,TV3 IR HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399729
+#EXTINF:-1,TV5
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399730
+#EXTINF:-1,TV ONE (Pakistan)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399731
+#EXTINF:-1,UFC fight night Pass FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399732
+#EXTINF:-1,UFC Fight PASS
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399733
+#EXTINF:-1,Universal Channel FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399734
+#EXTINF:-1,UTV Ireland
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399735
+#EXTINF:-1,VENUS
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399736
+#EXTINF:-1,VH1
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399737
+#EXTINF:-1,VH1 Classic
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399738
+#EXTINF:-1,Viceland HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399739
+#EXTINF:-1,Virgin Media One
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399740
+#EXTINF:-1,Virgin Media Three
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399741
+#EXTINF:-1,Virgin Media Two
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399742
+#EXTINF:-1,VIVA
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399743
+#EXTINF:-1,W  1
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399744
+#EXTINF:-1,Watch FHD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399745
+#EXTINF:-1,Yesterday
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399746
+#EXTINF:-1,Zee Cinema (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399747
+#EXTINF:-1,Zee Punjabi (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399748
+#EXTINF:-1,Zee TV (Indian)
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399749
+#EXTINF:-1,Zing
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/399750
