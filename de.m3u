@@ -1,173 +1,639 @@
 #EXTM3U
-#EXTINF:-1,13th Street HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387192
-#EXTINF:-1,Fox HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387193
-#EXTINF:-1,SYFY HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387194
-#EXTINF:-1,TNT Comedy HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387195
-#EXTINF:-1,TNT Film HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387196
-#EXTINF:-1,TNT Series HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387197
-#EXTINF:-1,Universal Channel HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387198
-#EXTINF:-1,Kinowelt TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387199
-#EXTINF:-1,AXN HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387200
-#EXTINF:-1,Comedy Central HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387201
-#EXTINF:-1,Heimat Kanal TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387202
-#EXTINF:-1,Servus TV HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387203
-#EXTINF:-1,Sixx HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387204
-#EXTINF:-1,Tele 5 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387205
-#EXTINF:-1,Romance TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387206
-#EXTINF:-1,Kabel Eins Classics HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387207
-#EXTINF:-1,Anixe Serie HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387208
-#EXTINF:-1,JukeBox HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387209
-#EXTINF:-1,Classica
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387210
-#EXTINF:-1,Puls 8 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387211
-#EXTINF:-1,Nitro HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387212
-#EXTINF:-1,Oberpfalz Tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387213
-#EXTINF:-1,Ran 1Tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387214
-#EXTINF:-1,Rbw Tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387215
-#EXTINF:-1,Baden Tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387216
-#EXTINF:-1,Deutsches Musik
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387217
-#EXTINF:-1,Douna Tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387218
-#EXTINF:-1,Tva Tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387219
-#EXTINF:-1,CNBC HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387220
+#EXTINF:-1,Das Erste FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9764
 #EXTINF:-1,Das Erste HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387134
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/917
+#EXTINF:-1,ZDF FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1504
 #EXTINF:-1,ZDF HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387135
-#EXTINF:-1,ZDF Neo HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387136
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13893
+#EXTINF:-1,ARD One HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/18809
+#EXTINF:-1,ZDFneo HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25124
+#EXTINF:-1,ZDF info HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13892
+#EXTINF:-1,RTL FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9756
 #EXTINF:-1,RTL HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387137
-#EXTINF:-1,RTL 2 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387138
-#EXTINF:-1,Pro Sieben HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387139
-#EXTINF:-1,RTL Nitro HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387140
-#EXTINF:-1,RTL Passion HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387141
-#EXTINF:-1,RTL Plus HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387142
-#EXTINF:-1,RTL Living HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387143
-#EXTINF:-1,Vox HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387144
-#EXTINF:-1,RTL Crime HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387145
-#EXTINF:-1,Kabel 1 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387146
-#EXTINF:-1,Kabel 1 Klassic HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387147
-#EXTINF:-1,Crime & Investigation HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387148
-#EXTINF:-1,Sat 1 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387149
-#EXTINF:-1,SAT 1 Gold HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387150
-#EXTINF:-1,Pro 7 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387151
-#EXTINF:-1,Pro 7 Maxx HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387152
-#EXTINF:-1,E! Entertainment HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387153
-#EXTINF:-1,MDR HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387154
-#EXTINF:-1,3 Sat HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387155
-#EXTINF:-1,NDR HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387156
-#EXTINF:-1,Hr Tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387157
-#EXTINF:-1,Rbb Belin HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387158
-#EXTINF:-1,BR HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387159
-#EXTINF:-1,SWR HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387160
-#EXTINF:-1,Wdr Tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387161
-#EXTINF:-1,ZDF Info HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387162
-#EXTINF:-1,N24 DoKu HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387163
-#EXTINF:-1,Kabel 1 Doku HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387164
-#EXTINF:-1,Arte HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387165
-#EXTINF:-1,History HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387166
-#EXTINF:-1,Spiegel Geschichte HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387167
-#EXTINF:-1,Spiegel TV Wissen HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387168
-#EXTINF:-1,Discovery Channel HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387169
-#EXTINF:-1,Animal Planet HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387170
-#EXTINF:-1,National Geographic HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387171
-#EXTINF:-1,National Geographic Wild HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387172
-#EXTINF:-1,Anixe HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387173
-#EXTINF:-1,Dmax HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387174
-#EXTINF:-1,TLC HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387175
-#EXTINF:-1,Welt HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387176
-#EXTINF:-1,NTV HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387177
-#EXTINF:-1,Phoenix HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387178
-#EXTINF:-1,TAGESSCHAU 24
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387179
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1048
+#EXTINF:-1,RTL II HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9757
+#EXTINF:-1,RTL II
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1047
+#EXTINF:-1,RTL Passion
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3392
 #EXTINF:-1,Super RTL HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387180
-#EXTINF:-1,Kika HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387181
-#EXTINF:-1,Toggo Plus TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387182
-#EXTINF:-1,Boomerang HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387183
-#EXTINF:-1,Cartoon Network HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387184
-#EXTINF:-1,Disney Channel HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387185
-#EXTINF:-1,Disney Junior HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387186
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1514
+#EXTINF:-1,RTL Plus
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9918
+#EXTINF:-1,RTL Nitro HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14392
+#EXTINF:-1,RTL Crime
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3393
+#EXTINF:-1,RTL Living HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3375
+#EXTINF:-1,Kabel 1  HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1731
+#EXTINF:-1,Kabel 1
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/959
+#EXTINF:-1,Kabel 1 Doku
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/5831
+#EXTINF:-1,Kabel 1 Classic HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3383
+#EXTINF:-1,Sat 1 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9758
+#EXTINF:-1,Sat 1
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1056
+#EXTINF:-1,Sat 1 Emotions HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8962
+#EXTINF:-1,3Sat HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1849
+#EXTINF:-1,3Sat SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13894
+#EXTINF:-1,VOX  HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9787
+#EXTINF:-1,VOX
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1193
+#EXTINF:-1,Tele 5 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3379
+#EXTINF:-1,SIXX HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1436
+#EXTINF:-1,Sixx
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1581
+#EXTINF:-1,Pro Sieben FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14400
+#EXTINF:-1,Pro 7 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9771
+#EXTINF:-1,Pro 7
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1540
+#EXTINF:-1,Pro7 Fun HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3377
+#EXTINF:-1,Pro 7 Maxx HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3378
+#EXTINF:-1,Pro Sieben Maxx HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14421
+#EXTINF:-1,======== SKY CINEMA HD (normale Geschwindigkeit) ========
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13916
+#EXTINF:-1,Sky 1 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9774
+#EXTINF:-1,Sky 1
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7331
+#EXTINF:-1,Sky Cinema Premieren HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/32747
+#EXTINF:-1,Sky Cinema Premieren +24 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/32748
+#EXTINF:-1,Sky Cinema Special HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/32749
+#EXTINF:-1,Sky Cinema Classics
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/32746
+#EXTINF:-1,Sky Atlantic
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1062
+#EXTINF:-1,Sky Atlantic HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9775
+#EXTINF:-1,Sky Cinema HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1517
+#EXTINF:-1,Sky Cinema FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9777
+#EXTINF:-1,Sky Cinema +24 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1917
+#EXTINF:-1,Sky Cinema +24 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9780
+#EXTINF:-1,Sky Cinema Hits HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1758
+#EXTINF:-1,Sky Cinema Hits FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9781
+#EXTINF:-1,Sky Cinema Action HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1522
+#EXTINF:-1,Sky Cinema Action FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9778
+#EXTINF:-1,Sky Cinema Emotion HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/10942
+#EXTINF:-1,Sky Cinema Emotion FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1554
+#EXTINF:-1,Sky Cinema WESTERN
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2586
+#EXTINF:-1,Sky Cinema SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13895
+#EXTINF:-1,Sky Cinema +1 SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13896
+#EXTINF:-1,Sky Cinema +24 SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13897
+#EXTINF:-1,Sky Cinema Hits SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13898
+#EXTINF:-1,Sky Cinema Family HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13905
+#EXTINF:-1,Sky Cinema Action SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13907
+#EXTINF:-1,Sky Cinema Emotion SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13908
+#EXTINF:-1,Sky Cinema Comedy SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13909
+#EXTINF:-1,Sky Cinema Comedy HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13910
+#EXTINF:-1,Rakuten TV Action Movies HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53148
+#EXTINF:-1,Rakuten Action Movies 3
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60383
+#EXTINF:-1,Rakuten TV Comedy Movies HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53151
+#EXTINF:-1,Rakuten Comedy Movies
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60384
+#EXTINF:-1, Rakuten TV Drama HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53154
+#EXTINF:-1,Rakuten TV Family HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53157
+#EXTINF:-1,TV Movies
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60394
+#EXTINF:-1,TV Crime
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60393
+#EXTINF:-1,Drama
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60335
+#EXTINF:-1,Drama+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60336
+#EXTINF:-1, Rakuten TV Spotlight HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53159
+#EXTINF:-1,Sky Krimi
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1086
+#EXTINF:-1,Sky Krimi
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14424
+#EXTINF:-1,Sky Nostalgie
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14423
+#EXTINF:-1,Sky DMAX
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1579
+#EXTINF:-1,TNT Serie HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1515
+#EXTINF:-1,TNT Film HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1584
+#EXTINF:-1,TNT Comedy HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2587
+#EXTINF:-1,POPCORN SELECT 1
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28809
+#EXTINF:-1,POPCORN SELECT 2
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28810
+#EXTINF:-1,POPCORN SELECT 3
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28811
+#EXTINF:-1,POPCORN SELECT 4
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28812
+#EXTINF:-1,POPCORN SELECT 5
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28813
+#EXTINF:-1,Redbox Kino 1 HD (test)
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60217
+#EXTINF:-1,Redbox Kino 2 HD (test)
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60218
+#EXTINF:-1,Redbox Kino 3 HD (test)
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60219
+#EXTINF:-1,Redbox Kino 4 HD (test)
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60220
+#EXTINF:-1,Redbox Kino 5 HD (test)
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60221
+#EXTINF:-1,FOX
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2539
+#EXTINF:-1,FOX HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9766
+#EXTINF:-1,AXN
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9763
+#EXTINF:-1,AXN HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1535
+#EXTINF:-1,SYFY
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3385
+#EXTINF:-1,TLC HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/10053
+#EXTINF:-1,Universal Channel HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3386
+#EXTINF:-1,13th Street HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3384
+#EXTINF:-1,13th Street FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9760
+#EXTINF:-1,NITRO
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1850
+#EXTINF:-1,Arte HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25117
+#EXTINF:-1,Romance TV HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1763
+#EXTINF:-1,COMEDY CENTRAL
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1084
+#EXTINF:-1,Comedy Central 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60333
+#EXTINF:-1,Comedy Central+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60332
+#EXTINF:-1,Comedy Central Made in Germany+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60331
+#EXTINF:-1,Comedy Central Made in Germany
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60330
+#EXTINF:-1,Pluto TV Sitcoms+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60374
+#EXTINF:-1,Pluto TV Sitcoms
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60373
+#EXTINF:-1,E! HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3389
+#EXTINF:-1,Anixe SD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9721
+#EXTINF:-1,Anixe HD Series
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3396
+#EXTINF:-1,Heimatkanal
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14366
+#EXTINF:-1,Heimat Kanal HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2585
+#EXTINF:-1,Pluto TV Action Sports
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60396
+#EXTINF:-1,XITE HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60395
+#EXTINF:-1,The Pet Collective HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60391
+#EXTINF:-1,Tastemade
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60389
+#EXTINF:-1,Sofy TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60387
+#EXTINF:-1,Rakuten TV Shows HD 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60386
+#EXTINF:-1,Rakuten Top Free HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60385
+#EXTINF:-1,Pluto TV The Story of Beatclub
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60381
+#EXTINF:-1,Pluto TV The Asylum Channel
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60380
+#EXTINF:-1,Pluto TV Surf
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60378
+#EXTINF:-1,Pluto TV Strongman
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60377
+#EXTINF:-1,Pluto TV Storage Wars
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60376
+#EXTINF:-1,Pluto TV InTrouble
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60362
+#EXTINF:-1,Pluto TV InSight
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60360
+#EXTINF:-1,Pluto TV InSight+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60361
+#EXTINF:-1,Home
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60343
+#EXTINF:-1,Food TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60339
+#EXTINF:-1,Focus TV 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60338
+#EXTINF:-1,Dark Matter
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60334
+#EXTINF:-1,Being Human HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60325
+#EXTINF:-1,Auction Hunters HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60323
+#EXTINF:-1,======== SPORT ========
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13913
+#EXTINF:-1,Sky Sport F1 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53387
+#EXTINF:-1,S SPORT F1
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53351
+#EXTINF:-1,SPORT1 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30175
+#EXTINF:-1,Sky Sport News FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30173
+#EXTINF:-1,Sky Sport 1 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30197
+#EXTINF:-1,Sky Sport 2 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30205
+#EXTINF:-1,Sky Sport 3 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30200
+#EXTINF:-1,Sky Sport 5 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30198
+#EXTINF:-1,Sky Sport 4 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30199
+#EXTINF:-1,Sky Sport 6 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30195
+#EXTINF:-1,Sky Sport 7 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30194
+#EXTINF:-1,Sky Sport 8 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30193
+#EXTINF:-1,Sky Sport 9 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30192
+#EXTINF:-1,Sky Sport 10 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30191
+#EXTINF:-1,Sky Sport Bundesliga 1 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30190
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30189
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30188
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30187
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30203
+#EXTINF:-1,Sky Sport Bundesliga 6 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30186
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30184
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30182
+#EXTINF:-1,Sky Sport Bundesliga 9 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30179
+#EXTINF:-1,Sky Sport Austria FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30206
+#EXTINF:-1,FC BAYERN TV HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14348
+#EXTINF:-1,Sportdigital HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14456
+#EXTINF:-1,Sportdigital FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30174
+#EXTINF:-1,SPORT 1 US FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30196
+#EXTINF:-1,SPORT 1+ FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30201
+#EXTINF:-1,Auto Motor Sport HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14444
+#EXTINF:-1,Auto Motor Sport HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11017
+#EXTINF:-1,Motorvision TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14445
+#EXTINF:-1,Motorvision HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3391
+#EXTINF:-1,Auto Motor Sport Channel HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60324
+#EXTINF:-1,Glory Kickboxing 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60340
+#EXTINF:-1,Fitness 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60337
+#EXTINF:-1,======== KINDER ========
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13920
+#EXTINF:-1,Disney Cinemagic
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1082
+#EXTINF:-1,KIKA HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1765
+#EXTINF:-1,FIX FOXI
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1779
+#EXTINF:-1,Disney Channel
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2584
+#EXTINF:-1,Boomerang
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2588
+#EXTINF:-1,Nick HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25109
 #EXTINF:-1,Junior HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387187
-#EXTINF:-1,NickToon HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387188
-#EXTINF:-1,Nick Jr. HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387189
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2589
+#EXTINF:-1,Nickelodeon
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1087
+#EXTINF:-1,Nick Jr
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1528
+#EXTINF:-1,Nickelodeon Schweiz HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2590
+#EXTINF:-1,Disney Junior
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2621
+#EXTINF:-1,Toggo Plus
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/14907
+#EXTINF:-1,Baby TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/19778
+#EXTINF:-1,Teletubbies HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60390
+#EXTINF:-1,Supertoons HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60388
+#EXTINF:-1,Pluto TV Totally Turtles nick
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60382
+#EXTINF:-1,Pluto TV Teen nick
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60379
+#EXTINF:-1,Pluto TV SpongeBob Schwammkopf nick
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60375
+#EXTINF:-1,Pluto TV Sanctuary 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60372
+#EXTINF:-1,Pluto TV Sabrina
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60371
+#EXTINF:-1,Pluto TV Retro Toons
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60370
+#EXTINF:-1,Pluto TV nickrewind+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60369
+#EXTINF:-1,Pluto TV nickrewind
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60368
+#EXTINF:-1,Pluto TV nick+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60367
+#EXTINF:-1,Pluto TV nick Jr.
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60366
+#EXTINF:-1,Pluto TV nick Emma einfach magisch! 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60365
+#EXTINF:-1,Pluto TV nick
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60364
+#EXTINF:-1,Pluto TV Mario vs Sonic
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60363
+#EXTINF:-1,Inspector Gadget
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60350
+#EXTINF:-1,Bubble Guppies
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60329
+#EXTINF:-1,Blue's Clues nick 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60328
+#EXTINF:-1,Blaze nick
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60327
+#EXTINF:-1,Beyblade Burst nick 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60326
+#EXTINF:-1,======== WISSENSCHAFT UND NATUR ========
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13912
+#EXTINF:-1,Discovery Channel
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3394
+#EXTINF:-1,Discovery Channel HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9765
+#EXTINF:-1,Crime Investigation FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/43820
+#EXTINF:-1,Animal Planet
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1088
+#EXTINF:-1,Animal Planet HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9762
+#EXTINF:-1,National Geographic
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1089
+#EXTINF:-1,National Geographic HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9769
+#EXTINF:-1,Nat Geo Wild
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3387
+#EXTINF:-1,Nat Geo Wild  HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9770
+#EXTINF:-1,WELT
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9789
+#EXTINF:-1,WELT HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/4925
+#EXTINF:-1,Welt Der Wunder
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9728
+#EXTINF:-1,Spiegel TV Wissen
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9726
+#EXTINF:-1,Spiegel TV Wissen HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9790
+#EXTINF:-1,History Channel
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1844
+#EXTINF:-1,History Channel HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9767
+#EXTINF:-1,N24 Doku
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/17122
+#EXTINF:-1,Travel XP
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60392
+#EXTINF:-1,Inwonder TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60352
+#EXTINF:-1,Inwonder TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60351
+#EXTINF:-1,Insight TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60349
+#EXTINF:-1,Indies
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60348
+#EXTINF:-1,IGN
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60347
+#EXTINF:-1,Ice Pilots
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60346
+#EXTINF:-1,iCarly 
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60345
+#EXTINF:-1,iCarly+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60344
+#EXTINF:-1,History+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60342
+#EXTINF:-1,History
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60341
+#EXTINF:-1,Animals+ HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60322
+#EXTINF:-1,Animals HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60321
+#EXTINF:-1,======== MUSIC ========
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13911
+#EXTINF:-1,MTV Germany HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/6288
+#EXTINF:-1,MTV The Shores
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60359
+#EXTINF:-1,MTV The Hills
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60358
+#EXTINF:-1,MTV Teen Mom
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60357
+#EXTINF:-1,MTV Pluto
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60356
+#EXTINF:-1,MTV Cribs
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60355
+#EXTINF:-1,MTV Catfish+
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60354
+#EXTINF:-1,MTV Catfish
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60353
+#EXTINF:-1,Jukebox
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9509
 #EXTINF:-1,Deluxe Music HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/387190
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9724
+#EXTINF:-1,Sonnenklar TV FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/10094
+#EXTINF:-1,GO TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11833
+#EXTINF:-1,MDR HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/13242
+#EXTINF:-1,WDR HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8961
+#EXTINF:-1,NDR HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1532
+#EXTINF:-1,N-TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9528
+#EXTINF:-1,N-TV HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9788
+#EXTINF:-1,Puls 4
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22498
+#EXTINF:-1,ATV HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11179
+#EXTINF:-1,ATV 2
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22499
+#EXTINF:-1,Phoenix HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/9723
+#EXTINF:-1,TVO Oberfranken
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25127
+#EXTINF:-1,OK WETTIN FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25141
+#EXTINF:-1,OK WERNIGERODE FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25142
+#EXTINF:-1,OK STENDAL FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25143
+#EXTINF:-1,OK MERSEBURG FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25145
+#EXTINF:-1,OK MAGDEBURG REGGIO TV FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25146
+#EXTINF:-1,OK DESSAU FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25147
+#EXTINF:-1,TV HALLE HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25148
+#EXTINF:-1,RBW FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25149
+#EXTINF:-1,RAN 1 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25150
+#EXTINF:-1,PUNKT UM FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25151
+#EXTINF:-1,Kultur MD FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25152
+#EXTINF:-1,ElbeKanal
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25154
+#EXTINF:-1,RFH FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25156
+#EXTINF:-1,REGIO TV BODENSEE FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25159
+#EXTINF:-1,QVC HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25160
+#EXTINF:-1,Oberlausitz TV HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25161
+#EXTINF:-1,Oberpfalz TV FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25165
+#EXTINF:-1,Die Neue Zeit TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25166
+#EXTINF:-1,MDF.1 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25168
+#EXTINF:-1,Kabel Journal TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25170
+#EXTINF:-1,Dresden TV FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25173
+#EXTINF:-1,Chemnitz TV FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25174
+#EXTINF:-1,Campus TV FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25175
+#EXTINF:-1,Deutsches Musik TV HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25181
+#EXTINF:-1,Baden Tv HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25182
+#EXTINF:-1,ARD Tagesschau 24 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25183
+#EXTINF:-1,DW Deutsche Welle
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25184
+#EXTINF:-1,Stingray Classica FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/51658
+#EXTINF:-1,Allgau TV FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/25186
+#EXTINF:-1,DAZN Bar 1 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/58597
+#EXTINF:-1,DAZN Bar 2 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/58598
+#EXTINF:-1,Sky Sport News HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/10811
+#EXTINF:-1,Sky Sport 1
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/6449
+#EXTINF:-1,Sky Sport 1 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1106
+#EXTINF:-1,Sky Sport 2 FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/6451
+#EXTINF:-1,Sky Sport 2 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1495
+#EXTINF:-1,Sky Sport 3 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2734
+#EXTINF:-1,Sky Sport 4 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2735
+#EXTINF:-1,Sky Sport 5 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2736
+#EXTINF:-1,Sky Sport 6 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7305
+#EXTINF:-1,Sky Sport 7 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7306
+#EXTINF:-1,Sky Sport 8 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7307
+#EXTINF:-1,Sky Sport 9 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7308
+#EXTINF:-1,Sky Sport 10 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7309
+#EXTINF:-1,Sky Sport Austria HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1496
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7424
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7426
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7428
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7429
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7431
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7432
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7434
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7436
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7437
+#EXTINF:-1,SPORT1 HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8960
