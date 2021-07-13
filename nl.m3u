@@ -1,137 +1,371 @@
 #EXTM3U
-#EXTINF:-1,NPO 1
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1943
-#EXTINF:-1,NPO1 EXTRA
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39480
-#EXTINF:-1,NPO 2
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1944
-#EXTINF:-1,NPO2 EXTRA
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39479
+#EXTINF:-1,Npo 1 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4961
+#EXTINF:-1,NPO1
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4962
+#EXTINF:-1,Npo 1 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4960
+#EXTINF:-1,Npo 2 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4958
+#EXTINF:-1,NPO2
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4959
+#EXTINF:-1,Npo 2 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4957
+#EXTINF:-1,Npo 3 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4955
 #EXTINF:-1,NPO3
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1945
-#EXTINF:-1,NPO POLITIEK
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39483
-#EXTINF:-1,NPO NIEUWS
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39481
-#EXTINF:-1,Rtl 4
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1940
-#EXTINF:-1,RTL4 HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1963
-#EXTINF:-1,RTL 5
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39449
-#EXTINF:-1,RTL 7
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1942
-#EXTINF:-1,RTL7 HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1961
-#EXTINF:-1,RTL 8
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39450
-#EXTINF:-1,RTL Z
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29223
-#EXTINF:-1,RTL CRIME
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39451
-#EXTINF:-1,RTL LOUNGE
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39452
-#EXTINF:-1,NET5
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29216
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4956
+#EXTINF:-1,Npo 3 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4954
+#EXTINF:-1,Sbs 6 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4937
 #EXTINF:-1,SBS 6
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29225
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4938
+#EXTINF:-1,SBS6 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4936
+#EXTINF:-1,Rtl 7 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4943
+#EXTINF:-1,RTL7
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4944
+#EXTINF:-1,RTL 7 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4942
+#EXTINF:-1,Rtl 8 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4939
+#EXTINF:-1,RTL8
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4941
+#EXTINF:-1,RTL 8 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4940
+#EXTINF:-1,Sbs 9 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4934
 #EXTINF:-1,SBS 9
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29226
-#EXTINF:-1,Film 1 Action HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1985
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4935
+#EXTINF:-1,SBS9 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4933
+#EXTINF:-1,Net 5 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4952
+#EXTINF:-1,NET5
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4953
+#EXTINF:-1,Net5 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4951
+#EXTINF:-1,RTL Lounge NL
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4925
+#EXTINF:-1,Rtl Lounge
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4926
+#EXTINF:-1,Rtl Z HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4931
+#EXTINF:-1,RTL Z
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4932
+#EXTINF:-1,Rtl 4 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4949
+#EXTINF:-1,RTL 4 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4948
+#EXTINF:-1,Rtl 5 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4946
+#EXTINF:-1,RTL 5 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4945
+#EXTINF:-1, E entertainement HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4804
+#EXTINF:-1,E! ENTERTAINMENT H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4803
+#EXTINF:-1,E HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4805
+#EXTINF:-1,FOX H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4821
+#EXTINF:-1,Fox Life
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4820
+#EXTINF:-1,Fox NL
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4966
+#EXTINF:-1,L1 MBURG
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4796
+#EXTINF:-1,Ngc
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4886
+#EXTINF:-1,Noord Holland TV
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4792
+#EXTINF:-1,Npo Nieuws
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4921
+#EXTINF:-1,Npo Politiek
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4783
+#EXTINF:-1,NPO Politiek.Best
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4920
+#EXTINF:-1,NPO ZAP Extra
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4919
+#EXTINF:-1,ONS
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4780
+#EXTINF:-1,RTL Lounge H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4924
+#EXTINF:-1,RTL Z H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4930
+#EXTINF:-1,RTL4
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4950
+#EXTINF:-1,RTL5
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4947
+#EXTINF:-1,Spike H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4800
+#EXTINF:-1,Spike HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4801
+#EXTINF:-1,TV Noord
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4789
+#EXTINF:-1,TV Oost
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4788
+#EXTINF:-1,TV Rijnmond
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4791
+#EXTINF:-1,TV West
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4790
+#EXTINF:-1,Viceland H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4794
+#EXTINF:-1,XITE H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4793
+#EXTINF:-1,RTV Utrecht
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4799
+#EXTINF:-1,Omroep Brabant
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4787
+#EXTINF:-1,Omroep Flevoland
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4786
+#EXTINF:-1,Omroep Frysland
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4785
+#EXTINF:-1,Omroep Zeeland
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4784
+#EXTINF:-1,L1 Limburg
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4797
+#EXTINF:-1,Film1 Action HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4897
+#EXTINF:-1,Film1 Action
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4898
+#EXTINF:-1,Film1 Action H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4896
+#EXTINF:-1,Film1 Drama HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4891
+#EXTINF:-1,Film1 Drama H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4890
+#EXTINF:-1,Film1 Family HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4894
+#EXTINF:-1,Film1 Family H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4893
 #EXTINF:-1,Film 1 Premiere HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1975
-#EXTINF:-1,FILM1 DRAMA
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29211
-#EXTINF:-1,FILM FAMILY
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29212
-#EXTINF:-1,FOX
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29213
-#EXTINF:-1,TLC
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39473
-#EXTINF:-1,E! HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39486
-#EXTINF:-1,BBC FIRST
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39487
-#EXTINF:-1,Comedy Central EXTRA
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39475
-#EXTINF:-1,COMEDY CENTRAL
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39474
-#EXTINF:-1,HBO HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1947
-#EXTINF:-1,LOVE NATURE HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39484
-#EXTINF:-1,National Geographic
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1969
-#EXTINF:-1,NAT GEO WILD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39476
-#EXTINF:-1,DISCOVERY CHANNEL
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29205
-#EXTINF:-1,CRIME&INVESTIGATION
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39485
-#EXTINF:-1,HISTORY CHANNEL
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29214
-#EXTINF:-1,24 KITCHEN
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39477
-#EXTINF:-1,Golf HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1977
-#EXTINF:-1,MTV HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/7313
-#EXTINF:-1,SLAM TV
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/10963
-#EXTINF:-1,XITE HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/10964
-#EXTINF:-1,Pebble TV
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/26424
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4900
+#EXTINF:-1,Film1-Premiere
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4901
+#EXTINF:-1,Film1 Premiere H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4899
+#EXTINF:-1,HBO 1 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4889
+#EXTINF:-1,HBO 2 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4888
+#EXTINF:-1,RTL CRIME NL
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4928
+#EXTINF:-1,Rtl Crime
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4929
+#EXTINF:-1,RTL Crime H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4927
+#EXTINF:-1, Comedy Central Extra
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4814
+#EXTINF:-1,Comedy Central extra
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4815
+#EXTINF:-1, Comedy Central Family
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4813
+#EXTINF:-1,Comedy Central Family
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4818
+#EXTINF:-1, Comedy  Central
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4816
+#EXTINF:-1,Comedy Central
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4817
+#EXTINF:-1,Veronica Disney XD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4914
+#EXTINF:-1,Veronica .Disney XD H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4913
+#EXTINF:-1,DisneyChanne
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4918
+#EXTINF:-1,Disney Channel
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4977
+#EXTINF:-1,Disney Channel H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4917
+#EXTINF:-1,Disney Junior
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4976
+#EXTINF:-1,Disney.Junior
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4912
+#EXTINF:-1,Disney XD NL
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4915
+#EXTINF:-1,DisneyXD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4916
+#EXTINF:-1,Nickelodeon HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4974
+#EXTINF:-1,Nickelodeon
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4909
+#EXTINF:-1,Nickelodeon H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4908
+#EXTINF:-1,Nicktoons HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4906
+#EXTINF:-1,Nicktoons NL
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4907
+#EXTINF:-1,Nick  JR
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4975
+#EXTINF:-1,Nick JR
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4910
 #EXTINF:-1,Nick Music
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11438
-#EXTINF:-1,NICK
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29218
-#EXTINF:-1,NICK JR
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29219
-#EXTINF:-1,BOOMERANG
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39472
-#EXTINF:-1,BABY TV
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29202
-#EXTINF:-1,RTL TELEKIDS
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29222
-#EXTINF:-1,DISNEY CHANNEL
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29206
-#EXTINF:-1,DISNEY XD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29207
-#EXTINF:-1,SPIKE
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29217
-#EXTINF:-1,OUT TV
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29220
-#EXTINF:-1,538
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/29224
-#EXTINF:-1,ESPN 1
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11677
-#EXTINF:-1,ESPN 2
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11676
-#EXTINF:-1,ESPN 3 HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11675
-#EXTINF:-1,ESPN 4 HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11674
-#EXTINF:-1,ESPN 5 HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11673
-#EXTINF:-1,ESPN 6 HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11672
-#EXTINF:-1,Ziggo docu
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2294
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4911
+#EXTINF:-1,Nick/Spike
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4802
+#EXTINF:-1,Baby TV HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4905
+#EXTINF:-1,Baby TV
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4973
+#EXTINF:-1,RTL Telekids H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4923
+#EXTINF:-1,Cartoon.Network HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4903
+#EXTINF:-1,Boomerang
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4972
+#EXTINF:-1,Sport 1 Select
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4865
+#EXTINF:-1,Sport 1Voetbal
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4862
+#EXTINF:-1,Ziggo Sport Extra 1
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4857
+#EXTINF:-1,Ziggo Sport Extra 2 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4855
 #EXTINF:-1,Ziggo Sport Extra 2
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2293
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4856
+#EXTINF:-1,Ziggo Sport Golf HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4852
 #EXTINF:-1,Ziggo Sport Golf
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8964
-#EXTINF:-1,Ziggo Sport Racing
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8965
-#EXTINF:-1,Ziggo Sport Racing HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11678
-#EXTINF:-1,Ziggo Sport Select
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8967
-#EXTINF:-1,Ziggo Sport Select HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11291
-#EXTINF:-1,Ziggo Sport Voetbal
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8966
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4854
+#EXTINF:-1,Ziggo Sport Golf H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4853
 #EXTINF:-1,Ziggo Sport HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/11313
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4859
+#EXTINF:-1,Ziggo EXSTRA  1H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4858
+#EXTINF:-1,Ziggo Sport Racing HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4851
+#EXTINF:-1,Ziggo Sport Racing H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4850
+#EXTINF:-1,Ziggo Sport Select HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4864
+#EXTINF:-1,Ziggo Sport Select H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4863
+#EXTINF:-1,Ziggo Sport Voetbal HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4861
+#EXTINF:-1,Ziggo Sport Voetbal H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4860
+#EXTINF:-1,ESPN  1 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4848
+#EXTINF:-1,ESPN 1
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4849
+#EXTINF:-1,ESPN  1 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4847
+#EXTINF:-1,ESPN  2 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4845
+#EXTINF:-1,ESPN  2
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4846
+#EXTINF:-1,ESPN  2 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4844
+#EXTINF:-1,ESPN  3 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4842
+#EXTINF:-1,ESPN  3
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4843
+#EXTINF:-1,ESPN  3 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4841
+#EXTINF:-1,ESPN  4 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4839
+#EXTINF:-1,ESPN  4
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4840
+#EXTINF:-1,ESPN  4 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4838
+#EXTINF:-1,ESPN  5 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4836
+#EXTINF:-1,ESPN  5 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4835
+#EXTINF:-1,ESPN  6 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4834
+#EXTINF:-1,ESPN  6
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4833
+#EXTINF:-1,ESPN  6 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4832
+#EXTINF:-1,Extreme Sport
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4828
+#EXTINF:-1,ELEVEN SPORT 1 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10342
+#EXTINF:-1,ELEVEN SPORT 2 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10343
+#EXTINF:-1,ELEVEN SPORT 3 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10344
+#EXTINF:-1, Discovery
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4875
+#EXTINF:-1,Discovery Channel
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4876
+#EXTINF:-1,Discovery H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4874
+#EXTINF:-1,Discovery Science HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4872
+#EXTINF:-1,Discovery Science H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4871
+#EXTINF:-1,Discovery Investigation HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4873
+#EXTINF:-1,Discovery WORLD HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4870
+#EXTINF:-1,Discovery World
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4877
+#EXTINF:-1,Investigation Discovery
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4971
+#EXTINF:-1,National.Geo
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4885
+#EXTINF:-1,National Geo H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4884
+#EXTINF:-1,Nat.Geo.Wild.NL
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4883
+#EXTINF:-1,Nat Geo Wild H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4881
+#EXTINF:-1,TLC HD NL
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4823
+#EXTINF:-1,Animal Planet HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4879
+#EXTINF:-1,Animal Planet
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4880
+#EXTINF:-1,Animal Planet H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4878
+#EXTINF:-1,History HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4869
+#EXTINF:-1,HISTORY H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4868
+#EXTINF:-1,24 Kitchen HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4825
+#EXTINF:-1,Ngc Wild HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4882
+#EXTINF:-1,Crime Investigation
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4965
+#EXTINF:-1,Crime lnvestigation
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4819
+#EXTINF:-1,NPO NIEUWS
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4782
+#EXTINF:-1,Mtv HD NL
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4811
+#EXTINF:-1,MTV H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4810
+#EXTINF:-1,MTV Live H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4808
+#EXTINF:-1,Mtv Music
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4812
+#EXTINF:-1,MTV Music 24
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4809
+#EXTINF:-1,MTV Nederland
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4807
+#EXTINF:-1,192 TV
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4781
+#EXTINF:-1,Mezzo
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4964
+#EXTINF:-1,DMTV Boxoffice 1
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115419
+#EXTINF:-1,DMTV Boxoffice 2
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115420
+#EXTINF:-1,DMTV Boxoffice 3
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115421
+#EXTINF:-1,DMTV Boxoffice 4
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115422
+#EXTINF:-1,DMTV Boxoffice 5
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115423
+#EXTINF:-1,DMTV Boxoffice 6
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115424
+#EXTINF:-1,DMTV Boxoffice 7
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115425
+#EXTINF:-1,DMTV Boxoffice 9
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115426
