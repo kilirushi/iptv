@@ -1,619 +1,1913 @@
 #EXTM3U
-#EXTINF:-1,RTL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/584
-#EXTINF:-1,RTL HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55106
-#EXTINF:-1,RTL HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78444
-#EXTINF:-1,RTL 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/589
-#EXTINF:-1,RTLII HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55107
-#EXTINF:-1,RTLII HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78445
-#EXTINF:-1,RTL Living
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/586
-#EXTINF:-1,Prosieben HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/592
-#EXTINF:-1,ProSieben HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78442
-#EXTINF:-1,Pro7 MAXX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/595
-#EXTINF:-1,Pro7 MAXX HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78443
-#EXTINF:-1, 3sat HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15013
-#EXTINF:-1,Sat1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/591
-#EXTINF:-1,SAT.1 HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55108
-#EXTINF:-1,SAT.1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78447
-#EXTINF:-1,SAT1 Gold HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/596
-#EXTINF:-1,SAT.1 Gold HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78448
-#EXTINF:-1,ZDF HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/597
-#EXTINF:-1,DAS ERSTE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12524
-#EXTINF:-1,Das Erste
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10007
-#EXTINF:-1,N24 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/598
-#EXTINF:-1, Kabel eins FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15020
-#EXTINF:-1,Kabel eins HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15056
-#EXTINF:-1,Kabel Eins HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78451
-#EXTINF:-1,Kabel Eins Doku HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78482
-#EXTINF:-1,Kabel 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/593
-#EXTINF:-1,ZDF Info
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12585
-#EXTINF:-1,ATV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12601
-#EXTINF:-1,E! Entertainment
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10066
+#EXTINF:-1,ARD
+http://albauser.net:2235/antree-iptv/exchange/27509
+#EXTINF:-1,Das Erste 4K
+http://albauser.net:2235/antree-iptv/exchange/27568
+#EXTINF:-1,ZDF
+http://albauser.net:2235/antree-iptv/exchange/28049
+#EXTINF:-1,Sat.1
+http://albauser.net:2235/antree-iptv/exchange/27787
+#EXTINF:-1,RTL
+http://albauser.net:2235/antree-iptv/exchange/27777
+#EXTINF:-1,RTL
+http://albauser.net:2235/antree-iptv/exchange/27773
+#EXTINF:-1,RTL 2 4K+
+http://albauser.net:2235/antree-iptv/exchange/27775
+#EXTINF:-1,RTL 2
+http://albauser.net:2235/antree-iptv/exchange/27784
+#EXTINF:-1,Pro7 (H265)
+http://albauser.net:2235/antree-iptv/exchange/27756
+#EXTINF:-1,VOX FHD
+http://albauser.net:2235/antree-iptv/exchange/28033
+#EXTINF:-1,VOXup
+http://albauser.net:2235/antree-iptv/exchange/28034
+#EXTINF:-1,SUPER RTL
+http://albauser.net:2235/antree-iptv/exchange/27936
+#EXTINF:-1,Tom & Jerry HD
+http://albauser.net:2235/antree-iptv/exchange/236
+#EXTINF:-1,Tom and Jerry HD
+http://albauser.net:2235/antree-iptv/exchange/28011
+#EXTINF:-1,Sixx FHD (H265)
+http://albauser.net:2235/antree-iptv/exchange/27793
+#EXTINF:-1,3 Sat 4K+
+http://albauser.net:2235/antree-iptv/exchange/27496
+#EXTINF:-1,Kabel 1 FHD (H265)
+http://albauser.net:2235/antree-iptv/exchange/27655
+#EXTINF:-1,Kabel Eins FHD
+http://albauser.net:2235/antree-iptv/exchange/27659
+#EXTINF:-1,Kabel 1 Classic HD
+http://albauser.net:2235/antree-iptv/exchange/27653
+#EXTINF:-1,Kabel eins Classics FHD
+http://albauser.net:2235/antree-iptv/exchange/27657
+#EXTINF:-1,RTL Nitro FHD
+http://albauser.net:2235/antree-iptv/exchange/27780
 #EXTINF:-1,RTL Nitro
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12586
-#EXTINF:-1,RTL Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12587
-#EXTINF:-1,Super RTL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/585
-#EXTINF:-1,SUPER RTL HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78485
-#EXTINF:-1,Zee One
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12594
-#EXTINF:-1,Kinowelt TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12593
-#EXTINF:-1,ARD-Alpha
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15047
+http://albauser.net:2235/antree-iptv/exchange/27716
+#EXTINF:-1,DMAX SD
+http://albauser.net:2235/antree-iptv/exchange/63719
+#EXTINF:-1,DMAX 4K+
+http://albauser.net:2235/antree-iptv/exchange/27597
+#EXTINF:-1,Sat.1 Gold
+http://albauser.net:2235/antree-iptv/exchange/27786
+#EXTINF:-1,PRO 7 MAX UHD
+http://albauser.net:2235/antree-iptv/exchange/27754
+#EXTINF:-1,Pro 7 Maxx (H265)
+http://albauser.net:2235/antree-iptv/exchange/27755
+#EXTINF:-1,7 MAXX HD
+http://albauser.net:2235/antree-iptv/exchange/27498
+#EXTINF:-1,DW TV
+http://albauser.net:2235/antree-iptv/exchange/27601
+#EXTINF:-1,N-TV (H265)
+http://albauser.net:2235/antree-iptv/exchange/27703
+#EXTINF:-1,n-tv HD
+http://albauser.net:2235/antree-iptv/exchange/27704
+#EXTINF:-1,N24 DOC
+http://albauser.net:2235/antree-iptv/exchange/27705
+#EXTINF:-1,N24 HEVC
+http://albauser.net:2235/antree-iptv/exchange/27706
+#EXTINF:-1,N24 (H265)
+http://albauser.net:2235/antree-iptv/exchange/27707
+#EXTINF:-1,Welt
+http://albauser.net:2235/antree-iptv/exchange/28043
+#EXTINF:-1,Weltr Wunder
+http://albauser.net:2235/antree-iptv/exchange/28044
+#EXTINF:-1,Nick Junior HD
+http://albauser.net:2235/antree-iptv/exchange/27713
+#EXTINF:-1,NICKELDEON HD
+http://albauser.net:2235/antree-iptv/exchange/27714
+#EXTINF:-1,KIKA (H265)
+http://albauser.net:2235/antree-iptv/exchange/27660
+#EXTINF:-1,RNF TV
+http://albauser.net:2235/antree-iptv/exchange/27770
+#EXTINF:-1,WELT (H265)
+http://albauser.net:2235/antree-iptv/exchange/28042
+#EXTINF:-1,nickelodeon HD
+http://albauser.net:2235/antree-iptv/exchange/27715
+#EXTINF:-1,Pro 7 Fun FHD
+http://albauser.net:2235/antree-iptv/exchange/27753
+#EXTINF:-1,Tele 5 FHD
+http://albauser.net:2235/antree-iptv/exchange/27497
+#EXTINF:-1,1-2-3 TV HD
+http://albauser.net:2235/antree-iptv/exchange/27499
+#EXTINF:-1,13th Street (H265)
+http://albauser.net:2235/antree-iptv/exchange/27500
+#EXTINF:-1,4+ HD
+http://albauser.net:2235/antree-iptv/exchange/27501
+#EXTINF:-1,A&E FHD
+http://albauser.net:2235/antree-iptv/exchange/27502
+#EXTINF:-1,Alex Berlin HD
+http://albauser.net:2235/antree-iptv/exchange/27503
+#EXTINF:-1,ALLGAU TV HD
+http://albauser.net:2235/antree-iptv/exchange/27504
+#EXTINF:-1,Altaghier FHD ARB
+http://albauser.net:2235/antree-iptv/exchange/27505
+#EXTINF:-1,ANIMAL PLANET FHD
+http://albauser.net:2235/antree-iptv/exchange/27506
+#EXTINF:-1,ANIXE FHD
+http://albauser.net:2235/antree-iptv/exchange/27507
+#EXTINF:-1,ARD Alpha
+http://albauser.net:2235/antree-iptv/exchange/27508
+#EXTINF:-1,ARD ONE HD
+http://albauser.net:2235/antree-iptv/exchange/27510
+#EXTINF:-1,ARTE HD
+http://albauser.net:2235/antree-iptv/exchange/27511
+#EXTINF:-1,Astro TV
+http://albauser.net:2235/antree-iptv/exchange/27512
+#EXTINF:-1,ATLANTIC HD
+http://albauser.net:2235/antree-iptv/exchange/27513
+#EXTINF:-1,ATV
+http://albauser.net:2235/antree-iptv/exchange/27514
+#EXTINF:-1,Augsburg TV
+http://albauser.net:2235/antree-iptv/exchange/27515
+#EXTINF:-1,AUSBURG TV
+http://albauser.net:2235/antree-iptv/exchange/27516
+#EXTINF:-1,Austria 24
+http://albauser.net:2235/antree-iptv/exchange/27517
+#EXTINF:-1,Auto Moto Sport FHD
+http://albauser.net:2235/antree-iptv/exchange/27518
+#EXTINF:-1,AUTO MOTOR SPORT FHD
+http://albauser.net:2235/antree-iptv/exchange/27519
+#EXTINF:-1,Auto Motor und Sport HD
+http://albauser.net:2235/antree-iptv/exchange/27520
+#EXTINF:-1,AXN FHD
+http://albauser.net:2235/antree-iptv/exchange/27521
+#EXTINF:-1,Baby TV
+http://albauser.net:2235/antree-iptv/exchange/27522
+#EXTINF:-1,BADEN TV
+http://albauser.net:2235/antree-iptv/exchange/27523
+#EXTINF:-1,BAERN REGIONAL
+http://albauser.net:2235/antree-iptv/exchange/27524
+#EXTINF:-1,Bibel TV HD
+http://albauser.net:2235/antree-iptv/exchange/27528
+#EXTINF:-1,Bibel TV Impuls
+http://albauser.net:2235/antree-iptv/exchange/27529
+#EXTINF:-1,Bibel TV Musik
+http://albauser.net:2235/antree-iptv/exchange/27530
+#EXTINF:-1,Blizz TV
+http://albauser.net:2235/antree-iptv/exchange/27531
+#EXTINF:-1,BLK
+http://albauser.net:2235/antree-iptv/exchange/27532
+#EXTINF:-1,BLK Regional TV
+http://albauser.net:2235/antree-iptv/exchange/27533
+#EXTINF:-1,Bon Gusto HD
+http://albauser.net:2235/antree-iptv/exchange/27534
+#EXTINF:-1,Boomerang FHD
+http://albauser.net:2235/antree-iptv/exchange/27535
+#EXTINF:-1,BOSS MOVIES 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27536
+#EXTINF:-1,BOSS MOVIES 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27537
+#EXTINF:-1,BOSS MOVIES 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27538
+#EXTINF:-1,BOSS MOVIES 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27539
+#EXTINF:-1,BR HD
+http://albauser.net:2235/antree-iptv/exchange/27540
+#EXTINF:-1,C TV HD
+http://albauser.net:2235/antree-iptv/exchange/27541
+#EXTINF:-1,Campus Magdeburg
+http://albauser.net:2235/antree-iptv/exchange/27542
+#EXTINF:-1,CARTOON NETWORK FHD
+http://albauser.net:2235/antree-iptv/exchange/27543
+#EXTINF:-1,Channel 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27544
+#EXTINF:-1,Channel 21
+http://albauser.net:2235/antree-iptv/exchange/27545
+#EXTINF:-1,Chaula Music HD
+http://albauser.net:2235/antree-iptv/exchange/27546
+#EXTINF:-1,CINE 2
+http://albauser.net:2235/antree-iptv/exchange/27547
+#EXTINF:-1,CINE 5
+http://albauser.net:2235/antree-iptv/exchange/27548
+#EXTINF:-1,CINE FILM CLUB 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27549
+#EXTINF:-1,CINE SELECT 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27550
+#EXTINF:-1,CINE SELECT 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27551
+#EXTINF:-1,CINE SELECT 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27552
+#EXTINF:-1,CINE SELECT 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27553
+#EXTINF:-1,CINE SELECT 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27554
+#EXTINF:-1,Cinedome Action
+http://albauser.net:2235/antree-iptv/exchange/27555
+#EXTINF:-1,Cinedome Animation
+http://albauser.net:2235/antree-iptv/exchange/27556
+#EXTINF:-1,Cinedome Comedy
+http://albauser.net:2235/antree-iptv/exchange/27558
+#EXTINF:-1,Cinedome Familie
+http://albauser.net:2235/antree-iptv/exchange/27559
+#EXTINF:-1,Cinedome Hits
+http://albauser.net:2235/antree-iptv/exchange/27560
+#EXTINF:-1,Cinedome Horror
+http://albauser.net:2235/antree-iptv/exchange/27561
+#EXTINF:-1,Cinedome Marvel
+http://albauser.net:2235/antree-iptv/exchange/27562
+#EXTINF:-1,Cinema 24
+http://albauser.net:2235/antree-iptv/exchange/27563
+#EXTINF:-1,Classica HD
+http://albauser.net:2235/antree-iptv/exchange/27564
+#EXTINF:-1,CNBC
+http://albauser.net:2235/antree-iptv/exchange/27565
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://albauser.net:2235/antree-iptv/exchange/27566
+#EXTINF:-1,Crime+ Investigation HD
+http://albauser.net:2235/antree-iptv/exchange/27567
+#EXTINF:-1,Deluxe Music HD
+http://albauser.net:2235/antree-iptv/exchange/27584
+#EXTINF:-1,Der kleine Prinz
+http://albauser.net:2235/antree-iptv/exchange/27585
+#EXTINF:-1,Der kleine Ritter Trenk
+http://albauser.net:2235/antree-iptv/exchange/27586
+#EXTINF:-1,DEUTSCHLAND
+http://albauser.net:2235/antree-iptv/exchange/27587
+#EXTINF:-1,Die Abenteuer des jungen Marco Polo
+http://albauser.net:2235/antree-iptv/exchange/27588
+#EXTINF:-1,Die Neue Zeit TV
+http://albauser.net:2235/antree-iptv/exchange/27589
+#EXTINF:-1,Die Welt
+http://albauser.net:2235/antree-iptv/exchange/27590
+#EXTINF:-1,Discovery Channel (H265)
+http://albauser.net:2235/antree-iptv/exchange/27591
+#EXTINF:-1,Disney Channel (H265)
+http://albauser.net:2235/antree-iptv/exchange/27592
+#EXTINF:-1,Disney Cinemagic FHD
+http://albauser.net:2235/antree-iptv/exchange/27593
+#EXTINF:-1,Disney JIUNIOR
+http://albauser.net:2235/antree-iptv/exchange/27594
+#EXTINF:-1,Disney Jr
+http://albauser.net:2235/antree-iptv/exchange/27595
+#EXTINF:-1,Disney XD (H265)
+http://albauser.net:2235/antree-iptv/exchange/27596
+#EXTINF:-1,DONAU TV HD
+http://albauser.net:2235/antree-iptv/exchange/27598
+#EXTINF:-1,DRF 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27599
+#EXTINF:-1,Dutsches Musik Fernsehen
+http://albauser.net:2235/antree-iptv/exchange/27600
+#EXTINF:-1,E! FHD
+http://albauser.net:2235/antree-iptv/exchange/27602
+#EXTINF:-1,Eagle Cinema 007 HD
+http://albauser.net:2235/antree-iptv/exchange/27603
+#EXTINF:-1,Eagle Cinema Abenteuer FHD
+http://albauser.net:2235/antree-iptv/exchange/27604
+#EXTINF:-1,Eagle Cinema Animation FHD
+http://albauser.net:2235/antree-iptv/exchange/27605
+#EXTINF:-1,Eagle Cinema Drama FHD
+http://albauser.net:2235/antree-iptv/exchange/27606
+#EXTINF:-1,Eagle Cinema Geschichte FHD
+http://albauser.net:2235/antree-iptv/exchange/27607
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://albauser.net:2235/antree-iptv/exchange/27608
+#EXTINF:-1,Eagle Cinema Komodie FHD
+http://albauser.net:2235/antree-iptv/exchange/27609
+#EXTINF:-1,Eagle Cinema Lächeln
+http://albauser.net:2235/antree-iptv/exchange/27610
+#EXTINF:-1,Eagle Cinema Lächeln FHD
+http://albauser.net:2235/antree-iptv/exchange/27611
+#EXTINF:-1,Eagle Cinema Premiere FHD
+http://albauser.net:2235/antree-iptv/exchange/27612
+#EXTINF:-1,Eagle Cinema Romantisch FHD
+http://albauser.net:2235/antree-iptv/exchange/27613
+#EXTINF:-1,Eagle Cinema sci-fi FHD
+http://albauser.net:2235/antree-iptv/exchange/27614
+#EXTINF:-1,Movie Kino 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/36910
+#EXTINF:-1,Movie Kino 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/36911
+#EXTINF:-1,Movie Kino 4 FHD
+http://albauser.net:2235/antree-iptv/exchange/36913
+#EXTINF:-1,Movie Kids 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/36915
+#EXTINF:-1,Movie Kids 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/36916
+#EXTINF:-1,Movie Kids 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/36917
+#EXTINF:-1,Kino Premiere 1 HD
+http://albauser.net:2235/antree-iptv/exchange/37469
+#EXTINF:-1,Kino Premiere 2 HD
+http://albauser.net:2235/antree-iptv/exchange/37470
+#EXTINF:-1,Kino Premiere 3 HD
+http://albauser.net:2235/antree-iptv/exchange/37471
+#EXTINF:-1,Kino Premiere 4 HD
+http://albauser.net:2235/antree-iptv/exchange/37472
+#EXTINF:-1,Kino Premiere 5 HD
+http://albauser.net:2235/antree-iptv/exchange/37473
+#EXTINF:-1,Kino Premiere 6 HD
+http://albauser.net:2235/antree-iptv/exchange/37474
+#EXTINF:-1,Kino Premiere 7 HD
+http://albauser.net:2235/antree-iptv/exchange/37475
+#EXTINF:-1,Kino Premiere 8 HD
+http://albauser.net:2235/antree-iptv/exchange/37476
+#EXTINF:-1,Kino Premiere 9 HD
+http://albauser.net:2235/antree-iptv/exchange/37477
+#EXTINF:-1,Kino Premiere 10 HD
+http://albauser.net:2235/antree-iptv/exchange/37478
+#EXTINF:-1,Filmax Kids 1
+http://albauser.net:2235/antree-iptv/exchange/27627
+#EXTINF:-1,Filmax Kids 2
+http://albauser.net:2235/antree-iptv/exchange/27628
+#EXTINF:-1,Filmax Kids 3
+http://albauser.net:2235/antree-iptv/exchange/27629
+#EXTINF:-1,MAGIC BOX KINO 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27665
+#EXTINF:-1,MAGIC BOX KINO 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27666
+#EXTINF:-1,MAGIC BOX KINO 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27667
+#EXTINF:-1,MAGIC BOX KINO 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27668
+#EXTINF:-1,MAX KINO
+http://albauser.net:2235/antree-iptv/exchange/27672
+#EXTINF:-1,MAX Kino 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27673
+#EXTINF:-1,Max Kino 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27674
+#EXTINF:-1,MAX KINO COLLECTION
+http://albauser.net:2235/antree-iptv/exchange/27675
+#EXTINF:-1,MAX Select 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27676
+#EXTINF:-1,MAX Select 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27677
+#EXTINF:-1,MAX Select 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27678
+#EXTINF:-1,MAX Select 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27679
+#EXTINF:-1,MAX Select 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27680
+#EXTINF:-1,MAX Select 6 HD
+http://albauser.net:2235/antree-iptv/exchange/27681
+#EXTINF:-1,MAX Select 7 HD
+http://albauser.net:2235/antree-iptv/exchange/27682
+#EXTINF:-1,BluMaX 1 HD
+http://albauser.net:2235/antree-iptv/exchange/37995
+#EXTINF:-1,BluMaX 2 HD
+http://albauser.net:2235/antree-iptv/exchange/37996
+#EXTINF:-1,BluMaX 3 HD
+http://albauser.net:2235/antree-iptv/exchange/37997
+#EXTINF:-1,BluMaX 4 HD
+http://albauser.net:2235/antree-iptv/exchange/37998
+#EXTINF:-1,BluMaX 5 HD
+http://albauser.net:2235/antree-iptv/exchange/37999
+#EXTINF:-1,BluMaX 6 HD
+http://albauser.net:2235/antree-iptv/exchange/38000
+#EXTINF:-1,BluMaX 7 HD
+http://albauser.net:2235/antree-iptv/exchange/38001
+#EXTINF:-1,BluMaX 8 HD
+http://albauser.net:2235/antree-iptv/exchange/38002
+#EXTINF:-1,BluMaX 9 HD
+http://albauser.net:2235/antree-iptv/exchange/38003
+#EXTINF:-1,BluMaX 10 HD
+http://albauser.net:2235/antree-iptv/exchange/38004
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27690
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27691
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27692
+#EXTINF:-1,MOVIESINEMA GERMAN 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27693
+#EXTINF:-1,MOVIESINEMA GERMAN 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27694
+#EXTINF:-1,GoogLe CINE SELECT 1 HD
+http://albauser.net:2235/antree-iptv/exchange/37600
+#EXTINF:-1,GoogLe CINE SELECT 2 HD
+http://albauser.net:2235/antree-iptv/exchange/37601
+#EXTINF:-1,GoogLe CINE SELECT 3 HD
+http://albauser.net:2235/antree-iptv/exchange/37602
+#EXTINF:-1,GoogLe CINE SELECT 4 HD
+http://albauser.net:2235/antree-iptv/exchange/37603
+#EXTINF:-1,GoogLe CINE SELECT 5 HD
+http://albauser.net:2235/antree-iptv/exchange/37604
+#EXTINF:-1,SKY CINEMA BEST OF (H265)
+http://albauser.net:2235/antree-iptv/exchange/37605
+#EXTINF:-1,SKY CINEMA THRILLER HD
+http://albauser.net:2235/antree-iptv/exchange/37606
+#EXTINF:-1,SKY CINEMA PREMIEREN HD
+http://albauser.net:2235/antree-iptv/exchange/37607
+#EXTINF:-1,SKY CINEMA PREMIEREN 24 4K+
+http://albauser.net:2235/antree-iptv/exchange/37608
+#EXTINF:-1,SKY SELECT SUPER 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/37609
+#EXTINF:-1,SKY SELECT SUPER 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/37611
+#EXTINF:-1,SKY SELECT SUPER 6 FHD
+http://albauser.net:2235/antree-iptv/exchange/37614
+#EXTINF:-1,SKY SELECT SUPER 7 FHD
+http://albauser.net:2235/antree-iptv/exchange/37615
+#EXTINF:-1,SKY SELECT SUPER 8 FHD
+http://albauser.net:2235/antree-iptv/exchange/37616
+#EXTINF:-1,SKY SELECT SUPER 11 FHD
+http://albauser.net:2235/antree-iptv/exchange/37619
+#EXTINF:-1,SKY SELECT SUPER 12 FHD
+http://albauser.net:2235/antree-iptv/exchange/37620
+#EXTINF:-1,SKY SELECT SUPER 13 FHD
+http://albauser.net:2235/antree-iptv/exchange/37621
+#EXTINF:-1,SKY SELECT SUPER 14 FHD
+http://albauser.net:2235/antree-iptv/exchange/37622
+#EXTINF:-1,SKY SELECT SUPER 15 FHD
+http://albauser.net:2235/antree-iptv/exchange/37623
+#EXTINF:-1,SKY SELECT SUPER 16 FHD
+http://albauser.net:2235/antree-iptv/exchange/37624
+#EXTINF:-1,SKY SELECT SUPER 17 FHD
+http://albauser.net:2235/antree-iptv/exchange/37625
+#EXTINF:-1,SKY SELECT SUPER Mutivision 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/37626
+#EXTINF:-1,SKY SELECT SUPER Mutivision 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/37627
+#EXTINF:-1,SKY SELECT SUPER 1 4K
+http://albauser.net:2235/antree-iptv/exchange/37628
+#EXTINF:-1,SKY SELECT SUPER 2 4K
+http://albauser.net:2235/antree-iptv/exchange/37629
+#EXTINF:-1,SKY SELECT SUPER 3 4K
+http://albauser.net:2235/antree-iptv/exchange/37630
+#EXTINF:-1,SKY SELECT SUPER 4 4K
+http://albauser.net:2235/antree-iptv/exchange/37631
+#EXTINF:-1,SKY SELECT SUPER 5 4K
+http://albauser.net:2235/antree-iptv/exchange/37632
+#EXTINF:-1,SKY SELECT SUPER 6 4K
+http://albauser.net:2235/antree-iptv/exchange/37633
+#EXTINF:-1,SKY SELECT SUPER 7 4K
+http://albauser.net:2235/antree-iptv/exchange/37634
+#EXTINF:-1,SKY SELECT SUPER 8 4K
+http://albauser.net:2235/antree-iptv/exchange/37635
+#EXTINF:-1,SKY SELECT SUPER 9 4K
+http://albauser.net:2235/antree-iptv/exchange/37636
+#EXTINF:-1,SKY SELECT SUPER Multivision 1 4K
+http://albauser.net:2235/antree-iptv/exchange/37637
+#EXTINF:-1,SKY SELECT SUPER Multivision 2 4K
+http://albauser.net:2235/antree-iptv/exchange/37638
+#EXTINF:-1,NETFLIX 1
+http://albauser.net:2235/antree-iptv/exchange/60007
+#EXTINF:-1,NETFLIX 2
+http://albauser.net:2235/antree-iptv/exchange/60008
+#EXTINF:-1,NETFLIX 3
+http://albauser.net:2235/antree-iptv/exchange/60009
+#EXTINF:-1,NETFLIX 4
+http://albauser.net:2235/antree-iptv/exchange/60010
+#EXTINF:-1,NETFLIX 5
+http://albauser.net:2235/antree-iptv/exchange/60011
+#EXTINF:-1,NETFLIX 6
+http://albauser.net:2235/antree-iptv/exchange/60012
+#EXTINF:-1,NETFLIX 7
+http://albauser.net:2235/antree-iptv/exchange/60013
+#EXTINF:-1,NETFLIX 8
+http://albauser.net:2235/antree-iptv/exchange/60014
+#EXTINF:-1,NETFLIX 9
+http://albauser.net:2235/antree-iptv/exchange/60015
+#EXTINF:-1,NETFLIX 10
+http://albauser.net:2235/antree-iptv/exchange/60016
+#EXTINF:-1,DE:Hyper Cinema 5
+http://albauser.net:2235/antree-iptv/exchange/60017
+#EXTINF:-1,Hyper Cinema Boxset
+http://albauser.net:2235/antree-iptv/exchange/60018
+#EXTINF:-1,Hyper Cinema 1
+http://albauser.net:2235/antree-iptv/exchange/60019
+#EXTINF:-1,Hyper Cinema 2
+http://albauser.net:2235/antree-iptv/exchange/60020
+#EXTINF:-1,Hyper CInema 3
+http://albauser.net:2235/antree-iptv/exchange/60021
+#EXTINF:-1,Hyper Cinema 4
+http://albauser.net:2235/antree-iptv/exchange/60022
+#EXTINF:-1,Hyper Cinema 6
+http://albauser.net:2235/antree-iptv/exchange/60024
+#EXTINF:-1,Hyper Cinema 7
+http://albauser.net:2235/antree-iptv/exchange/60025
+#EXTINF:-1,Hyper Cinema 8
+http://albauser.net:2235/antree-iptv/exchange/60026
+#EXTINF:-1,Hyper Cinema 9
+http://albauser.net:2235/antree-iptv/exchange/60027
+#EXTINF:-1,Hyper Cinema 10
+http://albauser.net:2235/antree-iptv/exchange/60028
+#EXTINF:-1,CINEMAX 1 HD
+http://albauser.net:2235/antree-iptv/exchange/60030
+#EXTINF:-1,CINEMAX 2 HD
+http://albauser.net:2235/antree-iptv/exchange/60031
+#EXTINF:-1,CINEMAX 3 HD
+http://albauser.net:2235/antree-iptv/exchange/60032
+#EXTINF:-1,CINEMAX 4 HD
+http://albauser.net:2235/antree-iptv/exchange/60033
+#EXTINF:-1,CINEMAX 5 HD
+http://albauser.net:2235/antree-iptv/exchange/60034
+#EXTINF:-1,CINEMAX 6 HD
+http://albauser.net:2235/antree-iptv/exchange/60035
+#EXTINF:-1,CINEMAX 7 HD
+http://albauser.net:2235/antree-iptv/exchange/60036
+#EXTINF:-1,CINEMAX 8 HD
+http://albauser.net:2235/antree-iptv/exchange/60037
+#EXTINF:-1,CINEMAX 9 HD
+http://albauser.net:2235/antree-iptv/exchange/60038
+#EXTINF:-1,CINEMAX 10 HD
+http://albauser.net:2235/antree-iptv/exchange/60039
+#EXTINF:-1,Nautical Chanel HD
+http://albauser.net:2235/antree-iptv/exchange/30968
+#EXTINF:-1,Elbekanal TV
+http://albauser.net:2235/antree-iptv/exchange/27615
+#EXTINF:-1,eSports 1 TV
+http://albauser.net:2235/antree-iptv/exchange/27616
+#EXTINF:-1,EWTN
+http://albauser.net:2235/antree-iptv/exchange/27623
+#EXTINF:-1,EWTN katholisches TV
+http://albauser.net:2235/antree-iptv/exchange/27624
+#EXTINF:-1,Family TV
+http://albauser.net:2235/antree-iptv/exchange/27625
+#EXTINF:-1,FC BAYERN HD
+http://albauser.net:2235/antree-iptv/exchange/27626
+#EXTINF:-1,Fix & Foxi
+http://albauser.net:2235/antree-iptv/exchange/27630
+#EXTINF:-1,Folx HD
+http://albauser.net:2235/antree-iptv/exchange/27631
+#EXTINF:-1,FOX (H265)
+http://albauser.net:2235/antree-iptv/exchange/27632
+#EXTINF:-1,Fox Series HD
+http://albauser.net:2235/antree-iptv/exchange/27633
+#EXTINF:-1,FOX SPORTS 1
+http://albauser.net:2235/antree-iptv/exchange/27634
+#EXTINF:-1,Franken Fernsehen HD
+http://albauser.net:2235/antree-iptv/exchange/27635
+#EXTINF:-1,Franken HD
+http://albauser.net:2235/antree-iptv/exchange/27636
+#EXTINF:-1,Genius Plus TV
+http://albauser.net:2235/antree-iptv/exchange/27637
+#EXTINF:-1,Geo TV HD
+http://albauser.net:2235/antree-iptv/exchange/27638
+#EXTINF:-1,GOLDSTAR TV
+http://albauser.net:2235/antree-iptv/exchange/27639
+#EXTINF:-1,Halle TV
+http://albauser.net:2235/antree-iptv/exchange/27640
+#EXTINF:-1,Health TV HD
+http://albauser.net:2235/antree-iptv/exchange/27641
+#EXTINF:-1,Heimatikanal
+http://albauser.net:2235/antree-iptv/exchange/27642
 #EXTINF:-1,Heimatkanal HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15053
+http://albauser.net:2235/antree-iptv/exchange/27643
+#EXTINF:-1,Histori 4K+
+http://albauser.net:2235/antree-iptv/exchange/27644
+#EXTINF:-1,HR Fernsehen HD
+http://albauser.net:2235/antree-iptv/exchange/27645
+#EXTINF:-1,HR HD
+http://albauser.net:2235/antree-iptv/exchange/27646
+#EXTINF:-1,HSE24 EXTRA
+http://albauser.net:2235/antree-iptv/exchange/27647
+#EXTINF:-1,ISAR TV HD
+http://albauser.net:2235/antree-iptv/exchange/27648
 #EXTINF:-1,Jukebox HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15054
-#EXTINF:-1,NDR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15057
+http://albauser.net:2235/antree-iptv/exchange/27649
+#EXTINF:-1,JUNIOR HD
+http://albauser.net:2235/antree-iptv/exchange/27650
+#EXTINF:-1,JUWELO HD
+http://albauser.net:2235/antree-iptv/exchange/27651
+#EXTINF:-1,K-TV
+http://albauser.net:2235/antree-iptv/exchange/27652
+#EXTINF:-1,Kabel 1 Doku FHD (H265)
+http://albauser.net:2235/antree-iptv/exchange/27654
+#EXTINF:-1,Kabel Doku
+http://albauser.net:2235/antree-iptv/exchange/27656
+#EXTINF:-1,Kabel Eins Doku HD
+http://albauser.net:2235/antree-iptv/exchange/27658
+#EXTINF:-1,Kingdom HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/27661
+#EXTINF:-1,Kino WELT HD
+http://albauser.net:2235/antree-iptv/exchange/27662
+#EXTINF:-1,KRONI HIT
+http://albauser.net:2235/antree-iptv/exchange/27663
+#EXTINF:-1,Luxe Music
+http://albauser.net:2235/antree-iptv/exchange/27664
+#EXTINF:-1,MAIN FRANKEN HD
+http://albauser.net:2235/antree-iptv/exchange/27669
+#EXTINF:-1,Mainfranken Würzburg TV HD
+http://albauser.net:2235/antree-iptv/exchange/27670
+#EXTINF:-1,Mascha und der Bar
+http://albauser.net:2235/antree-iptv/exchange/27671
+#EXTINF:-1,MDF 1
+http://albauser.net:2235/antree-iptv/exchange/27683
 #EXTINF:-1,MDR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90536
-#EXTINF:-1,WDR HD AACHEN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130691
-#EXTINF:-1,WDR HD BONN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130692
-#EXTINF:-1,WDR HD DUISBURG
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130693
-#EXTINF:-1,WDR HD WUPPERTAL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130694
-#EXTINF:-1,WDR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90533
-#EXTINF:-1,RBB BERLIN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90535
-#EXTINF:-1,RBB BRANDENBURG HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130690
-#EXTINF:-1,SWR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90534
+http://albauser.net:2235/antree-iptv/exchange/27684
+#EXTINF:-1,MediaShop
+http://albauser.net:2235/antree-iptv/exchange/27685
+#EXTINF:-1,Melodie TV
+http://albauser.net:2235/antree-iptv/exchange/27686
+#EXTINF:-1,MGM HD
+http://albauser.net:2235/antree-iptv/exchange/27687
+#EXTINF:-1,Miraculous
+http://albauser.net:2235/antree-iptv/exchange/27688
+#EXTINF:-1,Motor Vision HD
+http://albauser.net:2235/antree-iptv/exchange/27689
+#EXTINF:-1,MTV Dance
+http://albauser.net:2235/antree-iptv/exchange/27695
+#EXTINF:-1,MTV FHD
+http://albauser.net:2235/antree-iptv/exchange/27696
+#EXTINF:-1,MTV Music 24
+http://albauser.net:2235/antree-iptv/exchange/27697
+#EXTINF:-1,MUENCHEN TV
+http://albauser.net:2235/antree-iptv/exchange/27698
+#EXTINF:-1,Munchen TV FHD
+http://albauser.net:2235/antree-iptv/exchange/27699
+#EXTINF:-1,Music TV 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27700
+#EXTINF:-1,MyTVplus
+http://albauser.net:2235/antree-iptv/exchange/27702
+#EXTINF:-1,NAT GEO (H265)
+http://albauser.net:2235/antree-iptv/exchange/27708
+#EXTINF:-1,NAT GEO Wild (H265)
+http://albauser.net:2235/antree-iptv/exchange/27709
+#EXTINF:-1,NDR HD
+http://albauser.net:2235/antree-iptv/exchange/27710
+#EXTINF:-1,NEIDER
+http://albauser.net:2235/antree-iptv/exchange/27711
+#EXTINF:-1,NICK Jr.
+http://albauser.net:2235/antree-iptv/exchange/27712
+#EXTINF:-1,NO4A
+http://albauser.net:2235/antree-iptv/exchange/27717
+#EXTINF:-1,Noa 4 Hamburg
+http://albauser.net:2235/antree-iptv/exchange/27718
+#EXTINF:-1,NOA 4 Norderstedt FHD
+http://albauser.net:2235/antree-iptv/exchange/27719
+#EXTINF:-1,NRWision
+http://albauser.net:2235/antree-iptv/exchange/27720
+#EXTINF:-1,OBERPFALZ HD
+http://albauser.net:2235/antree-iptv/exchange/27721
+#EXTINF:-1,Oe24 TV
+http://albauser.net:2235/antree-iptv/exchange/27722
+#EXTINF:-1,Offener Kanal Magdeburg
+http://albauser.net:2235/antree-iptv/exchange/27723
+#EXTINF:-1,OK Dessau
+http://albauser.net:2235/antree-iptv/exchange/27724
+#EXTINF:-1,OK Magdeburg
+http://albauser.net:2235/antree-iptv/exchange/27725
+#EXTINF:-1,OK Merseburg
+http://albauser.net:2235/antree-iptv/exchange/27726
+#EXTINF:-1,OK Salzwedel TV
+http://albauser.net:2235/antree-iptv/exchange/27727
+#EXTINF:-1,OK Stendal
+http://albauser.net:2235/antree-iptv/exchange/27728
+#EXTINF:-1,OK Sudwestpfalz
+http://albauser.net:2235/antree-iptv/exchange/27729
+#EXTINF:-1,OK TV
+http://albauser.net:2235/antree-iptv/exchange/27730
+#EXTINF:-1,OK TV Mainz
+http://albauser.net:2235/antree-iptv/exchange/27731
+#EXTINF:-1,OK Weinstrasse
+http://albauser.net:2235/antree-iptv/exchange/27732
+#EXTINF:-1,OK Wernigerode
+http://albauser.net:2235/antree-iptv/exchange/27733
+#EXTINF:-1,OK Wettin TV
+http://albauser.net:2235/antree-iptv/exchange/27734
+#EXTINF:-1,OK4
+http://albauser.net:2235/antree-iptv/exchange/27735
 #EXTINF:-1,ONE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15059
-#EXTINF:-1,arte HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15048
+http://albauser.net:2235/antree-iptv/exchange/27736
+#EXTINF:-1,One Music HD
+http://albauser.net:2235/antree-iptv/exchange/27737
+#EXTINF:-1,PEARL TV HD
+http://albauser.net:2235/antree-iptv/exchange/27738
+#EXTINF:-1,pearl tv Shop
+http://albauser.net:2235/antree-iptv/exchange/27739
 #EXTINF:-1,Phoenix HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90539
-#EXTINF:-1,Tageschau 24 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90537
-#EXTINF:-1,Welt der Wunder HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90538
-#EXTINF:-1,ORF Eins
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12589
-#EXTINF:-1,ORF II
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12590
-#EXTINF:-1,ORF III
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12591
-#EXTINF:-1,ORF 2 Burgenland HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90515
-#EXTINF:-1,ORF 2 Kärnten HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90516
-#EXTINF:-1,ORF 2 Niederösterrreich HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90511
-#EXTINF:-1,ORF 2 Oberösterreich HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90512
-#EXTINF:-1,ORF 2 Salzburg HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90513
-#EXTINF:-1,ORF 2 Steiermark HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90514
-#EXTINF:-1,ORF 2 Tirol HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90517
-#EXTINF:-1,ORF 2 Voralberg HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90518
-#EXTINF:-1,ORF 2 Wien HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90510
-#EXTINF:-1,3Sat
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12588
-#EXTINF:-1,N-TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12602
-#EXTINF:-1,n-tv HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78481
-#EXTINF:-1,Sky Arts
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12598
-#EXTINF:-1,TELE 5 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78453
-#EXTINF:-1,Tele 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12592
-#EXTINF:-1,ZDF Neo
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12584
-#EXTINF:-1,ANIXE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10072
+http://albauser.net:2235/antree-iptv/exchange/27740
+#EXTINF:-1,Planet Animal
+http://albauser.net:2235/antree-iptv/exchange/27741
+#EXTINF:-1,PLANET FHD
+http://albauser.net:2235/antree-iptv/exchange/27742
+#EXTINF:-1,POPCORN SELECT
+http://albauser.net:2235/antree-iptv/exchange/27743
+#EXTINF:-1,POPCORN SELECT 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27744
+#EXTINF:-1,POPCORN SELECT 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27745
+#EXTINF:-1,POPCORN SELECT 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27746
+#EXTINF:-1,POPCORN SELECT 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27747
+#EXTINF:-1,POPCORN SELECT 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27748
+#EXTINF:-1,POPCORN SELECT 6 HD
+http://albauser.net:2235/antree-iptv/exchange/27749
+#EXTINF:-1,POPCORN SELECT 7 HD
+http://albauser.net:2235/antree-iptv/exchange/27750
+#EXTINF:-1,POPCORN SELECT 8 HD
+http://albauser.net:2235/antree-iptv/exchange/27751
+#EXTINF:-1,POPCORN SELECT 9 HD
+http://albauser.net:2235/antree-iptv/exchange/27752
+#EXTINF:-1,PULS 24
+http://albauser.net:2235/antree-iptv/exchange/27757
+#EXTINF:-1,PunktUM
+http://albauser.net:2235/antree-iptv/exchange/27758
+#EXTINF:-1,QVC 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/27759
+#EXTINF:-1,QVC GERMANY
+http://albauser.net:2235/antree-iptv/exchange/27760
+#EXTINF:-1,QVC HD
+http://albauser.net:2235/antree-iptv/exchange/27761
+#EXTINF:-1,RAN1
+http://albauser.net:2235/antree-iptv/exchange/27762
+#EXTINF:-1,RBB Berlin HD
+http://albauser.net:2235/antree-iptv/exchange/27763
+#EXTINF:-1,rbb HD
+http://albauser.net:2235/antree-iptv/exchange/27764
+#EXTINF:-1,RBW
+http://albauser.net:2235/antree-iptv/exchange/27765
+#EXTINF:-1,RFH
+http://albauser.net:2235/antree-iptv/exchange/27766
+#EXTINF:-1,RFO HD
+http://albauser.net:2235/antree-iptv/exchange/27767
+#EXTINF:-1,Rhein Neckar Fernsehen
+http://albauser.net:2235/antree-iptv/exchange/27768
+#EXTINF:-1,RiC TV
+http://albauser.net:2235/antree-iptv/exchange/27769
+#EXTINF:-1,ro News
+http://albauser.net:2235/antree-iptv/exchange/27771
+#EXTINF:-1,Romance HD
+http://albauser.net:2235/antree-iptv/exchange/27772
+#EXTINF:-1,RTL Crime UHD
+http://albauser.net:2235/antree-iptv/exchange/27776
+#EXTINF:-1,RTL Living FHD
+http://albauser.net:2235/antree-iptv/exchange/27779
+#EXTINF:-1,RTL PASION
+http://albauser.net:2235/antree-iptv/exchange/27781
+#EXTINF:-1,RTL Passion FHD
+http://albauser.net:2235/antree-iptv/exchange/27782
+#EXTINF:-1,RTL plus FHD
+http://albauser.net:2235/antree-iptv/exchange/27783
+#EXTINF:-1,Sat 1 Emotions HD
+http://albauser.net:2235/antree-iptv/exchange/27785
+#EXTINF:-1,Schau TV HD
+http://albauser.net:2235/antree-iptv/exchange/27788
+#EXTINF:-1,Servus HD
+http://albauser.net:2235/antree-iptv/exchange/27789
 #EXTINF:-1,ServusTv Deutschland 720
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54861
+http://albauser.net:2235/antree-iptv/exchange/27790
 #EXTINF:-1,ServusTv Oesterreich 720
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54860
-#EXTINF:-1,Sony AXN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/611
-#EXTINF:-1,Fox HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/610
-#EXTINF:-1,TNT Serie HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/601
-#EXTINF:-1,E! Entertainment FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15016
-#EXTINF:-1,E Entertainment
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/7414
-#EXTINF:-1,DE|E! Entertainment HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78488
-#EXTINF:-1,RTL Passion
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/587
-#EXTINF:-1,RTL Crime HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/588
-#EXTINF:-1,Vox HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/583
-#EXTINF:-1,13th Street HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15012
-#EXTINF:-1, Syfy FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15028
-#EXTINF:-1,13th Street HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/604
-#EXTINF:-1,SyFy HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/600
-#EXTINF:-1,History FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15019
-#EXTINF:-1,History HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78476
-#EXTINF:-1,DE|Vox HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78450
-#EXTINF:-1,DE|Fox FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15052
-#EXTINF:-1,Sixx HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78449
-#EXTINF:-1,Sixx HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/594
-#EXTINF:-1,DE|MTV HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78489
-#EXTINF:-1,DE|Nitro HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78446
-#EXTINF:-1,PULS 24 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78480
-#EXTINF:-1,DE|WELT HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78479
-#EXTINF:-1,Sky Cinema Premieren +24
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/75766
-#EXTINF:-1,Sky Cinema Premieren +24 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78457
-#EXTINF:-1,Sky Cinema Premieren HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/75767
-#EXTINF:-1,Sky Cinema Premieren HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78458
-#EXTINF:-1,Sky Atlantic HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55098
-#EXTINF:-1,Sky Cinema Best Of HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55101
-#EXTINF:-1,Sky Cinema Best Of HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78455
-#EXTINF:-1,Sky Cinema Harry Potter HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55104
-#EXTINF:-1,Sky Cinema Thriller HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55105
-#EXTINF:-1,Sky Cinema Thriller HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78460
-#EXTINF:-1, Sky Cinema FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15006
-#EXTINF:-1,Sky Cinema HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/619
-#EXTINF:-1,Sky Cinema HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55103
+http://albauser.net:2235/antree-iptv/exchange/27791
+#EXTINF:-1,Silverline Movie Channel HD
+http://albauser.net:2235/antree-iptv/exchange/27792
+#EXTINF:-1,Sky 1 (H265)
+http://albauser.net:2235/antree-iptv/exchange/27794
+#EXTINF:-1,SKY 13 STREET FHD
+http://albauser.net:2235/antree-iptv/exchange/27795
+#EXTINF:-1,Sky Action (H265)
+http://albauser.net:2235/antree-iptv/exchange/27796
+#EXTINF:-1,Sky Atlantic (H265)
+http://albauser.net:2235/antree-iptv/exchange/27797
+#EXTINF:-1,SKY AXN HD
+http://albauser.net:2235/antree-iptv/exchange/27798
 #EXTINF:-1,Sky Cinema +1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15009
-#EXTINF:-1,Sky Cinema +1HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/621
-#EXTINF:-1,SKY Cinema  +24 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15004
-#EXTINF:-1,Sky Cinema  +24 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/624
-#EXTINF:-1,Sky Cinema +24 HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55099
-#EXTINF:-1, Sky Cinema Action FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15005
-#EXTINF:-1,Sky Cinema Action HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/620
-#EXTINF:-1,Sky Cinema Action HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55100
-#EXTINF:-1,Sky Cinema Action HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78454
-#EXTINF:-1, Sky Cinema Family FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15010
-#EXTINF:-1,Sky Cinema Family HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55102
-#EXTINF:-1,Sky Cinema Family HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78456
-#EXTINF:-1,Sky Cinema Comedy HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/618
-#EXTINF:-1,Sky Cinema Emotion HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/617
+http://albauser.net:2235/antree-iptv/exchange/27799
+#EXTINF:-1,Sky Cinema +24 FHD
+http://albauser.net:2235/antree-iptv/exchange/27800
+#EXTINF:-1,Sky Cinema 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/27801
+#EXTINF:-1,SKY CINEMA 1+
+http://albauser.net:2235/antree-iptv/exchange/27802
+#EXTINF:-1,Sky Cinema 24 FHD
+http://albauser.net:2235/antree-iptv/exchange/27803
+#EXTINF:-1,SKY Cinema Action (H265)
+http://albauser.net:2235/antree-iptv/exchange/27804
+#EXTINF:-1,Sky Cinema Alien
+http://albauser.net:2235/antree-iptv/exchange/27805
+#EXTINF:-1,Sky Cinema Atlantic (H265)
+http://albauser.net:2235/antree-iptv/exchange/27806
+#EXTINF:-1,Sky Cinema Best Of HD
+http://albauser.net:2235/antree-iptv/exchange/27807
+#EXTINF:-1,Sky Cinema Classics (H265)
+http://albauser.net:2235/antree-iptv/exchange/27808
+#EXTINF:-1,Sky Cinema Comdey
+http://albauser.net:2235/antree-iptv/exchange/27809
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://albauser.net:2235/antree-iptv/exchange/27810
+#EXTINF:-1,Sky Cinema Comic Helden
+http://albauser.net:2235/antree-iptv/exchange/27811
+#EXTINF:-1,Sky Cinema Emotion FHD
+http://albauser.net:2235/antree-iptv/exchange/27812
+#EXTINF:-1,Sky Cinema Family FHD
+http://albauser.net:2235/antree-iptv/exchange/27813
+#EXTINF:-1,Sky Cinema FHD
+http://albauser.net:2235/antree-iptv/exchange/27814
+#EXTINF:-1,Sky Cinema Fun (H265)
+http://albauser.net:2235/antree-iptv/exchange/27815
 #EXTINF:-1,Sky Cinema Hits FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15026
-#EXTINF:-1,Sky Cinema Hits HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/623
-#EXTINF:-1,Sky Cinema Nostalgie
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/622
-#EXTINF:-1,Sky Cinema Special HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78459
-#EXTINF:-1,Sky Serien & Shows HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78461
-#EXTINF:-1,Comedy Central HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78486
-#EXTINF:-1,Sky Krimi
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/616
-#EXTINF:-1,Sky Atlantic FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15025
-#EXTINF:-1,Sky Atlantic HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/625
-#EXTINF:-1,DE|TNT Serie FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15030
-#EXTINF:-1,TNT Comedy FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15029
-#EXTINF:-1,Universal FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15031
-#EXTINF:-1,Universal HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/614
-#EXTINF:-1, Sky Kino Welt (Horror)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44855
-#EXTINF:-1, Sky Kino Welt (Comedy)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44856
-#EXTINF:-1, Sky Kino Welt (Krimi)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44857
-#EXTINF:-1, Sky Kino Welt (Familie)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44858
-#EXTINF:-1, Sky Kino Welt (Animation)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44859
-#EXTINF:-1, Sky Kino Welt (Science-Fiction)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44860
-#EXTINF:-1, sky Kino Welt (Drama)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44861
-#EXTINF:-1,  Sky Kino Welt (Action)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44862
-#EXTINF:-1, Sky Kino Hits (2019)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44863
-#EXTINF:-1,Sky  Classics FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15024
-#EXTINF:-1,Sky Select 24 (Horror)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90519
-#EXTINF:-1,Sky Select 25 (Comedy)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90520
-#EXTINF:-1,Sky Select 26 (Familie)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90521
-#EXTINF:-1,Sky Select 27 (Animation)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90522
-#EXTINF:-1,Sky Select 28 (Science-Fiction)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90523
-#EXTINF:-1,Sky Select 29 (Drama)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90524
-#EXTINF:-1, Eagle Bollywood HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77152
-#EXTINF:-1, Eagle Cinema 007 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77161
-#EXTINF:-1, Eagle Cinema Abenteuer HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77157
-#EXTINF:-1, Eagle Cinema Aktion HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77155
-#EXTINF:-1, Eagle Cinema Animation HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77158
-#EXTINF:-1, Eagle Cinema Biografie HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77164
-#EXTINF:-1, Eagle Cinema Drama HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77170
-#EXTINF:-1, Eagle Cinema Familie FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77165
-#EXTINF:-1, Eagle Cinema Fantasie FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77166
-#EXTINF:-1, Eagle Cinema Geschichte HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77169
-#EXTINF:-1, Eagle Cinema Horror HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77168
-#EXTINF:-1, Eagle Cinema KINOSAAL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77153
-#EXTINF:-1, Eagle Cinema Komodie HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77156
-#EXTINF:-1, Eagle Cinema Lheln HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77172
-#EXTINF:-1, Eagle Cinema Mythologie HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77173
-#EXTINF:-1, Eagle Cinema Premiere HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77154
-#EXTINF:-1, Eagle Cinema Religion HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77176
-#EXTINF:-1, Eagle Cinema Romantisch HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77167
-#EXTINF:-1, Eagle Cinema Sci-Fi HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77171
-#EXTINF:-1, Eagle Cinema Spaghetti Western HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77177
-#EXTINF:-1, Eagle Cinema Thriller HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77159
-#EXTINF:-1, Eagle Entdeckernatur 4K
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77160
-#EXTINF:-1, Eagle Entdeckernatur HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77162
-#EXTINF:-1, Eagle Masha und der B HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77163
-#EXTINF:-1, Eagle Peppa Wutz HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77175
-#EXTINF:-1, Eagle PJ MASKS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77174
-#EXTINF:-1,Sky Select 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/632
-#EXTINF:-1,Sky Select 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/633
-#EXTINF:-1,Sky Select 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/634
-#EXTINF:-1,Sky Select 4 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/635
-#EXTINF:-1,Sky Select 5 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/636
-#EXTINF:-1,Sky Select 6 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88842
-#EXTINF:-1,Sky Select 7 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88843
+http://albauser.net:2235/antree-iptv/exchange/27816
+#EXTINF:-1,SKY CINEMA HTS
+http://albauser.net:2235/antree-iptv/exchange/27817
+#EXTINF:-1,SKY CINEMA MITTELERDE
+http://albauser.net:2235/antree-iptv/exchange/27818
+#EXTINF:-1,Sky Cinema Nostalgie FHD
+http://albauser.net:2235/antree-iptv/exchange/27819
+#EXTINF:-1,Sky Cinema Premieren +24 (H265)
+http://albauser.net:2235/antree-iptv/exchange/27820
+#EXTINF:-1,Sky Cinema Premieren HD
+http://albauser.net:2235/antree-iptv/exchange/27821
+#EXTINF:-1,Sky Cinema Special (H265)
+http://albauser.net:2235/antree-iptv/exchange/27822
+#EXTINF:-1,Sky Cinema Thriller (H265)
+http://albauser.net:2235/antree-iptv/exchange/27823
+#EXTINF:-1,Sky Cinema TLC
+http://albauser.net:2235/antree-iptv/exchange/27824
+#EXTINF:-1,Sky Cinema+ HD
+http://albauser.net:2235/antree-iptv/exchange/27825
+#EXTINF:-1,SKY COMEDY FHD
+http://albauser.net:2235/antree-iptv/exchange/27826
+#EXTINF:-1,Sky Discovery Channel HD
+http://albauser.net:2235/antree-iptv/exchange/27827
+#EXTINF:-1,Sky Disney Channel HD
+http://albauser.net:2235/antree-iptv/exchange/27828
+#EXTINF:-1,Sky DMAX HD
+http://albauser.net:2235/antree-iptv/exchange/27829
+#EXTINF:-1,SKY Emotion HD
+http://albauser.net:2235/antree-iptv/exchange/27830
+#EXTINF:-1,SKY FAMILY (H265)
+http://albauser.net:2235/antree-iptv/exchange/27831
+#EXTINF:-1,Sky Fox HD
+http://albauser.net:2235/antree-iptv/exchange/27832
+#EXTINF:-1,Sky History (H265)
+http://albauser.net:2235/antree-iptv/exchange/27833
+#EXTINF:-1,Sky Hits FHD
+http://albauser.net:2235/antree-iptv/exchange/27834
+#EXTINF:-1,Sky Junior HD
+http://albauser.net:2235/antree-iptv/exchange/27835
+#EXTINF:-1,SKY KINOWELT TV HD
+http://albauser.net:2235/antree-iptv/exchange/27836
+#EXTINF:-1,Sky Krimi (H265)
+http://albauser.net:2235/antree-iptv/exchange/27837
+#EXTINF:-1,Sky Movies Box Office 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27838
+#EXTINF:-1,Sky Movies Box Office 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27839
+#EXTINF:-1,Sky Movies BoxOffice 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27840
+#EXTINF:-1,Sky Movies BoxOffice 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27841
+#EXTINF:-1,Sky NAT GEO GRAPHIC HD
+http://albauser.net:2235/antree-iptv/exchange/27842
+#EXTINF:-1,SKY Nostalgie HD
+http://albauser.net:2235/antree-iptv/exchange/27843
+#EXTINF:-1,A.I.C.O.Incarnation
+http://albauser.net:2235/antree-iptv/exchange/38020
+#EXTINF:-1,Movie Horror 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/49245
+#EXTINF:-1,Movie Horror 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/49246
+#EXTINF:-1,Movie Horror 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/49247
+#EXTINF:-1,SKY POPCORN SELECT 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27844
+#EXTINF:-1,SKY POPCORN SELECT 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27845
+#EXTINF:-1,SKY POPCORN SELECT 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27846
+#EXTINF:-1,SKY POPCORN SELECT 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27847
+#EXTINF:-1,SKY POPCORN SELECT 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27848
+#EXTINF:-1,Sky Popcorn Select 6 HD
+http://albauser.net:2235/antree-iptv/exchange/27849
+#EXTINF:-1,Sky Romance TV
+http://albauser.net:2235/antree-iptv/exchange/27850
+#EXTINF:-1,RTL Passion
+http://albauser.net:2235/antree-iptv/exchange/27851
+#EXTINF:-1,SKY SELECT 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/27852
+#EXTINF:-1,SKY SELECT 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/27853
+#EXTINF:-1,SKY SELECT 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/27854
+#EXTINF:-1,SKY SELECT 4 FHD
+http://albauser.net:2235/antree-iptv/exchange/27855
+#EXTINF:-1,SKY SELECT 5 FHD
+http://albauser.net:2235/antree-iptv/exchange/27856
+#EXTINF:-1,SKY SELECT 6 FHD
+http://albauser.net:2235/antree-iptv/exchange/27857
+#EXTINF:-1,SKY SELECT 7 FHD
+http://albauser.net:2235/antree-iptv/exchange/27858
 #EXTINF:-1,Sky Select 8 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88844
-#EXTINF:-1,Sky Sport News HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8271
-#EXTINF:-1,DE|Sky Sport News HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78472
-#EXTINF:-1,Sky Sport Austria
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8272
-#EXTINF:-1,DE|SKY SPORT F1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/122888
-#EXTINF:-1,DE|SKY SPORT F1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/122887
-#EXTINF:-1,Sky Sport 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55093
-#EXTINF:-1,DE|Sky Sport 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78465
-#EXTINF:-1,Sky Sport 1FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15007
-#EXTINF:-1,Sky Sport HD1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/627
-#EXTINF:-1,Sky Sport 2 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55094
-#EXTINF:-1,DE|Sky Sport 2 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78466
-#EXTINF:-1,Sky Sport 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15008
-#EXTINF:-1, Sky Sport HD2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/628
-#EXTINF:-1,Sky Sport 3 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8278
-#EXTINF:-1,Sky Sport 4 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8277
-#EXTINF:-1,Sky Sport  5 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8276
-#EXTINF:-1,Sky Sport 6 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8275
-#EXTINF:-1,Sky Sport 7 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8274
-#EXTINF:-1,Sky Sport 8 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8273
-#EXTINF:-1,DE|DAZN 1 BAR 4K UHD/HDR
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/79325
-#EXTINF:-1,DE|DAZN Bar 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/79323
-#EXTINF:-1,DAZN Bar 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/79324
-#EXTINF:-1,DAZN 1 BAR UHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44864
-#EXTINF:-1,DAZN 1HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10005
-#EXTINF:-1,DAZN 1 Bar HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55088
-#EXTINF:-1,DAZN 2 BAR UHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44865
-#EXTINF:-1,DE|DAZN 1 Bar HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78462
-#EXTINF:-1,DAZN 2HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10006
-#EXTINF:-1,DAZN 2 Bar HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55089
-#EXTINF:-1,DE|DAZN 2 Bar HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78463
-#EXTINF:-1,Motorvision
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12600
-#EXTINF:-1,DE|SPORT1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78467
-#EXTINF:-1,Sport1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55097
-#EXTINF:-1,Sport 1 + HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/613
-#EXTINF:-1,Orf Sport
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12599
-#EXTINF:-1,DE|Sky Sport Bundesliga 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78464
-#EXTINF:-1,Sky Sport Bundesliga 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55095
-#EXTINF:-1,Sky Sport Austria 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55092
-#EXTINF:-1,Sky Sport Bundesliga 2 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55096
-#EXTINF:-1,Sky Sport Austria FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15027
-#EXTINF:-1, Sky Bundesliga HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/630
-#EXTINF:-1,Sky Sport  Bundesliga HD1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/631
-#EXTINF:-1,Sky Sport Bundesliga 2  (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2633
-#EXTINF:-1,Sky Sport Bundesliga 3 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2634
-#EXTINF:-1,Sky Sport Bundesliga 4 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2635
-#EXTINF:-1,Sky Sport Bundesliga 5 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2636
-#EXTINF:-1,Sky Sport Bundesliga 6 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2637
-#EXTINF:-1,Sky Sport Bundesliga 7 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2638
-#EXTINF:-1,Sky Sport Bundesliga 8 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2639
-#EXTINF:-1,Sky Sport Bundesliga 9 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9165
-#EXTINF:-1,Sky Sport Bundesliga 10 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9166
-#EXTINF:-1,Sky Sport Frauen Bundesliga 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90525
-#EXTINF:-1,Sky Sport Frauen Bundesliga 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90526
-#EXTINF:-1,Sky Sport Frauen Bundesliga 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90527
-#EXTINF:-1,Sky Sport Frauen Bundesliga 4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90528
-#EXTINF:-1,Sky Sport Frauen Bundesliga 5 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90529
-#EXTINF:-1,Sky Sport Frauen Bundesliga 6 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90530
-#EXTINF:-1,Sky Sport Frauen Bundesliga 7 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90531
-#EXTINF:-1,Sky Sport Frauen Bundesliga 8 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90532
-#EXTINF:-1,Telekom Fussball 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27728
-#EXTINF:-1,Telekom Fussball 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27727
-#EXTINF:-1,Telekom Fussball 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27726
-#EXTINF:-1,Telekom Fussball 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27725
-#EXTINF:-1,Telekom Fussball 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27724
-#EXTINF:-1,Telekom Fussball 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27723
-#EXTINF:-1,Telekom Fussball 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27722
-#EXTINF:-1, FC Bayern TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49465
-#EXTINF:-1, FC Bayern TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49466
-#EXTINF:-1, Telekom   BBL Sport 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49472
-#EXTINF:-1, Telekom   BBL Sport 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49473
-#EXTINF:-1, Telekom   BBL Sport 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49474
-#EXTINF:-1, Telekom   BBL Sport 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49475
-#EXTINF:-1, Telekom   DEL Sport 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49476
-#EXTINF:-1, Telekom   DEL Sport 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49477
-#EXTINF:-1, Telekom   DEL Sport 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49478
-#EXTINF:-1, Telekom   DEL Sport 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49479
-#EXTINF:-1, Telekom   DEL Sport 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49480
-#EXTINF:-1, Telekom   DEL Sport 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49481
-#EXTINF:-1, Telekom   DEL Sport 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49482
-#EXTINF:-1, Nat Geo HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15023
-#EXTINF:-1,Nat Geo HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78475
-#EXTINF:-1,National Geographic HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/608
-#EXTINF:-1,Nat Geo Wild FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15022
-#EXTINF:-1,Nat Geo Wild HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78474
-#EXTINF:-1,NatGeo Wild HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/607
-#EXTINF:-1,Discovery FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15014
-#EXTINF:-1,Discovery HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/609
-#EXTINF:-1,Discovery HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78473
-#EXTINF:-1,TLC HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78452
+http://albauser.net:2235/antree-iptv/exchange/27859
+#EXTINF:-1,Sky Select 9 FHD
+http://albauser.net:2235/antree-iptv/exchange/27860
+#EXTINF:-1,Sky Select 10 FHD
+http://albauser.net:2235/antree-iptv/exchange/27861
+#EXTINF:-1,Sky Select 11 FHD
+http://albauser.net:2235/antree-iptv/exchange/27862
+#EXTINF:-1,Sky Select 12 FHD
+http://albauser.net:2235/antree-iptv/exchange/27863
+#EXTINF:-1,Sky Select 13 FHD
+http://albauser.net:2235/antree-iptv/exchange/27864
+#EXTINF:-1,Sky Select 14 FHD
+http://albauser.net:2235/antree-iptv/exchange/27865
+#EXTINF:-1,Sky Select 15 FHD
+http://albauser.net:2235/antree-iptv/exchange/27866
+#EXTINF:-1,Sky Select 16 FHD
+http://albauser.net:2235/antree-iptv/exchange/27867
+#EXTINF:-1,Sky Select 17 FHD
+http://albauser.net:2235/antree-iptv/exchange/27868
+#EXTINF:-1,SKY TNT COMEDY
+http://albauser.net:2235/antree-iptv/exchange/27905
+#EXTINF:-1,Sky TNT Film HD
+http://albauser.net:2235/antree-iptv/exchange/27906
+#EXTINF:-1,SKY TNT Series HD
+http://albauser.net:2235/antree-iptv/exchange/27907
+#EXTINF:-1,Sky Universal Channel HD
+http://albauser.net:2235/antree-iptv/exchange/27908
+#EXTINF:-1,SKYLANTIC 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/27909
+#EXTINF:-1,Skylantic HD
+http://albauser.net:2235/antree-iptv/exchange/27910
+#EXTINF:-1,Skyselect HD
+http://albauser.net:2235/antree-iptv/exchange/27911
+#EXTINF:-1,SkyselectHD-02
+http://albauser.net:2235/antree-iptv/exchange/27912
+#EXTINF:-1,SONNEKLAR TV
+http://albauser.net:2235/antree-iptv/exchange/27913
+#EXTINF:-1,Sonnenklar HD
+http://albauser.net:2235/antree-iptv/exchange/27914
+#EXTINF:-1,Sony AXN HD
+http://albauser.net:2235/antree-iptv/exchange/27915
+#EXTINF:-1,SONY Channel
+http://albauser.net:2235/antree-iptv/exchange/27916
+#EXTINF:-1,Sony Enterainment HD
+http://albauser.net:2235/antree-iptv/exchange/27917
+#EXTINF:-1,Sony Entertainment (H265)
+http://albauser.net:2235/antree-iptv/exchange/27918
+#EXTINF:-1,Sparhandy TV
+http://albauser.net:2235/antree-iptv/exchange/27919
+#EXTINF:-1,Spiegel Geschichte (H265)
+http://albauser.net:2235/antree-iptv/exchange/27920
+#EXTINF:-1,SPIEGEL TV WISSEN HD
+http://albauser.net:2235/antree-iptv/exchange/27921
+#EXTINF:-1,Sport +1 HD
+http://albauser.net:2235/antree-iptv/exchange/27922
+#EXTINF:-1,SPORT 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/27923
+#EXTINF:-1,Sport 1+ FHD
+http://albauser.net:2235/antree-iptv/exchange/27924
+#EXTINF:-1,Sport Digital FHD
+http://albauser.net:2235/antree-iptv/exchange/27925
+#EXTINF:-1,Sport Olympic HD
+http://albauser.net:2235/antree-iptv/exchange/27926
+#EXTINF:-1,Sportdigital Fu
+http://albauser.net:2235/antree-iptv/exchange/27927
+#EXTINF:-1,Sportdigital Fußball FHD
+http://albauser.net:2235/antree-iptv/exchange/27928
+#EXTINF:-1,SPORTS 1 USA HD
+http://albauser.net:2235/antree-iptv/exchange/27929
+#EXTINF:-1,SR FHD
+http://albauser.net:2235/antree-iptv/exchange/27930
+#EXTINF:-1,SRF 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/27931
+#EXTINF:-1,SRF 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/27932
+#EXTINF:-1,SRF Info FHD
+http://albauser.net:2235/antree-iptv/exchange/27933
+#EXTINF:-1,SRF Zwei HD
+http://albauser.net:2235/antree-iptv/exchange/27934
+#EXTINF:-1,Stendal TV
+http://albauser.net:2235/antree-iptv/exchange/27935
+#EXTINF:-1,SWR BW HD
+http://albauser.net:2235/antree-iptv/exchange/27937
+#EXTINF:-1,SWR Fernsehen HD
+http://albauser.net:2235/antree-iptv/exchange/27938
+#EXTINF:-1,SWR 4K
+http://albauser.net:2235/antree-iptv/exchange/27939
+#EXTINF:-1,SYFY (H265)
+http://albauser.net:2235/antree-iptv/exchange/27940
+#EXTINF:-1,TAGESSCHAU 24 HD
+http://albauser.net:2235/antree-iptv/exchange/27941
+#EXTINF:-1,TC Action FHD
+http://albauser.net:2235/antree-iptv/exchange/27942
+#EXTINF:-1,TC ANIMAL PLANET 4K+
+http://albauser.net:2235/antree-iptv/exchange/27943
+#EXTINF:-1,TC Sport 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/27945
+#EXTINF:-1,TC Sport 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/27946
+#EXTINF:-1,TC Sport 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/27947
+#EXTINF:-1,TC ZOOM
+http://albauser.net:2235/antree-iptv/exchange/27948
+#EXTINF:-1,TEGESSCHAU 24 HD
+http://albauser.net:2235/antree-iptv/exchange/27949
+#EXTINF:-1,TELE 1 CH
+http://albauser.net:2235/antree-iptv/exchange/27950
+#EXTINF:-1,TELE 5 4K
+http://albauser.net:2235/antree-iptv/exchange/27951
+#EXTINF:-1,Tele Baern FHD
+http://albauser.net:2235/antree-iptv/exchange/27952
+#EXTINF:-1,Tele biellingue FHD
+http://albauser.net:2235/antree-iptv/exchange/27953
+#EXTINF:-1,Tele D FHD
+http://albauser.net:2235/antree-iptv/exchange/27954
+#EXTINF:-1,TELE ZURI
+http://albauser.net:2235/antree-iptv/exchange/27956
+#EXTINF:-1,TELE ZURI CH
+http://albauser.net:2235/antree-iptv/exchange/27957
+#EXTINF:-1,Telebasel
+http://albauser.net:2235/antree-iptv/exchange/27958
+#EXTINF:-1,TELECLUB ACTION HD
+http://albauser.net:2235/antree-iptv/exchange/27959
 #EXTINF:-1,TLC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8268
-#EXTINF:-1,Dmax
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12595
-#EXTINF:-1,DMAX HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78477
-#EXTINF:-1,A.E HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10071
-#EXTINF:-1,Spiegel Geschichte HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78478
-#EXTINF:-1,Spiegel Geschichte HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/605
-#EXTINF:-1,Boomerang
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10073
-#EXTINF:-1,DE|Disney Channel HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78484
-#EXTINF:-1,Disney Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10353
-#EXTINF:-1,Disney Junior HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10354
-#EXTINF:-1,Disney XD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10355
-#EXTINF:-1, Disney Cinemagic FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15015
-#EXTINF:-1,Junior
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12596
-#EXTINF:-1,KiKA FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15021
-#EXTINF:-1,KiKa HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/599
-#EXTINF:-1,NICKELODEON HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12209
-#EXTINF:-1,Toggo Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12597
-#EXTINF:-1,  Deluxe Music HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15050
-#EXTINF:-1,DE|Deluxe Music HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78487
-#EXTINF:-1,Comedy Central HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10351
-#EXTINF:-1,DE|KiKA HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78483
-#EXTINF:-1, Classica HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15049
-#EXTINF:-1,DMTV Boxoffice 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115399
-#EXTINF:-1,DMTV Boxoffice 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115400
-#EXTINF:-1,DMTV Boxoffice 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115401
-#EXTINF:-1,DMTV Boxoffice 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115402
-#EXTINF:-1,DMTV Boxoffice 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115403
-#EXTINF:-1,DMTV Boxoffice 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115404
-#EXTINF:-1,DMTV Boxoffice 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115405
-#EXTINF:-1,DMTV Boxoffice 8
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115406
-#EXTINF:-1,DMTV Boxoffice 9
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115407
-#EXTINF:-1,DMTV Boxoffice 10
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115408
+http://albauser.net:2235/antree-iptv/exchange/28004
+#EXTINF:-1,TNT COMEDY (H265)
+http://albauser.net:2235/antree-iptv/exchange/28005
+#EXTINF:-1,TNT Film (H265)
+http://albauser.net:2235/antree-iptv/exchange/28006
+#EXTINF:-1,TNT Serie (H265)
+http://albauser.net:2235/antree-iptv/exchange/28007
+#EXTINF:-1,TOGGO
+http://albauser.net:2235/antree-iptv/exchange/28008
+#EXTINF:-1,TOGGO PLUS FHD
+http://albauser.net:2235/antree-iptv/exchange/28009
+#EXTINF:-1,TOGGO plus von Super RTL 4K+
+http://albauser.net:2235/antree-iptv/exchange/28010
+#EXTINF:-1,TRP1
+http://albauser.net:2235/antree-iptv/exchange/28012
+#EXTINF:-1,TV A
+http://albauser.net:2235/antree-iptv/exchange/28014
+#EXTINF:-1,TV A OSTBAYERN HD
+http://albauser.net:2235/antree-iptv/exchange/28015
+#EXTINF:-1,TV Aktuell
+http://albauser.net:2235/antree-iptv/exchange/28016
+#EXTINF:-1,TV Aktuelle
+http://albauser.net:2235/antree-iptv/exchange/28017
+#EXTINF:-1,TV AKTUELLR
+http://albauser.net:2235/antree-iptv/exchange/28018
+#EXTINF:-1,TV Halle
+http://albauser.net:2235/antree-iptv/exchange/28019
+#EXTINF:-1,TV Mainfranken
+http://albauser.net:2235/antree-iptv/exchange/28020
+#EXTINF:-1,TV Touring Fernsehen
+http://albauser.net:2235/antree-iptv/exchange/28022
+#EXTINF:-1,TV Touring Wurzburg
+http://albauser.net:2235/antree-iptv/exchange/28023
+#EXTINF:-1,TVO HD
+http://albauser.net:2235/antree-iptv/exchange/28024
+#EXTINF:-1,TVO Oberfranken
+http://albauser.net:2235/antree-iptv/exchange/28025
+#EXTINF:-1,UNIVERSAL Channel (H265)
+http://albauser.net:2235/antree-iptv/exchange/28026
+#EXTINF:-1,utsches Musik Fernsehen
+http://albauser.net:2235/antree-iptv/exchange/28027
+#EXTINF:-1,VH1
+http://albauser.net:2235/antree-iptv/exchange/28028
+#EXTINF:-1,VH1 Classic
+http://albauser.net:2235/antree-iptv/exchange/28029
+#EXTINF:-1,VIVA / Comedy Central
+http://albauser.net:2235/antree-iptv/exchange/28030
+#EXTINF:-1,VIVA Comedy
+http://albauser.net:2235/antree-iptv/exchange/28031
+#EXTINF:-1,Viyana TV
+http://albauser.net:2235/antree-iptv/exchange/28032
+#EXTINF:-1,WDR AACHEN HD
+http://albauser.net:2235/antree-iptv/exchange/28035
+#EXTINF:-1,WDR BONN HD
+http://albauser.net:2235/antree-iptv/exchange/28036
+#EXTINF:-1,WDR DUISBURG HD
+http://albauser.net:2235/antree-iptv/exchange/28037
+#EXTINF:-1,WDR Fernsehen HD
+http://albauser.net:2235/antree-iptv/exchange/28038
+#EXTINF:-1,WDR FHD
+http://albauser.net:2235/antree-iptv/exchange/28039
+#EXTINF:-1,WDR KOLN HD
+http://albauser.net:2235/antree-iptv/exchange/28040
+#EXTINF:-1,Welt der Wunder TV
+http://albauser.net:2235/antree-iptv/exchange/28041
+#EXTINF:-1,Westerwald TV
+http://albauser.net:2235/antree-iptv/exchange/28045
+#EXTINF:-1,WILD HD
+http://albauser.net:2235/antree-iptv/exchange/28046
+#EXTINF:-1,WWE HD
+http://albauser.net:2235/antree-iptv/exchange/28047
+#EXTINF:-1,Yarmouk ARB
+http://albauser.net:2235/antree-iptv/exchange/28048
+#EXTINF:-1,ZDF IINFO
+http://albauser.net:2235/antree-iptv/exchange/28050
+#EXTINF:-1,ZDF Info FHD
+http://albauser.net:2235/antree-iptv/exchange/28051
+#EXTINF:-1,ZDF neo FHD
+http://albauser.net:2235/antree-iptv/exchange/28052
+#EXTINF:-1,ZEE One 4K
+http://albauser.net:2235/antree-iptv/exchange/28053
+#EXTINF:-1,Sky Sport 1 +
+http://albauser.net:2235/antree-iptv/exchange/27869
+#EXTINF:-1,Sky Sport 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/27870
+#EXTINF:-1,BBL Sport 1
+http://albauser.net:2235/antree-iptv/exchange/27525
+#EXTINF:-1,BBL Sport 2
+http://albauser.net:2235/antree-iptv/exchange/27526
+#EXTINF:-1,BBL Sport 3
+http://albauser.net:2235/antree-iptv/exchange/27527
+#EXTINF:-1,DEL Sport 1
+http://albauser.net:2235/antree-iptv/exchange/27578
+#EXTINF:-1,DEL Sport 2
+http://albauser.net:2235/antree-iptv/exchange/27579
+#EXTINF:-1,DEL Sport 3
+http://albauser.net:2235/antree-iptv/exchange/27580
+#EXTINF:-1,DEL Sport 4
+http://albauser.net:2235/antree-iptv/exchange/27581
+#EXTINF:-1,DEL Sport 5
+http://albauser.net:2235/antree-iptv/exchange/27582
+#EXTINF:-1,DEL Sport 6
+http://albauser.net:2235/antree-iptv/exchange/27583
+#EXTINF:-1,TELECOM SPORT 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27962
+#EXTINF:-1,TELECOM SPORT 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27963
+#EXTINF:-1,TELECOM SPORT 8 HD
+http://albauser.net:2235/antree-iptv/exchange/27964
+#EXTINF:-1,Telekom 3 Bundesliga 1
+http://albauser.net:2235/antree-iptv/exchange/27965
+#EXTINF:-1,Sky Sport 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27871
+#EXTINF:-1,Sky Sport 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/27872
+#EXTINF:-1,Sky Sport 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27873
+#EXTINF:-1,Sky Sport 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/27874
+#EXTINF:-1,Sky Sport 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27875
+#EXTINF:-1,Sky Sport 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27876
+#EXTINF:-1,Sky Sport 5 FHD
+http://albauser.net:2235/antree-iptv/exchange/27877
+#EXTINF:-1,Sky Sport 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27878
+#EXTINF:-1,Sky Sport 6 FHD
+http://albauser.net:2235/antree-iptv/exchange/27879
+#EXTINF:-1,Sky Sport 6 HD
+http://albauser.net:2235/antree-iptv/exchange/27880
+#EXTINF:-1,Sky Sport 7 FHD
+http://albauser.net:2235/antree-iptv/exchange/27881
+#EXTINF:-1,Sky Sport 7 HD
+http://albauser.net:2235/antree-iptv/exchange/27882
+#EXTINF:-1,Sky Sport 8 FHD
+http://albauser.net:2235/antree-iptv/exchange/27883
+#EXTINF:-1,Sky Sport 8 HD
+http://albauser.net:2235/antree-iptv/exchange/27884
+#EXTINF:-1,Sky Sport 9 FHD
+http://albauser.net:2235/antree-iptv/exchange/27885
+#EXTINF:-1,Sky Sport 9 HD
+http://albauser.net:2235/antree-iptv/exchange/27886
+#EXTINF:-1,Sky Sport HD 4
+http://albauser.net:2235/antree-iptv/exchange/27903
+#EXTINF:-1,Sky Sport News
+http://albauser.net:2235/antree-iptv/exchange/27904
+#EXTINF:-1,Telekom 3 Bundesliga 2
+http://albauser.net:2235/antree-iptv/exchange/27966
+#EXTINF:-1,Telekom 3 Bundesliga 3
+http://albauser.net:2235/antree-iptv/exchange/27967
+#EXTINF:-1,Telekom 3 Bundesliga 4
+http://albauser.net:2235/antree-iptv/exchange/27968
+#EXTINF:-1,Telekom 3 Bundesliga 5
+http://albauser.net:2235/antree-iptv/exchange/27969
+#EXTINF:-1,Telekom 3 Bundesliga 6
+http://albauser.net:2235/antree-iptv/exchange/27970
+#EXTINF:-1,Telekom 3 Bundesliga 7
+http://albauser.net:2235/antree-iptv/exchange/27971
+#EXTINF:-1,Telekom 3 Bundesliga 8
+http://albauser.net:2235/antree-iptv/exchange/27972
+#EXTINF:-1,Telekom BBL Sport 1
+http://albauser.net:2235/antree-iptv/exchange/27973
+#EXTINF:-1,Telekom BBL Sport 2
+http://albauser.net:2235/antree-iptv/exchange/27974
+#EXTINF:-1,Telekom BBL Sport 2 nur Spiel Tag
+http://albauser.net:2235/antree-iptv/exchange/27975
+#EXTINF:-1,Telekom BBL Sport 3
+http://albauser.net:2235/antree-iptv/exchange/27976
+#EXTINF:-1,TELEKOM BUNDESLIGA 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27977
+#EXTINF:-1,TELEKOM BUNDESLIGA 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27978
+#EXTINF:-1,TELEKOM BUNDESLIGA 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27979
+#EXTINF:-1,TELEKOM BUNDESLIGA 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27980
+#EXTINF:-1,TELEKOM BUNDESLIGA 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27981
+#EXTINF:-1,TELEKOM BUNDESLIGA 6 HD
+http://albauser.net:2235/antree-iptv/exchange/27982
+#EXTINF:-1,TELEKOM BUNDESLIGA 7 HD
+http://albauser.net:2235/antree-iptv/exchange/27983
+#EXTINF:-1,TELEKOM DEL SPORT 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27984
+#EXTINF:-1,TELEKOM DEL SPORT 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27985
+#EXTINF:-1,Telekom DEL Sport 3
+http://albauser.net:2235/antree-iptv/exchange/27986
+#EXTINF:-1,Telekom DEL Sport 4
+http://albauser.net:2235/antree-iptv/exchange/27987
+#EXTINF:-1,Telekom DEL Sport 5
+http://albauser.net:2235/antree-iptv/exchange/27988
+#EXTINF:-1,Telekom DEL Sport 6
+http://albauser.net:2235/antree-iptv/exchange/27989
+#EXTINF:-1,Telekom Fussball 1 HD
+http://albauser.net:2235/antree-iptv/exchange/27990
+#EXTINF:-1,Telekom Fussball 2 HD
+http://albauser.net:2235/antree-iptv/exchange/27991
+#EXTINF:-1,Telekom Fussball 3 HD
+http://albauser.net:2235/antree-iptv/exchange/27992
+#EXTINF:-1,Telekom Fussball 4 HD
+http://albauser.net:2235/antree-iptv/exchange/27993
+#EXTINF:-1,Telekom Fussball 5 HD
+http://albauser.net:2235/antree-iptv/exchange/27994
+#EXTINF:-1,Telekom Fussball 6 HD
+http://albauser.net:2235/antree-iptv/exchange/27995
+#EXTINF:-1,Telekom Fussball 7 HD
+http://albauser.net:2235/antree-iptv/exchange/27996
+#EXTINF:-1,Telekom Fussball 8 HD
+http://albauser.net:2235/antree-iptv/exchange/27997
+#EXTINF:-1,Telekom sport 1
+http://albauser.net:2235/antree-iptv/exchange/27998
+#EXTINF:-1,Telekom sport 2
+http://albauser.net:2235/antree-iptv/exchange/27999
+#EXTINF:-1,Telekom sport 3
+http://albauser.net:2235/antree-iptv/exchange/28000
+#EXTINF:-1,Telekom sport 4
+http://albauser.net:2235/antree-iptv/exchange/28001
+#EXTINF:-1,Telekom sport 5
+http://albauser.net:2235/antree-iptv/exchange/28002
+#EXTINF:-1,Telekom sport 7
+http://albauser.net:2235/antree-iptv/exchange/28003
+#EXTINF:-1,B - Max 01 HD
+http://albauser.net:2235/antree-iptv/exchange/61557
+#EXTINF:-1,B - Max 02 HD
+http://albauser.net:2235/antree-iptv/exchange/61558
+#EXTINF:-1,B - Max 03 HD
+http://albauser.net:2235/antree-iptv/exchange/61559
+#EXTINF:-1,B - Max 04 HD
+http://albauser.net:2235/antree-iptv/exchange/61561
+#EXTINF:-1,B - Max 05 HD
+http://albauser.net:2235/antree-iptv/exchange/61562
+#EXTINF:-1,B - Max 06 HD
+http://albauser.net:2235/antree-iptv/exchange/61563
+#EXTINF:-1,B - Max 07 HD
+http://albauser.net:2235/antree-iptv/exchange/61564
+#EXTINF:-1,B - Max 08 HD
+http://albauser.net:2235/antree-iptv/exchange/61565
+#EXTINF:-1,B - Max 09 HD
+http://albauser.net:2235/antree-iptv/exchange/61566
+#EXTINF:-1,B - Max 10 HD
+http://albauser.net:2235/antree-iptv/exchange/61799
+#EXTINF:-1,DE:KiNOBOX 1 HD
+http://albauser.net:2235/antree-iptv/exchange/61953
+#EXTINF:-1,DE:KiNOBOX 2 HD
+http://albauser.net:2235/antree-iptv/exchange/61954
+#EXTINF:-1,DE:KiNOBOX 3 HD
+http://albauser.net:2235/antree-iptv/exchange/61955
+#EXTINF:-1,DE:KiNOBOX 4 HD
+http://albauser.net:2235/antree-iptv/exchange/61956
+#EXTINF:-1,DE:KiNOBOX 5 HD
+http://albauser.net:2235/antree-iptv/exchange/61957
+#EXTINF:-1,DE:KiNOBOX 6 HD
+http://albauser.net:2235/antree-iptv/exchange/61958
+#EXTINF:-1,DE:KiNOBOX 7 HD
+http://albauser.net:2235/antree-iptv/exchange/61959
+#EXTINF:-1,DE:KiNOBOX 8 HD
+http://albauser.net:2235/antree-iptv/exchange/61960
+#EXTINF:-1,DE:KiNOBOX 9 HD
+http://albauser.net:2235/antree-iptv/exchange/61961
+#EXTINF:-1,DE:KiNOBOX 10 HD
+http://albauser.net:2235/antree-iptv/exchange/61962
+#EXTINF:-1,StarMaxX Paw Patrol 1 HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/62320
+#EXTINF:-1,StarMaxX Paw Patrol 2 HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/62321
+#EXTINF:-1,StarMaxX Avengers HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/62322
+#EXTINF:-1,StarMaxX Marvel´s Guardians of the Galaxy HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/62323
+#EXTINF:-1,StarMaxX Pinky Malinky HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/62324
+#EXTINF:-1,Dick & Doof Nostaji TV 7/24
+http://albauser.net:2235/antree-iptv/exchange/62727
+#EXTINF:-1,MOVIE U4K KINO 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/63127
+#EXTINF:-1,MOVIE U4K KINO 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/63128
+#EXTINF:-1,MOVIE U4K KINO 4 FHD
+http://albauser.net:2235/antree-iptv/exchange/63130
+#EXTINF:-1,MOVIE U4K KINO 5 FHD
+http://albauser.net:2235/antree-iptv/exchange/63131
+#EXTINF:-1,MOVIE  U4K KIDS 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/63132
+#EXTINF:-1,MOVIE  U4K KIDS 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/63133
+#EXTINF:-1,MOVIE  U4K KIDS 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/63134
+#EXTINF:-1,MOVIE U4K HORROR 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/63137
+#EXTINF:-1,MOVIE  U4K HORROR 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/63138
+#EXTINF:-1,MOVIE  U4K HORROR 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/63139
+#EXTINF:-1,Fix & Foxi SD
+http://albauser.net:2235/antree-iptv/exchange/63720
+#EXTINF:-1,ATV 2 HD
+http://albauser.net:2235/antree-iptv/exchange/63947
+#EXTINF:-1,HGTV HD
+http://albauser.net:2235/antree-iptv/exchange/63948
+#EXTINF:-1,Sky Sport News
+http://albauser.net:2235/antree-iptv/exchange/65840
+#EXTINF:-1,Sky Sport 1 2K
+http://albauser.net:2235/antree-iptv/exchange/65841
+#EXTINF:-1,Sky Sport 2 2K
+http://albauser.net:2235/antree-iptv/exchange/65842
+#EXTINF:-1,Sky Sport 3 4K
+http://albauser.net:2235/antree-iptv/exchange/65843
+#EXTINF:-1,Sky Sport 4 4K
+http://albauser.net:2235/antree-iptv/exchange/65844
+#EXTINF:-1,Sky Sport 5 4K
+http://albauser.net:2235/antree-iptv/exchange/65845
+#EXTINF:-1,Sky Sport 6 4K
+http://albauser.net:2235/antree-iptv/exchange/65846
+#EXTINF:-1,Sky Sport 7 4K
+http://albauser.net:2235/antree-iptv/exchange/65847
+#EXTINF:-1,Sky Sport 8 4K
+http://albauser.net:2235/antree-iptv/exchange/65848
+#EXTINF:-1,Sky Sport 10 FHD
+http://albauser.net:2235/antree-iptv/exchange/65849
+#EXTINF:-1,Sky Sport 11 FHD
+http://albauser.net:2235/antree-iptv/exchange/65850
+#EXTINF:-1,Sky Sport 13 4K
+http://albauser.net:2235/antree-iptv/exchange/65851
+#EXTINF:-1,Sky Sport 14 4K
+http://albauser.net:2235/antree-iptv/exchange/65852
+#EXTINF:-1,Sky Kino Welt (Horror)
+http://albauser.net:2235/antree-iptv/exchange/65873
+#EXTINF:-1,Sky Kino Welt (Comedy)
+http://albauser.net:2235/antree-iptv/exchange/65874
+#EXTINF:-1,Sky Kino Welt (Krimi)
+http://albauser.net:2235/antree-iptv/exchange/65875
+#EXTINF:-1,Sky Kino Welt (Familie)
+http://albauser.net:2235/antree-iptv/exchange/65876
+#EXTINF:-1,Sky Kino Welt (Animation)
+http://albauser.net:2235/antree-iptv/exchange/65877
+#EXTINF:-1,Sk Kino Welt (Science-Fiction)
+http://albauser.net:2235/antree-iptv/exchange/65878
+#EXTINF:-1,Sky Kino Welt (Drama)
+http://albauser.net:2235/antree-iptv/exchange/65879
+#EXTINF:-1,Sky Kino Welt (Action)
+http://albauser.net:2235/antree-iptv/exchange/65880
+#EXTINF:-1,Sky Kino Hits (2019)
+http://albauser.net:2235/antree-iptv/exchange/65881
+#EXTINF:-1,Gold Cinema Action/Thriller
+http://albauser.net:2235/antree-iptv/exchange/66169
+#EXTINF:-1,Gold Cinema Adventure
+http://albauser.net:2235/antree-iptv/exchange/66170
+#EXTINF:-1,Gold Cinema Animation
+http://albauser.net:2235/antree-iptv/exchange/66171
+#EXTINF:-1,Gold Cinema Anime
+http://albauser.net:2235/antree-iptv/exchange/66172
+#EXTINF:-1,Cinema Gold Family
+http://albauser.net:2235/antree-iptv/exchange/66173
+#EXTINF:-1,Gold Cinema Biography
+http://albauser.net:2235/antree-iptv/exchange/66174
+#EXTINF:-1,Gold Cinema Bollywood
+http://albauser.net:2235/antree-iptv/exchange/66175
+#EXTINF:-1,Gold Cinema Comedy
+http://albauser.net:2235/antree-iptv/exchange/66176
+#EXTINF:-1,Gold Cinema Crime
+http://albauser.net:2235/antree-iptv/exchange/66177
+#EXTINF:-1,Gold Cinema Drama
+http://albauser.net:2235/antree-iptv/exchange/66178
+#EXTINF:-1,Gold Cinema Fantasy
+http://albauser.net:2235/antree-iptv/exchange/66179
+#EXTINF:-1,Gold Cinema History
+http://albauser.net:2235/antree-iptv/exchange/66180
+#EXTINF:-1,Gold Cinema Horror
+http://albauser.net:2235/antree-iptv/exchange/66181
+#EXTINF:-1,Gold Cinema Katastrophen
+http://albauser.net:2235/antree-iptv/exchange/66182
+#EXTINF:-1,Gold Cinema Musical
+http://albauser.net:2235/antree-iptv/exchange/66183
+#EXTINF:-1,Gold Cinema Romance
+http://albauser.net:2235/antree-iptv/exchange/66184
+#EXTINF:-1,Gold Cinema Sci-Fi
+http://albauser.net:2235/antree-iptv/exchange/66185
+#EXTINF:-1,Gold Cinema Western
+http://albauser.net:2235/antree-iptv/exchange/66186
+#EXTINF:-1,Max Movie Imdb
+http://albauser.net:2235/antree-iptv/exchange/66187
+#EXTINF:-1,Max Movie Marvel
+http://albauser.net:2235/antree-iptv/exchange/66188
+#EXTINF:-1,Max Movie Disney
+http://albauser.net:2235/antree-iptv/exchange/66189
+#EXTINF:-1,Max Movie Harry Potter
+http://albauser.net:2235/antree-iptv/exchange/66190
+#EXTINF:-1,Max Movie Fast & Furious
+http://albauser.net:2235/antree-iptv/exchange/66191
+#EXTINF:-1,Max Movie Fluch der Karibik
+http://albauser.net:2235/antree-iptv/exchange/66192
+#EXTINF:-1,Max Movie Jurassic Park
+http://albauser.net:2235/antree-iptv/exchange/66193
+#EXTINF:-1,Max Movie Star Wars
+http://albauser.net:2235/antree-iptv/exchange/66194
+#EXTINF:-1,Max Movie Mission: Impossible
+http://albauser.net:2235/antree-iptv/exchange/66195
+#EXTINF:-1,Heidi 3D
+http://albauser.net:2235/antree-iptv/exchange/66197
+#EXTINF:-1,Spongebob Schwammkopf
+http://albauser.net:2235/antree-iptv/exchange/66198
+#EXTINF:-1,PJ Masks
+http://albauser.net:2235/antree-iptv/exchange/66199
+#EXTINF:-1,Peppa Wutz
+http://albauser.net:2235/antree-iptv/exchange/66200
+#EXTINF:-1,Caillou
+http://albauser.net:2235/antree-iptv/exchange/66201
+#EXTINF:-1,Kids Tv Mix
+http://albauser.net:2235/antree-iptv/exchange/66202
+#EXTINF:-1,Kids Tv Kinderlieder
+http://albauser.net:2235/antree-iptv/exchange/66203
+#EXTINF:-1,Kindermärchen 1
+http://albauser.net:2235/antree-iptv/exchange/66204
+#EXTINF:-1,Kindermärchen 2
+http://albauser.net:2235/antree-iptv/exchange/66205
+#EXTINF:-1,Kindermärchen 3
+http://albauser.net:2235/antree-iptv/exchange/66206
+#EXTINF:-1,Kindermärchen 4
+http://albauser.net:2235/antree-iptv/exchange/66207
+#EXTINF:-1,Meeres Dokus
+http://albauser.net:2235/antree-iptv/exchange/66213
+#EXTINF:-1,Dino Dokus
+http://albauser.net:2235/antree-iptv/exchange/66214
+#EXTINF:-1,Galileo
+http://albauser.net:2235/antree-iptv/exchange/66215
+#EXTINF:-1,StarMaxX Avengers HD
+http://albauser.net:2235/antree-iptv/exchange/66277
+#EXTINF:-1,StarMaxX Avengers HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/66278
+#EXTINF:-1,StarMaxX Marvel´s Guardians of the Galaxy HD
+http://albauser.net:2235/antree-iptv/exchange/66279
+#EXTINF:-1,StarMaxX Paw Patrol 1 HD
+http://albauser.net:2235/antree-iptv/exchange/66280
+#EXTINF:-1,StarMaxX Paw Patrol 1 HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/66281
+#EXTINF:-1,StarMaxX Paw Patrol 2 HD
+http://albauser.net:2235/antree-iptv/exchange/66282
+#EXTINF:-1,StarMaxX Pinky Malinky HD 24/7
+http://albauser.net:2235/antree-iptv/exchange/66283
+#EXTINF:-1,Der Aktionär TV HD
+http://albauser.net:2235/antree-iptv/exchange/66285
+#EXTINF:-1,HS Cinema Action
+http://albauser.net:2235/antree-iptv/exchange/74550
+#EXTINF:-1,HS Cinema Comedy
+http://albauser.net:2235/antree-iptv/exchange/74551
+#EXTINF:-1,HS Cinema Animation
+http://albauser.net:2235/antree-iptv/exchange/74552
+#EXTINF:-1,HS Cinema Thriller
+http://albauser.net:2235/antree-iptv/exchange/74553
+#EXTINF:-1,HS Cinema Horror
+http://albauser.net:2235/antree-iptv/exchange/74554
+#EXTINF:-1,HS Cinema Doku
+http://albauser.net:2235/antree-iptv/exchange/74555
+#EXTINF:-1,HS Cinema Christmas Filme
+http://albauser.net:2235/antree-iptv/exchange/74556
+#EXTINF:-1,HS Cinema MARVEL Filme
+http://albauser.net:2235/antree-iptv/exchange/74557
+#EXTINF:-1,HS Cinema Collection The Fast and the Furious
+http://albauser.net:2235/antree-iptv/exchange/74558
+#EXTINF:-1,HS Cinema Mission Impossible Collection
+http://albauser.net:2235/antree-iptv/exchange/74559
+#EXTINF:-1,HS Cinema Jean Claude Van Damme Collection
+http://albauser.net:2235/antree-iptv/exchange/74560
+#EXTINF:-1,HS Cinema Sylvester Stallone
+http://albauser.net:2235/antree-iptv/exchange/74561
+#EXTINF:-1,HS Cinema Terminator
+http://albauser.net:2235/antree-iptv/exchange/74562
+#EXTINF:-1,HS Cinema Jackie Chan Collection
+http://albauser.net:2235/antree-iptv/exchange/74563
+#EXTINF:-1,HS Cinema Jet Li Collection
+http://albauser.net:2235/antree-iptv/exchange/74564
+#EXTINF:-1,HS Cinema Bruce Lee Collection
+http://albauser.net:2235/antree-iptv/exchange/74565
+#EXTINF:-1,HS Cinema Saw 1-8
+http://albauser.net:2235/antree-iptv/exchange/74566
+#EXTINF:-1,HS Cinema Harry Potter 1-6
+http://albauser.net:2235/antree-iptv/exchange/74567
+#EXTINF:-1,HS Cinema Final Destination 1-5
+http://albauser.net:2235/antree-iptv/exchange/74568
+#EXTINF:-1,HyperKids HD
+http://albauser.net:2235/antree-iptv/exchange/77291
+#EXTINF:-1,HyperKids Pappa Wutz HD
+http://albauser.net:2235/antree-iptv/exchange/77292
+#EXTINF:-1,HyperKids Prinzessin HD
+http://albauser.net:2235/antree-iptv/exchange/77293
+#EXTINF:-1,CineBox 1 FHD
+http://albauser.net:2235/antree-iptv/exchange/77294
+#EXTINF:-1,CineBox 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/77295
+#EXTINF:-1,CineBox 3 FHD
+http://albauser.net:2235/antree-iptv/exchange/77296
+#EXTINF:-1,CineBox 4 FHD
+http://albauser.net:2235/antree-iptv/exchange/77297
+#EXTINF:-1,CineBox 5 FHD
+http://albauser.net:2235/antree-iptv/exchange/77298
+#EXTINF:-1,CineBox 6 FHD
+http://albauser.net:2235/antree-iptv/exchange/77299
+#EXTINF:-1,CineBox 7 FHD
+http://albauser.net:2235/antree-iptv/exchange/77300
+#EXTINF:-1,CineBox 8 FHD
+http://albauser.net:2235/antree-iptv/exchange/77301
+#EXTINF:-1,CineBox 9 FHD
+http://albauser.net:2235/antree-iptv/exchange/77302
+#EXTINF:-1,CineBox 10 FHD
+http://albauser.net:2235/antree-iptv/exchange/77303
+#EXTINF:-1,Sky Serien & Shows HEVC
+http://albauser.net:2235/antree-iptv/exchange/77304
+#EXTINF:-1,KiNOBOX  MASCHA UND DER BÄR HD
+http://albauser.net:2235/antree-iptv/exchange/77314
+#EXTINF:-1,KiNOBOX SPONGEBOB HD
+http://albauser.net:2235/antree-iptv/exchange/77315
+#EXTINF:-1,Cine Gold Musical
+http://albauser.net:2235/antree-iptv/exchange/77325
+#EXTINF:-1,Cine Gold History
+http://albauser.net:2235/antree-iptv/exchange/77326
+#EXTINF:-1,Cine Gold Bollywood
+http://albauser.net:2235/antree-iptv/exchange/77327
+#EXTINF:-1,Cine Gold Anime
+http://albauser.net:2235/antree-iptv/exchange/77328
+#EXTINF:-1,Cine Gold Romance
+http://albauser.net:2235/antree-iptv/exchange/77329
+#EXTINF:-1,Cind Max Star Wars
+http://albauser.net:2235/antree-iptv/exchange/77330
+#EXTINF:-1,Cine Max James Bond
+http://albauser.net:2235/antree-iptv/exchange/77331
+#EXTINF:-1,Cine Max Jurassic Park
+http://albauser.net:2235/antree-iptv/exchange/77332
+#EXTINF:-1,Cine Max MARVEL
+http://albauser.net:2235/antree-iptv/exchange/77333
+#EXTINF:-1,Cine Max Disney
+http://albauser.net:2235/antree-iptv/exchange/77334
+#EXTINF:-1,Cine Max Harry Potter
+http://albauser.net:2235/antree-iptv/exchange/77335
+#EXTINF:-1,Cine Max IMDB
+http://albauser.net:2235/antree-iptv/exchange/77336
+#EXTINF:-1,Cine Gold Katastrophen
+http://albauser.net:2235/antree-iptv/exchange/77337
+#EXTINF:-1,Cine Gold War
+http://albauser.net:2235/antree-iptv/exchange/77338
+#EXTINF:-1,Cine Gold Western
+http://albauser.net:2235/antree-iptv/exchange/77339
+#EXTINF:-1,Cine Gold Sci-Fi
+http://albauser.net:2235/antree-iptv/exchange/77340
+#EXTINF:-1,Cine Gold Horror
+http://albauser.net:2235/antree-iptv/exchange/77341
+#EXTINF:-1,Cine Gold Fantasy
+http://albauser.net:2235/antree-iptv/exchange/77342
+#EXTINF:-1,Cine Gold Family
+http://albauser.net:2235/antree-iptv/exchange/77343
+#EXTINF:-1,Cine Gold Drama
+http://albauser.net:2235/antree-iptv/exchange/77344
+#EXTINF:-1,Cine Gold Crime
+http://albauser.net:2235/antree-iptv/exchange/77345
+#EXTINF:-1,Cine Gold Comedy
+http://albauser.net:2235/antree-iptv/exchange/77346
+#EXTINF:-1,Cine Gold Biography
+http://albauser.net:2235/antree-iptv/exchange/77347
+#EXTINF:-1,Cine Gold Animation
+http://albauser.net:2235/antree-iptv/exchange/77348
+#EXTINF:-1,Cine Gold Adventure
+http://albauser.net:2235/antree-iptv/exchange/77349
+#EXTINF:-1,Cine Gold Action/Thriller
+http://albauser.net:2235/antree-iptv/exchange/77350
+#EXTINF:-1,Cine Max Fast and Furious
+http://albauser.net:2235/antree-iptv/exchange/77351
+#EXTINF:-1,TURKAmax SELECT 1 HD
+http://albauser.net:2235/antree-iptv/exchange/79003
+#EXTINF:-1,TURKAmax SELECT 2 HD
+http://albauser.net:2235/antree-iptv/exchange/79004
+#EXTINF:-1,TURKAmax SELECT 3 HD
+http://albauser.net:2235/antree-iptv/exchange/79005
+#EXTINF:-1,TURKAmax SELECT 4 HD
+http://albauser.net:2235/antree-iptv/exchange/79006
+#EXTINF:-1,TURKAmax SELECT 5 HD
+http://albauser.net:2235/antree-iptv/exchange/79007
+#EXTINF:-1,MAX  DRAMA KINO
+http://albauser.net:2235/antree-iptv/exchange/79008
+#EXTINF:-1,MAX  FAMiLiE
+http://albauser.net:2235/antree-iptv/exchange/79009
+#EXTINF:-1,MAX ACTION KINO
+http://albauser.net:2235/antree-iptv/exchange/79010
+#EXTINF:-1,MAX C?NEMA DRAMA
+http://albauser.net:2235/antree-iptv/exchange/79011
+#EXTINF:-1,MAX C?NEMA V?S?ON
+http://albauser.net:2235/antree-iptv/exchange/79012
+#EXTINF:-1,MAX SELECT Premier 3
+http://albauser.net:2235/antree-iptv/exchange/79013
+#EXTINF:-1,MAX THRILLE KINO
+http://albauser.net:2235/antree-iptv/exchange/79014
+#EXTINF:-1,MAX VISION KINO
+http://albauser.net:2235/antree-iptv/exchange/79015
+#EXTINF:-1,MAX VISION KINO 2
+http://albauser.net:2235/antree-iptv/exchange/79016
+#EXTINF:-1,MOV?E C?NEMA GERMANY 1
+http://albauser.net:2235/antree-iptv/exchange/79017
+#EXTINF:-1,MOV?E C?NEMA GERMANY 2
+http://albauser.net:2235/antree-iptv/exchange/79018
+#EXTINF:-1,MOV?E C?NEMA GERMANY 3
+http://albauser.net:2235/antree-iptv/exchange/79019
+#EXTINF:-1,MOV?E C?NEMA GERMANY 4
+http://albauser.net:2235/antree-iptv/exchange/79020
+#EXTINF:-1,MOV?E C?NEMA GERMANY 5
+http://albauser.net:2235/antree-iptv/exchange/79021
+#EXTINF:-1,4K Select Store
+http://albauser.net:2235/antree-iptv/exchange/80235
+#EXTINF:-1,4K Select 1
+http://albauser.net:2235/antree-iptv/exchange/80236
+#EXTINF:-1,4K Select 2
+http://albauser.net:2235/antree-iptv/exchange/80237
+#EXTINF:-1,4K Select 3
+http://albauser.net:2235/antree-iptv/exchange/80238
+#EXTINF:-1,4K Select 4
+http://albauser.net:2235/antree-iptv/exchange/80239
+#EXTINF:-1,4K Select 5
+http://albauser.net:2235/antree-iptv/exchange/80240
+#EXTINF:-1,4K Select 6
+http://albauser.net:2235/antree-iptv/exchange/80241
+#EXTINF:-1,4K Select 7
+http://albauser.net:2235/antree-iptv/exchange/80242
+#EXTINF:-1,4K Select 8
+http://albauser.net:2235/antree-iptv/exchange/80243
+#EXTINF:-1,4K Select 9
+http://albauser.net:2235/antree-iptv/exchange/80244
+#EXTINF:-1,4K Select 10
+http://albauser.net:2235/antree-iptv/exchange/80245
+#EXTINF:-1,HS Cinema Action
+http://albauser.net:2235/antree-iptv/exchange/84397
+#EXTINF:-1,HS Cinema Komödie
+http://albauser.net:2235/antree-iptv/exchange/84398
+#EXTINF:-1,HS Cinema Thriller
+http://albauser.net:2235/antree-iptv/exchange/84399
+#EXTINF:-1,HS Cimena Horror
+http://albauser.net:2235/antree-iptv/exchange/84400
+#EXTINF:-1,HS Cinema Animation
+http://albauser.net:2235/antree-iptv/exchange/84401
+#EXTINF:-1,HS Cinema Arnold Schwarzenegger
+http://albauser.net:2235/antree-iptv/exchange/84402
+#EXTINF:-1,HS Cinema Jean Claude van Damme
+http://albauser.net:2235/antree-iptv/exchange/84403
+#EXTINF:-1,HS Cinema Dwayne Johnson
+http://albauser.net:2235/antree-iptv/exchange/84404
+#EXTINF:-1,HS Cinema Sylvester Stallone
+http://albauser.net:2235/antree-iptv/exchange/84405
+#EXTINF:-1,HS Cinema Jackie Chan
+http://albauser.net:2235/antree-iptv/exchange/84406
+#EXTINF:-1,HS Cinema Jet Li
+http://albauser.net:2235/antree-iptv/exchange/84407
+#EXTINF:-1,HS Cinema James Bond
+http://albauser.net:2235/antree-iptv/exchange/84408
+#EXTINF:-1,HS Cinema Marvel Filme
+http://albauser.net:2235/antree-iptv/exchange/84409
+#EXTINF:-1,HS Cinema Terminator
+http://albauser.net:2235/antree-iptv/exchange/84410
+#EXTINF:-1,HS Cinema Fast & Furious
+http://albauser.net:2235/antree-iptv/exchange/84411
+#EXTINF:-1,HS Cinema Transformers
+http://albauser.net:2235/antree-iptv/exchange/84412
+#EXTINF:-1,HS Cinema Resident Evil
+http://albauser.net:2235/antree-iptv/exchange/84413
+#EXTINF:-1,HS Cinema Mission Impossible
+http://albauser.net:2235/antree-iptv/exchange/84414
+#EXTINF:-1,HS Cinema Final Destination
+http://albauser.net:2235/antree-iptv/exchange/84415
+#EXTINF:-1,HS Cineman IP Man
+http://albauser.net:2235/antree-iptv/exchange/84416
+#EXTINF:-1,HS Cinema Bud Spencer
+http://albauser.net:2235/antree-iptv/exchange/84417
+#EXTINF:-1,HS Cinema Barbie Collection
+http://albauser.net:2235/antree-iptv/exchange/84418
+#EXTINF:-1,Rakutan Movie 1
+http://albauser.net:2235/antree-iptv/exchange/84431
+#EXTINF:-1,Rakutan Movie 2
+http://albauser.net:2235/antree-iptv/exchange/84432
+#EXTINF:-1,Rakutan Movie 3
+http://albauser.net:2235/antree-iptv/exchange/84433
+#EXTINF:-1,Rakutan Movie 4
+http://albauser.net:2235/antree-iptv/exchange/84434
+#EXTINF:-1,Rakutan Movie 5
+http://albauser.net:2235/antree-iptv/exchange/84435
+#EXTINF:-1,Rakutan Movie 6
+http://albauser.net:2235/antree-iptv/exchange/84436
+#EXTINF:-1,DUETSCH FILM PALAST INFO
+http://albauser.net:2235/antree-iptv/exchange/84777
+#EXTINF:-1,DEUTSCH FILM PALAST 1
+http://albauser.net:2235/antree-iptv/exchange/84787
+#EXTINF:-1,DEUTSCH FILM PALAST 2
+http://albauser.net:2235/antree-iptv/exchange/84778
+#EXTINF:-1,DEUTSCH FILM PALAST 4
+http://albauser.net:2235/antree-iptv/exchange/84780
+#EXTINF:-1,DEUTSCH FILM PALAST 5
+http://albauser.net:2235/antree-iptv/exchange/84781
+#EXTINF:-1,DEUTSCH FILM PALAST 6
+http://albauser.net:2235/antree-iptv/exchange/84782
+#EXTINF:-1,DEUTSCH FILM PALAST 7
+http://albauser.net:2235/antree-iptv/exchange/84783
+#EXTINF:-1,DEUTSCH FILM PALAST 8
+http://albauser.net:2235/antree-iptv/exchange/84784
+#EXTINF:-1,DE :DEUTSCH FILM PALAST 9
+http://albauser.net:2235/antree-iptv/exchange/84785
+#EXTINF:-1,DEUTSCH FILM PALAST 10
+http://albauser.net:2235/antree-iptv/exchange/84786
+#EXTINF:-1,Cinedome The Fast and the Furious HD+
+http://albauser.net:2235/antree-iptv/exchange/85126
+#EXTINF:-1,Cinedome Leonardo DiCaprio HD+
+http://albauser.net:2235/antree-iptv/exchange/85127
+#EXTINF:-1,Cinedome Mittelerde HD+
+http://albauser.net:2235/antree-iptv/exchange/85128
+#EXTINF:-1,Cinedome Harry Potter HD+
+http://albauser.net:2235/antree-iptv/exchange/85129
+#EXTINF:-1,Cinedome Jason Statham HD+
+http://albauser.net:2235/antree-iptv/exchange/85130
+#EXTINF:-1,Cinedome Sylvester Stallone HD+
+http://albauser.net:2235/antree-iptv/exchange/85131
+#EXTINF:-1,Cinedome Tom Cruise HD+
+http://albauser.net:2235/antree-iptv/exchange/85132
+#EXTINF:-1,Cinedome Bruce Willis HD+
+http://albauser.net:2235/antree-iptv/exchange/85133
+#EXTINF:-1,Cinedome Jean Claude van Damme HD+
+http://albauser.net:2235/antree-iptv/exchange/85134
+#EXTINF:-1,Cinedome Arnold Schwarzenegger HD+
+http://albauser.net:2235/antree-iptv/exchange/85135
+#EXTINF:-1,Cinedome Will Smith HD+
+http://albauser.net:2235/antree-iptv/exchange/85136
+#EXTINF:-1,SERIEAX Blue Bloods HD+
+http://albauser.net:2235/antree-iptv/exchange/85137
+#EXTINF:-1,Cinedome Denzel Washington HD+
+http://albauser.net:2235/antree-iptv/exchange/85138
+#EXTINF:-1,Cinedome Kurt Russell HD+
+http://albauser.net:2235/antree-iptv/exchange/85139
+#EXTINF:-1,Cinedome Tommy Lee Jones HD+
+http://albauser.net:2235/antree-iptv/exchange/85140
+#EXTINF:-1,Cinedome Bollywood HD+
+http://albauser.net:2235/antree-iptv/exchange/85141
+#EXTINF:-1,Cinedome Bollywood 2 HD+
+http://albauser.net:2235/antree-iptv/exchange/85142
+#EXTINF:-1,Cinedome Jackie Chan HD+
+http://albauser.net:2235/antree-iptv/exchange/85143
+#EXTINF:-1,Cinedome Star Wars HD+
+http://albauser.net:2235/antree-iptv/exchange/85144
+#EXTINF:-1,Cinedome 007 HD+
+http://albauser.net:2235/antree-iptv/exchange/85145
+#EXTINF:-1,Rakuten TV Action Movies HD
+http://albauser.net:2235/antree-iptv/exchange/85146
+#EXTINF:-1,Rakuten TV Comedy Movies
+http://albauser.net:2235/antree-iptv/exchange/85147
+#EXTINF:-1,Rakuten TV Drama HD
+http://albauser.net:2235/antree-iptv/exchange/85148
+#EXTINF:-1,Rakuten TV Family HD
+http://albauser.net:2235/antree-iptv/exchange/85149
+#EXTINF:-1,Rakuten TV Spotlight HD
+http://albauser.net:2235/antree-iptv/exchange/85150
+#EXTINF:-1,Eagle Cinema KINOSAAL
+http://albauser.net:2235/antree-iptv/exchange/85384
+#EXTINF:-1,Eagle Cinema Premiere HD
+http://albauser.net:2235/antree-iptv/exchange/85385
+#EXTINF:-1,Eagle Cinema Aktion HD
+http://albauser.net:2235/antree-iptv/exchange/85386
+#EXTINF:-1,Eagle Cinema Komodie HD
+http://albauser.net:2235/antree-iptv/exchange/85387
+#EXTINF:-1,Eagle Cinema Abenteuer HD
+http://albauser.net:2235/antree-iptv/exchange/85388
+#EXTINF:-1,Eagle Cinema Animation HD
+http://albauser.net:2235/antree-iptv/exchange/85389
+#EXTINF:-1,Eagle Cinema Thriller HD
+http://albauser.net:2235/antree-iptv/exchange/85390
+#EXTINF:-1,Eagle Cinema 007 HD
+http://albauser.net:2235/antree-iptv/exchange/85391
+#EXTINF:-1,Eagle Masha und der B HD
+http://albauser.net:2235/antree-iptv/exchange/85392
+#EXTINF:-1,Eagle Cinema Biografie HD
+http://albauser.net:2235/antree-iptv/exchange/85393
+#EXTINF:-1,Eagle Cinema Familie FHD
+http://albauser.net:2235/antree-iptv/exchange/85394
+#EXTINF:-1,Eagle Cinema Fantasie FHD
+http://albauser.net:2235/antree-iptv/exchange/85395
+#EXTINF:-1,Eagle Cinema Romantisch HD
+http://albauser.net:2235/antree-iptv/exchange/85396
+#EXTINF:-1,Eagle Cinema Horror HD
+http://albauser.net:2235/antree-iptv/exchange/85397
+#EXTINF:-1,Eagle Cinema Geschichte HD
+http://albauser.net:2235/antree-iptv/exchange/85398
+#EXTINF:-1,Eagle Cinema Drama HD
+http://albauser.net:2235/antree-iptv/exchange/85399
+#EXTINF:-1,Eagle Cinema Sci-Fi HD
+http://albauser.net:2235/antree-iptv/exchange/85400
+#EXTINF:-1,Eagle Cinema Lheln HD
+http://albauser.net:2235/antree-iptv/exchange/85401
+#EXTINF:-1,Eagle Cinema Mythologie HD
+http://albauser.net:2235/antree-iptv/exchange/85402
+#EXTINF:-1,Eagle Cinema Spaghetti Western HD
+http://albauser.net:2235/antree-iptv/exchange/85403
+#EXTINF:-1,Blue TV 4K Select Store
+http://albauser.net:2235/antree-iptv/exchange/85404
+#EXTINF:-1,Blue TV 4K Select 1 HD
+http://albauser.net:2235/antree-iptv/exchange/85405
+#EXTINF:-1,Blue TV 4K Select 2 HD
+http://albauser.net:2235/antree-iptv/exchange/85406
+#EXTINF:-1,Blue TV 4K Select 3 HD
+http://albauser.net:2235/antree-iptv/exchange/85407
+#EXTINF:-1,Blue TV 4K Select 4 HD
+http://albauser.net:2235/antree-iptv/exchange/85408
+#EXTINF:-1,Blue TV 4K Select 5 HD
+http://albauser.net:2235/antree-iptv/exchange/85409
+#EXTINF:-1,Blue TV 4K Select 6 HD
+http://albauser.net:2235/antree-iptv/exchange/85410
+#EXTINF:-1,Blue TV 4K Select 7 HD
+http://albauser.net:2235/antree-iptv/exchange/85411
+#EXTINF:-1,Blue TV 4K Select 8 HD
+http://albauser.net:2235/antree-iptv/exchange/85412
+#EXTINF:-1,Blue TV 4K Select 9 HD
+http://albauser.net:2235/antree-iptv/exchange/85413
+#EXTINF:-1,Blue TV 4K Select 10 HD
+http://albauser.net:2235/antree-iptv/exchange/85414
+#EXTINF:-1,DE | Kronehit TV HD
+http://albauser.net:2235/antree-iptv/exchange/83510
+#EXTINF:-1,DE | Kronehit TV FHD
+http://albauser.net:2235/antree-iptv/exchange/83511
+#EXTINF:-1,TV 25 HD
+http://albauser.net:2235/antree-iptv/exchange/28013
+#EXTINF:-1,SERIEAX Mascha und der Bar HD+
+http://albauser.net:2235/antree-iptv/exchange/84491
+#EXTINF:-1,SERIEAX Der kleine Ritter Trenk HD+
+http://albauser.net:2235/antree-iptv/exchange/84492
+#EXTINF:-1,SERIEAX Der kleine Prinz HD+
+http://albauser.net:2235/antree-iptv/exchange/84493
+#EXTINF:-1,SERIEAX Die Abenteuer des jungen Marco Polo HD+
+http://albauser.net:2235/antree-iptv/exchange/84494
+#EXTINF:-1,SERIEAX Die Thundermans HD+
+http://albauser.net:2235/antree-iptv/exchange/84495
+#EXTINF:-1,SERIEAX Der kleine Eisbär HD+
+http://albauser.net:2235/antree-iptv/exchange/84496
+#EXTINF:-1,SERIEAX Disney's Grosse Pause HD+
+http://albauser.net:2235/antree-iptv/exchange/84497
+#EXTINF:-1,SERIEAX Spongebob HD+
+http://albauser.net:2235/antree-iptv/exchange/84498
+#EXTINF:-1,SERIEAX Mick's Clubhaus HD+
+http://albauser.net:2235/antree-iptv/exchange/84499
+#EXTINF:-1,SERIEAX Micky und die flinken Flitzer HD+
+http://albauser.net:2235/antree-iptv/exchange/84500
+#EXTINF:-1,SERIEAX Spy Kids HD+
+http://albauser.net:2235/antree-iptv/exchange/84501
+#EXTINF:-1,SERIEAX The Boss Baby HD+
+http://albauser.net:2235/antree-iptv/exchange/84502
+#EXTINF:-1,SERIEAX Timo und Pumba HD+
+http://albauser.net:2235/antree-iptv/exchange/84503
+#EXTINF:-1,SERIEAX Tom und Jerry Show HD+
+http://albauser.net:2235/antree-iptv/exchange/84504
+#EXTINF:-1,SERIEAX Alle hassen Chris HD+
+http://albauser.net:2235/antree-iptv/exchange/84505
+#EXTINF:-1,SERIEAX Arrow HD+
+http://albauser.net:2235/antree-iptv/exchange/84506
+#EXTINF:-1,SERIEAX 4.Blocks HD+
+http://albauser.net:2235/antree-iptv/exchange/84507
+#EXTINF:-1,SERIEAX Full House HD+
+http://albauser.net:2235/antree-iptv/exchange/84508
+#EXTINF:-1,SERIEAX Chicago Fire HD+
+http://albauser.net:2235/antree-iptv/exchange/84509
+#EXTINF:-1,SERIEAX Game of Thrones HD+
+http://albauser.net:2235/antree-iptv/exchange/84510
+#EXTINF:-1,SERIEAX Club der roten Bänder HD+
+http://albauser.net:2235/antree-iptv/exchange/84511
+#EXTINF:-1,SERIEAX Gomorra HD+
+http://albauser.net:2235/antree-iptv/exchange/84512
+#EXTINF:-1,SERIEAX Haus des Geldes HD+
+http://albauser.net:2235/antree-iptv/exchange/84513
+#EXTINF:-1,SERIEAX Ballers HD+
+http://albauser.net:2235/antree-iptv/exchange/84514
+#EXTINF:-1,SERIEAX Jerks HD+
+http://albauser.net:2235/antree-iptv/exchange/84515
+#EXTINF:-1,SERIEAX Kevin can't Wait HD+
+http://albauser.net:2235/antree-iptv/exchange/84516
+#EXTINF:-1,SERIEAX IZombie HD+
+http://albauser.net:2235/antree-iptv/exchange/84517
+#EXTINF:-1,SERIEAX Malcom Mittendrin HD+
+http://albauser.net:2235/antree-iptv/exchange/84518
+#EXTINF:-1,SERIEAX Mr.Robot HD+
+http://albauser.net:2235/antree-iptv/exchange/84519
+#EXTINF:-1,SERIEAX Narcos HD+
+http://albauser.net:2235/antree-iptv/exchange/84520
+#EXTINF:-1,SERIEAX Navy CIS HD+
+http://albauser.net:2235/antree-iptv/exchange/84521
+#EXTINF:-1,SERIEAX S.W.A.T HD+
+http://albauser.net:2235/antree-iptv/exchange/84522
+#EXTINF:-1,SERIEAX Riverdale HD+
+http://albauser.net:2235/antree-iptv/exchange/84523
+#EXTINF:-1,SERIEAX Chicago MED HD+
+http://albauser.net:2235/antree-iptv/exchange/84524
+#EXTINF:-1,SERIEAX Start Up HD+
+http://albauser.net:2235/antree-iptv/exchange/84525
+#EXTINF:-1,SERIEAX Suits HD+
+http://albauser.net:2235/antree-iptv/exchange/84526
+#EXTINF:-1,SERIEAX The Big Bang Theory HD+
+http://albauser.net:2235/antree-iptv/exchange/84527
+#EXTINF:-1,SERIEAX The Walking Dead HD+
+http://albauser.net:2235/antree-iptv/exchange/84528
+#EXTINF:-1,Tote Mädchen len nicht 24/7
+http://albauser.net:2235/antree-iptv/exchange/84529
+#EXTINF:-1,SERIEAX Two and a Half Men HD+
+http://albauser.net:2235/antree-iptv/exchange/84530
+#EXTINF:-1,SERIEAX The 100 HD+
+http://albauser.net:2235/antree-iptv/exchange/84531
+#EXTINF:-1,SERIEAX Van Helsing HD+
+http://albauser.net:2235/antree-iptv/exchange/84532

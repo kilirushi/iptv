@@ -1,597 +1,285 @@
 #EXTM3U
-#EXTINF:-1,La 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21043
-#EXTINF:-1,La 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/653
+#EXTINF:-1,LA 1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38378
+#EXTINF:-1,LA 2
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38379
 #EXTINF:-1,La 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/654
-#EXTINF:-1,Antena 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21040
-#EXTINF:-1,Antena 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/652
-#EXTINF:-1,Cuatro FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21029
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38380
+#EXTINF:-1,ANTENA 3
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38381
+#EXTINF:-1,ANTENA3 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38382
+#EXTINF:-1,CUATRO
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38383
 #EXTINF:-1,CUATRO HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/3846
-#EXTINF:-1,TeleCinco FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21002
-#EXTINF:-1,Telecinco HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/677
-#EXTINF:-1,La Sexta FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21022
-#EXTINF:-1,La Sexta HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/655
-#EXTINF:-1, 7 Murcia
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/30944
-#EXTINF:-1, Alcarria TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/30948
-#EXTINF:-1, Mega HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/32748
-#EXTINF:-1,24HORAS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10082
-#EXTINF:-1,A3SERIES HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10083
-#EXTINF:-1,AMC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10084
-#EXTINF:-1,ANDALUCIA TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10085
-#EXTINF:-1,ARAGON TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10086
-#EXTINF:-1,ATRESERIES FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21039
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38384
+#EXTINF:-1,TELECINCO
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38385
+#EXTINF:-1,TELECINCO HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38386
+#EXTINF:-1,LA SEXTA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38387
+#EXTINF:-1,LA SEXTA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38388
+#EXTINF:-1,C+ SERIES
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38390
+#EXTINF:-1,C+ SERIES XTRA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38391
+#EXTINF:-1,MOVISTAR SERIES MANIA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38392
+#EXTINF:-1,M. SERIES HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38393
+#EXTINF:-1,M. Series Xtra HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38394
+#EXTINF:-1,A3 SERIES HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38395
+#EXTINF:-1,#0 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38396
+#EXTINF:-1,FOX HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38397
+#EXTINF:-1,FOX LIFE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38398
+#EXTINF:-1,FOX LIFE HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38399
 #EXTINF:-1,AXN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/650
-#EXTINF:-1,AXN White HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/651
-#EXTINF:-1,BE MAD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/30945
-#EXTINF:-1,C ESTRELLAS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2592
-#EXTINF:-1,Canal 24 Horas
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/667
-#EXTINF:-1,COSMOS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10092
-#EXTINF:-1,DE CASA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6330
-#EXTINF:-1,DIVINITY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10094
-#EXTINF:-1,DKISS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10095
-#EXTINF:-1,ENERGY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10097
-#EXTINF:-1,FDF HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10104
-#EXTINF:-1,M Vamos
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12479
-#EXTINF:-1,NEOX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2614
-#EXTINF:-1,NOVA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2616
-#EXTINF:-1,SOMOS FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/79556
-#EXTINF:-1,TELENOVELAS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2605
-#EXTINF:-1,TV Galicia
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62504
-#EXTINF:-1,XTRM
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/53505
-#EXTINF:-1, Andorra-tv
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113369
-#EXTINF:-1, Bon-dia-tv HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113365
-#EXTINF:-1,El Toro TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116942
-#EXTINF:-1, Canal 25 Barbastro
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113343
-#EXTINF:-1, Castilla-la-mancha tv
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113370
-#EXTINF:-1,Canal Extremadura Sat
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116940
-#EXTINF:-1, Hamaika UHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113368
-#EXTINF:-1, Huesca TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113362
-#EXTINF:-1, Lancelot TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113364
-#EXTINF:-1, La Voz 24h
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113352
-#EXTINF:-1, Mirame TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113371
-#EXTINF:-1, Onda Cádiz
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113344
-#EXTINF:-1, Popular TV Melilla
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113355
-#EXTINF:-1, Sevilla TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113367
-#EXTINF:-1, Sophia TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113353
-#EXTINF:-1, Televisió de Girona
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113372
-#EXTINF:-1, Televisión de Galicia América
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113346
-#EXTINF:-1, TVG 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113360
-#EXTINF:-1, TV GALICIA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113374
-#EXTINF:-1, TVG Cultural
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113358
-#EXTINF:-1, TVG Evento 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113356
-#EXTINF:-1, TVG Infantil
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113359
-#EXTINF:-1, TVG Momento
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113361
-#EXTINF:-1, TVG Musigal
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113357
-#EXTINF:-1, Urola Telebista
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113349
-#EXTINF:-1,7 R. De Murcia es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143183
-#EXTINF:-1,25 TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143200
-#EXTINF:-1, Alcarria TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143197
-#EXTINF:-1,Bailen TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143171
-#EXTINF:-1,Betevé es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143184
-#EXTINF:-1,Canal 45 TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143195
-#EXTINF:-1,Canal 2000 La Solana es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143168
-#EXTINF:-1,Canal Capital Colombia es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143180
-#EXTINF:-1,Condavisión es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143193
-#EXTINF:-1,Dejate De Historias TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143204
-#EXTINF:-1,El Toro TV FHD es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143199
-#EXTINF:-1,ETB 2 es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143189
-#EXTINF:-1,Extrema TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143178
-#EXTINF:-1,Hollywood FHD es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143214
-#EXTINF:-1,Hollywood SD es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143215
-#EXTINF:-1,Iberalia TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143201
-#EXTINF:-1,Lebrija TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143192
-#EXTINF:-1,Levante TV FHD es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143202
-#EXTINF:-1,Marbella TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143191
-#EXTINF:-1,Mirame TV FHD es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143177
-#EXTINF:-1,Movistar Oscars es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143216
-#EXTINF:-1,Xtrm FHD es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143203
-#EXTINF:-1,Norte Visión Music es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143187
-#EXTINF:-1,TeleSur Venezuela es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143188
-#EXTINF:-1,TEVE4 es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143179
-#EXTINF:-1,TV Canaria es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143169
-#EXTINF:-1,UD Las Palmas TV es
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/143176
-#EXTINF:-1,NETFLIX ACTION FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77053
-#EXTINF:-1,NETFLIX BOX OFFICE FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77052
-#EXTINF:-1,NETFLIX COMEDY FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77051
-#EXTINF:-1,NETFLIX DRAMA FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77050
-#EXTINF:-1,NETFLIX HORROR FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77049
-#EXTINF:-1,NETFLIX KIDS FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77046
-#EXTINF:-1,NETFLIX MOVIES FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77048
-#EXTINF:-1,NETFLIX THRILLER FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77047
-#EXTINF:-1,Netflix Action 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146105
-#EXTINF:-1,Netflix Box Office 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146106
-#EXTINF:-1,Netflix Comedy 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146107
-#EXTINF:-1,Netflix Discovery 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146108
-#EXTINF:-1,Netflix Drama 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146109
-#EXTINF:-1,Netflix Horror 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146110
-#EXTINF:-1,Netflix Kids 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146111
-#EXTINF:-1,Netflix Movies 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146112
-#EXTINF:-1,Netflix Thriller 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/146113
-#EXTINF:-1,Toros TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/669
-#EXTINF:-1,A.E
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2586
-#EXTINF:-1,DMAX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10096
-#EXTINF:-1,SUNDANCE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2610
-#EXTINF:-1,CLASSICA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2613
-#EXTINF:-1,MTV ESPANA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2599
-#EXTINF:-1,MTV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10119
-#EXTINF:-1,MEZZO LIVE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2611
-#EXTINF:-1,25 TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113878
-#EXTINF:-1,28 KANALA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113871
-#EXTINF:-1,101 Tele Antequera
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113846
-#EXTINF:-1,101TV Málaga
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113865
-#EXTINF:-1,ALTERNATIVA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113889
-#EXTINF:-1,ATV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113868
-#EXTINF:-1,Bailén TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113853
-#EXTINF:-1,BON DIA CATALUÑA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113881
-#EXTINF:-1,C33 MADRID HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113876
-#EXTINF:-1,Canal 45 TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113863
-#EXTINF:-1,Canal Coín
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113847
-#EXTINF:-1,Canal Doñana
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113859
-#EXTINF:-1,CANAL SAN ROQUE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113888
-#EXTINF:-1,CANAL SIERRA DE CADIZ FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113862
-#EXTINF:-1,CMM
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113886
-#EXTINF:-1,CostadelSol TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113855
-#EXTINF:-1,Diez TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113857
-#EXTINF:-1,DISTRITO TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113875
-#EXTINF:-1,Fion TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113854
-#EXTINF:-1,IBIZA GLOBAL TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113877
-#EXTINF:-1,Islatel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113849
-#EXTINF:-1,LEVANTE TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113870
-#EXTINF:-1,LOGOS TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113873
-#EXTINF:-1,M95 Marbella
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113864
-#EXTINF:-1,MOLA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113879
-#EXTINF:-1,MTMAD 24H FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113866
-#EXTINF:-1,RM7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113872
-#EXTINF:-1,Sal Televisión
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113852
-#EXTINF:-1,SOLIDARIA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113874
-#EXTINF:-1,TELEARANDA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113883
-#EXTINF:-1,TeleGilena
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113851
-#EXTINF:-1,TENERIFE 2030
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113887
-#EXTINF:-1,TRECE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113867
-#EXTINF:-1,Tuya La Janda TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113860
-#EXTINF:-1,TV3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113882
-#EXTINF:-1,TV MUNICIPAL CORDOBA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/113890
-#EXTINF:-1,DMTV Boxoffice 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115905
-#EXTINF:-1,DMTV Boxoffice 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115906
-#EXTINF:-1,DMTV Boxoffice 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115907
-#EXTINF:-1,DMTV Boxoffice 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115908
-#EXTINF:-1,DMTV Boxoffice 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115909
-#EXTINF:-1,DMTV Boxoffice 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115910
-#EXTINF:-1,DMTV Boxoffice 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115911
-#EXTINF:-1,DMTV Boxoffice 8
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115912
-#EXTINF:-1,DMTV Boxoffice 9
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115913
-#EXTINF:-1,DMTV Boxoffice 10
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115914
-#EXTINF:-1,beIN La Liga 4K
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28937
-#EXTINF:-1,beIN LA LIGA FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21036
-#EXTINF:-1,beIN LA LIGA 1  HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10148
-#EXTINF:-1,beIN LA LIGA 2  HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/61586
-#EXTINF:-1,beIN LA LIGA 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/61589
-#EXTINF:-1,beIN LA LIGA 4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/118929
-#EXTINF:-1, beIN Sports ES
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/31514
-#EXTINF:-1,beIN Sports FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21034
-#EXTINF:-1,beIN Sports FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21035
-#EXTINF:-1,La Liga hd
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/638
-#EXTINF:-1,La Liga HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10107
-#EXTINF:-1,beIN LA LIGA 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8260
-#EXTINF:-1,La Liga 123 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10108
-#EXTINF:-1,M La Liga  FIBRA SOLO EVENTO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/92572
-#EXTINF:-1,M Futbol HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/670
-#EXTINF:-1,M  Liga de campeones FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10068
-#EXTINF:-1,M Liga de campeones HD1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10069
-#EXTINF:-1,M Liga de campeones HD2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10070
-#EXTINF:-1,M Liga de campeones HD3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10127
-#EXTINF:-1,M Liga de campeones HD4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10128
-#EXTINF:-1,M Liga de campeones HD5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10129
-#EXTINF:-1,M Liga de campeones HD6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10130
-#EXTINF:-1,M Liga de campeones HD7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10131
-#EXTINF:-1,M Liga de campeones HD8
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10132
-#EXTINF:-1,M DESPORTES HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10112
-#EXTINF:-1,M DESPORTES 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/122986
-#EXTINF:-1,M DESPORTES 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/122987
-#EXTINF:-1,M DESPORTES 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/122988
-#EXTINF:-1,M DEPORTES 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21019
-#EXTINF:-1,M DEPORTES 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21018
-#EXTINF:-1,M  Depo 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/662
-#EXTINF:-1,M Depo 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/661
-#EXTINF:-1,M  F1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/644
-#EXTINF:-1,DAZNT  FORMULA 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21015
-#EXTINF:-1,DAZNT FORMULA 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2598
-#EXTINF:-1,M  MotoGP HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/642
-#EXTINF:-1,M GOLF FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21013
-#EXTINF:-1,M Golf HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/657
-#EXTINF:-1,ESPORT 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10098
-#EXTINF:-1,GOL TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2594
-#EXTINF:-1,Barca TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/672
-#EXTINF:-1,BETIS CF TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/92651
-#EXTINF:-1,Real Madrid TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/673
-#EXTINF:-1,SEVILLA CF TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/92649
-#EXTINF:-1,TELE DEPORTE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2604
-#EXTINF:-1,TELEDEPORTE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10124
-#EXTINF:-1,EVENTO 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/89840
-#EXTINF:-1,EVENTO 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/89843
-#EXTINF:-1,Baby TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2585
-#EXTINF:-1,Boing HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10089
-#EXTINF:-1,Canal Panda HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/659
-#EXTINF:-1,Clan TVE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2595
-#EXTINF:-1,Disney +
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10113
-#EXTINF:-1,Disney Channel FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21028
-#EXTINF:-1,Disney Channel HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/678
-#EXTINF:-1,Disney Junior
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/649
-#EXTINF:-1,Disney XD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/648
-#EXTINF:-1,DreamWorks
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116320
-#EXTINF:-1,Nick Junior
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/686
-#EXTINF:-1,NIckelodeon FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21005
-#EXTINF:-1,Nickelodeon HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/679
-#EXTINF:-1,Nat Geo WILD FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21007
-#EXTINF:-1,Nat Geo WILD HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/674
-#EXTINF:-1,National Geographic FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21006
-#EXTINF:-1,National Geographic
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/647
-#EXTINF:-1,Discovery Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/675
-#EXTINF:-1,HISTORIA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2596
-#EXTINF:-1,BLAZE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10088
-#EXTINF:-1,Canal Cocina HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2593
-#EXTINF:-1,Canal Decasa
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12478
-#EXTINF:-1,Caza y Pesca FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21032
-#EXTINF:-1,Caza y Pesca HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/676
-#EXTINF:-1,CAZAVISION TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/92650
-#EXTINF:-1,IBERALIA TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2612
-#EXTINF:-1,ODISEA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10120
-#EXTINF:-1,VIAJAR FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/20999
-#EXTINF:-1,VIAJAR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2617
-#EXTINF:-1,M  AcciónHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/665
-#EXTINF:-1,M  Estrenos HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/663
-#EXTINF:-1,M Estrenos HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/664
-#EXTINF:-1,M Crimen HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116939
-#EXTINF:-1,M Comedia HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/668
-#EXTINF:-1,M DCine HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/660
-#EXTINF:-1,M Drama HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10114
-#EXTINF:-1,M Series HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10116
-#EXTINF:-1,M Accion FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21021
-#EXTINF:-1,M ComediaFHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21020
-#EXTINF:-1,M Drama FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21017
-#EXTINF:-1,M Estrenos FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21016
-#EXTINF:-1,M Series FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21010
-#EXTINF:-1,M Seriesmania FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21009
-#EXTINF:-1,M Cine Doc and Roll HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10111
-#EXTINF:-1,Movistar Seriesmania HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10117
-#EXTINF:-1,0 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/11032
-#EXTINF:-1,Calle 13
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/641
-#EXTINF:-1,Calle 13 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21033
-#EXTINF:-1,Cine Espaæol HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2591
-#EXTINF:-1,Cine Espaæol FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21008
-#EXTINF:-1,Comedy Central
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/687
-#EXTINF:-1,Comedy Central FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21031
-#EXTINF:-1,Cosmo
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2708
-#EXTINF:-1,Cosmo FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21030
-#EXTINF:-1,Ubeat HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116946
-#EXTINF:-1,VH1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116947
-#EXTINF:-1,Fox HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/646
-#EXTINF:-1,Fox  FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21026
-#EXTINF:-1,Fox Life HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/645
-#EXTINF:-1,Fox Life  FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21025
-#EXTINF:-1,Canal+ Series XStra
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/658
-#EXTINF:-1,DARK HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116941
-#EXTINF:-1,Factoría de Ficción HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116944
-#EXTINF:-1,Hollywood HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2597
-#EXTINF:-1,Hollywood FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21024
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38400
+#EXTINF:-1,AXN WHITE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38401
+#EXTINF:-1,AXN WHITE HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38402
+#EXTINF:-1,TNT
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38403
 #EXTINF:-1,TNT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/666
-#EXTINF:-1,TNT FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21001
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38404
+#EXTINF:-1,COMEDY CENTRAL
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38405
+#EXTINF:-1,COMEDY CENTRAL HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38406
+#EXTINF:-1,CALLE 13
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38407
+#EXTINF:-1,CALLE 13 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38408
+#EXTINF:-1,COSMO
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38409
+#EXTINF:-1,COSMO HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38410
+#EXTINF:-1,AMC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38411
+#EXTINF:-1,AMC HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38412
+#EXTINF:-1,SYFY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38413
+#EXTINF:-1,SYFY HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38414
+#EXTINF:-1,FDF
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38415
+#EXTINF:-1,NEOX
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38416
+#EXTINF:-1,SOMOS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38417
+#EXTINF:-1,XTRM
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38418
+#EXTINF:-1,ENERGY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38419
+#EXTINF:-1,C+ ESTRENOS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38421
+#EXTINF:-1,M.ESTRENOS HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38422
+#EXTINF:-1,Movistar Cine Doc & Roll HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38423
+#EXTINF:-1,DISNEY CH.
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38424
+#EXTINF:-1,DISNEY CH HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38425
+#EXTINF:-1,C+ ACCION HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38426
+#EXTINF:-1,M.COMEDIA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38427
+#EXTINF:-1,MOVISTAR DRAMA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38428
+#EXTINF:-1,DCINEPANOL
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38429
+#EXTINF:-1,C+ DCINE HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38430
 #EXTINF:-1,TCM HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2602
-#EXTINF:-1,TCM FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/21003
-#EXTINF:-1,Syfy HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2608
-#EXTINF:-1,Paramaount Channel HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10121
-#EXTINF:-1,Paramount Channel HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2601
-#EXTINF:-1,M Alquiler 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/680
-#EXTINF:-1,M Alquiler 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/681
-#EXTINF:-1,M Alquiler 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/682
-#EXTINF:-1,M Alquiler 4 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/683
-#EXTINF:-1,M Alquiler 5 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/684
-#EXTINF:-1,M Alquiler 6 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/685
-#EXTINF:-1,M Alquiler 7 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57894
-#EXTINF:-1,M Alquiler 8 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57895
-#EXTINF:-1,M Alquiler 9 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57896
-#EXTINF:-1,M Alquiler 10 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57897
-#EXTINF:-1,M Alquiler 11 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57898
-#EXTINF:-1,M Alquiler 12 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57899
-#EXTINF:-1,M Alquiler 13 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57900
-#EXTINF:-1,M Alquiler 14 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57901
-#EXTINF:-1,M Alquiler 15 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57902
-#EXTINF:-1,M Alquiler 16 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57903
-#EXTINF:-1,M Alquiler 17 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/57904
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38431
+#EXTINF:-1,HOLLYWOOD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38432
+#EXTINF:-1,Hollywood HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38433
+#EXTINF:-1,PARAMOUNT
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38434
+#EXTINF:-1,M. XTRA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38435
+#EXTINF:-1,M. LIGA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38437
+#EXTINF:-1,LALIGATV BAR
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38438
+#EXTINF:-1,LA LIGA TV BAR HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38439
+#EXTINF:-1,M Liga de Campeones HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38440
+#EXTINF:-1,M. Liga de campeones 1 HD (Solo Eventos)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38441
+#EXTINF:-1,M. Liga de campeones 2  HD (Solo Eventos)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38442
+#EXTINF:-1,M. Liga de campeones 3 HD (Solo Eventos)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38443
+#EXTINF:-1,M. Liga de campeones 4 HD (Solo Eventos)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38444
+#EXTINF:-1,M. Liga de campeones 5 HD (Solo Eventos)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38445
+#EXTINF:-1,M. Liga de campeones 6 HD (Solo Eventos)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38446
+#EXTINF:-1,M. Liga de campeones 7 HD (Solo Eventos)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38447
+#EXTINF:-1,M. Liga de campeones 8 HD (Solo Eventos)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38448
+#EXTINF:-1,TELEDEPORTE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38450
+#EXTINF:-1,M. DEPORTE 1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38451
+#EXTINF:-1,M. DEPORTE 2 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38452
+#EXTINF:-1,Movistar+ F1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38453
+#EXTINF:-1,M. GOLF HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38454
+#EXTINF:-1,BARCA TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38455
+#EXTINF:-1,Realmadrid TV HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38456
+#EXTINF:-1,mega
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38457
+#EXTINF:-1,C+ FUTBOL HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38458
+#EXTINF:-1,GOL TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38459
+#EXTINF:-1,M.FORMULA1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38460
+#EXTINF:-1,M.Liga De Campeones HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38463
+#EXTINF:-1,M.MOTOGP HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38464
+#EXTINF:-1,M.FORMULA 1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38465
+#EXTINF:-1,tdp HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38466
+#EXTINF:-1,DAZN 1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38469
+#EXTINF:-1,DAZN 2
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38470
+#EXTINF:-1,NAT GEO HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38475
+#EXTINF:-1,NAT GEOGRAPHIC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38476
+#EXTINF:-1,NG WILD HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38477
+#EXTINF:-1,HISTORIA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38478
+#EXTINF:-1,DISCOVERY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38479
+#EXTINF:-1,DMAX
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38480
+#EXTINF:-1,BLAZE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38482
+#EXTINF:-1,VIAJAR
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38483
+#EXTINF:-1,VIAJAR HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38484
+#EXTINF:-1,CRIMEN+INVES
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38485
+#EXTINF:-1,CANAL COCINA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38487
+#EXTINF:-1,CANAL DE CASA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38488
+#EXTINF:-1,Be Mad
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38489
+#EXTINF:-1,Be Mad tv HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38490
+#EXTINF:-1,CANAL ORBE21
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38491
+#EXTINF:-1,SUNDANCE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38492
+#EXTINF:-1,DKISS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38493
+#EXTINF:-1,CAZA Y PESCA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38494
+#EXTINF:-1,CAZA y PESCA HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38495
+#EXTINF:-1,IBERALIA TV FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38496
+#EXTINF:-1,Toros
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38497
+#EXTINF:-1,C+ TOROS HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38498
+#EXTINF:-1,NOVA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38499
+#EXTINF:-1,DIVINITY
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38500
+#EXTINF:-1,TEN
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38501
+#EXTINF:-1,BOING
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38503
+#EXTINF:-1,CLAN  TVE
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38504
+#EXTINF:-1,Clan HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38505
+#EXTINF:-1,BABY TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38506
+#EXTINF:-1,NICK JR
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38507
+#EXTINF:-1,CANAL PANDA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38508
+#EXTINF:-1,NICKELODEON
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38509
+#EXTINF:-1,NICKELODEON HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38510
+#EXTINF:-1,DISNEY JUNIOR
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38511
+#EXTINF:-1,DISNEY XD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38512
+#EXTINF:-1,MTV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38514
+#EXTINF:-1,MEZZO
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38515
+#EXTINF:-1,MEZZO LIVE HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38516
+#EXTINF:-1,CLASSICA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38517
+#EXTINF:-1,CANAL SUR A.
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38519
+#EXTINF:-1,Aragon TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38520
+#EXTINF:-1,TV GALICIA
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38521
+#EXTINF:-1,ANDALUCIA TV
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38522
+#EXTINF:-1,7RM HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38523
+#EXTINF:-1,24 HORAS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38524
+#EXTINF:-1,VAMOS HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38525
+#EXTINF:-1,A&E
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38526
+#EXTINF:-1,Alquiler 1
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45844
+#EXTINF:-1,Alquiler 2
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45845
+#EXTINF:-1,Alquiler 3
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45846
+#EXTINF:-1,Alquiler 4
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45847
+#EXTINF:-1,Alquiler 5
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45848
+#EXTINF:-1,Alquiler 6
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45849
+#EXTINF:-1,Alquiler 7
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45850
+#EXTINF:-1,Alquiler 8
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45851
+#EXTINF:-1,Alquiler 9
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45852
+#EXTINF:-1,Alquiler 10
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/45853

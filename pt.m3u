@@ -1,225 +1,393 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9093
-#EXTINF:-1,RTP 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9092
-#EXTINF:-1,RTP 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9091
-#EXTINF:-1,RTP Africa
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9089
-#EXTINF:-1,RTP Memoria
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9086
-#EXTINF:-1,TVI
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9052
-#EXTINF:-1,Tvi 24
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9051
-#EXTINF:-1,TVI Reality
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9049
-#EXTINF:-1,TVI FICCAO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/58414
-#EXTINF:-1,Sic HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9085
-#EXTINF:-1,SIC Radical
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9082
+#EXTINF:-1,RTP 1 ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84534
+#EXTINF:-1,RTP 1 HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84535
+#EXTINF:-1,RTP 1 FHD ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84536
+#EXTINF:-1,RTP 2 ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84537
+#EXTINF:-1,RTP 2 HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84538
+#EXTINF:-1,RTP 2 FHD ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84539
+#EXTINF:-1,RTP 3  ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84540
+#EXTINF:-1,RTP 3 HD HEVC
+http://albauser.net:2235/antree-iptv/exchange/84541
+#EXTINF:-1,EstudoEmCasa
+http://albauser.net:2235/antree-iptv/exchange/84542
+#EXTINF:-1,RTP AFRICA
+http://albauser.net:2235/antree-iptv/exchange/84543
+#EXTINF:-1,RTP MADEIRA
+http://albauser.net:2235/antree-iptv/exchange/84544
+#EXTINF:-1,RTP MEMÓRIA
+http://albauser.net:2235/antree-iptv/exchange/84545
+#EXTINF:-1,PORTO CANAL FHD
+http://albauser.net:2235/antree-iptv/exchange/84546
+#EXTINF:-1,PORTO CANAL
+http://albauser.net:2235/antree-iptv/exchange/84547
+#EXTINF:-1,SIC ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84548
+#EXTINF:-1,SIC HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84549
+#EXTINF:-1,SIC FHD
+http://albauser.net:2235/antree-iptv/exchange/84550
+#EXTINF:-1,SIC Caras HEVC
+http://albauser.net:2235/antree-iptv/exchange/84551
+#EXTINF:-1,SIC K
+http://albauser.net:2235/antree-iptv/exchange/84552
+#EXTINF:-1,SIC Radical HEVC
+http://albauser.net:2235/antree-iptv/exchange/84553
+#EXTINF:-1,SIC MULHER HEVC
+http://albauser.net:2235/antree-iptv/exchange/84554
 #EXTINF:-1,SIC NOTICIAS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9083
-#EXTINF:-1,SIC Mulher
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9084
-#EXTINF:-1,CMTV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9136
-#EXTINF:-1,SYFY
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9070
-#EXTINF:-1,AXN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9149
-#EXTINF:-1,AXN WHITE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9148
-#EXTINF:-1,AXN BLACK
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9150
-#EXTINF:-1,E ENTERTAINMENT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9130
-#EXTINF:-1,TCV CABO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116510
-#EXTINF:-1,FOX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9116
-#EXTINF:-1,FOX COMEDY
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9118
-#EXTINF:-1,FOX CRIME
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9117
-#EXTINF:-1,Fox Life HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9115
-#EXTINF:-1,FOX MOVIES
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9114
-#EXTINF:-1,TV Cine Emotion FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9060
-#EXTINF:-1,TV Cine Emotion FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9058
-#EXTINF:-1,TV Cine Top FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9057
-#EXTINF:-1,TV Cine Action FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9056
-#EXTINF:-1,CINE MUNDO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9137
-#EXTINF:-1,Hollywood FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9112
-#EXTINF:-1,TV Series FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9061
-#EXTINF:-1,A Bola TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9153
-#EXTINF:-1,Canal NOS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9141
-#EXTINF:-1,Canal Q
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9139
-#EXTINF:-1,Cano Nova
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9142
-#EXTINF:-1,RTP Acores
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9090
-#EXTINF:-1,RTP Madeira
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9087
-#EXTINF:-1,TVI FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9050
-#EXTINF:-1,SPORT TV +   HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9081
-#EXTINF:-1,Sport TV 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9079
-#EXTINF:-1,Sport TV 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9080
-#EXTINF:-1,Sport TV 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9077
-#EXTINF:-1,Sport TV 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9078
-#EXTINF:-1,Sport TV 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9075
-#EXTINF:-1,Sport TV 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9076
-#EXTINF:-1,Sport TV 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9074
-#EXTINF:-1,Sport TV 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9072
-#EXTINF:-1,Eleven Sports 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9129
-#EXTINF:-1,Eleven Sports 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9128
-#EXTINF:-1,Eleven Sports 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9127
-#EXTINF:-1,Eleven Sports 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9126
-#EXTINF:-1,Eleven Sports 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9125
-#EXTINF:-1,Eleven Sports 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9124
-#EXTINF:-1,BENFICA TV 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9147
-#EXTINF:-1,Porto Canal
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9095
-#EXTINF:-1,Real Madrid TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9094
-#EXTINF:-1,Sporting TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9071
-#EXTINF:-1,canal 11
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/89875
-#EXTINF:-1,Kombat Sport
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9110
-#EXTINF:-1,Motorvision
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9106
-#EXTINF:-1,MOTORS TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9107
-#EXTINF:-1,NBA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9099
-#EXTINF:-1,Toros TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9068
-#EXTINF:-1,PFC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9096
-#EXTINF:-1,MTV Dance
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9105
-#EXTINF:-1,MTV Hits
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9104
-#EXTINF:-1,MTV Portugal
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9103
-#EXTINF:-1,MTV Rocks
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9102
-#EXTINF:-1,VH1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9048
-#EXTINF:-1,VH1 Classic
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9047
-#EXTINF:-1,MCM Pop
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9109
-#EXTINF:-1,Afro Music
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9151
-#EXTINF:-1,Trace Urban
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9067
-#EXTINF:-1,24 Kitchen FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9154
+http://albauser.net:2235/antree-iptv/exchange/84555
+#EXTINF:-1,SIC NOTICIAS HEVC
+http://albauser.net:2235/antree-iptv/exchange/84556
+#EXTINF:-1,TVI ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84557
+#EXTINF:-1,TVI FHD ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84558
+#EXTINF:-1,TVI 24
+http://albauser.net:2235/antree-iptv/exchange/84559
+#EXTINF:-1,TVI Fic
+http://albauser.net:2235/antree-iptv/exchange/84560
+#EXTINF:-1,Big Brother
+http://albauser.net:2235/antree-iptv/exchange/84561
+#EXTINF:-1,TVI REALITY
+http://albauser.net:2235/antree-iptv/exchange/84562
+#EXTINF:-1,TVI Reality (A Quinta)
+http://albauser.net:2235/antree-iptv/exchange/84563
+#EXTINF:-1,TVI REALITY CAMARA 1
+http://albauser.net:2235/antree-iptv/exchange/84564
+#EXTINF:-1,CM TV HEVC
+http://albauser.net:2235/antree-iptv/exchange/84565
+#EXTINF:-1,CMTV HEVC
+http://albauser.net:2235/antree-iptv/exchange/84566
+#EXTINF:-1,CNN
+http://albauser.net:2235/antree-iptv/exchange/84567
+#EXTINF:-1,A BOLA TV HEVC
+http://albauser.net:2235/antree-iptv/exchange/84568
+#EXTINF:-1,A Bola TV HEVC
+http://albauser.net:2235/antree-iptv/exchange/84569
+#EXTINF:-1,ARTV
+http://albauser.net:2235/antree-iptv/exchange/84570
+#EXTINF:-1,CANAL Q
+http://albauser.net:2235/antree-iptv/exchange/84571
 #EXTINF:-1,TLC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9069
-#EXTINF:-1,Cacavision
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9143
-#EXTINF:-1,Historia
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9113
-#EXTINF:-1,Caca e Pesca
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9144
-#EXTINF:-1,Discovery Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9135
-#EXTINF:-1,Travel Channel FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9066
-#EXTINF:-1,NAT GEO HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9101
-#EXTINF:-1,Nat Geo Wild
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9100
-#EXTINF:-1,Mezzo
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9108
-#EXTINF:-1,Discovery FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9134
-#EXTINF:-1,ODISSEIA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9097
-#EXTINF:-1,TV Fatima
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9065
+http://albauser.net:2235/antree-iptv/exchange/84572
+#EXTINF:-1,TOROS TV
+http://albauser.net:2235/antree-iptv/exchange/84573
+#EXTINF:-1,TV GLOBO HEVC
+http://albauser.net:2235/antree-iptv/exchange/84574
+#EXTINF:-1,TV Globo Now
+http://albauser.net:2235/antree-iptv/exchange/84575
+#EXTINF:-1,NOS Studios ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84577
+#EXTINF:-1,NOS Studios HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84578
+#EXTINF:-1,NOS Studios FHD ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84579
+#EXTINF:-1,TVCine TOP ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84580
+#EXTINF:-1,TVCine TOP HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84581
+#EXTINF:-1,TVCine TOP HEVC
+http://albauser.net:2235/antree-iptv/exchange/84582
+#EXTINF:-1,TVCine EDITION ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84583
+#EXTINF:-1,TVCine EDITION HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84584
+#EXTINF:-1,TVCine EDITION FHD
+http://albauser.net:2235/antree-iptv/exchange/84585
+#EXTINF:-1,TVCine EMOTION ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84586
+#EXTINF:-1,TVCine EMOTION HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84587
+#EXTINF:-1,TVCine EMOTION FHD
+http://albauser.net:2235/antree-iptv/exchange/84588
+#EXTINF:-1,TVCine ACTION ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84589
+#EXTINF:-1,TVCine ACTION HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84590
+#EXTINF:-1,TVCine ACTION HEVC
+http://albauser.net:2235/antree-iptv/exchange/84591
+#EXTINF:-1,FOX HD HEVC
+http://albauser.net:2235/antree-iptv/exchange/84592
+#EXTINF:-1,FOX HEVC
+http://albauser.net:2235/antree-iptv/exchange/84593
+#EXTINF:-1,FOX CRIME  HEVC
+http://albauser.net:2235/antree-iptv/exchange/84594
+#EXTINF:-1,FOX CRIME FHD
+http://albauser.net:2235/antree-iptv/exchange/84595
+#EXTINF:-1,FOX MOVIES HEVC
+http://albauser.net:2235/antree-iptv/exchange/84596
+#EXTINF:-1,FOX MOVIES HD
+http://albauser.net:2235/antree-iptv/exchange/84597
+#EXTINF:-1,Fox Comedy HEVC
+http://albauser.net:2235/antree-iptv/exchange/84598
+#EXTINF:-1,FOX LIFE HEVC
+http://albauser.net:2235/antree-iptv/exchange/84599
+#EXTINF:-1,FOX LIFE FHD
+http://albauser.net:2235/antree-iptv/exchange/84600
+#EXTINF:-1,AMC HEVC
+http://albauser.net:2235/antree-iptv/exchange/84601
+#EXTINF:-1,AMC FHD HEVC
+http://albauser.net:2235/antree-iptv/exchange/84602
+#EXTINF:-1,AXN HEVC
+http://albauser.net:2235/antree-iptv/exchange/84603
+#EXTINF:-1,AXN FHD
+http://albauser.net:2235/antree-iptv/exchange/84604
+#EXTINF:-1,AXN MOVIES HEVC
+http://albauser.net:2235/antree-iptv/exchange/84605
+#EXTINF:-1,AXN MOVIES FHD
+http://albauser.net:2235/antree-iptv/exchange/84606
+#EXTINF:-1,AXN WHITE HEVC
+http://albauser.net:2235/antree-iptv/exchange/84607
+#EXTINF:-1,AXN WHITE FHD
+http://albauser.net:2235/antree-iptv/exchange/84608
+#EXTINF:-1,CINEMUNDO HEVC
+http://albauser.net:2235/antree-iptv/exchange/84609
+#EXTINF:-1,HOLLYWOOD HEVC
+http://albauser.net:2235/antree-iptv/exchange/84610
+#EXTINF:-1,HOLLYWOOD FHD
+http://albauser.net:2235/antree-iptv/exchange/84611
+#EXTINF:-1,SYFY HEVC
+http://albauser.net:2235/antree-iptv/exchange/84612
+#EXTINF:-1,Canal NOS ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84613
+#EXTINF:-1,SYFY HD
+http://albauser.net:2235/antree-iptv/exchange/84614
+#EXTINF:-1,HARRY POTTER KINGRESHARE 24/24
+http://albauser.net:2235/antree-iptv/exchange/84615
+#EXTINF:-1,FERNANDO ROCHA CHANNELS
+http://albauser.net:2235/antree-iptv/exchange/84616
+#EXTINF:-1,ENERGY CINEMA KINGRESHARE
+http://albauser.net:2235/antree-iptv/exchange/84617
+#EXTINF:-1,MARVEL II  (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84618
+#EXTINF:-1,DC TV (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84619
+#EXTINF:-1,NETFLIX (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84620
+#EXTINF:-1,FILMES ACÇÃO (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84621
+#EXTINF:-1,FILMES CLÁSSICOS (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84622
+#EXTINF:-1,FILMES WESTERN (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84623
+#EXTINF:-1,ROBOT MOVIES (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84624
+#EXTINF:-1,Filmes Thriller/Terror
+http://albauser.net:2235/antree-iptv/exchange/84625
+#EXTINF:-1,RICK AND MORTY (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84626
+#EXTINF:-1,24/7 STARWARS (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84627
+#EXTINF:-1,APANHADOS (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84628
+#EXTINF:-1,APANHADOS 2 (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84629
+#EXTINF:-1,PORTUGAL A RIR (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84630
+#EXTINF:-1,DRAGON BALL SUPER (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84631
+#EXTINF:-1,FILMES ANIMAÇÃO  (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84632
+#EXTINF:-1,VINGADORES ANIMAÇÃO (exclusive)
+http://albauser.net:2235/antree-iptv/exchange/84633
+#EXTINF:-1,CANAL 11
+http://albauser.net:2235/antree-iptv/exchange/84635
+#EXTINF:-1,CANAL 11 HD
+http://albauser.net:2235/antree-iptv/exchange/84636
+#EXTINF:-1,CANAL 11 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84637
+#EXTINF:-1,SPORT TV+
+http://albauser.net:2235/antree-iptv/exchange/84638
+#EXTINF:-1,SPORT TV+ HD HEVC
+http://albauser.net:2235/antree-iptv/exchange/84639
+#EXTINF:-1,SPORT TV+  FHD ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84640
+#EXTINF:-1,SPORT TV 1 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84641
+#EXTINF:-1,SPORT TV 1 (extra1) HEVC
+http://albauser.net:2235/antree-iptv/exchange/84642
+#EXTINF:-1,SPORT TV 1 (extra2)
+http://albauser.net:2235/antree-iptv/exchange/84643
+#EXTINF:-1,SPORT TV 1 HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84644
+#EXTINF:-1,SPORT TV 1 FHD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84645
+#EXTINF:-1,SPORT TV 1 FHD ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84646
+#EXTINF:-1,SPORT TV 1 FHD (extra1)
+http://albauser.net:2235/antree-iptv/exchange/84647
+#EXTINF:-1,SPORT TV 2 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84648
+#EXTINF:-1,SPORT TV 2  (extra1)
+http://albauser.net:2235/antree-iptv/exchange/84649
+#EXTINF:-1,SPORT TV 2 HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84650
+#EXTINF:-1,SPORT TV 2 FHD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84651
+#EXTINF:-1,SPORT TV 2 FHD ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84652
+#EXTINF:-1,SPORT TV 2 FHD (extra1) ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84653
+#EXTINF:-1,SPORT TV 3 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84654
+#EXTINF:-1,SPORT TV 3 HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84655
+#EXTINF:-1,SPORT TV 3 FHD HEVC
+http://albauser.net:2235/antree-iptv/exchange/84656
+#EXTINF:-1,SPORT TV 4 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84657
+#EXTINF:-1,SPORT TV 4 HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84658
+#EXTINF:-1,SPORT TV 4 FHD
+http://albauser.net:2235/antree-iptv/exchange/84659
+#EXTINF:-1,SPORT TV 5 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84660
+#EXTINF:-1,SPORT TV 5 HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84661
+#EXTINF:-1,SPORT TV 5 FHD
+http://albauser.net:2235/antree-iptv/exchange/84662
+#EXTINF:-1,SPORT TV NBA ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84663
+#EXTINF:-1,SPORT TV NBA HD ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84664
+#EXTINF:-1,SPORT TV NBA HEVC
+http://albauser.net:2235/antree-iptv/exchange/84665
+#EXTINF:-1,Eleven Sport 1 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84666
+#EXTINF:-1,Eleven Sport 1 HD
+http://albauser.net:2235/antree-iptv/exchange/84667
+#EXTINF:-1,Eleven Sports 1 FHD VIP
+http://albauser.net:2235/antree-iptv/exchange/84668
+#EXTINF:-1,Eleven Sport 2 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84669
+#EXTINF:-1,Eleven Sport 2 FHD
+http://albauser.net:2235/antree-iptv/exchange/84670
+#EXTINF:-1,Eleven Sports 2 FHD VIP
+http://albauser.net:2235/antree-iptv/exchange/84671
+#EXTINF:-1,Eleven Sport 3 HEVC
+http://albauser.net:2235/antree-iptv/exchange/84672
+#EXTINF:-1,Eleven Sport 3 HD
+http://albauser.net:2235/antree-iptv/exchange/84673
+#EXTINF:-1,Eleven Sports 3 FHD VIP
+http://albauser.net:2235/antree-iptv/exchange/84674
+#EXTINF:-1,Eleven Sports 4
+http://albauser.net:2235/antree-iptv/exchange/84675
+#EXTINF:-1,Eleven Sports 4 FHD
+http://albauser.net:2235/antree-iptv/exchange/84676
+#EXTINF:-1,Eleven Sport 5 HD
+http://albauser.net:2235/antree-iptv/exchange/84677
+#EXTINF:-1,Eleven Sports 5 FHD VIP
+http://albauser.net:2235/antree-iptv/exchange/84678
+#EXTINF:-1,Eleven Sport 6
+http://albauser.net:2235/antree-iptv/exchange/84679
+#EXTINF:-1,Eleven Sport 6 HD
+http://albauser.net:2235/antree-iptv/exchange/84680
+#EXTINF:-1,Eleven Sports 6 FHD VIP
+http://albauser.net:2235/antree-iptv/exchange/84681
+#EXTINF:-1,SPORTING TV
+http://albauser.net:2235/antree-iptv/exchange/84682
+#EXTINF:-1,BENFICA TV HEVC
+http://albauser.net:2235/antree-iptv/exchange/84683
+#EXTINF:-1,BENFICA TV HD
+http://albauser.net:2235/antree-iptv/exchange/84684
+#EXTINF:-1,BENFICA TV FHD (NOS)
+http://albauser.net:2235/antree-iptv/exchange/84685
+#EXTINF:-1,BENFICA TV FHD (MEO)
+http://albauser.net:2235/antree-iptv/exchange/84686
+#EXTINF:-1,BENFICA TV FHD
+http://albauser.net:2235/antree-iptv/exchange/84687
+#EXTINF:-1,BENFICA TV UHD
+http://albauser.net:2235/antree-iptv/exchange/84688
+#EXTINF:-1,Motorvision
+http://albauser.net:2235/antree-iptv/exchange/84689
+#EXTINF:-1,PFC
+http://albauser.net:2235/antree-iptv/exchange/84693
+#EXTINF:-1,ZAP VIVA HEVC
+http://albauser.net:2235/antree-iptv/exchange/84695
+#EXTINF:-1,VH1
+http://albauser.net:2235/antree-iptv/exchange/84696
+#EXTINF:-1,Trace Urban
+http://albauser.net:2235/antree-iptv/exchange/84697
+#EXTINF:-1,VH1 CLASSIC
+http://albauser.net:2235/antree-iptv/exchange/84698
+#EXTINF:-1,MTV PORTUGAL
+http://albauser.net:2235/antree-iptv/exchange/84699
+#EXTINF:-1,MCM POP
+http://albauser.net:2235/antree-iptv/exchange/84700
+#EXTINF:-1,AFRO MUSIC
+http://albauser.net:2235/antree-iptv/exchange/84701
+#EXTINF:-1,Kuriakos TV
+http://albauser.net:2235/antree-iptv/exchange/84702
+#EXTINF:-1,E! Entertainment HEVC
+http://albauser.net:2235/antree-iptv/exchange/84703
+#EXTINF:-1,FUEL TV
+http://albauser.net:2235/antree-iptv/exchange/84704
+#EXTINF:-1,CBS REALITY
+http://albauser.net:2235/antree-iptv/exchange/84705
+#EXTINF:-1,Lolly Kids
+http://albauser.net:2235/antree-iptv/exchange/84707
+#EXTINF:-1,NICK JR
+http://albauser.net:2235/antree-iptv/exchange/84708
+#EXTINF:-1,BABY TV
+http://albauser.net:2235/antree-iptv/exchange/84709
 #EXTINF:-1,NICKELODEON
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9098
-#EXTINF:-1,Canal Panda HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9140
-#EXTINF:-1,Disney Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9133
-#EXTINF:-1,Disney Junior
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9132
-#EXTINF:-1,DISNEY JUNIOR (test)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9131
+http://albauser.net:2235/antree-iptv/exchange/84710
+#EXTINF:-1,CARTOON  NETWORK
+http://albauser.net:2235/antree-iptv/exchange/84711
+#EXTINF:-1,CANAL PANDA
+http://albauser.net:2235/antree-iptv/exchange/84712
 #EXTINF:-1,Biggs
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9146
-#EXTINF:-1,Bloomberg
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9145
-#EXTINF:-1,Jim Jam
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9111
-#EXTINF:-1,TV Globo HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9063
-#EXTINF:-1,TV Globo
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9064
-#EXTINF:-1,TV Globo Premium
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9046
-#EXTINF:-1,TV RECORD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9062
-#EXTINF:-1,TVE Internacional
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9053
-#EXTINF:-1,TVE 24h
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9054
-#EXTINF:-1,RTP INFORMACAO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9088
-#EXTINF:-1,DMTV Boxoffice 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115477
-#EXTINF:-1,DMTV Boxoffice 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115478
-#EXTINF:-1,DMTV Boxoffice 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115479
-#EXTINF:-1,DMTV Boxoffice 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115480
-#EXTINF:-1,DMTV Boxoffice 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115481
-#EXTINF:-1,DMTV Boxoffice 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115482
-#EXTINF:-1,DMTV Boxoffice 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115483
-#EXTINF:-1,DMTV Boxoffice 8
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115484
-#EXTINF:-1,DMTV Boxoffice 9
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115485
-#EXTINF:-1,DMTV Boxoffice 10
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115486
+http://albauser.net:2235/antree-iptv/exchange/84713
+#EXTINF:-1,DISNEY JUNIOR
+http://albauser.net:2235/antree-iptv/exchange/84714
+#EXTINF:-1,DISNEY CHANNEL
+http://albauser.net:2235/antree-iptv/exchange/84715
+#EXTINF:-1,JIM JAM
+http://albauser.net:2235/antree-iptv/exchange/84716
+#EXTINF:-1,BLAZE TV
+http://albauser.net:2235/antree-iptv/exchange/84718
+#EXTINF:-1,BLAZE HEVC
+http://albauser.net:2235/antree-iptv/exchange/84719
+#EXTINF:-1,Discovery Channel
+http://albauser.net:2235/antree-iptv/exchange/84720
+#EXTINF:-1,Discovery Channel HEVC
+http://albauser.net:2235/antree-iptv/exchange/84721
+#EXTINF:-1,INVESTIGATION DISCOVERY HEVC
+http://albauser.net:2235/antree-iptv/exchange/84722
+#EXTINF:-1, Historia HEVC
+http://albauser.net:2235/antree-iptv/exchange/84723
+#EXTINF:-1,CAZA Y PESCA
+http://albauser.net:2235/antree-iptv/exchange/84724
+#EXTINF:-1,Casa e Cozinha HEVC
+http://albauser.net:2235/antree-iptv/exchange/84725
+#EXTINF:-1,NAT GEO HEVC
+http://albauser.net:2235/antree-iptv/exchange/84726
+#EXTINF:-1,NAT GEO WILD HEVC
+http://albauser.net:2235/antree-iptv/exchange/84727
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://albauser.net:2235/antree-iptv/exchange/84728
+#EXTINF:-1,NATIONAL GEOGRAPHIC HEVC
+http://albauser.net:2235/antree-iptv/exchange/84729
+#EXTINF:-1,CRIME INVISTIGATION
+http://albauser.net:2235/antree-iptv/exchange/84730
+#EXTINF:-1,Travel Channel HEVC
+http://albauser.net:2235/antree-iptv/exchange/84731
+#EXTINF:-1,CaĿavision
+http://albauser.net:2235/antree-iptv/exchange/84732
+#EXTINF:-1,TV Galicia
+http://albauser.net:2235/antree-iptv/exchange/84733
+#EXTINF:-1, ODISSEIA HEVC
+http://albauser.net:2235/antree-iptv/exchange/84734
+#EXTINF:-1,24 Kitchen ʰᵉᵛᶜ
+http://albauser.net:2235/antree-iptv/exchange/84735
+#EXTINF:-1,24 Kitchen FHD ʳᵃʷ
+http://albauser.net:2235/antree-iptv/exchange/84736
+#EXTINF:-1,TVI FICÇAO HEVC
+http://albauser.net:2235/antree-iptv/exchange/84776
