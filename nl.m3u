@@ -1,277 +1,137 @@
 #EXTM3U
-#EXTINF:-1,NPO 1
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305404
-#EXTINF:-1,NPO 2
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305405
-#EXTINF:-1,NPO 3
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305406
-#EXTINF:-1,NPO 101 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305407
-#EXTINF:-1,NPO 1 Extra HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305408
-#EXTINF:-1,NPO 2 Extra HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305409
-#EXTINF:-1,RTL 4
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305410
+#EXTINF:-1,NPO 1 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/208.ts
+#EXTINF:-1,NPO 2 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/209.ts
+#EXTINF:-1,NPO 3 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/210.ts
+#EXTINF:-1,RTL 4 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/211.ts
 #EXTINF:-1,RTL 5 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305411
-#EXTINF:-1,SBS 9 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305412
-#EXTINF:-1,Net 5
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305413
-#EXTINF:-1,Veronica HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305414
-#EXTINF:-1,RTL Z
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305415
-#EXTINF:-1,NPO Best Zapp Xtra
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305416
-#EXTINF:-1,NPO Nieuws
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305417
-#EXTINF:-1,Comedy Central HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305418
-#EXTINF:-1,Nickelodeon HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305419
-#EXTINF:-1,Fox HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305420
-#EXTINF:-1,NickToons HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305422
-#EXTINF:-1,Ketnet HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305423
-#EXTINF:-1,Disney Channel HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305424
-#EXTINF:-1,Cartoon Network HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305425
-#EXTINF:-1,Boomerang HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305426
-#EXTINF:-1,RTL Telekids HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305427
-#EXTINF:-1,Nick Jr. HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305428
-#EXTINF:-1,Baby TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305429
-#EXTINF:-1,192TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305431
-#EXTINF:-1,MTV HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305432
-#EXTINF:-1,Nick Music HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305433
-#EXTINF:-1,TV Oranje
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305434
-#EXTINF:-1,100% NL TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305435
-#EXTINF:-1,Slam!TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305436
-#EXTINF:-1,Film 1 Premiere HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305438
-#EXTINF:-1,Film 1 Action HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305439
-#EXTINF:-1,Film 1 Action HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305440
-#EXTINF:-1,Film 1 Drama
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305441
-#EXTINF:-1,Film 1 Family
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305442
-#EXTINF:-1,RTL Lounge
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305444
-#EXTINF:-1,RTL Crime Hd
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305445
-#EXTINF:-1,Crime & Investigation HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305446
-#EXTINF:-1,E Entertainment HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305447
-#EXTINF:-1,TLC HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305448
-#EXTINF:-1,24 Kitchen HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305449
-#EXTINF:-1,Ons HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305450
-#EXTINF:-1,BBC Entertainment HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305451
-#EXTINF:-1,BBC First HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305452
-#EXTINF:-1,National Geographic HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305454
-#EXTINF:-1,National Geographic Wild HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305455
-#EXTINF:-1,Discovery World HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305456
-#EXTINF:-1,Animal Planet HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305457
-#EXTINF:-1,Discovery Channel HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305458
-#EXTINF:-1,Discovery Science HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305459
-#EXTINF:-1,History HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305460
-#EXTINF:-1,RTV 7 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305462
-#EXTINF:-1,RTV Utrecht HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305463
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/212.ts
 #EXTINF:-1,RTL 7 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305464
-#EXTINF:-1,RTL 8 Hd
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305465
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/214.ts
+#EXTINF:-1,RTL 8 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/215.ts
 #EXTINF:-1,SBS 6 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305467
-#EXTINF:-1,Comedy Central Extra HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305468
-#EXTINF:-1,TV Oost HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305469
-#EXTINF:-1,TV Rijnmond
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305470
-#EXTINF:-1,Omroep Brabant
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305471
-#EXTINF:-1,Omroep Flevoland
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305472
-#EXTINF:-1,Omroep Zeeland
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305473
-#EXTINF:-1,Omrop Fryslan NL
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305474
-#EXTINF:-1,Djazz tv
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305475
-#EXTINF:-1,Brava TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305476
-#EXTINF:-1,TV West
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305477
-#EXTINF:-1,NPO Cultura NL
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305478
-#EXTINF:-1,MTV Music 24 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305479
-#EXTINF:-1,MTV Live HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305480
-#EXTINF:-1,Shorts TV HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305481
-#EXTINF:-1,Family 7 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305482
-#EXTINF:-1,OUT TV HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305483
-#EXTINF:-1,VH1 Classic HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305484
-#EXTINF:-1,Mezzo HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305485
-#EXTINF:-1,CBS Reality HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305486
-#EXTINF:-1,TV Noord HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305487
-#EXTINF:-1,TV Drenthe HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305488
-#EXTINF:-1,Een HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305489
-#EXTINF:-1,Canvas HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305490
-#EXTINF:-1,Spike HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305492
-#EXTINF:-1,Xite HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305493
-#EXTINF:-1, MyZen TV
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305494
-#EXTINF:-1,UFC Network HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305495
-#EXTINF:-1,Horse & Country HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305496
-#EXTINF:-1,Pebble TV HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305497
-#EXTINF:-1,L1murg HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305498
-#EXTINF:-1,TV 538 HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305499
-#EXTINF:-1,MTV Hits
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305500
-#EXTINF:-1,iConcerts HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305501
-#EXTINF:-1,EDE TV NL
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305502
-#EXTINF:-1,Klipkar TV NL
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305503
-#EXTINF:-1,Salto 1 NL
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305504
-#EXTINF:-1,RTL 4 FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305506
-#EXTINF:-1,RTL 5 FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305507
-#EXTINF:-1,RTL 7 FHD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305508
-#EXTINF:-1,RTL 8 FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305509
-#EXTINF:-1,RTL Crime HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305510
-#EXTINF:-1,RTL Lounge Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305511
-#EXTINF:-1,RTL Z Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305512
-#EXTINF:-1,NPO 1 HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305513
-#EXTINF:-1,NPO 2 HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305514
-#EXTINF:-1,NPO 3 Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305515
-#EXTINF:-1,SBS6 HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305516
-#EXTINF:-1,Film1 Family HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305517
-#EXTINF:-1,Film1 Premiere HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305518
-#EXTINF:-1,Film1 Drama HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305519
-#EXTINF:-1,ONS HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305520
-#EXTINF:-1,Investigation Discovery HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305521
-#EXTINF:-1,Crime & Investigation HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305522
-#EXTINF:-1,Ketnet HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305523
-#EXTINF:-1,RTL Telekids HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305524
-#EXTINF:-1,Comedy Central HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305525
-#EXTINF:-1,SBS 9 FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305526
-#EXTINF:-1,TLC FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305527
-#EXTINF:-1,Discovery Channel FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305531
-#EXTINF:-1,National Geographic Channel FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305532
-#EXTINF:-1,History Channel FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305533
-#EXTINF:-1,Animal Planet FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305534
-#EXTINF:-1,Cartoon Network FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305535
-#EXTINF:-1,Spike FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305536
-#EXTINF:-1,Revolt FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305537
-#EXTINF:-1,DANCE TRIPPIN FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305538
-#EXTINF:-1,XITE FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305539
-#EXTINF:-1,MTV FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305540
-#EXTINF:-1,Love Nature FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305544
-#EXTINF:-1,National Geographic Wild FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305545
-#EXTINF:-1,Discovery ID FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305546
-#EXTINF:-1,Discovery Science FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305547
-#EXTINF:-1,Veronica Disney XD FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305548
-#EXTINF:-1,Horse & Country FHD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305549
-#EXTINF:-1,Nick Jr. HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305550
-#EXTINF:-1,Boomerang HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305551
-#EXTINF:-1,Baby TV Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305552
-#EXTINF:-1,Film 1 Premiere HD backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305553
-#EXTINF:-1,NPO Politiek HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305554
-#EXTINF:-1,24 Kitchen HD Backup
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305555
-#EXTINF:-1,Ziggo TV HD
-http://tvshopip.tv:8080/armando_rivero/riveroo_anual/305577
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/213.ts
+#EXTINF:-1,SBS 9 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/216.ts
+#EXTINF:-1,VERONICA & DISNEY XD HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/217.ts
+#EXTINF:-1,Net 5 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/221.ts
+#EXTINF:-1,FOX CHANNEL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/220.ts
+#EXTINF:-1,TLC NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/219.ts
+#EXTINF:-1,RTL Z
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/218.ts
+#EXTINF:-1,RTL Lounge NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/273.ts
+#EXTINF:-1,RTL CRiME NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/248.ts
+#EXTINF:-1,FILM1 PREMIERE HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/241.ts
+#EXTINF:-1,FILM1 FAMILY
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/243.ts
+#EXTINF:-1,FILM1 DRAMA
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/244.ts
+#EXTINF:-1,FILM1 ACTION
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/242.ts
+#EXTINF:-1,NGC NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/256.ts
+#EXTINF:-1,NAT GEO WILD NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/257.ts
+#EXTINF:-1,History HD NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/258.ts
+#EXTINF:-1,Discovery Science NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/254.ts
+#EXTINF:-1,Discovery Channel NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/252.ts
+#EXTINF:-1,Investigation Discovery NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/255.ts
+#EXTINF:-1,CRIME INVESTIGATION NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/249.ts
+#EXTINF:-1,ANIMAL PLANET
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/259.ts
+#EXTINF:-1, LOVE NATURE
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/1423.ts
+#EXTINF:-1,24 KITCHEN NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/271.ts
+#EXTINF:-1,COMEDY CENTRAL NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/237.ts
+#EXTINF:-1,Comedy Central Extra
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/238.ts
+#EXTINF:-1,CBS Reality NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/240.ts
+#EXTINF:-1,E! HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/246.ts
+#EXTINF:-1,Spike
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/239.ts
+#EXTINF:-1,VICELAND HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/761.ts
+#EXTINF:-1,XITE
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/274.ts
+#EXTINF:-1,MTV NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/276.ts
+#EXTINF:-1,SLAM!
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/275.ts
+#EXTINF:-1,TV538
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2227.ts
+#EXTINF:-1,MTV BRAND
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2225.ts
+#EXTINF:-1,DANCE TELEVISION
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2226.ts
+#EXTINF:-1,Shorts TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/245.ts
+#EXTINF:-1,AT5
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/277.ts
+#EXTINF:-1,Omroep BRABANT
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/251.ts
+#EXTINF:-1,ZIGGO SPORT HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/228.ts
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/229.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/230.ts
+#EXTINF:-1,ZIGGO SPORT RACING
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/232.ts
+#EXTINF:-1,ZIGGO SPORT GOLF
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/231.ts
+#EXTINF:-1,ZIGGO SPORT DOCU
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/233.ts
+#EXTINF:-1,ZIGGO SPORT EXTRA
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/234.ts
+#EXTINF:-1,FOX SPORT 1
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/222.ts
+#EXTINF:-1,FOX SPORT 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/223.ts
+#EXTINF:-1,FOX SPORT 3
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/224.ts
+#EXTINF:-1,FOX SPORT 4
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/225.ts
+#EXTINF:-1,FOX SPORT 5
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/226.ts
+#EXTINF:-1,FOX SPORT 6
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/227.ts
+#EXTINF:-1,NPO Zapp Extra NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/266.ts
+#EXTINF:-1,RTL Telekids
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/269.ts
+#EXTINF:-1,Pebble Kids
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/268.ts
+#EXTINF:-1,NIKELODEON NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/260.ts
+#EXTINF:-1,Nicktoons
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/267.ts
+#EXTINF:-1,Nick JR. NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/262.ts
+#EXTINF:-1,Disney Channel NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/263.ts
+#EXTINF:-1,Cartoon Network NL (24U)
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/261.ts
+#EXTINF:-1,Boomerang NL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/264.ts
+#EXTINF:-1,BABY TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/265.ts
