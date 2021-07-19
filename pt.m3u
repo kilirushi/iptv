@@ -1,411 +1,237 @@
 #EXTM3U
-#EXTINF:-1,Rtp 1 FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39605
-#EXTINF:-1,Rtp 1 HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39606
-#EXTINF:-1,Rtp 2 FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39607
-#EXTINF:-1,Rtp 2 HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39608
-#EXTINF:-1,SIC FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39609
-#EXTINF:-1,SIC HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39610
-#EXTINF:-1,Tvı
-http://siptv.snserver.stream:8080/bahri99/99bahri/39611
-#EXTINF:-1,Tvı HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39612
-#EXTINF:-1,Tvı Fıccao
-http://siptv.snserver.stream:8080/bahri99/99bahri/39613
-#EXTINF:-1,Tvı Fıccao HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39614
-#EXTINF:-1,SIC FHD Radical
-http://siptv.snserver.stream:8080/bahri99/99bahri/39620
-#EXTINF:-1,Sıc RADICAL FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39621
-#EXTINF:-1,SIC FHD Mulher
-http://siptv.snserver.stream:8080/bahri99/99bahri/39622
-#EXTINF:-1,Sıc MULHER FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39623
-#EXTINF:-1,SIC Caras
-http://siptv.snserver.stream:8080/bahri99/99bahri/39624
-#EXTINF:-1,Sıc CARAS HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39625
-#EXTINF:-1,Casa e Cozinha HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39626
-#EXTINF:-1,Canal Q
-http://siptv.snserver.stream:8080/bahri99/99bahri/39627
-#EXTINF:-1,SPort Tv SD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39628
-#EXTINF:-1,Rtp 3
-http://siptv.snserver.stream:8080/bahri99/99bahri/39629
-#EXTINF:-1,Rtp Acores
-http://siptv.snserver.stream:8080/bahri99/99bahri/39630
-#EXTINF:-1,Rtp Africa
-http://siptv.snserver.stream:8080/bahri99/99bahri/39631
-#EXTINF:-1,Rtp Madeira
-http://siptv.snserver.stream:8080/bahri99/99bahri/39632
-#EXTINF:-1,Rtp Memðria
-http://siptv.snserver.stream:8080/bahri99/99bahri/39633
-#EXTINF:-1,Globo
-http://siptv.snserver.stream:8080/bahri99/99bahri/39634
-#EXTINF:-1,GLOBO HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39635
-#EXTINF:-1,Globo Now
-http://siptv.snserver.stream:8080/bahri99/99bahri/39636
-#EXTINF:-1,TV Record
-http://siptv.snserver.stream:8080/bahri99/99bahri/39637
-#EXTINF:-1,TV RECORD HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39638
-#EXTINF:-1,RECORD NEWS
-http://siptv.snserver.stream:8080/bahri99/99bahri/39639
-#EXTINF:-1,CMTV
-http://siptv.snserver.stream:8080/bahri99/99bahri/39640
-#EXTINF:-1,CMTV FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39641
-#EXTINF:-1,Tvı 24
-http://siptv.snserver.stream:8080/bahri99/99bahri/39642
-#EXTINF:-1,Tvı 24 FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39643
-#EXTINF:-1,SIC FHD Noticias
-http://siptv.snserver.stream:8080/bahri99/99bahri/39644
-#EXTINF:-1,Sıc FHD NOTICIAS FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39645
-#EXTINF:-1,ARTV
-http://siptv.snserver.stream:8080/bahri99/99bahri/39646
-#EXTINF:-1, SPORT TV + FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39649
-#EXTINF:-1, SPORT TV 4 HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39660
-#EXTINF:-1, SPORT TV 5 HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39662
-#EXTINF:-1, ELEVEN SPORTS 1 FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39670
-#EXTINF:-1, ELEVEN SPORTS 2 FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39673
-#EXTINF:-1, ELEVEN SPORTS 3 HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39675
-#EXTINF:-1, ELEVEN SPORTS 3 FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39676
-#EXTINF:-1, ELEVEN SPORTS 4 HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39678
-#EXTINF:-1, ELEVEN SPORTS 4 FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39679
-#EXTINF:-1, ELEVEN SPORTS 5 HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39681
-#EXTINF:-1, ELEVEN SPORTS 6 HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39683
-#EXTINF:-1, A BOLA TV HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39687
-#EXTINF:-1, SPORTING TV HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39691
-#EXTINF:-1, CACA E PESCA HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39693
-#EXTINF:-1, FUEL TV FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39699
-#EXTINF:-1, MOTORVISION HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39705
-#EXTINF:-1, FIGHT NETWORK HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39706
-#EXTINF:-1, REDBULL TV HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39707
-#EXTINF:-1, REAL MADRID
-http://siptv.snserver.stream:8080/bahri99/99bahri/39708
-#EXTINF:-1,RTP 1 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39711
-#EXTINF:-1,RTP 2 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39712
-#EXTINF:-1,SIC [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39713
-#EXTINF:-1,TVI  [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39714
-#EXTINF:-1, CMTV [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39715
-#EXTINF:-1,SIC NOTICIAS [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39716
-#EXTINF:-1,BTV  [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39717
-#EXTINF:-1,SPORTING TV [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39719
-#EXTINF:-1,NOS STUDIOS [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39720
-#EXTINF:-1,CINEMUNDO [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39721
-#EXTINF:-1,HOLLYWOOD [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39722
-#EXTINF:-1,TV CINE TOP [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39723
-#EXTINF:-1,TV CINE EDITION [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39724
-#EXTINF:-1, TV CINE EMOTION [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39725
-#EXTINF:-1,TV CINE ACTION [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39726
-#EXTINF:-1,AXN [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39727
-#EXTINF:-1,AXN WHITE [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39728
-#EXTINF:-1,AXN MOVIES [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39729
-#EXTINF:-1,FOX [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39730
-#EXTINF:-1,FOX LIFE [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39731
-#EXTINF:-1,FOX CRIME [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39732
-#EXTINF:-1,FOX MOVIES [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39733
-#EXTINF:-1,SYFY [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39734
-#EXTINF:-1,CASA E COZINHA  [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39735
-#EXTINF:-1,ID INVESTIGATION DISCOVERY [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39736
-#EXTINF:-1,DISCOVERY CHANNEL [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39737
-#EXTINF:-1,NATIONAL GEOGRAPHIC [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39738
-#EXTINF:-1,NAT GEO WILD [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39739
-#EXTINF:-1,SPORT TV 1  HD*  [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39740
-#EXTINF:-1,A BOLA TV [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39741
-#EXTINF:-1,SPORT TV + [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39742
-#EXTINF:-1,SPORT TV 1 HD [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39743
-#EXTINF:-1,SPORT TV 1  4K [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39744
-#EXTINF:-1,SPORT TV 2 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39745
-#EXTINF:-1,SPORT TV 2 2K [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39746
-#EXTINF:-1,SPORT TV 3 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39747
-#EXTINF:-1,SPORT TV 4 HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39748
-#EXTINF:-1,SPORT TV 5 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39749
-#EXTINF:-1,SPORT TV NBA [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39750
-#EXTINF:-1,ELEVEN SPORTS 1 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39751
-#EXTINF:-1,ELEVEN SPORTS 2 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39752
-#EXTINF:-1,ELEVEN SPORTS 3 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39753
-#EXTINF:-1,ELEVEN SPORTS 4 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39754
-#EXTINF:-1,BTV HD 4K 
-http://siptv.snserver.stream:8080/bahri99/99bahri/39755
-#EXTINF:-1,TVI 24 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39756
-#EXTINF:-1,TVI FICÇAO [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39757
-#EXTINF:-1,TVI REALITY [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39758
-#EXTINF:-1,SIC MULHER [HVEC/265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39759
-#EXTINF:-1,CANAL 11 [HVEC/H265]
-http://siptv.snserver.stream:8080/bahri99/99bahri/39760
-#EXTINF:-1,NOS STUDIOS ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39762
-#EXTINF:-1,TVCINE TOP ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39763
-#EXTINF:-1,TVCINE TOP
-http://siptv.snserver.stream:8080/bahri99/99bahri/39764
-#EXTINF:-1,TVCINE EDITION ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39765
-#EXTINF:-1,TVCINE EDITION
-http://siptv.snserver.stream:8080/bahri99/99bahri/39766
-#EXTINF:-1,TVCINE EMOTION ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39767
-#EXTINF:-1,TVCINE ACTION ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39769
-#EXTINF:-1,HOLLYWOOD ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39771
-#EXTINF:-1,HOLLYWOOD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39772
-#EXTINF:-1,AXN MOVIES ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39773
-#EXTINF:-1,AXN MOVIES
-http://siptv.snserver.stream:8080/bahri99/99bahri/39774
-#EXTINF:-1,FOX MOVIES ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39775
-#EXTINF:-1,FOX MOVIES
-http://siptv.snserver.stream:8080/bahri99/99bahri/39776
-#EXTINF:-1,AMC
-http://siptv.snserver.stream:8080/bahri99/99bahri/39777
-#EXTINF:-1,CINEMUNDO ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39778
-#EXTINF:-1,CINEMUNDO
-http://siptv.snserver.stream:8080/bahri99/99bahri/39779
-#EXTINF:-1,TV Cine TOP
-http://siptv.snserver.stream:8080/bahri99/99bahri/39781
-#EXTINF:-1,TV Cine Top HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39782
-#EXTINF:-1,TV Cine Edition
-http://siptv.snserver.stream:8080/bahri99/99bahri/39783
-#EXTINF:-1,TV Cine Edition HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39784
-#EXTINF:-1,TV Cine Edition
-http://siptv.snserver.stream:8080/bahri99/99bahri/39785
-#EXTINF:-1,TV Cine Emotion HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39786
-#EXTINF:-1,TV Cine EMOTION HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39787
-#EXTINF:-1,TV Cine ACTION HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39789
-#EXTINF:-1,Hollywood
-http://siptv.snserver.stream:8080/bahri99/99bahri/39790
-#EXTINF:-1,Hollywood HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39791
+#EXTINF:-1,24 Kitchen FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110237
+#EXTINF:-1,A Bola TV
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110238
+#EXTINF:-1,A&E
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110239
+#EXTINF:-1,Afro Music
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110240
+#EXTINF:-1,AXN BLACK
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110241
+#EXTINF:-1,AXN HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110242
+#EXTINF:-1,AXN WHITE HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110243
+#EXTINF:-1,BENFICA TV 1 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110244
+#EXTINF:-1,Biggs
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110245
+#EXTINF:-1,Bloomberg
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110246
 #EXTINF:-1,Canal NOS
-http://siptv.snserver.stream:8080/bahri99/99bahri/39792
-#EXTINF:-1,NOS Studios HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39793
-#EXTINF:-1,NOS Studios FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39794
-#EXTINF:-1,Cinemundo
-http://siptv.snserver.stream:8080/bahri99/99bahri/39795
-#EXTINF:-1,CINEMUNDO HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39796
-#EXTINF:-1,AXN Movies HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39797
-#EXTINF:-1,AXN Movies FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39798
-#EXTINF:-1,FOX Movies
-http://siptv.snserver.stream:8080/bahri99/99bahri/39799
-#EXTINF:-1,FOX MOVIES FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39800
-#EXTINF:-1,SYFY HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39801
-#EXTINF:-1,AMC
-http://siptv.snserver.stream:8080/bahri99/99bahri/39802
-#EXTINF:-1,TLC
-http://siptv.snserver.stream:8080/bahri99/99bahri/39803
-#EXTINF:-1,AMC HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39804
-#EXTINF:-1,AMC FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39805
-#EXTINF:-1,AXN HD_nos
-http://siptv.snserver.stream:8080/bahri99/99bahri/39806
-#EXTINF:-1,AXN FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39807
-#EXTINF:-1,AXN White HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39808
-#EXTINF:-1,AXN White FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39809
-#EXTINF:-1,FOX
-http://siptv.snserver.stream:8080/bahri99/99bahri/39810
-#EXTINF:-1,FOX LIFE
-http://siptv.snserver.stream:8080/bahri99/99bahri/39811
-#EXTINF:-1,FOX Life HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39812
-#EXTINF:-1,FOX Life FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39813
-#EXTINF:-1,FOX HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39814
-#EXTINF:-1,FOX FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39815
-#EXTINF:-1,FOX Comedy
-http://siptv.snserver.stream:8080/bahri99/99bahri/39816
-#EXTINF:-1,FOX COMEDY FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39817
-#EXTINF:-1,FOX Crime HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39818
-#EXTINF:-1,FOX Crime FHD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39819
-#EXTINF:-1,NAT GEO WILD HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39836
-#EXTINF:-1,ODISSEIA HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39838
-#EXTINF:-1,LOCALVISAO
-http://siptv.snserver.stream:8080/bahri99/99bahri/39839
-#EXTINF:-1,MTV LIVE
-http://siptv.snserver.stream:8080/bahri99/99bahri/39842
-#EXTINF:-1,MCM TOP
-http://siptv.snserver.stream:8080/bahri99/99bahri/39846
-#EXTINF:-1,VH1 CLASSIC
-http://siptv.snserver.stream:8080/bahri99/99bahri/39851
-#EXTINF:-1,CLUBBING TV
-http://siptv.snserver.stream:8080/bahri99/99bahri/39853
-#EXTINF:-1,TV FATIMA
-http://siptv.snserver.stream:8080/bahri99/99bahri/39856
-#EXTINF:-1,CANAL 180
-http://siptv.snserver.stream:8080/bahri99/99bahri/39860
-#EXTINF:-1,DOG TV
-http://siptv.snserver.stream:8080/bahri99/99bahri/39861
-#EXTINF:-1,FOOD NETWORK
-http://siptv.snserver.stream:8080/bahri99/99bahri/39862
-#EXTINF:-1,FOOD NETWORK HD
-http://siptv.snserver.stream:8080/bahri99/99bahri/39863
-#EXTINF:-1,TCV INTERNACIONAL
-http://siptv.snserver.stream:8080/bahri99/99bahri/39864
-#EXTINF:-1,TPA INTERNACIONAL
-http://siptv.snserver.stream:8080/bahri99/99bahri/39865
-#EXTINF:-1,GINX
-http://siptv.snserver.stream:8080/bahri99/99bahri/39879
-#EXTINF:-1,M6
-http://siptv.snserver.stream:8080/bahri99/99bahri/39880
-#EXTINF:-1,BOOMERANG
-http://siptv.snserver.stream:8080/bahri99/99bahri/39881
-#EXTINF:-1,AXN ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39903
-#EXTINF:-1,AXN
-http://siptv.snserver.stream:8080/bahri99/99bahri/39904
-#EXTINF:-1,AXN WHITE ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39905
-#EXTINF:-1,AXN WHITE
-http://siptv.snserver.stream:8080/bahri99/99bahri/39906
-#EXTINF:-1,FOX ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39907
-#EXTINF:-1,FOX
-http://siptv.snserver.stream:8080/bahri99/99bahri/39908
-#EXTINF:-1,FOX LIFE ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39909
-#EXTINF:-1,FOX LIFE
-http://siptv.snserver.stream:8080/bahri99/99bahri/39910
-#EXTINF:-1,FOX CRIME ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39911
-#EXTINF:-1,FOX CRIME
-http://siptv.snserver.stream:8080/bahri99/99bahri/39912
-#EXTINF:-1,FOX COMEDY ᶠᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39913
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110247
+#EXTINF:-1,Canal Panda
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110248
+#EXTINF:-1,Canal Q
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110249
+#EXTINF:-1,Cancao Nova
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110250
+#EXTINF:-1,Cartoon Network
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110251
+#EXTINF:-1,CaÃ§a e Pesca
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110252
+#EXTINF:-1,CaÃ§avision
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110253
+#EXTINF:-1,CINE MUNDO
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110254
+#EXTINF:-1,CMTV
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110255
+#EXTINF:-1,DISCOVERY CHANNEL
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110256
+#EXTINF:-1,Discovery FHD Showcase
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110257
+#EXTINF:-1,Disney Channel
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110258
+#EXTINF:-1,Disney Junior
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110259
+#EXTINF:-1,E! ENTERTAINMENT
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110260
+#EXTINF:-1,Eleven Sports 1 FHD (back up)
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110261
+#EXTINF:-1,Eleven Sports 1 FHD 1080
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110262
+#EXTINF:-1,Eleven Sports 1 HD 720
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110263
+#EXTINF:-1,Eleven Sports 1 SD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110264
+#EXTINF:-1,Eleven Sports 2 FHD (back up)
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110265
+#EXTINF:-1,Eleven Sports 2 FHD 1080
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110266
+#EXTINF:-1,Eleven Sports 2 HD 720
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110267
+#EXTINF:-1,Eleven Sports 2 SD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110268
+#EXTINF:-1,Eleven Sports 3 FHD 1080
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110269
+#EXTINF:-1,Eleven Sports 3 HD 720
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110270
+#EXTINF:-1,Eleven Sports 3 SD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110271
+#EXTINF:-1,Eleven Sports 3 SD (back up)
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110272
+#EXTINF:-1,Eleven Sports 4 FHD 1080
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110273
+#EXTINF:-1,Eleven Sports 4 HD 720
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110274
+#EXTINF:-1,Eleven Sports 4 SD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110275
+#EXTINF:-1,Eleven Sports 4 SD (back up)
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110276
+#EXTINF:-1,Eleven Sports 5 FHD 1080
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110277
+#EXTINF:-1,Eleven Sports 5 HD 720
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110278
+#EXTINF:-1,Eleven Sports 5 SD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110279
+#EXTINF:-1,Eleven Sports 6 FHD 1080
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110280
+#EXTINF:-1,Eleven Sports 6 HD 720
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110281
+#EXTINF:-1,Eleven Sports 6 SD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110282
+#EXTINF:-1,Euronews
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110283
+#EXTINF:-1,EUROSPORT 1
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110284
+#EXTINF:-1,Eurosport 1 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110285
+#EXTINF:-1,EUROSPORT 2
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110286
 #EXTINF:-1,FOX COMEDY
-http://siptv.snserver.stream:8080/bahri99/99bahri/39914
-#EXTINF:-1,SYFY
-http://siptv.snserver.stream:8080/bahri99/99bahri/39915
-#EXTINF:-1,DISNEY CHANNEL
-http://siptv.snserver.stream:8080/bahri99/99bahri/39917
-#EXTINF:-1,DISNEY JUNIOR
-http://siptv.snserver.stream:8080/bahri99/99bahri/39918
-#EXTINF:-1,PANDA BIGGS
-http://siptv.snserver.stream:8080/bahri99/99bahri/39919
-#EXTINF:-1,CANAL PANDA
-http://siptv.snserver.stream:8080/bahri99/99bahri/39920
-#EXTINF:-1,SIC K
-http://siptv.snserver.stream:8080/bahri99/99bahri/39921
-#EXTINF:-1,JIM JAM
-http://siptv.snserver.stream:8080/bahri99/99bahri/39922
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110287
+#EXTINF:-1,FOX CRIME
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110288
+#EXTINF:-1,FOX HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110289
+#EXTINF:-1,Fox Life HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110290
+#EXTINF:-1,FOX MOVIES
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110291
+#EXTINF:-1,Historia
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110292
+#EXTINF:-1,Hollywood FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110293
+#EXTINF:-1,Jim Jam
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110294
+#EXTINF:-1,Kombat Sport
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110295
+#EXTINF:-1,MCM Pop
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110296
+#EXTINF:-1,Mezzo
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110297
+#EXTINF:-1,Motorsport.tv
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110298
+#EXTINF:-1,Motorvision
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110299
+#EXTINF:-1,MTV Portugal
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110300
+#EXTINF:-1,NAT GEO HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110301
+#EXTINF:-1,Nat Geo Wild
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110302
+#EXTINF:-1,NBA TV
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110303
 #EXTINF:-1,NICKELODEON
-http://siptv.snserver.stream:8080/bahri99/99bahri/39923
-#EXTINF:-1,NICK JR.
-http://siptv.snserver.stream:8080/bahri99/99bahri/39924
-#EXTINF:-1,BABY TV
-http://siptv.snserver.stream:8080/bahri99/99bahri/39926
-#EXTINF:-1, MTV Live ᴴᴰ
-http://siptv.snserver.stream:8080/bahri99/99bahri/39928
-#EXTINF:-1, MTV PORTUGAL
-http://siptv.snserver.stream:8080/bahri99/99bahri/39929
-#EXTINF:-1, MCM POP
-http://siptv.snserver.stream:8080/bahri99/99bahri/39930
-#EXTINF:-1, AFRO MUSIC
-http://siptv.snserver.stream:8080/bahri99/99bahri/39931
-#EXTINF:-1, TRACE TOCA
-http://siptv.snserver.stream:8080/bahri99/99bahri/39932
-#EXTINF:-1, TRACE URBAN
-http://siptv.snserver.stream:8080/bahri99/99bahri/39933
-#EXTINF:-1, VH 1
-http://siptv.snserver.stream:8080/bahri99/99bahri/39934
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110304
+#EXTINF:-1,ODISSEIA
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110305
+#EXTINF:-1,PFC HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110306
+#EXTINF:-1,Porto Canal
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110307
+#EXTINF:-1,Real Madrid TV
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110308
+#EXTINF:-1,RTP 1
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110309
+#EXTINF:-1,RTP 2
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110310
+#EXTINF:-1,RTP 3
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110311
+#EXTINF:-1,RTP Acores
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110312
+#EXTINF:-1,RTP Africa
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110313
+#EXTINF:-1,RTP INTERNACIONAL
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110314
+#EXTINF:-1,RTP Madeira
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110315
+#EXTINF:-1,RTP Memoria
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110316
+#EXTINF:-1,Sic HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110317
+#EXTINF:-1,SIC Mulher
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110318
+#EXTINF:-1,SIC NOTICIAS
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110319
+#EXTINF:-1,SIC Radical
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110320
+#EXTINF:-1,SPORT TV +  HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110321
+#EXTINF:-1,Sport TV 1
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110322
+#EXTINF:-1,Sport TV 1 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110323
+#EXTINF:-1,SPORT TV 1 HD (720P)
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110324
+#EXTINF:-1,Sport TV 2
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110325
+#EXTINF:-1,Sport TV 2 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110326
+#EXTINF:-1,Sport TV 3
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110327
+#EXTINF:-1,Sport TV 3 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110328
+#EXTINF:-1,Sport TV 4
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110329
+#EXTINF:-1,Sport TV 4K
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110330
+#EXTINF:-1,Sport TV 5
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110331
+#EXTINF:-1,Sporting TV HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110332
+#EXTINF:-1,SYFY
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110333
+#EXTINF:-1,TCV CABO VERDE
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110334
+#EXTINF:-1,TLC
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110335
+#EXTINF:-1,Toros TV
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110336
+#EXTINF:-1,Trace Toca
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110337
+#EXTINF:-1,Travel Channel FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110338
+#EXTINF:-1,TV FAtima
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110339
+#EXTINF:-1,TV Globo
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110340
+#EXTINF:-1,TV Globo Premium
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110341
+#EXTINF:-1,TV RECORD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110342
+#EXTINF:-1,TV Series FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110343
+#EXTINF:-1,TVCine 1 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110344
+#EXTINF:-1,TVCine 2 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110345
+#EXTINF:-1,TVCine 3 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110346
+#EXTINF:-1,TVCine 4 FHD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110347
+#EXTINF:-1,TVE 24h
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110348
+#EXTINF:-1,TVE Internacional
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110349
+#EXTINF:-1,TVI
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110350
+#EXTINF:-1,Tvi 24
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110351
+#EXTINF:-1,TVI HD
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110352
+#EXTINF:-1,TVI Reality
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110353
+#EXTINF:-1,VH1
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/110354
