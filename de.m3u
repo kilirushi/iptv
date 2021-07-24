@@ -1,619 +1,1081 @@
 #EXTM3U
-#EXTINF:-1,RTL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/584
-#EXTINF:-1,RTL HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55106
-#EXTINF:-1,RTL HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78444
-#EXTINF:-1,RTL 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/589
-#EXTINF:-1,RTLII HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55107
-#EXTINF:-1,RTLII HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78445
-#EXTINF:-1,RTL Living
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/586
-#EXTINF:-1,Prosieben HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/592
-#EXTINF:-1,ProSieben HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78442
-#EXTINF:-1,Pro7 MAXX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/595
-#EXTINF:-1,Pro7 MAXX HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78443
-#EXTINF:-1, 3sat HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15013
-#EXTINF:-1,Sat1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/591
-#EXTINF:-1,SAT.1 HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55108
-#EXTINF:-1,SAT.1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78447
-#EXTINF:-1,SAT1 Gold HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/596
-#EXTINF:-1,SAT.1 Gold HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78448
-#EXTINF:-1,ZDF HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/597
-#EXTINF:-1,DAS ERSTE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12524
-#EXTINF:-1,Das Erste
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10007
-#EXTINF:-1,N24 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/598
-#EXTINF:-1, Kabel eins FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15020
-#EXTINF:-1,Kabel eins HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15056
-#EXTINF:-1,Kabel Eins HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78451
-#EXTINF:-1,Kabel Eins Doku HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78482
-#EXTINF:-1,Kabel 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/593
-#EXTINF:-1,ZDF Info
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12585
-#EXTINF:-1,ATV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12601
-#EXTINF:-1,E! Entertainment
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10066
-#EXTINF:-1,RTL Nitro
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12586
-#EXTINF:-1,RTL Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12587
-#EXTINF:-1,Super RTL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/585
-#EXTINF:-1,SUPER RTL HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78485
-#EXTINF:-1,Zee One
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12594
-#EXTINF:-1,Kinowelt TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12593
-#EXTINF:-1,ARD-Alpha
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15047
-#EXTINF:-1,Heimatkanal HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15053
-#EXTINF:-1,Jukebox HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15054
-#EXTINF:-1,NDR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15057
-#EXTINF:-1,MDR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90536
-#EXTINF:-1,WDR HD AACHEN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130691
-#EXTINF:-1,WDR HD BONN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130692
-#EXTINF:-1,WDR HD DUISBURG
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130693
-#EXTINF:-1,WDR HD WUPPERTAL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130694
-#EXTINF:-1,WDR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90533
-#EXTINF:-1,RBB BERLIN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90535
-#EXTINF:-1,RBB BRANDENBURG HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/130690
-#EXTINF:-1,SWR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90534
-#EXTINF:-1,ONE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15059
-#EXTINF:-1,arte HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15048
-#EXTINF:-1,Phoenix HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90539
-#EXTINF:-1,Tageschau 24 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90537
-#EXTINF:-1,Welt der Wunder HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90538
-#EXTINF:-1,ORF Eins
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12589
-#EXTINF:-1,ORF II
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12590
-#EXTINF:-1,ORF III
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12591
-#EXTINF:-1,ORF 2 Burgenland HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90515
-#EXTINF:-1,ORF 2 Kärnten HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90516
-#EXTINF:-1,ORF 2 Niederösterrreich HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90511
-#EXTINF:-1,ORF 2 Oberösterreich HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90512
-#EXTINF:-1,ORF 2 Salzburg HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90513
-#EXTINF:-1,ORF 2 Steiermark HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90514
-#EXTINF:-1,ORF 2 Tirol HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90517
-#EXTINF:-1,ORF 2 Voralberg HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90518
-#EXTINF:-1,ORF 2 Wien HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90510
-#EXTINF:-1,3Sat
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12588
-#EXTINF:-1,N-TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12602
-#EXTINF:-1,n-tv HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78481
-#EXTINF:-1,Sky Arts
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12598
-#EXTINF:-1,TELE 5 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78453
-#EXTINF:-1,Tele 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12592
-#EXTINF:-1,ZDF Neo
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12584
-#EXTINF:-1,ANIXE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10072
-#EXTINF:-1,ServusTv Deutschland 720
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54861
-#EXTINF:-1,ServusTv Oesterreich 720
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54860
-#EXTINF:-1,Sony AXN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/611
-#EXTINF:-1,Fox HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/610
-#EXTINF:-1,TNT Serie HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/601
-#EXTINF:-1,E! Entertainment FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15016
-#EXTINF:-1,E Entertainment
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/7414
-#EXTINF:-1,DE|E! Entertainment HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78488
-#EXTINF:-1,RTL Passion
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/587
-#EXTINF:-1,RTL Crime HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/588
-#EXTINF:-1,Vox HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/583
-#EXTINF:-1,13th Street HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15012
-#EXTINF:-1, Syfy FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15028
-#EXTINF:-1,13th Street HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/604
-#EXTINF:-1,SyFy HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/600
-#EXTINF:-1,History FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15019
-#EXTINF:-1,History HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78476
-#EXTINF:-1,DE|Vox HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78450
-#EXTINF:-1,DE|Fox FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15052
-#EXTINF:-1,Sixx HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78449
-#EXTINF:-1,Sixx HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/594
-#EXTINF:-1,DE|MTV HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78489
-#EXTINF:-1,DE|Nitro HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78446
-#EXTINF:-1,PULS 24 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78480
-#EXTINF:-1,DE|WELT HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78479
-#EXTINF:-1,Sky Cinema Premieren +24
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/75766
-#EXTINF:-1,Sky Cinema Premieren +24 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78457
-#EXTINF:-1,Sky Cinema Premieren HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/75767
-#EXTINF:-1,Sky Cinema Premieren HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78458
-#EXTINF:-1,Sky Atlantic HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55098
-#EXTINF:-1,Sky Cinema Best Of HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55101
-#EXTINF:-1,Sky Cinema Best Of HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78455
-#EXTINF:-1,Sky Cinema Harry Potter HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55104
-#EXTINF:-1,Sky Cinema Thriller HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55105
-#EXTINF:-1,Sky Cinema Thriller HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78460
-#EXTINF:-1, Sky Cinema FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15006
-#EXTINF:-1,Sky Cinema HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/619
-#EXTINF:-1,Sky Cinema HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55103
-#EXTINF:-1,Sky Cinema +1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15009
-#EXTINF:-1,Sky Cinema +1HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/621
-#EXTINF:-1,SKY Cinema  +24 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15004
-#EXTINF:-1,Sky Cinema  +24 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/624
-#EXTINF:-1,Sky Cinema +24 HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55099
-#EXTINF:-1, Sky Cinema Action FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15005
-#EXTINF:-1,Sky Cinema Action HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/620
-#EXTINF:-1,Sky Cinema Action HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55100
-#EXTINF:-1,Sky Cinema Action HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78454
-#EXTINF:-1, Sky Cinema Family FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15010
-#EXTINF:-1,Sky Cinema Family HD HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55102
-#EXTINF:-1,Sky Cinema Family HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78456
-#EXTINF:-1,Sky Cinema Comedy HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/618
-#EXTINF:-1,Sky Cinema Emotion HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/617
-#EXTINF:-1,Sky Cinema Hits FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15026
-#EXTINF:-1,Sky Cinema Hits HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/623
-#EXTINF:-1,Sky Cinema Nostalgie
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/622
-#EXTINF:-1,Sky Cinema Special HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78459
-#EXTINF:-1,Sky Serien & Shows HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78461
-#EXTINF:-1,Comedy Central HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78486
-#EXTINF:-1,Sky Krimi
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/616
-#EXTINF:-1,Sky Atlantic FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15025
-#EXTINF:-1,Sky Atlantic HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/625
-#EXTINF:-1,DE|TNT Serie FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15030
-#EXTINF:-1,TNT Comedy FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15029
-#EXTINF:-1,Universal FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15031
-#EXTINF:-1,Universal HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/614
-#EXTINF:-1, Sky Kino Welt (Horror)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44855
-#EXTINF:-1, Sky Kino Welt (Comedy)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44856
-#EXTINF:-1, Sky Kino Welt (Krimi)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44857
-#EXTINF:-1, Sky Kino Welt (Familie)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44858
-#EXTINF:-1, Sky Kino Welt (Animation)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44859
-#EXTINF:-1, Sky Kino Welt (Science-Fiction)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44860
-#EXTINF:-1, sky Kino Welt (Drama)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44861
-#EXTINF:-1,  Sky Kino Welt (Action)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44862
-#EXTINF:-1, Sky Kino Hits (2019)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44863
-#EXTINF:-1,Sky  Classics FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15024
-#EXTINF:-1,Sky Select 24 (Horror)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90519
-#EXTINF:-1,Sky Select 25 (Comedy)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90520
-#EXTINF:-1,Sky Select 26 (Familie)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90521
-#EXTINF:-1,Sky Select 27 (Animation)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90522
-#EXTINF:-1,Sky Select 28 (Science-Fiction)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90523
-#EXTINF:-1,Sky Select 29 (Drama)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90524
-#EXTINF:-1, Eagle Bollywood HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77152
-#EXTINF:-1, Eagle Cinema 007 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77161
-#EXTINF:-1, Eagle Cinema Abenteuer HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77157
-#EXTINF:-1, Eagle Cinema Aktion HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77155
-#EXTINF:-1, Eagle Cinema Animation HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77158
-#EXTINF:-1, Eagle Cinema Biografie HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77164
-#EXTINF:-1, Eagle Cinema Drama HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77170
-#EXTINF:-1, Eagle Cinema Familie FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77165
-#EXTINF:-1, Eagle Cinema Fantasie FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77166
-#EXTINF:-1, Eagle Cinema Geschichte HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77169
-#EXTINF:-1, Eagle Cinema Horror HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77168
-#EXTINF:-1, Eagle Cinema KINOSAAL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77153
-#EXTINF:-1, Eagle Cinema Komodie HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77156
-#EXTINF:-1, Eagle Cinema Lheln HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77172
-#EXTINF:-1, Eagle Cinema Mythologie HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77173
-#EXTINF:-1, Eagle Cinema Premiere HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77154
-#EXTINF:-1, Eagle Cinema Religion HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77176
-#EXTINF:-1, Eagle Cinema Romantisch HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77167
-#EXTINF:-1, Eagle Cinema Sci-Fi HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77171
-#EXTINF:-1, Eagle Cinema Spaghetti Western HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77177
-#EXTINF:-1, Eagle Cinema Thriller HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77159
-#EXTINF:-1, Eagle Entdeckernatur 4K
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77160
-#EXTINF:-1, Eagle Entdeckernatur HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77162
-#EXTINF:-1, Eagle Masha und der B HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77163
-#EXTINF:-1, Eagle Peppa Wutz HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77175
-#EXTINF:-1, Eagle PJ MASKS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77174
-#EXTINF:-1,Sky Select 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/632
-#EXTINF:-1,Sky Select 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/633
-#EXTINF:-1,Sky Select 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/634
-#EXTINF:-1,Sky Select 4 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/635
-#EXTINF:-1,Sky Select 5 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/636
-#EXTINF:-1,Sky Select 6 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88842
-#EXTINF:-1,Sky Select 7 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88843
-#EXTINF:-1,Sky Select 8 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88844
-#EXTINF:-1,Sky Sport News HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8271
-#EXTINF:-1,DE|Sky Sport News HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78472
-#EXTINF:-1,Sky Sport Austria
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8272
-#EXTINF:-1,DE|SKY SPORT F1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/122888
-#EXTINF:-1,DE|SKY SPORT F1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/122887
-#EXTINF:-1,Sky Sport 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55093
-#EXTINF:-1,DE|Sky Sport 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78465
-#EXTINF:-1,Sky Sport 1FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15007
-#EXTINF:-1,Sky Sport HD1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/627
-#EXTINF:-1,Sky Sport 2 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55094
-#EXTINF:-1,DE|Sky Sport 2 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78466
-#EXTINF:-1,Sky Sport 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15008
-#EXTINF:-1, Sky Sport HD2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/628
-#EXTINF:-1,Sky Sport 3 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8278
-#EXTINF:-1,Sky Sport 4 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8277
-#EXTINF:-1,Sky Sport  5 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8276
-#EXTINF:-1,Sky Sport 6 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8275
-#EXTINF:-1,Sky Sport 7 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8274
-#EXTINF:-1,Sky Sport 8 (Only ON by live event)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8273
-#EXTINF:-1,DE|DAZN 1 BAR 4K UHD/HDR
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/79325
-#EXTINF:-1,DE|DAZN Bar 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/79323
-#EXTINF:-1,DAZN Bar 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/79324
-#EXTINF:-1,DAZN 1 BAR UHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44864
-#EXTINF:-1,DAZN 1HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10005
-#EXTINF:-1,DAZN 1 Bar HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55088
-#EXTINF:-1,DAZN 2 BAR UHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/44865
-#EXTINF:-1,DE|DAZN 1 Bar HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78462
-#EXTINF:-1,DAZN 2HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10006
-#EXTINF:-1,DAZN 2 Bar HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55089
-#EXTINF:-1,DE|DAZN 2 Bar HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78463
-#EXTINF:-1,Motorvision
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12600
-#EXTINF:-1,DE|SPORT1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78467
-#EXTINF:-1,Sport1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55097
-#EXTINF:-1,Sport 1 + HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/613
-#EXTINF:-1,Orf Sport
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12599
-#EXTINF:-1,DE|Sky Sport Bundesliga 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78464
-#EXTINF:-1,Sky Sport Bundesliga 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55095
-#EXTINF:-1,Sky Sport Austria 1 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55092
-#EXTINF:-1,Sky Sport Bundesliga 2 HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/55096
-#EXTINF:-1,Sky Sport Austria FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15027
-#EXTINF:-1, Sky Bundesliga HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/630
-#EXTINF:-1,Sky Sport  Bundesliga HD1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/631
-#EXTINF:-1,Sky Sport Bundesliga 2  (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2633
-#EXTINF:-1,Sky Sport Bundesliga 3 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2634
-#EXTINF:-1,Sky Sport Bundesliga 4 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2635
-#EXTINF:-1,Sky Sport Bundesliga 5 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2636
-#EXTINF:-1,Sky Sport Bundesliga 6 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2637
-#EXTINF:-1,Sky Sport Bundesliga 7 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2638
-#EXTINF:-1,Sky Sport Bundesliga 8 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2639
-#EXTINF:-1,Sky Sport Bundesliga 9 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9165
-#EXTINF:-1,Sky Sport Bundesliga 10 (Match Time)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/9166
-#EXTINF:-1,Sky Sport Frauen Bundesliga 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90525
-#EXTINF:-1,Sky Sport Frauen Bundesliga 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90526
-#EXTINF:-1,Sky Sport Frauen Bundesliga 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90527
-#EXTINF:-1,Sky Sport Frauen Bundesliga 4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90528
-#EXTINF:-1,Sky Sport Frauen Bundesliga 5 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90529
-#EXTINF:-1,Sky Sport Frauen Bundesliga 6 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90530
-#EXTINF:-1,Sky Sport Frauen Bundesliga 7 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90531
-#EXTINF:-1,Sky Sport Frauen Bundesliga 8 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/90532
-#EXTINF:-1,Telekom Fussball 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27728
-#EXTINF:-1,Telekom Fussball 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27727
-#EXTINF:-1,Telekom Fussball 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27726
-#EXTINF:-1,Telekom Fussball 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27725
-#EXTINF:-1,Telekom Fussball 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27724
-#EXTINF:-1,Telekom Fussball 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27723
-#EXTINF:-1,Telekom Fussball 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/27722
-#EXTINF:-1, FC Bayern TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49465
-#EXTINF:-1, FC Bayern TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49466
-#EXTINF:-1, Telekom   BBL Sport 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49472
-#EXTINF:-1, Telekom   BBL Sport 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49473
-#EXTINF:-1, Telekom   BBL Sport 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49474
-#EXTINF:-1, Telekom   BBL Sport 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49475
-#EXTINF:-1, Telekom   DEL Sport 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49476
-#EXTINF:-1, Telekom   DEL Sport 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49477
-#EXTINF:-1, Telekom   DEL Sport 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49478
-#EXTINF:-1, Telekom   DEL Sport 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49479
-#EXTINF:-1, Telekom   DEL Sport 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49480
-#EXTINF:-1, Telekom   DEL Sport 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49481
-#EXTINF:-1, Telekom   DEL Sport 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49482
-#EXTINF:-1, Nat Geo HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15023
-#EXTINF:-1,Nat Geo HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78475
-#EXTINF:-1,National Geographic HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/608
-#EXTINF:-1,Nat Geo Wild FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15022
-#EXTINF:-1,Nat Geo Wild HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78474
-#EXTINF:-1,NatGeo Wild HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/607
-#EXTINF:-1,Discovery FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15014
-#EXTINF:-1,Discovery HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/609
-#EXTINF:-1,Discovery HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78473
-#EXTINF:-1,TLC HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78452
-#EXTINF:-1,TLC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/8268
-#EXTINF:-1,Dmax
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12595
-#EXTINF:-1,DMAX HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78477
-#EXTINF:-1,A.E HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10071
-#EXTINF:-1,Spiegel Geschichte HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78478
-#EXTINF:-1,Spiegel Geschichte HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/605
+#EXTINF:-1,3 SAT HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16599
+#EXTINF:-1,4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16600
+#EXTINF:-1,1-2-3 TV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16601
+#EXTINF:-1,13th Street FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16602
+#EXTINF:-1,algäu TV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16603
+#EXTINF:-1,alpha HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16604
+#EXTINF:-1,ANIMAL PLANET HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16605
+#EXTINF:-1,ANIXE FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16607
+#EXTINF:-1,ANIXE SERIE
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16608
+#EXTINF:-1,ARD FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16609
+#EXTINF:-1,ARD ONE HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16611
+#EXTINF:-1,Aristo TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16613
+#EXTINF:-1,Arte HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16614
+#EXTINF:-1,Astro TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16616
+#EXTINF:-1,Astro/Alpha TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16617
+#EXTINF:-1,ATV 2
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16618
+#EXTINF:-1,ATV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16619
+#EXTINF:-1,Augsburg TV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16620
+#EXTINF:-1,Auto Motor Sport HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16621
+#EXTINF:-1,B Max 01
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16622
+#EXTINF:-1,BABY TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16623
+#EXTINF:-1,BADEN TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16624
+#EXTINF:-1,Bayerisches Fernsehen Nord
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16625
+#EXTINF:-1,Bayerisches Fernsehen Süd HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16626
+#EXTINF:-1,BBL SPORT 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16627
+#EXTINF:-1,BBL SPORT 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16628
+#EXTINF:-1,Bibel TV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16629
+#EXTINF:-1,Bibel TV Impuls HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16630
+#EXTINF:-1,Bibel TV Musik
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16631
+#EXTINF:-1,BLK Regional TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16633
+#EXTINF:-1,BON GUSTO
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16634
 #EXTINF:-1,Boomerang
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10073
-#EXTINF:-1,DE|Disney Channel HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78484
-#EXTINF:-1,Disney Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10353
-#EXTINF:-1,Disney Junior HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10354
-#EXTINF:-1,Disney XD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10355
-#EXTINF:-1, Disney Cinemagic FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15015
-#EXTINF:-1,Junior
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12596
-#EXTINF:-1,KiKA FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15021
-#EXTINF:-1,KiKa HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/599
-#EXTINF:-1,NICKELODEON HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12209
-#EXTINF:-1,Toggo Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12597
-#EXTINF:-1,  Deluxe Music HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15050
-#EXTINF:-1,DE|Deluxe Music HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78487
-#EXTINF:-1,Comedy Central HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10351
-#EXTINF:-1,DE|KiKA HEVC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/78483
-#EXTINF:-1, Classica HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/15049
-#EXTINF:-1,DMTV Boxoffice 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115399
-#EXTINF:-1,DMTV Boxoffice 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115400
-#EXTINF:-1,DMTV Boxoffice 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115401
-#EXTINF:-1,DMTV Boxoffice 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115402
-#EXTINF:-1,DMTV Boxoffice 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115403
-#EXTINF:-1,DMTV Boxoffice 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115404
-#EXTINF:-1,DMTV Boxoffice 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115405
-#EXTINF:-1,DMTV Boxoffice 8
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115406
-#EXTINF:-1,DMTV Boxoffice 9
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115407
-#EXTINF:-1,DMTV Boxoffice 10
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115408
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16635
+#EXTINF:-1,boss 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16637
+#EXTINF:-1,BOSS Movies 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16638
+#EXTINF:-1,BOSS Movies 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16639
+#EXTINF:-1,BOSS Movies 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16640
+#EXTINF:-1,BOSS Movies 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16641
+#EXTINF:-1,BR FERNSEHEN HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16642
+#EXTINF:-1,BR Fernsehen Nord HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16643
+#EXTINF:-1,BR Fernsehen Sued HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16644
+#EXTINF:-1,CARTOON NETWORK FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16645
+#EXTINF:-1,Chamber TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16647
+#EXTINF:-1,Channel 21 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16648
+#EXTINF:-1,Chaula Music HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16649
+#EXTINF:-1,Chemnitz TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16651
+#EXTINF:-1,Cine Gold Action/Thriller HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16652
+#EXTINF:-1,Cine Gold Adventure HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16653
+#EXTINF:-1,Cine Gold Anime HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16654
+#EXTINF:-1,Cine Gold Bollywood HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16655
+#EXTINF:-1,Cine Gold Comedy HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16656
+#EXTINF:-1,Cine Gold Crime HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16657
+#EXTINF:-1,Cine Gold Drama HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16658
+#EXTINF:-1,Cine Gold Fantasy HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16659
+#EXTINF:-1,Cine Gold History HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16660
+#EXTINF:-1,Cine Gold Katastrophen HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16662
+#EXTINF:-1,Cine Gold Musical HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16663
+#EXTINF:-1,Cine Gold Romance HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16665
+#EXTINF:-1,Cine Gold sci-fi HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16666
+#EXTINF:-1,Cine Gold War HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16667
+#EXTINF:-1,Cine Gold Western HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16668
+#EXTINF:-1,Cine Max Fast & Furious HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16669
+#EXTINF:-1,Cine Max Harry Potter HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16670
+#EXTINF:-1,Cine Max IMDB HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16671
+#EXTINF:-1,Cine Max Marvel HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16672
+#EXTINF:-1,CINE SELECT 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16673
+#EXTINF:-1,CINE SELECT 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16674
+#EXTINF:-1,CINE SELECT 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16675
+#EXTINF:-1,Cinedome 007
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16676
+#EXTINF:-1,Cinedome Action
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16677
+#EXTINF:-1,Cinedome Animation
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16678
+#EXTINF:-1,Cinedome Cinema HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16679
+#EXTINF:-1,Cinedome Familie FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16680
+#EXTINF:-1,Cinedome Hits FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16681
+#EXTINF:-1,Cinedome Horror
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16682
+#EXTINF:-1,Cinedome Star Wars
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16683
+#EXTINF:-1,CLASSICA FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16684
+#EXTINF:-1,CNBC
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16685
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16686
+#EXTINF:-1,Corona Virus Stats
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16687
+#EXTINF:-1,Crime+ Investigation HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16688
+#EXTINF:-1,DAS ERSTE FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16690
+#EXTINF:-1,DAZN 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16691
+#EXTINF:-1,DAZN 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16693
+#EXTINF:-1,DAZN Bar 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16695
+#EXTINF:-1,DAZN Event 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16697
+#EXTINF:-1,Deluxe Music FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16699
+#EXTINF:-1,Den Haag TV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16701
+#EXTINF:-1,Der Aktionär TV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16702
+#EXTINF:-1,DEUTSCHE MUSIC
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16703
+#EXTINF:-1,Deutsche Welle TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16704
+#EXTINF:-1,Deutsches Musik Fernsehen HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16705
+#EXTINF:-1,Die Neue Zeit TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16707
+#EXTINF:-1,Diney Channel FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16708
+#EXTINF:-1,Discovery Channel FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16709
+#EXTINF:-1,Discovery World FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16711
+#EXTINF:-1,Disney Channel FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16712
+#EXTINF:-1,Disney Jr
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16714
+#EXTINF:-1,Disney Plus Film HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16716
+#EXTINF:-1,Disney XD HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16717
+#EXTINF:-1,DMAX Austria
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16718
+#EXTINF:-1,DMAX FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16719
+#EXTINF:-1,doxx FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16721
+#EXTINF:-1,DRF 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16722
+#EXTINF:-1,DW HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16723
+#EXTINF:-1,E! FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16724
+#EXTINF:-1,Eagle Bollywood HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16726
+#EXTINF:-1,Eagle Cinema 007 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16727
+#EXTINF:-1,Eagle Cinema Abenteuer FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16728
+#EXTINF:-1,Eagle Cinema Aktion HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16729
+#EXTINF:-1,Eagle Cinema Biografie FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16730
+#EXTINF:-1,Eagle Cinema Drama FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16731
+#EXTINF:-1,Eagle Cinema Familie FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16732
+#EXTINF:-1,Eagle Cinema Fantasie FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16733
+#EXTINF:-1,Eagle Cinema Geschichte FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16734
+#EXTINF:-1,Eagle Cinema Horror HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16735
+#EXTINF:-1,Eagle Cinema KINOSAAL
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16736
+#EXTINF:-1,Eagle Cinema Komodie FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16737
+#EXTINF:-1,Eagle Cinema Lächeln FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16738
+#EXTINF:-1,Eagle Cinema Mythologie FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16739
+#EXTINF:-1,Eagle Cinema Premiere FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16740
+#EXTINF:-1,Eagle Cinema Romantisch FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16741
+#EXTINF:-1,Eagle Cinema sci-fi FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16742
+#EXTINF:-1,Eagle Cinema Spaghetti Western HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16743
+#EXTINF:-1,Eagle Cinema Thriller HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16744
+#EXTINF:-1,Eagle Entdeckernatur FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16745
+#EXTINF:-1,Eagle Masha und der Bär HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16746
+#EXTINF:-1,Eagle Peppa Wutz FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16747
+#EXTINF:-1,Eagle PJ MASKS FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16748
+#EXTINF:-1,EDGEsport
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16749
+#EXTINF:-1,Elbekanal TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16750
+#EXTINF:-1,EMOTİONS
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16751
+#EXTINF:-1,Entertainment HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16752
+#EXTINF:-1,ERF 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16753
+#EXTINF:-1,eSPORTS 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16754
+#EXTINF:-1,eutsches Musik Fernsehen HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16763
+#EXTINF:-1,EWTN katholisches TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16765
+#EXTINF:-1,Family TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16766
+#EXTINF:-1,FC Bayern HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16767
+#EXTINF:-1,FC BFC Bayern HDayern HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16768
+#EXTINF:-1,Film Club 1
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16769
+#EXTINF:-1,Film Club 2
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16770
+#EXTINF:-1,Film Club 3
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16771
+#EXTINF:-1,Film Club 4
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16772
+#EXTINF:-1,Finest TV Web
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16773
+#EXTINF:-1,FIX & FOXI HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16774
+#EXTINF:-1,FLYERALARM Frauen Bundesliga 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16775
+#EXTINF:-1,FLYERALARM Frauen-Bundesliga 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16776
+#EXTINF:-1,FLYERALARM Frauen-Bundesliga 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16777
+#EXTINF:-1,FLYERALARM Frauen-Bundesliga 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16778
+#EXTINF:-1,FLYERALARM Frauen-Bundesliga 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16779
+#EXTINF:-1,FLYERALARM Frauen-Bundesliga 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16780
+#EXTINF:-1,FLYERALARM Frauen-Bundesliga 7 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16781
+#EXTINF:-1,FLYERALARM Frauen-Bundesliga 8 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16782
+#EXTINF:-1,FOLX HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16783
+#EXTINF:-1,FOX FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16784
+#EXTINF:-1,Fox Serie
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16785
+#EXTINF:-1,Fox Serıes HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16786
+#EXTINF:-1,Franken Fernsehen HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16787
+#EXTINF:-1,Franken HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16788
+#EXTINF:-1,Frauen Bundesliga HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16789
+#EXTINF:-1,Genius Plus TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16790
+#EXTINF:-1,Genius Teleshopping HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16791
+#EXTINF:-1,GOLD HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16792
+#EXTINF:-1,GOLDSTAR TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16793
+#EXTINF:-1,Gute Laune TV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16794
+#EXTINF:-1,Halle TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16795
+#EXTINF:-1,Health TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16796
+#EXTINF:-1,Heimat
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16797
+#EXTINF:-1,HGT
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16798
+#EXTINF:-1,HGTV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16799
+#EXTINF:-1,HiperCinema FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16801
+#EXTINF:-1,History Channel HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16802
+#EXTINF:-1,HR HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16804
+#EXTINF:-1,HSE
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16805
+#EXTINF:-1,HSE Extra
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16806
+#EXTINF:-1,HSE Trend
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16807
+#EXTINF:-1,HSE24 EXTRA
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16808
+#EXTINF:-1,Hyper Cinema 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16809
+#EXTINF:-1,Hyper Cinema 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16810
+#EXTINF:-1,HyperCinema 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16811
+#EXTINF:-1,HyperCInema 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16812
+#EXTINF:-1,HyperCinema 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16813
+#EXTINF:-1,HyperCinema 7 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16814
+#EXTINF:-1,HyperCinema 8 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16815
+#EXTINF:-1,HyperCinema 9 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16816
+#EXTINF:-1,HyperCinema 10 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16817
+#EXTINF:-1,HyperCinema Boxset FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16818
+#EXTINF:-1,HyperCinema FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16819
+#EXTINF:-1,HyperCinema INFO FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16820
+#EXTINF:-1,Jukebox HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16821
+#EXTINF:-1,JUNIOR HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16822
+#EXTINF:-1,K-TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16824
+#EXTINF:-1,Kabel
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16825
+#EXTINF:-1,Kabel 1 CLASSICA HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16826
+#EXTINF:-1,Kabel 1 Classics HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16827
+#EXTINF:-1,Kabel 1 Doku Austria
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16828
+#EXTINF:-1,Kabel 1 Doku FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16829
+#EXTINF:-1,Kabel 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16830
+#EXTINF:-1,Kabel eins Class HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16831
+#EXTINF:-1,Kabel eins CLASSIC HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16832
+#EXTINF:-1,Kabel Eins Doku HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16833
+#EXTINF:-1,Kabel Eins FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16834
+#EXTINF:-1,Kanal Avrupa
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16835
+#EXTINF:-1,KaufBei TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16836
+#EXTINF:-1,KaufBei TV Shop
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16837
+#EXTINF:-1,KIKA FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16838
+#EXTINF:-1,Kingdom HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16839
+#EXTINF:-1,Kino WELT HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16840
+#EXTINF:-1,KiNOBOX 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16841
+#EXTINF:-1,KinoBox 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16842
+#EXTINF:-1,KiNOBOX 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16843
+#EXTINF:-1,KiNOBOX 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16844
+#EXTINF:-1,KiNOBOX 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16845
+#EXTINF:-1,KiNOBOX 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16846
+#EXTINF:-1,KiNOBOX 7 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16847
+#EXTINF:-1,KiNOBOX 10 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16848
+#EXTINF:-1,Kombat Sport
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16849
+#EXTINF:-1,Krone Hit FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16850
+#EXTINF:-1,KULTUR MD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16851
+#EXTINF:-1,Light Channel TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16852
+#EXTINF:-1,Magic Box 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16853
+#EXTINF:-1,MAGIC BOX KINO 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16854
+#EXTINF:-1,MagicBox 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16855
+#EXTINF:-1,MaGicBoX Kino2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16856
+#EXTINF:-1,MaGicBoX Kino3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16857
+#EXTINF:-1,MaGicBoX Kino4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16858
+#EXTINF:-1,MAX SELECT 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16859
+#EXTINF:-1,MAX Select 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16860
+#EXTINF:-1,MAX Select 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16861
+#EXTINF:-1,MDR HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16862
+#EXTINF:-1,MDR Sachsen HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16863
+#EXTINF:-1,MDR Thüringen HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16864
+#EXTINF:-1,MediaShop TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16865
+#EXTINF:-1,MEDIAspar
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16866
+#EXTINF:-1,Melodie TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16867
+#EXTINF:-1,MGM HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16868
+#EXTINF:-1,Mick's Clubhaus
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16869
+#EXTINF:-1,Motor Vision HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16870
+#EXTINF:-1,Movies Cinema 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16871
+#EXTINF:-1,MTV Dance
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16872
+#EXTINF:-1,MTV Germany HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16874
+#EXTINF:-1,MTV HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16875
+#EXTINF:-1,Munchen TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16876
+#EXTINF:-1,MusicTop
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16877
+#EXTINF:-1,N-TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16879
+#EXTINF:-1,N24 DOKU
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16880
+#EXTINF:-1,NAT GEO FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16881
+#EXTINF:-1,NAT GEO WILD FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16883
+#EXTINF:-1,NDR HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16885
+#EXTINF:-1,NICK HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16886
+#EXTINF:-1,Nick Junior HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16888
+#EXTINF:-1,Nick/Comedy Central
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16890
+#EXTINF:-1,Nicktoons HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16892
+#EXTINF:-1,Nitro FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16894
+#EXTINF:-1,NO4A
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16895
+#EXTINF:-1,NOA 4 HAMBURG FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16896
+#EXTINF:-1,Noa 4 Nachbern HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16897
+#EXTINF:-1,NOA 4 Norderstedt FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16898
+#EXTINF:-1,Oe24 TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16899
+#EXTINF:-1,OK Madgeburg
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16900
+#EXTINF:-1,OK Wernigerode
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16901
+#EXTINF:-1,OKD FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16902
+#EXTINF:-1,OKTO
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16903
+#EXTINF:-1,One HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16904
+#EXTINF:-1,One Music HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16905
+#EXTINF:-1,PDCTV 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16907
+#EXTINF:-1,PDCTV 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16908
+#EXTINF:-1,PDCTV 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16909
+#EXTINF:-1,pearl TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16910
+#EXTINF:-1,Phoenix HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16911
+#EXTINF:-1,POPCORN SELECT 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16912
+#EXTINF:-1,POPCORN SELECT 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16913
+#EXTINF:-1,POPCORN SELECT 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16914
+#EXTINF:-1,POPCORN SELECT 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16915
+#EXTINF:-1,POPCORN SELECT HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16916
+#EXTINF:-1,ProSieben FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16917
+#EXTINF:-1,ProSieben Fun FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16919
+#EXTINF:-1,ProSieben Maxx FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16921
+#EXTINF:-1,Puls 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16923
+#EXTINF:-1,PULS 24 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16924
+#EXTINF:-1,Punktum S
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16925
+#EXTINF:-1,QVC 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16926
+#EXTINF:-1,QVC Style
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16927
+#EXTINF:-1,QVC ZWEI
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16928
+#EXTINF:-1,RAN 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16929
+#EXTINF:-1,rbb HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16930
+#EXTINF:-1,Regio TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16931
+#EXTINF:-1,Regio TV Schwaben FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16932
+#EXTINF:-1,Regio TV Stuttgart
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16933
+#EXTINF:-1,RFH FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16934
+#EXTINF:-1,RFO HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16935
+#EXTINF:-1,RNF HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16936
+#EXTINF:-1,Romance TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16937
+#EXTINF:-1,RTL 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16938
+#EXTINF:-1,RTL Crime HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16939
+#EXTINF:-1,RTL FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16940
+#EXTINF:-1,RTL Living FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16941
+#EXTINF:-1,RTL Luxembourg 2
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16942
+#EXTINF:-1,RTL Passion FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16943
+#EXTINF:-1,RTL Plus FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16944
+#EXTINF:-1,RTL ZWEI HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16945
+#EXTINF:-1,Salzwedel FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16946
+#EXTINF:-1,SAT 1 emotions HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16947
+#EXTINF:-1,SAT 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16948
+#EXTINF:-1,Sat 1 Gold HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16949
+#EXTINF:-1,SERIEAX Junior
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16950
+#EXTINF:-1,SERIENAX Henry Danger
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16951
+#EXTINF:-1,SERIENAX Miraculous
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16952
+#EXTINF:-1,Servus TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16953
+#EXTINF:-1,SES FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16954
+#EXTINF:-1,SES FHD Demo Channel
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16955
+#EXTINF:-1,SILVERLINE
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16956
+#EXTINF:-1,Sixx FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16957
+#EXTINF:-1,Sky 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16958
+#EXTINF:-1,Sky Action FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16959
+#EXTINF:-1,Sky Atlantic FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16960
+#EXTINF:-1,Sky Best Of HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16961
+#EXTINF:-1,Sky Cinema +1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16962
+#EXTINF:-1,Sky Cinema +24 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16963
+#EXTINF:-1,Sky Cinema 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16964
+#EXTINF:-1,SKY CINEMA 3D
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16965
+#EXTINF:-1,SKY Cinema Action FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16966
+#EXTINF:-1,SKY CINEMA BEST OF FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16967
+#EXTINF:-1,Sky Cinema Classics HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16968
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16969
+#EXTINF:-1,Sky Cinema Comic Helden
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16970
+#EXTINF:-1,Sky Cinema Emotion FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16971
+#EXTINF:-1,Sky Cinema Family FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16972
+#EXTINF:-1,Sky Cinema Fun HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16973
+#EXTINF:-1,Sky Cinema Hits HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16974
+#EXTINF:-1,Sky Cinema Nostalgie FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16975
+#EXTINF:-1,Sky Cinema Nostalgie+
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16976
+#EXTINF:-1,Sky Cinema Premiere HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16977
+#EXTINF:-1,Sky Cinema Premieren +24 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16978
+#EXTINF:-1,Sky Cinema Spezial HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16979
+#EXTINF:-1,SKY CINEMA THRILLER FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16980
+#EXTINF:-1,Sky Classica HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16981
+#EXTINF:-1,Sky Classics
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16982
+#EXTINF:-1,Sky Comedy FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16983
+#EXTINF:-1,SKY Emotion HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16984
+#EXTINF:-1,SKY FAMILY FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16985
+#EXTINF:-1,Sky Fun
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16986
+#EXTINF:-1,Sky Hits FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16987
+#EXTINF:-1,Sky Junior HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16988
+#EXTINF:-1,Sky Krimi FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16990
+#EXTINF:-1,SKY Nostalgie HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16991
+#EXTINF:-1,Sky Premieren 24 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16992
+#EXTINF:-1,Sky Premieren HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16993
+#EXTINF:-1,Sky Romance TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16994
+#EXTINF:-1,SKY SELECT 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16995
+#EXTINF:-1,Sky Select 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16996
+#EXTINF:-1,Sky Select 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16997
+#EXTINF:-1,Sky Select 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16998
+#EXTINF:-1,Sky Select 8 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16999
+#EXTINF:-1,Sky Select 9 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17000
+#EXTINF:-1,Sky Select 10 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17001
+#EXTINF:-1,Sky Select 12 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17002
+#EXTINF:-1,Sky Select HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17003
+#EXTINF:-1,Sky Select Premiere FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17004
+#EXTINF:-1,Sky Select Premiere Vitrine HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17005
+#EXTINF:-1,SKY SELECT SUPER 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17006
+#EXTINF:-1,Sky Select super 4K
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17007
+#EXTINF:-1,Sky Serien & Shows FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17008
+#EXTINF:-1,Sky Special HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17009
+#EXTINF:-1,Sky Sport 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17010
+#EXTINF:-1,Sky Sport 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17011
+#EXTINF:-1,Sky Sport 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17013
+#EXTINF:-1,Sky Sport 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17014
+#EXTINF:-1,Sky Sport 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17015
+#EXTINF:-1,Sky Sport 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17016
+#EXTINF:-1,Sky Sport 7 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17017
+#EXTINF:-1,Sky Sport 8 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17018
+#EXTINF:-1,Sky Sport 1+
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17019
+#EXTINF:-1,Sky Sport 10 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17020
+#EXTINF:-1,Sky Sport 11 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17021
+#EXTINF:-1,Sky Sport Bundesliga 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17022
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17024
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17026
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17027
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17028
+#EXTINF:-1,Sky Sport Bundesliga 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17029
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17030
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17031
+#EXTINF:-1,Sky Sport Bundesliga 9 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17032
+#EXTINF:-1,Sky Sport Bundesliga 10 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17033
+#EXTINF:-1,Sky Sport Bundesliga Austria HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17034
+#EXTINF:-1,Sky Sport DIGITAL HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17035
+#EXTINF:-1,Sky Sport Liga 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17036
+#EXTINF:-1,Sky Sport Liga 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17037
+#EXTINF:-1,Sky Sport Liga 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17038
+#EXTINF:-1,Sky Sport Liga 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17039
+#EXTINF:-1,Sky Sport Liga 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17040
+#EXTINF:-1,Sky Sport News FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17041
+#EXTINF:-1,Sky Super Select 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17042
+#EXTINF:-1,Sky Super Select 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17043
+#EXTINF:-1,Sky Super Select 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17044
+#EXTINF:-1,Sky Super Select 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17045
+#EXTINF:-1,Sky Super Select 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17046
+#EXTINF:-1,Sky Super Select 7 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17047
+#EXTINF:-1,Sky Super Select 9 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17048
+#EXTINF:-1,Sky SyFy HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17049
+#EXTINF:-1,Sky Thriller HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17050
+#EXTINF:-1,SKY TNT Series HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17051
+#EXTINF:-1,Sky Universal Channel HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17052
+#EXTINF:-1,Skylantic HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17053
+#EXTINF:-1,SONNEKLAR TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17054
+#EXTINF:-1,Sonnenklar TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17055
+#EXTINF:-1,SONY AXN FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17056
+#EXTINF:-1,Sony Entertainment
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17057
+#EXTINF:-1,Spiegel Geschichte FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17058
+#EXTINF:-1,Spiegel TV Wissen HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17059
+#EXTINF:-1,SPORT 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17060
+#EXTINF:-1,Sport 1+ FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17061
+#EXTINF:-1,Sport Digital FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17062
+#EXTINF:-1,Sports1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17063
+#EXTINF:-1,Sports1+ HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17064
+#EXTINF:-1,SR FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17065
+#EXTINF:-1,Stingray Classica HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17066
+#EXTINF:-1,Super Graben
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17067
+#EXTINF:-1,Super RTL FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17068
+#EXTINF:-1,SWR HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17069
+#EXTINF:-1,SYFY FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17070
+#EXTINF:-1,Tagesschau 24 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17071
+#EXTINF:-1,TELE 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17072
+#EXTINF:-1,Telebasel
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17073
+#EXTINF:-1,Teleclub Sport 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17074
+#EXTINF:-1,Telekom - BBL Sport 1
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17075
+#EXTINF:-1,Telekom - Bundesliga 3 - 1
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17076
+#EXTINF:-1,Telekom - Bundesliga 3 - 4
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17077
+#EXTINF:-1,Telekom - Bundesliga 3 - 5
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17078
+#EXTINF:-1,Telekom - DEL Sport 1
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17079
+#EXTINF:-1,Telekom - DEL Sport 2
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17080
+#EXTINF:-1,Telekom 3 Bundesliga 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17081
+#EXTINF:-1,Telekom 3 Bundesliga 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17082
+#EXTINF:-1,Telekom 3 Bundesliga 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17083
+#EXTINF:-1,Telekom 3 Bundesliga 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17084
+#EXTINF:-1,Telekom 3 Bundesliga 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17085
+#EXTINF:-1,Telekom 3 Bundesliga 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17086
+#EXTINF:-1,Telekom 3 Bundesliga 7 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17087
+#EXTINF:-1,Telekom 3 Bundesliga 8 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17088
+#EXTINF:-1,Telekom Basketball (BBL) 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17089
+#EXTINF:-1,Telekom Basketball (BBL) 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17090
+#EXTINF:-1,Telekom Basketball (BBL) 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17091
+#EXTINF:-1,Telekom Basketball 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17092
+#EXTINF:-1,Telekom Basketball 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17093
+#EXTINF:-1,Telekom Basketball 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17094
+#EXTINF:-1,Telekom Basketball 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17095
+#EXTINF:-1,Telekom Basketball 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17096
+#EXTINF:-1,Telekom Basketball 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17097
+#EXTINF:-1,Telekom Basketball 7 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17098
+#EXTINF:-1,Telekom Basketball 8 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17099
+#EXTINF:-1,Telekom Basketball 9 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17100
+#EXTINF:-1,Telekom BBL Sport 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17101
+#EXTINF:-1,Telekom BBL Sport 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17102
+#EXTINF:-1,TELEKOM BUNDESLIGA 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17103
+#EXTINF:-1,TELEKOM BUNDESLIGA 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17105
+#EXTINF:-1,TELEKOM BUNDESLIGA 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17107
+#EXTINF:-1,TELEKOM BUNDESLIGA 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17109
+#EXTINF:-1,TELEKOM BUNDESLIGA 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17111
+#EXTINF:-1,TELEKOM BUNDESLIGA 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17112
+#EXTINF:-1,TELEKOM BUNDESLIGA 7 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17113
+#EXTINF:-1,Telekom DEL Sport 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17114
+#EXTINF:-1,Telekom DEL Sport 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17115
+#EXTINF:-1,Telekom DEL Sport 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17116
+#EXTINF:-1,Telekom DEL Sport 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17117
+#EXTINF:-1,Telekom Eishockey (DEL) 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17118
+#EXTINF:-1,Telekom Eishockey (DEL) 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17119
+#EXTINF:-1,Telekom Eishockey (DEL) 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17120
+#EXTINF:-1,Telekom Eishockey (DEL) 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17121
+#EXTINF:-1,Telekom Eishockey (DEL) 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17122
+#EXTINF:-1,Telekom Eishockey (DEL) 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17123
+#EXTINF:-1,Telekom Eishockey 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17124
+#EXTINF:-1,Telekom Eishockey 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17125
+#EXTINF:-1,Telekom Eishockey 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17126
+#EXTINF:-1,Telekom Eishockey 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17127
+#EXTINF:-1,Telekom Eishockey 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17128
+#EXTINF:-1,Telekom Eishockey 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17129
+#EXTINF:-1,Telekom Eishockey 7 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17130
+#EXTINF:-1,Telekom Eishockey 8 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17131
+#EXTINF:-1,TELEKOM FC Bayern TV
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17132
+#EXTINF:-1,Telekom Fussbal 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17133
+#EXTINF:-1,Telekom Fussball 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17134
+#EXTINF:-1,TELEKOM FUSSBALL 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17135
+#EXTINF:-1,Telekom Fußball (3. Liga) 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17136
+#EXTINF:-1,Telekom Fußball (3. Liga) 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17137
+#EXTINF:-1,Telekom Fußball (3. Liga) 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17138
+#EXTINF:-1,Telekom Fußball (3. Liga) 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17139
+#EXTINF:-1,Telekom Fußball (3. Liga) 5 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17140
+#EXTINF:-1,Telekom Fußball (3. Liga) 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17141
+#EXTINF:-1,Telekom Fußball (3. Liga) 7 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17142
+#EXTINF:-1,Telekom Fußball (3. Liga) 8 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17143
+#EXTINF:-1,Telekom Fußball (3. Liga) 9 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17144
+#EXTINF:-1,Telekom Fußball (3. Liga) 10 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17145
+#EXTINF:-1,Telekom Fußball (3. Liga) 11 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17146
+#EXTINF:-1,Telekom Fußball 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17147
+#EXTINF:-1,Telekom Fußball 2 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17148
+#EXTINF:-1,Telekom Fußball 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17149
+#EXTINF:-1,Telekom Fußball 6 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17150
+#EXTINF:-1,Telekom Fußball 7 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17151
+#EXTINF:-1,Telekom Sport 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17152
+#EXTINF:-1,Telekom Sport 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17154
+#EXTINF:-1,TELEKOM SPORT 3 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17156
+#EXTINF:-1,Telekom Sport 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17158
+#EXTINF:-1,Telekom Sport 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17160
+#EXTINF:-1,Telekom Sport 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17162
+#EXTINF:-1,Telekom Sport 7 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17164
+#EXTINF:-1,Telekom Sport 8 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17166
+#EXTINF:-1,TLC FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17168
+#EXTINF:-1,TNT Comedy FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17169
+#EXTINF:-1,TNT Film FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17170
+#EXTINF:-1,TNT Serie FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17171
+#EXTINF:-1,TOGGO+
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17172
+#EXTINF:-1,Tom & Jerry HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17173
+#EXTINF:-1,TV A
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17174
+#EXTINF:-1,TV AKTUELL
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17175
+#EXTINF:-1,TV Ingolstadt
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17176
+#EXTINF:-1,TV MAIN FRANKEN HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17177
+#EXTINF:-1,TV OBERFRANKEN HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17178
+#EXTINF:-1,TV OBERPFALZ HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17179
+#EXTINF:-1,TVA OSTBAYERN HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17180
+#EXTINF:-1,TVO FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17181
+#EXTINF:-1,UNIVERSAL TV FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17182
+#EXTINF:-1,VH1 Classic
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17183
+#EXTINF:-1,VIVA / Comedy Central
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17185
+#EXTINF:-1,VIVA Comedy
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17186
+#EXTINF:-1,VOX Austria
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17187
+#EXTINF:-1,VOX FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17188
+#EXTINF:-1,VOX UP
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17189
+#EXTINF:-1,VTM 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17190
+#EXTINF:-1,Waidwerk HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17191
+#EXTINF:-1,WDR Fernsehen HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17192
+#EXTINF:-1,WDR FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17193
+#EXTINF:-1,welt der wunder FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17194
+#EXTINF:-1,WELT FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17195
+#EXTINF:-1,WELT/ N24 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17196
+#EXTINF:-1,WWE HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17197
+#EXTINF:-1,XITE HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17198
+#EXTINF:-1,ZDF FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17199
+#EXTINF:-1,ZDF Info FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17200
+#EXTINF:-1,ZDF neo FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17201
