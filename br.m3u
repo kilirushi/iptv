@@ -1,183 +1,251 @@
 #EXTM3U
+#EXTINF:-1,GLOBO BRASILA HD
+http://rv.therevenge.co:80/307200114044/307200114044/82459
+#EXTINF:-1,GLOBO RJ HD
+http://rv.therevenge.co:80/307200114044/307200114044/82458
+#EXTINF:-1,GLOBO SP HD
+http://rv.therevenge.co:80/307200114044/307200114044/82457
+#EXTINF:-1,GLOBO MINAS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82456
+#EXTINF:-1,GLOBO NORDESTE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82455
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82454
+#EXTINF:-1,GLOBO TV MIRANTE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82453
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82452
+#EXTINF:-1,RECORD HD
+http://rv.therevenge.co:80/307200114044/307200114044/82451
+#EXTINF:-1,RECORD RJ HD
+http://rv.therevenge.co:80/307200114044/307200114044/82450
+#EXTINF:-1,RECORD SP HD
+http://rv.therevenge.co:80/307200114044/307200114044/82449
+#EXTINF:-1,WOOHOO HD
+http://rv.therevenge.co:80/307200114044/307200114044/82448
+#EXTINF:-1,VIVA HD
+http://rv.therevenge.co:80/307200114044/307200114044/82447
+#EXTINF:-1,E! HD
+http://rv.therevenge.co:80/307200114044/307200114044/82446
+#EXTINF:-1,EI PLUS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82445
+#EXTINF:-1,LIFETIME HD
+http://rv.therevenge.co:80/307200114044/307200114044/82444
+#EXTINF:-1,FOOD NETWORK HD
+http://rv.therevenge.co:80/307200114044/307200114044/82443
+#EXTINF:-1,GLOOB HD
+http://rv.therevenge.co:80/307200114044/307200114044/82442
+#EXTINF:-1,GNT HD
+http://rv.therevenge.co:80/307200114044/307200114044/82441
+#EXTINF:-1,GLOBOSAT HD
+http://rv.therevenge.co:80/307200114044/307200114044/82440
+#EXTINF:-1,CANAL BRASIL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82439
+#EXTINF:-1,NOVO TEMPO HD
+http://rv.therevenge.co:80/307200114044/307200114044/82438
+#EXTINF:-1,REDE TV HD
+http://rv.therevenge.co:80/307200114044/307200114044/82437
+#EXTINF:-1,SBT CIDADE VERDE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82436
+#EXTINF:-1,SBT HD
+http://rv.therevenge.co:80/307200114044/307200114044/82435
+#EXTINF:-1,CURTA! HD
+http://rv.therevenge.co:80/307200114044/307200114044/82434
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82433
+#EXTINF:-1,GLOBO NEWS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82431
+#EXTINF:-1,RECORD NEWS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82430
+#EXTINF:-1,BAND NEWS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82429
+#EXTINF:-1,CBS NEWS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82428
+#EXTINF:-1,BABY HD
+http://rv.therevenge.co:80/307200114044/307200114044/82426
+#EXTINF:-1,BOOMERANG HD
+http://rv.therevenge.co:80/307200114044/307200114044/82425
+#EXTINF:-1,CARTOON NETWORK HD
+http://rv.therevenge.co:80/307200114044/307200114044/82424
+#EXTINF:-1,DISNEY CHANNEL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82423
+#EXTINF:-1,DISNEY JR HD
+http://rv.therevenge.co:80/307200114044/307200114044/82422
+#EXTINF:-1,DISNEY XD HD
+http://rv.therevenge.co:80/307200114044/307200114044/82421
+#EXTINF:-1,NICK HD
+http://rv.therevenge.co:80/307200114044/307200114044/82420
+#EXTINF:-1,NICK JR HD
+http://rv.therevenge.co:80/307200114044/307200114044/82419
+#EXTINF:-1,NICKELODEON HD
+http://rv.therevenge.co:80/307200114044/307200114044/82418
+#EXTINF:-1,TOONCAST HD
+http://rv.therevenge.co:80/307200114044/307200114044/82417
+#EXTINF:-1,RA TIM BUM HD
+http://rv.therevenge.co:80/307200114044/307200114044/82416
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82414
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82413
+#EXTINF:-1,HBO HD
+http://rv.therevenge.co:80/307200114044/307200114044/82412
+#EXTINF:-1,HBO 2 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82411
+#EXTINF:-1,HBO FAMILY HD
+http://rv.therevenge.co:80/307200114044/307200114044/82410
+#EXTINF:-1,HBO PLUS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82409
+#EXTINF:-1,HBO SIGNATURE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82408
+#EXTINF:-1,MAX PRIME HD
+http://rv.therevenge.co:80/307200114044/307200114044/82407
+#EXTINF:-1,PREMIERE CLUBES HD
+http://rv.therevenge.co:80/307200114044/307200114044/82406
+#EXTINF:-1,PREMIERE 2 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82405
+#EXTINF:-1,PREMIERE 3 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82404
+#EXTINF:-1,PREMIERE 4 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82403
+#EXTINF:-1,PREMIERE 5 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82402
+#EXTINF:-1,PREMIERE 6 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82401
+#EXTINF:-1,PREMIERE 7 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82400
+#EXTINF:-1,TELECINE PREMIUM HD
+http://rv.therevenge.co:80/307200114044/307200114044/82399
+#EXTINF:-1,TNT HD
+http://rv.therevenge.co:80/307200114044/307200114044/82398
+#EXTINF:-1,TNT SERIES HD
+http://rv.therevenge.co:80/307200114044/307200114044/82397
+#EXTINF:-1,TELECINE ACTION HD
+http://rv.therevenge.co:80/307200114044/307200114044/82396
+#EXTINF:-1,TELECINE CULT HD
+http://rv.therevenge.co:80/307200114044/307200114044/82395
+#EXTINF:-1,TELECINE FUN HD
+http://rv.therevenge.co:80/307200114044/307200114044/82394
+#EXTINF:-1,TELECINE PIPOCA HD
+http://rv.therevenge.co:80/307200114044/307200114044/82393
+#EXTINF:-1,TELECINE TOUCH HD
+http://rv.therevenge.co:80/307200114044/307200114044/82392
+#EXTINF:-1,WARNER CHANNEL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82391
+#EXTINF:-1,AMC HD
+http://rv.therevenge.co:80/307200114044/307200114044/82390
+#EXTINF:-1,ARTE 1 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82389
+#EXTINF:-1,AXN HD
+http://rv.therevenge.co:80/307200114044/307200114044/82388
+#EXTINF:-1,BAND CAMPINAS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82387
+#EXTINF:-1,BAND SP HD
+http://rv.therevenge.co:80/307200114044/307200114044/82386
+#EXTINF:-1,BAND SPORT HD
+http://rv.therevenge.co:80/307200114044/307200114044/82385
+#EXTINF:-1,CINEMAX HD
+http://rv.therevenge.co:80/307200114044/307200114044/82384
+#EXTINF:-1,COMEDY CENTRAL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82383
+#EXTINF:-1,FOX HD
+http://rv.therevenge.co:80/307200114044/307200114044/82382
+#EXTINF:-1,FOX LIFE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82381
+#EXTINF:-1,FX HD
+http://rv.therevenge.co:80/307200114044/307200114044/82380
+#EXTINF:-1,MAX HD
+http://rv.therevenge.co:80/307200114044/307200114044/82379
+#EXTINF:-1,MAX UP HD
+http://rv.therevenge.co:80/307200114044/307200114044/82378
+#EXTINF:-1,MEGAPIX HD
+http://rv.therevenge.co:80/307200114044/307200114044/82377
+#EXTINF:-1,MULTISHOW HD
+http://rv.therevenge.co:80/307200114044/307200114044/82376
+#EXTINF:-1,OFF HD
+http://rv.therevenge.co:80/307200114044/307200114044/82375
+#EXTINF:-1,PARAMOUNT HD
+http://rv.therevenge.co:80/307200114044/307200114044/82374
+#EXTINF:-1,SONY CHANNEL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82373
+#EXTINF:-1,SPACE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82372
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82371
+#EXTINF:-1,SYFY HD
+http://rv.therevenge.co:80/307200114044/307200114044/82370
+#EXTINF:-1,TBS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82369
+#EXTINF:-1,TCM HD
+http://rv.therevenge.co:80/307200114044/307200114044/82368
+#EXTINF:-1,TLC HD
+http://rv.therevenge.co:80/307200114044/307200114044/82367
+#EXTINF:-1,UNIVERSAL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82366
+#EXTINF:-1,ZOOMOO HD
+http://rv.therevenge.co:80/307200114044/307200114044/82365
 #EXTINF:-1,A&E HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3189
-#EXTINF:-1,AMC
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3190
-#EXTINF:-1,Animal Planet HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3191
-#EXTINF:-1,Axn SD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3192
-#EXTINF:-1,Band News HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3193
-#EXTINF:-1,Band HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3194
-#EXTINF:-1,Band SPorts HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3195
-#EXTINF:-1,Boomerang HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3196
-#EXTINF:-1,Canal Brasil HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3197
-#EXTINF:-1,Cartoon Network HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3198
-#EXTINF:-1,Cinemax SD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3199
-#EXTINF:-1,Combate HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3200
-#EXTINF:-1,Comedy CEntral HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3201
-#EXTINF:-1,Discovery Channel HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3202
-#EXTINF:-1,Discovery Civilization HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3203
-#EXTINF:-1,Discovery H&H HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3204
-#EXTINF:-1,Discovery Kids HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3205
-#EXTINF:-1,Discovery Science HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3206
-#EXTINF:-1,Discovery Theater HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3207
-#EXTINF:-1,Discovery Turbo HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3208
-#EXTINF:-1,Discovery World HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3209
-#EXTINF:-1,Disney Channel HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3210
-#EXTINF:-1,Disney Jr HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3211
-#EXTINF:-1,Disney Xd HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3212
-#EXTINF:-1,Espn 2 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3213
-#EXTINF:-1,Espn Brasil HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3214
-#EXTINF:-1,Espn Extra HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3215
-#EXTINF:-1,Espn HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3216
-#EXTINF:-1,Fox Life HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3217
-#EXTINF:-1,Fox Premium 1 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3218
-#EXTINF:-1,Fox Premium 2 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3219
-#EXTINF:-1,Fox SD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3220
-#EXTINF:-1,Fox Sports 2 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3221
-#EXTINF:-1,Fox SPorts HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3222
-#EXTINF:-1,Fx SD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3223
-#EXTINF:-1,Globo News HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3224
-#EXTINF:-1,Globo RJ HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3225
-#EXTINF:-1,Globo SP HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3226
-#EXTINF:-1,H2 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3227
-#EXTINF:-1,Hbo 2 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3228
-#EXTINF:-1,Hbo Family HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3229
-#EXTINF:-1,Hbo HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3230
-#EXTINF:-1,Hbo Plus HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3231
-#EXTINF:-1,Hbo Signature HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3232
-#EXTINF:-1,History HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3233
-#EXTINF:-1,ID Discovery HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3234
-#EXTINF:-1,HBO MUNDI HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3235
-#EXTINF:-1,Max Prime HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3236
-#EXTINF:-1,Max Up HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3237
-#EXTINF:-1,Megapix SD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3238
+http://rv.therevenge.co:80/307200114044/307200114044/82364
+#EXTINF:-1,SPORTV HD
+http://rv.therevenge.co:80/307200114044/307200114044/82362
+#EXTINF:-1,SPORTV 2 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82361
+#EXTINF:-1,SPORTV 3 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82360
+#EXTINF:-1,FOX SPORTS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82359
+#EXTINF:-1,FOX SPORTS 2 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82358
+#EXTINF:-1,ESPN HD
+http://rv.therevenge.co:80/307200114044/307200114044/82357
+#EXTINF:-1,ESPN EXTRA HD
+http://rv.therevenge.co:80/307200114044/307200114044/82356
+#EXTINF:-1,ESPN 2 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82355
+#EXTINF:-1,ESPN BRASIL HD
+http://rv.therevenge.co:80/307200114044/307200114044/82354
+#EXTINF:-1,COMBATE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82353
+#EXTINF:-1,BAND SPORTS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82352
+#EXTINF:-1,CONMEBOL TV 4 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82351
+#EXTINF:-1,CONMEBOL TV 3 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82350
+#EXTINF:-1,CONMEBOL TV 2 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82349
+#EXTINF:-1,CONMEBOL TV 1 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82348
+#EXTINF:-1,BIS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82346
 #EXTINF:-1,MTV HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3239
-#EXTINF:-1,Natgeo HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3240
-#EXTINF:-1,Natgeo Kids HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3241
-#EXTINF:-1,Natgeo Wild HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3242
-#EXTINF:-1,Nick HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3243
-#EXTINF:-1,Nick Jr HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3244
-#EXTINF:-1,Paramount HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3245
-#EXTINF:-1,Premiere 2 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3246
-#EXTINF:-1,Premiere 3 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3247
-#EXTINF:-1,Premiere 4 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3248
-#EXTINF:-1,Premiere 5 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3249
-#EXTINF:-1,Premiere 6 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3250
-#EXTINF:-1,Premiere 7 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3251
-#EXTINF:-1,Premiere Clubes HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3252
-#EXTINF:-1,Record HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3253
-#EXTINF:-1,Record News HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3254
-#EXTINF:-1,Rede TV HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3255
-#EXTINF:-1,Sbt HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3256
-#EXTINF:-1,Sony Channel HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3257
-#EXTINF:-1,SPace HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3258
-#EXTINF:-1,SPorTV 2 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3259
-#EXTINF:-1,SPorTV 3 HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3260
-#EXTINF:-1,SPorTV HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3261
-#EXTINF:-1,Studio Universal HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3262
-#EXTINF:-1,Syfy HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3263
-#EXTINF:-1,Tbs HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3264
-#EXTINF:-1,Tcm HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3267
-#EXTINF:-1,Telecine Action HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3268
-#EXTINF:-1,Telecine Cult HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3269
-#EXTINF:-1,Telecine Fun HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3270
-#EXTINF:-1,Telecine Pipoca HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3271
-#EXTINF:-1,Telecine Premium HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3272
-#EXTINF:-1,Telecine Touch HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3273
-#EXTINF:-1,Tlc HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3274
-#EXTINF:-1,Tnt HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3275
-#EXTINF:-1,Tnt Series HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3276
-#EXTINF:-1,Tooncast HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3277
-#EXTINF:-1,TV Brasil Df
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3278
-#EXTINF:-1,Universal HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3279
-#EXTINF:-1,Warner Channel HD
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3280
-#EXTINF:-1,PT | Sport TV
-http://disfruta.net:80/fparreno/3NXhrLMX2e/7204
+http://rv.therevenge.co:80/307200114044/307200114044/82345
+#EXTINF:-1,ANIMAL PLANET HD
+http://rv.therevenge.co:80/307200114044/307200114044/82343
+#EXTINF:-1,DISCOVERY HD
+http://rv.therevenge.co:80/307200114044/307200114044/82342
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://rv.therevenge.co:80/307200114044/307200114044/82341
+#EXTINF:-1,DISCOVERY H&H HD
+http://rv.therevenge.co:80/307200114044/307200114044/82340
+#EXTINF:-1,DISCOVERY KIDS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82339
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://rv.therevenge.co:80/307200114044/307200114044/82338
+#EXTINF:-1,DISCOVERY THEATER HD
+http://rv.therevenge.co:80/307200114044/307200114044/82337
+#EXTINF:-1,DISCOVERY TURBO HD
+http://rv.therevenge.co:80/307200114044/307200114044/82336
+#EXTINF:-1,DISCOVERY WORLD HD
+http://rv.therevenge.co:80/307200114044/307200114044/82335
+#EXTINF:-1,HISTORY HD
+http://rv.therevenge.co:80/307200114044/307200114044/82334
+#EXTINF:-1,H2 HD
+http://rv.therevenge.co:80/307200114044/307200114044/82333
+#EXTINF:-1,DISCOVERY ID HD
+http://rv.therevenge.co:80/307200114044/307200114044/82332
+#EXTINF:-1,NAT GEO HD
+http://rv.therevenge.co:80/307200114044/307200114044/82331
+#EXTINF:-1,NAT GEO KIDS HD
+http://rv.therevenge.co:80/307200114044/307200114044/82330
+#EXTINF:-1,NAT GEO WILD HD
+http://rv.therevenge.co:80/307200114044/307200114044/82329
