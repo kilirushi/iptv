@@ -1,709 +1,471 @@
 #EXTM3U
-#EXTINF:-1,ITV BE FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77581
-#EXTINF:-1,ITV 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22223
-#EXTINF:-1,ITV HD 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10574
-#EXTINF:-1,ITV+1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91949
-#EXTINF:-1,ITV 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22222
-#EXTINF:-1,ITV HD 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10573
-#EXTINF:-1,ITV 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22221
-#EXTINF:-1,ITV HD 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10572
-#EXTINF:-1,ITV3+1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91950
-#EXTINF:-1,ITV 4 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22220
-#EXTINF:-1,ITV HD 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10571
-#EXTINF:-1,ITV Wales
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77432
-#EXTINF:-1,ITV4+1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91948
-#EXTINF:-1,More+1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91952
-#EXTINF:-1,UTV+1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91951
-#EXTINF:-1,CBBC FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22235
-#EXTINF:-1,CBBC BBC 4 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13623
-#EXTINF:-1,BBC HD 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10580
-#EXTINF:-1,BBC 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22244
-#EXTINF:-1,BBC HD 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10579
-#EXTINF:-1,BBC HD 3 CBBC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10578
-#EXTINF:-1,BBC 4 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22243
-#EXTINF:-1,BBC HD 4 CBEEBIES HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10577
-#EXTINF:-1,BBC CBBC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10581
-#EXTINF:-1,E4+1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91953
-#EXTINF:-1,GB News
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/148668
-#EXTINF:-1,E4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10491
-#EXTINF:-1,SKY ONE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10535
-#EXTINF:-1,Sky Two
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/80511
-#EXTINF:-1,RTE TWO  HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10494
-#EXTINF:-1,Sky Cinema Sci-fi
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10531
-#EXTINF:-1,SYFY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10569
-#EXTINF:-1,COMEDY CENTRAL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10565
-#EXTINF:-1,TG4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10479
-#EXTINF:-1,PICK TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10478
-#EXTINF:-1,Gibraltar- GBC ( ON AIR 19:30-23:30
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91619
-#EXTINF:-1,ITV London HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10499
-#EXTINF:-1,SKY CRIME FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/76145
-#EXTINF:-1,Sky Documentaries FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/76146
-#EXTINF:-1,Sky Nature FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/76147
-#EXTINF:-1,Sky Movies Action FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22214
-#EXTINF:-1,Sky Cinema Action HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10562
-#EXTINF:-1,SKY CINEMA Select HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10534
-#EXTINF:-1,Sky Movies Comedy FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22213
-#EXTINF:-1,Sky Cinema Comedy HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10561
-#EXTINF:-1,Sky Movies Disney FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22212
-#EXTINF:-1,- SKY CINEMA FEEL GOOD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10560
-#EXTINF:-1,Sky Movies Drama  Romance FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22211
-#EXTINF:-1,Sky Cinema DramaRomance HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10559
-#EXTINF:-1,Sky Movies Family FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22210
-#EXTINF:-1,Sky Cinema Family HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10558
-#EXTINF:-1,Sky Cinema Hero HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10557
-#EXTINF:-1,Sky Movies Hits FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22208
-#EXTINF:-1,Sky Cinema Hits HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10556
-#EXTINF:-1,SKY CINEMA ACTION MEN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91621
-#EXTINF:-1,Sky Cinema Animation
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91622
-#EXTINF:-1,Sky Cinema Premier HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10555
-#EXTINF:-1,Sky Cinema SciFiHorror HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10554
-#EXTINF:-1,UK | SKY Atlantic HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10532
-#EXTINF:-1,Sky Cinema Select HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10553
-#EXTINF:-1,Sky Movies Thriller FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22204
-#EXTINF:-1,Sky Cinema Thriller HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10552
-#EXTINF:-1,Sky Movies SciFi Horror FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22206
-#EXTINF:-1,SKY CINEMA SCI-FI HORROR HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10533
-#EXTINF:-1,Sky Movies Greats FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22209
-#EXTINF:-1,SKY ACTION
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10530
-#EXTINF:-1,SONY ACTION +1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50396
-#EXTINF:-1,SONY CHANNEL +1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50397
-#EXTINF:-1,BlackEnt Tv
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/89105
-#EXTINF:-1,SONY MOVIES +1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50399
-#EXTINF:-1,beIN Sports HD EN 11
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73973
-#EXTINF:-1,beIN Sports HD EN 12
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73974
-#EXTINF:-1,beIN Sports HD EN 13
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73976
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10516
-#EXTINF:-1,SKY SPORTS FHD FOOTBALL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10520
-#EXTINF:-1,SKY SPORTS RACING FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48168
-#EXTINF:-1,SKY SPORTS RACING HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48169
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10512
-#EXTINF:-1,SKY SPORTS CRICKET HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10527
-#EXTINF:-1,SKY SPORTS CRICKET SD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10526
-#EXTINF:-1,SKY SPORTS F1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10525
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10528
-#EXTINF:-1,SKY SPORTS NFL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10529
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10511
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10514
-#EXTINF:-1,SKY SPORTS GOLF HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10515
-#EXTINF:-1,SKY SPORTS NFL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91620
-#EXTINF:-1,Sky Sports Mix FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22203
-#EXTINF:-1,SKY SPORTS MIX FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10513
-#EXTINF:-1,BT SPORTS ESPN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10510
-#EXTINF:-1,PREMIER SPORTS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10506
-#EXTINF:-1,SKY SPORTS FHD NFL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10524
-#EXTINF:-1,SKY SPORTS FHD ARENA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10523
-#EXTINF:-1,SKY SPORTS FHD CRICKET
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10522
-#EXTINF:-1,SKY SPORTS FHD F1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10521
-#EXTINF:-1,SKY SPORTS FHD GOLF
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10519
-#EXTINF:-1,SKY SPORTS FHD MAIN EVENT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10518
-#EXTINF:-1,SKY SPORTS FHD PREMIER LEAGUE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10517
-#EXTINF:-1,BT Sport 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22240
-#EXTINF:-1,BT SPORTS FHD 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10509
-#EXTINF:-1,BT Sport 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22239
-#EXTINF:-1,BT SPORTS FHD 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10508
-#EXTINF:-1,BT Sport 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22238
-#EXTINF:-1,BT SPORTS FHD 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10507
-#EXTINF:-1,BT Sport ESPN FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22237
-#EXTINF:-1,PREMIER SPORTS 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54878
-#EXTINF:-1,PREMIER SPORTS 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54879
-#EXTINF:-1,PREMIER SPORTS 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54885
-#EXTINF:-1,Eir Sports 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22229
-#EXTINF:-1,Eir Sports 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22228
-#EXTINF:-1,LFC TV FHD (D)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54897
-#EXTINF:-1,LIVERPOOL FC TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91624
-#EXTINF:-1,FREESPORTS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91623
-#EXTINF:-1,Celtic HF ( LIVE ON MATCHES )
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91616
-#EXTINF:-1,Rangers
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91617
-#EXTINF:-1,D MAX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91625
-#EXTINF:-1,Discovery FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22230
-#EXTINF:-1,DISCOVERY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10548
-#EXTINF:-1,NAT GEO WILD FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/58611
-#EXTINF:-1,NAT GEO WILD HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10550
-#EXTINF:-1,NAT GEO FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/58612
-#EXTINF:-1,NAT GEO HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10551
-#EXTINF:-1,ANIMAL PLANT FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/58613
-#EXTINF:-1,ANIMAL PLANET HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10549
-#EXTINF:-1,HISTORY 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10547
-#EXTINF:-1,HISTORY FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/58614
-#EXTINF:-1,HISTORY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10546
-#EXTINF:-1,NICK HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10540
-#EXTINF:-1, NICKTOONS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13609
-#EXTINF:-1,NICKELODEON
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13610
-#EXTINF:-1,NICKTOONS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13626
-#EXTINF:-1,BABY TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13637
-#EXTINF:-1,Cartoon Network FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22236
-#EXTINF:-1,CBBC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13621
-#EXTINF:-1,Cbeebies FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22234
-#EXTINF:-1,CBEEBIES FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13620
-#EXTINF:-1,DISNEY CHANNEL 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13612
-#EXTINF:-1,NICK  JR
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13611
-#EXTINF:-1,NICK JR  TOO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13615
-#EXTINF:-1,CARTONITO  ( NOT 24H )
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/91618
-#EXTINF:-1,TINY POP
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13622
-#EXTINF:-1,UK|- Boomerang
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13635
-#EXTINF:-1,UK|- Boomerang  1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13634
-#EXTINF:-1,UK|- Cartoon Network  1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13632
-#EXTINF:-1,UK|- Cartoonito
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13631
-#EXTINF:-1,UK|- Nick  1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13629
-#EXTINF:-1,UK|- Nick Junior
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13628
-#EXTINF:-1,UK|- Nickelodeon
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13627
-#EXTINF:-1,BBC News FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22242
-#EXTINF:-1,SKY NEWS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10536
-#EXTINF:-1,BBC NEWS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10582
-#EXTINF:-1,CNN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10576
-#EXTINF:-1,MTV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10493
-#EXTINF:-1,MTV LIVE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10492
-#EXTINF:-1,ALIBI HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10486
-#EXTINF:-1,CHELSEA TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10500
-#EXTINF:-1,DAVE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10485
-#EXTINF:-1,EDEN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10490
-#EXTINF:-1,FILM 4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10489
-#EXTINF:-1,FOX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10568
-#EXTINF:-1,SONY CRIME 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10483
-#EXTINF:-1,TRUE MOVIES
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10481
-#EXTINF:-1,UNIVERSAL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10564
-#EXTINF:-1,UTV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10563
-#EXTINF:-1,MUTV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10501
-#EXTINF:-1,RACING UK HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10505
-#EXTINF:-1,RTE ONE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10495
-#EXTINF:-1,Stv HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10570
-#EXTINF:-1,TCM HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10567
-#EXTINF:-1,TLC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10566
-#EXTINF:-1,4 Seven FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22245
-#EXTINF:-1,Box Nation FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22241
-#EXTINF:-1,Channel 4  +1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22233
-#EXTINF:-1,Channel 5 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22231
-#EXTINF:-1,History FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22224
-#EXTINF:-1,Nat Geo FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22217
-#EXTINF:-1,Quest FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22216
-#EXTINF:-1,Sky 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22215
-#EXTINF:-1,TCM FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/22201
-#EXTINF:-1,BOX OFFICE 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54355
-#EXTINF:-1,BOX OFFICE 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54356
-#EXTINF:-1,BOX OFFICE 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54357
-#EXTINF:-1,BOX OFFICE 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54358
-#EXTINF:-1,BOX OFFICE 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54359
-#EXTINF:-1,BOX OFFICE 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54360
-#EXTINF:-1,BOX OFFICE 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54361
-#EXTINF:-1,BOX OFFICE 8
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54362
-#EXTINF:-1,BOX OFFICE 9
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54363
-#EXTINF:-1,BOX OFFICE 10
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54364
-#EXTINF:-1,BOX OFFICE 11
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54365
-#EXTINF:-1,BOX OFFICE 12
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54366
-#EXTINF:-1,BOX OFFICE 13
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54367
-#EXTINF:-1,BOX OFFICE 14
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54368
-#EXTINF:-1,BOX OFFICE 15
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54369
-#EXTINF:-1,BOX OFFICE 16
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54370
-#EXTINF:-1,BOX OFFICE 17
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54371
-#EXTINF:-1,BOX OFFICE 18
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54372
-#EXTINF:-1,BOX OFFICE 19
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54373
-#EXTINF:-1,BOX OFFICE 20
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54374
-#EXTINF:-1,BOX OFFICE 21
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54375
-#EXTINF:-1,BOX OFFICE 22
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54376
-#EXTINF:-1,BOX OFFICE 23
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54377
-#EXTINF:-1,BOX OFFICE 24
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54378
-#EXTINF:-1,BOX OFFICE 25
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54379
-#EXTINF:-1,BOX OFFICE 26
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54380
-#EXTINF:-1,BOX OFFICE 27
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54381
-#EXTINF:-1,BOX OFFICE 28
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54382
-#EXTINF:-1,BOX OFFICE 29
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54383
-#EXTINF:-1,BOX OFFICE 30
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54384
-#EXTINF:-1,DMTV Boxoffice 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115409
-#EXTINF:-1,DMTV Boxoffice 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115410
-#EXTINF:-1,DMTV Boxoffice 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115411
-#EXTINF:-1,DMTV Boxoffice 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115412
-#EXTINF:-1,DMTV Boxoffice 5
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115413
-#EXTINF:-1,DMTV Boxoffice 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115414
-#EXTINF:-1,DMTV Boxoffice 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115415
-#EXTINF:-1,DMTV Boxoffice 8
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115416
-#EXTINF:-1,DMTV Boxoffice 9
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115417
-#EXTINF:-1,DMTV Boxoffice 10
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115418
-#EXTINF:-1,DMTV DC Universe
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115509
-#EXTINF:-1,DMTV Marvel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/115508
-#EXTINF:-1,ITV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77356
-#EXTINF:-1,ITV2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77357
-#EXTINF:-1,ITV3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77358
-#EXTINF:-1,ITV4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77359
-#EXTINF:-1,4Music
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77386
-#EXTINF:-1,4seven
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77391
-#EXTINF:-1,5 USA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77387
-#EXTINF:-1,5SELECT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77388
-#EXTINF:-1,5STAR
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77389
-#EXTINF:-1,BBC One East E
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77371
-#EXTINF:-1,BBC One E Mid
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77370
-#EXTINF:-1,BBC One HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77361
-#EXTINF:-1,BBC One Lon
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77364
-#EXTINF:-1,BBC One News HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77360
-#EXTINF:-1,BBC One NI HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77369
-#EXTINF:-1,BBC One Oxford
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77372
-#EXTINF:-1,BBC One Scot HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77365
-#EXTINF:-1,BBC One South
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77374
-#EXTINF:-1,BBC One S West
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77373
-#EXTINF:-1,BBC One Wal HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77366
-#EXTINF:-1,BBC One W Mid
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77375
-#EXTINF:-1,BBC One Yk&Li
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77376
-#EXTINF:-1,BBC Parliament
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77363
-#EXTINF:-1,BBC ScotlandHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77368
-#EXTINF:-1,BBC Two HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77362
-#EXTINF:-1,BBC Two Wal HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77367
-#EXTINF:-1,Bloomberg HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77431
-#EXTINF:-1,CBBC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77377
-#EXTINF:-1,CBS Drama
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77396
-#EXTINF:-1,CBS Justice
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77397
-#EXTINF:-1,CBS Reality
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77398
-#EXTINF:-1,Channel 4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77379
-#EXTINF:-1,Channel 5 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77380
-#EXTINF:-1,CITV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77426
-#EXTINF:-1,ComedyCentral
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77429
-#EXTINF:-1,ComedyXtra
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77427
-#EXTINF:-1,Discovery
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77408
-#EXTINF:-1,Discovery Shed
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77409
+#EXTINF:-1,RTE_News
+http://teslaiptv.com:8080/hannaxhanna/es576457/81845
+#EXTINF:-1,Fox News HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81844
+#EXTINF:-1,BBC World News HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81843
+#EXTINF:-1,Smithsonian
+http://teslaiptv.com:8080/hannaxhanna/es576457/81842
+#EXTINF:-1,PBS America
+http://teslaiptv.com:8080/hannaxhanna/es576457/81841
+#EXTINF:-1,DMAX
+http://teslaiptv.com:8080/hannaxhanna/es576457/81840
+#EXTINF:-1,Sky Nature HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81839
+#EXTINF:-1,Sky Documentaries HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81838
+#EXTINF:-1,ID
+http://teslaiptv.com:8080/hannaxhanna/es576457/81837
+#EXTINF:-1,ISony Movies Action
+http://teslaiptv.com:8080/hannaxhanna/es576457/81836
+#EXTINF:-1,BBC 1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81835
+#EXTINF:-1,BBC 2
+http://teslaiptv.com:8080/hannaxhanna/es576457/81834
+#EXTINF:-1,ITV 1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81833
+#EXTINF:-1,CHANNEL 4
+http://teslaiptv.com:8080/hannaxhanna/es576457/81832
+#EXTINF:-1,CHANNEL 5
+http://teslaiptv.com:8080/hannaxhanna/es576457/81831
+#EXTINF:-1,COMEDY CENTRAL
+http://teslaiptv.com:8080/hannaxhanna/es576457/81830
+#EXTINF:-1,DAVE
+http://teslaiptv.com:8080/hannaxhanna/es576457/81829
 #EXTINF:-1,E4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77384
-#EXTINF:-1,ETV1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77404
-#EXTINF:-1,ETV6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77405
-#EXTINF:-1,Film4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77385
-#EXTINF:-1,HGTV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77400
-#EXTINF:-1,Home & Health
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77410
-#EXTINF:-1,horror channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77393
-#EXTINF:-1,ID +1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77411
-#EXTINF:-1,ITVBe
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77378
-#EXTINF:-1,kerrang
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77402
-#EXTINF:-1,KISS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77401
-#EXTINF:-1,Liverpool TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77412
-#EXTINF:-1,London Live
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77381
-#EXTINF:-1,Magic
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77403
-#EXTINF:-1,More4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77390
-#EXTINF:-1,Paramount
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77394
-#EXTINF:-1,POP
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77419
-#EXTINF:-1,POP Max
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77420
-#EXTINF:-1,Really
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77392
-#EXTINF:-1,RT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77434
-#EXTINF:-1,S4C
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77399
-#EXTINF:-1,STV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77428
-#EXTINF:-1,TCM Movies
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77395
-#EXTINF:-1,Tiny Pop
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77421
-#EXTINF:-1,TLC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77382
-#EXTINF:-1,UTV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77383
-#EXTINF:-1,Cartoonito
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77423
-#EXTINF:-1,Cartoon Netwrk
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77422
-#EXTINF:-1,Nick Jr.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77424
-#EXTINF:-1,Nicktoons
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77425
-#EXTINF:-1,Boomerang
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77418
-#EXTINF:-1,BT Sport 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77413
-#EXTINF:-1,BT Sport 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77414
-#EXTINF:-1,BT Sport 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/77415
-#EXTINF:-1,SKY CINEMA PREMIER FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50260
-#EXTINF:-1,SKY CINEMA HITS FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50261
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50262
-#EXTINF:-1,SKY CINEMA COMEDY FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50263
-#EXTINF:-1,SKY CINEMA DISNEY FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50264
-#EXTINF:-1,SKY CINEMA ACTION MEN FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50265
-#EXTINF:-1,SKY CINEMA DRAMA FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50266
-#EXTINF:-1,SKY CINEMA SCI-FI FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50267
-#EXTINF:-1,SKY CINEMA THRILLER FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50268
-#EXTINF:-1,SKY CINEMA GREATS FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50269
-#EXTINF:-1,SKY CINEMA SELECT/OSCARS FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50270
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50271
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50272
-#EXTINF:-1,SKY SPORTS FOOTBALL  FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50273
-#EXTINF:-1,SKY SPORTS CRICKET FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50274
-#EXTINF:-1,SKY SPORTS GOLF FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50275
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50276
-#EXTINF:-1,SKY SPORTS ACTION FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50277
-#EXTINF:-1,SKY SPORTS ARENA FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50278
-#EXTINF:-1,SKY SPORTS MIX FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50279
-#EXTINF:-1,SKY SPORTS RACING FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50280
-#EXTINF:-1,SKY SPORTS NEWS FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/50281
+http://teslaiptv.com:8080/hannaxhanna/es576457/81828
+#EXTINF:-1,FOX
+http://teslaiptv.com:8080/hannaxhanna/es576457/81827
+#EXTINF:-1,GOLD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81826
+#EXTINF:-1,ITV 2
+http://teslaiptv.com:8080/hannaxhanna/es576457/81825
+#EXTINF:-1,ITV 2+1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81824
+#EXTINF:-1,ITV 3
+http://teslaiptv.com:8080/hannaxhanna/es576457/81823
+#EXTINF:-1,ITV 4
+http://teslaiptv.com:8080/hannaxhanna/es576457/81822
+#EXTINF:-1,Watch FHD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81821
+#EXTINF:-1,SKY ONE
+http://teslaiptv.com:8080/hannaxhanna/es576457/81820
+#EXTINF:-1,SKY ATLANTIC
+http://teslaiptv.com:8080/hannaxhanna/es576457/81819
+#EXTINF:-1,SKY ARTS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81818
+#EXTINF:-1,Sky Comedy
+http://teslaiptv.com:8080/hannaxhanna/es576457/81817
+#EXTINF:-1,Sky Crime HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81816
+#EXTINF:-1,SKY WITNESS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81815
+#EXTINF:-1,CBBC
+http://teslaiptv.com:8080/hannaxhanna/es576457/81814
+#EXTINF:-1,BBC 4 / CBEEBIES
+http://teslaiptv.com:8080/hannaxhanna/es576457/81813
+#EXTINF:-1,BBC ONE WALES HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81812
+#EXTINF:-1,BBC ONE SCOTLAND HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81811
+#EXTINF:-1,ITVBE
+http://teslaiptv.com:8080/hannaxhanna/es576457/81810
+#EXTINF:-1,ITV London
+http://teslaiptv.com:8080/hannaxhanna/es576457/81809
+#EXTINF:-1,CHALLENGE
+http://teslaiptv.com:8080/hannaxhanna/es576457/81808
+#EXTINF:-1,MORE4
+http://teslaiptv.com:8080/hannaxhanna/es576457/81807
+#EXTINF:-1,5Star
+http://teslaiptv.com:8080/hannaxhanna/es576457/81806
+#EXTINF:-1,5 USA
+http://teslaiptv.com:8080/hannaxhanna/es576457/81805
+#EXTINF:-1,QUEST
+http://teslaiptv.com:8080/hannaxhanna/es576457/81804
+#EXTINF:-1,4 SEVEN
+http://teslaiptv.com:8080/hannaxhanna/es576457/81803
+#EXTINF:-1,EDEN
+http://teslaiptv.com:8080/hannaxhanna/es576457/81802
+#EXTINF:-1,ALIBI
+http://teslaiptv.com:8080/hannaxhanna/es576457/81801
+#EXTINF:-1,ITVBE+1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81800
+#EXTINF:-1,CBS Reality 1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81799
+#EXTINF:-1,CBS Reality
+http://teslaiptv.com:8080/hannaxhanna/es576457/81798
+#EXTINF:-1,CBS DRAMA
+http://teslaiptv.com:8080/hannaxhanna/es576457/81797
+#EXTINF:-1,CBS Justice
+http://teslaiptv.com:8080/hannaxhanna/es576457/81796
+#EXTINF:-1,SYFY
+http://teslaiptv.com:8080/hannaxhanna/es576457/81795
 #EXTINF:-1,W FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54292
-#EXTINF:-1,ASIA- Star Plus.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48934
-#EXTINF:-1,ASIA- Star Bharat.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48935
-#EXTINF:-1,ASIA- Sony TV Asia
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48936
-#EXTINF:-1,ASIA- Sony Max...
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48937
-#EXTINF:-1,ASIA- Sony Sab.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48938
-#EXTINF:-1,ASIA- SONY MAX 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48939
-#EXTINF:-1,ASIA- Colors TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48940
-#EXTINF:-1,ASIA- Zee TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48941
-#EXTINF:-1,ASIA- Zee Cinema.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48942
-#EXTINF:-1,ASIA- Ptc Punjabi
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48943
-#EXTINF:-1,ASIA- Zee Punjabi
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48944
-#EXTINF:-1,ASIA- MATV NATIONAL UK V
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48946
-#EXTINF:-1,ASIA- Brit Asia Tv
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48947
-#EXTINF:-1,ASIA- Abp News
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48948
-#EXTINF:-1,ASIA- 92 NEWS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48949
-#EXTINF:-1,ASIA- COLORS CINEPLEX
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48950
-#EXTINF:-1,ASIA- RISHTEY  TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48951
-#EXTINF:-1,ASIA- LIVING FOODZ
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48954
-#EXTINF:-1,ASIA- SAMAA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48955
-#EXTINF:-1,ASIA-B4U MUSIC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48956
-#EXTINF:-1,ASIA- HUM MASALA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48957
-#EXTINF:-1,ASIA-  PTV GLOBAL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48960
-#EXTINF:-1,ASIA- GEO TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48961
-#EXTINF:-1,ASIA- GEO TEZ
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48962
-#EXTINF:-1,ASIA- ARY DIGITAL B
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48965
-#EXTINF:-1,ASIA- ATN BANGLA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48969
-#EXTINF:-1,ASIA- Hum news
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48972
-#EXTINF:-1,ASIA- Ptc Punjabi.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48973
-#EXTINF:-1,ASIA- SANGAT  UK V
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48974
-#EXTINF:-1,ASIA-  ZING
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48979
-#EXTINF:-1,ASIA- AAJ NEWS LIVE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48983
-#EXTINF:-1,ASIA- AKAAL CHANNEL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48984
-#EXTINF:-1,ASIA- BRITISH MUSLIM
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48986
-#EXTINF:-1,ASIA- GEO NEWS UK
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48987
-#EXTINF:-1,ASIA- PEACE TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48988
-#EXTINF:-1,ASIA- Ptc Punjabi
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48989
-#EXTINF:-1,ASIA- SIKH CHANNEL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48990
-#EXTINF:-1,ASIA- TAKBEAR TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48991
+http://teslaiptv.com:8080/hannaxhanna/es576457/81794
+#EXTINF:-1,FOOD NETWORK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81793
+#EXTINF:-1,UNIVERSAL
+http://teslaiptv.com:8080/hannaxhanna/es576457/81792
+#EXTINF:-1,PARAMOUNT
+http://teslaiptv.com:8080/hannaxhanna/es576457/81791
+#EXTINF:-1,Together
+http://teslaiptv.com:8080/hannaxhanna/es576457/81790
+#EXTINF:-1,Forces TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81789
+#EXTINF:-1,PICK+1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81788
+#EXTINF:-1,HORROR CHANNEL
+http://teslaiptv.com:8080/hannaxhanna/es576457/81787
+#EXTINF:-1,TINY POP
+http://teslaiptv.com:8080/hannaxhanna/es576457/81785
+#EXTINF:-1,NICKTOONS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81784
+#EXTINF:-1,NICK JUNIOR
+http://teslaiptv.com:8080/hannaxhanna/es576457/81783
+#EXTINF:-1,NICK JR TOO
+http://teslaiptv.com:8080/hannaxhanna/es576457/81782
+#EXTINF:-1,CARTONITO  ( NOT 24H )
+http://teslaiptv.com:8080/hannaxhanna/es576457/81781
+#EXTINF:-1,NICK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81780
+#EXTINF:-1,BOOMERANG
+http://teslaiptv.com:8080/hannaxhanna/es576457/81779
+#EXTINF:-1,CNN
+http://teslaiptv.com:8080/hannaxhanna/es576457/81778
+#EXTINF:-1,SKY NEWS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81777
+#EXTINF:-1,IGibraltar- GBC ( ON AIR 19:30-23:30 )
+http://teslaiptv.com:8080/hannaxhanna/es576457/81776
+#EXTINF:-1,BLOOMBERG
+http://teslaiptv.com:8080/hannaxhanna/es576457/81775
+#EXTINF:-1,SKY CINEMA THRILLER
+http://teslaiptv.com:8080/hannaxhanna/es576457/81774
+#EXTINF:-1,SKY CINEMA FEEL GOOD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81773
+#EXTINF:-1,SKY CINEMA SCI-FI HORROR
+http://teslaiptv.com:8080/hannaxhanna/es576457/81772
+#EXTINF:-1,SKY CINEMA PREMIER
+http://teslaiptv.com:8080/hannaxhanna/es576457/81771
+#EXTINF:-1,SKY CINEMA HITS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81770
+#EXTINF:-1,SKY CINEMA GREATS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81769
+#EXTINF:-1,SKY CINEMA FAMILY
+http://teslaiptv.com:8080/hannaxhanna/es576457/81768
+#EXTINF:-1,SKY CINEMA DRAMA
+http://teslaiptv.com:8080/hannaxhanna/es576457/81767
+#EXTINF:-1,Sky Cinema Animation
+http://teslaiptv.com:8080/hannaxhanna/es576457/81766
+#EXTINF:-1,SKY CINEMA COMEDY
+http://teslaiptv.com:8080/hannaxhanna/es576457/81765
+#EXTINF:-1,SKY CINEMA ACTION MEN
+http://teslaiptv.com:8080/hannaxhanna/es576457/81764
+#EXTINF:-1,TCM
+http://teslaiptv.com:8080/hannaxhanna/es576457/81763
+#EXTINF:-1,SKY SPORTS NEWS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81762
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://teslaiptv.com:8080/hannaxhanna/es576457/81761
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://teslaiptv.com:8080/hannaxhanna/es576457/81760
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://teslaiptv.com:8080/hannaxhanna/es576457/81759
+#EXTINF:-1,SKY SPORTS GOLF
+http://teslaiptv.com:8080/hannaxhanna/es576457/81758
+#EXTINF:-1,SKY SPORTS CRICKET
+http://teslaiptv.com:8080/hannaxhanna/es576457/81757
+#EXTINF:-1,SKY SPORTS F1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81756
+#EXTINF:-1,SKY SPORTS ARENA
+http://teslaiptv.com:8080/hannaxhanna/es576457/81755
+#EXTINF:-1,SKY SPORTS MIX
+http://teslaiptv.com:8080/hannaxhanna/es576457/81754
+#EXTINF:-1,SKY SPORTS NFL
+http://teslaiptv.com:8080/hannaxhanna/es576457/81753
+#EXTINF:-1,SKY SPORTS RACING
+http://teslaiptv.com:8080/hannaxhanna/es576457/81752
+#EXTINF:-1,RACING TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81751
+#EXTINF:-1,BT Sports 1 FHD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81750
+#EXTINF:-1,BT Sports  2 FHD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81749
+#EXTINF:-1,BT Sports 3 FHD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81748
+#EXTINF:-1,BT Sports ESPN FHD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81747
+#EXTINF:-1,BT SPORT EXTRA 1 SD UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81746
+#EXTINF:-1,BT SPORT EXTRA 2 SD UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81745
+#EXTINF:-1,BT SPORT EXTRA 3 SD UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81744
+#EXTINF:-1,BT SPORT EXTRA 4 SD UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81743
+#EXTINF:-1,BT SPORT EXTRA 5 SD UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81742
+#EXTINF:-1,BT SPORT EXTRA 6 SD UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81741
+#EXTINF:-1,PREMIER SPORTS 1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81740
+#EXTINF:-1,PREMIER SPORTS 2
+http://teslaiptv.com:8080/hannaxhanna/es576457/81739
+#EXTINF:-1,BOXNATION
+http://teslaiptv.com:8080/hannaxhanna/es576457/81736
+#EXTINF:-1,FREESPORTS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81735
+#EXTINF:-1,LIVERPOOL FC TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81734
+#EXTINF:-1,MUTV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81733
+#EXTINF:-1,Celtic
+http://teslaiptv.com:8080/hannaxhanna/es576457/81732
+#EXTINF:-1,Rangers
+http://teslaiptv.com:8080/hannaxhanna/es576457/81731
+#EXTINF:-1,MTV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81730
+#EXTINF:-1,MTV Classic
+http://teslaiptv.com:8080/hannaxhanna/es576457/81729
+#EXTINF:-1, Club MTV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81728
+#EXTINF:-1,MTV HITS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81727
+#EXTINF:-1,MTV MUSIC
+http://teslaiptv.com:8080/hannaxhanna/es576457/81726
+#EXTINF:-1,NOW 90s
+http://teslaiptv.com:8080/hannaxhanna/es576457/81725
+#EXTINF:-1,NOW 80s
+http://teslaiptv.com:8080/hannaxhanna/es576457/81724
+#EXTINF:-1,Now 70s
+http://teslaiptv.com:8080/hannaxhanna/es576457/81723
+#EXTINF:-1,Spotlight TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81722
+#EXTINF:-1,BlackEntTv
+http://teslaiptv.com:8080/hannaxhanna/es576457/81721
+#EXTINF:-1,Magic
+http://teslaiptv.com:8080/hannaxhanna/es576457/81720
+#EXTINF:-1,KISS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81719
+#EXTINF:-1,Box Hits
+http://teslaiptv.com:8080/hannaxhanna/es576457/81718
+#EXTINF:-1,The Box
+http://teslaiptv.com:8080/hannaxhanna/es576457/81717
+#EXTINF:-1,Film4 HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81716
+#EXTINF:-1,Film4+1 HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81715
+#EXTINF:-1,Clubland TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81714
+#EXTINF:-1,ISony Channel
+http://teslaiptv.com:8080/hannaxhanna/es576457/81713
+#EXTINF:-1,Really
+http://teslaiptv.com:8080/hannaxhanna/es576457/81712
+#EXTINF:-1,Quest Red
+http://teslaiptv.com:8080/hannaxhanna/es576457/81711
+#EXTINF:-1,5 SELECT
+http://teslaiptv.com:8080/hannaxhanna/es576457/81710
+#EXTINF:-1,IPICK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81709
+#EXTINF:-1,BBC One East Midlands
+http://teslaiptv.com:8080/hannaxhanna/es576457/81708
+#EXTINF:-1,ITV Central East
+http://teslaiptv.com:8080/hannaxhanna/es576457/81707
+#EXTINF:-1,Sky Two
+http://teslaiptv.com:8080/hannaxhanna/es576457/81706
+#EXTINF:-1,BABY Tv
+http://teslaiptv.com:8080/hannaxhanna/es576457/81705
+#EXTINF:-1,BBC NEWS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81704
+#EXTINF:-1,RTE ONE HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81703
+#EXTINF:-1,RTE TWO  HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81702
+#EXTINF:-1,TG4
+http://teslaiptv.com:8080/hannaxhanna/es576457/81701
+#EXTINF:-1,RTE NEWS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81700
+#EXTINF:-1,RTE JUNIOR
+http://teslaiptv.com:8080/hannaxhanna/es576457/81699
+#EXTINF:-1,IVirgin One HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81698
+#EXTINF:-1,IVirgin Two HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81697
+#EXTINF:-1,IVirgin Three HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81696
+#EXTINF:-1,UTV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81695
+#EXTINF:-1,BBC 1 NORTHERN IRELAND
+http://teslaiptv.com:8080/hannaxhanna/es576457/81694
+#EXTINF:-1,IBBC Two Northern Ireland
+http://teslaiptv.com:8080/hannaxhanna/es576457/81693
+#EXTINF:-1,PICK Ireland
+http://teslaiptv.com:8080/hannaxhanna/es576457/81692
+#EXTINF:-1,NAT GEO
+http://teslaiptv.com:8080/hannaxhanna/es576457/81691
+#EXTINF:-1,NAT GEO WILD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81690
+#EXTINF:-1,ANIMAL PLANET
+http://teslaiptv.com:8080/hannaxhanna/es576457/81689
+#EXTINF:-1,DISCOVERY SCIENCE
+http://teslaiptv.com:8080/hannaxhanna/es576457/81688
+#EXTINF:-1,DISCOVERY HISTORY
+http://teslaiptv.com:8080/hannaxhanna/es576457/81687
+#EXTINF:-1,DISC. TURBO
+http://teslaiptv.com:8080/hannaxhanna/es576457/81686
+#EXTINF:-1,DISCOVERY
+http://teslaiptv.com:8080/hannaxhanna/es576457/81685
+#EXTINF:-1,Sky HISTORY
+http://teslaiptv.com:8080/hannaxhanna/es576457/81684
+#EXTINF:-1,H2
+http://teslaiptv.com:8080/hannaxhanna/es576457/81683
+#EXTINF:-1,CRIME INVESTIGATION
+http://teslaiptv.com:8080/hannaxhanna/es576457/81682
+#EXTINF:-1,GEO Kahani
+http://teslaiptv.com:8080/hannaxhanna/es576457/81680
+#EXTINF:-1,STAR PLUS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81679
+#EXTINF:-1,STAR GOLD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81678
+#EXTINF:-1,SONY TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81677
+#EXTINF:-1,SONY MAX
+http://teslaiptv.com:8080/hannaxhanna/es576457/81676
+#EXTINF:-1,ITakbeer TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81675
+#EXTINF:-1,SONY SAB
+http://teslaiptv.com:8080/hannaxhanna/es576457/81674
+#EXTINF:-1,SONY MAX 2
+http://teslaiptv.com:8080/hannaxhanna/es576457/81673
+#EXTINF:-1,Republic Bharat
+http://teslaiptv.com:8080/hannaxhanna/es576457/81672
+#EXTINF:-1,PTV Global
+http://teslaiptv.com:8080/hannaxhanna/es576457/81671
+#EXTINF:-1,Kanshi TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81670
+#EXTINF:-1,iON TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81669
+#EXTINF:-1,HUM News
+http://teslaiptv.com:8080/hannaxhanna/es576457/81668
+#EXTINF:-1,HUM Masala
+http://teslaiptv.com:8080/hannaxhanna/es576457/81667
+#EXTINF:-1,Hidayat TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81666
+#EXTINF:-1,GEO TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81665
+#EXTINF:-1,Foodxp
+http://teslaiptv.com:8080/hannaxhanna/es576457/81664
+#EXTINF:-1,Eman Channel
+http://teslaiptv.com:8080/hannaxhanna/es576457/81663
+#EXTINF:-1,FILM 4
+http://teslaiptv.com:8080/hannaxhanna/es576457/81662
+#EXTINF:-1,TalkingPictures
+http://teslaiptv.com:8080/hannaxhanna/es576457/81661
+#EXTINF:-1,ColorsRishtey
+http://teslaiptv.com:8080/hannaxhanna/es576457/81660
+#EXTINF:-1,ColorsCineplex
+http://teslaiptv.com:8080/hannaxhanna/es576457/81659
+#EXTINF:-1,COLORS
+http://teslaiptv.com:8080/hannaxhanna/es576457/81658
+#EXTINF:-1,ATN Bangla UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81657
+#EXTINF:-1,Ahlebait TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81656
+#EXTINF:-1,ABP News
+http://teslaiptv.com:8080/hannaxhanna/es576457/81655
+#EXTINF:-1,AAJ TAK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81654
+#EXTINF:-1,92 News
+http://teslaiptv.com:8080/hannaxhanna/es576457/81653
+#EXTINF:-1,Noor TV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81652
+#EXTINF:-1,Sony Channel
+http://teslaiptv.com:8080/hannaxhanna/es576457/81651
+#EXTINF:-1,Sony Movies
+http://teslaiptv.com:8080/hannaxhanna/es576457/81650
+#EXTINF:-1,Zee Cinema SD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81649
+#EXTINF:-1,Sony Max HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81648
+#EXTINF:-1,Sony TV HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81647
+#EXTINF:-1,Star Gold HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81646
+#EXTINF:-1,Star Plus HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81645
+#EXTINF:-1,TLC
+http://teslaiptv.com:8080/hannaxhanna/es576457/81644
+#EXTINF:-1,STV
+http://teslaiptv.com:8080/hannaxhanna/es576457/81643
+#EXTINF:-1,Star Bharat UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81642
+#EXTINF:-1,Sony Sab UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81641
+#EXTINF:-1,Yesterday
+http://teslaiptv.com:8080/hannaxhanna/es576457/81640
+#EXTINF:-1,RT Documentary
+http://teslaiptv.com:8080/hannaxhanna/es576457/81639
+#EXTINF:-1,Star Bharat
+http://teslaiptv.com:8080/hannaxhanna/es576457/81638
+#EXTINF:-1,B4U Music
+http://teslaiptv.com:8080/hannaxhanna/es576457/81637
+#EXTINF:-1,B4U Movies
+http://teslaiptv.com:8080/hannaxhanna/es576457/81636
+#EXTINF:-1,Colors Rishtey
+http://teslaiptv.com:8080/hannaxhanna/es576457/81635
+#EXTINF:-1,Zing
+http://teslaiptv.com:8080/hannaxhanna/es576457/81634
+#EXTINF:-1,Sony Max UK HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/81633
+#EXTINF:-1,Sony Max 2 UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81632
+#EXTINF:-1,AAJ TAK UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81631
+#EXTINF:-1,Zing Music UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81630
+#EXTINF:-1,Sangat UK
+http://teslaiptv.com:8080/hannaxhanna/es576457/81629
+#EXTINF:-1,Indian- Sur Sagar
+http://teslaiptv.com:8080/hannaxhanna/es576457/81628
+#EXTINF:-1,Colors Cinerplex
+http://teslaiptv.com:8080/hannaxhanna/es576457/81627
+#EXTINF:-1,Sky Living
+http://teslaiptv.com:8080/hannaxhanna/es576457/81626
+#EXTINF:-1,CHANNEL  4+1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81625
+#EXTINF:-1,CHANNEL 4+1 North
+http://teslaiptv.com:8080/hannaxhanna/es576457/81624
+#EXTINF:-1,CHANNEL 4+1 London
+http://teslaiptv.com:8080/hannaxhanna/es576457/81623
+#EXTINF:-1,CHANNEL 4+1 Scotland
+http://teslaiptv.com:8080/hannaxhanna/es576457/81622
+#EXTINF:-1,CHANNEL 4+1 South & East
+http://teslaiptv.com:8080/hannaxhanna/es576457/81621
+#EXTINF:-1,CHANNEL 4+1 Northern Ireland
+http://teslaiptv.com:8080/hannaxhanna/es576457/81620
+#EXTINF:-1,BBC Radio 1
+http://teslaiptv.com:8080/hannaxhanna/es576457/81619
+#EXTINF:-1,BBC Radio 1xtra
+http://teslaiptv.com:8080/hannaxhanna/es576457/81618
+#EXTINF:-1,BBC Radio 2
+http://teslaiptv.com:8080/hannaxhanna/es576457/81617
+#EXTINF:-1,BBC Asian Network
+http://teslaiptv.com:8080/hannaxhanna/es576457/81616
+#EXTINF:-1,BBC Radio Cymru
+http://teslaiptv.com:8080/hannaxhanna/es576457/81615
+#EXTINF:-1,BBC Radio Scotland
+http://teslaiptv.com:8080/hannaxhanna/es576457/81614
+#EXTINF:-1,BBC Radio Wales
+http://teslaiptv.com:8080/hannaxhanna/es576457/81613
+#EXTINF:-1,Capital
+http://teslaiptv.com:8080/hannaxhanna/es576457/81612
+#EXTINF:-1,Heart 90s
+http://teslaiptv.com:8080/hannaxhanna/es576457/81611
+#EXTINF:-1,Heart Dance
+http://teslaiptv.com:8080/hannaxhanna/es576457/81610
+#EXTINF:-1,Heart
+http://teslaiptv.com:8080/hannaxhanna/es576457/81609
+#EXTINF:-1,Radio X
+http://teslaiptv.com:8080/hannaxhanna/es576457/81608
+#EXTINF:-1,Smooth radio
+http://teslaiptv.com:8080/hannaxhanna/es576457/81607
