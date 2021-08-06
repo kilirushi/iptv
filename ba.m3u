@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="News",Al Jazeera Balkans (1080p)
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-id="B1TV.ba" tvg-name="B1 TV" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="",B1 TV
-http://wowza.bihnet.net:88/hls/b1-live.m3u8
-#EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/hdwjkYa.png" group-title="",Televizija 5
-http://37.59.21.217:8809/live/tv5web.m3u8
+#EXTINF:-1 tvg-id="B1TV.ba" tvg-name="B1 TV" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="",B1 TV (1080p) [Not 24/7]
+http://proxy.bihnet.net:88/live/b1tv.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-name="BHRT" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/F8jTl1o.png" group-title="",BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-name="BHRT" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/F8jTl1o.png" group-title="",BHRT (270p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/8bhQY8B.jpg" group-title="",BN TV (480p)
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="malta.ba" tvg-name="malta" tvg-country="BA" tvg-language="" tvg-logo="" group-title="",malta (720p)
+http://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1 tvg-id="RTVBPK.ba" tvg-name="RTV BPK" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/g639yyT.jpg" group-title="",RTV BPK (720p)
+https://webtvstream.bhtelecom.ba/gorazde_cam2.m3u8
+#EXTINF:-1 tvg-id="RTVHB.com" tvg-name="RTV HB" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/EE8C8rR.png" group-title="",RTV HB (576p)
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/hdwjkYa.png" group-title="",Televizija 5 (240p)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="tvslon.ba" tvg-name="TV Slon" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://www.rtvslon.ba/wp-content/uploads/2020/07/slon-extra-logo-mali-300x277.jpg" group-title="",TV Slon Extra
+http://31.47.0.130:8082/
+#EXTINF:-1 tvg-id="RTRS.ba" tvg-name="РТРС" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/mhfGMIw.jpg" group-title="",РТРС (576p) [Geo-blocked]
+https://parh.rtrs.tv/tv/live/playlist.m3u8
