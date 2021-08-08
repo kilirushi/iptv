@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Action Sports 4U" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Sports 4U
-https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA MYTVTOGO",American Classic TV
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgYEjYE.png" group-title="USA MYTVTOGO",Blush TV
-https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Cooking 4U" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/SxRzFO8.png",Cooking 4U
-https://nimble.dashstreams.net/onestudio/cooking_4u_network/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="USA MYTVTOGO",It's At The Movies
-https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMnzfj1.png" group-title="USA",Opportunity Knocks TV
-https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
-#EXTINF:-1 tvg-name="Travel 4U" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/GFyJviy.png",Travel 4U
-https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - Bluegrass Music" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/wha8zxc.png",Network - Bluegrass Music
-https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - Going To War" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - Going To War
-https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - Lets Talk About It" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - Lets Talk About It
-https://nimble.dashstreams.net/onestudio/lets_talk_about_it/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - nPowered TV" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - nPowered TV
-https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - OK TV" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - OK TV
-https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - Planet Cannabis Shopping" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - Planet Cannabis Shopping
-https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="30A TV" tvg-logo="https://i.imgur.com/SHEJFbx.png" group-title="USA",30A TV
 https://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="30A TV MUSIC" tvg-logo="https://i.imgur.com/SHEJFbx.png" group-title="USA",30A TV MUSIC
