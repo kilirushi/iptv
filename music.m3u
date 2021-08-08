@@ -57,7 +57,7 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 https://10999-1.b.cdn13.com/streams/masters-v3/djset/654.m3u8
 #EXTINF:-1 tvg-name="CHOICE (GR)" group-title="MUSIC" tvg-logo="https://i.imgur.com/jJcNm2I.png",CHOICE (GR)
 https://vod.streams.ovh:3528/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="City TV (BG) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="MUSIC",City TV (BG) - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="City TV (BG)" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="MUSIC",City TV (BG)
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="MUSIC" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
@@ -131,7 +131,7 @@ https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
 #EXTINF:-1 tvg-name="Latinos 1 HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/hTmFrC4.png",Latinos 1 HD (BR)
 https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
-#EXTINF:-1 tvg-name="Latinos UP (BR) - github.com/Free-IPTV" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/RoT3z9H.jpg",Latinos UP (BR) - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Latinos UP (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/RoT3z9H.jpg",Latinos UP (BR)
 https://5b38ce71f1f00.streamlock.net/8082/8082/playlist.m3u8
 #EXTINF:-1 tvg-name="LEEEKO TV (FR)" tvg-id="" tvg-logo="https://i.imgur.com/3qPONzi.jpg" group-title="MUSIC",LEEEKO TV (FR)
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
@@ -165,7 +165,7 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Retro (BR)" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",MIX 24/7 - Retro (BR)
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Top 100 (BR) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",MIX 24/7 - Top 100 (BR) - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Top 100 (BR)" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",MIX 24/7 - Top 100 (BR)
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Tropical (BR)" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",MIX 24/7 - Tropical (BR)
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
@@ -231,7 +231,7 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/inde
 https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA BILLBOARD (IR)" tvg-logo="https://i.imgur.com/ytII1cO.png" group-title="MUSIC",PERSIANA BILLBOARD (IR)
 http://51.210.199.10/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC (IR) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="MUSIC",PERSIANA MUSIC (IR) - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC (IR)" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="MUSIC",PERSIANA MUSIC (IR)
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Power Hit Radio (LT)" tvg-logo="https://i.imgur.com/Q777N6C.jpg" group-title="MUSIC",Power Hit Radio (LT)
 https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
@@ -273,7 +273,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 BEST (IT)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST (IT)
 https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
-#EXTINF:-1 tvg-name="Rewind HD (CI) - github.com/Free-IPTV" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/Ni2jlBi.png",Rewind HD (CI) - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Rewind HD (CI)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/Ni2jlBi.png",Rewind HD (CI)
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 tvg-name="SKY FOLK (MK)" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg" group-title="MUSIC",SKY FOLK (MK)
 http://www.skyfolk.mk/live.m3u8
@@ -311,7 +311,7 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QEigQ6.jpg" group-title="MUSIC",Unwind (US)
 https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
-#EXTINF:-1 tvg-name="V2Beat TV (UK) - github.com/Free-IPTV" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/PXhzoPd.jpg",V2Beat TV (UK) - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="V2Beat TV (UK)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/PXhzoPd.jpg",V2Beat TV (UK)
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-name="VEVO 2K (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="MUSIC",VEVO 2K (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
