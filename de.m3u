@@ -25,7 +25,7 @@ https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=171674
 #EXTINF: -1 tvg-name="ems TV Lingen" tvg-id="emsTV.de" tvg-logo="https://i.imgur.com/dKCLYAj.png" group-title="GERMANY LOCAL",ems TV Lingen
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Erz-TV Stollberg - github.com/Free-IPTV" tvg-id="Erz-TV Stollberg" tvg-logo="https://i.imgur.com/VenSjan.png" group-title="GERMANY LOCAL",Erz-TV Stollberg - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Erz-TV Stollberg" tvg-id="Erz-TV Stollberg" tvg-logo="https://i.imgur.com/VenSjan.png" group-title="GERMANY LOCAL",Erz-TV Stollberg
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Filstalwelle Göppingen" tvg-id="Filstalwelle" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="GERMANY LOCAL",Filstalwelle Göppingen
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
@@ -91,7 +91,7 @@ https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
 https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
 #EXTINF: -1 tvg-name="OK Kiel" tvg-id="" tvg-logo="https://i.imgur.com/A8rLufC.png" group-title="GERMANY LOCAL",OK Kiel
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-name="OK Koblenz - github.com/Free-IPTV" tvg-id="OK Koblenz" group-title="GERMANY LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png",OK Koblenz - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="OK Koblenz" tvg-id="OK Koblenz" group-title="GERMANY LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png",OK Koblenz
 https://s.ok54.de/ok4/live/playlist.m3u8
 #EXTINF: -1 tvg-name="OK Magdeburg" tvg-id="OK Magdeburg" tvg-logo="https://i.imgur.com/kBR5XUI.png" group-title="GERMANY LOCAL", OK Magdeburg
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=771136
@@ -237,7 +237,7 @@ https://mcdn.br.de/bfs_sued/de/master.m3u8
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="http://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-name="*** NEWS DE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/R7WYRQu.png" group-title="GERMANY",*** NEWS DE - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** NEWS DE" tvg-logo="https://i.imgur.com/R7WYRQu.png" group-title="GERMANY",*** NEWS DE
 http://
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="http://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png" group-title="GERMANY",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
@@ -257,13 +257,13 @@ https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="DeutscheWelle+DE.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="*** SPORT DE - github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/2FpMtZ5.jpg",*** SPORT DE - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** SPORT DE" group-title="GERMANY" tvg-logo="https://i.imgur.com/2FpMtZ5.jpg",*** SPORT DE
 http://
 #EXTINF:-1 tvg-name="FIFA Club WM" tvg-id="" group-title="GERMANY" tvg-logo="https://i.imgur.com/5RDKZk5.jpg",FIFA Club WM
 https://bildlivehls-lh.akamaihd.net/i/fifa0208_1@330807/index_2328_av-p.m3u8?sd=10&b=0-2500&rebase=on
-#EXTINF:-1 tvg-name="Sky Sport News HD - github.com/Free-IPTV" tvg-id="SkySportNewsHD.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
-#EXTINF:-1 tvg-name="*** KIDS DE - github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/ZrMKFWa.png" group-title="GERMANY",*** KIDS DE - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** KIDS DE" group-title="GERMANY" tvg-logo="https://i.imgur.com/ZrMKFWa.png" group-title="GERMANY",*** KIDS DE
 http://
 #EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/qodAT7g.jpg",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
