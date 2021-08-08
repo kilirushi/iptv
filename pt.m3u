@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Caca Vision" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="PORTUGAL",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",Canal Macau
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",Igreja Online
+http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="PORTUGAL",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",Sobrenatural TV - github.com/Free-IPTV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",Porto Canal
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV Fatima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV Mana 1
+http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 #EXTINF:-1 tvg-id="1001Noites.pt" tvg-name="1001 Noites" tvg-country="PT" tvg-language="" tvg-logo="" group-title="",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-name="Hot" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="XXX",Hot
