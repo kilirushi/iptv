@@ -269,3 +269,39 @@ http://
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/yka7yJm.png",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies DE" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies DE
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies AT" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies AT
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies CH" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies CH
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies DE" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies DE
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies AT" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies AT
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies CH" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies CH
+https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama DE" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama DE
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama AT" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama AT
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama CH" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama CH
+https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal DE (breaks off)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="GERMANY SG TV PLUS",Der Serienkanal DE (breaks off)
+https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal AT (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="GERMANY SG TV PLUS",Der Serienkanal AT (stop at ads)
+https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal CH (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="GERMANY SG TV PLUS",Der Serienkanal CH (stop at ads)
+https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family DE" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family DE
+https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family AT" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family AT
+https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family CH" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family CH
+https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight DE" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight DE
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight AT" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight AT
+https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight CH" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight CH
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
