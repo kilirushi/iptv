@@ -95,11 +95,11 @@ https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="48" tvg-id="Drama CH" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" tvg-name="Drama CH",Drama CH
 https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="49" tvg-id="Der Serienkanal DE (breaks off)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal DE (breaks off)",Der Serienkanal DE (breaks off)
+#EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="49" tvg-id="Der Serienkanal DE" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal DE",Der Serienkanal DE
 https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="50" tvg-id="Der Serienkanal AT (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal AT (stop at ads)",Der Serienkanal AT (stop at ads)
+#EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="50" tvg-id="Der Serienkanal AT" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal AT",Der Serienkanal AT
 https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="51" tvg-id="Der Serienkanal CH (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal CH (stop at ads)",Der Serienkanal CH (stop at ads)
+#EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="51" tvg-id="Der Serienkanal CH" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal CH",Der Serienkanal CH
 https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="52" tvg-id="Family DE" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="Family DE",Family DE
 https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -363,7 +363,7 @@ https://
 https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="AUSTRIA" tvg-chno="280" tvg-id="Comedy Movies - AT" tvg-logo="https://i.imgur.com/slOK2IH.jpg" tvg-name="Comedy Movies - AT",Comedy Movies - AT
 https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-chno="281" tvg-id="Der Serienkanal - AT (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal - AT (stop at ads)",Der Serienkanal - AT (stop at ads)
+#EXTINF:-1 group-title="AUSTRIA" tvg-chno="281" tvg-id="Der Serienkanal - AT" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal - AT",Der Serienkanal - AT
 https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="AUSTRIA" tvg-chno="282" tvg-id="Drama - AT" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" tvg-name="Drama - AT",Drama - AT
 https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
@@ -439,7 +439,7 @@ https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SWITZERLAND" tvg-chno="318" tvg-id="Drama - CH" tvg-logo="https://i.imgur.com/dWNxCqp.png" tvg-name="Drama - CH",Drama - CH
 https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SWITZERLAND" tvg-chno="319" tvg-id="Der Serienkanal - CH (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal - CH (stop at ads)",Der Serienkanal - CH (stop at ads)
+#EXTINF:-1 group-title="SWITZERLAND" tvg-chno="319" tvg-id="Der Serienkanal - CH" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" tvg-name="Der Serienkanal - CH",Der Serienkanal - CH
 https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SWITZERLAND" tvg-chno="320" tvg-id="Family - CH" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="Family - CH",Family - CH
 https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
