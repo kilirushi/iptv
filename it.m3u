@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="20 Mediaset" tvg-logo="https://i.imgur.com/8SoOefS.png" group-title="ITALY",20 Mediaset
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="ITALY",Action Movies
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="ITALY",Amuse Animation
@@ -9,18 +7,10 @@ https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/AMGo8sU.png" group-title="ITALY",Bloomberg
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boing Italia" tvg-logo="https://i.imgur.com/AcSRwuN.png" group-title="ITALY",Boing Italia
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/7RRCRh3.png" group-title="ITALY",Canale 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Camera dei Deputati (via RR)" tvg-logo="https://i.imgur.com/43mtXMt.png" group-title="ITALY",Camera dei Deputati (via RR)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/3lNJJ67.png" group-title="ITALY",Cartoonito
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CG Entertainment" tvg-logo="https://i.imgur.com/HB0LSjW.jpg" group-title="ITALY",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine 34" tvg-logo="https://i.imgur.com/cOpASOB.png" group-title="ITALY",Cine 34
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Class CNBC" tvg-logo="https://i.imgur.com/v14ayZn.png" group-title="ITALY",Class CNBC
 https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classical Harmony" tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="ITALY",Classical Harmony
@@ -41,8 +31,6 @@ https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="ITALY",Family Movies
 https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Focus" tvg-logo="https://i.imgur.com/bFVWJR1.png" group-title="ITALY",Focus
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.imgur.com/RuuGNzX.png" group-title="ITALY",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="https://i.imgur.com/Zs8LcoY.png" group-title="ITALY",Giallo
@@ -55,16 +43,6 @@ https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HSE24" tvg-logo="https://i.imgur.com/KPGsrcY.png" group-title="ITALY",HSE24
 https://5f11919dca3bd.streamlock.net/HSE24/HSE24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Iris" tvg-logo="https://i.imgur.com/rxn7gBM.png" group-title="ITALY",Iris
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/5RlYdhr.png" group-title="ITALY",Italia 1
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
-#EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/xke4e6J.png",Italia 2
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La 5" tvg-logo="https://i.imgur.com/3mROs2T.png" group-title="ITALY",La 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/0T0BFRQ.png" group-title="ITALY",Mediaset Extra
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minerva Bizzarro Movies" tvg-logo="https://i.imgur.com/GQG22im.jpg" group-title="ITALY",Minerva Bizzarro Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minerva Cinema Segreto" tvg-logo="https://i.imgur.com/fuvc0QF.jpg" group-title="ITALY",Minerva Cinema Segreto
@@ -85,10 +63,6 @@ https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ITALY",People are Awesome
 https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/zcipWuk.png" group-title="ITALY",R101 TV
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/rB1evC5.jpg" group-title="ITALY",Radio 105 TV
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio 24" tvg-logo="https://i.imgur.com/DUIzWRy.jpg" group-title="ITALY",Radio 24
 http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Capital TV" tvg-logo="https://i.imgur.com/0bv1gID.png" group-title="ITALY",Radio Capital TV
@@ -99,8 +73,6 @@ https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio m2o TV" tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="ITALY",Radio m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo TV" tvg-logo="https://i.imgur.com/KazA69p.png" group-title="ITALY",Radio Monte Carlo TV
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Radicale TV" tvg-logo="https://i.imgur.com/lFtEwGc.jpg" group-title="ITALY",Radio Radicale TV
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Radio TV" tvg-logo="https://i.imgur.com/gCGzx4K.png" group-title="ITALY",Radio Radio TV
@@ -115,8 +87,6 @@ https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Time" tvg-logo="https://i.imgur.com/FvTKb8v.png" group-title="ITALY",Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/JGo7SJP.png" group-title="ITALY",Rete 4
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rete 7" tvg-logo="https://i.imgur.com/qkxCo8N.png" group-title="ITALY",Rete 7
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retesole Lazio" tvg-logo="https://i.imgur.com/KjqkwTl.png" group-title="ITALY",Retesole Lazio
@@ -145,10 +115,6 @@ https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
 https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenuova" tvg-name="" tvg-logo="https://i.imgur.com/TYzWepX.jpg" group-title="ITALY",Telenuova
 https://mediastream.telenuovo.it/tv/2021/03/13/be755445-f618-4cf0-8f1c-b776fc223c3a/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGCOM24" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCOM24
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 tvg-name="Top Crime" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/MLCYwWD.png",Top Crime
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 tvg-name="Top Crimine" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/2HRoCFi.png",Top Crimine
 https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Series" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/P4hb5Ws.jpg",Top Series
@@ -159,7 +125,5 @@ http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1 Italia" tvg-logo="https://i.imgur.com/J06pfxg.png" group-title="ITALY",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/9EfZCLj.jpg" group-title="ITALY",Virgin Radio TV
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vuemme" tvg-logo="https://i.imgur.com/qUb1JRH.png" group-title="ITALY",Vuemme
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
