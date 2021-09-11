@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1 group-title="SPAIN" tvg-chno="3344" tvg-id="28 Kanala" tvg-logo="https://i.imgur.com/ya3k9wU.png" tvg-name="28 Kanala",28 Kanala
+#EXTM3U
+#EXTINF:-1 group-title="SPAIN" tvg-chno="3344" tvg-id="28 Kanala" tvg-logo="https://i.imgur.com/ya3k9wU.png" tvg-name="28 Kanala",28 Kanala
 https://5940924978228.streamlock.net/8157/8157/.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-chno="3345" tvg-id="7RM.TV" tvg-logo="https://i.imgur.com/M0JqHa9.png" tvg-name="7 R. de Murcia",7 Murcia
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
