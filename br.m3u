@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor",AgroBrasil TV (486p)
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor",AgroBrasil TV (486p)
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8#EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8#EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV" tvg-country="BR" tvg-language="Japanese" tvg-logo="" group-title="Animation",Anime TV (360p)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8#EXTINF:-1 tvg-id="Animestation.br" tvg-name="Animestation" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5UpjGcL.png" group-title="",Animestation (480p) [Not 24/7]
