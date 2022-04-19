@@ -1,89 +1,144 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z10bwPn.jpg" group-title="ROMANIA",7TV
+#EXTINF:-1 tvg-id="A7TV.ro" status="online",A7TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQ5PkKB.png" group-title="ROMANIA",Aleph News
+#EXTINF:-1 tvg-id="AgroTV.ro" status="online",AgroTV
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 tvg-id="AlephNews.ro" status="online",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Comedy" tvg-logo="https://i.imgur.com/tH624pc.png" group-title="ROMANIA",Antena Comedy
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" status="online",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" status="online",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" status="error",Antena 1
+https://iptv-all.lanesh4d0w.repl.co/romania/a1
+#EXTINF:-1 tvg-id="Antena3.ro" status="error",Antena 3
+https://iptv-all.lanesh4d0w.repl.co/romania/a3
+#EXTINF:-1 tvg-id="AntenaComedy.ro" status="error",Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Cook and PLay" tvg-logo="https://i.imgur.com/GZABUfW.png" group-title="ROMANIA",Antena Cook and PLay
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Monden" tvg-logo="https://i.imgur.com/6R5TLlc.png" group-title="ROMANIA",Antena Monden
+#EXTINF:-1 tvg-id="AntenaInternational.ro" status="error",Antena International
+https://iptv-all.lanesh4d0w.repl.co/romania/ai
+#EXTINF:-1 tvg-id="AntenaMonden.ro" status="error",Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="ROMANIA",B1
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bucovina TV" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="ROMANIA",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9tNRAX0.png" group-title="ROMANIA",Canal 33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w1456597134_b680000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HUNixjy.png" group-title="ROMANIA",CBN Family Romania
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cornea TV" tvg-logo="https://i.imgur.com/cn89fLa.jpg" group-title="ROMANIA",Cornea TV
+#EXTINF:-1 tvg-id="AntenaSport.ro" status="online",AntenaSport
+https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaStars.ro" status="error",Antena Stars
+https://iptv-all.lanesh4d0w.repl.co/romania/astars
+#EXTINF:-1 tvg-id="B1.ro" status="online",B1 (272p)
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="BucovinaTV.ro" status="online",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33.ro" status="timeout",Canal33
+https://fms-https1.mediadirect.ro/live3/canal33.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColumnaTV.ro" status="error",Columna TV
+rtmp://columna1.arya.ro/live/columnatv1
+#EXTINF:-1 tvg-id="CooknPlay.ro" status="error",Cook&Play
+https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CorneaTV.ro" status="timeout",Cornea TV
 http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cromtel TV" tvg-logo="https://i.imgur.com/kNNRmS1.png" group-title="ROMANIA",Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
-#EXTINF:-1 tvg-id="" tvg-name="EST TV" tvg-logo="https://i.imgur.com/tP5cGl1.jpg" group-title="ROMANIA",EST TV
+#EXTINF:-1 tvg-id="CredoTV.ro" status="online",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro" status="error" user-agent="iPhone",Digi 24
+#EXTVLCOPT:http-user-agent=iPhone
+https://iptv-all.lanesh4d0w.repl.co/romania/digi24
+#EXTINF:-1 tvg-id="EstTVNeamt.ro" status="online",Est TV (Neamt)
 http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="" tvg-name="H!t Music Channel Romania" tvg-logo="https://i.imgur.com/VDl1q98.png" group-title="ROMANIA",H!t Music Channel Romania
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HD 365" tvg-logo="https://i.imgur.com/DYdaxZ6.png" group-title="ROMANIA",HD 365
-https://netstreaming.eu:8080/hls/hd365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PTsws8f.png" group-title="ROMANIA",Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:-1 tvg-id="" tvg-name="Infinit TV" tvg-logo="https://i.imgur.com/3OOmdCU.jpg" group-title="ROMANIA",Infinit TV
-http://webmobile.xdev.ro:81/tv6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Info HD" tvg-logo="https://i.imgur.com/RiZA8Yu.png" group-title="ROMANIA",Info HD
-https://netstreaming.eu:8080/hls/InfoHd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Intermedia TV" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="ROMANIA",Intermedia TV
+#EXTINF:-1 tvg-id="GTV.ro" status="error",GTV
+rtmp://gtv1.arya.ro:1935/live/gtv1.flv
+#EXTINF:-1 tvg-id="HappyChannel.ro" status="error",Happy Channel
+https://iptv-all.lanesh4d0w.repl.co/romania/happy-channel
+#EXTINF:-1 tvg-id="IntermediaTV.ro" status="online",Intermedia TV
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MwADEV2.png" group-title="ROMANIA",Kapital TV
-http://84.247.79.238:1935/kapital/kapital/kapital.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lira TV" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" group-title="ROMANIA",Lira TV
-https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/chunklist_w98704019.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="ROMANIA",Music Channel
+#EXTINF:-1 tvg-id="KanalD.ro" status="online",Kanal D
+https://stream1.kanald.ro/iphone/live.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro" status="timeout",Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
+#EXTINF:-1 tvg-id="LightChannel.ro" status="online",Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="MEDIAREGIONAL.ro" status="online",MEDIA REGIONAL
+http://83.103.150.198:8080
+#EXTINF:-1 tvg-id="Mireasa.ro" status="error",Mireasa
+https://iptv-all.lanesh4d0w.repl.co/romania/mireasa
+#EXTINF:-1 tvg-id="MoozDance.ro" status="online",MoozDance
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro" status="online",MoozHits
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="MoozRo.ro" status="online",MoozRo
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="MusicChannelRomania.ro" status="error",Music Channel Romania
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/LJTcfxk.png" group-title="ROMANIA",Nasul TV
+#EXTINF:-1 tvg-id="NasulTV.ro" status="online",Naşul TV
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aL6Mf8b.png" group-title="ROMANIA",NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nova TV Brasov" tvg-logo="https://i.imgur.com/DYO1tVZ.png" group-title="ROMANIA",Nova TV Brasov
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro" status="timeout",Nova TV Brasov
 http://novapress.ro:1935/live/nova/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prima TV" tvg-logo="https://i.imgur.com/G03w5XQ.png" group-title="ROMANIA",Prima TV
-https://netstreaming.eu:8080/hls/unutv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pro TV" tvg-logo="https://i.imgur.com/wyhkBLg.png" group-title="ROMANIA",Pro TV
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pro TV International" tvg-logo="https://i.imgur.com/qfuIKGW.png" group-title="ROMANIA",Pro TV International
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pro 2" tvg-logo="https://i.imgur.com/DJFS9u3.png" group-title="ROMANIA",Pro 2
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pro Cinema" tvg-logo="https://i.imgur.com/VWOlfl1.png" group-title="ROMANIA",Pro Cinema
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pro Gold" tvg-logo="https://i.imgur.com/qoxyR3Q.png" group-title="ROMANIA",Pro Gold
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pro X" tvg-logo="https://i.imgur.com/z6vQEbZ.png" group-title="ROMANIA",Pro X
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kWrneym.png" group-title="ROMANIA",Profit
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ae1Klb2.png" group-title="ROMANIA",Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3LdXQxm.png" group-title="ROMANIA",Somax TV
+#EXTINF:-1 tvg-id="PloiestiTV.ro" status="error",Ploiesti TV
+rtmp://v1.arya.ro:1935/live/ptv1.flv
+#EXTINF:-1 tvg-id="PrimaTV.ro" status="online",Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:-1 tvg-id="ProTV.ro" status="online",Pro TV
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="RapsodiaTV.ro" status="error",Rapsodia TV
+rtmp://rapsodia1.arya.ro/live/rapsodiatv1
+#EXTINF:-1 tvg-id="RealitateaTV.ro" status="online",Realitatea FM (Studio)
+https://live.realitatea.net/livertmp/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.ro" status="timeout",Realitatea Plus
+https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro" status="timeout",Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1 tvg-id="SangeorzTV.ro" status="error",Sangeorz TV (396p)
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:-1 tvg-id="SomaxTV.ro" status="error",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars Direct
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="TravelMix" tvg-logo="https://i.imgur.com/MHTJwMo.jpg" group-title="ROMANIA",TravelMix
+#EXTINF:-1 tvg-id="SperantaTV.ro" status="online",Speranta TV
+http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro" status="error",Speranta TV
+http://us200.streamkit.tv/edge/sperantatv_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro" status="error",SuperTV
+http://live.supertv.ro:1935/live/smil:hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telestar1.ro" status="error",Telestar1
+http://193.34.109.10:8090
+#EXTINF:-1 tvg-id="Telestar1.ro" status="error",Telestar1
+http://s1.streamnet.ro:8053/stream.flv
+#EXTINF:-1 tvg-id="TravelMix.ro" status="error",Travel Mix
 http://89.38.8.131:39520
-#EXTINF:-1 tvg-id="" tvg-name="TV SE" tvg-logo="https://i.imgur.com/BoMnP5g.png" group-title="ROMANIA",TV SE
-http://89.38.8.130:39419
-#EXTINF:-1 tvg-id="" tvg-name="TVPlus Suceava" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="ROMANIA",TVPlus Suceava
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro" status="online",TVPlus Suceava
 http://85.186.146.34:8080
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="ROMANIA",TVR Craiova
-https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist_b4096000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJkyXtf.png" group-title="ROMANIA",TVR International
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVSat" tvg-logo="https://i.imgur.com/CkKvogv.jpg" group-title="ROMANIA",TVSat
+#EXTINF:-1 tvg-id="TVR1.ro" status="online",TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro" status="online",TVR 2 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro" status="online",TVR 3 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro" status="online",TVR Cluj [Geo-blocked]
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro" status="online",TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro" status="online",TVR Iași [Geo-blocked]
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro" status="online",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md" status="online",TVR Moldova [Geo-blocked]
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" status="online",TVR Târgu Mureș [Geo-blocked]
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" status="online",TVR Timișoara [Geo-blocked]
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVSat.ro" status="online",TVSat
 http://89.38.8.130:39443
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KGLHMyB.png" group-title="ROMANIA",UTV
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VP TV" tvg-logo="https://i.imgur.com/xeXcscj.gif" group-title="ROMANIA",VP TV
+#EXTINF:-1 tvg-id="TVSE.ro" status="online",TV SE
+http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="UTV.ro" status="error" user-agent="iPhone",UTV
+#EXTVLCOPT:http-user-agent=iPhone
+https://iptv-all.lanesh4d0w.repl.co/romania/utv
+#EXTINF:-1 tvg-id="VPTV.ro" status="error",VP TV
 http://89.38.8.130:39437
+#EXTINF:-1 tvg-id="ZuTV.ro" status="error",ZU Radio TV
+https://iptv-all.lanesh4d0w.repl.co/romania/zuradiotv
+#EXTINF:-1 tvg-id="" status="online",Profit.ro
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:-1 tvg-id="" status="online",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="error",ZU TV
+https://iptv-all.lanesh4d0w.repl.co/romania/zutv
