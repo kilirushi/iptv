@@ -1,97 +1,217 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="NETHERLANDS",BNR Nieuwsradio (Webradio)
+#EXTINF:-1 tvg-id="BazmeAsheghan.nl" status="error",Bazme Asheghan (720p)
+https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
+#EXTINF:-1 tvg-id="BNRNieuwsradio.nl" status="blocked",BNR Nieuwsradio (720p) [Geo-blocked]
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3omdaMe.jpg" group-title="NETHERLANDS",Breda Nu
-https://olon.ctl.cdn.ebsd.ericsson.net/L9B/5f262e8b/ee41a797.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="NETHERLANDS",Den Haag TV
+#EXTINF:-1 tvg-id="BR6TV.nl" status="online",BR6 TV (720p)
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+#EXTINF:-1 tvg-id="DenHaagTV.nl" status="online",Den Haag TV (1080p) [Not 24/7]
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epKiEaX.png" group-title="NETHERLANDS",DNO Streek TV
-http://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
-#EXTINF:-1 tvg-id="Ede TV" tvg-name="Ede TV" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="NETHERLANDS",Ede TV
-http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7AC8etU.png" group-title="NETHERLANDS",Gigant FM (Webradio)
-https://streams.uitzending.tv/gigantfm/gigantfm/chunklist_w666692457.m3u8
-#EXTINF:-1 tvg-id="L1 TV NL" tvg-name="L1 Limburg" tvg-logo="https://i.imgur.com/8bqkwkG.png" group-title="NETHERLANDS",L1 Limburg
-https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS",GO-RTV
+#EXTINF:-1 tvg-id="EDETV.nl" status="online",EDE TV (480p) [Not 24/7]
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FeelGoodTV.nl" status="online",Feel Good TV (720p) [Not 24/7]
+https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 tvg-id="GigantFM.nl" status="error",Gigant FM (720p)
+https://streams.uitzending.tv/gigantfm/gigantfm/playlist.m3u8
+#EXTINF:-1 tvg-id="GORTV.nl" status="online",GO-RTV (720p)
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="NETHERLANDS",Meer TV
-http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
-#EXTINF:-1 tvg-name=Nickelodeon Nederlands (Web) tvg-id="Nickelodeon.nl" group-title="NETHERLANDS" tvg-logo="https://www.nickelodeon.nl/png/Nickelodeon_logo@3x.png",Nickelodeon Nederlands (Web)
-plugin://plugin.video.youtube/play/?video_id=Ys1NO7seM7U
-#EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep_Brabant" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="NETHERLANDS",Omroep Brabant
-http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" group-title="NETHERLANDS",Omrop Fryslan
+#EXTINF:-1 tvg-id="Groningen1.nl" status="online",Groningen1 (1080p) [Not 24/7]
+http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 tvg-id="HK13TV.nl" status="online",HK13 TV (1080p) [Not 24/7]
+http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
+#EXTINF:-1 tvg-id="IdeaalTV.nl" status="online",Ideaal TV (480p) [Not 24/7]
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JenZ.nl" status="online",JenZ (1080p)
+https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LansingerlandTV.nl" status="online",Lansingerland TV (1080p)
+https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8
+#EXTINF:-1 tvg-id="LOETV.nl" status="online",LOE TV (720p)
+https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="LONTV.nl" status="timeout",LON TV (720p)
+https://streamingserver01.omroepnuenen.nl/lon/lonweb_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="MeerTV.nl" status="online",Meer TV (720p) [Not 24/7]
+https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1 tvg-id="ML5TV.nl" status="online",ML5 TV (480p)
+https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO1.nl" status="blocked",NPO 1 (1080p) [Geo-blocked]
+http://stream.tvtap.net:8081/live/nl-npo1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO1.nl" status="error",NPO 1 (342p) [Geo-blocked]
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
+#EXTINF:-1 tvg-id="NPO2.nl" status="online",NPO 2 (342p)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
+#EXTINF:-1 tvg-id="NPO2.nl" status="blocked",NPO 2 (302p) [Geo-blocked]
+http://stream.tvtap.net:8081/live/nl-npo2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO3.nl" status="blocked",NPO 3 (1080p) [Geo-blocked]
+http://stream.tvtap.net:8081/live/nl-npo3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO3.nl" status="error",NPO 3 (342p) [Not 24/7]
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8
+#EXTINF:-1 tvg-id="NPONieuws.nl" status="error",NPO Nieuws (576p)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/.m3u8
+#EXTINF:-1 tvg-id="NPOPolitiek.nl" status="error",NPO Politiek (576p)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabantRadio.nl" status="online",Omroep Brabant Radio (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabantTV.nl" status="online",Omroep Brabant (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepCentraalTV.nl" status="online",Omroep Centraal TV (480p)
+https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepFlevolandTV.nl" status="online",Omroep Flevoland (720p) [Not 24/7]
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepHulstTV.nl" status="error",Omroep Hulst TV (720p) [Not 24/7]
+https://stream.iconbroadcastgroup.com:1443/OH-Playout/smil:OH-Playout.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepOnsWestBrabant.nl" status="online",Omroep Ons West Brabant (480p)
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepPMTV.nl" status="online",Omroep P&M TV (1080p) [Not 24/7]
+https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepPMTV.nl" status="error",Omroep P&M (480p)
+https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepTilburgTV.nl" status="online",Omroep Tilburg (480p) [Not 24/7]
+https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepTilburgTV.nl" status="online",Omroep Tilburg TV (480p)
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmropFryslanTV.nl" status="online",Omrop Fryslân (1080p) [Not 24/7]
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
-#EXTINF:-1 tvg-id="OmroepGelderland.nl" tvg-name="Omroep_Gelderland" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Omroep_Gelderland.png" group-title="NETHERLANDS",Omroep Gelderland
-http://web.omroepgelderland.nl/live/livetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b6eHPxa.jpg" group-title="NETHERLANDS",Omroep Flevoland
-http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1uxxeWX.png" group-title="NETHERLANDS",Omroep P&M
-http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="NETHERLANDS",Omroep Tilburg
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="Omroep West" tvg-name="Omroep West" tvg-shift="0" radio="" tvg-logo="https://pietervanforeest.nl/img/responsive/module/news_img/tv_west_m.png" group-title="NETHERLANDS",Omroep West
-https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Omroep Zeeland NL" tvg-name="Omroep Zeeland NL" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",Omroep Zeeland
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:-1 tvg-id="Open Rotterdam" tvg-name="Open Rotterdam" tvg-shift="0" radio="" tvg-logo="http://www.juliette-events.nl/wp-content/uploads/2014/09/Logo-OPEN-Rotterdam-november-20131.png" group-title="NETHERLANDS",Open Rotterdam
+#EXTINF:-1 tvg-id="OpenRotterdam.nl" status="online",Open Rotterdam (480p) [Not 24/7]
 http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="NETHERLANDS",Qmusic (Webradio)
+#EXTINF:-1 tvg-id="ORTS.nl" status="online",ORTS (480p) [Not 24/7]
+http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PodiumTV2.nl" status="online",Podium.TV 2 (1080p) [Not 24/7]
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV3.nl" status="online",Podium.TV 3 (1080p) [Not 24/7]
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV.nl" status="online",Podium.TV (1080p) [Not 24/7]
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="Qmusic.nl" status="online",Qmusic (720p)
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="NETHERLANDS",Radio 10 (Webradio)
-http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="NETHERLANDS",Radio 538 (Webradio)
-http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="NETHERLANDS",Radio Veronica (Webradio)
-http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="NETHERLANDS",Regio TV Nieuws
-http://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="RN7.nl" tvg-name="RN 7 TV" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RN7_Logo.jpg/32px-RN7_Logo.jpg" group-title="NETHERLANDS",RN 7 TV
-https://streaming.rn7.nl/rn7live_abr/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EevQ6GV.jpg" group-title="NETHERLANDS",RTV 1 (Webradio)
-plugin://plugin.video.youtube/play/?video_id=VVC-LrhGI-A
-#EXTINF:-1 tvg-id="RTV Amstelveen" tvg-name="RTV Amstelveen" tvg-shift="0" radio="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/71/17115/1/c175.png" group-title="NETHERLANDS",RTV Amstelveen
+#EXTINF:-1 tvg-id="Radio10.nl" status="error",Radio 10 (720p)
+https://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio350.nl" status="online",Radio 350 (360p) [Not 24/7]
+https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 tvg-id="Radio538.nl" status="error",Radio 538 (270p)
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioA1.nl" status="error",Radio A1 (1080p) [Not 24/7]
+http://stream.a1mediagroep.eu/hls/a1studio.m3u8
+#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl" status="online",Radio Aalsmeer TV (720p) [Not 24/7]
+https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 tvg-id="RadioNL.nl" status="error",Radio NL (1080p) [Not 24/7]
+http://558bd16067b67.streamlock.net:1935/radionl/radionl/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRN7.nl" status="blocked",Radio RN7 (576p) [Geo-blocked]
+http://streaming.rn7.nl/rn7tv/live_576/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioVeronica.nl" status="error",Radio Veronica (270p)
+https://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioVOSFM.nl" status="error",Radio VOS FM (720p) [Not 24/7]
+http://593aed234297b.streamlock.net:1935/henrymeeuws/henrymeeuws/playlist.m3u8
+#EXTINF:-1 tvg-id="Regio8TV.nl" status="online",Regio8 TV (1080p)
+https://ms7.mx-cd.net/tv/71-475821/Regio8TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Regio90TV.nl" status="error",Regio90 TV (480p)
+https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVNieuws.nl" status="online",Regio TV Nieuws (1080p) [Not 24/7]
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVAmstelveen.nl" status="online",RTV Amstelveen (720p) [Not 24/7]
 https://live.rtva.nl/live/zender.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="NETHERLANDS",RTV Arnhem
-http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="RTV Dordrecht" tvg-name="RTV Dordrecht" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="NETHERLANDS",RTV Dordrecht
+#EXTINF:-1 tvg-id="RTVConnectTV.nl" status="online",RTV Connect TV (480p)
+https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVDordrecht.nl" status="online",RTV Dordrecht (480p)
 https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsD7Tsu.png" group-title="NETHERLANDS",RTV Drenthe
+#EXTINF:-1 tvg-id="RTVDordrecht.nl" status="online",RTV Dordrecht (480p)
+https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVDrenthe.nl" status="online",RTV Drenthe (1080p)
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5m3d7cP.jpg" group-title="NETHERLANDS",RTV Maastricht
+#EXTINF:-1 tvg-id="RTVGO.nl" status="online",RTV GO! (1080p) [Not 24/7]
+http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVMaastricht.nl" status="online",RTV Maastricht (720p) [Not 24/7]
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="NETHERLANDS",RTV Noord (Webradio)
+#EXTINF:-1 tvg-id="RTVNOF1.nl" status="online",RTV NOF 1 (720p)
+http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNOF2.nl" status="online",RTV NOF 2 (720p) [Not 24/7]
+http://593aed234297b.streamlock.net:1935/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoord.nl" status="online",RTV Noord (720p) [Not 24/7]
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="NETHERLANDS",RTV Noord Extra
-http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTV Noordoost Friesland
-http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.zwollenu.nl/wp-content/uploads/2015/05/rtvoost_logo.jpg" group-title="NETHERLANDS",RTV Oost
-http://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TYsLlr0.png" group-title="NETHERLANDS",RTV Rijnmond
+#EXTINF:-1 tvg-id="RTVNoordExtra.nl" status="online",RTV Noord Extra (1080p) [Not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoordoostFriesland.nl" status="online",RTV Noordoost Friesland (720p) [Not 24/7]
+http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoordoostFriesland.nl" status="online",RTV Noordoost Friesland (720p)
+https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVOost.nl" status="error",RTV Oost (720p)
+https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
+#EXTINF:-1 tvg-id="RTVPurmerend.nl" status="online",RTV Purmerend (720p)
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmond.nl" status="error",RTV Rijnmond (1080p)
 https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5cVkPR3.png" group-title="NETHERLANDS",RTV Utrecht
+#EXTINF:-1 tvg-id="RTVRijnstreekTV.nl" status="error",RTV Rijnstreek TV (720p) [Not 24/7]
+https://vdo.verrips.email:3789/live/televisielive.m3u8
+#EXTINF:-1 tvg-id="RTVSlingeland.nl" status="online",RTV Slingeland (1080p) [Not 24/7]
+https://ms7.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVUtrecht.nl" status="online",RTV Utrecht (1080p)
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1 tvg-id="Salto 1" tvg-name="Salto 1" tvg-shift="0" radio="" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="NETHERLANDS",Salto 1
-https://olon.ctl.cdn.ebsd.ericsson.net/L8A/95f14edc/8d74cf86.isml/.m3u8
-#EXTINF:-1 tvg-id="Salto 2" tvg-name="Salto 2" tvg-shift="0" radio="" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="NETHERLANDS",Salto 2
-https://olon.ctl.cdn.ebsd.ericsson.net/L8A/bc718ab6/65358d45.isml/.m3u8
-#EXTINF:-1 tvg-id="Salto ADE" tvg-name="Salto ADE" tvg-shift="0" radio="" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="NETHERLANDS",Salto ADE
-https://live.salto.nl/hls/at5_high.m3u8
-#EXTINF:-1 tvg-id="Salto Brasa Music" tvg-name="Salto Brasa Music" tvg-shift="0" radio="" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="NETHERLANDS",Salto Brasa Music
-https://salto-streams.nl/hls/sotv1_high.m3u8
-#EXTINF:-1 tvg-id="Salto 4" tvg-name="Salto 4" tvg-shift="0" radio="" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="NETHERLANDS",Salto 4
+#EXTINF:-1 tvg-id="RTVWesterwolde.nl" status="error",RTV Westerwolde (432p)
+http://59132e529e3d1.streamlock.net:1935/westerwolde/westerwolde/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVWesterwolde.nl" status="error",RTV Westerwolde (432p)
+https://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8
+#EXTINF:-1 tvg-id="Salto4.nl" status="error",Salto 4 (1080p)
 https://salto-streams.nl/hls/sotv2_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kURvuH.png" group-title="NETHERLANDS",TV Ellef
-http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Valkenburg" tvg-name="TV Valkenburg" tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="NETHERLANDS",TV Valkenburg
+#EXTINF:-1 tvg-id="SaltoADE.nl" status="online",Salto ADE (1080p)
+https://live.salto.nl/hls/at5_high.m3u8
+#EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" status="online",Salto Brasa Music (1080p)
+https://salto-streams.nl/hls/sotv1_high.m3u8
+#EXTINF:-1 tvg-id="Samen1TV.nl" status="online",Samen1 TV (720p)
+https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+#EXTINF:-1 tvg-id="SilenceTV.nl" status="online",Silence TV (720p) [Not 24/7]
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SirisTV.nl" status="online",Siris TV (720p) [Not 24/7]
+https://videostream.siris.nl/hls/playoutweb/index.m3u8
+#EXTINF:-1 tvg-id="StreekTV.nl" status="online",Streek TV (720p) [Not 24/7]
+http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 tvg-id="StreekTV.nl" status="timeout",Streek TV (720p) [Not 24/7]
+https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
+#EXTINF:-1 tvg-id="TommyTeleshopping.nl" status="online",Tommy Teleshopping (480p)
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEllef.nl" status="timeout",TV Ellef (540p) [Not 24/7]
+https://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVValkenburg.nl" status="online",TV Valkenburg (720p) [Not 24/7]
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
-#EXTINF:-1 tvg-id="UStad" tvg-name="UStad" tvg-shift="0" radio="" tvg-logo="https://www.ustad.nl/inc/css/images/logo-rtvutrecht.png" group-title="NETHERLANDS",UStad
+#EXTINF:-1 tvg-id="UStad.nl" status="online",UStad (1080p)
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
-#EXTINF:-1 tvg-id="WOS TV" tvg-name="WOS TV" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/UtOWySG.jpg" group-title="NETHERLANDS",WOS TV
+#EXTINF:-1 tvg-id="VechtdalTV.nl" status="online",Vechtdal TV (480p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl" status="online",Visit-X TV (720p) [Not 24/7]
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WOS.nl" status="online",WOS TV (1080p)
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WOS.nl" status="online",WOS TV (1080p)
 https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KrEBHLw.jpg" group-title="NETHERLANDS",ZO!34
+#EXTINF:-1 tvg-id="WOS.nl" status="online",WOS TV (1080p)
+https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZO34.nl" status="error",ZO!34 (720p)
 https://streams.uitzending.tv/zo34/zo34/playlist.m3u8
-#EXTINF:-1 tvg-id="Zuid West TV" tvg-name="Zuid West TV" tvg-shift="0" radio="" tvg-logo="https://www.zuidwesttv.nl/images/zwtv_fb.png" group-title="NETHERLANDS",Zuid West TV 
-https://olon.ctl.cdn.ebsd.ericsson.net/L8B/2cc7091a/dc57b750.isml/.m3u8
+#EXTINF:-1 tvg-id="ZuidWestTV.nl" status="online",ZuidWest TV (480p)
+https://live.zuidwesttv.nl/live/zwtv.m3u8
+#EXTINF:-1 tvg-id="" status="online",rtvutrecht (1080p)
+http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",Omroep West (1080p) [Not 24/7]
+https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Omroep Zeeland (1080p)
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",JENZ (1080p)
+https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",L1mburg (720p) [Not 24/7]
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",JIN TV (720p)
+https://live.jintv.org:12443/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="" status="online",XITE (720p) [Not 24/7]
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",XITE (BE) (720p) [Not 24/7]
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Omroep Gelderland (720p) [Not 24/7]
+https://web.omroepgelderland.nl/live/livetv.m3u8
+#EXTINF:-1 tvg-id="" status="online",RTV Arnhem (480p)
+https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="blocked",RN 7 TV (1080p) [Geo-blocked]
+https://streaming.rn7.nl/rn7live_abr/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Omroep Gelderland (1080p)
+https://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&output=playlist.m3u8&protocol=http&service=wowza&type=live
+#EXTINF:-1 tvg-id="" status="error",JIN TV (720p) [Not 24/7]
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/27
+#EXTINF:-1 tvg-id="" status="error",JIN TV (720p) [Not 24/7]
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8

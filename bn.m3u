@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-name="RTB Sukmaindera" tvg-country="BN" tvg-language="Malay (macrolanguage);English" tvg-logo="https://i.imgur.com/wRzyzPA.png" group-title="",RTB Sukmaindera (1080p)
-https://rtb-channel.glue.live/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTBGo.bn" status="error",RTB Go (720p)
+https://d19j8udk9agj55.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn" status="error",RTB Sukmaindera (720p)
+https://d19j8udk9agj55.cloudfront.net/smil:rtb1/playlist.m3u8
