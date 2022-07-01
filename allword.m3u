@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="GERMANY" tvg-chno="1" tvg-id="GERMANY (Partly GEO-Blocked outside DE) github.com/Free-IPTV" tvg-logo="https://i.imgur.com/xku2oyd.png" tvg-name="GERMANY (Partly GEO-Blocked outside DE) github.com/Free-IPTV",GERMANY (Partly GEO-Blocked outside DE)
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 group-title="GERMANY" tvg-chno="2" tvg-id="ARD.de" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" tvg-name="Das Erste HD",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 group-title="GERMANY" tvg-chno="3" tvg-id="ZDF.de" tvg-logo="http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" tvg-name="ZDF HD",ZDF HD
