@@ -1,475 +1,225 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A2i TV" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i TV
-https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A2i Music" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Music
-https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A2i Religion" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Religion
-https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies Religion" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="FRANCE",Action Movies
-https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alpe d'Huez" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="FRANCE",Alpe d'Huez
-https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alsace 20" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="FRANCE",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="FRANCE",Amuse Animation
-https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="FRANCE",Antenne Reunion
-http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
-#EXTINF:-1 tvg-id="" tvg-name="Arte France" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="FRANCE",Arte France
-https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atelier des chefs" tvg-logo="https://i.imgur.com/laArg26.png" group-title="FRANCE",Atelier des chefs
-https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM Business" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="FRANCE",BFM Business
-https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM Grand Lille" tvg-logo="https://i.imgur.com/kTvLQ0E.png" group-title="FRANCE",BFM Grand Lille
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM Grand Littoral" tvg-logo="https://i.imgur.com/hcHtoYp.png" group-title="FRANCE",BFM Grand Littoral
-https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM Lyon" tvg-logo="https://i.imgur.com/vgd7M72.png" group-title="FRANCE",BFM Lyon
-https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM Paris" tvg-logo="https://i.imgur.com/GMKyF3Y.png" group-title="FRANCE",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Names" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="FRANCE",Big Names
-https://alchimie-big-names-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bip TV" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="FRANCE",Bip TV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV+ (en)" tvg-logo="https://i.imgur.com/fhcaNlc.png" group-title="FRANCE",Bloomberg TV+ (en)
-https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="FRANCE",Caillou
-https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN France" tvg-logo="https://i.imgur.com/yXc4j9J.png" group-title="FRANCE",CGTN France
-http://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Classical Harmony" tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="FRANCE",Classical Harmony
-https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="FRANCE",Comedy Movies
-https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-logo="https://i.imgur.com/cThInij.png" group-title="FRANCE",D5TV
-http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBM" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" group-title="FRANCE",DBM
-https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dieu TV" tvg-logo="https://i.imgur.com/CCvzqLJ.png" group-title="FRANCE",Dieu TV
-https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama Movies" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="FRANCE",Drama Movies
-https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EMCI TV" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="FRANCE",EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="FRANCE",Euronews
-https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="FRANCE",Family Movies
-https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="FRANCE",Fashion TV
-https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="FRANCE",France 24
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="FRANCE",France 24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Francophonie" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="FRANCE",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="Fuel TV" tvg-name="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="FRANCE",Fuel TV
-https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Generations TV" tvg-logo="https://i.imgur.com/daUGyPl.jpg" group-title="FRANCE",Generations TV
-https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
-#EXTINF:-1 tvg-id="" tvg-name="Holygod TV" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="FRANCE",Holygod TV
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Humanity" tvg-logo="https://i.imgur.com/DFjN26b.jpg" group-title="FRANCE",Humanity
-https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ILTV" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="FRANCE",ILTV
-https://str81.creacast.com/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="FRANCE",KTO
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Chaine Normande" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="FRANCE",La Chaine Normande
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-name="LEEEKO TV" tvg-id="" tvg-logo="https://i.imgur.com/3qPONzi.jpg" group-title="FRANCE",LEEEKO TV
-http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="FRANCE",Luxe TV
-https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MDL" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="FRANCE",MDL
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="FRANCE",Moods
-https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="FRANCE",Movies Central
-https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MyComedy" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="FRANCE",MyComedy
-https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="My Surf TV" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="FRANCE",My Surf TV
-https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE",Nancy Web TV
-https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
-#EXTINF:-1 tvg-id="" tvg-name="Obosso TV" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="FRANCE",Obosso TV
-https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
-#EXTINF:-1 tvg-id="" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="FRANCE",ONE GOLF
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Passion Fiction" tvg-logo="https://i.imgur.com/lS8tTMV.png" group-title="FRANCE",Passion Fiction
-https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="FRANCE",People are Awesome
-https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qwest Classical" tvg-logo="https://i.imgur.com/R8TT3Ld.png" group-title="FRANCE",Qwest Classical
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qwest Jazz and Beyond" tvg-logo="https://i.imgur.com/R8TT3Ld.png" group-title="FRANCE",Qwest Jazz and Beyond
-https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qwest TV MIX" tvg-logo="https://i.imgur.com/R8TT3Ld.png" group-title="FRANCE",Qwest TV MIX
-https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="FRANCE",Radio Contact
-https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RMC" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="FRANCE",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT France" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="FRANCE",RT France
-https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="Sikka TV" tvg-logo="https://i.imgur.com/udkTNMg.jpg" group-title="FRANCE",Sikka TV
-plugin://plugin.video.youtube/play/?video_id=_zEUTa4n2n8
-#EXTINF:-1 tvg-id="" tvg-name="Sport en France" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="FRANCE",Sport en France
-https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="FRANCE",Sofy TV
-https://sofytv-samsungfr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="FRANCE",Spotlight
-https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stormcast Novelas TV" tvg-logo="https://i.imgur.com/WpQ3N82.png" group-title="FRANCE",Stormcast Novelas TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/kUmPbel.jpg" group-title="FRANCE",Supertoons TV
-https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TébéSud" tvg-logo="https://i.imgur.com/WCjP4Wk.jpg" group-title="FRANCE",TébéSud
-https://edge-live-ger1.ovstream.com/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="FRANCE",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="FRANCE",TF1 Series Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="FRANCE",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://i.imgur.com/qgNyto3.jpg" group-title="FRANCE",TMA
-http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="FRANCE",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Europe" tvg-logo="" group-title="FRANCE",TV5 Monde Europe
-https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info
-https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV7 Bordeaux" tvg-logo="https://i.imgur.com/y8YdwPF.jpg" group-title="FRANCE",TV7 Bordeaux
-plugin://plugin.video.youtube/play/?video_id=t6wgCy7kwPU
-#EXTINF:-1 tvg-id="" tvg-name="TV7 Colmar" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="FRANCE",TV7 Colmar
-https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVPI" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="FRANCE",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVR" tvg-logo="https://i.imgur.com/d8k69pg.png" group-title="FRANCE",TVR
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TZiK" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="FRANCE",TZiK
-https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="viaMirabelle" tvg-logo="https://i.imgur.com/YXUMEbi.png" group-title="FRANCE",viaMirabelle
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="7ALimoges.fr" status="online",7ALimoges
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
-#EXTINF:-1 tvg-id="AlpedHuezTV.fr" status="online",Alpe d’Huez TV
+#EXTINF:-1 tvg-id="20MinutesTV.fr",20 Minutes TV
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-id="7ALimoges.fr",7ALimoges (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
+#EXTINF:-1 tvg-id="A12TV.fr",A12 TV (720p)
+https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
+#EXTINF:-1 tvg-id="ADNTVPlus.fr",ADN TV+ (1080p) [Geo-Blocked]
+https://samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-fre/playlist.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr",Africa 24 (540p)
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr",Alpe d’Huez TV (720p) [Not 24/7]
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Alsace20.fr" status="online",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenneReunion.fr" status="online",Antenne Réunion
+#EXTINF:-1 tvg-id="AntenneReunion.fr",Antenne Réunion (720p) [Not 24/7]
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 tvg-id="ARTEDeutsch.de" status="blocked",Arte Deutsch
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1 tvg-id="BeurTV.fr" status="timeout",Beur TV
-https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="BFMBusiness.fr" status="error",BFM Business
-https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" status="online",BFM Grand Lille
+#EXTINF:-1 tvg-id="AssembleeNationale.fr",Assemblée Nationale (1080p) [Not 24/7]
+http://anorigin.vodalys.com/live/live36/index36_12856975.m3u8?DVR=
+#EXTINF:-1 tvg-id="BFMAlsace.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Alsace (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMBusiness.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Business (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMCotedAzur.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Nice Côte d'Azur (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM DICI Alpes du Sud (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM DICI Haute-Provence (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMGrandLille.fr",BFM Grand Lille (720p)
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" status="online",BFM Grand Littoral
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Grand Lille (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr",BFM Grand Littoral (720p)
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BFMLyon.fr" status="online",BFM Lyon
-https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
-#EXTINF:-1 tvg-id="BFMParis.fr" status="online",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
-#EXTINF:-1 tvg-id="BIPTV.fr" status="online",BIP TV
-http://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="CentralTV.fr" status="online",Central TV
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Grand Littoral (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMLyon.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Lyon (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMMarseille.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Marseille (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMNormandie.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Normandie (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMParis.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Paris Île-de-France (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMTechCo.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Tech & Co (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMTV.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMVar.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Toulon Var (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BIPTV.fr",BIP TV (480p) [Not 24/7]
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="BoomerangFrance.fr",Boomerang France (720p)
+http://51.81.185.2/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (480p)
+https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
+#EXTINF:-1 tvg-id="CentralTV.fr",Central TV (614p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cherie25.fr" status="error",Chérie 25
-https://s6.tntendirect.com/cherie25/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DBM.fr" status="online",DBM
+#EXTINF:-1 tvg-id="Cherie25.fr",Chérie 25 (1080p)
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+#EXTINF:-1 tvg-id="D5tv.fr",D5tv (1080p)
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr",DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr",DBM (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
-#EXTINF:-1 tvg-id="DBMTV.fr" status="online",DBM TV
-http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElHeddafTV.fr" status="online",El Heddaf TV
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="EMCITV.fr" status="online",EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:-1 tvg-id="EMCITV.fr" status="online",EMCI TV Montreal
-https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
-#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" status="online",FashionTV Czech&Slovak
+#EXTINF:-1 tvg-id="DieuTV.fr",DieuTV (1080p)
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EreTV.fr",Ère TV (1080p)
+https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr",FashionTV Czech&Slovak (450p) [Not 24/7]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVIndia.in" status="online",FashionTV Mumbai
-https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" status="online",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" status="online",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVNewYork.fr" status="online",Fashion TV New York (PG13)
-https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVParis.fr" status="online",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVParis.fr" status="error",Fashion TV Paris-Mumbai
-https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVPG13.fr" status="online",Fashion TV PG13
-https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVPG16.fr" status="online",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="FashionTVSingapore.fr" status="online",Fashion TV Singapore
-https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVTokyo.fr" status="online",Fashion TV Tokyo (PG13)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVTokyo.fr" status="online",Fashion TV Tokyo (PG13)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVUHD.fr" status="online",Fashion TV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="France2.fr" status="error",France 2
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" status="error",France 3
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 tvg-id="France4.fr" status="error",France 4
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr" status="error",France 5
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:-1 tvg-id="France24Arabic.fr" status="online",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="France24Arabic.fr" status="error",France 24 Arabic
-https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" status="online",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" status="error",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" status="online",Franceinfo
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live
-#EXTINF:-1 tvg-id="FranceInter.fr" status="online",France Inter
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
-#EXTINF:-1 tvg-id="Francophonie24.fr" status="online",Francophonie24
-https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Francophonie.fr" status="online",Francophonie
+#EXTINF:-1 tvg-id="Franceinfo.fr",Franceinfo (720p)
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
+#EXTINF:-1 tvg-id="FranceInter.fr",France Inter (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8
+#EXTINF:-1 tvg-id="Francophonie24.fr",Francophonie (360p)
 http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="GenerationsTV.fr" status="online",Generations TV
+#EXTINF:-1 tvg-id="Francophonie24.fr",Francophonie24 (1080p)
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GenerationsTV.fr",Generations TV (576p)
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" status="online",Gulli
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" status="blocked",Gulli
-http://flusonic-4.platinum-tv.com/Gulli/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="GulliBilArabi.fr" status="online",Gulli Bil Arabi
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-id="GulliGirl.ru" status="blocked",Gulli Girl
-http://188.40.68.167/russia/gulli_girl/playlist.m3u8
-#EXTINF:-1 tvg-id="HolyGodTV.fr" status="error",HolyGod TV
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr" status="error",ILTV
-https://str81.creacast.com/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" status="error",KTO
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="LaChaineNormande.fr" status="error",La Chaîne normande (LCN)
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" status="error",LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="LCP.fr" status="error",LCP
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xji3qy
-#EXTINF:-1 tvg-id="M6.fr" status="online",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-id="M6.fr" status="blocked",M6
-http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="MDL.fr" status="online",MDL
+#EXTINF:-1 tvg-id="Gulli.fr",Gulli (720p)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8
+#EXTINF:-1 tvg-id="HolyGodTV.fr",HolyGod TV (720p)
+https://128989.gvideo.io/streams/128989_522806/playlist.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTO.fr",KTO (404p) [Not 24/7]
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-id="LEspritSorcierTV.fr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34",L'Esprit Sorcier TV (1080p)
+#EXTVLCOPT:http-referrer= https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:-1 tvg-id="MCMTop.fr" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",MCM Top (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:-1 tvg-id="MDL.fr",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NancyWebTV.fr" status="online",Nancy Web TV
-https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" status="error",NRJ12
-https://s6.tntendirect.com/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-id="P2MTV.fr" status="online",P2M TV
-https://panel.streamparis.fr:3743/stream/play.m3u8
-#EXTINF:-1 tvg-id="PersianaBillboard.fr" status="error",Persiana Billboard
-http://51.210.199.10/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaCinema.fr" status="online",Persiana Cinema
-http://51.210.199.15/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaClassic.fr" status="online",Persiana Classic
-http://51.210.199.26/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaComedy.fr" status="online",Persiana Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaDocumentary.fr" status="online",Persiana Documentary
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaFamily.fr" status="online",Persiana Family
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaFamilyPlus.fr" status="timeout",Persiana Family Plus
-http://51.210.199.13/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaGameTech.fr" status="online",Persiana Game & Tech
-http://51.210.199.25/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaIranian.fr" status="online",Persiana Iranian
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaJunior.fr" status="online",Persiana Junior
-http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaKorea.fr" status="online",Persiana Korea
-http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaMusic.fr" status="online",Persiana Music
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaNostalgia.fr" status="online",Persiana Nostalgia
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaPlus.fr" status="online",Persiana Plus
-http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaSonnati.fr" status="timeout",Persiana Sonati
-http://51.210.199.59/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaVarzesh.fr" status="online",Persiana Varzesh
-http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PokerTV.fr" status="error",Poker TV
-http://51.210.199.17/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PublicSenat.fr" status="online",Public Sénat
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xkxbzc
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" status="error",RMC Découverte
-https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TebeSud.fr" status="online",TébéSud
-https://edge-live-ger1.ovstream.com/hls/10/source.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" status="blocked",TF1
-http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="TF1.fr" status="error",TF1
-http://edge9.iptvnetwork.net/live/TF1/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" status="error",TF1 Séries Films
-https://s6.tntendirect.com/hd1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" status="error",TFX
-https://s6.tntendirect.com/nt1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" status="blocked",Tiji
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#EXTINF:-1 tvg-id="TijiRussia.ru" status="blocked",Tiji Russia
-http://188.40.68.167/russia/tiji/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" status="error",TMC
-https://s6.tntendirect.com/tmc/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" status="error",TV5 Monde Europe
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" status="error",TV5 Monde Europe
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/master.m3u8
-#EXTINF:-1 tvg-id="TV7Bordeaux.fr" status="error",TV7 Bordeaux
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vGrlJbbfsE4
-#EXTINF:-1 tvg-id="TV7Colmar.fr" status="online",TV7 Colmar
-https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8MontBlanc.fr" status="online",TV8 Mont-Blanc
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v
-#EXTINF:-1 tvg-id="TV78.fr" status="online",TV78
-https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TVR.fr" status="online",TVR (Bretagne)
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TZiK.fr" status="timeout",TZiK
-https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
-#EXTINF:-1 tvg-id="W9.fr" status="blocked",W9
-http://flusonic-2.platinum-tv.com/W9/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" status="online",France 24 Español
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="" status="online",Cnews
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
-#EXTINF:-1 tvg-id="" status="online",Euronews Albania
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live
-#EXTINF:-1 tvg-id="" status="online",France 24 Français
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" status="online",France 24 Français
-https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" status="online",Euronews Hungary
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euronewsHungarian/live
-#EXTINF:-1 tvg-id="" status="online",Euronews по-русски
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
-#EXTINF:-1 tvg-id="" status="online",Euronews en Español
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
-#EXTINF:-1 tvg-id="" status="online",Euronews English
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="" status="online",viàMoselleTV
+#EXTINF:-1 tvg-id="Mezzo.fr" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-id="MoselleTV.fr",viàMoselleTV (720p) [Not 24/7]
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Fashion TV
-http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",viàVosges
-https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" status="online",viàMATÉLÉ
-https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",viàOccitanie
+#EXTINF:-1 tvg-id="MTVFrance.fr",MTV France (720p) [Not 24/7]
+http://190.2.155.162:8080/mtvfrance/mpegts
+#EXTINF:-1 tvg-id="MTVHitsFrance.fr",MTV Hits France (720p)
+http://178.170.47.109/MTVHITS/index.m3u8
+#EXTINF:-1 tvg-id="MTVHitsFrance.fr",MTV Hits France (720p) [Not 24/7]
+http://190.2.155.162:8080/mtvhit/mpegts
+#EXTINF:-1 tvg-id="MyZenTV.fr",MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="NancyWebTV.fr",Nancy Web TV (394p) [Not 24/7]
+https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
+#EXTINF:-1 tvg-id="NickelodeonFrance.fr",Nickelodeon France
+https://ythls.onrender.com/channel/UCeGvSi1Tb8OV78ue3_tux1A.m3u8
+#EXTINF:-1 tvg-id="NLMTV.fr",NLM TV (720p)
+https://ktismaservers.in:3394/stream/play.m3u8
+#EXTINF:-1 tvg-id="NRJ12.fr",NRJ 12 (1080p)
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-id="SportenFrance.fr",Sport En France (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id="SportenFrance.fr",Sport En France (360p)
+https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8
+#EXTINF:-1 tvg-id="SportenFrance.fr",Sport En France (720p)
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+#EXTINF:-1 tvg-id="TebeoTV.fr",Tébéo TV (1080p)
+https://start-1.direct.live/hls/tebeo.m3u8
+#EXTINF:-1 tvg-id="TebeSud.fr",TébéSud (1080p)
+https://start-2.direct.live/hls/tebesud.m3u8
+#EXTINF:-1 tvg-id="Telenantes.fr",Télénantes (480p)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
+#EXTINF:-1 tvg-id="TF1.fr",TF1 (1080p)
+https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr",Trace Latina
+http://185.234.217.27:8002/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerland.fr",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr",TV5Monde Maghreb-Orient (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondePacific.fr",TV5Monde Pacifique (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr",TV5Monde Style (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV7Bordeaux.fr",TV7 Bordeaux (720p)
+https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Colmar.fr",TV7 Colmar (576p)
+https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV78.fr",TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="TVPitchoun.fr",TV Pitchoun (1080p)
+https://live.tvradio-pitchoun.fr/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVR.fr",TVR (Bretagne) (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="TVVendee.fr",TV Vendée (480p)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVVendee.m3u8
+#EXTINF:-1 tvg-id="TZiK.fr",TZiK [Not 24/7]
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-id="ViaMatele.fr",ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="ViaOccitanie.fr",viàOccitanie (540p) [Not 24/7]
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-#EXTINF:-1 tvg-id="" status="blocked",CSTAR
-http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" status="blocked",ARTE Français
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="" status="error",Wéo (Hauts-de-France)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x62islg
-#EXTINF:-1 tvg-id="" status="error",Wéo (Picardie)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x63085w
-#EXTINF:-1 tvg-id="" status="error",L'EQUIPE
-https://s6.tntendirect.com/lequipe21/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",France 24 Español
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" status="error",TV5Monde Francia FR
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 tvg-name="BET CLASSICS Pluto TV" tvg-id="5f92b5ba040eaa0007074d0a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png",BET CLASSICS Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Bob l'éponge" tvg-id="5ffc8c345822750007e167de" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",Bob l'éponge
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="CATFISH TV" tvg-id="5f8eb66537867f0007146953" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png",CATFISH TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Dora TV" tvg-id="5f8ecb9524419b0007365a1c" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png",Dora TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Dossiers FBI" tvg-id="5f8edad922b10b000753bc37" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG.png",Dossiers FBI
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edad922b10b000753bc37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="FailArmy" tvg-id="5f8ecd9169d2d4000864a974" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png",FailArmy
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Femmes De Loi" tvg-id="5f8ed673cad35f0007651fd4" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed673cad35f0007651fd4/colorLogoPNG.png",Femmes De Loi
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed673cad35f0007651fd4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Gaming TV" tvg-id="5f8eccd81062c300078a11df" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png",Gaming TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="iCarly TV" tvg-id="5f8ecc7aa44d9c00081fca29" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png",iCarly TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="IGN" tvg-id="5f8ecee24576bc0007a13b79" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png",IGN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Les Cordier" tvg-id="5f8ed80fa09f120007c8daa5" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png",Les Cordier
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Les Nouveaux Detectives" tvg-id="5f8edb6df1ebb800072edf10" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png",Les Nouveaux Detectives
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Louis La Brocante" tvg-id="5f8ed6d569d2d4000864a976" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png",Louis La Brocante
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="MADE TV" tvg-id="5f8eb71a26ed8300076433f9" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eb71a26ed8300076433f9/colorLogoPNG.png",MADE TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="MTV CLASSICS" tvg-id="5f92b56a367e170007cd43f4" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",MTV CLASSICS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="People are Awesome" tvg-id="5f8ed0720dc198000728f9d3" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed0720dc198000728f9d3/colorLogoPNG.png",People are Awesome
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0720dc198000728f9d3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Plus Belle La Vie" tvg-id="5f8ed5fba4ffb8000764ea01" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed5fba4ffb8000764ea01/colorLogoPNG.png",Plus Belle La Vie
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Action" tvg-id="5f8ed1ff5c39700007e2204a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png",Pluto TV Action
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Animé All Day" tvg-id="5f8ed52a62fa750007733239" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png",Pluto TV Animé All Day
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Ciné" tvg-id="5f8ed0f17564a300082b676a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png",Pluto TV Ciné
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Ciné Rétro" tvg-id="5f8ed168f72fcd0007e56269" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png",Pluto TV Ciné Rétro
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Comédie" tvg-id="5f8eb91bb9b9e7000817e67f" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png",Pluto TV Comédie
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Crime" tvg-id="5f8ed4dbf6bb0800071ffbcb" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",Pluto TV Crime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Cuisine" tvg-id="5f8ed48146ba9e00078424b6" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png",Pluto TV Cuisine
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Drama" tvg-id="5f8ed2d1c34c2300073bf02c" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png",Pluto TV Drama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Extrême" tvg-id="5f8ed327f9e9b0000761141e" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png",Pluto TV Extrême
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Inside" tvg-id="5f8ed3892ed7bb000741a1d2" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",Pluto TV Inside
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Investigation" tvg-id="5f914f4b36d67d0007a91a04" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png",Pluto TV Investigation
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Junior" tvg-id="5f8ecb336537e8000764a17f" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png",Pluto TV Junior
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Kids Animation" tvg-id="5f8eba14a4ffb8000764e950" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png",Pluto TV Kids Animation
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Kids Collection" tvg-id="5f92b625c1ffbc0007e60c37" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png",Pluto TV Kids Collection
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Kids Séries" tvg-id="5f8eb99ff17815000784a3b0" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png",Pluto TV Kids Séries
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Nature" tvg-id="5f8ed58b2db26f0007b4aa73" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed58b2db26f0007b4aa73/colorLogoPNG.png",Pluto TV Nature
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Paranormal" tvg-id="5f8ed9461b35690007a0bc3a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png",Pluto TV Paranormal
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV TEEN SERIES" tvg-id="5f8eb7e3d2ed18000746d09a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png",Pluto TV TEEN SERIES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Telenovela" tvg-id="5f914f9dccb4de0007df8bc4" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png",Pluto TV Telenovela
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="The Pet Collective" tvg-id="5f8ecd336d64c9000754cdf1" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ecd336d64c9000754cdf1/colorLogoPNG.png",The Pet Collective
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Tortues Ninja TV" tvg-id="5f8ecc1b37867f00071469e9" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",Tortues Ninja TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="TROLL TV" tvg-id="5f8eb8a8b2619a000710605c" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",TROLL TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="WPT" tvg-id="5f8ecfb9db6c180007a6d1b0" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",WPT
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="viaTelePaese.fr",viàTéléPaese (720p)
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-id="VosgesTV.fr",Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-id="Weo.fr",Wéo (Hauts-de-France) (480p) [Not 24/7]
+https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Weo.fr",Wéo (Picardie) (480p) [Not 24/7]
+https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="",Baby Alive Français
+https://ythls.onrender.com/channel/UCj_YP8My20fYnXbe8B0ziUA.m3u8
+#EXTINF:-1 tvg-id="",Cats Family en Français
+https://ythls.onrender.com/channel/UCil6uAMf2IXD1SkiwZq3xhw.m3u8
+#EXTINF:-1 tvg-id="",DC Kids Français
+https://ythls.onrender.com/channel/UCuju5K7RVyqTZ0xVPbb3Zvg.m3u8
+#EXTINF:-1 tvg-id="",Fun Radio (720p)
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="",IncrediTales Français
+https://ythls.onrender.com/channel/UCgRU1S0M_TbYe0G0O1s4mqg.m3u8
+#EXTINF:-1 tvg-id="",Kosmo FR
+https://ythls.onrender.com/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
+#EXTINF:-1 tvg-id="",La Petite Sorcière Tanny
+https://ythls.onrender.com/channel/UC1VGGT9RfunvCdvZf_gqVBg.m3u8
+#EXTINF:-1 tvg-id="",Peppa Pig Français
+https://ythls.onrender.com/channel/UCXptamDYEVcU4JCio30hYTw.m3u8
+#EXTINF:-1 tvg-id="",POCOYO en FRANÇAIS
+https://ythls.onrender.com/channel/UC0pHdbHRCREJJQhGSUDH61g.m3u8
+#EXTINF:-1 tvg-id="",Pyjamasques
+https://ythls.onrender.com/channel/UCmwN7oJTsAeiPPcV4FF8HRw.m3u8
+#EXTINF:-1 tvg-id="",Super Truck Français
+https://ythls.onrender.com/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8
+#EXTINF:-1 tvg-id="TV3V.fr",TV3V (720p)
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-id="",WB Kids Français
+https://ythls.onrender.com/channel/UCqvIdlrnd4DCcqp2DZwaZYw.m3u8
+#EXTINF:-1 tvg-id="BblackAfrica.fr",BBLACK! AFRICA
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1 tvg-id="BblackCaribbean.fr",BBLACK! CARIBBEAN
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 tvg-id="",BBLACK! CLASSIK
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 tvg-id="AstrocenterTV.fr",Astrocenter TV (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
+#EXTINF:-1 tvg-id="4KurdHD.fr",4Kurd HD (720p) [Not 24/7]
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4Turk.fr",4Turk
+https://divanhls.wns.live/hls/stream.m3u8

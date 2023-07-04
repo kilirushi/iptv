@@ -1,42 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HRT1.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 1 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 tvg-id="HRT1.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 1 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 tvg-id="HRT2.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 2 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="HRT2.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 2 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="HRT3.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 3 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 tvg-id="HRT4.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 4 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 tvg-id="HRT4.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 4 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 tvg-id="MAXtvPromoKanal.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",MAXtv Promo Kanal (528p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-id="MAXtvPromoKanal.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",MAXtv Promo Kanal (528p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-id="NewsBar.hr" status="error" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",NewsBar (528p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8
-#EXTINF:-1 tvg-id="OTV.hr" status="online",OTV (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
-#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr" status="error",Radio Televizija Banovina (360p) [Not 24/7]
-rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:-1 tvg-id="RTLHrvatska.hr" status="online" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",RTL (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-id="TVJadran.hr" status="online",TV Jadran (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x670ug8
-#EXTINF:-1 tvg-id="TVNova.hr" status="online",TV Nova (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x694rtu
+#EXTINF:-1 tvg-id="CMCTV.hr",CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="DoxTV.hr",Dox TV (576p)
+https://vod1.laki.eu/dox/index.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr",HRT 1 (720p)
+https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="KlasikTV.hr",Klasik TV (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="LibertasTV.hr",Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="OTV.hr",OTV (720p)
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr",Radio Televizija Banovina (720p)
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="RTLCroatia.hr",RTL Croatia (1080p)
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKockica.hr",RTL Kockica (1080p)
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJadran.hr",TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="TVZapad.hr",TV Zapad (1080p)
+http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
+#EXTINF:-1 tvg-id="",STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="",Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8

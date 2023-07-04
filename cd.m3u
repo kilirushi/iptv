@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BOneTV.cd" status="blocked",B-One
-http://178.33.237.146/rtnc1.m3u8
-#EXTINF:-1 tvg-id="BossBrothersTV.cd" status="online",Boss Brothers TV (1080p)
+#EXTINF:-1 tvg-id="BossBrothersTV.cd",Boss Brothers TV (1080p)
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" status="error",Congo Planet Television (1080p)
+#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd",Congo Planet Television (1080p)
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="RTNC1.cd" status="error",RTNC 1 (360p)
-https://cdn.strimie.eu:3431/live/rtnc1live.m3u8
-#EXTINF:-1 tvg-id="" status="online",Congo Planet Television Pop (1080p)
+#EXTINF:-1 tvg-id="",Congo Planet Television Pop (1080p)
 https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
+#EXTINF:-1 tvg-id="RLPROTV.cd",RL PRO TV (480p)
+https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8
+#EXTINF:-1 tvg-id="EVITV.cd",EVI TV (720p)
+https://stream.telepack.net/evitv/index.m3u8
+#EXTINF:-1 tvg-id="VeriteTV.uk",Vérité TV (720p) [Not 24/7]
+http://51.254.199.122:8080/veriteTV/index.m3u8
+#EXTINF:-1 tvg-id="PSTVHD.cd",PSTV HD (480p) [Not 24/7]
+http://51.254.199.122:8080/PSTV/index.m3u8
+#EXTINF:-1 tvg-id="MikubaTV.cd",Mikuba TV (480p) [Not 24/7]
+http://51.254.199.122:8080/MIKUBATV/index.m3u8
+#EXTINF:-1 tvg-id="RTNC.cd",RTNC (1080p) [Not 24/7] 
+https://ythls.onrender.com/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8

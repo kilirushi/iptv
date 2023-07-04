@@ -1,170 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal11.pt" status="online",Canal 11 (720p)
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 tvg-id="CanalParlamento.pt" status="online",Canal Parlamento (432p) [Not 24/7]
-https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="IgrejaOnline.pt" status="online",Igreja Online (574p) [Not 24/7]
-http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt" status="online",Kuriakos Cine (1080p) [Not 24/7]
-http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt" status="online",Kuriakos Kids (1080p)
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt" status="online",Kuriakos Music (1080p)
-http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" status="online",Kuriakos TV (1080p)
-http://195.22.11.11:1935/ktv/ktv1/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" status="online",Kuriakos TV (576p)
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" status="online",Porto Canal (360p) [Not 24/7]
-https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" status="online",Porto Canal (360p) [Not 24/7]
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioClubeTV.pt" status="online",Radio Clube TV (720p) [Not 24/7]
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" status="online",RTP1 (480p)
+#EXTINF:-1 tvg-id="ARTV.pt",ARTV Canal Parlamento (720p) [Not 24/7]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal.pt",CNN Portugal (720p)
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+#EXTINF:-1 tvg-id="KuriakosMusic.pt",Kuriakos Music (1080p)
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt",Kuriakos TV (1080p)
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVPortugal.pt",MTV Portugal (576p)
+http://176.79.76.155:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt",Porto Canal (720p)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt",RTP 1 (480p) 
 http://162.212.178.69:41042/bysid/608
-#EXTINF:-1 tvg-id="SICInternacional.pt" status="blocked",SIC Internacional (720p)
-http://live.impresa.pt/live/sicint/sicint.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" status="blocked",SIC Noticias [Geo-blocked]
-http://live.impresa.pt/live/sicnot/sicnot.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" status="error",Sobrenatural TV (1080p)
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" status="error",Sobrenatural TV (360p) [Not 24/7]
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="SportTV4.pt" status="blocked" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",Sport TV 4 (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVFatima.pt" status="error",TV Fátima (1080p)
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVFatima.pt" status="error",TV Fátima (1080p) [Not 24/7]
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" status="error",TVI24 (480p)
-https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" status="online",TVI (480p)
-https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
-#EXTINF:-1 tvg-id="TVIReality.pt" status="online",TVI Reality (480p)
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-#EXTINF:-1 tvg-id="TVManaCordoba.pt" status="online",TV Maná Córdoba (576p) [Not 24/7]
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV MANA MAPUTO (576p) [Not 24/7]
-http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV MANA-1 PORTUGAL (1080p) [Not 24/7]
-http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",STV Noticias (240p) [Not 24/7]
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV Maná 2 (576p) [Not 24/7]
-http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV MANA MAPUTO (526p) [Not 24/7]
-http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV MANA (ESP) (488p)
-http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV MANA (RU) (486p)
-http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV MANA (ENG) (484p)
-http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV MANA (FR) (484p)
-http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV Maná 1 (320p) [Not 24/7]
-http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3582" tvg-id="Canal Macau" tvg-logo="https://i.imgur.com/0eGv67Q.png",Canal Macau
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3583" tvg-id="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" tvg-name="Igreja Online",Igreja Online
-http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3584" tvg-id="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" tvg-name="Kuriakos Cine",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3585" tvg-id="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" tvg-name="Kuriakos Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3586" tvg-id="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" tvg-name="Kuriakos Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3587" tvg-id="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" tvg-name="Kuriakos TV",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3588" tvg-id="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" tvg-name="Sobrenatural TV",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3589" tvg-id="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" tvg-name="Porto Canal",Porto Canal
-https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3590" tvg-id="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" tvg-name="TV Fatima",TV Fatima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-chno="3591" tvg-id="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" tvg-name="TV Mana 1",TV Mana 1
-http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
-#EXTINF:-1 tvg-id="1001Noites.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Hot.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nUwQjXW.png" group-title="XXX",Hot
-http://185.236.229.21:9981/play/a03p
-#EXTINF:-1 tvg-id="IgrejaOnline.pt" tvg-country="PT" tvg-language="" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="",Igreja Online
-http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Religious",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="Movies",NOS Studios
-http://185.236.229.21:9981/play/a054
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General",Porto Canal
-https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General",Porto Canal
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1
-http://162.212.178.69:41042/bysid/608
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="General",RTP2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3
+#EXTINF:-1 tvg-id="RTP1.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="General",RTP Açores
+#EXTINF:-1 tvg-id="RTP3.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="General",RTP África
+#EXTINF:-1 tvg-id="RTPAcores.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP África (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional
+#EXTINF:-1 tvg-id="RTPiAsia.pt",RTP Internacional Asia (480p)
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="General",RTP Madeira
+#EXTINF:-1 tvg-id="RTPMadeira.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Madeira (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="General",SIC Internacional
-http://live.impresa.pt/live/sicint/sicint.m3u8
-#EXTINF:-1 tvg-id="SICMulher.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Entertainment",SIC Mulher
-http://185.236.229.21:9981/play/a037
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="News",SIC Noticias [Geo-blocked]
-http://live.impresa.pt/live/sicnot/sicnot.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV
+#EXTINF:-1 tvg-id="RTPMemoria.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt",SIC (1080p)
+http://93.152.174.144:4000/play/sic/index.m3u8
+#EXTINF:-1 tvg-id="SIC.pt",SIC (1080p)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SIC.pt",SIC (1080p) [Geo-blocked]
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt",SIC Noticias (1080p) [Geo-blocked]
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-id="SobrenaturalTV.pt",Sobrenatural TV (1080p)
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Religious",Sobrenatural TV
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Sports",Sport TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Sports",Sport TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Sports",Sport TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Sports",Sport TV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Sports",Sport TV 5
-http://185.236.229.21:9981/play/a03n
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Sports",Sport TV+
-http://185.236.229.21:9981/play/a03c
-#EXTINF:-1 tvg-id="STVNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="News",STV Noticias
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
-#EXTINF:-1 tvg-id="TVFatima.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVFatima.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="Movies",TVCine Action
-http://185.236.229.21:9981/play/a04n
-#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="Movies",TVCine Edition
-http://185.236.229.21:9981/play/a061
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="Movies",TVCine Emotion
-http://185.236.229.21:9981/play/a05z
-#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="Movies",TVCine Top
-http://185.236.229.21:9981/play/a04w
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="News",TVI24
-https://iptv-all.lanesh4d0w.codes/portugal/tvi24
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="",TVI Reality
+#EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt",TV Canção Nova Portugal (720p)
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt",TVI Ficção (480p) [Geo-blocked]
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt",TVI Reality (480p) [Geo-blocked]
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 tvg-id="TVMana1.pt",TV Maná 1 (1080p)
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana2.pt",TV Maná 2 (1080p)
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrazil.pt",TV Maná Brazil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaCordoba.pt",TV Maná Córdoba (576p) [Not 24/7]
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEnglish.pt",TV Maná English (1080p)
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaFrancais.pt",TV Maná Français (484p)
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaMozambique.pt",TV Maná Mozambique (1080p)
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt",TV Maná Russkiy (486p)
+http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaSpanish.pt",TV Maná Español (1080p)
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt",ON FM (720p)
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="iesTV.pt",iesTV (1080p)
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.pt",Canal 11 (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
+#EXTINF:-1 tvg-id="TVFatima.pt",TV Fátima (1080p)
+https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFatima.pt",TV Fátima (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCOAjX8pc2fY1S5AqsXvZywg.m3u8
+#EXTINF:-1 tvg-id="IgrejaOnline.pt",Igreja Online (1080p) [Not 24/7]
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalUmEuropa.pt",RIT TV (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="",SIC Novelas (720p)
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+#EXTINF:-1 tvg-id="RecordTVEuropa.pt",RecordTV Europa (720p) [Geo-blocked]
+https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
+#EXTINF:-1 tvg-id="",TVI África (480p) [Not 24/7]
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8

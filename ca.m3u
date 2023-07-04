@@ -1,197 +1,192 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5AABTV.ca" status="online",5AAB TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="5AABTV.ca",5AAB TV (720p) [Not 24/7]
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" status="online",Amazing Discoveries TV (720p)
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AssembleenationaleduQuebec.ca" status="error",Canal de l'Assemblée nationale (544p) [Not 24/7]
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
-#EXTINF:-1 tvg-id="AzStarTV.ca" status="online",Az Star TV (1080p)
+#EXTINF:-1 tvg-id="AzStarTV.ca",Az Star TV (1080p)
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AzStarTV.ca" status="error",Az Star TV (240p)
+#EXTINF:-1 tvg-id="AzStarTV.ca",Az Star TV (240p)
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCTorontoGaundaPunjab.ca" status="online",BBC Toronto Gaunda Punjab (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BBCTorontoGaundaPunjab.ca",BBC Toronto Gaunda Punjab (720p) [Not 24/7]
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanadaOne.ca" status="online",Canada One (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BelmediaTV.ca",Belmedia TV (1080p)
+https://ythls.onrender.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8
+#EXTINF:-1 tvg-id="BNNBloomberg.ca",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 tvg-id="Cable14Hamilton.ca",Cable 14 Hamilton
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
+#EXTINF:-1 tvg-id="CanadaOne.ca",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanadaStarTV.ca" status="timeout",Canada Star TV (1080p)
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="CanadianArabTV.ca" status="online",Canadian Arab TV (720p) [Not 24/7]
-http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 tvg-id="CanadianArabTV.ca" status="online",Canadian Arab TV (720p) [Not 24/7]
-http://142.112.39.133:8080/hls/catv/index.m3u8
-#EXTINF:-1 tvg-id="CanalSavoir.ca" status="online",Canal Savoir (360p)
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="CanBanglaTV.ca" status="online",CanBangla TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="CanadaStarTV.ca",Canada Star TV (720p)
+https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelAssemblee.ca",Assemblée Nationale du Québec
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+#EXTINF:-1 tvg-id="CanBanglaTV.ca",CanBangla TV (1080p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCCalgary.ca" status="blocked",CBC Calgary [Geo-blocked]
-https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCCharlottetown.ca" status="blocked",CBC Charlottetown [Geo-blocked]
-https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCEdmonton.ca" status="blocked",CBC Edmonton [Geo-blocked]
-https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCFredericton.ca" status="blocked",CBC Fredericton [Geo-blocked]
-https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCHalifax.ca" status="blocked",CBC Halifax [Geo-blocked]
-https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCMontreal.ca" status="blocked",CBC Montreal [Geo-blocked]
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" status="blocked",CBC News Network [Geo-blocked]
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
-#EXTINF:-1 tvg-id="CBCOttawa.ca" status="blocked",CBC Ottawa [Geo-blocked]
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCRegina.ca" status="blocked",CBC Regina [Geo-blocked]
-https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCStJohns.ca" status="blocked",CBC St Johns [Geo-blocked]
-https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCToronto.ca" status="blocked",CBC Toronto [Geo-blocked]
-https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCToronto.ca" status="error",CBC Toronto (720p)
-http://encodercdn1.frontline.ca/encoder181/output/CBC_Toronto_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCVancouver.ca" status="blocked",CBC Vancouver [Geo-blocked]
-https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCWindsor.ca" status="blocked",CBC Windsor [Geo-blocked]
-https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
-#EXTINF:-1 tvg-id="CBCWinnipeg.ca" status="blocked",CBC Winnipeg [Geo-blocked]
-https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCYellowknife.ca" status="blocked",CBC Yellowknife [Geo-blocked]
-https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
-#EXTINF:-1 tvg-id="CBFT.ca" status="online",Ici Radio-Canada Télé (720p)
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1 tvg-id="CBFT.ca" status="blocked",Ici Radio-Canada Télé (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBAFTDT.ca",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
+#EXTINF:-1 tvg-id="CBATDT.ca",CBC New Brunswick (CBAT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+#EXTINF:-1 tvg-id="CBCTDT.ca",CBC Prince Edward Island (CBCT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+#EXTINF:-1 tvg-id="CBETDT.ca",CBC Windsor (CBET-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+#EXTINF:-1 tvg-id="CBFTDT.ca",Ici Radio-Canada Télé (1080p) [Geo-blocked]
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 tvg-id="CFTM.ca" status="blocked",TVA [Geo-blocked]
+#EXTINF:-1 tvg-id="CBHTDT.ca",CBC Nova Scotia (CBHT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:-1 tvg-id="CBKFTDT.ca",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
+#EXTINF:-1 tvg-id="CBKTDT.ca",CBC Saskatchewan (CBKT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+#EXTINF:-1 tvg-id="CBLFTDT.ca",Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+#EXTINF:-1 tvg-id="CBLTDT.ca",CBC Toronto (CBLT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 tvg-id="CBMTDT.ca",CBC Montréal (CBMT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 tvg-id="CBNTDT.ca",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+#EXTINF:-1 tvg-id="CBOFTDT.ca",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:-1 tvg-id="CBOTDT.ca",CBC Ottawa (CBOT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:-1 tvg-id="CBRTDT.ca",CBC Calgary (CBRT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+#EXTINF:-1 tvg-id="CBUFTDT.ca",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 tvg-id="CBUTDT.ca",CBC Vancouver (CBUT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 tvg-id="CBVTDT.ca",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+#EXTINF:-1 tvg-id="CBWFTDT.ca",Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+#EXTINF:-1 tvg-id="CBWTDT.ca",CBC Manitoba (CBWT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+#EXTINF:-1 tvg-id="CBXFTDT.ca",Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
+#EXTINF:-1 tvg-id="CBXTDT.ca",CBC Edmonton (CBXT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+#EXTINF:-1 tvg-id="CFHDDT.ca",ICI Montreal (720p)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="CFTMDT.ca",TVA [Geo-blocked]
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
-#EXTINF:-1 tvg-id="CIVM.ca" status="online",Télé-Québec (720p)
+#EXTINF:-1 tvg-id="CFTUDT.ca",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="CFYKDT.ca",CBC North (CFYK-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+#EXTINF:-1 tvg-id="CIVMDT.ca",Télé-Québec (720p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.ca" status="error",Classique TV (480p)
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.ca" status="error",Classique TV (480p)
-http://stmv3.srvstm.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="CP24.ca" status="error",CP24 (720p)
-http://s1.mysportz.tv:2082/cp24/playlist.m3u8
-#EXTINF:-1 tvg-id="CPACOttawa.ca" status="online",CPAC (720p)
+#EXTINF:-1 tvg-id="CJBRDT.ca",Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+#EXTINF:-1 tvg-id="CJONDT.ca",Newfoundland Television (480p)
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CKSHDT.ca",Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+#EXTINF:-1 tvg-id="CKTMDT.ca",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+#EXTINF:-1 tvg-id="CKTVDT.ca",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+#EXTINF:-1 tvg-id="CMalayalamTV.ca",C Malayalam TV (1080p)
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CPACEnglish.ca",CPAC (720p)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-id="CPMTV24.ca" status="error",CPMTV 24
-http://159.69.58.154/cpmtv/cpmtv.m3u8
-#EXTINF:-1 tvg-id="CTV.ca" status="online",CTV (720p)
+#EXTINF:-1 tvg-id="CTBTV.ca",Corporation de Télévision Brandon (CTB TV)
+https://fl001.elpcinc.com/CTB-TV/index.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca",CTV (720p)
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="DesheBidesheTV.ca" status="online",DesheBideshe TV (720p)
+#EXTINF:-1 tvg-id="DesheBidesheTV.ca",DesheBideshe TV (720p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DoyelTV.ca" status="online",Doyel TV (720p) [Not 24/7]
-http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DoyelTV.ca" status="online",Doyel TV (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DukhNivaran.ca" status="online",Dukh Nivaran (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DukhNivaran.ca",Dukh Nivaran (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
-#EXTINF:-1 tvg-id="EawazTV.ca" status="online",Eawaz TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EawazTV.ca",Eawaz TV (720p) [Not 24/7]
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 tvg-id="EEntertainment.ca" status="error",E! Canada (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_E!HD_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="EETTV.ca" status="online",EET TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="EETTV.ca",EET TV (1080p) [Not 24/7]
 https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" status="online",Fight Network (1080p)
+#EXTINF:-1 tvg-id="FightNetwork.ca",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="GlobalNewsToronto.ca" status="error",Global Toronto (720p)
-http://encodercdn1.frontline.ca/encoder184/output/Global_Toronto_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" status="online",GurSikh Sabha TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="GurSikhSabhaTV.ca",GurSikh Sabha TV (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.ca" status="error",History (720p)
-http://encodercdn1.frontline.ca/encoder181/output/History_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ICIMontreal.ca" status="online",ICI Montreal (720p) [Not 24/7]
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" status="online",ICI RDI (720p)
+#EXTINF:-1 tvg-id="IciRDI.ca",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="IIPCTV.ca" status="online",IIPC TV (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ICnet2.ca",ICnet 2 Academic (720p)
+https://60ba7ef02e687.streamlock.net/ICNET2/ngrp:icnet_all/playlist.m3u8
+#EXTINF:-1 tvg-id="IIPCTV.ca",IIPC TV (480p) [Geo-blocked]
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ITCTV.ca" status="blocked",ITC TV (480p) [Geo-blocked]
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8
-#EXTINF:-1 tvg-id="Knowledge.ca" status="blocked",Knowledge (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca",Knowledge (720p) [Geo-blocked]
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="LCN.ca" status="blocked",LCN [Geo-blocked]
+#EXTINF:-1 tvg-id="LCN.ca",LCN [Geo-blocked]
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-id="MontrealGreekTV.ca" status="online",Montreal Greek TV (480p) [Not 24/7]
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="NACTV.ca" status="online",NACTV (720p) [Not 24/7]
-http://stream.pivotalelements.com/nactv/stream.m3u8
-#EXTINF:-1 tvg-id="NETVToronto.ca" status="online",NETV Toronto (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca",Montreal Greek TV (480p)
+http://live.greektv.ca/hls1/greektv.m3u8
+#EXTINF:-1 tvg-id="NACTV.ca",NACTV (720p) [Not 24/7]
+https://stream.pivotalelements.com/nactv/stream.m3u8
+#EXTINF:-1 tvg-id="NETVToronto.ca",NETV Toronto (720p) [Not 24/7]
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:-1 tvg-id="NRBTV.ca" status="online",NRB TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Noovo.ca",Noovo [Not 24/7]
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id="NRBTV.ca",NRB TV (1080p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ca" status="online",NTV (Newfoundland) (576p) [Not 24/7]
-https://2-fss-1.streamhoster.com/pl_122/201748-1282644-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ONNtv.ca" status="error",ONNtv (Ontario) (1080p)
-https://onntv.vantrix.tv/onntv_hls/h264_aac_ABR.m3u8
-#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" status="online",Ontario Parliamentary Network (720p)
-http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-id="PardesiTV.ca" status="online",Pardesi TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca",Ontario Parliamentary Network (720p)
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca",Ontario Parliamentary Network
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1 tvg-id="PamirTV.ca",Pamir TV (1080p) [Not 24/7]
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="PardesiTV.ca",Pardesi TV (720p) [Not 24/7]
 http://stream.pardesitv.online/pardesi/index.m3u8
-#EXTINF:-1 tvg-id="ParnianTV.ca" status="online",Parnian TV (720p)
+#EXTINF:-1 tvg-id="PardesiTV.ca",Pardesi TV (720p)
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ParnianTV.ca",Parnian TV (720p)
 https://live2.parnian.tv/hls/.m3u8
-#EXTINF:-1 tvg-id="PlymouthRockTV.ca" status="online",Plymouth Rock TV (1080p)
+#EXTINF:-1 tvg-id="PlymouthRockTV.ca",Plymouth Rock TV (1080p)
 https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlymouthRockTV.ca" status="online",Plymouth Rock TV (1080p)
+#EXTINF:-1 tvg-id="PlymouthRockTV.ca",Plymouth Rock TV (1080p)
 https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimeAsiaTV.ca" status="error",Prime Asia TV (720p)
-http://primeasia.dyndns.tv:8080/Live_web_250/index.m3u8
-#EXTINF:-1 tvg-id="PrimeCanadaTV.ca" status="online",Prime Canada TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PrimeAsiaTV.ca",Prime Asia TV (1080p)
+http://primeasia.selfip.net/Samsung/index.m3u8
+#EXTINF:-1 tvg-id="PrimeCanadaTV.ca",Prime Canada TV (720p) [Not 24/7]
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="RamgarhiABC.ca" status="error",Ramgarhi ABC (720p) [Not 24/7]
-https://443-1.autopo.st/100/live/bcgurduwarabrookside/chunks.m3u8
-#EXTINF:-1 tvg-id="SaltPlusLightTelevision.ca" status="online",Salt + Light Television (1080p)
-https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="SanjhaPunjab.ca" status="online",Sanjha Punjab (720p)
-http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca" status="online",Sikh Spiritual Centre Rexdale (720p)
-https://cdn12.henico.net:8443/live/ssct/index.m3u8
-#EXTINF:-1 tvg-id="TAGTV.ca" status="online",TAG TV (1080p) [Not 24/7]
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TamilVisionTV.ca" status="online",Tamil Vision TV (1080p)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="TamilVisionTV.ca" status="online",Tamil Vision TV (720p)
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleCulturelleMedias.ca" status="online",Télé Culturelle Médias (720p) [Not 24/7]
-https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleMag.ca" status="online",Télé-Mag Québec (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/ctmq/live
-#EXTINF:-1 tvg-id="TeleMagQuebec.ca" status="online",Télé-Mag Québec (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
-#EXTINF:-1 tvg-id="Teletoon.ca" status="error",Teletoon (720p) [Not 24/7]
-http://s1.mysportz.tv:2082/teletoon/playlist.m3u8
-#EXTINF:-1 tvg-id="TheChannelTV.ca" status="online",The Channel TV (1080p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWeatherNetwork.ca" status="error",The Weather Network Uxbridge Edition (720p)
-http://s1.mysportz.tv:2082/weather/playlist.m3u8
-#EXTINF:-1 tvg-id="Toronto360TV.ca" status="online",Toronto 360 TV (720p) [Not 24/7]
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca" status="error",TSN 1 (720p)
-http://s1.mysportz.tv:2082/tsn1/playlist.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" status="error",TSN 2 (720p)
-http://s1.mysportz.tv:2082/tsn2/playlist.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" status="error",TSN 3 (720p)
-http://s1.mysportz.tv:2082/tsn3/playlist.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca" status="error",TSN 4 (720p)
-http://s1.mysportz.tv:2082/tsn4/playlist.m3u8
-#EXTINF:-1 tvg-id="TV16Toronto.ca" status="online",TV 16 Toronto (720p) [Not 24/7]
-http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="TVC9.ca" status="online",TVC9 (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
-#EXTINF:-1 tvg-id="TVOKids.ca" status="online",TVOKids (360p) [Not 24/7]
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 tvg-id="UvagutTV.ca" status="online",Uvagut TV (1080p)
-http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
-#EXTINF:-1 tvg-id="VBS.ca" status="online",VBS (480p) [Not 24/7]
-https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WCGtv.ca" status="error",WCGtv Brandon (720p) [Not 24/7]
-https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
-#EXTINF:-1 tvg-id="WeatherNetwork.ca" status="error",The Weather Network Event (720p) [Not 24/7]
-https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-#EXTINF:-1 tvg-id="" status="online",Azstar TV (1080p) [Not 24/7]
-http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Ontario Parliamentary Network (FR) (720p)
-http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",QVTV (720p)
+#EXTINF:-1 tvg-id="QuoVadisTV.ca",Quo Vadis Ministry TV (720p)
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",CityTV Toronto CFTO-DT (720p)
-http://encodercdn1.frontline.ca/bespin/output/City_Toronto_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",Cheknews (1080p) [Not 24/7]
-https://iptv-all.lanesh4d0w.repl.co/canada/chek-news
+#EXTINF:-1 tvg-id="SardariTV.ca",Sardari TV (1080p) [Not 24/7]
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca",Sikh Spiritual Centre Rexdale (720p)
+https://cdn12.henico.net:8443/live/ssct/index.m3u8
+#EXTINF:-1 tvg-id="TAGTV.ca",TAG TV (1080p) [Not 24/7]
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca",Tamil Vision TV (1080p)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca",Tamil Vision TV (720p)
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 tvg-id="TCFTV.ca",TCF TV
+http://66.11.33.44:8081/live/TCF/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMagQuebec.ca",Télé-Mag Québec (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id="Toronto360TV.ca",Toronto 360 TV (720p) [Not 24/7]
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TSC.ca",Today's Shopping Choice (TSC) (720p)
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:-1 tvg-id="TV16Toronto.ca",TV 16 Toronto (720p) [Not 24/7]
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 tvg-id="tvcTK.ca",Temiscaming-Kipawa Community television in Québec Canada
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
+#EXTINF:-1 tvg-id="UvagutTV.ca",Uvagut TV (1080p)
+https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+#EXTINF:-1 tvg-id="VBS.ca",VBS (480p) [Not 24/7]
+https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WCGtv.ca",WCGtv Public (720p)
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+#EXTINF:-1 tvg-id="",ClassicalFM [Geo-blocked]
+https://ythls.onrender.com/channel/UC_DweJsPH4mvcRU3aFwVtqg.m3u8
+#EXTINF:-1 tvg-id="",CNV/Montreal
+https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Now TV 102.3FM Edmonton (CKNO-FM)
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 tvg-id="WataneMaaTV.ca",WATAN-E-MAA
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="",ZoomerRadio
+https://ythls.onrender.com/channel/UCon2a9opDXmI-i3Be6PYBQA.m3u8
+#EXTINF:-1 tvg-id="TeleCulturelleMedias.ca",Tele Culturelle Medias (1080p)
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_79b37a4032dd11ed85c9d9bece7b557e
+https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bece7b557e/index.m3u8
