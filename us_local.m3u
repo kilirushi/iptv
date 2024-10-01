@@ -264,10 +264,10 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/huntingtonbeach/G0088_005/playlist.m3u
 https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 #EXTINF:-1 tvg-id="ICTV.us",Irvine Community Television (720p)
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
-#EXTINF:-1 tvg-id="G10TV.us",Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
-https://reflect-jacksonville.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="",Jacksonville Freedom Fountain Camera Live
 https://reflect-jacksonville.cablecast.tv/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="G10TV.us",Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
+https://reflect-jacksonville.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="KCKSLD12.us",Jewelry TV (KCKS-LD12) (480p)
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTINF:-1 tvg-id="KBEV.us",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
@@ -310,8 +310,6 @@ https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-id="KweliTV.us",Kweli TV (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2129
-#EXTINF:-1 tvg-id="KXLNDT1.us",KXLN-DT1 (Univision West) [Geo-blocked]
-https://unidfp-nlds145.global.ssl.fastly.net/nlds/univisionnow/univision_hou2/as/live/univision_hou2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="KXTVDT1.us",KXTV ABC 10 (Sacramento CA)
 https://livevideo.tegnadigital.com/kxtv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KXTV/elvs/live.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us",LA CityView 35 (1080p)
@@ -626,8 +624,6 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/westlakevillage/G0133_004/playlist.m3u
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/westminsterca/G0571_001/playlist.m3u8
 #EXTINF:-1 tvg-id="WFTXDT1.us",WFTX News Fort Myers FL (720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:-1 tvg-id="WGBODT1.us",WGBO-DT1 Unisvion Chicago [Geo-blocked]
-https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="WGNDT1.us",WGN Chicago IL (WGN-TV1) (720p)
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 #EXTINF:-1 tvg-id="WhitePlainsCommunityMedia.us",White Plains Community Media (360p)
@@ -652,6 +648,8 @@ https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7
 https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
 #EXTINF:-1 tvg-id="WLCT96.us",Wolcott Governmental TV (Wolcott CT) (720p)
 https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us",WOLO-DT1 ABC 25 (Columbia SC) (720p)
+http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WorldHarvestTV.us",World Harvest TV (360p)
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WPAATV.us",WPAA TV (Wallingford CT) (1080p)
@@ -668,8 +666,6 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
 #EXTINF:-1 tvg-id="WWAYDT1.us",WWAY News (Willmington NC) (720p)
 https://dai.google.com/linear/hls/event/A7CgcBYNTuKfvFvW8rmiJA/master.m3u8
-#EXTINF:-1 tvg-id="WXTVDT1.us",WXTV-DT1 (Univision New York) [Geo-blocked]
-https://unidfp-nlds143.global.ssl.fastly.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="WXXVDT1.us",WXXV-TV News (Biloxi MS) (720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
 #EXTINF:-1 tvg-id="WZDXDT1.us",WZDX Fox 54 (Huntsville AL) (1080p)
@@ -682,3 +678,73 @@ https://securestream6.champds.com/hlssstc/YumaCoAZLIVE/master.m3u8
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="YumaChannel73.us",Yuma AZ CH 73
 https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WLIODT1.us",NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
+https://live.field59.com/wlio/wlio1/playlist.m3u8
+#EXTINF:-1 tvg-id="KWTVDT1.us",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
+https://live.field59.com/kwtv/kwtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSIDT1.us",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+#EXTINF:-1 tvg-id="WRDELD1.us",CoastTV NBC (WRDE-LD) (720p) [Not 24/7]
+https://live.field59.com/wrde/wrde1/playlist.m3u8
+#EXTINF:-1 tvg-id="KOMUDT1.us",KOMU-DT1 (720p)
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-id="KMOSDT1.us",KMOS-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+#EXTINF:-1 tvg-id="KOMUDT3.us",KOMU-DT3 (720p)
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 tvg-id="KRCGDT1.us",KRCG-DT1 (720p)
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 tvg-id="KMIZDT1.us",KMIZ-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1 tvg-id="KQFXLD1.us",KQFX-LD1 (720p)
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 tvg-id="KCTVDT1.us",KCTV-DT1 (720p)
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+#EXTINF:-1 tvg-id="KSHBDT1.us",KSHB-DT1 (720p)
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1 tvg-id="KMBCDT1.us",KMBC-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1 tvg-id="WDAFDT2.us",WDAF-DT2 (720p)
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:-1 tvg-id="KMIZDT3.us",KMIZ-DT3 (720p)
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+#EXTINF:-1 tvg-id="KYOUDT4.us",KYOU-DT4 (720p)
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+#EXTINF:-1 tvg-id="KYOUDT5.us",KYOU-DT5 (720p)
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+#EXTINF:-1 tvg-id="KYOUDT2.us",KYOU-DT2 (720p)
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+#EXTINF:-1 tvg-id="KYOUDT2.us",KYOU-DT2 (480p)
+https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
+#EXTINF:-1 tvg-id="KTVODT3.us",KTVO-DT3 (720p)
+https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
+#EXTINF:-1 tvg-id="KSMODT1.us",KSMO-DT1 (720p)
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 tvg-id="KSHBDT3.us",KSHB-DT3 (720p)
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:-1 tvg-id="KSHBDT2.us",KSHB-DT2 (720p)
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+#EXTINF:-1 tvg-id="KRCGDT2.us",KRCG-DT2 (720p)
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+#EXTINF:-1 tvg-id="KPXEDT1.us",KPXE-DT1 (720p)
+https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
+#EXTINF:-1 tvg-id="KMIZDT2.us",KMIZ-DT2 (720p)
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+#EXTINF:-1 tvg-id="KMCIDT2.us",KMCI-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1 tvg-id="KMBCDT2.us",KMBC-DT2 (720p)
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:-1 tvg-id="KCWEDT1.us",KCWE-DT1 (720p)
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 tvg-id="KCPTDT1.us",KCPT-DT1 (720p)
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+#EXTINF:-1 tvg-id="WDAFDT1.us",WDAF-DT1 (720p)
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1 tvg-id="KNLJDT1.us",KNLJ-DT1 (720p)
+https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
+#EXTINF:-1 tvg-id="KTVODT2.us",KTVO-DT2 (720p)
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+#EXTINF:-1 tvg-id="KTVODT1.us",KTVO-DT1 (720p)
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 tvg-id="KMCIDT1.us",KMCI-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
