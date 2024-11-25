@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="",WOWOWシネマ (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="CGNTVJapan.jp",CGNTV Japan (1080p)
 https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
 #EXTINF:-1 tvg-id="CGNTVJapan.jp",CGNTV Japan (720p)
