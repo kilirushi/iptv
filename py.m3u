@@ -1,119 +1,170 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4DmasNoticiasTV.py",4DmásNoticias TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD",4DmásNoticias TV (1080p) [Not 24/7]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTVParaguay.py",ABC-TV Paraguay (720p)
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 tvg-id="AlmayaTV.py",Almaya TV (720p)
-https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
-#EXTINF:-1 tvg-id="ArtigasTVOnline.py",Artigas TV Online (480p) [Not 24/7]
-https://ssh101.bozztv.com/ssh101/artigastv/playlist.m3u8
-#EXTINF:-1 tvg-id="BrunoMasiTV.py",Bruno Masi TV (720p)
+#EXTINF:-1 tvg-id="AGRFMTV.py@SD",AGR FM TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py@SD",Alcance FM PLAY TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+#EXTINF:-1 tvg-id="AltMediaTV.py@SD",Alt Media TV
+https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-id="BrunoMasiTV.py@SD",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1 tvg-id="C9N.py",C9N
-https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
-#EXTINF:-1 tvg-id="Campo9Online.py",Campo 9 Online (720p)
-https://59ce1298bfb98.streamlock.net/campo9tv/campo9tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8CCProducciones.py",Canal 8 C&C Producciones (720p)
-https://59ce1298bfb98.streamlock.net/canal8tv/canal8tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11DamoaTVRegional.py",Canal 11 Damoa TV Regional (900p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/damoatv/damoatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CaritasTV.py",Cáritas TV (1080p)
+#EXTINF:-1 tvg-id="C9N.py@SD",C9N (720p)
+https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
+#EXTINF:-1 tvg-id="CADTV.py@SD",CAD TV
+https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
+#EXTINF:-1 tvg-id="Canal5TVMax.py@SD",Canal 5 TV Max (1080p)
+https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
+#EXTINF:-1 tvg-id="Canal8CCProducciones.py@SD",Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+#EXTINF:-1 tvg-id="Canal8VisionTV.py@SD",Canal 8 Vision TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
+https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPro.py@SD",Canal Pro
+#EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
+https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1 tvg-id="CaritasTV.py@SD",Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:-1 tvg-id="CausaComunTV.py",Causa Común TV (614p)
-https://cageu.bozztv.com/ssh101/ssh101/causacomuntv/playlist.m3u8
-#EXTINF:-1 tvg-id="DismarRadioTV.py",Dismar Radio TV (720p)
+#EXTINF:-1 tvg-id="CosmosTV.py@SD",Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="DelReyTV.py@SD",Del Rey TV (1080p)
+#EXTVLCOPT:http-referrer=https://tvonline.com.py/
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 tvg-id="DismarRadioTV.py@SD",Dismar Radio TV (720p)
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:-1 tvg-id="DMpy.py",DMpy (720p)
-https://59ce1298bfb98.streamlock.net/digitalmediapy/digitalmediapy/playlist.m3u8
-#EXTINF:-1 tvg-id="Educanal.py",Educanal (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
-#EXTINF:-1 tvg-id="EstacionCristal.py",Estación Cristal (720p)
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="FarraPlay.py",Farra Play (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="E40.py@SD",E40 (1080p)
+#EXTVLCOPT:http-referrer=https://www.estacion40.com.py/
+https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="FarraPlay.py@SD",Farra Play (720p) [Not 24/7]
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 tvg-id="FMFrutillarTV.py",FM Frutillar TV (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
-#EXTINF:-1 tvg-id="GOTV.py",GO TV (720p)
+#EXTINF:-1 tvg-id="FarraPlay.py@SD",Farra Play (576p)
+https://stream.farra.com.py/live/farra_low.m3u8
+#EXTINF:-1 tvg-id="GOTV.py@SD",GO TV (720p)
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:-1 tvg-id="LIMTV.py",LIM TV (720p)
-https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 tvg-id="MasTV.py",Más TV (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
-#EXTINF:-1 tvg-id="MegaTV.py",Mega TV (720p) [Not 24/7]
-https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
-#EXTINF:-1 tvg-id="MisionTVDigital.py",Misión TV Digital (720p)
-https://ssh101.bozztv.com/ssh101/visionhdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MiTV.py",MiTV (720p)
+#EXTINF:-1 tvg-id="HEiNow.py@SD",HEi Now (1080p)
+#EXTVLCOPT:http-referrer=https://www.heinow.com.py/
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="InvasivaTV.py@SD",Invasiva TV (720p)
+https://tv-omega-nine.vercel.app/hls/live.m3u8
+#EXTINF:-1 tvg-id="Latele.py@SD",Latele (1080p)
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="LosAngelesTVRadio.py@SD",Los Angeles TV Radio
+https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
+#EXTINF:-1 tvg-id="MegaTV.py@SD",Mega TV (1080p)
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p)
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1 tvg-id="MotorSurMedia.py",Motor Sur Media (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
-#EXTINF:-1 tvg-id="Nanduti.py",Ñanduti TV (720p)
-https://tvdatta.com:3839/live/nandutitvlive.m3u8
-#EXTINF:-1 tvg-id="NembyNoticiasHD.py",Ñemby Noticias HD (720p)
-https://rpn3.bozztv.com/ssh101/ssh101/streaminghd/playlist.m3u8
-#EXTINF:-1 tvg-id="NextHD.py",Next HD (480p)
+#EXTINF:-1 tvg-id="MonumentalTV.py@SD",Monumental TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="NandePortetepeTV.py@SD",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+#EXTINF:-1 tvg-id="NandejaraNeeTV.py@SD",Nandejara Ne'e TV
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (1080p)
+#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+https://nanduti.b-cdn.net/Source.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (720p)
+https://nanduti.b-cdn.net/720p.m3u8
+#EXTINF:-1 tvg-id="NextHD.py@SD",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 tvg-id="NihonGakkoTV.py",Nihon Gakko TV (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/ngtv/ngtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ObediraTV.py",Obedira TV (720p)
-https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
-#EXTINF:-1 tvg-id="OccidentalTV.py",Occidental TV (1080p)
-https://59ce1298bfb98.streamlock.net/occidentaltv/occidentaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="OviedoPressTV.py",Oviedo Press TV (480p) [Not 24/7]
-https://ssh101.bozztv.com/ssh101/oviedotv/playlist.m3u8
-#EXTINF:-1 tvg-id="OviedoTV.py",Oviedo TV (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
-#EXTINF:-1 tvg-id="PanambiDigitalTV.py",Panambi Digital TV (480p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/panambi/panambi/playlist.m3u8
-#EXTINF:-1 tvg-id="PDSRadioTVDigital.py",PDS Radio-TV Digital (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/pdstv/pdstv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioCaazapaPoty981FM.py",Radio Caazapá Poty 98.1 FM (480p) [Not 24/7]
-https://ssh101.bozztv.com/ssh101/caazapapotytv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioCiudad989FMTV.py",Radio Ciudad 98.9 FM TV (720p)
-https://59ce1298bfb98.streamlock.net/ciudadfm/ciudadfm/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioCoopOnline.py",Radio Coop Online (576p)
-https://59ce1298bfb98.streamlock.net/cooptv/cooptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioPykasuTV.py",Radio Pykasú TV (720p)
-https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioSanRoqueFM875.py",Radio San Roque FM 87.5 (480p)
-https://rpn3.bozztv.com/ssh101/ssh101/sanroquearegua/playlist.m3u8
-#EXTINF:-1 tvg-id="RCCTV.py",RCC TV (720p)
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
-#EXTINF:-1 tvg-id="RedDigital.py",Red Digital (900p)
-https://59ce1298bfb98.streamlock.net/reddigital/reddigital/playlist.m3u8
-#EXTINF:-1 tvg-id="RepublicaTV.py",República TV (720p)
+#EXTINF:-1 tvg-id="NPY.py@SD",NPY (1080p)
+#EXTVLCOPT:http-referrer=https://www.npy.com.py/
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="OasisTV.py@SD",Oasis TV (720p)
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+#EXTINF:-1 tvg-id="OccidentalTV.py@SD",Occidental TV
+https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+#EXTINF:-1 tvg-id="OviedoTV.py@SD",Oviedo TV
+https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
+#EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p)
+http://190.108.83.69:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.popular.com.py/
+https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="ProductivaTV.py@SD",Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="RadioColmenar925FM.py@SD",Radio Colmenar 92.5 FM
+https://tvdatta.com:3041/live/colmenarlive.m3u8
+#EXTINF:-1 tvg-id="RadioGuairaTV.py@SD",Radio Guaira TV
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+#EXTINF:-1 tvg-id="RadioSanCristobal887FM.py@SD",Radio San Cristobal 88.7 FM
+https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
+#EXTINF:-1 tvg-id="RadioTVElArcadelPacto.py@SD",Radio TV El Arca del Pacto (1080p)
+https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
+#EXTINF:-1 tvg-id="RBTV.py@SD",RB TV (1080p)
+https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
+#EXTINF:-1 tvg-id="RCCTV.py@SD",RCC TV (1080p) [Not 24/7]
+https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="RedDigital.py@SD",Red Digital (1080p) [Not 24/7]
+https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+#EXTINF:-1 tvg-id="RedInteriorTV.py@SD",Red Interior TV
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+#EXTINF:-1 tvg-id="RegionalTVYaguaron.py@SD",Regional TV Yaguaron (1080p)
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+#EXTINF:-1 tvg-id="RepublicaTV.py@SD",República TV (720p)
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTV12.py",RTV 12 (720p)
-https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
-#EXTINF:-1 tvg-id="SaltoTV.py",Salto TV (1080p) [Not 24/7]
-https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
-#EXTINF:-1 tvg-id="SNT.py",SNT (480p)
-https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="SomosdelEste.py",Somos Del Este (720p)
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-#EXTINF:-1 tvg-id="SucesoTV.py",Suceso TV (720p)
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleCanal50.py",TeleCanal 50 (1080p)
-https://59ce1298bfb98.streamlock.net/canal50/canal50/playlist.m3u8
-#EXTINF:-1 tvg-id="TelePortalCanal531.py",TelePortal Canal 53.1 (720p) [Not 24/7]
-https://rpn3.bozztv.com/ssh101/ssh101/teleportal/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.py",Trece Paraguay (1080p) [Not 24/7]
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAire.py",TV Aire (720p)
-https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLambare.py",TV Lambaré (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/tvlambare/tvlambare/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSEncarnacion.py",TVS Encarnación (720p)
-https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
-#EXTINF:-1 tvg-id="Unicanal.py",Unicanal (1080p) [Not 24/7]
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
-#EXTINF:-1 tvg-id="UnionTV.py",UnionTV
+#EXTINF:-1 tvg-id="SNT.py@SD",SNT (480p)
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="SucesoTV.py@SD",Suceso TV (720p) [Not 24/7]
+https://live.enhdtv.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo (1080p)
+#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-id="TVCanindeyu.py@SD",TV Canindeyu (1080p)
+https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
+#EXTINF:-1 tvg-id="UnionTV.py@SD",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 tvg-id="UniRadioTV.py",UniRadio TV (720p)
-https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="UrbanoRadioTV965.py",Urbano Radio TV 96.5 (720p)
-https://rpn3.bozztv.com/ssh101/ssh101/urbanoradiotv96/playlist.m3u8
-#EXTINF:-1 tvg-id="VenusMedia.py",Venus Media (720p)
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
-#EXTINF:-1 tvg-id="VillaElisaRadioTV.py",Villa Elisa Radio TV (720p)
-https://59ce1298bfb98.streamlock.net/villaelisa/villaelisa/playlist.m3u8
+#EXTINF:-1 tvg-id="UniRadioTV.py@SD",UniRadio TV (1080p)
+https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py@SD",Venus Media (1080p)
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="VillaElisaRadioTV.py@SD",Villa Elisa Radio TV (1080p)
+https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD",America Paraguay (720p)
+http://45.170.130.224:8000/play/a02o/index.m3u8?hls
+#EXTINF:-1 tvg-id="Paravision.py@SD",Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+#EXTINF:-1 tvg-id="SURTVItapua.py@SD",SUR TV Itapua
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1 tvg-id="TVCamara.py@SD",TV Camara (1080p)
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece
+http://45.170.130.224:8000/play/a050/index.m3u8?hls
+#EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal
+http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+#EXTINF:-1 tvg-id="TigoSportsPlus.py@SD",Tigo Sports+ (1080p) [Not 24/7]
+https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSportsPlus.py@SD",Tigo Sports+ (1280p)
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD",Paraguay TV (1080p)
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD",ABC-TV Paraguay (1080p)
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-id="TVCamara.py@SD",TV Camara (1080p)
+http://158.172.217.18:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo (1080p)
+http://158.172.217.18:8000/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-id="RegionalTVYaguaron.py@SD",Regional TV Yaguaron (1080p)
+http://190.128.214.97:64333/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="ProductivaTV.py@SD",Productiva TV (1080p)
+http://190.128.214.97:64333/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (1080p)
+http://190.128.214.97:64333/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="MonumentalTV.py@SD",Monumental TV (1080p)
+http://190.128.214.97:64333/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (1080p)
+http://190.128.214.97:64333/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="Latele.py@SD",Latele (1080p)
+http://190.128.214.97:64333/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="Educanal.py@SD",Educanal (1080p)
+http://190.128.214.97:64333/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire (1080p)
+http://190.128.214.97:64333/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py@SD",Tigo Sports
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8

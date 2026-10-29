@@ -1,81 +1,815 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AllWeddingsWEtv.us",AMC All Weddings
-https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
-https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ UHD (2160p)
-https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="bonappetit.us",bon appétit (1080p)
+#EXTINF:-1 tvg-id="",4UV (1080p)
+https://d3qg1liq0unuxm.cloudfront.net/4UV.m3u8
+#EXTINF:-1 tvg-id="",21 Jump Street (720p)
+https://d1oefjzrirx6fc.cloudfront.net/21_Jump_Street_SONO6.m3u8
+#EXTINF:-1 tvg-id="",60 Days In by A&E (720p)
+https://d2b8jic9gadlvy.cloudfront.net/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",ABC 20/20 (1080p)
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",ABC News Live (1080p) [Geo-blocked]
+https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD",ACC Digital Network (1080p)
+https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD",AccuWeather NOW (1080p)
+https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8
+#EXTINF:-1 tvg-id="",Acorn TV Mysteries (720p)
+https://d25ms2fshb3tcf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",AFV with Alfonso Ribeiro (1080p)
+https://d1o5yzickeowpa.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="DUST.us@SD",Alien Nation by DUST (1080p)
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",All Babies Channel (720p)
+https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",All Out Reality (1080p)
+https://d3kyucsyhwa3ht.cloudfront.net/All_Out_Reality.m3u8
+#EXTINF:-1 tvg-id="AllRealitybyWEtv.us@SD",All Reality We TV (720p) [Geo-blocked]
+https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AllWeddingsWEtv.us@SD",All Weddings We TV (720p) [Geo-blocked]
+https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ALLBLKGems.us@SD",ALLBLK Gems (720p)
+https://df1zke3zj042m.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Alone By History (720p)
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD",Always Funny Videos (720p)
+https://d24l3uppudokci.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCenEspanol.us@SD",AMC en Español (720p) [Geo-blocked]
+https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",America's Got Talent (720p)
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD",America's Test Kitchen (1080p) [Geo-blocked]
+https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
+#EXTINF:-1 tvg-id="",American Crimes (1080p) [Geo-blocked]
+https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="",American Pickers by History (1080p) [Geo-blocked]
+https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
+#EXTINF:-1 tvg-id="",Ancient Aliens (720p) [Geo-blocked]
+https://pb-pp8kvdgef1gx5.akamaized.net/v1/ae_networks_ancientaliens_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimationPlus.us@SD",Animation+ (1080p) [Geo-blocked]
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD",ANIME x HIDIVE (720p) [Geo-blocked]
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK (720p)
+https://dbbg0ax8bgo7d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us@SD",At Home with Family Handyman (720p)
+https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Ax Men (720p)
+https://d3kx0b11i5yg0n.cloudfront.net/v1/aenetworks_axmen_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Baby Einstein (720p)
+https://ds25p79iq4576.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD",BABY SHARK TV (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US17000208H&channel_id=newid_346&tp=samsung_tvplus
+#EXTINF:-1 tvg-id="Backstage.us@SD",Backstage (1080p)
+https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+#EXTINF:-1 tvg-id="",Barbie and Friends (1080p)
+https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
+#EXTINF:-1 tvg-id="",Barney and Friends (720p)
+https://d3vm2nhw5t7pkh.cloudfront.net/v1/cinedigm_entertainment_corp_barneyandfriends_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",batteryPOP (720p)
+https://d24c0gmuazjo9x.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Baywatch.us@US",Baywatch (720p) [Geo-blocked]
+https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8
+#EXTINF:-1 tvg-id="",BBC Comedy (720p)
+https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",BBC Drama (1080p) [Geo-blocked]
+https://pb-0ix3l1oxmg1fj.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US",BBC Earth (1080p) [Geo-blocked]
+https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
+#EXTINF:-1 tvg-id="BBCFood.us@SD",BBC Food (1080p)
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCHomeGarden.us@SD",BBC Home & Garden (1080p)
+https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCKids.us@SD",BBC Kids (720p)
+https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News (1080p) [Geo-blocked]
+https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Beach Bonfire Vibes (1080p)
+https://d104o6d3ybbtr3.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-id="",BET x Tyler Perry Comedy (1080p)
+https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",BET x Tyler Perry Drama (1080p)
+https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Big 12 Studios (1080p)
+https://d18pj8s9gbivdq.cloudfront.net/The_Big_12.m3u8
+#EXTINF:-1 tvg-id="",Billboard TV (1080p)
+https://d2zmd59prfyzho.cloudfront.net/Billboard_TV.m3u8
+#EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p) [Geo-blocked]
+https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
+#EXTINF:-1 tvg-id="",Biography The Icons (1080p)
+https://dkaiai6digij6.cloudfront.net/Lights_Legends_Icons.m3u8
+#EXTINF:-1 tvg-id="",BizaarTV (720p)
+https://d3s08lnvd4zcd7.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886061/master.m3u8
+#EXTINF:-1 tvg-id="",Blippi (1080p)
+https://d2p70ev1g5q1aj.cloudfront.net/Blippi_SONO46.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p)
+https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV+ (2160p)
+https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us@SD",bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BounceXL.us",Bounce XL (720p)
-https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
-#EXTINF:-1 tvg-id="BratTV.us",Brat TV (1080p)
+#EXTINF:-1 tvg-id="",Bondi Rescue (1080p) [Geo-blocked]
+https://pb-xcqdiadvt1x0q.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL (1080p) [Geo-blocked]
+https://pb-xp0ozx9lyqeiv.akamaized.net/BounceXL_US.m3u8
+#EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (1080p)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us",Buzzr (1080p)
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us",Buzzr (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
-#EXTINF:-1 tvg-id="Circle.us",Circle (1080p)
+#EXTINF:-1 tvg-id="",Brave Wilderness (1080p)
+https://d95zc3i1pxhs7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Bring It! (1080p) [Geo-blocked]
+https://pb-46i4usnz2g1z1.akamaized.net/Bring_It.m3u8
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD",BritBox Mysteries (1080p) [Geo-blocked]
+https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",BuzzFeed Celeb (1080p)
+https://d1gdoah3axw004.cloudfront.net/BuzzFeed_Celeb.m3u8
+#EXTINF:-1 tvg-id="",BuzzFeed Tasty (1080p)
+https://d2tlbbjop5ksk2.cloudfront.net/BuzzFeed_Tasty.m3u8
+#EXTINF:-1 tvg-id="",BuzzFeed Unsolved (1080p)
+https://d1727vwt6h9ghr.cloudfront.net/BuzzFeed_Unsolved.m3u8
+#EXTINF:-1 tvg-id="BYUTV.us@SD",BYUtv (1080p)
+https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
+#EXTINF:-1 tvg-id="",Caillou (720p)
+https://d2mshoh3usf646.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Campfire Vibes (1080p)
+https://d1bcz21zn68he1.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="CanelaTV.us@SD",Canela.TV (1080p)
+https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
+#EXTINF:-1 tvg-id="",Caught on Tape (1080p) [Geo-blocked]
+https://pb-chkjjtiael60a.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD",CBC News (1080p)
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="",Challenge Accepted (1080p)
+https://d1vy897y7cwgcv.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Cheaters (1080p) [Geo-blocked]
+https://pb-yu0ylzo7vk8v4.akamaized.net/Cheaters_SONO39.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us@SD",Cheddar News (1080p)
+https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CineRomantico.us@SD",Cine Romantico (720p)
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+#EXTINF:-1 tvg-id="Circle.us@SD",Circle (1080p)
 https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Clarity4K.us",Clarity 4K (2160p)
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 tvg-id="Crime360.us",Crime 360 (720p)
-https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="DegrassiTheNextGeneration.us",Degrassi The Next Generation (720p)
-https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk",EDGEsport (1080p)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us",Estrella News (1080p)
+#EXTINF:-1 tvg-id="Clarity4K.us@SD",Clarity 4K (2160p) [Geo-blocked]
+https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
+#EXTINF:-1 tvg-id="ColdCaseFiles.us@SD",Cold Case Files (1080p) [Geo-blocked]
+https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD",Comedy Dynamics (1080p)
+https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Conan O'Brien TV (1080p) [Geo-blocked]
+https://pb-nhrhhcia276e2.akamaized.net/Conan_OBrien_TV.m3u8
+#EXTINF:-1 tvg-id="",Coreano by CJ ENM (1080p)
+https://d32e935uzaanj4.cloudfront.net/e66911c8_a9c5_4206_979f_1ad694dcb8ad/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV (1080p) [Geo-blocked]
+https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
+#EXTINF:-1 tvg-id="",Cozy Vibes (1080p)
+https://d2tyl7oi9wycxs.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",CraftsyTV (1080p)
+https://d2lgb18e46c3by.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Crime 24/7 (720p) [Geo-blocked]
+https://pb-l3ocdsysqugbb.akamaized.net/v1/aenetworks_crime247_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Crime ThrillHer (720p)
+https://d1x6vwh5kyhcyb.cloudfront.net/v1/aenetworks_thrillher_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Crimes Cults Killers (720p)
+https://d3ox1t0pcya837.cloudfront.net/v1/aenetworks_kriminal_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Curiosity Animales (1080p)
+https://d2j2obpavpuw3t.cloudfront.net/CuriosityAnimales.m3u8
+#EXTINF:-1 tvg-id="",Curiosity Explora (1080p)
+https://d2bvy2sb4c0dbv.cloudfront.net/CuriosityEspanol.m3u8
+#EXTINF:-1 tvg-id="",Curiosity Motores (1080p)
+https://d5ts03kapml2e.cloudfront.net/CuriosityMotores.m3u8
+#EXTINF:-1 tvg-id="",Cutlers Court (1080p)
+https://d19h40d1rxo1la.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",CW FOREVER (1080p)
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",CW Gold (1080p)
+https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Dance Moms (1080p) [Geo-blocked]
+https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
+#EXTINF:-1 tvg-id="DangerTV.us@SD",DangerTV (720p)
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) [Geo-blocked]
+https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD",Deal or No Deal (1080p) [Geo-blocked]
+https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8
+#EXTINF:-1 tvg-id="",Deal Zone (720p) [Geo-blocked]
+https://pb-2x4r5igjtn1o7.akamaized.net/v1/aenetworks_dealzone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Death Valley Days (1080p)
+https://d49k4i5y48mxv.cloudfront.net/SONO66.m3u8
+#EXTINF:-1 tvg-id="Degrassi.us@US",Degrassi (720p)
+https://d3537vnymvfque.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Dhar Mann TV (1080p)
+https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Dinos 24/7 (1080p)
+https://d3jxyaglfha0h3.cloudfront.net/Dinos_247.m3u8
+#EXTINF:-1 tvg-id="",Divorce Court (720p)
+https://d2ydcdd81wyosr.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ (1080p)
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter (1080p) [Geo-blocked]
+https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8
+#EXTINF:-1 tvg-id="DogWhisperer.us@UK",Dog Whisperer (1080p) [Geo-blocked]
+https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+#EXTINF:-1 tvg-id="",Donut (1080p)
+https://d274b7i6eihzn5.cloudfront.net/do.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us@SD",Dove Channel (1080p)
+https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="MeritStreet.us@SD",Dr Phil's MeritTV (1080p)
+https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
+#EXTINF:-1 tvg-id="",Dr. G Medical Examiner (1080p)
+https://d3gjnizphdm6xi.cloudfront.net/Dr_G_Medical_Examiner_SONO15.m3u8
+#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD",DraftKings Network (1080p)
+https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
+#EXTINF:-1 tvg-id="",Drool (1080p)
+https://d119f55zk8yovc.cloudfront.net/Drool.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD",Dry Bar Comedy (720p)
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DuckDynasty.us@UK",Duck Dynasty (1080p) [Geo-blocked]
+https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk@SD",ducktv (720p)
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us@SD",Ebony TV by Lionsgate (1080p) [Geo-blocked]
+https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
+#EXTINF:-1 tvg-id="ElectricNow.us@SD",ElectricNOW (1080p) [Geo-blocked]
+https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8
+#EXTINF:-1 tvg-id="",Emeril Lagasse Channel (1080p)
+https://d1ahlswyjfz32r.cloudfront.net/Emeril_Lagasse.m3u8
+#EXTINF:-1 tvg-id="",Envoy FAST (720p) [Geo-blocked]
+https://pb-5uxlaafha3oi7.akamaized.net/ABR.m3u8
+#EXTINF:-1 tvg-id="",Epic Gardening TV (1080p)
+https://d310j9emjmcwry.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us@SD",Estrella Games (1080p)
+https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (1080p)
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTV.us",ESTV (1080p)
-https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FireplaceLounge.us",Fireplace Lounge (2160p)
-https://d300k472vyqakg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aijrtvzii4xsm-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSoul.us",Fox Soul (1080p)
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IGN.us",IGN (1080p)
-https://ign-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl",Insight TV (720p)
-https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl",Insight TV (720p)
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InTrouble.nl",InTrouble (1080p)
-https://introuble-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl",InWonder (720p)
-https://inwonder-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IONTVEast.us",ION
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
-#EXTINF:-1 tvg-id="IONPlusEast.us",ION Plus
-https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
-#EXTINF:-1 tvg-id="Loupe4K.us",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature4K.ca",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="MidnightPulp.us",Midnight Pulp (720p)
-https://d3knca0xtk4ya9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sxenfkl27gw6/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us",MovieSphere (1080p)
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us",MyTime Movie Network (1080p)
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",Estrella TV (1080p)
+https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@US",FailArmy (720p) [Geo-blocked]
+https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",FanDuel TV Extra (1080p)
+https://d1x2mlky5ieruz.cloudfront.net/v1/fanduelgroup_fandueltv_01/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FearFactor.us@US",Fear Factor (1080p)
+https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseAnime.us@SD",FilmRise Anime (720p)
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseWestern.us@SD",FilmRise Westerns (720p)
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",Fireplace Vibes (2160p) [Geo-blocked]
+https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1 tvg-id="",Flipping Nation (720p)
+https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us@SD",Forensic Files (720p) [Geo-blocked]
+https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+#EXTINF:-1 tvg-id="",Forged In Fire (720p) [Geo-blocked]
+https://pb-7zbm16kmdn8iw.akamaized.net/v1/aenetworks_forgedinfire_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",FOX Weather (1080p) [Geo-blocked]
+https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
+#EXTINF:-1 tvg-id="",FreeTV Estelar (1080p)
+https://d38sud5af047z8.cloudfront.net/ftveu.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",fubo Sports Network (1080p)
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",Game & Fish TV (1080p)
+https://d32bh11mbsmi60.cloudfront.net/Game_Fish_TV.m3u8
+#EXTINF:-1 tvg-id="GameShowCentral.us@SD",Game Show Central (720p) [Geo-blocked]
+https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Genie K Drama (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus
+#EXTINF:-1 tvg-id="",Genie K Movie (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US200001137&channel_id=newid_350&tp=samsung_tvplus
+#EXTINF:-1 tvg-id="",Ghost Stories (720p)
+https://d3qindbjv75wld.cloudfront.net/v1/ae_networks_unxplainedzonehauntings_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",GolfPass (1080p)
+https://d2icntm6fhxrry.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us@SD",Gravitas Movies (1080p)
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 tvg-id="GritXtra.us@SD",Grit Xtra (1080p) [Geo-blocked]
+https://pb-7k9tqpp5wqdnj.akamaized.net/Grit_Xtra_US.m3u8
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD",Grjngo (720p) [Geo-blocked]
+https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto TV (720p)
+https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Hagerty (1080p)
+https://dqw6u0upa8l21.cloudfront.net/Hagerty.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD",Hallmark Movies & More (1080p) [Geo-blocked]
+https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us@SD",HappyKids (1080p)
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="HauntTV.ca@SD",Haunt TV (1080p)
+https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
+#EXTINF:-1 tvg-id="",Heartland (1080p) [Geo-blocked]
+https://pb-a0c87g3b3mtrw.akamaized.net/Heartland.m3u8
+#EXTINF:-1 tvg-id="HellsKitchen.us@UK",Hell's Kitchen (1080p) [Geo-blocked]
+https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8
+#EXTINF:-1 tvg-id="Historia.es@SD",Historia (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="",History 365 (1080p) [Geo-blocked]
+https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
+#EXTINF:-1 tvg-id="",History & Warfare Now (1080p)
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+#EXTINF:-1 tvg-id="",Hoarders by A&E (720p)
+https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HollyWire.us@SD",Hollywire (720p)
+https://di1slo8304ver.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Home Refresh (720p) [Geo-blocked]
+https://pb-wedgbca8p66er.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="HomeMadeNation.us@SD",Home.Made.Nation (720p)
+https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Homeful.ca@US",Homeful (1080p)
+https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8
+#EXTINF:-1 tvg-id="",Horror by ALTER (1080p)
+https://d3opw4b2eztyyq.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Hot Ones (1080p)
+https://d532j1ra4v4q9.cloudfront.net/SONO65.m3u8
+#EXTINF:-1 tvg-id="",Hot Wheels Action (1080p)
+https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
+#EXTINF:-1 tvg-id="Hungry.us@SD",Hungry (720p)
+https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Hunter x Hunter (1080p)
+https://d190au8yjmla79.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",I Survived… (720p)
+https://d1ewp56x5c748d.cloudfront.net/v1/aenetworks_i_survived_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Ice Road Truckers (720p)
+https://d27c7ivrw07fxl.cloudfront.net/v1/aenetworks_iceroadtruckers_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",In Depth with Graham Bensinger (1080p)
+https://d3l6x4fdwxv0np.cloudfront.net/In_Depth_With_Graham_Bensinger.m3u8
+#EXTINF:-1 tvg-id="",Intervention by A&E (1080p) [Geo-blocked]
+https://pb-5kduxc2en4kdz.akamaized.net/Intervention_by_AE.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl@SD",InWonder (1080p)
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East",ION (1080p) [Geo-blocked]
+https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
+#EXTINF:-1 tvg-id="",ION Mystery (1080p) [Geo-blocked]
+https://pb-usmbvsgwcg8pc.akamaized.net/Ion_Mystery_US.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus (1080p) [Geo-blocked]
+https://pb-tcsruiaw9dc0i.akamaized.net/Ion_Plus_US.m3u8
+#EXTINF:-1 tvg-id="",Island Vibes (1080p)
+https://d3fe47ml3w3qj1.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",It’s Anime (1080p)
+https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD",Jamie Oliver (1080p) [Geo-blocked]
+https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8
+#EXTINF:-1 tvg-id="",JoJo's Bizarre Adventure (1080p)
+https://d2kqaqstkr42e1.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Journy.us@SD",JOURNY TV (720p)
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just for Laughs GAGS (720p)
+https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",K Drama by CJ ENM (1080p)
+https://d2fdocl6hmu0hh.cloudfront.net/dfa54c7d_1154_425d_a2b8_6ea994157976/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",K Drama+ (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US1700017NM&channel_id=newid_271&tp=samsung_tvplus
+#EXTINF:-1 tvg-id="",K Food by CJ ENM (1080p)
+https://dmxcualdgbo80.cloudfront.net/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",K POP by CJ ENM (1080p)
+https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",K Stories by CJ ENM (1080p)
+https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD",Kartoon Channel! (720p)
+https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.ca@SD",Kidoodle.TV (1080p)
+https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Kitchen Nightmares (720p) [Geo-blocked]
+https://pb-6nrjkl2kyw4ki.akamaized.net/Kitchen_Nightmares.m3u8
+#EXTINF:-1 tvg-id="",Laff More (1080p)
+https://d3tf2qfyke992n.cloudfront.net/v1/scripps_laffmore_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us@SD",Law & Crime (720p)
+https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist_scte.m3u8
+#EXTINF:-1 tvg-id="",Let's Make A Deal Classic (1080p)
+https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Lifetime Movie Favorites (720p) [Geo-blocked]
+https://pb-137agpk5fqieb.akamaized.net/v1/aenetworks_holidaymoviefavorites_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Lifetime Movies Love & Drama (1080p)
+https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
+#EXTINF:-1 tvg-id="",Little Women LA (1080p) [Geo-blocked]
+https://pb-dg3i75yovavc4.akamaized.net/Little_Women_LA.m3u8
+#EXTINF:-1 tvg-id="",Live PD Presents (1080p)
+https://d8o79xse42g9s.cloudfront.net/Live_PD_Presents.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",LiveNOW from FOX (1080p) [Geo-blocked]
+https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
+#EXTINF:-1 tvg-id="Localish.us@SD",Localish (1080p)
+https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us@SD",LOL! Network (720p)
+https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4K",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="LovePets.ca@US",Love Pets (1080p)
+https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+#EXTINF:-1 tvg-id="LuckyDog.us@SD",Lucky Dog (720p)
+https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+#EXTINF:-1 tvg-id="",Luxe Fireplace Vibes (1080p) [Geo-blocked]
+https://pb-0yvknepz2ngjh.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="MagellanTVNow.us@SD",MagellanTV TV Now (1080p) [Geo-blocked]
+https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
+#EXTINF:-1 tvg-id="",Mark Rober TV (1080p)
+https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Matched Married Meet (1080p) [Geo-blocked]
+https://pb-zrn69przatyzi.akamaized.net/Matched_Married_Meet.m3u8
+#EXTINF:-1 tvg-id="",Mattel Jr. (720p)
+https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD",Maverick Black Cinema (720p)
+https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",MeatEater (1080p)
+https://d7hbn1ntae5ib.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",MHz Mysteries (720p)
+https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MidnightPulp.us@SD",Midnight Pulp (1080p)
+https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders (720p) [Geo-blocked]
+https://pb-10d2295rjh7ki.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Military Heroes (1080p)
+https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
+#EXTINF:-1 tvg-id="",Million Dollar Dream Home (1080p) [Geo-blocked]
+https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Miramax Channel (1080p) [Geo-blocked]
+https://pb-w5d3w3kisxahy.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.us@SD",MLB Channel (1080p) [Geo-blocked]
+https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Modern Marvels Presented by History (720p) [Geo-blocked]
+https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD",Moonbug (1080p)
+https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
+#EXTINF:-1 tvg-id="",MotoGP Channel (1080p)
+https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
+#EXTINF:-1 tvg-id="",Mountain Men (1080p) [Geo-blocked]
+https://pb-tc97nokxg85ph.akamaized.net/Mountain_Men.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@US",MovieSphere (1080p) [Geo-blocked]
+https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English",Mr. Bean Animated (1080p)
+https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8
+#EXTINF:-1 tvg-id="",MrBeast (1080p)
+https://d1uoaa28av70en.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",MSG SportsZone (720p)
+https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Mysteries Xplored (720p)
+https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us@SD",Mystery Science Theater 3000 (1080p)
+https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
+#EXTINF:-1 tvg-id="",Mythical 24/7 (1080p) [Geo-blocked]
+https://pb-dq7godyssgjuz.akamaized.net/Mythical247.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD",MyTime Movie Network (1080p)
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Newsmax2.us",Newsmax 2 (1080p)
+#EXTINF:-1 tvg-id="Naruto.us@US",Naruto (1080p)
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",NASCAR Channel (1080p)
+https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8
+#EXTINF:-1 tvg-id="",National Lampoon (1080p) [Geo-blocked]
+https://pb-4l6m6c7pca5dy.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCLX.us@SD",NBC LX Home (1080p)
+https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News NOW (1080p) [Geo-blocked]
+https://pb-o6czxr182vtiv.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",NESN Nation (1080p)
+https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8
+#EXTINF:-1 tvg-id="",NEW KMOVIES (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus
+#EXTINF:-1 tvg-id="",NEW KPOP (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus
+#EXTINF:-1 tvg-id="Newsmax2.us@SD",Newsmax 2 (1080p)
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pac12Insider.us",Pac 12 Insider (1080p)
+#EXTINF:-1 tvg-id="NFLChannel.us@SD",NFL Channel (1080p) [Geo-blocked]
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (1080p)
+https://d265y4sk8257lt.cloudfront.net/nh.m3u8
+#EXTINF:-1 tvg-id="NinjaKidzTV.us@SD",Ninja Kidz (720p)
+https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us@US",Nosey (720p)
+https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Noticias Telemundo Ahora (1080p) [Geo-blocked]
+https://pb-21qh1uz4mmkrs.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="",Novelas Turcas (1080p)
+https://d3p1t3yzbr6q5d.cloudfront.net/Novelas_Turcas.m3u8
+#EXTINF:-1 tvg-id="",Ocean Vibes (2160p) [Geo-blocked]
+https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
+#EXTINF:-1 tvg-id="",Operation Repo (1080p)
+https://d14kyo3ex6k293.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD",Outdoor America (1080p)
+https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="OuterSphere.us@SD",OuterSphere (1080p)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:-1 tvg-id="",OUTflix Movies (1080p)
+https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV (1080p)
+https://desdobebr2wri.cloudfront.net/Outside.m3u8
+#EXTINF:-1 tvg-id="Overtime.us@SD",Overtime (1080p)
+https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us",Shout! Factory TV (720p)
-https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.us",SportsGrid (1080p)
+#EXTINF:-1 tvg-id="",Pawn Stars (720p) [Geo-blocked]
+https://pb-jo4rx96uyjcxx.akamaized.net/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD",PBS Antiques Roadshow (1080p) [Geo-blocked]
+https://pb-ft51qiiwihqtb.akamaized.net/PBS_Antiques_Roadshow.m3u8
+#EXTINF:-1 tvg-id="",PBS Digital Studios (1080p)
+https://d1l4qxz5lz9v2h.cloudfront.net/10501/88886029/hls/master.m3u8?ads.xumo_channelId=88886029
+#EXTINF:-1 tvg-id="",PBS Food (1080p)
+https://d3w43rc3ob044a.cloudfront.net/PBS_Food.m3u8
+#EXTINF:-1 tvg-id="",PBS Genealogy (1080p)
+https://d21xx25clbv3i1.cloudfront.net/PBS_Genealogy.m3u8
+#EXTINF:-1 tvg-id="PBSNature.us@SD",PBS Nature (1080p)
+https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
+#EXTINF:-1 tvg-id="PBSTravel.us@SD",PBS Travel (1080p)
+https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+#EXTINF:-1 tvg-id="",Perform (720p)
+https://d3shpb2wdlx9qj.cloudfront.net/v1/aenetworks_perform_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",PFL (720p)
+https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="PGATour.us@SD",PGA Tour (1080p) [Geo-blocked]
+https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",PickleballTV (1080p) [Geo-blocked]
+https://pb-p82n52ztxtyz8.akamaized.net/PickleballTV.m3u8
+#EXTINF:-1 tvg-id="pocketwatch.us@SD",pocket.watch Game On (1080p)
+https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+#EXTINF:-1 tvg-id="",Pokémon (1080p) [Geo-blocked]
+https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8
+#EXTINF:-1 tvg-id="Portlandia.us@SD",Portlandia (720p)
+https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNationTV.us@SD",POWERNATION (1080p)
+https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8
+#EXTINF:-1 tvg-id="",Project Runway (1080p) [Geo-blocked]
+https://pb-w5i1ok5f9169m.akamaized.net/Project_Runway.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us@SD",Pursuit UP (1080p)
+https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Qué Culpa Tiene Fatmagül (1080p)
+https://d1lnbiqw2cduwy.cloudfront.net/que_culpa_tiene_fatmagul.m3u8
+#EXTINF:-1 tvg-id="RacerSelect.us@SD",RACER Select (1080p)
+https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
+#EXTINF:-1 tvg-id="",Rachael Ray Presents (1080p)
+https://dhy1wwavvr8nc.cloudfront.net/Rachel_Ray_Presents.m3u8
+#EXTINF:-1 tvg-id="RainbowRuby.us@SD",Rainbow Ruby (720p)
+https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",Rainy Day Vibes (1080p)
+https://d2fbuk9n5icao0.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RealAmericasVoice.us@SD",Real America's Voice (720p)
+https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us@SD",RetroCrush (1080p)
+https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RevandRoll.us@SD",Rev and Roll (720p)
+https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Revry.us@SD",Revry (1080p)
+https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us@US",RiffTrax (720p)
+https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
+#EXTINF:-1 tvg-id="",RIG TV (1080p)
+https://d3czphc6lk67kh.cloudfront.net/RIG_TV.m3u8
+#EXTINF:-1 tvg-id="",Road Renegades (720p) [Geo-blocked]
+https://pb-cy00m4ei0fe6a.akamaized.net/v1/aenetworks_roadrenegades_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Roku Sports Channel (1080p)
+https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
+#EXTINF:-1 tvg-id="",Rovr Pets (1080p) [Geo-blocked]
+https://pb-vbv1er6nemjg9.akamaized.net/Rovr_Pets.m3u8
+#EXTINF:-1 tvg-id="RugbyPassTV.uk@SD",RugbyPass TV (720p)
+https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us@SD",Ryan and Friends (1080p)
+https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
+#EXTINF:-1 tvg-id="SalemNewsChannel.us@SD",Salem News Channel (1080p) [Geo-blocked]
+https://pb-v4mil672yaqlk.akamaized.net/Salem_News_Channel.m3u8
+#EXTINF:-1 tvg-id="SamsungWildlife.us@SD",Samsung Wild Life (720p) [Geo-blocked]
+https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD",Scripps News (720p) [Geo-blocked]
+https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8
+#EXTINF:-1 tvg-id="",Sensical Jr (1080p)
+https://d1p10fe1a9f857.cloudfront.net/Sensical_Jr.m3u8
+#EXTINF:-1 tvg-id="",Sensical Makers (1080p)
+https://d2dxg18pxtlgy0.cloudfront.net/Sensical_Makers.m3u8
+#EXTINF:-1 tvg-id="",Series K Edge (1080p)
+https://d3mznj2vub522l.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Series K Heart (1080p)
+https://d28efmnqar6ea8.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Series K Legacy (1080p)
+https://d2uvezlpjwbhrx.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Shades of Black (1080p) [Geo-blocked]
+https://pb-mn2nw2xfj5wcy.akamaized.net/Shades_of_Black.m3u8
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us@SD",Shout! TV (1080p)
+https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
+#EXTINF:-1 tvg-id="",Slugterra (720p)
+https://d19m5s4kmtxvps.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",SLVR (1080p)
+https://dnwqx9ivbd7ay.cloudfront.net/bbb/samshow/samshow.m3u8
+#EXTINF:-1 tvg-id="",Smosh (1080p)
+https://d2awq8rdysdj3u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Sonic The Hedgehog (720p)
+https://dtwdcugadwtnw.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",Sony One Competencias (720p)
+https://d30n46zt9yce2k.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Sony One Novelas (720p)
+https://d2n3o8b1tdnc4w.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperSimpleSongs.us",Super Simple Songs (1080p)
-https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8
-#EXTINF:-1 tvg-id="TheYoungTurks.us",The Young Turks (TYT) (720p)
+#EXTINF:-1 tvg-id="Stadium.us@SD",Stadium (720p)
+https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Storage Wars LA (720p) [Geo-blocked]
+https://pb-312sgyls2cddh.akamaized.net/v1/aenetworks_storagewarsla_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Storm Vibes (1080p)
+https://d23gs0zonql31y.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Strawberry Shortcake (720p)
+https://d2tdny619yw5x1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",Supermarket Sweep (1080p) [Geo-blocked]
+https://pb-zp5s7cka1vjrd.akamaized.net/Supermarket_Sweep.m3u8
+#EXTINF:-1 tvg-id="",SURFER TV (1080p)
+https://dgwfm675921lp.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Swamp People (1080p) [Geo-blocked]
+https://pb-fbdfahhani6sz.akamaized.net/Swamp_People.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@US",Tastemade (1080p) [Geo-blocked]
+https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
+#EXTINF:-1 tvg-id="",Tastemade Home (1080p)
+https://d3ca4qxsdzlrju.cloudfront.net/Tastemade_Home.m3u8
+#EXTINF:-1 tvg-id="TastemadeTravel.us@SD",Tastemade Travel (1080p)
+https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+#EXTINF:-1 tvg-id="",Team Liquid (1080p)
+https://d3qzt5cx2j8lfl.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Team USA TV (1080p)
+https://d8b6mh9us4zvx.cloudfront.net/TEAM_USA_TV.m3u8
+#EXTINF:-1 tvg-id="TED.us@SD",TED (1080p)
+https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
+#EXTINF:-1 tvg-id="",Telemundo Al Día (720p)
+https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Teletubbies.uk@SD",Teletubbies (720p)
+https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",Tennis Channel 2 (1080p) [Geo-blocked]
+https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
+#EXTINF:-1 tvg-id="TheAsylum.us@US",The Asylum (1080p)
+https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
+#EXTINF:-1 tvg-id="TheBobRossChannel.us@SD",The Bob Ross Channel (720p) [Geo-blocked]
+https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",The Curse of Oak Island (1080p) [Geo-blocked]
+https://pb-jx22izjb024ns.akamaized.net/The_Curse_of_Oak_Island.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.us@SD",The Design Network (1080p)
+https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
+#EXTINF:-1 tvg-id="TheFirstTV.us@SD",The First (1080p) [Geo-blocked]
+https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8
+#EXTINF:-1 tvg-id="",The First 48 (720p) [Geo-blocked]
+https://pb-bp21lplgw5225.akamaized.net/v1/ae_networks_first48_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="TheHillTV.us@SD",The Hill (1080p) [Geo-blocked]
+https://pb-aq5tqlshz44jr.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",The Jack Hanna Channel (1080p) [Geo-blocked]
+https://pb-tdmd4j4zqfssc.akamaized.net/The_Jack_Hanna_Channel.m3u8
+#EXTINF:-1 tvg-id="",The Jim Rome Show (1080p)
+https://d38ng35fgglvfs.cloudfront.net/The_Jim_Rome_Show.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us@SD",The LEGO Channel (1080p)
+https://dh18i7whff86v.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="",The Martha Stewart Channel (1080p)
+https://d1ob22c3xga9bf.cloudfront.net/Martha_Stewart_.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD",The NBA Channel (1080p) [Geo-blocked]
+https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@US",The Pet Collective (1080p) [Geo-blocked]
+https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",The Ringer from Spotify (1080p)
+https://d34e6a6i7rp7yc.cloudfront.net/SONO91_Spotify.m3u8
+#EXTINF:-1 tvg-id="",The Try Guys (1080p)
+https://d173iv46agmwo9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",The UnXplained with William Shatner (1080p) [Geo-blocked]
+https://pb-ii1ggyq6hduy9.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD",The Walking Dead Universe (720p) [Geo-blocked]
+https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TheYoungTurks.us@SD",The Young Turks (TYT) (720p)
 https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us",WeatherSpy
-https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XploreTV.us",Xplore (1080p)
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YahooFinance.us",Yahoo! Finance (1080p)
+#EXTINF:-1 tvg-id="",TheSorryGirls TV (1080p)
+https://d11iia85bv1ffj.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.us@SD",This Old House (1080p) [Geo-blocked]
+https://pb-qmu0m4a1cb5dj.akamaized.net/This_Old_House.m3u8
+#EXTINF:-1 tvg-id="",This Old House Makers (1080p)
+https://d1v8bveimipl8w.cloudfront.net/This_Old_House_Makers.m3u8
+#EXTINF:-1 tvg-id="TinyHouseNation.us@SD",Tiny House Nation (720p) [Geo-blocked]
+https://pb-yxy31pwnm3mp2.akamaized.net/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="TMZ.us@SD",TMZ (1080p) [Geo-blocked]
+https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8
+#EXTINF:-1 tvg-id="",TNA Wrestling (1080p)
+https://dpltey7dr5q2g.cloudfront.net/TNA_Wrestling.m3u8
+#EXTINF:-1 tvg-id="TODAYAllDay.us@SD",TODAY All Day (1080p)
+https://d37kx062o4ii0p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",Tony Robbins (1080p) [Geo-blocked]
+https://pb-qon3pgefgm0aj.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles (720p)
+https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
+#EXTINF:-1 tvg-id="TGJunior.us@SD",Toon Goggles Junior (720p)
+https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk@SD",Top Gear (720p)
+https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Torque (720p) [Geo-blocked]
+https://pb-57ztemps4qd39.akamaized.net/v1/aenetworks_torque_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",TruBlu (720p)
+https://dx5izydu5moez.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",UFC (1080p) [Geo-blocked]
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us@SD",Unbeaten Sports Channel (1080p)
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 tvg-id="Unidentified.us@SD",Unidentified (1080p)
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Universe Mysteries Solved (1080p) [Geo-blocked]
+https://pb-frhhb6b56246j.akamaized.net/The_Universe.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us@US",Unsolved Mysteries (720p)
+https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="USATODAY.us@SD",USA Today (1080p) [Geo-blocked]
+https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Van Helsing (1080p)
+https://dfis0p7athkt.cloudfront.net/Van_Helsing.m3u8
+#EXTINF:-1 tvg-id="Vevo2K.us@SD",Vevo 2K (1080p)
+https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
+#EXTINF:-1 tvg-id="",Vevo 2010s (1080p)
+https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
+#EXTINF:-1 tvg-id="Vevo70s.us@SD",Vevo '70s (1080p)
+https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8
+#EXTINF:-1 tvg-id="Vevo80s.us@SD",Vevo '80s (1080p)
+https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8
+#EXTINF:-1 tvg-id="Vevo90s.us@SD",Vevo '90s (1080p)
+https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8
+#EXTINF:-1 tvg-id="VevoCountry.us@SD",Vevo Country (1080p) [Geo-blocked]
+https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8
+#EXTINF:-1 tvg-id="",Vevo Country Rewind (1080p)
+https://dtpafgv4jlncv.cloudfront.net/mt/rsu/v1/channel/AZlegsFKILvcvwCBYqT4vQ-V2/index.m3u8
+#EXTINF:-1 tvg-id="VevoHipHop.us@SD",Vevo Hip Hop (1080p)
+https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us@SD",Vevo Latino (1080p)
+https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p)
+https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8
+#EXTINF:-1 tvg-id="VevoRB.us@SD",Vevo R&B (1080p)
+https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
+#EXTINF:-1 tvg-id="VevoRetroRock.us@SD",Vevo Retro Rock (1080p)
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD",VICE (1080p)
+https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
+#EXTINF:-1 tvg-id="",Victory+ (1080p)
+https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
+#EXTINF:-1 tvg-id="",WAPA+ (1080p)
+https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us@SD",Waypoint TV (1080p)
+https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
+#EXTINF:-1 tvg-id="WBTV641.us@HD",WBTV News (720p)
+https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="",WeatherNation Charlotte (720p)
+https://d16xlk626t29pt.cloudfront.net/ABR.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.us@SD",WeatherSpy (720p)
+https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Western Bound (1080p) [Geo-blocked]
+https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8
+#EXTINF:-1 tvg-id="",Wild West TV (1080p) [Geo-blocked]
+https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@SD",Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1 tvg-id="",Winter Vibes (1080p)
+https://d11iakikomyd5e.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="WipeoutXtra.us@SD",Wipeout Xtra (1080p)
+https://djoigjo2g1xzo.cloudfront.net/Wipeout_Xtra.m3u8
+#EXTINF:-1 tvg-id="",Witness to Justice (720p)
+https://dxwldsv8fdzik.cloudfront.net/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD",Women's Sports Network (1080p)
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour (1080p) [Geo-blocked]
+https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
+#EXTINF:-1 tvg-id="",World’s Most Evil Killers (1080p) [Geo-blocked]
+https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8
+#EXTINF:-1 tvg-id="ABC.us@WSOCTV",WSOC Charlotte (1080p) [Geo-blocked]
+https://d1q60ra9vxbqm1.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",WWE Superstar Central (1080p)
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",XITE 80s Flashback (1080p)
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+#EXTINF:-1 tvg-id="",XITE 90s Throwback (1080p)
+https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-id="",XITE Celebrates (1080p)
+https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
+#EXTINF:-1 tvg-id="",XITE Christian Hits (1080p)
+https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
+#EXTINF:-1 tvg-id="XITEClassicCountry.nl@SD",XITE Classic Country (1080p) [Geo-blocked]
+https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
+#EXTINF:-1 tvg-id="",XITE Country Today (1080p) [Geo-blocked]
+https://pb-5itqeen09owrs.akamaized.net/XITE_Country_Today.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@NL",XITE Hits (1080p)
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="XITEJustChill.nl@US",XITE Just Chill (1080p)
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-id="",XITE Nuevo Latino (1080p)
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="",XITE R&B Classic Jams (1080p) [Geo-blocked]
+https://pb-bakywpoa0kn1n.akamaized.net/XITE_RnB_Classic_Jams.m3u8
+#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD",XITE Reggae Vibes (1080p)
+https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+#EXTINF:-1 tvg-id="XITERockxMetal.nl@US",XITE Rock x Metal (1080p)
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-id="",XITE Siempre Latino (1080p)
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-id="XploreTV.us@SD",Xplore (1080p)
+https://depdwjha9qyli.cloudfront.net/Xplore.m3u8
+#EXTINF:-1 tvg-id="",Xtreme Outdoor Presented by HISTORY (720p)
+https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo! Finance (1080p)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YoungHollywood.us",Young Hollywood (720p)
+#EXTINF:-1 tvg-id="",Yahoo! Sports Network (1080p)
+https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD",Young Hollywood (720p)
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu Gi Oh (1080p)
+https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD",ZooMoo (1080p)
+https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8

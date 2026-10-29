@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD",CCTV-4 America
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD",CGTN Documentary
+https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD",CGTN English
+https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD",CGTN French
+https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD",CGTN Spanish
+https://h5cul1yar48um3t.wcetv.com/hls/cgtne.m3u8
+#EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn@SD",Guangdong Satellite TV
+https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
+#EXTINF:-1 tvg-id="GuangdongTVAmerica.us@SD",Guangdong TV America
+https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
+#EXTINF:-1 tvg-id="HakkaTV.tw@SD",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD",Taiwan Indigenous TV
+https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8
+#EXTINF:-1 tvg-id="WCETVDigitalChannel318.us@SD",WCETV Digital Channel 31.8
+https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn@SD",Yunnan Satellite TV
+https://h5cul1yar48um3t.wcetv.com/hls/yunnantv.m3u8

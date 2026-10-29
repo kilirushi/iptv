@@ -1,97 +1,105 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2GB.au",2GB Sydney (1080p)
+#EXTINF:-1 tvg-id="2GB.au@SD",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-#EXTINF:-1 tvg-id="3AW.au",3AW Melbourne (1080p)
+#EXTINF:-1 tvg-id="3AW.au@SD",3AW Melbourne (1080p)
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
-#EXTINF:-1 tvg-id="3TamilTV.au",3 Tamil TV (720p) [Not 24/7]
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="6PR.au",6PR Perth (1080p)
+#EXTINF:-1 tvg-id="6PR.au@SD",6PR Perth (1080p)
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-#EXTINF:-1 tvg-id="9GemSydney.au",9Gem (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="9Gem.au@Sydney",9Gem (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 tvg-id="9GoSydney.au",9Go! (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="9Go.au@Sydney",9Go! (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-id="9LifeSydney.au",9Life (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="9Life.au@Sydney",9Life (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-id="9RushSydney.au",9Rush (720p) [Geo-blocked]
-https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 tvg-id="10BoldSydney.au",10 Bold (720p) [Geo-blocked]
-https://i.mjh.nz/10bold-nsw.m3u8
-#EXTINF:-1 tvg-id="10PeachSydney.au",10 Peach (720p) [Geo-blocked]
-https://i.mjh.nz/10peach-nsw.m3u8
-#EXTINF:-1 tvg-id="ABCMESydney.au",ABC Me (720p)
+#EXTINF:-1 tvg-id="10Bold.au@Sydney",10 Bold Adelaide (1080p)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="ABCEntertains.au@Sydney",ABC Entertains (720p)
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="ABCNewsSydney.au",ABC News Australia (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="ABCTVSA.au",ABC TV Adelaide (720p)
-https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 tvg-id="ABCTVQLD.au",ABC TV Brisbane (720p)
-https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-id="ABCTVACT.au",ABC TV Canberra (720p)
+#EXTINF:-1 tvg-id="ABCKids.au@Sydney",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney",ABC News (720p)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney",ABC News (720p)
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@ACT",ABC TV ACT (720p)
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 tvg-id="ABCTVNT.au",ABC TV Darwin (720p)
-https://c.mjh.nz/abc-nt.m3u8
-#EXTINF:-1 tvg-id="ABCTVTAS.au",ABC TV Hobart (720p)
-https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:-1 tvg-id="ABCTVVIC.au",ABC TV Melbourne (720p)
-https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 tvg-id="ABCTVWA.au",ABC TV Perth (720p)
-https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 tvg-id="ABCTVPlusSydney.au",ABC TV Plus (720p)
-https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="ABCTVNSW.au",ABC TV Sydney (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@NSW",ABC TV NSW (720p)
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-id="AUSTamilTV.au",AUS Tamil TV (720p) [Not 24/7]
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AusbizTV.au",ausbiz TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ABCTV.au@NT",ABC TV NT (720p)
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:-1 tvg-id="ABCTVPlus.au@Sydney",ABC TV Plus (720p)
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@QLD",ABC TV QLD (720p)
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@SA",ABC TV SA (720p)
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@TAS",ABC TV TAS (720p)
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@VIC",ABC TV VIC (720p)
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@WA",ABC TV WA (720p)
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 tvg-id="AusbizTV.au@SD",ausbiz TV (720p) [Not 24/7]
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAustralia.au",Bloomberg TV Australia (270p)
+#EXTINF:-1 tvg-id="BloombergTV.us@Australia",Bloomberg TV Australia (270p)
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 tvg-id="C31Melbourne.au",C31 Melbourne (240p)
+#EXTINF:-1 tvg-id="C31Melbourne.au@SD",C31 Melbourne (240p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="Channel7Sydney.au",Channel 7 (720p) [Geo-blocked]
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
-#EXTINF:-1 tvg-id="Channel9Perth.au",Channel 9 Perth (720p) [Geo-blocked]
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Channel9Adelaide.au",Channel 9 Adelaide (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel9.au@Adelaide",Channel 9 Adelaide (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Channel9Brisbane.au",Channel 9 Brisbane (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel9.au@Brisbane",Channel 9 Brisbane (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Channel9Melbourne.au",Channel 9 Melbourne (720p) [Geo-blocked]
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Channel9Sydney.au",Channel 9 Sydney (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel9.au@Perth",Channel 9 Perth (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-id="Channel9.au@Sydney",Channel 9 Sydney (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="10Sydney.au",Channel 10 (720p) [Geo-blocked]
-https://i.mjh.nz/10-nsw.m3u8
-#EXTINF:-1 tvg-id="Channel44.au",Channel 44 (480p)
+#EXTINF:-1 tvg-id="Channel44.au@SD",Channel 44 (480p)
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 tvg-id="ExpoChannel.au",Expo Channel (360p)
+#EXTINF:-1 tvg-id="CricketGold.au@SD",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-id="CTBPerth.au@SD",CTB Perth (720p)
+https://live.ctbperth.net.au/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au@SD",CTB Perth Movies (720p)
+https://movies.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ExpoChannel.au@SD",Expo Channel (360p)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 tvg-id="HopeChannelAustralia.au",Hope Channel Australia (1080p)
+#EXTINF:-1 tvg-id="HopeChannelAustralia.au@SD",Hope Channel Australia (1080p)
 https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
-#EXTINF:-1 tvg-id="JonmoBhumiTV.au",JonmoBhumi TV (720p) [Not 24/7]
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="M4TVMalayalam.au",M4TV Malayalam (1080p) [Not 24/7]
-https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 tvg-id="JonmoBhumiTV.au@SD",JonmoBhumi TV (720p)
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.au@SD",News24 (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 #EXTINF:-1 tvg-id="",Race Central TV (720p) [Not 24/7]
 https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
-#EXTINF:-1 tvg-id="Racingcom.au",Racing.com (720p)
+#EXTINF:-1 tvg-id="Racingcom.au@SD",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra1.au",Sky News Extra 1 (540p)
+#EXTINF:-1 tvg-id="SkyNewsExtra1.au@SD",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra2.au",Sky News Extra 2 (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNewsExtra2.au@SD",Sky News Extra 2 (540p) [Not 24/7]
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra3.au",Sky News Extra 3 (1080p)
+#EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="SkyRacing1.au",Sky Racing 1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SkyRacing1.au@SD",Sky Racing 1 (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
-#EXTINF:-1 tvg-id="SkyRacing2.au",Sky Racing 2 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SkyRacing1.au@SD",Sky Racing 1 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyRacing2.au@SD",Sky Racing 2 (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
-#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au",Sky Thoroughbred Central (720p) [Geo-blocked]
-https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
-#EXTINF:-1 tvg-id="tickerNews.au",Ticker News (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="",Travel & Food TV (720p)
 https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
-#EXTINF:-1 tvg-id="TVSN.au",TVSN (1080p)
+#EXTINF:-1 tvg-id="TVSN.au@SD",TVSN (1080p)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="TVSNBeauty.au@SD",TVSN Beauty (1080p)
+https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="tickerNews.au@SD",ticker News (1080p)
+https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
+#EXTINF:-1 tvg-id="FoxSportsNews.au@SD",Fox Sports News (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+#EXTINF:-1 tvg-id="News24World.au@SD",News24 World
+https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
+#EXTINF:-1 tvg-id="News24Weather.au@SD",News24 Weather
+https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
+#EXTINF:-1 tvg-id="DGTV.au@HD",DG:TV (1080p)
+https://mdn.dg.church/673ac57a073a4-1/index.m3u8
+#EXTINF:-1 tvg-id="DGRadio.au@HD",DG:Radio (1080p)
+https://mdn.dg.church/683c0cb036885-1/index.m3u8

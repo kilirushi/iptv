@@ -1,23 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CanalALMA.uy",Canal ALMA (720p) [Not 24/7]
-https://live.cloudhostservers.com:3486/stream/play.m3u8
-#EXTINF:-1 tvg-id="CanalMas.uy",Canal Más (720p)
-https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="CharruaTelevision.uy",Charrúa Televisión (720p)
-https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
-#EXTINF:-1 tvg-id="DelEsteTV.uy",Del Este TV (720p)
-https://stream.oursnetworktv.com/latin/estetvo/playlist.m3u8
-#EXTINF:-1 tvg-id="LaRed.uy",La Red (720p) [Not 24/7]
-https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
-#EXTINF:-1 tvg-id="LatinoKidsTV.uy",LatinoKids (480p) [Not 24/7]
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="MisionVidaTV.uy",Misión Vida TV (720p)
-https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8Mercedes.uy",Tele 8 Mercedes (410p) [Not 24/7]
-http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
-#EXTINF:-1 tvg-id="TVFlorida.uy",TVFlorida (1080p)
-https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8
-#EXTINF:-1 tvg-id="UCL.uy",UCL (720p)
+#EXTINF:-1 tvg-id="Canal5.uy@SD",Canal 5 (720p)
+https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-id="UCL.uy@SD",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-id="VIVOTV.uy",VIVO TV (1080p)
-https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1 tvg-id="UCL.uy@SD",UCL (1080p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
+#EXTINF:-1 tvg-id="CanalMas.uy@SD",Canal Mas (720p)
+https://canalmasuruguay.com/hls/master-abr.m3u8
+#EXTINF:-1 tvg-id="CanalMas.uy@SD",Canal Mas (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://canalmasuruguay.com/hls/720p/index.m3u8
+#EXTINF:-1 tvg-id="CanalOncePlus.uy@SD",Canal Once Plus
+#EXTVLCOPT:http-referrer=https://canal11.uy
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalALMA.uy@SD",Canal ALMA
+#EXTVLCOPT:http-referrer=https://canalalma.tv
+https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DesdeElSurTV.uy@SD",Desde El Sur TV
+https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaElegidaTelevision.uy@SD",La Elegida Television
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MisionVidaTV.uy@SD",Mision Vida TV
+https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversalUruguay.uy@SD",TV Universal Uruguay
+https://stream.universal.org.uy/hls/0/stream.m3u8

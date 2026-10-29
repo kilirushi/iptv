@@ -1,73 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",247 Box
+#EXTINF:-1 tvg-id="247BoxTV.ir@SD",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AbalfadhlTV.ir",Abalfadhl TV (720p)
-https://t.northtelecom.org/ABALFADHLTV.m3u8
-#EXTINF:-1 tvg-id="",AFN Music
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir",AFN TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AFNTV.ir@SD",AFN TV
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 tvg-id="AlAlam.ir",Al Alam (360p) [Not 24/7]
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="AlWilayah.ir",Al Wilayah (720p) [Not 24/7]
-https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
-#EXTINF:-1 tvg-id="AsilTV.ir",Asil TV (720p)
+#EXTINF:-1 tvg-id="AlWilayah.ir@SD",Al Wilayah (720p)
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:-1 tvg-id="AsilTV.ir@SD",Asil TV (576p)
 https://live.asil.tv/asiltv/index.m3u8
-#EXTINF:-1 tvg-id="AssiratTV.ir",Assirat TV (700p)
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1 tvg-id="AVAFamily.ir",AVA Family (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AssiratTV.ir@SD",Assirat TV (576p)
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir@SD",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="",Hasti TV (1080p) [Not 24/7]
-https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1 tvg-id="",Health Media TV (720p)
-https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="",High Vision
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="",High Vision (1080p) [Not 24/7]
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-#EXTINF:-1 tvg-id="HispanTV.ir",Hispan TV
+#EXTINF:-1 tvg-id="HispanTV.ir@SD",Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HodHodFarsiTV.ir",HodHod Farsi
-https://hls.hodhod.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="iFilm2.ir",iFilm 2
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="iFilmArabic.ir",iFilm Arabic
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="iFilmEnglish.ir",iFilm English
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="iFilmPersian.ir",iFilm Persian
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IranJewishTV.ir",Iran Jewish TV (720p)
+#EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD",HodHod Farsi TV (1080p)
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#EXTINF:-1 tvg-id="iFilm2.ir@SD",iFilm 2
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD",iFilm Arabic
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD",iFilm English
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD",iFilm Persian
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="IranJewishTV.ir@SD",Iran Jewish TV
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
-#EXTINF:-1 tvg-id="IranPress.ir",Iran Press (480p) [Not 24/7]
-https://ip2stream.iranpress.com/hls/ip2.m3u8
-#EXTINF:-1 tvg-id="MihanTV.ir",Mihan TV (720p)
+#EXTINF:-1 tvg-id="IranPress.ir@SD",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir@SD",IRINN (576p)
+http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 tvg-id="MihanTV.ir@SD",Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8
-#EXTINF:-1 tvg-id="MohabatTV.ir",Mohabat TV (540p)
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD",Mohabat TV (540p)
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MohabatTV.ir",Mohabat TV (540p)
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD",Mohabat TV (540p)
 https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NegahTV.ir",Negah TV (720p)
-https://iptv.negahtv.com/negahtv/playlist.m3u8
-#EXTINF:-1 tvg-id="OXIRTV.ir",OXIR TV (720p)
+#EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD",National Iranian Congress TV
+https://tv.iraniancongress.com/stream/tv.m3u8
+#EXTINF:-1 tvg-id="OXIRTV.ir@SD",OXIR TV
 https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PayamJavanTV.ir",Payam Javan TV (720p) [Not 24/7]
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PayvandTV.ir",Payvand TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PayvandTV.ir@SD",Payvand TV (720p) [Not 24/7]
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 tvg-id="PBCTapeshTV.ir",PBC Tapesh TV (720p) [Not 24/7]
-https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir",Press TV (720p)
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PressTVFrench.ir",Press TV French (1080p)
+#EXTINF:-1 tvg-id="PressTV.ir@SD",Press TV (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir@SD",Press TV
+https://live.presstv.co.uk/hls/presstv.m3u8
+#EXTINF:-1 tvg-id="PressTVFrench.ir@SD",Press TV French (1080p)
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SNNTV.ir",SNN TV (720p) [Not 24/7]
-https://live2.snn.ir/hls/snn.m3u8
-#EXTINF:-1 tvg-id="PBCTapeshTV.ir",Tapesh Iran
-https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
-#EXTINF:-1 tvg-id="TBNNejatTV.ir",TBN Nejat TV (720p)
+#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD",RasoulallahTv (1080p)
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SNNTV.ir@SD",SNN TV [Not 24/7]
+https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD",TBN Nejat TV
 https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="VOX1.ir",VOX1 (720p) [Not 24/7]
-https://hls.vox1.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="YourTimeTV.ir",YourTime TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD",WiseHumanTv (1080p)
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+#EXTINF:-1 tvg-id="YourTimeTV.ir@SD",YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="YourTimeTV.ir@SD",YourTime TV
+https://live.yourtime.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD",Pooya TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
